@@ -16018,7 +16018,7 @@ a.fr-book-fit:focus-visible {
 
 :where(.interactive-map-preview, .uap-world-map-preview) {
   display: grid;
-  grid-template-rows: auto auto auto minmax(0, 1fr) auto;
+  grid-template-rows: clamp(8rem, 18vh, 11.4rem) minmax(1.48rem, auto) minmax(1.35rem, auto) minmax(3.15rem, auto) minmax(4.5rem, 1fr) auto;
   align-content: start;
   gap: clamp(0.34rem, 0.6vw, 0.54rem);
   align-self: stretch;
@@ -16032,6 +16032,10 @@ a.fr-book-fit:focus-visible {
   background: linear-gradient(180deg, rgba(255, 255, 255, 0.82), rgba(244, 250, 252, 0.66));
   box-shadow: 0 18px 42px rgba(14, 35, 55, 0.14), inset 0 1px 0 rgba(255, 255, 255, 0.78);
   backdrop-filter: blur(18px);
+}
+
+:where(.interactive-map-preview, .uap-world-map-preview):not(:has(img)) {
+  grid-template-rows: minmax(1.48rem, auto) minmax(1.35rem, auto) minmax(3.15rem, auto) minmax(4.5rem, 1fr) auto;
 }
 
 :where(.interactive-map-preview, .uap-world-map-preview):hover {
@@ -16050,9 +16054,14 @@ a.fr-book-fit:focus-visible {
 }
 
 :where(.interactive-map-preview, .uap-world-map-preview) strong {
-  display: block;
+  display: -webkit-box;
   font-size: clamp(1.05rem, 0.36vw + 0.98rem, 1.18rem);
   line-height: 1.14;
+  min-height: calc(1.14em * 2);
+  max-height: calc(1.14em * 2);
+  overflow: hidden;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
 }
 
 :where(.interactive-map-preview, .uap-world-map-preview) :where(span[data-interactive-map-preview-summary], span[data-uap-world-map-preview-summary]) {
@@ -16061,6 +16070,7 @@ a.fr-book-fit:focus-visible {
   font-size: 0.9rem;
   line-height: 1.5;
   min-height: calc(1.5em * 4);
+  max-height: calc(1.5em * 4);
   overflow: hidden;
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 4;

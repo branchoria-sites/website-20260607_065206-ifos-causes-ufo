@@ -7187,51 +7187,51 @@ body.right-sidebar-collapsed .layout-grid-article {
 
 /* Visual DNA overrides (deterministic per site) */
 :root {
-  --font-heading-stack: "Manrope", "Avenir Next", "Segoe UI", sans-serif;
-  --font-body-stack: "Merriweather", Georgia, serif;
-  --brand: #205fa8;
-  --brand-dark: #19457b;
-  --accent: #d07111;
-  --dna-bg-orb-1: rgba(32, 95, 168, 0.18);
-  --dna-bg-orb-2: rgba(208, 113, 17, 0.15);
-  --dna-bg-orb-3: rgba(23, 84, 152, 0.1);
-  --dna-bg-top: #f6f9fd;
-  --dna-bg-bottom: #edf2f9;
-  --dna-hero-start: rgba(234, 244, 255, 0.92);
-  --dna-hero-end: rgba(255, 244, 232, 0.84);
-  --dna-hero-glow: rgba(25, 69, 123, 0.2);
-  --dna-level-1-start: #205fa8;
-  --dna-level-1-end: #4e88d8;
-  --dna-level-2-start: #2a78b4;
-  --dna-level-2-end: #5eb6f2;
-  --dna-level-3-start: #a85f18;
-  --dna-level-3-end: #e29f59;
-  --dna-pill-border: rgba(32, 95, 168, 0.28);
-  --dna-pill-bg: linear-gradient(180deg, #ffffff 0%, #eaf1fc 100%);
-  --dna-pill-hover-border: rgba(25, 69, 123, 0.52);
-  --dna-pill-hover-bg: linear-gradient(180deg, #ffffff 0%, #dce8f9 100%);
-  --dna-pill-text: #19457b;
+  --font-heading-stack: "Space Grotesk", "Avenir Next", "Segoe UI", sans-serif;
+  --font-body-stack: "Source Serif 4", Georgia, serif;
+  --brand: #2a6777;
+  --brand-dark: #1f4b56;
+  --accent: #ca5f2e;
+  --dna-bg-orb-1: rgba(42, 103, 119, 0.17);
+  --dna-bg-orb-2: rgba(202, 95, 46, 0.14);
+  --dna-bg-orb-3: rgba(82, 129, 146, 0.1);
+  --dna-bg-top: #f7fafb;
+  --dna-bg-bottom: #edf2f3;
+  --dna-hero-start: rgba(236, 248, 252, 0.92);
+  --dna-hero-end: rgba(255, 241, 233, 0.84);
+  --dna-hero-glow: rgba(31, 75, 86, 0.2);
+  --dna-level-1-start: #2a6777;
+  --dna-level-1-end: #5593a3;
+  --dna-level-2-start: #3f6e9d;
+  --dna-level-2-end: #72a6d8;
+  --dna-level-3-start: #a55a35;
+  --dna-level-3-end: #e2986f;
+  --dna-pill-border: rgba(42, 103, 119, 0.27);
+  --dna-pill-bg: linear-gradient(180deg, #ffffff 0%, #ebf5f8 100%);
+  --dna-pill-hover-border: rgba(31, 75, 86, 0.5);
+  --dna-pill-hover-bg: linear-gradient(180deg, #ffffff 0%, #dcebf0 100%);
+  --dna-pill-text: #1f4b56;
   --dna-orb-pos-1: 12% 2%;
   --dna-orb-pos-2: 90% 22%;
   --dna-orb-pos-3: 56% 86%;
 }
 :root[data-theme="dark"] {
-  --brand: #8ac2ff;
-  --brand-dark: #cfe8ff;
-  --accent: #ffc483;
-  --dna-bg-orb-1: rgba(138, 194, 255, 0.2);
-  --dna-bg-orb-2: rgba(255, 196, 131, 0.16);
-  --dna-bg-orb-3: rgba(105, 170, 246, 0.16);
-  --dna-bg-top: #0a1324;
-  --dna-bg-bottom: #0d1629;
-  --dna-hero-start: rgba(19, 33, 58, 0.96);
-  --dna-hero-end: rgba(34, 25, 21, 0.9);
-  --dna-hero-glow: rgba(138, 194, 255, 0.24);
-  --dna-pill-border: rgba(138, 194, 255, 0.42);
-  --dna-pill-bg: linear-gradient(180deg, #1e3253 0%, #182842 100%);
-  --dna-pill-hover-border: rgba(255, 196, 131, 0.52);
-  --dna-pill-hover-bg: linear-gradient(180deg, #29456e 0%, #1e3253 100%);
-  --dna-pill-text: #e2efff;
+  --brand: #93d7ea;
+  --brand-dark: #d3f0f8;
+  --accent: #ffc39d;
+  --dna-bg-orb-1: rgba(147, 215, 234, 0.2);
+  --dna-bg-orb-2: rgba(255, 195, 157, 0.16);
+  --dna-bg-orb-3: rgba(125, 179, 197, 0.14);
+  --dna-bg-top: #0c141e;
+  --dna-bg-bottom: #0f1823;
+  --dna-hero-start: rgba(22, 36, 52, 0.95);
+  --dna-hero-end: rgba(42, 30, 26, 0.9);
+  --dna-hero-glow: rgba(147, 215, 234, 0.24);
+  --dna-pill-border: rgba(147, 215, 234, 0.4);
+  --dna-pill-bg: linear-gradient(180deg, #23364a 0%, #1a2a3b 100%);
+  --dna-pill-hover-border: rgba(255, 195, 157, 0.5);
+  --dna-pill-hover-bg: linear-gradient(180deg, #304963 0%, #23364a 100%);
+  --dna-pill-text: #e2f3f8;
 }
 body.motif-orbital {
   --dna-orb-pos-1: 12% 2%;
@@ -15870,17 +15870,23 @@ a.fr-book-fit:focus-visible {
   min-height: clamp(19rem, 54vh, 35rem);
 }
 
-:where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="world"] :where(.interactive-map-canvas, .uap-world-map-canvas) {
+:where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="world"] :where(.interactive-map-canvas, .uap-world-map-canvas),
+:where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="state"] :where(.interactive-map-canvas, .uap-world-map-canvas),
+:where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="us-states"] :where(.interactive-map-canvas, .uap-world-map-canvas) {
   align-self: start;
   aspect-ratio: 16 / 9;
   min-height: 0;
 }
 
-:where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="world"] :where(.interactive-map-preview, .uap-world-map-preview) {
+:where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="world"] :where(.interactive-map-preview, .uap-world-map-preview),
+:where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="state"] :where(.interactive-map-preview, .uap-world-map-preview),
+:where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="us-states"] :where(.interactive-map-preview, .uap-world-map-preview) {
   min-height: 0;
 }
 
-:where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="world"] :where(.interactive-map-canvas, .uap-world-map-canvas) svg {
+:where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="world"] :where(.interactive-map-canvas, .uap-world-map-canvas) svg,
+:where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="state"] :where(.interactive-map-canvas, .uap-world-map-canvas) svg,
+:where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="us-states"] :where(.interactive-map-canvas, .uap-world-map-canvas) svg {
   display: block;
   width: 100%;
   height: 100%;
@@ -16193,7 +16199,9 @@ a.fr-book-fit:focus-visible {
     grid-template-columns: minmax(0, 1fr);
   }
 
-  :where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="world"] :where(.interactive-map-canvas, .uap-world-map-canvas) {
+  :where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="world"] :where(.interactive-map-canvas, .uap-world-map-canvas),
+  :where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="state"] :where(.interactive-map-canvas, .uap-world-map-canvas),
+  :where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="us-states"] :where(.interactive-map-canvas, .uap-world-map-canvas) {
     aspect-ratio: 4 / 3;
   }
 
@@ -16243,4 +16251,57 @@ a.fr-book-fit:focus-visible {
 
 .page-contents-home .home-vertical-children.home-vertical-children-leaf-grid > .home-vertical-node > .home-vertical-node-row > .home-vertical-card {
   width: min(100%, 42rem);
+}
+
+/* Keep hierarchy cards informative and legible on narrow phone screens. */
+@media (max-width: 720px) {
+  body.page-home .home-vertical-bubble.ct-node {
+    height: auto;
+    min-height: 0;
+    overflow: visible;
+  }
+
+  body.page-home .home-vertical-node[data-semantic-level="l1"] > .home-vertical-node-row > .home-vertical-bubble.ct-node .ct-node-label {
+    display: -webkit-box;
+    overflow: hidden;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+  }
+
+  body.page-home .home-vertical-node[data-semantic-level="l1"] > .home-vertical-node-row > .home-vertical-bubble.ct-node .ct-node-title-full,
+  body.page-home .home-vertical-node[data-semantic-level="l2"] > .home-vertical-node-row > .home-vertical-bubble.ct-node .ct-node-title-full,
+  body.page-home .home-vertical-node[data-depth="4"] > .home-vertical-node-row > .home-vertical-bubble.ct-node .ct-node-title-full,
+  body.page-home .home-vertical-node[data-depth="5"] > .home-vertical-node-row > .home-vertical-bubble.ct-node .ct-node-title-full,
+  body.page-home .home-vertical-node[data-depth="6"] > .home-vertical-node-row > .home-vertical-bubble.ct-node .ct-node-title-full,
+  body.page-home .home-vertical-node[data-depth="7"] > .home-vertical-node-row > .home-vertical-bubble.ct-node .ct-node-title-full {
+    display: -webkit-box;
+    overflow: hidden;
+    line-height: 1.3;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
+  }
+
+  body.page-home .home-vertical-node[data-semantic-level="l2"] > .home-vertical-node-row > .home-vertical-bubble.ct-node .ct-node-label,
+  body.page-home .home-vertical-node[data-semantic-level="l3"] > .home-vertical-node-row > .home-vertical-bubble.ct-node .ct-node-label,
+  body.page-home .home-vertical-node[data-depth="4"] > .home-vertical-node-row > .home-vertical-bubble.ct-node .ct-node-label,
+  body.page-home .home-vertical-node[data-depth="5"] > .home-vertical-node-row > .home-vertical-bubble.ct-node .ct-node-label,
+  body.page-home .home-vertical-node[data-depth="6"] > .home-vertical-node-row > .home-vertical-bubble.ct-node .ct-node-label,
+  body.page-home .home-vertical-node[data-depth="7"] > .home-vertical-node-row > .home-vertical-bubble.ct-node .ct-node-label {
+    display: block;
+    overflow: visible;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: unset;
+  }
+
+  body.page-home .home-vertical-node[data-semantic-level="l2"] > .home-vertical-node-row > .home-vertical-bubble.ct-node .ct-node-summary,
+  body.page-home .home-vertical-node[data-depth="4"] > .home-vertical-node-row > .home-vertical-bubble.ct-node .ct-node-summary,
+  body.page-home .home-vertical-node[data-depth="5"] > .home-vertical-node-row > .home-vertical-bubble.ct-node .ct-node-summary,
+  body.page-home .home-vertical-node[data-depth="6"] > .home-vertical-node-row > .home-vertical-bubble.ct-node .ct-node-summary,
+  body.page-home .home-vertical-node[data-depth="7"] > .home-vertical-node-row > .home-vertical-bubble.ct-node .ct-node-summary {
+    display: -webkit-box;
+    overflow: hidden;
+    line-height: 1.42;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
+  }
 }

@@ -271,11 +271,11 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e_afterb
 Not every aircraft-related UFO report involves a sunlit contrail. Some sightings are dominated by the aircraft’s own exhaust. At night, during twilight, or against a dark background, a military jet using afterburners can produce a glowing plume so bright that observers see the exhaust clearly while the aircraft itself is nearly invisible. The result can resemble a luminous orb, a fiery cylinder, a rocket-like object, or an apparently self-luminous craft moving through the sky.
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e_afterburner_plumes_u_2e9045-Illustration-1-dark.svg" | relative_url }}" alt="Afterburners illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e_afterburner_plumes_u_2e9045-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e_afterburner_plumes_u_2e9045-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This effect is especially important in UFO reporting because witnesses often assume the brightest visible feature must be the object itself. In reality, the most conspicuous part may be a rapidly burning exhaust stream extending behind a much darker aircraft. Understanding how afterburners work helps explain why some dramatic sightings involve conventional military aviation rather than unknown craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Afterburner" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+This effect is especially important in UFO reporting because witnesses often assume the brightest visible feature must be the object itself. In reality, the most conspicuous part may be a rapidly burning exhaust stream extending behind a much darker aircraft. Understanding how afterburners work helps explain why some dramatic sightings involve conventional military aviation rather than unknown craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Afterburner" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 ## How Afterburners Produce Visible Glowing Exhaust
 
-An afterburner is an additional combustion system fitted to many high-performance military aircraft. Instead of relying solely on the engine’s main combustion chamber, extra fuel is injected into the hot exhaust stream behind the turbine and ignited. This dramatically increases thrust, often by tens of percent, but also creates an intensely hot and highly visible exhaust plume. <span class="citation-chip-wrap"><a class="citation-chip" href="https://migflug.com/jetflights/afterburners-the-controlled-explosion-behind-every-fighter/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: migflug.com">[MiGFlug Under daylight conditions]</a><span class="citation-popover" role="note"><span class="citation-popover-source">migflug.com</span><span class="citation-popover-snippet">Afterburners: The Controlled Explosion Behind Every Fighter4 Apr 2026 — It&#x27;s what happens when you dump raw jet fuel into a 1,500...</span></span></span>, observers usually notice the aircraft first. At night or in deep twilight, the visual balance can reverse. The fuselage may be little more than a silhouette, while the exhaust appears as a brilliant flame extending from the rear of the aircraft. Depending on viewing angle, distance, atmospheric haze, and camera exposure, the glowing plume may look detached from any recognisable aeroplane. <span class="citation-chip-wrap"><a class="citation-chip" href="https://migflug.com/jetflights/afterburners-the-controlled-explosion-behind-every-fighter/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: migflug.com">[MiGFlug]</a><span class="citation-popover" role="note"><span class="citation-popover-source">migflug.com</span><span class="citation-popover-snippet">Afterburners: The Controlled Explosion Behind Every Fighter4 Apr 2026 — It&#x27;s what happens when you dump raw jet fuel into a 1,500...</span></span></span>
+An afterburner is an additional combustion system fitted to many high-performance military aircraft. Instead of relying solely on the engine’s main combustion chamber, extra fuel is injected into the hot exhaust stream behind the turbine and ignited. This dramatically increases thrust, often by tens of percent, but also creates an intensely hot and highly visible exhaust plume.<span class="citation-chip-wrap"><a class="citation-chip" href="https://migflug.com/jetflights/afterburners-the-controlled-explosion-behind-every-fighter/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: migflug.com">[MiGFlug Under daylight conditions]</a><span class="citation-popover" role="note"><span class="citation-popover-source">migflug.com</span><span class="citation-popover-snippet">Afterburners: The Controlled Explosion Behind Every Fighter4 Apr 2026 — It&#x27;s what happens when you dump raw jet fuel into a 1,500...</span></span></span>, observers usually notice the aircraft first. At night or in deep twilight, the visual balance can reverse. The fuselage may be little more than a silhouette, while the exhaust appears as a brilliant flame extending from the rear of the aircraft. Depending on viewing angle, distance, atmospheric haze, and camera exposure, the glowing plume may look detached from any recognisable aeroplane.<span class="citation-chip-wrap"><a class="citation-chip" href="https://migflug.com/jetflights/afterburners-the-controlled-explosion-behind-every-fighter/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: migflug.com">[MiGFlug]</a><span class="citation-popover" role="note"><span class="citation-popover-source">migflug.com</span><span class="citation-popover-snippet">Afterburners: The Controlled Explosion Behind Every Fighter4 Apr 2026 — It&#x27;s what happens when you dump raw jet fuel into a 1,500...</span></span></span>
 
 Several factors make the exhaust especially conspicuous:
 
@@ -292,7 +292,7 @@ From many kilometres away, a witness may perceive only a bright moving light wit
 
 ## Why Mach Diamonds Can Look Artificial in Twilight
 
-One of the most striking visual features associated with afterburners is the appearance of shock diamonds, also known as Mach diamonds or thrust diamonds. These are repeating bright patterns that form in a supersonic exhaust plume as the escaping gases repeatedly compress and expand while adjusting to ambient atmospheric pressure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Shock_diamond" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Shock diamond</span><span class="citation-popover-snippet">Shock diamond</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Space_jellyfish" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Space jellyfish</span><span class="citation-popover-snippet">Space jellyfish</span></span></span>
+One of the most striking visual features associated with afterburners is the appearance of shock diamonds, also known as Mach diamonds or thrust diamonds. These are repeating bright patterns that form in a supersonic exhaust plume as the escaping gases repeatedly compress and expand while adjusting to ambient atmospheric pressure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Shock_diamond" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Shock diamond</span><span class="citation-popover-snippet">Shock diamond</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Space_jellyfish" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Space jellyfish</span><span class="citation-popover-snippet">Space jellyfish</span></span></span>
 
 To an engineer, these patterns are a normal consequence of high-speed gas dynamics. To an observer unfamiliar with jet propulsion, they can look remarkably unusual.
 
@@ -309,20 +309,20 @@ Mach diamonds create a sequence of bright zones separated by darker gaps. Seen f
 
 </div>
 
-Because the pattern is regular and symmetrical, witnesses sometimes interpret it as evidence of a structured vehicle rather than an exhaust phenomenon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/posts/lt-col-sunil-kumar-9b754517_shockdiamonds-machdiamonds-jetengines-activity-7315325683252043776-TQEa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[LinkedIn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-snippet">The Science of Shock Diamonds in Fighter JetsThe diamond patterns form due to fluid dynamics as the gas adjusts to ambient pressure. Perf...</span></span></span>
+Because the pattern is regular and symmetrical, witnesses sometimes interpret it as evidence of a structured vehicle rather than an exhaust phenomenon.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/posts/lt-col-sunil-kumar-9b754517_shockdiamonds-machdiamonds-jetengines-activity-7315325683252043776-TQEa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[LinkedIn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-snippet">The Science of Shock Diamonds in Fighter JetsThe diamond patterns form due to fluid dynamics as the gas adjusts to ambient pressure. Perf...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e_afterburner_plumes_u_2e9045-Illustration-2-dark.svg" | relative_url }}" alt="Afterburners illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e_afterburner_plumes_u_2e9045-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e_afterburner_plumes_u_2e9045-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Twilight Enhances the Illusion
 
 Twilight conditions are particularly deceptive. The sky may be dark enough to conceal the aircraft while still providing enough contrast for the hot exhaust plume to stand out vividly. Under those conditions, the diamonds can appear suspended in space with no visible source.
 
-Photographs from military aviation and aerospace programmes frequently show bright afterburner plumes with clearly visible diamond patterns extending behind otherwise dark aircraft. NASA imagery of the X-59, for example, highlights the striking visibility of these shock structures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/NASAaero/posts/look-at-that-glow-check-out-the-powerful-afterburner-exhaust-coming-from-the-tai/1039704841534662/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">NASA Aeronautics</span><span class="citation-popover-snippet">NASA Aeronautics - FacebookLook at that glow 💎🔥 Check out the powerful afterburner exhaust coming from the tail of NASA&#x27;s superso...</span></span></span>
+Photographs from military aviation and aerospace programmes frequently show bright afterburner plumes with clearly visible diamond patterns extending behind otherwise dark aircraft. NASA imagery of the X-59, for example, highlights the striking visibility of these shock structures.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/NASAaero/posts/look-at-that-glow-check-out-the-powerful-afterburner-exhaust-coming-from-the-tai/1039704841534662/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">NASA Aeronautics</span><span class="citation-popover-snippet">NASA Aeronautics - FacebookLook at that glow 💎🔥 Check out the powerful afterburner exhaust coming from the tail of NASA&#x27;s superso...</span></span></span>
 
 ## Why Witnesses Often Misjudge What They Are Seeing
 
 Human perception tends to identify the brightest feature in a scene as the object of interest. With afterburner sightings, that assumption can be misleading.
 
-A fighter travelling roughly towards or away from an observer may show little apparent sideways motion. Combined with a brilliant exhaust plume, this can create the impression of a hovering or slowly moving luminous object. The aircraft's body contributes very little visible information, so observers may estimate its size, distance, and speed incorrectly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Twilight_phenomenon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Twilight phenomenonTwilight phenomenon is produced when exhaust particles from missile or rocket propellant left in the vapor trail of...</span></span></span>
+A fighter travelling roughly towards or away from an observer may show little apparent sideways motion. Combined with a brilliant exhaust plume, this can create the impression of a hovering or slowly moving luminous object. The aircraft's body contributes very little visible information, so observers may estimate its size, distance, and speed incorrectly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Twilight_phenomenon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Twilight phenomenonTwilight phenomenon is produced when exhaust particles from missile or rocket propellant left in the vapor trail of...</span></span></span>
 
 Camera technology can amplify the confusion. Digital zoom, low-light noise reduction, atmospheric shimmer, and overexposure frequently enlarge bright regions while suppressing dim details. A distant afterburner can therefore appear as a large glowing shape with no discernible aircraft attached.
 
@@ -334,9 +334,9 @@ This is one reason why some photographs and videos show apparently mysterious li
 
 Although both phenomena can generate UFO reports, they arise from different mechanisms and often have different visual signatures.
 
-A sunlit contrail is primarily an illuminated cloud of ice crystals produced from aircraft exhaust in cold upper air. The dramatic appearance comes from sunlight striking the trail while observers on the ground are in shadow. The brightness is largely reflected sunlight. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Afterburner" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+A sunlit contrail is primarily an illuminated cloud of ice crystals produced from aircraft exhaust in cold upper air. The dramatic appearance comes from sunlight striking the trail while observers on the ground are in shadow. The brightness is largely reflected sunlight.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Afterburner" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
-An afterburner plume, by contrast, is a combustion phenomenon. The glow originates from extremely hot gases and ongoing fuel burning within the exhaust stream itself. The effect does not require the special lighting geometry that makes [contrails]({{ 'contrails/' | relative_url }}) appear luminous. MiGFlug Useful distinctions include: <span class="citation-chip-wrap"><a class="citation-chip" href="https://migflug.com/jetflights/afterburners-the-controlled-explosion-behind-every-fighter/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: migflug.com">[migflug.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">migflug.com</span><span class="citation-popover-snippet">Afterburners: The Controlled Explosion Behind Every Fighter4 Apr 2026 — It&#x27;s what happens when you dump raw jet fuel into a 1,500...</span></span></span>
+An afterburner plume, by contrast, is a combustion phenomenon. The glow originates from extremely hot gases and ongoing fuel burning within the exhaust stream itself. The effect does not require the special lighting geometry that makes [contrails]({{ 'contrails/' | relative_url }}) appear luminous. MiGFlug Useful distinctions include:<span class="citation-chip-wrap"><a class="citation-chip" href="https://migflug.com/jetflights/afterburners-the-controlled-explosion-behind-every-fighter/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: migflug.com">[migflug.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">migflug.com</span><span class="citation-popover-snippet">Afterburners: The Controlled Explosion Behind Every Fighter4 Apr 2026 — It&#x27;s what happens when you dump raw jet fuel into a 1,500...</span></span></span>
 
 FeatureSunlit ContrailAfterburner PlumeMain source of visibilityReflected sunlight from ice crystalsHot, glowing exhaust gasesTypical aircraftAirliners and military aircraft at altitudePrimarily military high-performance jetsAppearanceCloud-like trail, often white, orange, or redBright flame-like exhaust, sometimes blue, orange, or violetStructured patternsUsually diffuseMay show Mach diamondsRequires low-sun geometryOften yesNo, though darkness increases visibility
 
@@ -348,199 +348,199 @@ Afterburner sightings occupy a useful middle ground between ordinary aircraft ob
 
 The combination of intense brightness, structured shock-diamond patterns, unusual colours, and the concealment of the airframe can produce genuinely striking observations. A witness may accurately report a brilliant, apparently self-luminous object while misidentifying the source of the light.
 
-For investigators examining UFO reports, recognising the visual signature of afterburner exhaust is important because it explains a category of sightings that are not contrails, [meteors]({{ 'meteors/' | relative_url }}), rockets, or exotic craft. In these cases, the mystery often arises from a simple reversal of expectations: the jet is present, but the exhaust is what dominates the sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nationalinterest.org/blog/buzz/why-do-fighter-jets-get-shock-diamonds-hk-041326" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalinterest.org">[The National Interest]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalinterest.org</span><span class="citation-popover-title">why do fighter jets get shock diamonds hk 041326</span><span class="citation-popover-snippet">“Afterburning” takes place when fuel is injected directly into the engine&#x27;s exhaust stream...Read more...</span></span></span>
+For investigators examining UFO reports, recognising the visual signature of afterburner exhaust is important because it explains a category of sightings that are not contrails, [meteors]({{ 'meteors/' | relative_url }}), rockets, or exotic craft. In these cases, the mystery often arises from a simple reversal of expectations: the jet is present, but the exhaust is what dominates the sky.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nationalinterest.org/blog/buzz/why-do-fighter-jets-get-shock-diamonds-hk-041326" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalinterest.org">[The National Interest]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalinterest.org</span><span class="citation-popover-title">why do fighter jets get shock diamonds hk 041326</span><span class="citation-popover-snippet">“Afterburning” takes place when fuel is injected directly into the engine&#x27;s exhaust stream...Read more...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e_afterburner_plumes_u_2e9045-Illustration-3-dark.svg" | relative_url }}" alt="Afterburners illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e_afterburner_plumes_u_2e9045-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e_afterburner_plumes_u_2e9045-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Jet Exhaust Becomes the Bright Object. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Jet Exhaust Becomes the Bright Object. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Explains military aircraft technology relevant to exhaust-plume sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains military aircraft technology relevant to exhaust-plume sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Discusses ordinary explanations for unusual aerial observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses ordinary explanations for unusual aerial observations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Useful framework for evaluating extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful framework for evaluating extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Boyd+by+Robert+Coram&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Boyd on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wWHIpt3EowQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Boyd" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Boyd+by+Robert+Coram&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Boyd">Boyd</a>
-        </h4>
-        <p class="fr-book-author">By Robert Coram</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Boyd+by+Robert+Coram&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Boyd on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wWHIpt3EowQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Boyd" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Boyd+by+Robert+Coram&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Boyd">Boyd</a>
+</h4>
+<p class="fr-book-author">By Robert Coram</p>
         
-        <p class="fr-book-desc">Provides context on fighter aircraft performance and perception.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Boyd+by+Robert+Coram&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context on fighter aircraft performance and perception.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Boyd+by+Robert+Coram&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-jet-exhaust-becomes-the-bright-object-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="when-jet-exhaust-becomes-the-bright-object-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Del Prado Diecast Model Aircraft Russian MiG Jet Fighters X2"><img src="https://i.ebayimg.com/images/g/lZYAAeSwFNtqKoX9/s-l225.jpg" alt="Listing image for Del Prado Diecast Model Aircraft Russian MiG Jet Fighters X2" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-jet-exhaust-becomes-the-bright-object-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="when-jet-exhaust-becomes-the-bright-object-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">Del Prado Diecast Model Aircraft Russian MiG Jet Fighters X2</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-jet-exhaust-becomes-the-bright-object-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="when-jet-exhaust-becomes-the-bright-object-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fighter jet model">Search <span data-ebay-domain-label>eBay.co.uk</span>: fighter jet model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-jet-exhaust-becomes-the-bright-object-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="when-jet-exhaust-becomes-the-bright-object-fighter-jet-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-jet-exhaust-becomes-the-bright-object-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="when-jet-exhaust-becomes-the-bright-object-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Del Prado Diecast Model Aircraft Russian MiG Jet Fighters X2"><img src="https://i.ebayimg.com/images/g/lZYAAeSwFNtqKoX9/s-l225.jpg" alt="Listing image for Del Prado Diecast Model Aircraft Russian MiG Jet Fighters X2" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-jet-exhaust-becomes-the-bright-object-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="when-jet-exhaust-becomes-the-bright-object-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">Del Prado Diecast Model Aircraft Russian MiG Jet Fighters X2</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-jet-exhaust-becomes-the-bright-object-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="when-jet-exhaust-becomes-the-bright-object-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fighter jet model">Search<span data-ebay-domain-label>eBay.co.uk</span>: fighter jet model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-jet-exhaust-becomes-the-bright-object-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="when-jet-exhaust-becomes-the-bright-object-fighter-jet-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-jet-exhaust-becomes-the-bright-object-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="when-jet-exhaust-becomes-the-bright-object-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1/100 Scale A-10 Thunderbolt II Warthog Diecast Metal Fighter Jet Model"><img src="https://i.ebayimg.com/images/g/qjAAAOSwmXpoTA~u/s-l225.jpg" alt="Listing image for 1/100 Scale A-10 Thunderbolt II Warthog Diecast Metal Fighter Jet Model" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-jet-exhaust-becomes-the-bright-object-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="when-jet-exhaust-becomes-the-bright-object-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">1/100 Scale A-10 Thunderbolt II Warthog Diecast Metal Fighter Jet Model</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-jet-exhaust-becomes-the-bright-object-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="when-jet-exhaust-becomes-the-bright-object-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fighter jet model">Search <span data-ebay-domain-label>eBay.co.uk</span>: fighter jet model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-jet-exhaust-becomes-the-bright-object-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="when-jet-exhaust-becomes-the-bright-object-fighter-jet-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-jet-exhaust-becomes-the-bright-object-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="when-jet-exhaust-becomes-the-bright-object-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1/100 Scale A-10 Thunderbolt II Warthog Diecast Metal Fighter Jet Model"><img src="https://i.ebayimg.com/images/g/qjAAAOSwmXpoTA~u/s-l225.jpg" alt="Listing image for 1/100 Scale A-10 Thunderbolt II Warthog Diecast Metal Fighter Jet Model" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-jet-exhaust-becomes-the-bright-object-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="when-jet-exhaust-becomes-the-bright-object-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">1/100 Scale A-10 Thunderbolt II Warthog Diecast Metal Fighter Jet Model</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-jet-exhaust-becomes-the-bright-object-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="when-jet-exhaust-becomes-the-bright-object-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fighter jet model">Search<span data-ebay-domain-label>eBay.co.uk</span>: fighter jet model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-jet-exhaust-becomes-the-bright-object-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="when-jet-exhaust-becomes-the-bright-object-fighter-jet-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-jet-exhaust-becomes-the-bright-object-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="when-jet-exhaust-becomes-the-bright-object-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:72 French Fighter Jet Model Airplane Toy for Office Shelf Livingroom"><img src="https://i.ebayimg.com/images/g/NncAAeSw7z5ppdGO/s-l225.jpg" alt="Listing image for 1:72 French Fighter Jet Model Airplane Toy for Office Shelf Livingroom" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-jet-exhaust-becomes-the-bright-object-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="when-jet-exhaust-becomes-the-bright-object-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">1:72 French Fighter Jet Model Airplane Toy for Office Shelf Livingroom</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-jet-exhaust-becomes-the-bright-object-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="when-jet-exhaust-becomes-the-bright-object-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fighter jet model">Search <span data-ebay-domain-label>eBay.co.uk</span>: fighter jet model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-jet-exhaust-becomes-the-bright-object-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="when-jet-exhaust-becomes-the-bright-object-fighter-jet-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-jet-exhaust-becomes-the-bright-object-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="when-jet-exhaust-becomes-the-bright-object-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:72 French Fighter Jet Model Airplane Toy for Office Shelf Livingroom"><img src="https://i.ebayimg.com/images/g/NncAAeSw7z5ppdGO/s-l225.jpg" alt="Listing image for 1:72 French Fighter Jet Model Airplane Toy for Office Shelf Livingroom" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-jet-exhaust-becomes-the-bright-object-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="when-jet-exhaust-becomes-the-bright-object-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">1:72 French Fighter Jet Model Airplane Toy for Office Shelf Livingroom</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-jet-exhaust-becomes-the-bright-object-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="when-jet-exhaust-becomes-the-bright-object-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fighter jet model">Search<span data-ebay-domain-label>eBay.co.uk</span>: fighter jet model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-jet-exhaust-becomes-the-bright-object-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="when-jet-exhaust-becomes-the-bright-object-fighter-jet-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-jet-exhaust-becomes-the-bright-object-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="when-jet-exhaust-becomes-the-bright-object-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:100 US Navy F/A-18 Diecast Model Jet - Alloy Fighter with Stand"><img src="https://i.ebayimg.com/images/g/1wkAAeSweJZoaoKZ/s-l225.jpg" alt="Listing image for 1:100 US Navy F/A-18 Diecast Model Jet - Alloy Fighter with Stand" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-jet-exhaust-becomes-the-bright-object-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="when-jet-exhaust-becomes-the-bright-object-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">1:100 US Navy F/A-18 Diecast Model Jet - Alloy Fighter with Stand</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-jet-exhaust-becomes-the-bright-object-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="when-jet-exhaust-becomes-the-bright-object-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fighter jet model">Search <span data-ebay-domain-label>eBay.co.uk</span>: fighter jet model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-jet-exhaust-becomes-the-bright-object-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="when-jet-exhaust-becomes-the-bright-object-fighter-jet-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-jet-exhaust-becomes-the-bright-object-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="when-jet-exhaust-becomes-the-bright-object-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-jet-exhaust-becomes-the-bright-object-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="when-jet-exhaust-becomes-the-bright-object-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:100 US Navy F/A-18 Diecast Model Jet - Alloy Fighter with Stand"><img src="https://i.ebayimg.com/images/g/1wkAAeSweJZoaoKZ/s-l225.jpg" alt="Listing image for 1:100 US Navy F/A-18 Diecast Model Jet - Alloy Fighter with Stand" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-jet-exhaust-becomes-the-bright-object-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="when-jet-exhaust-becomes-the-bright-object-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">1:100 US Navy F/A-18 Diecast Model Jet - Alloy Fighter with Stand</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-jet-exhaust-becomes-the-bright-object-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="when-jet-exhaust-becomes-the-bright-object-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fighter jet model">Search<span data-ebay-domain-label>eBay.co.uk</span>: fighter jet model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-jet-exhaust-becomes-the-bright-object-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="when-jet-exhaust-becomes-the-bright-object-fighter-jet-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-jet-exhaust-becomes-the-bright-object-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="when-jet-exhaust-becomes-the-bright-object-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -556,7 +556,7 @@ For investigators examining UFO reports, recognising the visual signature of aft
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -576,7 +576,7 @@ For investigators examining UFO reports, recognising the visual signature of aft
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -608,7 +608,7 @@ For investigators examining UFO reports, recognising the visual signature of aft
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -660,7 +660,7 @@ For investigators examining UFO reports, recognising the visual signature of aft
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -705,7 +705,7 @@ For investigators examining UFO reports, recognising the visual signature of aft
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -746,111 +746,111 @@ For investigators examining UFO reports, recognising the visual signature of aft
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Afterburner" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Afterburner</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Afterburner" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Afterburner</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: migflug.com  
-   Link: <a href="https://migflug.com/jetflights/afterburners-the-controlled-explosion-behind-every-fighter/" target="_blank" rel="noopener noreferrer nofollow">https://migflug.com/jetflights/afterburners-the-controlled-explosion-behind-every-fighter/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Afterburners: The Controlled Explosion Behind Every Fighter4 Apr 2026 — It&#x27;s what happens when you dump raw jet fuel into a 1,500...</p></details>
+   Link:<a href="https://migflug.com/jetflights/afterburners-the-controlled-explosion-behind-every-fighter/" target="_blank" rel="noopener noreferrer nofollow">https://migflug.com/jetflights/afterburners-the-controlled-explosion-behind-every-fighter/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Afterburners: The Controlled Explosion Behind Every Fighter4 Apr 2026 — It&#x27;s what happens when you dump raw jet fuel into a 1,500...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Shock diamond  
-   Link: <a href="https://en.wikipedia.org/wiki/Shock_diamond" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Shock_diamond</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Shock_diamond" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Shock_diamond</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/lt-col-sunil-kumar-9b754517_shockdiamonds-machdiamonds-jetengines-activity-7315325683252043776-TQEa" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/lt-col-sunil-kumar-9b754517_shockdiamonds-machdiamonds-jetengines-activity-7315325683252043776-TQEa</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Science of Shock Diamonds in Fighter JetsThe diamond patterns form due to fluid dynamics as the gas adjusts to ambient pressure. Perf...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/lt-col-sunil-kumar-9b754517_shockdiamonds-machdiamonds-jetengines-activity-7315325683252043776-TQEa" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/lt-col-sunil-kumar-9b754517_shockdiamonds-machdiamonds-jetengines-activity-7315325683252043776-TQEa</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Science of Shock Diamonds in Fighter JetsThe diamond patterns form due to fluid dynamics as the gas adjusts to ambient pressure. Perf...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: facebook.com  
    Title: NASA Aeronautics  
-   Link: <a href="https://www.facebook.com/NASAaero/posts/look-at-that-glow-check-out-the-powerful-afterburner-exhaust-coming-from-the-tai/1039704841534662/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NASAaero/posts/look-at-that-glow-check-out-the-powerful-afterburner-exhaust-coming-from-the-tai/1039704841534662/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Aeronautics - FacebookLook at that glow 💎🔥 Check out the powerful afterburner exhaust coming from the tail of NASA&#x27;s superso...</p></details>
+   Link:<a href="https://www.facebook.com/NASAaero/posts/look-at-that-glow-check-out-the-powerful-afterburner-exhaust-coming-from-the-tai/1039704841534662/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NASAaero/posts/look-at-that-glow-check-out-the-powerful-afterburner-exhaust-coming-from-the-tai/1039704841534662/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Aeronautics - FacebookLook at that glow 💎🔥 Check out the powerful afterburner exhaust coming from the tail of NASA&#x27;s superso...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: facebook.com  
    Title: shining bright like a diamond nasas x 59 lights up the night sky with its unique  
-   Link: <a href="https://www.facebook.com/nasaarmstrong/posts/shining-bright-like-a-diamond-nasas-x-59-lights-up-the-night-sky-with-its-unique/1026071666220692/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nasaarmstrong/posts/shining-bright-like-a-diamond-nasas-x-59-lights-up-the-night-sky-with-its-unique/1026071666220692/</a>  
+   Link:<a href="https://www.facebook.com/nasaarmstrong/posts/shining-bright-like-a-diamond-nasas-x-59-lights-up-the-night-sky-with-its-unique/1026071666220692/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nasaarmstrong/posts/shining-bright-like-a-diamond-nasas-x-59-lights-up-the-night-sky-with-its-unique/1026071666220692/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Space jellyfish  
-   Link: <a href="https://en.wikipedia.org/wiki/Space_jellyfish" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Space_jellyfish</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Space_jellyfish" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Space_jellyfish</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Twilight_phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Twilight_phenomenon</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Twilight phenomenonTwilight phenomenon is produced when exhaust particles from missile or rocket propellant left in the vapor trail of...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Twilight_phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Twilight_phenomenon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Twilight phenomenonTwilight phenomenon is produced when exhaust particles from missile or rocket propellant left in the vapor trail of...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/LindaSheffieldMiller/posts/shock-diamondsthe-pattern-of-evenly-spaced-rings-sometimes-visible-in-the-exhaus/2516131525188010/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LindaSheffieldMiller/posts/shock-diamondsthe-pattern-of-evenly-spaced-rings-sometimes-visible-in-the-exhaus/2516131525188010/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>st of an engine is typically referred to as shock diamonds or Mach...</p></details>
+   Link:<a href="https://www.facebook.com/LindaSheffieldMiller/posts/shock-diamondsthe-pattern-of-evenly-spaced-rings-sometimes-visible-in-the-exhaus/2516131525188010/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LindaSheffieldMiller/posts/shock-diamondsthe-pattern-of-evenly-spaced-rings-sometimes-visible-in-the-exhaus/2516131525188010/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>st of an engine is typically referred to as shock diamonds or Mach...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nationalinterest.org  
    Title: why do fighter jets get shock diamonds hk 041326  
-   Link: <a href="https://nationalinterest.org/blog/buzz/why-do-fighter-jets-get-shock-diamonds-hk-041326" target="_blank" rel="noopener noreferrer nofollow">https://nationalinterest.org/blog/buzz/why-do-fighter-jets-get-shock-diamonds-hk-041326</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>“Afterburning” takes place when fuel is injected directly into the engine&#x27;s exhaust stream...Read more...</p></details>
+   Link:<a href="https://nationalinterest.org/blog/buzz/why-do-fighter-jets-get-shock-diamonds-hk-041326" target="_blank" rel="noopener noreferrer nofollow">https://nationalinterest.org/blog/buzz/why-do-fighter-jets-get-shock-diamonds-hk-041326</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>“Afterburning” takes place when fuel is injected directly into the engine&#x27;s exhaust stream...Read more...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: universemagazine.com  
    Title: known flying objects sky phenomena we often mistake for ufos  
-   Link: <a href="https://universemagazine.com/en/known-flying-objects-sky-phenomena-we-often-mistake-for-ufos/?srsltid=AfmBOorNFNr9zm0isJnP0Ke6DGmRSrLvzNLX4Mii8RhAP-g1c8BHOXI3" target="_blank" rel="noopener noreferrer nofollow">https://universemagazine.com/en/known-flying-objects-sky-phenomena-we-often-mistake-for-ufos/?srsltid=AfmBOorNFNr9zm0isJnP0Ke6DGmRSrLvzNLX4Mii8RhAP-g1c8BHOXI3</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Known Flying Objects: Sky Phenomena We Often Mistake...12 Oct 2024 — In this article, we delve into the subject of UFOs, particularly th...</p></details>
+   Link:<a href="https://universemagazine.com/en/known-flying-objects-sky-phenomena-we-often-mistake-for-ufos/?srsltid=AfmBOorNFNr9zm0isJnP0Ke6DGmRSrLvzNLX4Mii8RhAP-g1c8BHOXI3" target="_blank" rel="noopener noreferrer nofollow">https://universemagazine.com/en/known-flying-objects-sky-phenomena-we-often-mistake-for-ufos/?srsltid=AfmBOorNFNr9zm0isJnP0Ke6DGmRSrLvzNLX4Mii8RhAP-g1c8BHOXI3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Known Flying Objects: Sky Phenomena We Often Mistake...12 Oct 2024 — In this article, we delve into the subject of UFOs, particularly th...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/C_PaOeCp1ex/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/C_PaOeCp1ex/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>shockwaves that occur in the supersonic exhaust plume of a jet engine or rocket...</p></details>
+   Link:<a href="https://www.instagram.com/reel/C_PaOeCp1ex/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/C_PaOeCp1ex/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>shockwaves that occur in the supersonic exhaust plume of a jet engine or rocket...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DX7yyicEXNv/?img_index=13" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DX7yyicEXNv/?img_index=13</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>hile generating violent supersonic pressure waves known as shock...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/p/DX7yyicEXNv/?img_index=13" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DX7yyicEXNv/?img_index=13</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>hile generating violent supersonic pressure waves known as shock...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: instagram.com  
    Title: The F/A-18 Hornet doesn't just take off it erupts  
-   Link: <a href="https://www.instagram.com/reel/DY0wBD0scxz/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DY0wBD0scxz/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Twin...A night launch amplifies everything the exhaust plume glowing in the dark, the vibration felt in your chest from miles away. It&#x27;s...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DY0wBD0scxz/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DY0wBD0scxz/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Twin...A night launch amplifies everything the exhaust plume glowing in the dark, the vibration felt in your chest from miles away. It&#x27;s...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/164uga8/i_pilot_came_head_on_with_an_object_glowing_green/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/164uga8/i_pilot_came_head_on_with_an_object_glowing_green/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Posting Guidelines for Sightings.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/164uga8/i_pilot_came_head_on_with_an_object_glowing_green/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/164uga8/i_pilot_came_head_on_with_an_object_glowing_green/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Posting Guidelines for Sightings.Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: robedgcumbe.com  
    Title: shock diamonds and the f 22  
-   Link: <a href="https://robedgcumbe.com/shock-diamonds-and-the-f-22/" target="_blank" rel="noopener noreferrer nofollow">https://robedgcumbe.com/shock-diamonds-and-the-f-22/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Shock Diamonds and the F-229 Dec 2020 — These diamond patterns are a function of the flow being symmetrical since most engines have round...</p></details>
+   Link:<a href="https://robedgcumbe.com/shock-diamonds-and-the-f-22/" target="_blank" rel="noopener noreferrer nofollow">https://robedgcumbe.com/shock-diamonds-and-the-f-22/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Shock Diamonds and the F-229 Dec 2020 — These diamond patterns are a function of the flow being symmetrical since most engines have round...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: How an AFTERBURNER works  
-   Link: <a href="https://www.youtube.com/watch?v=g3awv7eeubA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=g3awv7eeubA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Explained by CAPTAIN JOEHow a TURBOJET Engine works - Explained by CAPTAIN JOE. Captain Joe &amp;middot; 166K views; WHAT ELSE CAN A JET ENG...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=g3awv7eeubA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=g3awv7eeubA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Explained by CAPTAIN JOEHow a TURBOJET Engine works - Explained by CAPTAIN JOE. Captain Joe &amp;middot; 166K views; WHAT ELSE CAN A JET ENG...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: skyatnightmagazine.com  
    Title: things mistaken for ufos  
-   Link: <a href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Have you just seen a strange, spiral-shaped glowing cloud in the night sky?Read more...</p></details>
+   Link:<a href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Have you just seen a strange, spiral-shaped glowing cloud in the night sky?Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: aviation.stackexchange.com  
    Title: why do western fighters afterburner glow is reddish orange while eastern bloc f  
-   Link: <a href="https://aviation.stackexchange.com/questions/59227/why-do-western-fighters-afterburner-glow-is-reddish-orange-while-eastern-bloc-f" target="_blank" rel="noopener noreferrer nofollow">https://aviation.stackexchange.com/questions/59227/why-do-western-fighters-afterburner-glow-is-reddish-orange-while-eastern-bloc-f</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>I&#x27;m not sure of...Read more...</p></details>
+   Link:<a href="https://aviation.stackexchange.com/questions/59227/why-do-western-fighters-afterburner-glow-is-reddish-orange-while-eastern-bloc-f" target="_blank" rel="noopener noreferrer nofollow">https://aviation.stackexchange.com/questions/59227/why-do-western-fighters-afterburner-glow-is-reddish-orange-while-eastern-bloc-f</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I&#x27;m not sure of...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/shorts/wo88FlfHw4E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/wo88FlfHw4E</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>supersonic exhaust plume of a...</p></details>
+   Link:<a href="https://www.youtube.com/shorts/wo88FlfHw4E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/wo88FlfHw4E</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>supersonic exhaust plume of a...</p></details>

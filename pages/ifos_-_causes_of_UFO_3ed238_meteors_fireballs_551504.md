@@ -503,7 +503,7 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_meteors_fireballs_551504-overv
 Meteors, [fireballs]({{ 'fireballs/' | relative_url }}) and re-entering debris are among the most common dramatic triggers for UFO reports because they can look sudden, bright, fast, silent, explosive or strangely fragmented. A witness may see a green-white streak split into pieces, a slow procession of glowing fragments, a persistent luminous trail, or a flash followed minutes later by a boom. Without the [missing context]({{ 'missing-context/' | relative_url }}) — entry speed, direction, duration, camera records, satellite tracking, meteor networks and public reports from other locations — a real sky event can easily begin life as an unidentified flying object.
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_meteors_fireballs_551504-overview.webp" | relative_url }}" alt="Overview image for Meteors" loading="eager" decoding="sync" fetchpriority="high">
-The key distinction is that natural meteors and human-made re-entries are not the same thing. A meteor is the visible path of a natural meteoroid entering the [atmosphere]({{ 'atmosphere/' | relative_url }}) at high speed; a fireball is an unusually bright meteor; a meteorite is what reaches the ground. Re-entering debris is human-made orbital material, such as a rocket body, satellite or spacecraft fragment, burning up as it falls back through the atmosphere. Both can generate spectacular reports, but they leave different clues. NASA’s fireball guidance defines meteors as visible paths of high-speed meteoroids and fireballs as unusually bright meteors, while NASA’s meteorite explainer separates meteoroids, meteors and meteorites by whether the material is in space, burning in the atmosphere or recovered on the ground. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cneos.jpl.nasa.gov/fireballs/intro.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cneos.jpl.nasa.gov">[CNEOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cneos.jpl.nasa.gov</span><span class="citation-popover-snippet">Fireballs and bolidesMeteors, or “shooting stars,” are the visible paths of meteoroids that have entered the Earth&#x27;s atmosphere at h...</span></span></span>
+The key distinction is that natural meteors and human-made re-entries are not the same thing. A meteor is the visible path of a natural meteoroid entering the [atmosphere]({{ 'atmosphere/' | relative_url }}) at high speed; a fireball is an unusually bright meteor; a meteorite is what reaches the ground. Re-entering debris is human-made orbital material, such as a rocket body, satellite or spacecraft fragment, burning up as it falls back through the atmosphere. Both can generate spectacular reports, but they leave different clues. NASA’s fireball guidance defines meteors as visible paths of high-speed meteoroids and fireballs as unusually bright meteors, while NASA’s meteorite explainer separates meteoroids, meteors and meteorites by whether the material is in space, burning in the atmosphere or recovered on the ground.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cneos.jpl.nasa.gov/fireballs/intro.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cneos.jpl.nasa.gov">[CNEOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cneos.jpl.nasa.gov</span><span class="citation-popover-snippet">Fireballs and bolidesMeteors, or “shooting stars,” are the visible paths of meteoroids that have entered the Earth&#x27;s atmosphere at h...</span></span></span>
 
 ## Why fireballs produce convincing UFO reports
 
@@ -511,26 +511,26 @@ A bright meteor is not usually a subtle sight. It can cross a large part of the 
 
 The “UFO” quality often comes from three perceptual traps. First, the object has no familiar scale: a small meteoroid high in the atmosphere can look like a large craft at aircraft height. Second, a fireball’s apparent path depends on viewing angle; people in different towns may describe the same event as crossing different parts of the sky. Third, sound can arrive late or not at all. A meteor may flash overhead and produce a sonic boom later, which makes the light and noise feel disconnected unless the observer knows how far away the event was.
 
-Large fireballs are rare enough to surprise people but common enough to be a recurring source of reports. NASA’s Center for Near-Earth Object Studies maintains a fireball and bolide database based on U.S. Government sensor detections, and the American Meteor Society and International Meteor Organization collect public fireball observations from witnesses. These reporting systems matter because one person’s “unknown object” can become a triangulated atmospheric event when hundreds of observations, videos and sensor detections are compared. CNEOS <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.amsmeteors.org/fireballs/fireball-report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-title">fireball report</span><span class="citation-popover-snippet">fireball report</span></span></span>
+Large fireballs are rare enough to surprise people but common enough to be a recurring source of reports. NASA’s Center for Near-Earth Object Studies maintains a fireball and bolide database based on U.S. Government sensor detections, and the American Meteor Society and International Meteor Organization collect public fireball observations from witnesses. These reporting systems matter because one person’s “unknown object” can become a triangulated atmospheric event when hundreds of observations, videos and sensor detections are compared. CNEOS<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.amsmeteors.org/fireballs/fireball-report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-title">fireball report</span><span class="citation-popover-snippet">fireball report</span></span></span>
 
-A recent example shows the pattern clearly. On 30 May 2026, a meteor over New England produced widespread reports of booms and shaking across parts of the northeastern United States and Canada. NASA identified it as a natural meteor that fragmented high above the ground, with the sound and ground shaking caused by the atmospheric blast rather than an earthquake or aircraft explosion. The event generated dramatic public reports because it was both visible and physically felt, yet the explanation was a small natural body breaking apart in the atmosphere. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/2b79039c94af28e4b63aaeabf06c6844" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+A recent example shows the pattern clearly. On 30 May 2026, a meteor over New England produced widespread reports of booms and shaking across parts of the northeastern United States and Canada. NASA identified it as a natural meteor that fragmented high above the ground, with the sound and ground shaking caused by the atmospheric blast rather than an earthquake or aircraft explosion. The event generated dramatic public reports because it was both visible and physically felt, yet the explanation was a small natural body breaking apart in the atmosphere.<span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/2b79039c94af28e4b63aaeabf06c6844" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_meteors_fireballs_551504-Illustration-1-dark.svg" | relative_url }}" alt="Meteors illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_meteors_fireballs_551504-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_meteors_fireballs_551504-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Meteors versus debris
 
-The most useful first question is not “was it strange?” but “how did it move?” Natural meteors are usually much faster and shorter-lived than re-entering space debris. The Aerospace Corporation, which tracks orbital re-entries, gives a practical rule of thumb: natural meteors typically last less than a few seconds, while human-made re-entries usually move more slowly and can last 20 to 90 seconds or more. It also notes that re-entering debris often travels roughly parallel to the ground at about 7 kilometres per second, producing a bright body, a long tail and multiple fragments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aerospace.org/node/44081/printable/print" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerospace.org">[The Aerospace Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerospace.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The most useful first question is not “was it strange?” but “how did it move?” Natural meteors are usually much faster and shorter-lived than re-entering space debris. The Aerospace Corporation, which tracks orbital re-entries, gives a practical rule of thumb: natural meteors typically last less than a few seconds, while human-made re-entries usually move more slowly and can last 20 to 90 seconds or more. It also notes that re-entering debris often travels roughly parallel to the ground at about 7 kilometres per second, producing a bright body, a long tail and multiple fragments.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aerospace.org/node/44081/printable/print" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerospace.org">[The Aerospace Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerospace.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 That difference explains why many “formation of lights” reports turn out not to be aircraft formations or controlled craft. A satellite, rocket body or spacecraft component can break apart into a tight group of glowing pieces, all moving in the same direction at similar speed. To a witness on the ground, this may look like a fleet of objects travelling together. To an analyst, the shared direction, shared speed, long duration and progressive fading are strong clues for re-entry debris.
 
-A natural fireball, by contrast, is usually more abrupt. It may flare, fragment and extinguish within a few seconds. Its speed can be tens of kilometres per second, much faster than orbital debris. A UK example makes this distinction useful: the Winchcombe fireball of 28 February 2021 lasted about seven seconds, was recorded by meteor camera networks, and led to recovery of the first UK meteorite fall in 30 years. Camera data allowed scientists to reconstruct its path and determine that it was natural material from the Solar System, not human-made debris. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fripon.org/2021-02-28-winchcombe-uk-fireball-and-meteorite-recovery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fripon.org">[www.fripon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fripon.org</span><span class="citation-popover-title">2021 02 28 winchcombe uk fireball and meteorite recovery</span><span class="citation-popover-snippet">2021 02 28 winchcombe uk fireball and meteorite recovery</span></span></span> PMC The distinction is not always obvious from one video. A meteor seen nearly head-on can look slower than it is <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9668287/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[pmc.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>, and re-entry debris can briefly brighten or break up in ways that resemble a fireball. That is why duration, direction, camera triangulation and orbital predictions matter more than a single witness impression.
+A natural fireball, by contrast, is usually more abrupt. It may flare, fragment and extinguish within a few seconds. Its speed can be tens of kilometres per second, much faster than orbital debris. A UK example makes this distinction useful: the Winchcombe fireball of 28 February 2021 lasted about seven seconds, was recorded by meteor camera networks, and led to recovery of the first UK meteorite fall in 30 years. Camera data allowed scientists to reconstruct its path and determine that it was natural material from the Solar System, not human-made debris.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fripon.org/2021-02-28-winchcombe-uk-fireball-and-meteorite-recovery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fripon.org">[www.fripon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fripon.org</span><span class="citation-popover-title">2021 02 28 winchcombe uk fireball and meteorite recovery</span><span class="citation-popover-snippet">2021 02 28 winchcombe uk fireball and meteorite recovery</span></span></span> PMC The distinction is not always obvious from one video. A meteor seen nearly head-on can look slower than it is<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9668287/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[pmc.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>, and re-entry debris can briefly brighten or break up in ways that resemble a fireball. That is why duration, direction, camera triangulation and orbital predictions matter more than a single witness impression.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rF2-OD44Jp0" title="Space debris re-entry caught on AllSky6 camera over SoCal (CORRECTION: Actually a REAL meteor)." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rF2-OD44Jp0" target="_blank" rel="noopener noreferrer">Space debris re-entry caught on AllSky6 camera over SoCal (CORRECTION: Actually a REAL meteor).</a></p><p class="youtube-embed-meta">Channel: AMS American Meteor Society &middot; Views: 24.4K &middot; Uploaded: January 2020 &middot; Length: 48 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rF2-OD44Jp0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rF2-OD44Jp0">Open on YouTube</a></p></div></div></div>
 
 ## Fragmentation and glowing trails
 
-Fragmentation is one of the main reasons these events feel uncanny. A fireball may shed pieces, flare in pulses, or leave a glowing train that drifts after the object has gone. Human-made debris can look even more structured because many pieces may remain visible together as they continue along a similar path. A technical European Space Agency conference paper on re-entry monitoring notes that space debris can produce bright, long-lasting fireballs with strong fragmentation and the “joint onward flight” of fragments, a pattern that can look especially spectacular from the ground. <span class="citation-chip-wrap"><a class="citation-chip" href="https://conference.sdo.esoc.esa.int/proceedings/neosst1/paper/432/NEOSST1-paper432.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: conference.sdo.esoc.esa.int">[esa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">conference.sdo.esoc.esa.int</span><span class="citation-popover-title">Proceedings Database SP-672 5th European Conference on Space Debris</span><span class="citation-popover-snippet">Proceedings Database SP-672 5th European Conference on Space Debris</span></span></span>
+Fragmentation is one of the main reasons these events feel uncanny. A fireball may shed pieces, flare in pulses, or leave a glowing train that drifts after the object has gone. Human-made debris can look even more structured because many pieces may remain visible together as they continue along a similar path. A technical European Space Agency conference paper on re-entry monitoring notes that space debris can produce bright, long-lasting fireballs with strong fragmentation and the “joint onward flight” of fragments, a pattern that can look especially spectacular from the ground.<span class="citation-chip-wrap"><a class="citation-chip" href="https://conference.sdo.esoc.esa.int/proceedings/neosst1/paper/432/NEOSST1-paper432.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: conference.sdo.esoc.esa.int">[esa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">conference.sdo.esoc.esa.int</span><span class="citation-popover-title">Proceedings Database SP-672 5th European Conference on Space Debris</span><span class="citation-popover-snippet">Proceedings Database SP-672 5th European Conference on Space Debris</span></span></span>
 
-The colour of a fireball is not a simple chemical label, even though witnesses often report green, blue, orange or white lights. The American Meteor Society explains that most fireball light comes from a compact cloud around or behind the meteoroid, and that most of that cloud consists of atoms from the surrounding atmosphere rather than only vaporised material from the object. This matters for UFO reports because colour alone is a weak identification clue: a green fireball is not automatically exotic, metallic, radioactive or artificial. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.amsmeteors.org/fireballs/fireball-report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-title">fireball report</span><span class="citation-popover-snippet">fireball report</span></span></span>
+The colour of a fireball is not a simple chemical label, even though witnesses often report green, blue, orange or white lights. The American Meteor Society explains that most fireball light comes from a compact cloud around or behind the meteoroid, and that most of that cloud consists of atoms from the surrounding atmosphere rather than only vaporised material from the object. This matters for UFO reports because colour alone is a weak identification clue: a green fireball is not automatically exotic, metallic, radioactive or artificial.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.amsmeteors.org/fireballs/fireball-report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-title">fireball report</span><span class="citation-popover-snippet">fireball report</span></span></span>
 
 Glowing trains can also mislead. A meteor may vanish, but the ionised or dusty trail can persist briefly, twist in upper-atmosphere winds, or be caught by cameras after the main object has gone. To a witness who saw only part of the sequence, the trail can look like smoke from a low-flying craft, a hovering residue, or a curved path made by something under control. In reality, the shape after the flash may be controlled by winds and camera exposure rather than by the object’s motion.
 
@@ -551,9 +551,9 @@ The most useful clues are:
 * **Direction and radiant:** meteors in a shower may appear to radiate from a known point; sporadic fireballs can come from other directions.
 * **External records:** meteor-camera networks, NASA fireball data, public fireball logs, satellite re-entry predictions and local seismic checks can confirm or rule out candidate explanations.
 
-The Winchcombe case is a good example of how a dramatic sighting becomes a well-understood event. It was seen across the UK and nearby countries, recorded by dedicated meteor cameras, and followed by a rapid meteorite recovery. Researchers later used the recovered material and camera-derived trajectory to study the meteorite’s composition and origin. That is the opposite of a weak debunk: it is a case where a spectacular sky event became scientifically stronger because the right evidence was preserved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nhm.ac.uk/discover/news/2021/september/from-field-to-vault-how-the-largest-winchcombe-meteorite-was-found.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nhm.ac.uk">[Natural History Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nhm.ac.uk</span><span class="citation-popover-title">from field to vault how the largest winchcombe meteorite was found</span><span class="citation-popover-snippet">from field to vault how the largest winchcombe meteorite was found</span></span></span>
+The Winchcombe case is a good example of how a dramatic sighting becomes a well-understood event. It was seen across the UK and nearby countries, recorded by dedicated meteor cameras, and followed by a rapid meteorite recovery. Researchers later used the recovered material and camera-derived trajectory to study the meteorite’s composition and origin. That is the opposite of a weak debunk: it is a case where a spectacular sky event became scientifically stronger because the right evidence was preserved.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nhm.ac.uk/discover/news/2021/september/from-field-to-vault-how-the-largest-winchcombe-meteorite-was-found.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nhm.ac.uk">[Natural History Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nhm.ac.uk</span><span class="citation-popover-title">from field to vault how the largest winchcombe meteorite was found</span><span class="citation-popover-snippet">from field to vault how the largest winchcombe meteorite was found</span></span></span>
 
-Re-entry cases can be verified in a similar way, but with orbital data. The Aerospace Corporation maintains re-entry information and publishes practical guidance on what re-entries look like. When a slow, fragmenting “fireball” appears over a wide area at the same time an orbital object is predicted to re-enter, the identification can become highly persuasive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aerospace.org/node/44081/printable/print" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerospace.org">[The Aerospace Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerospace.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Re-entry cases can be verified in a similar way, but with orbital data. The Aerospace Corporation maintains re-entry information and publishes practical guidance on what re-entries look like. When a slow, fragmenting “fireball” appears over a wide area at the same time an orbital object is predicted to re-enter, the identification can become highly persuasive.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aerospace.org/node/44081/printable/print" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerospace.org">[The Aerospace Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerospace.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_meteors_fireballs_551504-Illustration-2-dark.svg" | relative_url }}" alt="Meteors illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_meteors_fireballs_551504-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_meteors_fireballs_551504-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where to verify events
@@ -562,11 +562,11 @@ For a witness, the best first step is to record the basics before memory reshape
 
 Several public and institutional resources are especially useful for checking a suspected fireball or re-entry:
 
-* **American Meteor Society fireball reports:** useful for North American and international witness clusters, event maps and public submissions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.amsmeteors.org/fireballs/fireball-report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-title">fireball report</span><span class="citation-popover-snippet">fireball report</span></span></span>
-* **International Meteor Organization:** useful for international fireball reporting and meteor observing programmes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.imo.net/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imo.net">[International Meteor Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imo.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-* **NASA CNEOS fireball database:** useful for larger fireball and bolide events detected by U.S. Government sensors, with impact energy and location data where available. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cneos.jpl.nasa.gov/fireballs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cneos.jpl.nasa.gov">[CNEOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cneos.jpl.nasa.gov</span><span class="citation-popover-snippet">FireballsThe following chart shows fireball events reported by U.S. Government sensors for which geographic location data are provid...</span></span></span>
-* **ESA fireball information and European fireball networks:** useful for archived European camera-network observations and long-term fireball records. <span class="citation-chip-wrap"><a class="citation-chip" href="https://neo.ssa.esa.int/search-for-fireballs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: neo.ssa.esa.int">[NEO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">neo.ssa.esa.int</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-* **The Aerospace Corporation re-entry guidance:** useful for distinguishing natural meteors from human-made orbital debris. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aerospace.org/node/44081/printable/print" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerospace.org">[The Aerospace Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerospace.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+* **American Meteor Society fireball reports:** useful for North American and international witness clusters, event maps and public submissions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.amsmeteors.org/fireballs/fireball-report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-title">fireball report</span><span class="citation-popover-snippet">fireball report</span></span></span>
+* **International Meteor Organization:** useful for international fireball reporting and meteor observing programmes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.imo.net/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imo.net">[International Meteor Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imo.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+* **NASA CNEOS fireball database:** useful for larger fireball and bolide events detected by U.S. Government sensors, with impact energy and location data where available.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cneos.jpl.nasa.gov/fireballs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cneos.jpl.nasa.gov">[CNEOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cneos.jpl.nasa.gov</span><span class="citation-popover-snippet">FireballsThe following chart shows fireball events reported by U.S. Government sensors for which geographic location data are provid...</span></span></span>
+* **ESA fireball information and European fireball networks:** useful for archived European camera-network observations and long-term fireball records.<span class="citation-chip-wrap"><a class="citation-chip" href="https://neo.ssa.esa.int/search-for-fireballs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: neo.ssa.esa.int">[NEO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">neo.ssa.esa.int</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+* **The Aerospace Corporation re-entry guidance:** useful for distinguishing natural meteors from human-made orbital debris.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aerospace.org/node/44081/printable/print" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerospace.org">[The Aerospace Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerospace.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The most important habit is to compare, not merely search for a matching rumour. Social media clips often strip away time, place and direction, which are exactly the details needed for identification. A reliable check asks whether independent reports line up geographically, whether camera records show the same path, whether meteor networks logged the event, and whether any known satellite or rocket body was predicted to re-enter.
 
@@ -583,194 +583,194 @@ Their value is that they provide a well-documented mechanism for a particular ki
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_meteors_fireballs_551504-Illustration-3-dark.svg" | relative_url }}" alt="Meteors illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_meteors_fireballs_551504-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_meteors_fireballs_551504-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Fireballs Become UFOs. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Fireballs Become UFOs. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ATZGAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Handbook">The UFO Handbook</a>
-        </h4>
-        <p class="fr-book-author">By Allan Hendry</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ATZGAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Handbook">The UFO Handbook</a>
+</h4>
+<p class="fr-book-author">By Allan Hendry</p>
         
-        <p class="fr-book-desc">Addresses conventional causes including meteors and fireballs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses conventional causes including meteors and fireballs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Covers night-sky observation and bright celestial objects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers night-sky observation and bright celestial objects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteorites+by+Sara+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteorites on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Bg2kPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Meteorites" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Meteorites+by+Sara+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteorites">Meteorites</a>
-        </h4>
-        <p class="fr-book-author">By Sara Russell, Monica M. Grady</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteorites+by+Sara+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteorites on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Bg2kPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Meteorites" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Meteorites+by+Sara+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteorites">Meteorites</a>
+</h4>
+<p class="fr-book-author">By Sara Russell, Monica M. Grady</p>
         
-        <p class="fr-book-desc">Explains meteors, meteorites, and recovered space rocks.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Meteorites+by+Sara+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains meteors, meteorites, and recovered space rocks.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Meteorites+by+Sara+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Backyard Astronomer&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hdvYKwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Backyard Astronomer&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Backyard Astronomer&#x27;s Guide">The Backyard Astronomer&#x27;s Guide</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson, Alan Dyer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Backyard Astronomer&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hdvYKwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Backyard Astronomer&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Backyard Astronomer&#x27;s Guide">The Backyard Astronomer&#x27;s Guide</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson, Alan Dyer</p>
         
-        <p class="fr-book-desc">Helps readers identify common sky events and observing conditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers identify common sky events and observing conditions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Meteorites&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meteorites</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Meteorites&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meteorites</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fireballs-become-ufos-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="when-fireballs-become-ufos-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Remarkable 447 Gram Meteorite Specimen"><img src="https://i.ebayimg.com/images/g/FwEAAeSwDthqKGD3/s-l225.jpg" alt="Listing image for Remarkable 447 Gram Meteorite Specimen" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fireballs-become-ufos-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="when-fireballs-become-ufos-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer">Remarkable 447 Gram Meteorite Specimen</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fireballs-become-ufos-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="when-fireballs-become-ufos-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite specimen">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteorite specimen</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fireballs-become-ufos-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="when-fireballs-become-ufos-meteorite-specimen" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fireballs-become-ufos-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="when-fireballs-become-ufos-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Remarkable 447 Gram Meteorite Specimen"><img src="https://i.ebayimg.com/images/g/FwEAAeSwDthqKGD3/s-l225.jpg" alt="Listing image for Remarkable 447 Gram Meteorite Specimen" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fireballs-become-ufos-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="when-fireballs-become-ufos-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer">Remarkable 447 Gram Meteorite Specimen</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fireballs-become-ufos-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="when-fireballs-become-ufos-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite specimen">Search<span data-ebay-domain-label>eBay.co.uk</span>: meteorite specimen</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fireballs-become-ufos-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="when-fireballs-become-ufos-meteorite-specimen" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fireballs-become-ufos-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="when-fireballs-become-ufos-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Authentic Gebel Kamil Iron Meteorite - Rare Individual Specimen w/ Certificate"><img src="https://i.ebayimg.com/images/g/YMsAAeSwX8RqCt~W/s-l225.jpg" alt="Listing image for Authentic Gebel Kamil Iron Meteorite - Rare Individual Specimen w/ Certificate" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fireballs-become-ufos-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="when-fireballs-become-ufos-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer">Authentic Gebel Kamil Iron Meteorite - Rare Individual Specimen w/ Certificate</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fireballs-become-ufos-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="when-fireballs-become-ufos-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite specimen">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteorite specimen</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fireballs-become-ufos-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="when-fireballs-become-ufos-meteorite-specimen" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fireballs-become-ufos-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="when-fireballs-become-ufos-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Authentic Gebel Kamil Iron Meteorite - Rare Individual Specimen w/ Certificate"><img src="https://i.ebayimg.com/images/g/YMsAAeSwX8RqCt~W/s-l225.jpg" alt="Listing image for Authentic Gebel Kamil Iron Meteorite - Rare Individual Specimen w/ Certificate" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fireballs-become-ufos-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="when-fireballs-become-ufos-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer">Authentic Gebel Kamil Iron Meteorite - Rare Individual Specimen w/ Certificate</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fireballs-become-ufos-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="when-fireballs-become-ufos-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite specimen">Search<span data-ebay-domain-label>eBay.co.uk</span>: meteorite specimen</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fireballs-become-ufos-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="when-fireballs-become-ufos-meteorite-specimen" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fireballs-become-ufos-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="when-fireballs-become-ufos-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Iron Meteorite Mixed Small Specimens/Lots Natural Unpolished Display Boxes"><img src="https://i.ebayimg.com/images/g/0lcAAeSwjqZqJmZJ/s-l225.jpg" alt="Listing image for Iron Meteorite Mixed Small Specimens/Lots Natural Unpolished Display Boxes" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fireballs-become-ufos-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="when-fireballs-become-ufos-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer">Iron Meteorite Mixed Small Specimens/Lots Natural Unpolished Display Boxes</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fireballs-become-ufos-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="when-fireballs-become-ufos-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite specimen">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteorite specimen</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fireballs-become-ufos-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="when-fireballs-become-ufos-meteorite-specimen" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fireballs-become-ufos-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="when-fireballs-become-ufos-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Iron Meteorite Mixed Small Specimens/Lots Natural Unpolished Display Boxes"><img src="https://i.ebayimg.com/images/g/0lcAAeSwjqZqJmZJ/s-l225.jpg" alt="Listing image for Iron Meteorite Mixed Small Specimens/Lots Natural Unpolished Display Boxes" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fireballs-become-ufos-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="when-fireballs-become-ufos-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer">Iron Meteorite Mixed Small Specimens/Lots Natural Unpolished Display Boxes</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fireballs-become-ufos-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="when-fireballs-become-ufos-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite specimen">Search<span data-ebay-domain-label>eBay.co.uk</span>: meteorite specimen</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fireballs-become-ufos-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="when-fireballs-become-ufos-meteorite-specimen" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fireballs-become-ufos-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="when-fireballs-become-ufos-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Campo del Cielo iron meteorite specimen small cleaned pieces 1 per bid"><img src="https://i.ebayimg.com/images/g/8hUAAOSwaadiZmZo/s-l225.jpg" alt="Listing image for Campo del Cielo iron meteorite specimen small cleaned pieces 1 per bid" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fireballs-become-ufos-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="when-fireballs-become-ufos-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer">Campo del Cielo iron meteorite specimen small cleaned pieces 1 per bid</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fireballs-become-ufos-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="when-fireballs-become-ufos-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite specimen">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteorite specimen</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fireballs-become-ufos-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="when-fireballs-become-ufos-meteorite-specimen" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fireballs-become-ufos-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="when-fireballs-become-ufos-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fireballs-become-ufos-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="when-fireballs-become-ufos-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Campo del Cielo iron meteorite specimen small cleaned pieces 1 per bid"><img src="https://i.ebayimg.com/images/g/8hUAAOSwaadiZmZo/s-l225.jpg" alt="Listing image for Campo del Cielo iron meteorite specimen small cleaned pieces 1 per bid" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fireballs-become-ufos-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="when-fireballs-become-ufos-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer">Campo del Cielo iron meteorite specimen small cleaned pieces 1 per bid</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fireballs-become-ufos-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="when-fireballs-become-ufos-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite specimen">Search<span data-ebay-domain-label>eBay.co.uk</span>: meteorite specimen</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fireballs-become-ufos-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="when-fireballs-become-ufos-meteorite-specimen" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fireballs-become-ufos-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="when-fireballs-become-ufos-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -786,7 +786,7 @@ Their value is that they provide a well-documented mechanism for a particular ki
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -806,7 +806,7 @@ Their value is that they provide a well-documented mechanism for a particular ki
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -838,7 +838,7 @@ Their value is that they provide a well-documented mechanism for a particular ki
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -890,7 +890,7 @@ Their value is that they provide a well-documented mechanism for a particular ki
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -935,7 +935,7 @@ Their value is that they provide a well-documented mechanism for a particular ki
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -976,166 +976,166 @@ Their value is that they provide a well-documented mechanism for a particular ki
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cneos.jpl.nasa.gov  
-   Link: <a href="https://cneos.jpl.nasa.gov/fireballs/intro.html" target="_blank" rel="noopener noreferrer nofollow">https://cneos.jpl.nasa.gov/fireballs/intro.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fireballs and bolidesMeteors, or “shooting [stars](&amp;#123;&amp;#123; &#x27;stars/&#x27; | relative_url &amp;#125;&amp;#125;),” are the visible paths of meteoroids that have entered the Earth&#x27;s atmosphere at h...</p></details>
+   Link:<a href="https://cneos.jpl.nasa.gov/fireballs/intro.html" target="_blank" rel="noopener noreferrer nofollow">https://cneos.jpl.nasa.gov/fireballs/intro.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fireballs and bolidesMeteors, or “shooting [stars](&amp;#123;&amp;#123; &#x27;stars/&#x27; | relative_url &amp;#125;&amp;#125;),” are the visible paths of meteoroids that have entered the Earth&#x27;s atmosphere at h...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: science.nasa.gov  
    Title: meteors meteorites  
-   Link: <a href="https://science.nasa.gov/solar-system/meteors-meteorites/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/solar-system/meteors-meteorites/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceMeteors and Meteorites2 Feb 2026 — When meteoroids enter Earth&#x27;s atmosphere (or that of another planet, like Mars) at high sp...</p></details>
+   Link:<a href="https://science.nasa.gov/solar-system/meteors-meteorites/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/solar-system/meteors-meteorites/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceMeteors and Meteorites2 Feb 2026 — When meteoroids enter Earth&#x27;s atmosphere (or that of another planet, like Mars) at high sp...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cneos.jpl.nasa.gov  
-   Link: <a href="https://cneos.jpl.nasa.gov/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://cneos.jpl.nasa.gov/fireballs/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FireballsThe following chart shows fireball events reported by U.S. Government sensors for which geographic location data are provid...</p></details>
+   Link:<a href="https://cneos.jpl.nasa.gov/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://cneos.jpl.nasa.gov/fireballs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FireballsThe following chart shows fireball events reported by U.S. Government sensors for which geographic location data are provid...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: aerospace.org  
-   Link: <a href="https://aerospace.org/node/44081/printable/print" target="_blank" rel="noopener noreferrer nofollow">https://aerospace.org/node/44081/printable/print</a>  
+   Link:<a href="https://aerospace.org/node/44081/printable/print" target="_blank" rel="noopener noreferrer nofollow">https://aerospace.org/node/44081/printable/print</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: aerospace.org  
-   Link: <a href="https://aerospace.org/article/what-does-reentry-look-like" target="_blank" rel="noopener noreferrer nofollow">https://aerospace.org/article/what-does-reentry-look-like</a>  
+   Link:<a href="https://aerospace.org/article/what-does-reentry-look-like" target="_blank" rel="noopener noreferrer nofollow">https://aerospace.org/article/what-does-reentry-look-like</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: fripon.org  
    Title: 2021 02 28 winchcombe uk fireball and meteorite recovery  
-   Link: <a href="https://www.fripon.org/2021-02-28-winchcombe-uk-fireball-and-meteorite-recovery/" target="_blank" rel="noopener noreferrer nofollow">https://www.fripon.org/2021-02-28-winchcombe-uk-fireball-and-meteorite-recovery/</a>  
+   Link:<a href="https://www.fripon.org/2021-02-28-winchcombe-uk-fireball-and-meteorite-recovery/" target="_blank" rel="noopener noreferrer nofollow">https://www.fripon.org/2021-02-28-winchcombe-uk-fireball-and-meteorite-recovery/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9668287/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9668287/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9668287/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9668287/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: conference.sdo.esoc.esa.int  
    Title: Proceedings Database SP-672 5th European Conference on Space Debris  
-   Link: <a href="https://conference.sdo.esoc.esa.int/proceedings/neosst1/paper/432/NEOSST1-paper432.pdf" target="_blank" rel="noopener noreferrer nofollow">https://conference.sdo.esoc.esa.int/proceedings/neosst1/paper/432/NEOSST1-paper432.pdf</a>  
+   Link:<a href="https://conference.sdo.esoc.esa.int/proceedings/neosst1/paper/432/NEOSST1-paper432.pdf" target="_blank" rel="noopener noreferrer nofollow">https://conference.sdo.esoc.esa.int/proceedings/neosst1/paper/432/NEOSST1-paper432.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: neo.ssa.esa.int  
-   Link: <a href="https://neo.ssa.esa.int/search-for-fireballs" target="_blank" rel="noopener noreferrer nofollow">https://neo.ssa.esa.int/search-for-fireballs</a>  
+   Link:<a href="https://neo.ssa.esa.int/search-for-fireballs" target="_blank" rel="noopener noreferrer nofollow">https://neo.ssa.esa.int/search-for-fireballs</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nasa.gov  
    Title: its fireball season answering your meteor questions  
-   Link: <a href="https://www.nasa.gov/blogs/watch-the-skies/2026/03/26/its-fireball-season-answering-your-meteor-questions/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/blogs/watch-the-skies/2026/03/26/its-fireball-season-answering-your-meteor-questions/</a>  
+   Link:<a href="https://www.nasa.gov/blogs/watch-the-skies/2026/03/26/its-fireball-season-answering-your-meteor-questions/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/blogs/watch-the-skies/2026/03/26/its-fireball-season-answering-your-meteor-questions/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: conference.sdo.esoc.esa.int  
-   Link: <a href="https://conference.sdo.esoc.esa.int/proceedings/neosst2/paper/19" target="_blank" rel="noopener noreferrer nofollow">https://conference.sdo.esoc.esa.int/proceedings/neosst2/paper/19</a>  
+   Link:<a href="https://conference.sdo.esoc.esa.int/proceedings/neosst2/paper/19" target="_blank" rel="noopener noreferrer nofollow">https://conference.sdo.esoc.esa.int/proceedings/neosst2/paper/19</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: conference.sdo.esoc.esa.int  
    Title: SDC4 paper44  
-   Link: <a href="https://conference.sdo.esoc.esa.int/proceedings/sdc4/paper/44/SDC4-paper44.pdf" target="_blank" rel="noopener noreferrer nofollow">https://conference.sdo.esoc.esa.int/proceedings/sdc4/paper/44/SDC4-paper44.pdf</a>  
+   Link:<a href="https://conference.sdo.esoc.esa.int/proceedings/sdc4/paper/44/SDC4-paper44.pdf" target="_blank" rel="noopener noreferrer nofollow">https://conference.sdo.esoc.esa.int/proceedings/sdc4/paper/44/SDC4-paper44.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: space.com  
-   Link: <a href="https://www.space.com/meteor-showers-shooting-stars.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/meteor-showers-shooting-stars.html</a>  
+   Link:<a href="https://www.space.com/meteor-showers-shooting-stars.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/meteor-showers-shooting-stars.html</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: amsmeteors.org  
    Title: fireball report  
-   Link: <a href="https://www.amsmeteors.org/fireballs/fireball-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/fireballs/fireball-report/</a>  
+   Link:<a href="https://www.amsmeteors.org/fireballs/fireball-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/fireballs/fireball-report/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: imo.net  
-   Link: <a href="https://www.imo.net/" target="_blank" rel="noopener noreferrer nofollow">https://www.imo.net/</a>  
+   Link:<a href="https://www.imo.net/" target="_blank" rel="noopener noreferrer nofollow">https://www.imo.net/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: apnews.com  
-   Link: <a href="https://apnews.com/article/2b79039c94af28e4b63aaeabf06c6844" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/2b79039c94af28e4b63aaeabf06c6844</a>  
+   Link:<a href="https://apnews.com/article/2b79039c94af28e4b63aaeabf06c6844" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/2b79039c94af28e4b63aaeabf06c6844</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: amsmeteors.org  
-   Link: <a href="https://amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow">https://amsmeteors.org/fireballs/faqf/</a>  
+   Link:<a href="https://amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow">https://amsmeteors.org/fireballs/faqf/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nhm.ac.uk  
    Title: from field to vault how the largest winchcombe meteorite was found  
-   Link: <a href="https://www.nhm.ac.uk/discover/news/2021/september/from-field-to-vault-how-the-largest-winchcombe-meteorite-was-found.html" target="_blank" rel="noopener noreferrer nofollow">https://www.nhm.ac.uk/discover/news/2021/september/from-field-to-vault-how-the-largest-winchcombe-meteorite-was-found.html</a>  
+   Link:<a href="https://www.nhm.ac.uk/discover/news/2021/september/from-field-to-vault-how-the-largest-winchcombe-meteorite-was-found.html" target="_blank" rel="noopener noreferrer nofollow">https://www.nhm.ac.uk/discover/news/2021/september/from-field-to-vault-how-the-largest-winchcombe-meteorite-was-found.html</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: fireball.amsmeteors.org  
    Title: American Meteor Society Report a Fireball  
-   Link: <a href="https://fireball.amsmeteors.org/" target="_blank" rel="noopener noreferrer nofollow">https://fireball.amsmeteors.org/</a>  
+   Link:<a href="https://fireball.amsmeteors.org/" target="_blank" rel="noopener noreferrer nofollow">https://fireball.amsmeteors.org/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
    Title: International Meteor Organization Fireball Alert  
-   Link: <a href="https://www.facebook.com/InternationalMeteorOrganization/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/InternationalMeteorOrganization/</a>  
+   Link:<a href="https://www.facebook.com/InternationalMeteorOrganization/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/InternationalMeteorOrganization/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: amsmeteors.org  
-   Link: <a href="https://www.amsmeteors.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/</a>  
+   Link:<a href="https://www.amsmeteors.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: Wikipedia  
    Title: Space debris  
-   Link: <a href="https://en.wikipedia.org/wiki/Space_debris" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Space_debris</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Space_debris" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Space_debris</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Meteor" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Meteor</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Meteor" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Meteor</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/astronomy-and-astrophysics/fireball" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/astronomy-and-astrophysics/fireball</a>  
+   Link:<a href="https://www.ebsco.com/research-starters/astronomy-and-astrophysics/fireball" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/astronomy-and-astrophysics/fireball</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: imo.net  
-   Link: <a href="https://www.imo.net/observations/fireballs/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://www.imo.net/observations/fireballs/fireballs/</a>  
+   Link:<a href="https://www.imo.net/observations/fireballs/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://www.imo.net/observations/fireballs/fireballs/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: sites.wustl.edu  
-   Link: <a href="https://sites.wustl.edu/meteoritesite/items/meteors/" target="_blank" rel="noopener noreferrer nofollow">https://sites.wustl.edu/meteoritesite/items/meteors/</a>  
+   Link:<a href="https://sites.wustl.edu/meteoritesite/items/meteors/" target="_blank" rel="noopener noreferrer nofollow">https://sites.wustl.edu/meteoritesite/items/meteors/</a>  
 
 ### Additional References
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=rF2-OD44Jp0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=rF2-OD44Jp0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What is the difference between a meteor fireball and space debris re-entry what really happens during atmospheric reentry(Neil degrasse t...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=rF2-OD44Jp0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=rF2-OD44Jp0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is the difference between a meteor fireball and space debris re-entry what really happens during atmospheric reentry(Neil degrasse t...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
    Title: Unusual Lights in the Sky Explained: Rocket Thruster Reentry Fireball  
-   Link: <a href="http://www.youtube.com/watch?v=H1HJn808aH4" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=H1HJn808aH4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Space debris re-entry caught on AllSky6 camera over SoCal (CORRECTION: Actually a REAL meteor)...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=H1HJn808aH4" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=H1HJn808aH4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Space debris re-entry caught on AllSky6 camera over SoCal (CORRECTION: Actually a REAL meteor)...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
    Title: FLYING Explained: Should We Be Worried About Space Debris?  
-   Link: <a href="http://www.youtube.com/watch?v=DHXtvVV1_Zw" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=DHXtvVV1_Zw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unusual Lights in the Sky Explained: Rocket Thruster Reentry Fireball...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=DHXtvVV1_Zw" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=DHXtvVV1_Zw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unusual Lights in the Sky Explained: Rocket Thruster Reentry Fireball...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/354329243_Using_fireball_networks_to_track_more_frequent_reentries_Falcon_9_upper_stage_orbit_determination_from_video_recordings" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/354329243_Using_fireball_networks_to_track_more_frequent_reentries_Falcon_9_upper_stage_orbit_determination_from_video_recordings</a>  
+   Link:<a href="https://www.researchgate.net/publication/354329243_Using_fireball_networks_to_track_more_frequent_reentries_Falcon_9_upper_stage_orbit_determination_from_video_recordings" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/354329243_Using_fireball_networks_to_track_more_frequent_reentries_Falcon_9_upper_stage_orbit_determination_from_video_recordings</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DXiYIgTGG4f/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DXiYIgTGG4f/</a>  
+   Link:<a href="https://www.instagram.com/p/DXiYIgTGG4f/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DXiYIgTGG4f/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/100057159681324/posts/a-fireball-and-surrounding-debris-was-observed-over-arkansas-and-many-surroundin/1108917584356887/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100057159681324/posts/a-fireball-and-surrounding-debris-was-observed-over-arkansas-and-many-surroundin/1108917584356887/</a>  
+   Link:<a href="https://www.facebook.com/100057159681324/posts/a-fireball-and-surrounding-debris-was-observed-over-arkansas-and-many-surroundin/1108917584356887/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100057159681324/posts/a-fireball-and-surrounding-debris-was-observed-over-arkansas-and-many-surroundin/1108917584356887/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DV_gVWDEQnZ/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DV_gVWDEQnZ/</a>  
+   Link:<a href="https://www.instagram.com/p/DV_gVWDEQnZ/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DV_gVWDEQnZ/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DWZYdsHgfu8/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWZYdsHgfu8/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/reel/DWZYdsHgfu8/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWZYdsHgfu8/?hl=en</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40souravmohile/analysing-fireball-and-bolide-events-using-nasa-data-33945b7af4ac" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40souravmohile/analysing-fireball-and-bolide-events-using-nasa-data-33945b7af4ac</a>  
+   Link:<a href="https://medium.com/%40souravmohile/analysing-fireball-and-bolide-events-using-nasa-data-33945b7af4ac" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40souravmohile/analysing-fireball-and-bolide-events-using-nasa-data-33945b7af4ac</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/CBSEveningNews/posts/days-after-a-meteor-exploded-over-new-england-another-fireball-was-spotted-visib/1497589232408119/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CBSEveningNews/posts/days-after-a-meteor-exploded-over-new-england-another-fireball-was-spotted-visib/1497589232408119/</a>
+   Link:<a href="https://www.facebook.com/CBSEveningNews/posts/days-after-a-meteor-exploded-over-new-england-another-fireball-was-spotted-visib/1497589232408119/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CBSEveningNews/posts/days-after-a-meteor-exploded-over-new-england-another-fireball-was-spotted-visib/1497589232408119/</a>

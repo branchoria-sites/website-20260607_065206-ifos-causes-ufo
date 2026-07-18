@@ -277,7 +277,7 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f_ba
 One of the simplest ways a UFO report can grow into a sighting of a “giant craft” is through a mistaken estimate of distance. Balloons are especially effective at triggering this error because they are often bright, smooth, silent and isolated against an otherwise empty sky. Without reliable [distance cues]({{ 'distance-cues/' | relative_url }}), a witness may unconsciously place the object much farther away than it really is. Once that happens, the apparent size expands dramatically: a modest balloon can be interpreted as a huge craft hovering at aircraft altitude.
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f_balloons_large_craft_9fef15-Illustration-1-dark.svg" | relative_url }}" alt="Balloons illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f_balloons_large_craft_9fef15-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f_balloons_large_craft_9fef15-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Investigators have long regarded balloons as a common source of identified flying objects (IFOs). The issue is not usually dishonesty by witnesses. Rather, it is a predictable consequence of how human perception handles featureless objects against open sky. Allan Hendry's classic UFO investigations found that balloons accounted for a significant share of otherwise puzzling reports, while modern UAP analyses continue to identify balloon-like objects as a major category of resolved sightings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2018/11/ufo-identification-process/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">ufo identification process</span><span class="citation-popover-snippet">Skeptical InquirerUFO Identification ProcessAs UFO investigator Allan Hendry (1979, 6) aptly noted, “We only get to... investigation con...</span></span></span>
+Investigators have long regarded balloons as a common source of identified flying objects (IFOs). The issue is not usually dishonesty by witnesses. Rather, it is a predictable consequence of how human perception handles featureless objects against open sky. Allan Hendry's classic UFO investigations found that balloons accounted for a significant share of otherwise puzzling reports, while modern UAP analyses continue to identify balloon-like objects as a major category of resolved sightings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2018/11/ufo-identification-process/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">ufo identification process</span><span class="citation-popover-snippet">Skeptical InquirerUFO Identification ProcessAs UFO investigator Allan Hendry (1979, 6) aptly noted, “We only get to... investigation con...</span></span></span>
 
 ## Why Balloons Lose Scale Against Open Sky
 
@@ -285,9 +285,9 @@ A balloon seen against a cloudless background lacks many of the clues people nor
 
 This creates a powerful ambiguity. A small object nearby and a large object far away can occupy exactly the same apparent size in the observer's field of view. A reflective balloon several hundred metres away may therefore appear identical to a much larger object several kilometres distant.
 
-Featureless surfaces make the problem worse. Aircraft usually provide wings, windows, [contrails]({{ 'contrails/' | relative_url }}), navigation lights or engine noise that help establish scale and [range]({{ 'range/' | relative_url }}). Balloons often provide none of these. Many weather and research balloons are simply bright spheres or elongated shapes reflecting sunlight. At altitude they can appear as smooth metallic or white objects with no obvious structure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://abc7news.com/post/weather-balloons-national-service-chinese-spy-balloon-radiosonde/12819444/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc7news.com">[2ABC7 San Francisco]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc7news.com</span><span class="citation-popover-title">ABC7 San Francisco What&#x27;s that weather balloon doing in the sky?</span><span class="citation-popover-snippet">15 Feb 2023 — Balloons are inflated to 5 feet in diameter with a rope tied at... UFO · WEATHER RECORD · SCIENCE · U.S. &amp; WORLD. Balloon...</span></span></span>
+Featureless surfaces make the problem worse. Aircraft usually provide wings, windows, [contrails]({{ 'contrails/' | relative_url }}), navigation lights or engine noise that help establish scale and [range]({{ 'range/' | relative_url }}). Balloons often provide none of these. Many weather and research balloons are simply bright spheres or elongated shapes reflecting sunlight. At altitude they can appear as smooth metallic or white objects with no obvious structure.<span class="citation-chip-wrap"><a class="citation-chip" href="https://abc7news.com/post/weather-balloons-national-service-chinese-spy-balloon-radiosonde/12819444/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc7news.com">[2ABC7 San Francisco]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc7news.com</span><span class="citation-popover-title">ABC7 San Francisco What&#x27;s that weather balloon doing in the sky?</span><span class="citation-popover-snippet">15 Feb 2023 — Balloons are inflated to 5 feet in diameter with a rope tied at... UFO · WEATHER RECORD · SCIENCE · U.S. &amp; WORLD. Balloon...</span></span></span>
 
-Investigators have repeatedly noted that witnesses tend to estimate physical size only after they have already made an assumption about distance. If that distance assumption is wrong, the size estimate becomes wrong as well. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2018/11/ufo-identification-process/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">ufo identification process</span><span class="citation-popover-snippet">Skeptical InquirerUFO Identification ProcessAs UFO investigator Allan Hendry (1979, 6) aptly noted, “We only get to... investigation con...</span></span></span>
+Investigators have repeatedly noted that witnesses tend to estimate physical size only after they have already made an assumption about distance. If that distance assumption is wrong, the size estimate becomes wrong as well.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2018/11/ufo-identification-process/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">ufo identification process</span><span class="citation-popover-snippet">Skeptical InquirerUFO Identification ProcessAs UFO investigator Allan Hendry (1979, 6) aptly noted, “We only get to... investigation con...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/39SJAcNXCzM" title="VFX Artists DEBUNK FLYING ORB UFO Videos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=39SJAcNXCzM" target="_blank" rel="noopener noreferrer">VFX Artists DEBUNK FLYING ORB UFO Videos</a></p><p class="youtube-embed-meta">Channel: Corridor Crew &middot; Views: 1.1M &middot; Uploaded: July 2023 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=39SJAcNXCzM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=39SJAcNXCzM">Open on YouTube</a></p></div></div></div>
 
@@ -309,7 +309,7 @@ Movement can be equally deceptive. Balloons drift with changing winds at differe
 
 </div>
 
-The result is a report that may include hovering, directional changes and unusual brightness despite the object following ordinary atmospheric currents. Balloon-related UFO reports often contain exactly these characteristics. <span class="citation-chip-wrap"><a class="citation-chip" href="https://windy.app/blog/weather-balloons.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: windy.app">[WINDY.APP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">windy.app</span><span class="citation-popover-title">What are weather balloons and how do they work</span><span class="citation-popover-snippet">For this reason, they are often mistaken for UFOs by people not realizing that they are “only” instruments for collecting...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Identification studies of UFOs</span><span class="citation-popover-snippet">Identification studies of UFOs</span></span></span>
+The result is a report that may include hovering, directional changes and unusual brightness despite the object following ordinary atmospheric currents. Balloon-related UFO reports often contain exactly these characteristics.<span class="citation-chip-wrap"><a class="citation-chip" href="https://windy.app/blog/weather-balloons.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: windy.app">[WINDY.APP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">windy.app</span><span class="citation-popover-title">What are weather balloons and how do they work</span><span class="citation-popover-snippet">For this reason, they are often mistaken for UFOs by people not realizing that they are “only” instruments for collecting...Read more...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Identification studies of UFOs</span><span class="citation-popover-snippet">Identification studies of UFOs</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f_balloons_large_craft_9fef15-Illustration-2-dark.svg" | relative_url }}" alt="Balloons illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f_balloons_large_craft_9fef15-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f_balloons_large_craft_9fef15-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When a Small Balloon Becomes a Huge Craft
@@ -318,9 +318,9 @@ The mathematics behind the illusion are straightforward. Physical size cannot be
 
 Consider a bright sphere that appears about the size of a small coin held at arm's length. If it is a balloon a few hundred metres away, its true size may be modest. If the observer assumes it is several kilometres away at aircraft altitude, the same apparent diameter implies an object many times larger.
 
-Weather balloons provide a useful example because they can become surprisingly large. As they climb into thinner air, they expand dramatically before bursting. Some reach several metres in diameter and can be visible at great distances. Yet even these real dimensions are often overestimated because observers mentally place them farther away than they actually are. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.stratoflights.com/wp-content/uploads/2021/11/weather-balloon-datasheet-en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stratoflights.com">[Stratoflights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stratoflights.com</span><span class="citation-popover-title">Weather Balloon</span><span class="citation-popover-snippet">12 cm. (4.7 inch) approx. 13 cm. (5.1 inch) approx. 15 cm. (5.9 inch) approx. 16 cm. (6.3 inch) approx. 16 cm. (6.3 inch) approx. 7 cm. (...</span></span></span>
+Weather balloons provide a useful example because they can become surprisingly large. As they climb into thinner air, they expand dramatically before bursting. Some reach several metres in diameter and can be visible at great distances. Yet even these real dimensions are often overestimated because observers mentally place them farther away than they actually are.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.stratoflights.com/wp-content/uploads/2021/11/weather-balloon-datasheet-en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stratoflights.com">[Stratoflights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stratoflights.com</span><span class="citation-popover-title">Weather Balloon</span><span class="citation-popover-snippet">12 cm. (4.7 inch) approx. 13 cm. (5.1 inch) approx. 15 cm. (5.9 inch) approx. 16 cm. (6.3 inch) approx. 16 cm. (6.3 inch) approx. 7 cm. (...</span></span></span>
 
-Historically, high-altitude balloon programmes generated many reports of enormous unidentified craft. During the early flying-saucer era, classified Skyhook balloons were frequently reported as mysterious discs because observers struggled to judge their distance and speed. In some cases [pilots]({{ 'pilots/' | relative_url }}) and ground observers described apparently gigantic objects that were later identified as balloons viewed under unusual conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Weather_balloon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Weather balloon</span><span class="citation-popover-snippet">March 18, 2026 — A weather balloon, also known as a sounding balloon, is a high-altitude balloon (HAB) that carries instruments into the...</span><span class="citation-popover-meta">Published: March 18, 2026</span></span></span>
+Historically, high-altitude balloon programmes generated many reports of enormous unidentified craft. During the early flying-saucer era, classified Skyhook balloons were frequently reported as mysterious discs because observers struggled to judge their distance and speed. In some cases [pilots]({{ 'pilots/' | relative_url }}) and ground observers described apparently gigantic objects that were later identified as balloons viewed under unusual conditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Weather_balloon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Weather balloon</span><span class="citation-popover-snippet">March 18, 2026 — A weather balloon, also known as a sounding balloon, is a high-altitude balloon (HAB) that carries instruments into the...</span><span class="citation-popover-meta">Published: March 18, 2026</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vUpGTV8Of7U" title="Weather IQ: Weather Balloons" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vUpGTV8Of7U" target="_blank" rel="noopener noreferrer">Weather IQ: Weather Balloons</a></p><p class="youtube-embed-meta">Channel: WCNC Charlotte Weather IQ &middot; Views: 1.0K &middot; Uploaded: August 2021 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vUpGTV8Of7U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vUpGTV8Of7U">Open on YouTube</a></p></div></div></div>
 
@@ -330,7 +330,7 @@ One of the most effective tests in balloon cases is simple magnification.
 
 At naked-eye resolution, a balloon may appear as a featureless point or shining disc. Through binoculars, details can suddenly emerge: a spherical shape, seams, attached payloads, suspension lines or irregular movement consistent with wind drift. What looked like a structured craft can rapidly resolve into a familiar object.
 
-Investigators have documented many cases in which telescopes or binoculars transformed a puzzling UFO report into an identifiable balloon. In the Mantell incident, for example, independent observers using optical aids described a balloon-like object with recognisable structure while others at greater distances perceived something far more mysterious. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Balloon-carried_light_effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Balloon-carried light effect</span><span class="citation-popover-snippet">Balloon-carried light effect</span></span></span>
+Investigators have documented many cases in which telescopes or binoculars transformed a puzzling UFO report into an identifiable balloon. In the Mantell incident, for example, independent observers using optical aids described a balloon-like object with recognisable structure while others at greater distances perceived something far more mysterious.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Balloon-carried_light_effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Balloon-carried light effect</span><span class="citation-popover-snippet">Balloon-carried light effect</span></span></span>
 
 This illustrates an important principle in UFO investigation. Additional detail does not merely make an object easier to see; it can completely alter estimates of distance, and therefore size. Once the true range becomes apparent, the supposed giant craft often shrinks into an ordinary airborne object.
 
@@ -345,7 +345,7 @@ Balloon misidentifications persist because they combine several traits that peop
 * Apparently smooth or metallic surfaces.
 * Lack of visible propulsion.
 * Ability to hover.
-* Sudden changes in brightness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/StarTalk/videos/motion-parallax-of-a-balloon-or-a-real-ufo-sighting/1510872700113371/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">balloon may make sudden changes in direction but this thing moved...</span></span></span>
+* Sudden changes in brightness.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/StarTalk/videos/motion-parallax-of-a-balloon-or-a-real-ufo-sighting/1510872700113371/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">balloon may make sudden changes in direction but this thing moved...</span></span></span>
 * Difficulty estimating speed and distance.
 * Unusual appearance through haze or thin cloud.
 
@@ -353,167 +353,167 @@ Balloon misidentifications persist because they combine several traits that peop
 
 None of these characteristics require exotic technology. They emerge naturally from a lightweight object drifting through the [atmosphere]({{ 'atmosphere/' | relative_url }}) while being viewed without reliable depth cues.
 
-That combination makes balloons one of the clearest examples of how sincere witnesses can transform an ordinary object into an apparently enormous and extraordinary craft. The witness may accurately report what was seen, yet the inferred size, altitude and behaviour can be dramatically different from reality because the object's true distance was never established. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2018/11/ufo-identification-process/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">ufo identification process</span><span class="citation-popover-snippet">Skeptical InquirerUFO Identification ProcessAs UFO investigator Allan Hendry (1979, 6) aptly noted, “We only get to... investigation con...</span></span></span>
+That combination makes balloons one of the clearest examples of how sincere witnesses can transform an ordinary object into an apparently enormous and extraordinary craft. The witness may accurately report what was seen, yet the inferred size, altitude and behaviour can be dramatically different from reality because the object's true distance was never established.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2018/11/ufo-identification-process/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">ufo identification process</span><span class="citation-popover-snippet">Skeptical InquirerUFO Identification ProcessAs UFO investigator Allan Hendry (1979, 6) aptly noted, “We only get to... investigation con...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Cppj4zj2myQ" title="Hot air balloon mishap, tech changing the night sky, the search for alien life | The Forecasters" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Cppj4zj2myQ" target="_blank" rel="noopener noreferrer">Hot air balloon mishap, tech changing the night sky, the search for alien life | The Forecasters</a></p><p class="youtube-embed-meta">Channel: WGN News &middot; Views: 214 &middot; Uploaded: March 2026 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Cppj4zj2myQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Cppj4zj2myQ">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When A Balloon Becomes A Giant Craft. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When A Balloon Becomes A Giant Craft. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
-        </h4>
-        <p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
+</h4>
+<p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
         
-        <p class="fr-book-desc">Explains why scale and distance are often misjudged.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why scale and distance are often misjudged.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">Relevant to interpretation errors in UFO sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to interpretation errors in UFO sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides broader context for aerial sighting reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader context for aerial sighting reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (But Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1119860-M.jpg" alt="Cover for Mistakes Were Made (But Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (But Not by Me)">Mistakes Were Made (But Not by Me)</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (But Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1119860-M.jpg" alt="Cover for Mistakes Were Made (But Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (But Not by Me)">Mistakes Were Made (But Not by Me)</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">First published 2007. Subjects: Fouten, Vergissingen, Cognitive dissonance, Self-deception, Rechtvaardiging.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2007. Subjects: Fouten, Vergissingen, Cognitive dissonance, Self-deception, Rechtvaardiging.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Invisible+Gorilla&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Invisible Gorilla</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Invisible+Gorilla&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Invisible Gorilla</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-balloon-becomes-a-giant-craft-weather-balloon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon model" data-ebay-reference="when-a-balloon-becomes-a-giant-craft-weather-balloon-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Madewell Ottoman Rib Square Neck Top Size Medium Brown Style MB170"><img src="https://i.ebayimg.com/images/g/RVcAAOSwh65oEBIv/s-l225.jpg" alt="Listing image for Madewell Ottoman Rib Square Neck Top Size Medium Brown Style MB170" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-balloon-becomes-a-giant-craft-weather-balloon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon model" data-ebay-reference="when-a-balloon-becomes-a-giant-craft-weather-balloon-model" target="_blank" rel="sponsored noopener noreferrer">Madewell Ottoman Rib Square Neck Top Size Medium Brown Style MB170</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-balloon-becomes-a-giant-craft-weather-balloon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon model" data-ebay-reference="when-a-balloon-becomes-a-giant-craft-weather-balloon-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather balloon model">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather balloon model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-balloon-becomes-a-giant-craft-weather-balloon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon model" data-ebay-reference="when-a-balloon-becomes-a-giant-craft-weather-balloon-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-balloon-becomes-a-giant-craft-weather-balloon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon model" data-ebay-reference="when-a-balloon-becomes-a-giant-craft-weather-balloon-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Madewell Ottoman Rib Square Neck Top Size Medium Brown Style MB170"><img src="https://i.ebayimg.com/images/g/RVcAAOSwh65oEBIv/s-l225.jpg" alt="Listing image for Madewell Ottoman Rib Square Neck Top Size Medium Brown Style MB170" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-balloon-becomes-a-giant-craft-weather-balloon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon model" data-ebay-reference="when-a-balloon-becomes-a-giant-craft-weather-balloon-model" target="_blank" rel="sponsored noopener noreferrer">Madewell Ottoman Rib Square Neck Top Size Medium Brown Style MB170</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-balloon-becomes-a-giant-craft-weather-balloon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon model" data-ebay-reference="when-a-balloon-becomes-a-giant-craft-weather-balloon-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather balloon model">Search<span data-ebay-domain-label>eBay.co.uk</span>: weather balloon model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-balloon-becomes-a-giant-craft-weather-balloon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon model" data-ebay-reference="when-a-balloon-becomes-a-giant-craft-weather-balloon-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-balloon-becomes-a-giant-craft-weather-balloon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon model" data-ebay-reference="when-a-balloon-becomes-a-giant-craft-weather-balloon-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Balloon Modelling Twisting Balloons Balloon Bender Gifts Unisex T-Shirt"><img src="https://i.ebayimg.com/images/g/SEoAAOSwIw5mlmkj/s-l225.jpg" alt="Listing image for Balloon Modelling Twisting Balloons Balloon Bender Gifts Unisex T-Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-balloon-becomes-a-giant-craft-weather-balloon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon model" data-ebay-reference="when-a-balloon-becomes-a-giant-craft-weather-balloon-model" target="_blank" rel="sponsored noopener noreferrer">Balloon Modelling Twisting Balloons Balloon Bender Gifts Unisex T-Shirt</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-balloon-becomes-a-giant-craft-weather-balloon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon model" data-ebay-reference="when-a-balloon-becomes-a-giant-craft-weather-balloon-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather balloon model">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather balloon model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-balloon-becomes-a-giant-craft-weather-balloon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon model" data-ebay-reference="when-a-balloon-becomes-a-giant-craft-weather-balloon-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-balloon-becomes-a-giant-craft-weather-balloon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon model" data-ebay-reference="when-a-balloon-becomes-a-giant-craft-weather-balloon-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-balloon-becomes-a-giant-craft-weather-balloon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon model" data-ebay-reference="when-a-balloon-becomes-a-giant-craft-weather-balloon-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Balloon Modelling Twisting Balloons Balloon Bender Gifts Unisex T-Shirt"><img src="https://i.ebayimg.com/images/g/SEoAAOSwIw5mlmkj/s-l225.jpg" alt="Listing image for Balloon Modelling Twisting Balloons Balloon Bender Gifts Unisex T-Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-balloon-becomes-a-giant-craft-weather-balloon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon model" data-ebay-reference="when-a-balloon-becomes-a-giant-craft-weather-balloon-model" target="_blank" rel="sponsored noopener noreferrer">Balloon Modelling Twisting Balloons Balloon Bender Gifts Unisex T-Shirt</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-balloon-becomes-a-giant-craft-weather-balloon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon model" data-ebay-reference="when-a-balloon-becomes-a-giant-craft-weather-balloon-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather balloon model">Search<span data-ebay-domain-label>eBay.co.uk</span>: weather balloon model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-balloon-becomes-a-giant-craft-weather-balloon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon model" data-ebay-reference="when-a-balloon-becomes-a-giant-craft-weather-balloon-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-balloon-becomes-a-giant-craft-weather-balloon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon model" data-ebay-reference="when-a-balloon-becomes-a-giant-craft-weather-balloon-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -529,7 +529,7 @@ That combination makes balloons one of the clearest examples of how sincere witn
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -549,7 +549,7 @@ That combination makes balloons one of the clearest examples of how sincere witn
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -581,7 +581,7 @@ That combination makes balloons one of the clearest examples of how sincere witn
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -633,7 +633,7 @@ That combination makes balloons one of the clearest examples of how sincere witn
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -678,7 +678,7 @@ That combination makes balloons one of the clearest examples of how sincere witn
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -719,113 +719,113 @@ That combination makes balloons one of the clearest examples of how sincere witn
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Identification studies of UFOs  
-   Link: <a href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Identification_studies_of_UFOs</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Identification_studies_of_UFOs</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Weather balloon  
-   Link: <a href="https://en.wikipedia.org/wiki/Weather_balloon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Weather_balloon</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>March 18, 2026 — A weather balloon, also known as a sounding balloon, is a high-altitude balloon (HAB) that carries instruments into the...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Weather_balloon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Weather_balloon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 18, 2026 — A weather balloon, also known as a sounding balloon, is a high-altitude balloon (HAB) that carries instruments into the...</p></details>
    Published: March 18, 2026  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: windy.app  
    Title: What are weather balloons and how do they work  
-   Link: <a href="https://windy.app/blog/weather-balloons.html" target="_blank" rel="noopener noreferrer nofollow">https://windy.app/blog/weather-balloons.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>For this reason, they are often mistaken for UFOs by people not realizing that they are “only” instruments for collecting...Read more...</p></details>
+   Link:<a href="https://windy.app/blog/weather-balloons.html" target="_blank" rel="noopener noreferrer nofollow">https://windy.app/blog/weather-balloons.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>For this reason, they are often mistaken for UFOs by people not realizing that they are “only” instruments for collecting...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Balloon-carried light effect  
-   Link: <a href="https://en.wikipedia.org/wiki/Balloon-carried_light_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Balloon-carried_light_effect</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Balloon-carried_light_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Balloon-carried_light_effect</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: stratoflights.com  
    Title: Weather Balloon  
-   Link: <a href="https://www.stratoflights.com/wp-content/uploads/2021/11/weather-balloon-datasheet-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.stratoflights.com/wp-content/uploads/2021/11/weather-balloon-datasheet-en.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>12 cm. (4.7 inch) approx. 13 cm. (5.1 inch) approx. 15 cm. (5.9 inch) approx. 16 cm. (6.3 inch) approx. 16 cm. (6.3 inch) approx. 7 cm. (...</p></details>
+   Link:<a href="https://www.stratoflights.com/wp-content/uploads/2021/11/weather-balloon-datasheet-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.stratoflights.com/wp-content/uploads/2021/11/weather-balloon-datasheet-en.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>12 cm. (4.7 inch) approx. 13 cm. (5.1 inch) approx. 15 cm. (5.9 inch) approx. 16 cm. (6.3 inch) approx. 16 cm. (6.3 inch) approx. 7 cm. (...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Flying saucer  
-   Link: <a href="https://en.wikipedia.org/wiki/Flying_saucer" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flying_saucer</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Flying_saucer" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flying_saucer</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Mantell UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Mantell_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mantell_UFO_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Mantell_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mantell_UFO_incident</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Unidentified flying object  
-   Link: <a href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unidentified_flying_object</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified flying object&quot;16 things commonly mistaken for UFOs&quot;. Sky at Night... &quot;Does television news about UFOs affect viewers&#x27; UF...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unidentified_flying_object</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified flying object&quot;16 things commonly mistaken for UFOs&quot;. Sky at Night... &quot;Does television news about UFOs affect viewers&#x27; UF...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: skepticalinquirer.org  
    Title: ufo identification process  
-   Link: <a href="https://skepticalinquirer.org/2018/11/ufo-identification-process/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2018/11/ufo-identification-process/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical InquirerUFO Identification ProcessAs UFO investigator Allan Hendry (1979, 6) aptly noted, “We only get to... investigation con...</p></details>
+   Link:<a href="https://skepticalinquirer.org/2018/11/ufo-identification-process/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2018/11/ufo-identification-process/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical InquirerUFO Identification ProcessAs UFO investigator Allan Hendry (1979, 6) aptly noted, “We only get to... investigation con...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: abc7news.com  
    Title: ABC7 San Francisco What's that weather balloon doing in the sky?  
-   Link: <a href="https://abc7news.com/post/weather-balloons-national-service-chinese-spy-balloon-radiosonde/12819444/" target="_blank" rel="noopener noreferrer nofollow">https://abc7news.com/post/weather-balloons-national-service-chinese-spy-balloon-radiosonde/12819444/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>15 Feb 2023 — Balloons are inflated to 5 feet in diameter with a rope tied at... UFO · WEATHER RECORD · SCIENCE · U.S. &amp; WORLD. Balloon...</p></details>
+   Link:<a href="https://abc7news.com/post/weather-balloons-national-service-chinese-spy-balloon-radiosonde/12819444/" target="_blank" rel="noopener noreferrer nofollow">https://abc7news.com/post/weather-balloons-national-service-chinese-spy-balloon-radiosonde/12819444/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>15 Feb 2023 — Balloons are inflated to 5 feet in diameter with a rope tied at... UFO · WEATHER RECORD · SCIENCE · U.S. &amp; WORLD. Balloon...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>THE NATIONAL INVESTIGATIONS COMMITTEE ON...Blue Book UFO investigation, prepared analyses of UFO data for AF, liaison officer between Da...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE NATIONAL INVESTIGATIONS COMMITTEE ON...Blue Book UFO investigation, prepared analyses of UFO data for AF, liaison officer between Da...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DLnmpuSRH6_/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DLnmpuSRH6_/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;unidentified&quot; doesn&#x27;t always mean &quot;alien.&quot; In the...REPORTS SAY A RECENTLY DISCUSSED UFO VIDEO APPEARS TO SHOW AN &quot;EIGHT-POINTED POINTE...</p></details>
+   Link:<a href="https://www.instagram.com/p/DLnmpuSRH6_/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DLnmpuSRH6_/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;unidentified&quot; doesn&#x27;t always mean &quot;alien.&quot; In the...REPORTS SAY A RECENTLY DISCUSSED UFO VIDEO APPEARS TO SHOW AN &quot;EIGHT-POINTED POINTE...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/6abcAdamJoseph/posts/weather-balloon-101this-is-what-a-weather-balloon-looks-like-and-what-it-records/10158521242628696/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/6abcAdamJoseph/posts/weather-balloon-101this-is-what-a-weather-balloon-looks-like-and-what-it-records/10158521242628696/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>WEATHER BALLOON 101... This is what a...It is used to assess atmospheric stability, wind shear, freezing levels, and the overall environ...</p></details>
+   Link:<a href="https://www.facebook.com/6abcAdamJoseph/posts/weather-balloon-101this-is-what-a-weather-balloon-looks-like-and-what-it-records/10158521242628696/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/6abcAdamJoseph/posts/weather-balloon-101this-is-what-a-weather-balloon-looks-like-and-what-it-records/10158521242628696/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WEATHER BALLOON 101... This is what a...It is used to assess atmospheric stability, wind shear, freezing levels, and the overall environ...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=39SJAcNXCzM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=39SJAcNXCzM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>VFX Artists DEBUNK FLYING ORB UFO VideosI think we bunked this one pretty hard we debunked it we debunked it to Bunk it is actually to pr...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=39SJAcNXCzM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=39SJAcNXCzM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>VFX Artists DEBUNK FLYING ORB UFO VideosI think we bunked this one pretty hard we debunked it we debunked it to Bunk it is actually to pr...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=vUpGTV8Of7U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vUpGTV8Of7U</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Weather IQ: Weather BalloonsBy tracking the position of the radiosonde, we can also calculate wind speed and [wind direction](&amp;#123;&amp;#123; &#x27;wind-direction/&#x27; | relative_url &amp;#125;&amp;#125;). The radioson...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=vUpGTV8Of7U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vUpGTV8Of7U</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Weather IQ: Weather BalloonsBy tracking the position of the radiosonde, we can also calculate wind speed and [wind direction](&amp;#123;&amp;#123; &#x27;wind-direction/&#x27; | relative_url &amp;#125;&amp;#125;). The radioson...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
    Title: FO X31 looked into reports of a strange balloon in the sky  
-   Link: <a href="https://www.facebook.com/fox31denver/posts/fox31-looked-into-reports-of-a-strange-balloon-in-the-sky-heres-what-it-is/1047282550323210/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fox31denver/posts/fox31-looked-into-reports-of-a-strange-balloon-in-the-sky-heres-what-it-is/1047282550323210/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>We quickly put my telescope on the object and noticed it was an orange sphere of some kind. Was it a UFO? No, it was either a weather bal...</p></details>
+   Link:<a href="https://www.facebook.com/fox31denver/posts/fox31-looked-into-reports-of-a-strange-balloon-in-the-sky-heres-what-it-is/1047282550323210/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fox31denver/posts/fox31-looked-into-reports-of-a-strange-balloon-in-the-sky-heres-what-it-is/1047282550323210/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We quickly put my telescope on the object and noticed it was an orange sphere of some kind. Was it a UFO? No, it was either a weather bal...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: jhmovie.fandom.com  
-   Link: <a href="https://jhmovie.fandom.com/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://jhmovie.fandom.com/wiki/Unidentified_flying_object</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>flying object | JH Wiki Collection Wiki - Fandom↑ Jacques Vallee, Dimensions: A Casebook of Alien Contact Contemporary Books, 1988, p...</p></details>
+   Link:<a href="https://jhmovie.fandom.com/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://jhmovie.fandom.com/wiki/Unidentified_flying_object</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>flying object | JH Wiki Collection Wiki - Fandom↑ Jacques Vallee, Dimensions: A Casebook of Alien Contact Contemporary Books, 1988, p...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/StarTalk/videos/motion-parallax-of-a-balloon-or-a-real-ufo-sighting/1510872700113371/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/StarTalk/videos/motion-parallax-of-a-balloon-or-a-real-ufo-sighting/1510872700113371/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>balloon may make sudden changes in direction but this thing moved...</p></details>
+   Link:<a href="https://www.facebook.com/StarTalk/videos/motion-parallax-of-a-balloon-or-a-real-ufo-sighting/1510872700113371/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/StarTalk/videos/motion-parallax-of-a-balloon-or-a-real-ufo-sighting/1510872700113371/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>balloon may make sudden changes in direction but this thing moved...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/29263765/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/29263765/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>weather balloon ascents and descents for...by A Kräuchi · 2016 · Cited by 64 — It has been demonstrated that ascending weather balloons...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/29263765/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/29263765/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>weather balloon ascents and descents for...by A Kräuchi · 2016 · Cited by 64 — It has been demonstrated that ascending weather balloons...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: time.com  
    Title: chinese balloon weather balloon experts  
-   Link: <a href="https://time.com/6253002/chinese-balloon-weather-balloon-experts/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6253002/chinese-balloon-weather-balloon-experts/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Chinese Balloon Looks Nothing Like a Weather Balloon4 Feb 2023 — Experts say that the balloon, which is being closely monitored by US...</p></details>
+   Link:<a href="https://time.com/6253002/chinese-balloon-weather-balloon-experts/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6253002/chinese-balloon-weather-balloon-experts/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Chinese Balloon Looks Nothing Like a Weather Balloon4 Feb 2023 — Experts say that the balloon, which is being closely monitored by US...</p></details>

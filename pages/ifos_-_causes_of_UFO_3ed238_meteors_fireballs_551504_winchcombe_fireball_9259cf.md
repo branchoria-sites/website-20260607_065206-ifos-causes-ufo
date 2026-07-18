@@ -259,22 +259,22 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_meteors_fireballs_551504_winch
 
 ## Introduction
 
-Within the broader subject of UFO reports caused by [meteors]({{ 'meteors/' | relative_url }}) and [fireballs]({{ 'fireballs/' | relative_url }}), the Winchcombe case is valuable because it demonstrates exactly how a spectacular sighting becomes scientifically identified. Rather than relying on a single witness or a single camera, the event generated a chain of evidence extending from atmospheric entry to laboratory analysis of recovered extraterrestrial material. <span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/full/10.1111/maps.13977" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryThe Winchcombe fireball—That lucky survivorby S McMullan · 2024 · Cited by 34 — We reconstruct the fireball&#x27;s atmosph...</span></span></span>
+Within the broader subject of UFO reports caused by [meteors]({{ 'meteors/' | relative_url }}) and [fireballs]({{ 'fireballs/' | relative_url }}), the Winchcombe case is valuable because it demonstrates exactly how a spectacular sighting becomes scientifically identified. Rather than relying on a single witness or a single camera, the event generated a chain of evidence extending from atmospheric entry to laboratory analysis of recovered extraterrestrial material.<span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/full/10.1111/maps.13977" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryThe Winchcombe fireball—That lucky survivorby S McMullan · 2024 · Cited by 34 — We reconstruct the fireball&#x27;s atmosph...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_meteors_fireballs_551504_winchcombe_fireball_9259cf-Illustration-1-dark.svg" | relative_url }}" alt="Winchcombe Fireball 9259 Cf illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_meteors_fireballs_551504_winchcombe_fireball_9259cf-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_meteors_fireballs_551504_winchcombe_fireball_9259cf-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The seven-second fireball seen across Britain
 
-At 21:54 UTC on 28 February 2021, a bright fireball crossed the night sky over Britain. Observers from England, Wales, Ireland and parts of continental Europe reported seeing an unusually bright object that glowed green, fragmented, and left a luminous trail before disappearing. According to the FRIPON meteor network, the visible flight lasted approximately seven seconds, an unusually long and memorable duration for many observers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fripon.org/2021-02-28-winchcombe-uk-fireball-and-meteorite-recovery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fripon.org">[www.fripon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fripon.org</span><span class="citation-popover-snippet">www.fripon.org2021/02/28, Winchcombe (UK), fireball and meteorite...21 Apr 2021 — The Winchcombe meteorite was the second to be recovere...</span></span></span>
+At 21:54 UTC on 28 February 2021, a bright fireball crossed the night sky over Britain. Observers from England, Wales, Ireland and parts of continental Europe reported seeing an unusually bright object that glowed green, fragmented, and left a luminous trail before disappearing. According to the FRIPON meteor network, the visible flight lasted approximately seven seconds, an unusually long and memorable duration for many observers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fripon.org/2021-02-28-winchcombe-uk-fireball-and-meteorite-recovery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fripon.org">[www.fripon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fripon.org</span><span class="citation-popover-snippet">www.fripon.org2021/02/28, Winchcombe (UK), fireball and meteorite...21 Apr 2021 — The Winchcombe meteorite was the second to be recovere...</span></span></span>
 
-The visual appearance contained many of the features that commonly generate UFO reports. Witnesses described a glowing object that seemed exceptionally bright, changed appearance during flight, and broke into multiple fragments. Some observers reported hearing sonic effects after the visual event had ended. Such characteristics can make it difficult for witnesses to estimate distance, altitude or speed. A meteor tens of kilometres above the ground can appear surprisingly close, while fragmentation may be interpreted as controlled manoeuvring or multiple objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9668287/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The Winchcombe meteorite, a unique and pristine witness...by AJ King · 2022 · Cited by 71 — The fireball was also captured on numerou...</span></span></span>
+The visual appearance contained many of the features that commonly generate UFO reports. Witnesses described a glowing object that seemed exceptionally bright, changed appearance during flight, and broke into multiple fragments. Some observers reported hearing sonic effects after the visual event had ended. Such characteristics can make it difficult for witnesses to estimate distance, altitude or speed. A meteor tens of kilometres above the ground can appear surprisingly close, while fragmentation may be interpreted as controlled manoeuvring or multiple objects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9668287/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The Winchcombe meteorite, a unique and pristine witness...by AJ King · 2022 · Cited by 71 — The fireball was also captured on numerou...</span></span></span>
 
-More than 1,000 eyewitness reports were submitted to meteor organisations including the International Meteor Organization and the UK Meteor Observation Network. In isolation, those reports would have provided only a broad picture. Their real value came when they were combined with instrumental observations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9668287/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The Winchcombe meteorite, a unique and pristine witness...by AJ King · 2022 · Cited by 71 — The fireball was also captured on numerou...</span></span></span>
+More than 1,000 eyewitness reports were submitted to meteor organisations including the International Meteor Organization and the UK Meteor Observation Network. In isolation, those reports would have provided only a broad picture. Their real value came when they were combined with instrumental observations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9668287/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The Winchcombe meteorite, a unique and pristine witness...by AJ King · 2022 · Cited by 71 — The fireball was also captured on numerou...</span></span></span>
 
 ## How camera networks turned a sighting into measured data
 
-The key reason the Winchcombe event became a solved case was the existence of modern meteor-monitoring networks. The fireball was recorded by 16 dedicated meteor cameras, supplemented by numerous recordings from doorbell cameras, CCTV systems and vehicle dashcams. The UK Fireball Alliance, UK Meteor Network, FRIPON and other collaborating groups were therefore able to examine the same event from many different viewing angles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9668287/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The Winchcombe meteorite, a unique and pristine witness...by AJ King · 2022 · Cited by 71 — The fireball was also captured on numerou...</span></span></span>
+The key reason the Winchcombe event became a solved case was the existence of modern meteor-monitoring networks. The fireball was recorded by 16 dedicated meteor cameras, supplemented by numerous recordings from doorbell cameras, CCTV systems and vehicle dashcams. The UK Fireball Alliance, UK Meteor Network, FRIPON and other collaborating groups were therefore able to examine the same event from many different viewing angles.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9668287/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The Winchcombe meteorite, a unique and pristine witness...by AJ King · 2022 · Cited by 71 — The fireball was also captured on numerou...</span></span></span>
 
-This transformed the investigation from witness interpretation into measurement. When an object is recorded simultaneously from multiple locations, researchers can triangulate its position through time. By comparing precisely where the fireball appeared against known [stars]({{ 'stars/' | relative_url }}) in each image, they can reconstruct its atmospheric path in three dimensions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/full/10.1111/maps.13977" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryThe Winchcombe fireball—That lucky survivorby S McMullan · 2024 · Cited by 34 — We reconstruct the fireball&#x27;s atmosph...</span></span></span>
+This transformed the investigation from witness interpretation into measurement. When an object is recorded simultaneously from multiple locations, researchers can triangulate its position through time. By comparing precisely where the fireball appeared against known [stars]({{ 'stars/' | relative_url }}) in each image, they can reconstruct its atmospheric path in three dimensions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/full/10.1111/maps.13977" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryThe Winchcombe fireball—That lucky survivorby S McMullan · 2024 · Cited by 34 — We reconstruct the fireball&#x27;s atmosph...</span></span></span>
 
 The reconstruction revealed several critical facts:
 
@@ -284,42 +284,42 @@ The reconstruction revealed several critical facts:
 * Its trajectory could be mapped with high precision.
 * Its velocity before major deceleration was approximately 13.9 kilometres per second.
 * It fragmented repeatedly during atmospheric entry.
-* Surviving material was likely to reach the ground. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2303.12126" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv The Winchcombe Fireball -- that Lucky Survivor</span><span class="citation-popover-snippet">arXiv The Winchcombe Fireball -- that Lucky Survivor</span></span></span>
+* Surviving material was likely to reach the ground.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2303.12126" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv The Winchcombe Fireball -- that Lucky Survivor</span><span class="citation-popover-snippet">arXiv The Winchcombe Fireball -- that Lucky Survivor</span></span></span>
 
 </div>
 
-The velocity proved especially important. Many meteors strike the atmosphere at much higher speeds. Researchers later concluded that Winchcombe's unusually low entry velocity was a major reason why fragments survived to become recoverable meteorites. The meteoroid experienced lower peak aerodynamic stresses than many comparable objects, allowing portions of an otherwise fragile body to survive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2303.12126" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv The Winchcombe Fireball -- that Lucky Survivor</span><span class="citation-popover-snippet">arXiv The Winchcombe Fireball -- that Lucky Survivor</span></span></span>
+The velocity proved especially important. Many meteors strike the atmosphere at much higher speeds. Researchers later concluded that Winchcombe's unusually low entry velocity was a major reason why fragments survived to become recoverable meteorites. The meteoroid experienced lower peak aerodynamic stresses than many comparable objects, allowing portions of an otherwise fragile body to survive.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2303.12126" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv The Winchcombe Fireball -- that Lucky Survivor</span><span class="citation-popover-snippet">arXiv The Winchcombe Fireball -- that Lucky Survivor</span></span></span>
 
-The availability of multiple camera networks also allowed investigators to estimate the object's orbit before it encountered Earth. By mathematically reversing its path, researchers traced the meteoroid back to the asteroid belt and reconstructed aspects of its journey through the Solar System. Wiley Online Library <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2303.12126" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv The Winchcombe Fireball -- that Lucky Survivor</span><span class="citation-popover-snippet">arXiv The Winchcombe Fireball -- that Lucky Survivor</span></span></span>
+The availability of multiple camera networks also allowed investigators to estimate the object's orbit before it encountered Earth. By mathematically reversing its path, researchers traced the meteoroid back to the asteroid belt and reconstructed aspects of its journey through the Solar System. Wiley Online Library<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2303.12126" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv The Winchcombe Fireball -- that Lucky Survivor</span><span class="citation-popover-snippet">arXiv The Winchcombe Fireball -- that Lucky Survivor</span></span></span>
 
 ## Predicting where the meteorites would land
 
 The most impressive part of the investigation came after the fireball disappeared.
 
-Once the luminous phase ended, researchers modelled the “dark flight” of surviving fragments. During dark flight, meteorites are no longer glowing but continue falling through the atmosphere under the influence of gravity and winds. By combining trajectory calculations with weather data, investigators generated a predicted strewn field—the area where fragments were likely to land. <span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/full/10.1111/maps.13977" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryThe Winchcombe fireball—That lucky survivorby S McMullan · 2024 · Cited by 34 — We reconstruct the fireball&#x27;s atmosph...</span></span></span>
+Once the luminous phase ended, researchers modelled the “dark flight” of surviving fragments. During dark flight, meteorites are no longer glowing but continue falling through the atmosphere under the influence of gravity and winds. By combining trajectory calculations with weather data, investigators generated a predicted strewn field—the area where fragments were likely to land.<span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/full/10.1111/maps.13977" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryThe Winchcombe fireball—That lucky survivorby S McMullan · 2024 · Cited by 34 — We reconstruct the fireball&#x27;s atmosph...</span></span></span>
 
-This prediction focused attention on the region around Winchcombe in Gloucestershire. Scientists quickly issued public appeals asking residents to inspect driveways, gardens and fields for unusual dark stones. Because fresh meteorites can rapidly become contaminated by rainwater and terrestrial materials, speed was essential. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ukfall.org.uk/winchcombe-2021/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ukfall.org.uk">[The UK Fireball Alliance]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ukfall.org.uk</span><span class="citation-popover-title">winchcombe 2021</span><span class="citation-popover-snippet">The UK Fireball Alliance2021: The Winchcombe FireballFollowing reports from the local community and a search by UK planetary scientists...</span></span></span>
+This prediction focused attention on the region around Winchcombe in Gloucestershire. Scientists quickly issued public appeals asking residents to inspect driveways, gardens and fields for unusual dark stones. Because fresh meteorites can rapidly become contaminated by rainwater and terrestrial materials, speed was essential.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ukfall.org.uk/winchcombe-2021/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ukfall.org.uk">[The UK Fireball Alliance]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ukfall.org.uk</span><span class="citation-popover-title">winchcombe 2021</span><span class="citation-popover-snippet">The UK Fireball Alliance2021: The Winchcombe FireballFollowing reports from the local community and a search by UK planetary scientists...</span></span></span>
 
 The prediction proved remarkably accurate.
 
-On the morning after the fall, members of the Wilcock family discovered a scatter of black material on their driveway. The fragments were collected and rapidly examined by specialists, who confirmed they were meteorites from the previous night's fireball. Approximately 319 grams were recovered from the driveway and lawn alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Winchcombe_meteorite" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Winchcombe meteorite</span><span class="citation-popover-snippet">Winchcombe meteorite</span></span></span>
+On the morning after the fall, members of the Wilcock family discovered a scatter of black material on their driveway. The fragments were collected and rapidly examined by specialists, who confirmed they were meteorites from the previous night's fireball. Approximately 319 grams were recovered from the driveway and lawn alone.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Winchcombe_meteorite" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Winchcombe meteorite</span><span class="citation-popover-snippet">Winchcombe meteorite</span></span></span>
 
-This was a crucial moment. A trajectory model had produced a specific search area, and meteorites were found exactly where the model indicated they should be. The event was no longer merely a likely explanation; it had become a testable prediction that succeeded. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ukfall.org.uk/winchcombe-2021/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ukfall.org.uk">[The UK Fireball Alliance]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ukfall.org.uk</span><span class="citation-popover-title">winchcombe 2021</span><span class="citation-popover-snippet">The UK Fireball Alliance2021: The Winchcombe FireballFollowing reports from the local community and a search by UK planetary scientists...</span></span></span>
+This was a crucial moment. A trajectory model had produced a specific search area, and meteorites were found exactly where the model indicated they should be. The event was no longer merely a likely explanation; it had become a testable prediction that succeeded.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ukfall.org.uk/winchcombe-2021/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ukfall.org.uk">[The UK Fireball Alliance]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ukfall.org.uk</span><span class="citation-popover-title">winchcombe 2021</span><span class="citation-popover-snippet">The UK Fireball Alliance2021: The Winchcombe FireballFollowing reports from the local community and a search by UK planetary scientists...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_meteors_fireballs_551504_winchcombe_fireball_9259cf-Illustration-2-dark.svg" | relative_url }}" alt="Winchcombe Fireball 9259 Cf illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_meteors_fireballs_551504_winchcombe_fireball_9259cf-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_meteors_fireballs_551504_winchcombe_fireball_9259cf-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why recovered fragments changed the case completely
 
 Many unusual aerial reports remain unresolved because the evidence ends when the object disappears. Winchcombe was different because investigators obtained physical samples.
 
-Over the following days, additional searches recovered more fragments from fields and nearby locations. More than 500 grams of meteorite material were recovered within a week, eventually reaching a total known weight of approximately 602 grams. The UK Fireball Alliance <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Winchcombe_meteorite" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Winchcombe meteorite</span><span class="citation-popover-snippet">Winchcombe meteorite</span></span></span> Recovered fragments allowed scientists to answer questions that cameras alone could never resolve.
+Over the following days, additional searches recovered more fragments from fields and nearby locations. More than 500 grams of meteorite material were recovered within a week, eventually reaching a total known weight of approximately 602 grams. The UK Fireball Alliance<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Winchcombe_meteorite" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Winchcombe meteorite</span><span class="citation-popover-snippet">Winchcombe meteorite</span></span></span> Recovered fragments allowed scientists to answer questions that cameras alone could never resolve.
 
-First, laboratory examination established that the material was a CM2 carbonaceous chondrite. Carbonaceous chondrites are among the most chemically primitive meteorites known and preserve material dating from the earliest stages of Solar System formation around 4.6 billion years ago. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nhm.ac.uk/discover/news/2021/september/from-field-to-vault-how-the-largest-winchcombe-meteorite-was-found.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nhm.ac.uk">[Natural History Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nhm.ac.uk</span><span class="citation-popover-title">It is also the first-ever carbonaceous chondrite</span><span class="citation-popover-snippet">Natural History MuseumFrom field to Vault, how the largest Winchcombe meteorite...5 Oct 2021 — The Winchcombe meteorite is the first met...</span></span></span>
+First, laboratory examination established that the material was a CM2 carbonaceous chondrite. Carbonaceous chondrites are among the most chemically primitive meteorites known and preserve material dating from the earliest stages of Solar System formation around 4.6 billion years ago.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nhm.ac.uk/discover/news/2021/september/from-field-to-vault-how-the-largest-winchcombe-meteorite-was-found.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nhm.ac.uk">[Natural History Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nhm.ac.uk</span><span class="citation-popover-title">It is also the first-ever carbonaceous chondrite</span><span class="citation-popover-snippet">Natural History MuseumFrom field to Vault, how the largest Winchcombe meteorite...5 Oct 2021 — The Winchcombe meteorite is the first met...</span></span></span>
 
-Second, the meteorite's composition confirmed that the object was natural and extraterrestrial. It was not aircraft debris, a satellite fragment, or any unknown manufactured object. Physical analysis removed those possibilities completely. <span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/full/10.1111/maps.13977" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryThe Winchcombe fireball—That lucky survivorby S McMullan · 2024 · Cited by 34 — We reconstruct the fireball&#x27;s atmosph...</span></span></span>
+Second, the meteorite's composition confirmed that the object was natural and extraterrestrial. It was not aircraft debris, a satellite fragment, or any unknown manufactured object. Physical analysis removed those possibilities completely.<span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/full/10.1111/maps.13977" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryThe Winchcombe fireball—That lucky survivorby S McMullan · 2024 · Cited by 34 — We reconstruct the fireball&#x27;s atmosph...</span></span></span>
 
-Third, the speed of recovery preserved an unusually pristine sample. Researchers emphasised that meteorites begin interacting with Earth's environment almost immediately after landing. Because the Winchcombe material was recovered so quickly, scientists obtained exceptionally fresh samples for analysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/full/10.1111/maps.13977" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryThe Winchcombe fireball—That lucky survivorby S McMullan · 2024 · Cited by 34 — We reconstruct the fireball&#x27;s atmosph...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nhm.ac.uk/discover/news/2021/september/from-field-to-vault-how-the-largest-winchcombe-meteorite-was-found.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nhm.ac.uk">[Natural History Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nhm.ac.uk</span><span class="citation-popover-title">It is also the first-ever carbonaceous chondrite</span><span class="citation-popover-snippet">Natural History MuseumFrom field to Vault, how the largest Winchcombe meteorite...5 Oct 2021 — The Winchcombe meteorite is the first met...</span></span></span>
+Third, the speed of recovery preserved an unusually pristine sample. Researchers emphasised that meteorites begin interacting with Earth's environment almost immediately after landing. Because the Winchcombe material was recovered so quickly, scientists obtained exceptionally fresh samples for analysis.<span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/full/10.1111/maps.13977" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryThe Winchcombe fireball—That lucky survivorby S McMullan · 2024 · Cited by 34 — We reconstruct the fireball&#x27;s atmosph...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nhm.ac.uk/discover/news/2021/september/from-field-to-vault-how-the-largest-winchcombe-meteorite-was-found.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nhm.ac.uk">[Natural History Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nhm.ac.uk</span><span class="citation-popover-title">It is also the first-ever carbonaceous chondrite</span><span class="citation-popover-snippet">Natural History MuseumFrom field to Vault, how the largest Winchcombe meteorite...5 Oct 2021 — The Winchcombe meteorite is the first met...</span></span></span>
 
-The scientific value of those samples has continued well beyond the initial recovery. Subsequent studies have examined their mineralogy, organic chemistry and water-bearing components. Analyses of the meteorite have contributed to discussions about how water and volatile materials may have been delivered to the early Earth by carbonaceous asteroids. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thetimes.co.uk/article/winchcombe-meteorite-sheds-light-on-how-water-came-to-earth-7p67vx2w9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thetimes.co.uk">[The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thetimes.co.uk</span><span class="citation-popover-title">The Times Winchcombe meteorite sheds light on how water came to Earth</span><span class="citation-popover-snippet">This meteorite, an exceptionally well-preserved CM carbonaceous chondrite, contains isotopic signatures of hydrogen and oxygen that close...</span></span></span>
+The scientific value of those samples has continued well beyond the initial recovery. Subsequent studies have examined their mineralogy, organic chemistry and water-bearing components. Analyses of the meteorite have contributed to discussions about how water and volatile materials may have been delivered to the early Earth by carbonaceous asteroids.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thetimes.co.uk/article/winchcombe-meteorite-sheds-light-on-how-water-came-to-earth-7p67vx2w9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thetimes.co.uk">[The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thetimes.co.uk</span><span class="citation-popover-title">The Times Winchcombe meteorite sheds light on how water came to Earth</span><span class="citation-popover-snippet">This meteorite, an exceptionally well-preserved CM carbonaceous chondrite, contains isotopic signatures of hydrogen and oxygen that close...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uKqNptxxHz0" title="Recovering the Winchcombe meteorite" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uKqNptxxHz0" target="_blank" rel="noopener noreferrer">Recovering the Winchcombe meteorite</a></p><p class="youtube-embed-meta">Channel: University of Glasgow &middot; Views: 2.9K &middot; Uploaded: July 2021 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uKqNptxxHz0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uKqNptxxHz0">Open on YouTube</a></p></div></div></div>
 
@@ -336,206 +336,206 @@ The sequence unfolded as follows:
 5. Dark-flight modelling predicted a meteorite fall zone.
 6. Meteorites were recovered inside the predicted area.
 7. Laboratory analysis identified the recovered material as a rare carbonaceous chondrite.
-8. Orbital calculations linked the object to an asteroid source region in space. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2303.12126" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv The Winchcombe Fireball -- that Lucky Survivor</span><span class="citation-popover-snippet">arXiv The Winchcombe Fireball -- that Lucky Survivor</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9668287/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The Winchcombe meteorite, a unique and pristine witness...by AJ King · 2022 · Cited by 71 — The fireball was also captured on numerou...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/full/10.1111/maps.13977" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryThe Winchcombe fireball—That lucky survivorby S McMullan · 2024 · Cited by 34 — We reconstruct the fireball&#x27;s atmosph...</span></span></span>
+8. Orbital calculations linked the object to an asteroid source region in space.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2303.12126" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv The Winchcombe Fireball -- that Lucky Survivor</span><span class="citation-popover-snippet">arXiv The Winchcombe Fireball -- that Lucky Survivor</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9668287/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The Winchcombe meteorite, a unique and pristine witness...by AJ King · 2022 · Cited by 71 — The fireball was also captured on numerou...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/full/10.1111/maps.13977" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryThe Winchcombe fireball—That lucky survivorby S McMullan · 2024 · Cited by 34 — We reconstruct the fireball&#x27;s atmosph...</span></span></span>
 
-Each stage confirmed the conclusions reached at the previous stage. Witnesses established that an unusual event occurred. Cameras quantified it. Models predicted where evidence should be found. Physical evidence appeared where predicted. Laboratory science confirmed the nature of that evidence. This is precisely the sort of converging evidence that investigators seek when evaluating unidentified aerial phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/full/10.1111/maps.13977" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryThe Winchcombe fireball—That lucky survivorby S McMullan · 2024 · Cited by 34 — We reconstruct the fireball&#x27;s atmosph...</span></span></span>
+Each stage confirmed the conclusions reached at the previous stage. Witnesses established that an unusual event occurred. Cameras quantified it. Models predicted where evidence should be found. Physical evidence appeared where predicted. Laboratory science confirmed the nature of that evidence. This is precisely the sort of converging evidence that investigators seek when evaluating unidentified aerial phenomena.<span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/full/10.1111/maps.13977" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryThe Winchcombe fireball—That lucky survivorby S McMullan · 2024 · Cited by 34 — We reconstruct the fireball&#x27;s atmosph...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_meteors_fireballs_551504_winchcombe_fireball_9259cf-Illustration-3-dark.svg" | relative_url }}" alt="Winchcombe Fireball 9259 Cf illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_meteors_fireballs_551504_winchcombe_fireball_9259cf-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_meteors_fireballs_551504_winchcombe_fireball_9259cf-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Winchcombe demonstrates about UFO identification
 
 The Winchcombe fireball illustrates a broader lesson about spectacular sky sightings. A dramatic visual event can appear mysterious when viewed from a single location and interpreted through human perception alone. Yet modern observation networks can often provide a completely different picture.
 
-Had the fireball been observed only by scattered witnesses, it might have remained a memorable but poorly understood sighting. Instead, a combination of camera networks, citizen reports, trajectory analysis, meteorite recovery and laboratory science converted a brief seven-second spectacle into one of the best-documented meteorite falls in British history. It was the first recovered meteorite fall in the United Kingdom for three decades and the first recovered UK carbonaceous chondrite, making it both a scientific success and a textbook example of how an initially unidentified object can become a solved case through evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://eprints.gla.ac.uk/292912/1/292912.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eprints.gla.ac.uk">[Enlighten Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eprints.gla.ac.uk</span><span class="citation-popover-snippet">Enlighten PublicationsRecovery and curation of the Winchcombe (CM2) meteoriteby SS Russell · 2024 · Cited by 20 — Abstract–The Winchcombe...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nhm.ac.uk/discover/news/2021/september/from-field-to-vault-how-the-largest-winchcombe-meteorite-was-found.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nhm.ac.uk">[Natural History Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nhm.ac.uk</span><span class="citation-popover-title">It is also the first-ever carbonaceous chondrite</span><span class="citation-popover-snippet">Natural History MuseumFrom field to Vault, how the largest Winchcombe meteorite...5 Oct 2021 — The Winchcombe meteorite is the first met...</span></span></span>
+Had the fireball been observed only by scattered witnesses, it might have remained a memorable but poorly understood sighting. Instead, a combination of camera networks, citizen reports, trajectory analysis, meteorite recovery and laboratory science converted a brief seven-second spectacle into one of the best-documented meteorite falls in British history. It was the first recovered meteorite fall in the United Kingdom for three decades and the first recovered UK carbonaceous chondrite, making it both a scientific success and a textbook example of how an initially unidentified object can become a solved case through evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://eprints.gla.ac.uk/292912/1/292912.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eprints.gla.ac.uk">[Enlighten Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eprints.gla.ac.uk</span><span class="citation-popover-snippet">Enlighten PublicationsRecovery and curation of the Winchcombe (CM2) meteoriteby SS Russell · 2024 · Cited by 20 — Abstract–The Winchcombe...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nhm.ac.uk/discover/news/2021/september/from-field-to-vault-how-the-largest-winchcombe-meteorite-was-found.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nhm.ac.uk">[Natural History Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nhm.ac.uk</span><span class="citation-popover-title">It is also the first-ever carbonaceous chondrite</span><span class="citation-popover-snippet">Natural History MuseumFrom field to Vault, how the largest Winchcombe meteorite...5 Oct 2021 — The Winchcombe meteorite is the first met...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Winchcombe Fireball 9259 Cf. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Winchcombe Fireball 9259 Cf. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ATZGAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Handbook">The UFO Handbook</a>
-        </h4>
-        <p class="fr-book-author">By Allan Hendry</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ATZGAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Handbook">The UFO Handbook</a>
+</h4>
+<p class="fr-book-author">By Allan Hendry</p>
         
-        <p class="fr-book-desc">Addresses conventional causes including meteors and fireballs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses conventional causes including meteors and fireballs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Covers night-sky observation and bright celestial objects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers night-sky observation and bright celestial objects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteorites+by+Sara+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteorites on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Bg2kPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Meteorites" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Meteorites+by+Sara+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteorites">Meteorites</a>
-        </h4>
-        <p class="fr-book-author">By Sara Russell, Monica M. Grady</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteorites+by+Sara+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteorites on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Bg2kPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Meteorites" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Meteorites+by+Sara+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteorites">Meteorites</a>
+</h4>
+<p class="fr-book-author">By Sara Russell, Monica M. Grady</p>
         
-        <p class="fr-book-desc">Explains meteors, meteorites, and recovered space rocks.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Meteorites+by+Sara+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains meteors, meteorites, and recovered space rocks.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Meteorites+by+Sara+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Backyard Astronomer&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hdvYKwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Backyard Astronomer&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Backyard Astronomer&#x27;s Guide">The Backyard Astronomer&#x27;s Guide</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson, Alan Dyer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Backyard Astronomer&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hdvYKwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Backyard Astronomer&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Backyard Astronomer&#x27;s Guide">The Backyard Astronomer&#x27;s Guide</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson, Alan Dyer</p>
         
-        <p class="fr-book-desc">Helps readers identify common sky events and observing conditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers identify common sky events and observing conditions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Meteorites&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meteorites</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Meteorites&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meteorites</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifos-causes-of-ufo-3ed238-meteors-fireballs-551504-winchcombe-fireball-9259cf-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="ifos-causes-of-ufo-3ed238-meteors-fireballs-551504-winchcombe-fireball-9259cf-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Indochinite Tektite Natural Impact Glass Meteorite Related Specimen, Genuine"><img src="https://i.ebayimg.com/images/g/ZD8AAeSwqyxqCuJk/s-l225.jpg" alt="Listing image for Indochinite Tektite Natural Impact Glass Meteorite Related Specimen, Genuine" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifos-causes-of-ufo-3ed238-meteors-fireballs-551504-winchcombe-fireball-9259cf-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="ifos-causes-of-ufo-3ed238-meteors-fireballs-551504-winchcombe-fireball-9259cf-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer">Indochinite Tektite Natural Impact Glass Meteorite Related Specimen, Genuine</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifos-causes-of-ufo-3ed238-meteors-fireballs-551504-winchcombe-fireball-9259cf-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="ifos-causes-of-ufo-3ed238-meteors-fireballs-551504-winchcombe-fireball-9259cf-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite specimen">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteorite specimen</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifos-causes-of-ufo-3ed238-meteors-fireballs-551504-winchcombe-fireball-9259cf-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="ifos-causes-of-ufo-3ed238-meteors-fireballs-551504-winchcombe-fireball-9259cf-meteorite-specimen" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifos-causes-of-ufo-3ed238-meteors-fireballs-551504-winchcombe-fireball-9259cf-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="ifos-causes-of-ufo-3ed238-meteors-fireballs-551504-winchcombe-fireball-9259cf-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Indochinite Tektite Natural Impact Glass Meteorite Related Specimen, Genuine"><img src="https://i.ebayimg.com/images/g/ZD8AAeSwqyxqCuJk/s-l225.jpg" alt="Listing image for Indochinite Tektite Natural Impact Glass Meteorite Related Specimen, Genuine" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifos-causes-of-ufo-3ed238-meteors-fireballs-551504-winchcombe-fireball-9259cf-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="ifos-causes-of-ufo-3ed238-meteors-fireballs-551504-winchcombe-fireball-9259cf-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer">Indochinite Tektite Natural Impact Glass Meteorite Related Specimen, Genuine</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifos-causes-of-ufo-3ed238-meteors-fireballs-551504-winchcombe-fireball-9259cf-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="ifos-causes-of-ufo-3ed238-meteors-fireballs-551504-winchcombe-fireball-9259cf-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite specimen">Search<span data-ebay-domain-label>eBay.co.uk</span>: meteorite specimen</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifos-causes-of-ufo-3ed238-meteors-fireballs-551504-winchcombe-fireball-9259cf-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="ifos-causes-of-ufo-3ed238-meteors-fireballs-551504-winchcombe-fireball-9259cf-meteorite-specimen" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifos-causes-of-ufo-3ed238-meteors-fireballs-551504-winchcombe-fireball-9259cf-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="ifos-causes-of-ufo-3ed238-meteors-fireballs-551504-winchcombe-fireball-9259cf-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rare NWA 12471 Ureilite Meteorite - Genuine Specimen w/ Certificate of"><img src="https://i.ebayimg.com/images/g/B6MAAeSwGTpqCt-l/s-l225.jpg" alt="Listing image for Rare NWA 12471 Ureilite Meteorite - Genuine Specimen w/ Certificate of" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifos-causes-of-ufo-3ed238-meteors-fireballs-551504-winchcombe-fireball-9259cf-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="ifos-causes-of-ufo-3ed238-meteors-fireballs-551504-winchcombe-fireball-9259cf-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer">Rare NWA 12471 Ureilite Meteorite - Genuine Specimen w/ Certificate of</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifos-causes-of-ufo-3ed238-meteors-fireballs-551504-winchcombe-fireball-9259cf-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="ifos-causes-of-ufo-3ed238-meteors-fireballs-551504-winchcombe-fireball-9259cf-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite specimen">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteorite specimen</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifos-causes-of-ufo-3ed238-meteors-fireballs-551504-winchcombe-fireball-9259cf-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="ifos-causes-of-ufo-3ed238-meteors-fireballs-551504-winchcombe-fireball-9259cf-meteorite-specimen" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifos-causes-of-ufo-3ed238-meteors-fireballs-551504-winchcombe-fireball-9259cf-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="ifos-causes-of-ufo-3ed238-meteors-fireballs-551504-winchcombe-fireball-9259cf-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rare NWA 12471 Ureilite Meteorite - Genuine Specimen w/ Certificate of"><img src="https://i.ebayimg.com/images/g/B6MAAeSwGTpqCt-l/s-l225.jpg" alt="Listing image for Rare NWA 12471 Ureilite Meteorite - Genuine Specimen w/ Certificate of" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifos-causes-of-ufo-3ed238-meteors-fireballs-551504-winchcombe-fireball-9259cf-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="ifos-causes-of-ufo-3ed238-meteors-fireballs-551504-winchcombe-fireball-9259cf-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer">Rare NWA 12471 Ureilite Meteorite - Genuine Specimen w/ Certificate of</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifos-causes-of-ufo-3ed238-meteors-fireballs-551504-winchcombe-fireball-9259cf-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="ifos-causes-of-ufo-3ed238-meteors-fireballs-551504-winchcombe-fireball-9259cf-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite specimen">Search<span data-ebay-domain-label>eBay.co.uk</span>: meteorite specimen</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifos-causes-of-ufo-3ed238-meteors-fireballs-551504-winchcombe-fireball-9259cf-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="ifos-causes-of-ufo-3ed238-meteors-fireballs-551504-winchcombe-fireball-9259cf-meteorite-specimen" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifos-causes-of-ufo-3ed238-meteors-fireballs-551504-winchcombe-fireball-9259cf-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="ifos-causes-of-ufo-3ed238-meteors-fireballs-551504-winchcombe-fireball-9259cf-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lunar Meteorite NWA 003 Genuine Moon Rock Specimen Morocco"><img src="https://i.ebayimg.com/images/g/hCAAAeSwKOdp7MPF/s-l225.jpg" alt="Listing image for Lunar Meteorite NWA 003 Genuine Moon Rock Specimen Morocco" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifos-causes-of-ufo-3ed238-meteors-fireballs-551504-winchcombe-fireball-9259cf-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="ifos-causes-of-ufo-3ed238-meteors-fireballs-551504-winchcombe-fireball-9259cf-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer">Lunar Meteorite NWA 003 Genuine Moon Rock Specimen Morocco</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifos-causes-of-ufo-3ed238-meteors-fireballs-551504-winchcombe-fireball-9259cf-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="ifos-causes-of-ufo-3ed238-meteors-fireballs-551504-winchcombe-fireball-9259cf-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite specimen">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteorite specimen</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifos-causes-of-ufo-3ed238-meteors-fireballs-551504-winchcombe-fireball-9259cf-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="ifos-causes-of-ufo-3ed238-meteors-fireballs-551504-winchcombe-fireball-9259cf-meteorite-specimen" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifos-causes-of-ufo-3ed238-meteors-fireballs-551504-winchcombe-fireball-9259cf-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="ifos-causes-of-ufo-3ed238-meteors-fireballs-551504-winchcombe-fireball-9259cf-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lunar Meteorite NWA 003 Genuine Moon Rock Specimen Morocco"><img src="https://i.ebayimg.com/images/g/hCAAAeSwKOdp7MPF/s-l225.jpg" alt="Listing image for Lunar Meteorite NWA 003 Genuine Moon Rock Specimen Morocco" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifos-causes-of-ufo-3ed238-meteors-fireballs-551504-winchcombe-fireball-9259cf-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="ifos-causes-of-ufo-3ed238-meteors-fireballs-551504-winchcombe-fireball-9259cf-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer">Lunar Meteorite NWA 003 Genuine Moon Rock Specimen Morocco</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifos-causes-of-ufo-3ed238-meteors-fireballs-551504-winchcombe-fireball-9259cf-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="ifos-causes-of-ufo-3ed238-meteors-fireballs-551504-winchcombe-fireball-9259cf-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite specimen">Search<span data-ebay-domain-label>eBay.co.uk</span>: meteorite specimen</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifos-causes-of-ufo-3ed238-meteors-fireballs-551504-winchcombe-fireball-9259cf-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="ifos-causes-of-ufo-3ed238-meteors-fireballs-551504-winchcombe-fireball-9259cf-meteorite-specimen" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifos-causes-of-ufo-3ed238-meteors-fireballs-551504-winchcombe-fireball-9259cf-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="ifos-causes-of-ufo-3ed238-meteors-fireballs-551504-winchcombe-fireball-9259cf-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Iron Meteorite Mixed Small Specimens/Lots Natural Unpolished Display Boxes"><img src="https://i.ebayimg.com/images/g/0lcAAeSwjqZqJmZJ/s-l225.jpg" alt="Listing image for Iron Meteorite Mixed Small Specimens/Lots Natural Unpolished Display Boxes" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifos-causes-of-ufo-3ed238-meteors-fireballs-551504-winchcombe-fireball-9259cf-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="ifos-causes-of-ufo-3ed238-meteors-fireballs-551504-winchcombe-fireball-9259cf-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer">Iron Meteorite Mixed Small Specimens/Lots Natural Unpolished Display Boxes</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifos-causes-of-ufo-3ed238-meteors-fireballs-551504-winchcombe-fireball-9259cf-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="ifos-causes-of-ufo-3ed238-meteors-fireballs-551504-winchcombe-fireball-9259cf-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite specimen">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteorite specimen</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifos-causes-of-ufo-3ed238-meteors-fireballs-551504-winchcombe-fireball-9259cf-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="ifos-causes-of-ufo-3ed238-meteors-fireballs-551504-winchcombe-fireball-9259cf-meteorite-specimen" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifos-causes-of-ufo-3ed238-meteors-fireballs-551504-winchcombe-fireball-9259cf-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="ifos-causes-of-ufo-3ed238-meteors-fireballs-551504-winchcombe-fireball-9259cf-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifos-causes-of-ufo-3ed238-meteors-fireballs-551504-winchcombe-fireball-9259cf-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="ifos-causes-of-ufo-3ed238-meteors-fireballs-551504-winchcombe-fireball-9259cf-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Iron Meteorite Mixed Small Specimens/Lots Natural Unpolished Display Boxes"><img src="https://i.ebayimg.com/images/g/0lcAAeSwjqZqJmZJ/s-l225.jpg" alt="Listing image for Iron Meteorite Mixed Small Specimens/Lots Natural Unpolished Display Boxes" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifos-causes-of-ufo-3ed238-meteors-fireballs-551504-winchcombe-fireball-9259cf-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="ifos-causes-of-ufo-3ed238-meteors-fireballs-551504-winchcombe-fireball-9259cf-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer">Iron Meteorite Mixed Small Specimens/Lots Natural Unpolished Display Boxes</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifos-causes-of-ufo-3ed238-meteors-fireballs-551504-winchcombe-fireball-9259cf-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="ifos-causes-of-ufo-3ed238-meteors-fireballs-551504-winchcombe-fireball-9259cf-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite specimen">Search<span data-ebay-domain-label>eBay.co.uk</span>: meteorite specimen</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifos-causes-of-ufo-3ed238-meteors-fireballs-551504-winchcombe-fireball-9259cf-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="ifos-causes-of-ufo-3ed238-meteors-fireballs-551504-winchcombe-fireball-9259cf-meteorite-specimen" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifos-causes-of-ufo-3ed238-meteors-fireballs-551504-winchcombe-fireball-9259cf-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="ifos-causes-of-ufo-3ed238-meteors-fireballs-551504-winchcombe-fireball-9259cf-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -551,7 +551,7 @@ Had the fireball been observed only by scattered witnesses, it might have remain
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -571,7 +571,7 @@ Had the fireball been observed only by scattered witnesses, it might have remain
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -603,7 +603,7 @@ Had the fireball been observed only by scattered witnesses, it might have remain
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -655,7 +655,7 @@ Had the fireball been observed only by scattered witnesses, it might have remain
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -700,7 +700,7 @@ Had the fireball been observed only by scattered witnesses, it might have remain
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -741,133 +741,133 @@ Had the fireball been observed only by scattered witnesses, it might have remain
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9668287/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9668287/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Winchcombe meteorite, a unique and pristine witness...by AJ King · 2022 · Cited by 71 — The fireball was also captured on numerou...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9668287/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9668287/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Winchcombe meteorite, a unique and pristine witness...by AJ King · 2022 · Cited by 71 — The fireball was also captured on numerou...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: fripon.org  
-   Link: <a href="https://www.fripon.org/2021-02-28-winchcombe-uk-fireball-and-meteorite-recovery/" target="_blank" rel="noopener noreferrer nofollow">https://www.fripon.org/2021-02-28-winchcombe-uk-fireball-and-meteorite-recovery/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>www.fripon.org2021/02/28, Winchcombe (UK), fireball and meteorite...21 Apr 2021 — The Winchcombe meteorite was the second to be recovere...</p></details>
+   Link:<a href="https://www.fripon.org/2021-02-28-winchcombe-uk-fireball-and-meteorite-recovery/" target="_blank" rel="noopener noreferrer nofollow">https://www.fripon.org/2021-02-28-winchcombe-uk-fireball-and-meteorite-recovery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>www.fripon.org2021/02/28, Winchcombe (UK), fireball and meteorite...21 Apr 2021 — The Winchcombe meteorite was the second to be recovere...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: onlinelibrary.wiley.com  
-   Link: <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/maps.13977" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/full/10.1111/maps.13977</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryThe Winchcombe fireball—That lucky survivorby S McMullan · 2024 · Cited by 34 — We reconstruct the fireball&#x27;s atmosph...</p></details>
+   Link:<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/maps.13977" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/full/10.1111/maps.13977</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryThe Winchcombe fireball—That lucky survivorby S McMullan · 2024 · Cited by 34 — We reconstruct the fireball&#x27;s atmosph...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: onlinelibrary.wiley.com  
-   Link: <a href="https://onlinelibrary.wiley.com/doi/10.1111/maps.13956" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/10.1111/maps.13956</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryRecovery and curation of the Winchcombe (CM2) meteoriteby SS Russell · 2024 · Cited by 20 — The Winchcombe meteorite...</p></details>
+   Link:<a href="https://onlinelibrary.wiley.com/doi/10.1111/maps.13956" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/10.1111/maps.13956</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryRecovery and curation of the Winchcombe (CM2) meteoriteby SS Russell · 2024 · Cited by 20 — The Winchcombe meteorite...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
    Title: arXiv The Winchcombe Fireball -- that Lucky Survivor  
-   Link: <a href="https://arxiv.org/abs/2303.12126" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2303.12126</a>  
+   Link:<a href="https://arxiv.org/abs/2303.12126" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2303.12126</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Winchcombe meteorite  
-   Link: <a href="https://en.wikipedia.org/wiki/Winchcombe_meteorite" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Winchcombe_meteorite</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Winchcombe_meteorite" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Winchcombe_meteorite</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41467-024-45064-x" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-024-45064-x</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>High-spatial resolution functional chemistry of nitrogen...by C Vollmer · 2024 · Cited by 11 — The Winchcombe meteorite, classifie...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41467-024-45064-x" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-024-45064-x</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>High-spatial resolution functional chemistry of nitrogen...by C Vollmer · 2024 · Cited by 11 — The Winchcombe meteorite, classifie...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: onlinelibrary.wiley.com  
-   Link: <a href="https://onlinelibrary.wiley.com/doi/10.1111/maps.13977" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/10.1111/maps.13977</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Winchcombe fireball—That lucky survivor - McMullan10 May 2023 — We reconstruct the fireball&#x27;s atmospheric trajectory, light curve, fragme...</p></details>
+   Link:<a href="https://onlinelibrary.wiley.com/doi/10.1111/maps.13977" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/10.1111/maps.13977</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Winchcombe fireball—That lucky survivor - McMullan10 May 2023 — We reconstruct the fireball&#x27;s atmospheric trajectory, light curve, fragme...</p></details>
    Published: May 2023  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ukfall.org.uk  
    Title: winchcombe 2021  
-   Link: <a href="https://ukfall.org.uk/winchcombe-2021/" target="_blank" rel="noopener noreferrer nofollow">https://ukfall.org.uk/winchcombe-2021/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The UK Fireball Alliance2021: The Winchcombe FireballFollowing reports from the local community and a search by UK planetary scientists...</p></details>
+   Link:<a href="https://ukfall.org.uk/winchcombe-2021/" target="_blank" rel="noopener noreferrer nofollow">https://ukfall.org.uk/winchcombe-2021/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UK Fireball Alliance2021: The Winchcombe FireballFollowing reports from the local community and a search by UK planetary scientists...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nhm.ac.uk  
    Title: It is also the first-ever carbonaceous chondrite  
-   Link: <a href="https://www.nhm.ac.uk/discover/news/2021/september/from-field-to-vault-how-the-largest-winchcombe-meteorite-was-found.html" target="_blank" rel="noopener noreferrer nofollow">https://www.nhm.ac.uk/discover/news/2021/september/from-field-to-vault-how-the-largest-winchcombe-meteorite-was-found.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Natural History MuseumFrom field to Vault, how the largest Winchcombe meteorite...5 Oct 2021 — The Winchcombe meteorite is the first met...</p></details>
+   Link:<a href="https://www.nhm.ac.uk/discover/news/2021/september/from-field-to-vault-how-the-largest-winchcombe-meteorite-was-found.html" target="_blank" rel="noopener noreferrer nofollow">https://www.nhm.ac.uk/discover/news/2021/september/from-field-to-vault-how-the-largest-winchcombe-meteorite-was-found.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Natural History MuseumFrom field to Vault, how the largest Winchcombe meteorite...5 Oct 2021 — The Winchcombe meteorite is the first met...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: thetimes.co.uk  
    Title: The Times Winchcombe meteorite sheds light on how water came to Earth  
-   Link: <a href="https://www.thetimes.co.uk/article/winchcombe-meteorite-sheds-light-on-how-water-came-to-earth-7p67vx2w9" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.co.uk/article/winchcombe-meteorite-sheds-light-on-how-water-came-to-earth-7p67vx2w9</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This meteorite, an exceptionally well-preserved CM carbonaceous chondrite, contains isotopic signatures of hydrogen and oxygen that close...</p></details>
+   Link:<a href="https://www.thetimes.co.uk/article/winchcombe-meteorite-sheds-light-on-how-water-came-to-earth-7p67vx2w9" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.co.uk/article/winchcombe-meteorite-sheds-light-on-how-water-came-to-earth-7p67vx2w9</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This meteorite, an exceptionally well-preserved CM carbonaceous chondrite, contains isotopic signatures of hydrogen and oxygen that close...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: eprints.gla.ac.uk  
-   Link: <a href="https://eprints.gla.ac.uk/292912/1/292912.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.gla.ac.uk/292912/1/292912.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Enlighten PublicationsRecovery and curation of the Winchcombe (CM2) meteoriteby SS Russell · 2024 · Cited by 20 — Abstract–The Winchcombe...</p></details>
+   Link:<a href="https://eprints.gla.ac.uk/292912/1/292912.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.gla.ac.uk/292912/1/292912.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Enlighten PublicationsRecovery and curation of the Winchcombe (CM2) meteoriteby SS Russell · 2024 · Cited by 20 — Abstract–The Winchcombe...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: news.westernu.ca  
    Title: winchcombe meteorite  
-   Link: <a href="https://news.westernu.ca/2021/03/winchcombe-meteorite/" target="_blank" rel="noopener noreferrer nofollow">https://news.westernu.ca/2021/03/winchcombe-meteorite/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>fireball trackers play key role in important meteorite...10 Mar 2021 — The meteorite, likely to be known as the Winchcombe meteorite, is...</p></details>
+   Link:<a href="https://news.westernu.ca/2021/03/winchcombe-meteorite/" target="_blank" rel="noopener noreferrer nofollow">https://news.westernu.ca/2021/03/winchcombe-meteorite/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>fireball trackers play key role in important meteorite...10 Mar 2021 — The meteorite, likely to be known as the Winchcombe meteorite, is...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ukfall.org.uk  
-   Link: <a href="https://ukfall.org.uk/ukfall-videos/" target="_blank" rel="noopener noreferrer nofollow">https://ukfall.org.uk/ukfall-videos/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UKFAll VideosSearching for the Winchcombe meteorite – footage from the field, provided by Professor Katherine Joy of the University of Ma...</p></details>
+   Link:<a href="https://ukfall.org.uk/ukfall-videos/" target="_blank" rel="noopener noreferrer nofollow">https://ukfall.org.uk/ukfall-videos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UKFAll VideosSearching for the Winchcombe meteorite – footage from the field, provided by Professor Katherine Joy of the University of Ma...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
    Title: in 2021 a rare meteorite landed in the village of winchcombe uk capturing global  
-   Link: <a href="https://www.facebook.com/KnowledgeFactoryIndia/posts/in-2021-a-rare-meteorite-landed-in-the-village-of-winchcombe-uk-capturing-global/1317065420012219/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KnowledgeFactoryIndia/posts/in-2021-a-rare-meteorite-landed-in-the-village-of-winchcombe-uk-capturing-global/1317065420012219/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In 2021, a rare meteorite landed in the village...In 2021, a rare meteorite landed in the village of Winchcombe, UK, capturing global sc...</p></details>
+   Link:<a href="https://www.facebook.com/KnowledgeFactoryIndia/posts/in-2021-a-rare-meteorite-landed-in-the-village-of-winchcombe-uk-capturing-global/1317065420012219/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KnowledgeFactoryIndia/posts/in-2021-a-rare-meteorite-landed-in-the-village-of-winchcombe-uk-capturing-global/1317065420012219/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In 2021, a rare meteorite landed in the village...In 2021, a rare meteorite landed in the village of Winchcombe, UK, capturing global sc...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
    Title: in 2021 cameras recorded the fall of the winchcombe meteorite allowing scientist  
-   Link: <a href="https://www.facebook.com/NOVApbs/posts/in-2021-cameras-recorded-the-fall-of-the-winchcombe-meteorite-allowing-scientist/1003025261871858/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NOVApbs/posts/in-2021-cameras-recorded-the-fall-of-the-winchcombe-meteorite-allowing-scientist/1003025261871858/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In 2021, cameras recorded the fall of the Winchcombe...In 2021, cameras recorded the fall of the Winchcombe meteorite, allowing scientis...</p></details>
+   Link:<a href="https://www.facebook.com/NOVApbs/posts/in-2021-cameras-recorded-the-fall-of-the-winchcombe-meteorite-allowing-scientist/1003025261871858/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NOVApbs/posts/in-2021-cameras-recorded-the-fall-of-the-winchcombe-meteorite-allowing-scientist/1003025261871858/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In 2021, cameras recorded the fall of the Winchcombe...In 2021, cameras recorded the fall of the Winchcombe meteorite, allowing scientis...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: britastro.org  
-   Link: <a href="https://britastro.org/videos/the-fall-recovery-and-initial-analysis-of-the-winchcombe-meteorite" target="_blank" rel="noopener noreferrer nofollow">https://britastro.org/videos/the-fall-recovery-and-initial-analysis-of-the-winchcombe-meteorite</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Fall, Recovery, and Initial Analysis of the Winchcombe...The Fall, Recovery, and Initial Analysis of the Winchcombe Meteorite...</p></details>
+   Link:<a href="https://britastro.org/videos/the-fall-recovery-and-initial-analysis-of-the-winchcombe-meteorite" target="_blank" rel="noopener noreferrer nofollow">https://britastro.org/videos/the-fall-recovery-and-initial-analysis-of-the-winchcombe-meteorite</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Fall, Recovery, and Initial Analysis of the Winchcombe...The Fall, Recovery, and Initial Analysis of the Winchcombe Meteorite...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: researchgate.net  
    Title: 356461329 'Catch a falling star' the Winchcombe meteorite fall of 2021  
-   Link: <a href="https://www.researchgate.net/publication/356461329_%27Catch_a_falling_star%27_the_Winchcombe_meteorite_fall_of_2021" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/356461329_%27Catch_a_falling_star%27_the_Winchcombe_meteorite_fall_of_2021</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Catch a falling star&#x27;: the Winchcombe meteorite fall of 202131 Dec 2024 — The fall to the Earth of a meteorite—a piece of rock or metal...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/356461329_%27Catch_a_falling_star%27_the_Winchcombe_meteorite_fall_of_2021" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/356461329_%27Catch_a_falling_star%27_the_Winchcombe_meteorite_fall_of_2021</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Catch a falling star&#x27;: the Winchcombe meteorite fall of 202131 Dec 2024 — The fall to the Earth of a meteorite—a piece of rock or metal...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: virtualmicroscope.org  
-   Link: <a href="https://www.virtualmicroscope.org/content/first-carbonaceous-chondrite-find-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.virtualmicroscope.org/content/first-carbonaceous-chondrite-find-uk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A first carbonaceous chondrite find for the UK. Following the meteor that blazed a trail...Read more...</p></details>
+   Link:<a href="https://www.virtualmicroscope.org/content/first-carbonaceous-chondrite-find-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.virtualmicroscope.org/content/first-carbonaceous-chondrite-find-uk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A first carbonaceous chondrite find for the UK. Following the meteor that blazed a trail...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: repository.cam.ac.uk  
    Title: Cambridge Repository The Winchcombe fireball—That lucky survivor  
-   Link: <a href="https://www.repository.cam.ac.uk/items/5a226344-933d-453b-8ddd-233c8d016f19" target="_blank" rel="noopener noreferrer nofollow">https://www.repository.cam.ac.uk/items/5a226344-933d-453b-8ddd-233c8d016f19</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>bridge RepositoryThe Winchcombe fireball—That lucky survivor - Apolloby S McMullan · 2024 · Cited by 34 — On February 28, 2021, a fire...</p></details>
+   Link:<a href="https://www.repository.cam.ac.uk/items/5a226344-933d-453b-8ddd-233c8d016f19" target="_blank" rel="noopener noreferrer nofollow">https://www.repository.cam.ac.uk/items/5a226344-933d-453b-8ddd-233c8d016f19</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>bridge RepositoryThe Winchcombe fireball—That lucky survivor - Apolloby S McMullan · 2024 · Cited by 34 — On February 28, 2021, a fire...</p></details>
    Published: February 28, 2021  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: open.edu  
    Title: winchcombe meteorite insights the first scientist on the scene  
-   Link: <a href="https://www.open.edu/openlearn/science-maths-technology/astronomy/winchcombe-meteorite-insights-the-first-scientist-on-the-scene" target="_blank" rel="noopener noreferrer nofollow">https://www.open.edu/openlearn/science-maths-technology/astronomy/winchcombe-meteorite-insights-the-first-scientist-on-the-scene</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Winchcombe Meteorite: Insights from the First Scientist on...17 Mar 2021 — Here is the fascinating story of the events that led up to th...</p></details>
+   Link:<a href="https://www.open.edu/openlearn/science-maths-technology/astronomy/winchcombe-meteorite-insights-the-first-scientist-on-the-scene" target="_blank" rel="noopener noreferrer nofollow">https://www.open.edu/openlearn/science-maths-technology/astronomy/winchcombe-meteorite-insights-the-first-scientist-on-the-scene</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Winchcombe Meteorite: Insights from the First Scientist on...17 Mar 2021 — Here is the fascinating story of the events that led up to th...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: researchgate.net  
    Title: The Winchcombe fireball—That lucky survivor | Request PDFOn  
-   Link: <a href="https://www.researchgate.net/publication/370751786_The_Winchcombe_fireball-That_lucky_survivor" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/370751786_The_Winchcombe_fireball-That_lucky_survivor</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>February 28, 2021, a fireball dropped ∼0.6 kg of recovered CM2 carbonaceous chondrite meteorites in South‐West England near the town of W...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/370751786_The_Winchcombe_fireball-That_lucky_survivor" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/370751786_The_Winchcombe_fireball-That_lucky_survivor</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>February 28, 2021, a fireball dropped ∼0.6 kg of recovered CM2 carbonaceous chondrite meteorites in South‐West England near the town of W...</p></details>
    Published: February 28, 2021  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: nationalgeographic.com  
    Title: newfound meteorite could help unlock secrets of the solar system  
-   Link: <a href="https://www.nationalgeographic.com/science/article/newfound-meteorite-could-help-unlock-secrets-of-the-solar-system" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgeographic.com/science/article/newfound-meteorite-could-help-unlock-secrets-of-the-solar-system</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Winchcombe meteorite&#x27;s well-documented Earthbound trajectory, it was traced back to the outer rim of asteroid belt, between Mars...</p></details>
+   Link:<a href="https://www.nationalgeographic.com/science/article/newfound-meteorite-could-help-unlock-secrets-of-the-solar-system" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgeographic.com/science/article/newfound-meteorite-could-help-unlock-secrets-of-the-solar-system</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Winchcombe meteorite&#x27;s well-documented Earthbound trajectory, it was traced back to the outer rim of asteroid belt, between Mars...</p></details>

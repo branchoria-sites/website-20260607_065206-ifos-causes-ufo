@@ -504,15 +504,15 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132-overview-
 Rocket launches and missile tests are a recurring cause of UFO reports because they can produce enormous luminous plumes, spirals, cones and drifting clouds that do not resemble ordinary aircraft. The sighting is often real: people have genuinely seen a bright object, a spreading glow, a curved trail, or a strange cloud in the sky. What changes the interpretation is context. A launch that occurs near dusk or dawn can climb from a dark sky into sunlight, making its exhaust shine far above observers who are already in night-time conditions. That geometry can turn a routine launch into a spectacle visible across hundreds of kilometres.
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132-overview.webp" | relative_url }}" alt="Overview image for Rocket Plumes" loading="eager" decoding="sync" fetchpriority="high">
-This makes rocket plumes one of the clearest examples of an IFO: an identified flying object that began as a UFO report because the observer lacked the launch time, direction, altitude and lighting context. Modern UAP investigators explicitly recognise this pattern; [AARO]({{ 'aaro/' | relative_url }})’s historical report notes that rocket exhaust plumes are among the newer or less familiar technologies that can be reported as UAP, and AARO’s reporting data separately lists some closed cases as missile or rocket resolutions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 1March 9, 2024 — 8 Mar 2024 — is present today, such as in cases where rocket exhau...</span><span class="citation-popover-meta">Published: March 9, 2024</span></span></span>
+This makes rocket plumes one of the clearest examples of an IFO: an identified flying object that began as a UFO report because the observer lacked the launch time, direction, altitude and lighting context. Modern UAP investigators explicitly recognise this pattern; [AARO]({{ 'aaro/' | relative_url }})’s historical report notes that rocket exhaust plumes are among the newer or less familiar technologies that can be reported as UAP, and AARO’s reporting data separately lists some closed cases as missile or rocket resolutions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 1March 9, 2024 — 8 Mar 2024 — is present today, such as in cases where rocket exhau...</span><span class="citation-popover-meta">Published: March 9, 2024</span></span></span>
 
 ## Why twilight launches look so unlike aircraft
 
-A normal aircraft light remains compact. A rocket plume can become huge because the exhaust is released into thinner air as the vehicle climbs. At high altitude, the gases and particles in the plume expand rapidly, freeze or condense, and spread into a broad illuminated cloud. If the ground is already dark but the plume is high enough to catch sunlight, the result can look like a glowing jellyfish, a fan, a cone, or a bright cloud with a moving point at its centre. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Twilight_phenomenon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Twilight phenomenon</span><span class="citation-popover-snippet">Twilight phenomenon</span></span></span>
+A normal aircraft light remains compact. A rocket plume can become huge because the exhaust is released into thinner air as the vehicle climbs. At high altitude, the gases and particles in the plume expand rapidly, freeze or condense, and spread into a broad illuminated cloud. If the ground is already dark but the plume is high enough to catch sunlight, the result can look like a glowing jellyfish, a fan, a cone, or a bright cloud with a moving point at its centre.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Twilight_phenomenon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Twilight phenomenon</span><span class="citation-popover-snippet">Twilight phenomenon</span></span></span>
 
-The effect is strongest near sunrise or sunset. Observers on the ground may see a black or twilight sky, while the rocket and its exhaust are high enough to remain sunlit. That mismatch is what makes the display feel uncanny: the light source seems to appear where ordinary clouds, aircraft and [stars]({{ 'stars/' | relative_url }}) should not behave that way. The exhaust can also show colours because particles in the plume scatter and diffract sunlight, producing pale blues, whites, oranges and pinks rather than a single aircraft-like point. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/2009_Norwegian_spiral_anomaly" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2009 Norwegian spiral anomaly</span><span class="citation-popover-snippet">2009 Norwegian spiral anomaly</span></span></span>
+The effect is strongest near sunrise or sunset. Observers on the ground may see a black or twilight sky, while the rocket and its exhaust are high enough to remain sunlit. That mismatch is what makes the display feel uncanny: the light source seems to appear where ordinary clouds, aircraft and [stars]({{ 'stars/' | relative_url }}) should not behave that way. The exhaust can also show colours because particles in the plume scatter and diffract sunlight, producing pale blues, whites, oranges and pinks rather than a single aircraft-like point.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/2009_Norwegian_spiral_anomaly" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2009 Norwegian spiral anomaly</span><span class="citation-popover-snippet">2009 Norwegian spiral anomaly</span></span></span>
 
-The shape can also mislead. A rocket is not flying like an aircraft across a nearby skyline; it is climbing and then following a high-altitude trajectory, often over the ocean or into orbit. From far away, a powered stage, booster separation, stage ignition, or venting event may appear as a light embedded inside a much larger glowing cloud. Upper-level winds can twist the trail, and later fuel venting or de-orbit manoeuvres can create spirals that seem too regular to be natural but too diffuse to look like a machine. <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/space/strange-spiral-in-the-night-sky-rocket-fuel-dump-aug-12-2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-title">Earth Sky Strange spiral in the night sky was a rocket fuel dump</span><span class="citation-popover-snippet">Earth Sky Strange spiral in the night sky was a rocket fuel dump</span></span></span>
+The shape can also mislead. A rocket is not flying like an aircraft across a nearby skyline; it is climbing and then following a high-altitude trajectory, often over the ocean or into orbit. From far away, a powered stage, booster separation, stage ignition, or venting event may appear as a light embedded inside a much larger glowing cloud. Upper-level winds can twist the trail, and later fuel venting or de-orbit manoeuvres can create spirals that seem too regular to be natural but too diffuse to look like a machine.<span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/space/strange-spiral-in-the-night-sky-rocket-fuel-dump-aug-12-2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-title">Earth Sky Strange spiral in the night sky was a rocket fuel dump</span><span class="citation-popover-snippet">Earth Sky Strange spiral in the night sky was a rocket fuel dump</span></span></span>
 
 ## The event-time window is the key evidence
 
@@ -526,28 +526,28 @@ The strongest matches usually have several features at once:
 * **Shape match:** the display expands, diffuses, curls, fans out, or forms a spiral rather than behaving like a solid craft.
 * **Duration match:** the phenomenon lasts minutes, then fades or disperses, rather than manoeuvring continuously as a vehicle in local airspace.
 
-This is why precise witness details matter. A vague “bright UFO last night” may remain unresolved, but “a blue-white cone seen over Los Angeles at about 6 pm looking west” can often be checked against a specific missile or rocket launch. NASA’s UAP study made this broader point for UAP analysis as a whole: many cases cannot be resolved confidently without better time, location, sensor and context data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
+This is why precise witness details matter. A vague “bright UFO last night” may remain unresolved, but “a blue-white cone seen over Los Angeles at about 6 pm looking west” can often be checked against a specific missile or rocket launch. NASA’s UAP study made this broader point for UAP analysis as a whole: many cases cannot be resolved confidently without better time, location, sensor and context data.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132-Illustration-1-dark.svg" | relative_url }}" alt="Rocket Plumes illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Southern California: a repeat laboratory for rocket-plume sightings
 
 Southern California is one of the best-known regions for rocket-plume UFO reports because launches from Vandenberg Space Force Base and missile tests over the Pacific can be visible to millions of people. The geography is ideal for confusion: a launch over the ocean may be visible from cities, roads and deserts, while many observers have no immediate reason to know that a launch has occurred.
 
-A famous example came on 7 November 2015, when a bright light over Southern California prompted reports and social-media speculation about UFOs and comets. The explanation was a scheduled U.S. Navy Trident II D5 missile test from the USS Kentucky, an Ohio-class ballistic missile submarine, in the Pacific Test [Range]({{ 'range/' | relative_url }}) off Southern California. News reports recorded that the light was photographed and discussed across Southern California, Nevada and Arizona, while the Navy later confirmed the test was unarmed and part of recurring reliability checks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://abc7.com/post/hundreds-report-mystery-light-flying-through-sky/1073739/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc7.com">[ABC7 Los Angeles]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc7.com</span><span class="citation-popover-title">Los Angeles Naval missile test flight causes bright light to streak across</span><span class="citation-popover-snippet">Los Angeles Naval missile test flight causes bright light to streak across</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://abc11.com/post/ufo-bright-light-in-the-sky-during-missile-test/1074223/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc11.com">[2ABC11 Raleigh-Durham]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc11.com</span><span class="citation-popover-title">ufo bright light in the sky during missile test</span><span class="citation-popover-snippet">ufo bright light in the sky during missile test</span></span></span>
+A famous example came on 7 November 2015, when a bright light over Southern California prompted reports and social-media speculation about UFOs and comets. The explanation was a scheduled U.S. Navy Trident II D5 missile test from the USS Kentucky, an Ohio-class ballistic missile submarine, in the Pacific Test [Range]({{ 'range/' | relative_url }}) off Southern California. News reports recorded that the light was photographed and discussed across Southern California, Nevada and Arizona, while the Navy later confirmed the test was unarmed and part of recurring reliability checks.<span class="citation-chip-wrap"><a class="citation-chip" href="https://abc7.com/post/hundreds-report-mystery-light-flying-through-sky/1073739/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc7.com">[ABC7 Los Angeles]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc7.com</span><span class="citation-popover-title">Los Angeles Naval missile test flight causes bright light to streak across</span><span class="citation-popover-snippet">Los Angeles Naval missile test flight causes bright light to streak across</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://abc11.com/post/ufo-bright-light-in-the-sky-during-missile-test/1074223/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc11.com">[2ABC11 Raleigh-Durham]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc11.com</span><span class="citation-popover-title">ufo bright light in the sky during missile test</span><span class="citation-popover-snippet">ufo bright light in the sky during missile test</span></span></span>
 
 That case shows why missile tests are especially prone to UFO interpretation. Unlike many commercial launches, some test details are not announced in advance for security reasons. Observers may see the spectacular public effect without the public warning that would allow them to interpret it. The event is not imaginary, but the [missing context]({{ 'missing-context/' | relative_url }}) gives rumour a head start.
 
-The 22 December 2017 Falcon 9 launch from Vandenberg produced another widely discussed example. SpaceX launched an Iridium mission shortly after sunset, and the expanding Falcon 9 exhaust plume caught sunlight above the stratosphere while Southern California observers were in darker conditions. Reports described the sky show as startling, and images spread rapidly because the plume looked more like a luminous cloud or “jellyfish” than a normal rocket seen from the ground. Space <span class="citation-chip-wrap"><a class="citation-chip" href="https://abc7news.com/post/final-spacex-rocket-launch-of-2017-lights-up-socal-sky/2813960/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc7news.com">[2ABC7 San Francisco]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc7news.com</span><span class="citation-popover-title">final spacex rocket launch of 2017 lights up socal sky</span><span class="citation-popover-snippet">final spacex rocket launch of 2017 lights up socal sky</span></span></span>
+The 22 December 2017 Falcon 9 launch from Vandenberg produced another widely discussed example. SpaceX launched an Iridium mission shortly after sunset, and the expanding Falcon 9 exhaust plume caught sunlight above the stratosphere while Southern California observers were in darker conditions. Reports described the sky show as startling, and images spread rapidly because the plume looked more like a luminous cloud or “jellyfish” than a normal rocket seen from the ground. Space<span class="citation-chip-wrap"><a class="citation-chip" href="https://abc7news.com/post/final-spacex-rocket-launch-of-2017-lights-up-socal-sky/2813960/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc7news.com">[2ABC7 San Francisco]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc7news.com</span><span class="citation-popover-title">final spacex rocket launch of 2017 lights up socal sky</span><span class="citation-popover-snippet">final spacex rocket launch of 2017 lights up socal sky</span></span></span>
 
 ## Spirals, fuel dumps and the “too perfect” problem
 
 Some rocket-related sightings are not simple launch plumes. They are spirals created by venting, fuel dumps, de-orbit burns, or malfunctioning stages. These can look even stranger because they may appear after the main launch, far from the launch site, or over countries that did not host the launch.
 
-The 2009 [Norway spiral]({{ 'norway-spiral/' | relative_url }}) is a classic case. On 9 December 2009, people across northern Norway and Sweden saw a blue-white spiral pattern in the sky. The effect was initially treated by many observers as mysterious, and it became a major online UFO case. Russia later confirmed that a Bulava missile test had failed; reporting at the time explained that a spinning or malfunctioning rocket stage could throw exhaust outward in a spiral pattern. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/blog/2009/dec/11/ufo-lights-norway-russian-missile" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">ufo lights norway russian missile</span><span class="citation-popover-snippet">ufo lights norway russian missile</span></span></span>
+The 2009 [Norway spiral]({{ 'norway-spiral/' | relative_url }}) is a classic case. On 9 December 2009, people across northern Norway and Sweden saw a blue-white spiral pattern in the sky. The effect was initially treated by many observers as mysterious, and it became a major online UFO case. Russia later confirmed that a Bulava missile test had failed; reporting at the time explained that a spinning or malfunctioning rocket stage could throw exhaust outward in a spiral pattern.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/blog/2009/dec/11/ufo-lights-norway-russian-missile" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">ufo lights norway russian missile</span><span class="citation-popover-snippet">ufo lights norway russian missile</span></span></span>
 
 The “too perfect” objection is understandable but not decisive. A spinning rocket stage or venting upper stage can produce a surprisingly regular pattern because gas is being expelled while the object rotates. In thin upper-atmosphere conditions, the material can spread smoothly rather than breaking up like a low cloud in turbulent weather. To a ground observer, the result can look engineered, circular and stationary, even though it is simply expanding gas illuminated by sunlight.
 
-A more recent version occurred on 24 March 2025, when a glowing spiral was seen from the UK, Ireland and parts of mainland Europe. The UK Met Office and other experts linked the display to a SpaceX Falcon 9 launched from Florida earlier that day; the explanation centred on frozen exhaust or vented material reflecting sunlight while the plume appeared to spin in the atmosphere. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thetimes.co.uk/article/space-x-sky-spiral-yorkshire-t2cpgdxn2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thetimes.co.uk">[The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thetimes.co.uk</span><span class="citation-popover-title">The Times Spiral in the sky mystifies UK stargazers</span><span class="citation-popover-snippet">The Times Spiral in the sky mystifies UK stargazers</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.skyatnightmagazine.com/news/strange-spiral-cloud-in-the-sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-title">strange spiral cloud in the sky</span><span class="citation-popover-snippet">strange spiral cloud in the sky</span></span></span>
+A more recent version occurred on 24 March 2025, when a glowing spiral was seen from the UK, Ireland and parts of mainland Europe. The UK Met Office and other experts linked the display to a SpaceX Falcon 9 launched from Florida earlier that day; the explanation centred on frozen exhaust or vented material reflecting sunlight while the plume appeared to spin in the atmosphere.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thetimes.co.uk/article/space-x-sky-spiral-yorkshire-t2cpgdxn2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thetimes.co.uk">[The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thetimes.co.uk</span><span class="citation-popover-title">The Times Spiral in the sky mystifies UK stargazers</span><span class="citation-popover-snippet">The Times Spiral in the sky mystifies UK stargazers</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.skyatnightmagazine.com/news/strange-spiral-cloud-in-the-sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-title">strange spiral cloud in the sky</span><span class="citation-popover-snippet">strange spiral cloud in the sky</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wtdjCwo6d3Q" title="Iridium-4 Webcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wtdjCwo6d3Q" target="_blank" rel="noopener noreferrer">Iridium-4 Webcast</a></p><p class="youtube-embed-meta">Channel: SpaceX &middot; Views: 1.3M &middot; Uploaded: December 2017 &middot; Length: 1 hour 39 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wtdjCwo6d3Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wtdjCwo6d3Q">Open on YouTube</a></p></div></div></div>
 
@@ -575,7 +575,7 @@ The practical test for a rocket-plume explanation is correlation. Investigators 
 
 </div>
 
-This method is not about dismissing witnesses. It is about preserving what the witnesses actually saw while testing the interpretation. The 2015 [Trident test]({{ 'trident-test/' | relative_url }}) and the 2017 Vandenberg Falcon 9 plume were not weak sightings; they were strong sightings with strong conventional matches. <span class="citation-chip-wrap"><a class="citation-chip" href="https://abc7.com/post/hundreds-report-mystery-light-flying-through-sky/1073739/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc7.com">[ABC7 Los Angeles]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc7.com</span><span class="citation-popover-title">Los Angeles Naval missile test flight causes bright light to streak across</span><span class="citation-popover-snippet">Los Angeles Naval missile test flight causes bright light to streak across</span></span></span>
+This method is not about dismissing witnesses. It is about preserving what the witnesses actually saw while testing the interpretation. The 2015 [Trident test]({{ 'trident-test/' | relative_url }}) and the 2017 Vandenberg Falcon 9 plume were not weak sightings; they were strong sightings with strong conventional matches.<span class="citation-chip-wrap"><a class="citation-chip" href="https://abc7.com/post/hundreds-report-mystery-light-flying-through-sky/1073739/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc7.com">[ABC7 Los Angeles]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc7.com</span><span class="citation-popover-title">Los Angeles Naval missile test flight causes bright light to streak across</span><span class="citation-popover-snippet">Los Angeles Naval missile test flight causes bright light to streak across</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132-Illustration-2-dark.svg" | relative_url }}" alt="Rocket Plumes illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What makes rocket plumes distinct from other IFO causes
@@ -584,7 +584,7 @@ Rocket plumes overlap with other common UFO explanations, but they have a differ
 
 Rocket plumes are distinctive because they combine a real moving source with a large illuminated atmospheric effect. The “object” people describe may be a composite: the rocket stage, the exhaust, sunlight, ice crystals, expanding gases, upper winds and viewing geometry. This is why the sighting can look more dramatic than the vehicle that caused it.
 
-The increasing frequency of launches also matters. SpaceX, national space agencies, military test ranges and commercial launch providers have made rocket-related sky displays more common in regions that may not have grown up with them. AARO’s historical work notes that new technologies are often misidentified as UAP, and its examples include rocket exhaust plumes alongside satellite trains and unusual unmanned systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 1March 9, 2024 — 8 Mar 2024 — is present today, such as in cases where rocket exhau...</span><span class="citation-popover-meta">Published: March 9, 2024</span></span></span>
+The increasing frequency of launches also matters. SpaceX, national space agencies, military test ranges and commercial launch providers have made rocket-related sky displays more common in regions that may not have grown up with them. AARO’s historical work notes that new technologies are often misidentified as UAP, and its examples include rocket exhaust plumes alongside satellite trains and unusual unmanned systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 1March 9, 2024 — 8 Mar 2024 — is present today, such as in cases where rocket exhau...</span><span class="citation-popover-meta">Published: March 9, 2024</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TQcqOW39ksk" title="Unidentified Anomalous Phenomena Independent Study Report" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer">Unidentified Anomalous Phenomena Independent Study Report</a></p><p class="youtube-embed-meta">Channel: NASA &middot; Views: 107.4K &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TQcqOW39ksk">Open on YouTube</a></p></div></div></div>
 
@@ -605,194 +605,194 @@ Rocket plumes remain surprising because they violate everyday expectations. Peop
 That is exactly why rocket-related sightings are important in the IFO branch of UFO reports. They show how a report can begin with an honest, unusual observation and still end with a conventional identification. The strongest cases do not make witnesses look foolish. They show that the sky contains human-made events whose scale and lighting can exceed ordinary intuition. A launch plume can be both spectacular and identified: strange enough to report, but structured enough to explain.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Strange Clouds Rockets Leave Behind. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Strange Clouds Rockets Leave Behind. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for understanding misidentifications and IFOs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding misidentifications and IFOs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Rocket+science+for+the+rest+of+us+Ben+Gilliland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rocket science for the rest of us on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12183728-M.jpg" alt="Cover for Rocket science for the rest of us" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Rocket+science+for+the+rest+of+us+Ben+Gilliland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rocket science for the rest of us">Rocket science for the rest of us</a>
-        </h4>
-        <p class="fr-book-author">By Ben Gilliland</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Rocket+science+for+the+rest+of+us+Ben+Gilliland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rocket science for the rest of us on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12183728-M.jpg" alt="Cover for Rocket science for the rest of us" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Rocket+science+for+the+rest+of+us+Ben+Gilliland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rocket science for the rest of us">Rocket science for the rest of us</a>
+</h4>
+<p class="fr-book-author">By Ben Gilliland</p>
         
-        <p class="fr-book-desc">First published 2015. Subjects: Dark matter (Astronomy), Exploration, Rockets (Aeronautics), Quantum theory, Earth sciences.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Rocket+science+for+the+rest+of+us+Ben+Gilliland&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2015. Subjects: Dark matter (Astronomy), Exploration, Rockets (Aeronautics), Quantum theory, Earth sciences.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Rocket+science+for+the+rest+of+us+Ben+Gilliland&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Rocket+men+Robert+Kurson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rocket men on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8806725-M.jpg" alt="Cover for Rocket men" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Rocket+men+Robert+Kurson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rocket men">Rocket men</a>
-        </h4>
-        <p class="fr-book-author">By Robert Kurson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Rocket+men+Robert+Kurson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rocket men on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8806725-M.jpg" alt="Cover for Rocket men" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Rocket+men+Robert+Kurson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rocket men">Rocket men</a>
+</h4>
+<p class="fr-book-author">By Robert Kurson</p>
         
-        <p class="fr-book-desc">First published 2018. Subjects: Project Apollo (U.S.), Apollo 8 (Spacecraft), Space flight to the moon, nyt:science=2018-05-13, New York...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Rocket+men+Robert+Kurson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2018. Subjects: Project Apollo (U.S.), Apollo 8 (Spacecraft), Space flight to the moon, nyt:science=2018-05-13, New York...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Rocket+men+Robert+Kurson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ignition%21+John+D.+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ignition! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4709713-M.jpg" alt="Cover for Ignition!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ignition%21+John+D.+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ignition!">Ignition!</a>
-        </h4>
-        <p class="fr-book-author">By John D. Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ignition%21+John+D.+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ignition! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4709713-M.jpg" alt="Cover for Ignition!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ignition%21+John+D.+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ignition!">Ignition!</a>
+</h4>
+<p class="fr-book-author">By John D. Clark</p>
         
-        <p class="fr-book-desc">First published 1972. Subjects: Liquid propellants, solid propellants, rocket fuel, Rocketry, chemistry.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ignition%21+John+D.+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1972. Subjects: Liquid propellants, solid propellants, rocket fuel, Rocketry, chemistry.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ignition%21+John+D.+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Rocket+science+for+the+rest+of+us&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Rocket science for the rest of us</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Rocket+men&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Rocket men</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Rocket+science+for+the+rest+of+us&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Rocket science for the rest of us</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Rocket+men&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Rocket men</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-plumes-the-strange-clouds-rockets-leave-behind-ifos-causes-of-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="rocket-plumes-the-strange-clouds-rockets-leave-behind-ifos-causes-of-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Rocket Launch Poster Outer Space Sci Fi Wall Art - 12X16/16X20/18X24/24X36"><img src="{{ '/assets/images/marketplace-covers/692b10b7bca279a4f1f7.jpg' | relative_url }}" alt="Listing image for Retro Rocket Launch Poster Outer Space Sci Fi Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-plumes-the-strange-clouds-rockets-leave-behind-ifos-causes-of-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="rocket-plumes-the-strange-clouds-rockets-leave-behind-ifos-causes-of-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Rocket Launch Poster Outer Space Sci Fi Wall Art - 12X16/16X20/18X24/24X36</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-plumes-the-strange-clouds-rockets-leave-behind-ifos-causes-of-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="rocket-plumes-the-strange-clouds-rockets-leave-behind-ifos-causes-of-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rocket launch poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: rocket launch poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-plumes-the-strange-clouds-rockets-leave-behind-ifos-causes-of-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="rocket-plumes-the-strange-clouds-rockets-leave-behind-ifos-causes-of-rocket-launch-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-plumes-the-strange-clouds-rockets-leave-behind-ifos-causes-of-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="rocket-plumes-the-strange-clouds-rockets-leave-behind-ifos-causes-of-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Rocket Launch Poster Outer Space Sci Fi Wall Art - 12X16/16X20/18X24/24X36"><img src="{{ '/assets/images/marketplace-covers/692b10b7bca279a4f1f7.jpg' | relative_url }}" alt="Listing image for Retro Rocket Launch Poster Outer Space Sci Fi Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-plumes-the-strange-clouds-rockets-leave-behind-ifos-causes-of-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="rocket-plumes-the-strange-clouds-rockets-leave-behind-ifos-causes-of-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Rocket Launch Poster Outer Space Sci Fi Wall Art - 12X16/16X20/18X24/24X36</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-plumes-the-strange-clouds-rockets-leave-behind-ifos-causes-of-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="rocket-plumes-the-strange-clouds-rockets-leave-behind-ifos-causes-of-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rocket launch poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: rocket launch poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-plumes-the-strange-clouds-rockets-leave-behind-ifos-causes-of-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="rocket-plumes-the-strange-clouds-rockets-leave-behind-ifos-causes-of-rocket-launch-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-plumes-the-strange-clouds-rockets-leave-behind-ifos-causes-of-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="rocket-plumes-the-strange-clouds-rockets-leave-behind-ifos-causes-of-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Shuttle Launch Poster Gift for Space Enthusiast | Wall Art | Rocket Poster"><img src="{{ '/assets/images/marketplace-covers/fd95cce11194b812cd0c.jpg' | relative_url }}" alt="Listing image for Space Shuttle Launch Poster Gift for Space Enthusiast | Wall Art | Rocket Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-plumes-the-strange-clouds-rockets-leave-behind-ifos-causes-of-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="rocket-plumes-the-strange-clouds-rockets-leave-behind-ifos-causes-of-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer">Space Shuttle Launch Poster Gift for Space Enthusiast | Wall Art | Rocket Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-plumes-the-strange-clouds-rockets-leave-behind-ifos-causes-of-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="rocket-plumes-the-strange-clouds-rockets-leave-behind-ifos-causes-of-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rocket launch poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: rocket launch poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-plumes-the-strange-clouds-rockets-leave-behind-ifos-causes-of-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="rocket-plumes-the-strange-clouds-rockets-leave-behind-ifos-causes-of-rocket-launch-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-plumes-the-strange-clouds-rockets-leave-behind-ifos-causes-of-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="rocket-plumes-the-strange-clouds-rockets-leave-behind-ifos-causes-of-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Shuttle Launch Poster Gift for Space Enthusiast | Wall Art | Rocket Poster"><img src="{{ '/assets/images/marketplace-covers/fd95cce11194b812cd0c.jpg' | relative_url }}" alt="Listing image for Space Shuttle Launch Poster Gift for Space Enthusiast | Wall Art | Rocket Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-plumes-the-strange-clouds-rockets-leave-behind-ifos-causes-of-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="rocket-plumes-the-strange-clouds-rockets-leave-behind-ifos-causes-of-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer">Space Shuttle Launch Poster Gift for Space Enthusiast | Wall Art | Rocket Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-plumes-the-strange-clouds-rockets-leave-behind-ifos-causes-of-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="rocket-plumes-the-strange-clouds-rockets-leave-behind-ifos-causes-of-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rocket launch poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: rocket launch poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-plumes-the-strange-clouds-rockets-leave-behind-ifos-causes-of-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="rocket-plumes-the-strange-clouds-rockets-leave-behind-ifos-causes-of-rocket-launch-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-plumes-the-strange-clouds-rockets-leave-behind-ifos-causes-of-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="rocket-plumes-the-strange-clouds-rockets-leave-behind-ifos-causes-of-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rocket Launch Drawing Framed Art Pr Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a0d59c8d8a2931d74a6f.jpg' | relative_url }}" alt="Listing image for Rocket Launch Drawing Framed Art Pr Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-plumes-the-strange-clouds-rockets-leave-behind-ifos-causes-of-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="rocket-plumes-the-strange-clouds-rockets-leave-behind-ifos-causes-of-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer">Rocket Launch Drawing Framed Art Pr Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-plumes-the-strange-clouds-rockets-leave-behind-ifos-causes-of-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="rocket-plumes-the-strange-clouds-rockets-leave-behind-ifos-causes-of-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rocket launch poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: rocket launch poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-plumes-the-strange-clouds-rockets-leave-behind-ifos-causes-of-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="rocket-plumes-the-strange-clouds-rockets-leave-behind-ifos-causes-of-rocket-launch-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-plumes-the-strange-clouds-rockets-leave-behind-ifos-causes-of-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="rocket-plumes-the-strange-clouds-rockets-leave-behind-ifos-causes-of-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rocket Launch Drawing Framed Art Pr Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a0d59c8d8a2931d74a6f.jpg' | relative_url }}" alt="Listing image for Rocket Launch Drawing Framed Art Pr Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-plumes-the-strange-clouds-rockets-leave-behind-ifos-causes-of-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="rocket-plumes-the-strange-clouds-rockets-leave-behind-ifos-causes-of-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer">Rocket Launch Drawing Framed Art Pr Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-plumes-the-strange-clouds-rockets-leave-behind-ifos-causes-of-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="rocket-plumes-the-strange-clouds-rockets-leave-behind-ifos-causes-of-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rocket launch poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: rocket launch poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-plumes-the-strange-clouds-rockets-leave-behind-ifos-causes-of-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="rocket-plumes-the-strange-clouds-rockets-leave-behind-ifos-causes-of-rocket-launch-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-plumes-the-strange-clouds-rockets-leave-behind-ifos-causes-of-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="rocket-plumes-the-strange-clouds-rockets-leave-behind-ifos-causes-of-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space NASA Lift Off Apollo 11 Rocket Launch Canvas Wall Art Print Poster"><img src="{{ '/assets/images/marketplace-covers/2acc402044c7984e7768.jpg' | relative_url }}" alt="Listing image for Space NASA Lift Off Apollo 11 Rocket Launch Canvas Wall Art Print Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-plumes-the-strange-clouds-rockets-leave-behind-ifos-causes-of-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="rocket-plumes-the-strange-clouds-rockets-leave-behind-ifos-causes-of-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer">Space NASA Lift Off Apollo 11 Rocket Launch Canvas Wall Art Print Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-plumes-the-strange-clouds-rockets-leave-behind-ifos-causes-of-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="rocket-plumes-the-strange-clouds-rockets-leave-behind-ifos-causes-of-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rocket launch poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: rocket launch poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-plumes-the-strange-clouds-rockets-leave-behind-ifos-causes-of-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="rocket-plumes-the-strange-clouds-rockets-leave-behind-ifos-causes-of-rocket-launch-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-plumes-the-strange-clouds-rockets-leave-behind-ifos-causes-of-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="rocket-plumes-the-strange-clouds-rockets-leave-behind-ifos-causes-of-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-plumes-the-strange-clouds-rockets-leave-behind-ifos-causes-of-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="rocket-plumes-the-strange-clouds-rockets-leave-behind-ifos-causes-of-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space NASA Lift Off Apollo 11 Rocket Launch Canvas Wall Art Print Poster"><img src="{{ '/assets/images/marketplace-covers/2acc402044c7984e7768.jpg' | relative_url }}" alt="Listing image for Space NASA Lift Off Apollo 11 Rocket Launch Canvas Wall Art Print Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-plumes-the-strange-clouds-rockets-leave-behind-ifos-causes-of-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="rocket-plumes-the-strange-clouds-rockets-leave-behind-ifos-causes-of-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer">Space NASA Lift Off Apollo 11 Rocket Launch Canvas Wall Art Print Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-plumes-the-strange-clouds-rockets-leave-behind-ifos-causes-of-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="rocket-plumes-the-strange-clouds-rockets-leave-behind-ifos-causes-of-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rocket launch poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: rocket launch poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-plumes-the-strange-clouds-rockets-leave-behind-ifos-causes-of-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="rocket-plumes-the-strange-clouds-rockets-leave-behind-ifos-causes-of-rocket-launch-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-plumes-the-strange-clouds-rockets-leave-behind-ifos-causes-of-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="rocket-plumes-the-strange-clouds-rockets-leave-behind-ifos-causes-of-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -808,7 +808,7 @@ That is exactly why rocket-related sightings are important in the IFO branch of 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -828,7 +828,7 @@ That is exactly why rocket-related sightings are important in the IFO branch of 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -860,7 +860,7 @@ That is exactly why rocket-related sightings are important in the IFO branch of 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -912,7 +912,7 @@ That is exactly why rocket-related sightings are important in the IFO branch of 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -957,7 +957,7 @@ That is exactly why rocket-related sightings are important in the IFO branch of 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -998,290 +998,290 @@ That is exactly why rocket-related sightings are important in the IFO branch of 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 1March 9, 2024 — 8 Mar 2024 — is present today, such as in cases where rocket exhau...</p></details>
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 1March 9, 2024 — 8 Mar 2024 — is present today, such as in cases where rocket exhau...</p></details>
    Published: March 9, 2024  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/UAP-Reporting-Trends/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/UAP-Reporting-Trends/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Reporting TrendsClosed Cases Resolution Outcomes; Missile/Rocket, 9, 0.9%; Aircraft, 20, 2.0%; Ordnance, 1, 0.1%; Jetpack, 15...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/UAP-Reporting-Trends/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/UAP-Reporting-Trends/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Reporting TrendsClosed Cases Resolution Outcomes; Missile/Rocket, 9, 0.9%; Aircraft, 20, 2.0%; Ordnance, 1, 0.1%; Jetpack, 15...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Twilight phenomenon  
-   Link: <a href="https://en.wikipedia.org/wiki/Twilight_phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Twilight_phenomenon</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Twilight_phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Twilight_phenomenon</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: earthsky.org  
    Title: Earth Sky Strange spiral in the night sky was a rocket fuel dump  
-   Link: <a href="https://earthsky.org/space/strange-spiral-in-the-night-sky-rocket-fuel-dump-aug-12-2025/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/space/strange-spiral-in-the-night-sky-rocket-fuel-dump-aug-12-2025/</a>  
+   Link:<a href="https://earthsky.org/space/strange-spiral-in-the-night-sky-rocket-fuel-dump-aug-12-2025/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/space/strange-spiral-in-the-night-sky-rocket-fuel-dump-aug-12-2025/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nasa.gov  
-   Link: <a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
+   Link:<a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: abc7.com  
    Title: Los Angeles Naval missile test flight causes bright light to streak across  
-   Link: <a href="https://abc7.com/post/hundreds-report-mystery-light-flying-through-sky/1073739/" target="_blank" rel="noopener noreferrer nofollow">https://abc7.com/post/hundreds-report-mystery-light-flying-through-sky/1073739/</a>  
+   Link:<a href="https://abc7.com/post/hundreds-report-mystery-light-flying-through-sky/1073739/" target="_blank" rel="noopener noreferrer nofollow">https://abc7.com/post/hundreds-report-mystery-light-flying-through-sky/1073739/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: abc11.com  
    Title: ufo bright light in the sky during missile test  
-   Link: <a href="https://abc11.com/post/ufo-bright-light-in-the-sky-during-missile-test/1074223/" target="_blank" rel="noopener noreferrer nofollow">https://abc11.com/post/ufo-bright-light-in-the-sky-during-missile-test/1074223/</a>  
+   Link:<a href="https://abc11.com/post/ufo-bright-light-in-the-sky-during-missile-test/1074223/" target="_blank" rel="noopener noreferrer nofollow">https://abc11.com/post/ufo-bright-light-in-the-sky-during-missile-test/1074223/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: space.com  
    Title: UFO? No, It's a Space X Rocket! These Falcon 9 Launch  
-   Link: <a href="https://www.space.com/39200-spacex-rocket-launch-not-ufo-spectactular-photos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/39200-spacex-rocket-launch-not-ufo-spectactular-photos.html</a>  
+   Link:<a href="https://www.space.com/39200-spacex-rocket-launch-not-ufo-spectactular-photos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/39200-spacex-rocket-launch-not-ufo-spectactular-photos.html</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: space.com  
    Title: 7656 bizarre sky spiral caused failed missile  
-   Link: <a href="https://www.space.com/7656-bizarre-sky-spiral-caused-failed-missile.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/7656-bizarre-sky-spiral-caused-failed-missile.html</a>  
+   Link:<a href="https://www.space.com/7656-bizarre-sky-spiral-caused-failed-missile.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/7656-bizarre-sky-spiral-caused-failed-missile.html</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: apod.nasa.gov  
    Title: apod search  
-   Link: <a href="https://apod.nasa.gov/cgi-bin/apod/apod_search?tquery=%22sun+pillar%22" target="_blank" rel="noopener noreferrer nofollow">https://apod.nasa.gov/cgi-bin/apod/apod_search?tquery=%22sun+pillar%22</a>  
+   Link:<a href="https://apod.nasa.gov/cgi-bin/apod/apod_search?tquery=%22sun+pillar%22" target="_blank" rel="noopener noreferrer nofollow">https://apod.nasa.gov/cgi-bin/apod/apod_search?tquery=%22sun+pillar%22</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: apod.nasa.gov  
    Title: apod search  
-   Link: <a href="https://apod.nasa.gov/cgi-bin/apod/apod_search?tquery=sun+pillar" target="_blank" rel="noopener noreferrer nofollow">https://apod.nasa.gov/cgi-bin/apod/apod_search?tquery=sun+pillar</a>  
+   Link:<a href="https://apod.nasa.gov/cgi-bin/apod/apod_search?tquery=sun+pillar" target="_blank" rel="noopener noreferrer nofollow">https://apod.nasa.gov/cgi-bin/apod/apod_search?tquery=sun+pillar</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nasa.gov  
-   Link: <a href="https://www.nasa.gov/wp-content/uploads/2026/01/ma06-tec.pdf?emrc=46581f" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2026/01/ma06-tec.pdf?emrc=46581f</a>  
+   Link:<a href="https://www.nasa.gov/wp-content/uploads/2026/01/ma06-tec.pdf?emrc=46581f" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2026/01/ma06-tec.pdf?emrc=46581f</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nasa.gov  
-   Link: <a href="https://www.nasa.gov/wp-content/uploads/2023/03/sp-4202.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2023/03/sp-4202.pdf</a>  
+   Link:<a href="https://www.nasa.gov/wp-content/uploads/2023/03/sp-4202.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2023/03/sp-4202.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nasa.gov  
-   Link: <a href="https://www.nasa.gov/wp-content/uploads/2023/06/expedition16-presskit.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2023/06/expedition16-presskit.pdf</a>  
+   Link:<a href="https://www.nasa.gov/wp-content/uploads/2023/06/expedition16-presskit.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2023/06/expedition16-presskit.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ntrs.nasa.gov  
-   Link: <a href="https://ntrs.nasa.gov/api/citations/19790003775/downloads/19790003775.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/19790003775/downloads/19790003775.pdf</a>  
+   Link:<a href="https://ntrs.nasa.gov/api/citations/19790003775/downloads/19790003775.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/19790003775/downloads/19790003775.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: apod.nasa.gov  
    Title: archivepix Full  
-   Link: <a href="https://apod.nasa.gov/apod/archivepixFull.html" target="_blank" rel="noopener noreferrer nofollow">https://apod.nasa.gov/apod/archivepixFull.html</a>  
+   Link:<a href="https://apod.nasa.gov/apod/archivepixFull.html" target="_blank" rel="noopener noreferrer nofollow">https://apod.nasa.gov/apod/archivepixFull.html</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nasa.gov  
-   Link: <a href="https://www.nasa.gov/wp-content/uploads/2023/04/1976.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2023/04/1976.pdf</a>  
+   Link:<a href="https://www.nasa.gov/wp-content/uploads/2023/04/1976.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2023/04/1976.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: nasa.gov  
    Title: fy 2023 report of the president  
-   Link: <a href="https://www.nasa.gov/wp-content/uploads/2023/01/fy-2023-report-of-the-president.pdf?emrc=6893f25c6b1d7" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2023/01/fy-2023-report-of-the-president.pdf?emrc=6893f25c6b1d7</a>  
+   Link:<a href="https://www.nasa.gov/wp-content/uploads/2023/01/fy-2023-report-of-the-president.pdf?emrc=6893f25c6b1d7" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2023/01/fy-2023-report-of-the-president.pdf?emrc=6893f25c6b1d7</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: sti.nasa.gov  
    Title: thesaurus vol 1  
-   Link: <a href="https://www.sti.nasa.gov/docs/thesaurus/thesaurus-vol-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.sti.nasa.gov/docs/thesaurus/thesaurus-vol-1.pdf</a>  
+   Link:<a href="https://www.sti.nasa.gov/docs/thesaurus/thesaurus-vol-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.sti.nasa.gov/docs/thesaurus/thesaurus-vol-1.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: Wikipedia  
    Title: 2009 Norwegian spiral anomaly  
-   Link: <a href="https://en.wikipedia.org/wiki/2009_Norwegian_spiral_anomaly" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2009_Norwegian_spiral_anomaly</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/2009_Norwegian_spiral_anomaly" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2009_Norwegian_spiral_anomaly</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: time.com  
    Title: spacex los angeles aliens  
-   Link: <a href="https://time.com/5078397/spacex-los-angeles-aliens/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/5078397/spacex-los-angeles-aliens/</a>  
+   Link:<a href="https://time.com/5078397/spacex-los-angeles-aliens/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/5078397/spacex-los-angeles-aliens/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: space.com  
    Title: 31122 trident missile test photos video  
-   Link: <a href="https://www.space.com/31122-trident-missile-test-photos-video.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/31122-trident-missile-test-photos-video.html</a>  
+   Link:<a href="https://www.space.com/31122-trident-missile-test-photos-video.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/31122-trident-missile-test-photos-video.html</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: space.com  
    Title: stargazers in europe spot a strange cloud from spacex falcon 9 rocket launch  
-   Link: <a href="https://www.space.com/stargazing/stargazers-in-europe-spot-a-strange-cloud-from-spacex-falcon-9-rocket-launch" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/stargazing/stargazers-in-europe-spot-a-strange-cloud-from-spacex-falcon-9-rocket-launch</a>  
+   Link:<a href="https://www.space.com/stargazing/stargazers-in-europe-spot-a-strange-cloud-from-spacex-falcon-9-rocket-launch" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/stargazing/stargazers-in-europe-spot-a-strange-cloud-from-spacex-falcon-9-rocket-launch</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: space.com  
    Title: nasa ufo uap study team first results revealed  
-   Link: <a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
+   Link:<a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: space.com  
    Title: 39199 amazing spacex rocket launch photos iridium 4  
-   Link: <a href="https://www.space.com/39199-amazing-spacex-rocket-launch-photos-iridium-4.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/39199-amazing-spacex-rocket-launch-photos-iridium-4.html</a>  
+   Link:<a href="https://www.space.com/39199-amazing-spacex-rocket-launch-photos-iridium-4.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/39199-amazing-spacex-rocket-launch-photos-iridium-4.html</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: navy.mil  
    Title: successful trident ii d5 life extension d5le launches demonstrate continued rea  
-   Link: <a href="https://www.navy.mil/Press-Office/News-Stories/display-news/Article/4312684/successful-trident-ii-d5-life-extension-d5le-launches-demonstrate-continued-rea/" target="_blank" rel="noopener noreferrer nofollow">https://www.navy.mil/Press-Office/News-Stories/display-news/Article/4312684/successful-trident-ii-d5-life-extension-d5le-launches-demonstrate-continued-rea/</a>  
+   Link:<a href="https://www.navy.mil/Press-Office/News-Stories/display-news/Article/4312684/successful-trident-ii-d5-life-extension-d5le-launches-demonstrate-continued-rea/" target="_blank" rel="noopener noreferrer nofollow">https://www.navy.mil/Press-Office/News-Stories/display-news/Article/4312684/successful-trident-ii-d5-life-extension-d5le-launches-demonstrate-continued-rea/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: spacex.com  
    Title: Space X  
-   Link: <a href="https://www.spacex.com/launches" target="_blank" rel="noopener noreferrer nofollow">https://www.spacex.com/launches</a>  
+   Link:<a href="https://www.spacex.com/launches" target="_blank" rel="noopener noreferrer nofollow">https://www.spacex.com/launches</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: youtube.com  
    Title: Why Rocket Launches Look Like UFOs  
-   Link: <a href="http://www.youtube.com/watch?v=0hYV_Xk-j0o" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=0hYV_Xk-j0o</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX Falcon 9 Twilight Phenomenon Explained...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=0hYV_Xk-j0o" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=0hYV_Xk-j0o</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX Falcon 9 Twilight Phenomenon Explained...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: youtube.com  
    Title: Space X Falcon 9 Twilight Phenomenon Explained  
-   Link: <a href="http://www.youtube.com/watch?v=t52u8yS8gSI" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=t52u8yS8gSI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rocket Exhaust Spirals and Space Debris...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=t52u8yS8gSI" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=t52u8yS8gSI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rocket Exhaust Spirals and Space Debris...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: spaceflightnow.com  
-   Link: <a href="https://spaceflightnow.com/2017/12/28/falcon-9-launch-lights-up-southern-california-sky/" target="_blank" rel="noopener noreferrer nofollow">https://spaceflightnow.com/2017/12/28/falcon-9-launch-lights-up-southern-california-sky/</a>  
+   Link:<a href="https://spaceflightnow.com/2017/12/28/falcon-9-launch-lights-up-southern-california-sky/" target="_blank" rel="noopener noreferrer nofollow">https://spaceflightnow.com/2017/12/28/falcon-9-launch-lights-up-southern-california-sky/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: abc7news.com  
    Title: final spacex rocket launch of 2017 lights up socal sky  
-   Link: <a href="https://abc7news.com/post/final-spacex-rocket-launch-of-2017-lights-up-socal-sky/2813960/" target="_blank" rel="noopener noreferrer nofollow">https://abc7news.com/post/final-spacex-rocket-launch-of-2017-lights-up-socal-sky/2813960/</a>  
+   Link:<a href="https://abc7news.com/post/final-spacex-rocket-launch-of-2017-lights-up-socal-sky/2813960/" target="_blank" rel="noopener noreferrer nofollow">https://abc7news.com/post/final-spacex-rocket-launch-of-2017-lights-up-socal-sky/2813960/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: science.org  
-   Link: <a href="https://www.science.org/content/article/amazing-sky-spiral-generated-out-control-missile" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/content/article/amazing-sky-spiral-generated-out-control-missile</a>  
+   Link:<a href="https://www.science.org/content/article/amazing-sky-spiral-generated-out-control-missile" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/content/article/amazing-sky-spiral-generated-out-control-missile</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: theguardian.com  
    Title: ufo lights norway russian missile  
-   Link: <a href="https://www.theguardian.com/world/blog/2009/dec/11/ufo-lights-norway-russian-missile" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/blog/2009/dec/11/ufo-lights-norway-russian-missile</a>  
+   Link:<a href="https://www.theguardian.com/world/blog/2009/dec/11/ufo-lights-norway-russian-missile" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/blog/2009/dec/11/ufo-lights-norway-russian-missile</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: thetimes.co.uk  
    Title: The Times Spiral in the sky mystifies UK stargazers  
-   Link: <a href="https://www.thetimes.co.uk/article/space-x-sky-spiral-yorkshire-t2cpgdxn2" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.co.uk/article/space-x-sky-spiral-yorkshire-t2cpgdxn2</a>  
+   Link:<a href="https://www.thetimes.co.uk/article/space-x-sky-spiral-yorkshire-t2cpgdxn2" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.co.uk/article/space-x-sky-spiral-yorkshire-t2cpgdxn2</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: skyatnightmagazine.com  
    Title: strange spiral cloud in the sky  
-   Link: <a href="https://www.skyatnightmagazine.com/news/strange-spiral-cloud-in-the-sky" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/news/strange-spiral-cloud-in-the-sky</a>  
+   Link:<a href="https://www.skyatnightmagazine.com/news/strange-spiral-cloud-in-the-sky" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/news/strange-spiral-cloud-in-the-sky</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/bbclincolnshire/posts/spacex-rocket-fuel-dump-creates-intrigue-in-night-sky-this-was-taken-in-billingb/1215396827260149/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bbclincolnshire/posts/spacex-rocket-fuel-dump-creates-intrigue-in-night-sky-this-was-taken-in-billingb/1215396827260149/</a>  
+   Link:<a href="https://www.facebook.com/bbclincolnshire/posts/spacex-rocket-fuel-dump-creates-intrigue-in-night-sky-this-was-taken-in-billingb/1215396827260149/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bbclincolnshire/posts/spacex-rocket-fuel-dump-creates-intrigue-in-night-sky-this-was-taken-in-billingb/1215396827260149/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: theguardian.com  
    Title: alien hopes crash to earth glowing spiral uk spacex rocket  
-   Link: <a href="https://www.theguardian.com/world/2025/mar/25/alien-hopes-crash-to-earth-glowing-spiral-uk-spacex-rocket" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2025/mar/25/alien-hopes-crash-to-earth-glowing-spiral-uk-spacex-rocket</a>  
+   Link:<a href="https://www.theguardian.com/world/2025/mar/25/alien-hopes-crash-to-earth-glowing-spiral-uk-spacex-rocket" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2025/mar/25/alien-hopes-crash-to-earth-glowing-spiral-uk-spacex-rocket</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/spaceporn/comments/1rxxfa3/spacex_falcon_9_launch_plume_jellyfish/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/spaceporn/comments/1rxxfa3/spacex_falcon_9_launch_plume_jellyfish/</a>  
+   Link:<a href="https://www.reddit.com/r/spaceporn/comments/1rxxfa3/spacex_falcon_9_launch_plume_jellyfish/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/spaceporn/comments/1rxxfa3/spacex_falcon_9_launch_plume_jellyfish/</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/space/comments/1jjg2zz/spacex_rocket_launch_caused_glowing_spiral_dubbed/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/1jjg2zz/spacex_rocket_launch_caused_glowing_spiral_dubbed/</a>  
+   Link:<a href="https://www.reddit.com/r/space/comments/1jjg2zz/spacex_rocket_launch_caused_glowing_spiral_dubbed/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/1jjg2zz/spacex_rocket_launch_caused_glowing_spiral_dubbed/</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DTrQYxjjEGa/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DTrQYxjjEGa/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/reel/DTrQYxjjEGa/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DTrQYxjjEGa/?hl=en</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: engadget.com  
-   Link: <a href="https://www.engadget.com/2017-12-22-spacex-falcon-9-la-cloud-ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.engadget.com/2017-12-22-spacex-falcon-9-la-cloud-ufo.html</a>  
+   Link:<a href="https://www.engadget.com/2017-12-22-spacex-falcon-9-la-cloud-ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.engadget.com/2017-12-22-spacex-falcon-9-la-cloud-ufo.html</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: skyatnightmagazine.com  
    Title: things mistaken for ufos  
-   Link: <a href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos</a>  
+   Link:<a href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: spaceflightnow.com  
    Title: falcon 9 iridium next 4 mission status center  
-   Link: <a href="https://spaceflightnow.com/2017/12/22/falcon-9-iridium-next-4-mission-status-center/" target="_blank" rel="noopener noreferrer nofollow">https://spaceflightnow.com/2017/12/22/falcon-9-iridium-next-4-mission-status-center/</a>  
+   Link:<a href="https://spaceflightnow.com/2017/12/22/falcon-9-iridium-next-4-mission-status-center/" target="_blank" rel="noopener noreferrer nofollow">https://spaceflightnow.com/2017/12/22/falcon-9-iridium-next-4-mission-status-center/</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: sciencenews.org  
    Title: scientists serious ufo uap security  
-   Link: <a href="https://www.sciencenews.org/article/scientists-serious-ufo-uap-security" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencenews.org/article/scientists-serious-ufo-uap-security</a>  
+   Link:<a href="https://www.sciencenews.org/article/scientists-serious-ufo-uap-security" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencenews.org/article/scientists-serious-ufo-uap-security</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: jasondanielshaw.com  
-   Link: <a href="https://jasondanielshaw.com/blog/spacex-lands-the-falcon-9-first-stage-in-california" target="_blank" rel="noopener noreferrer nofollow">https://jasondanielshaw.com/blog/spacex-lands-the-falcon-9-first-stage-in-california</a>  
+   Link:<a href="https://jasondanielshaw.com/blog/spacex-lands-the-falcon-9-first-stage-in-california" target="_blank" rel="noopener noreferrer nofollow">https://jasondanielshaw.com/blog/spacex-lands-the-falcon-9-first-stage-in-california</a>  
 
 ### Additional References
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/2393127970/posts/10163510928307971/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2393127970/posts/10163510928307971/</a>  
+   Link:<a href="https://www.facebook.com/groups/2393127970/posts/10163510928307971/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2393127970/posts/10163510928307971/</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/thejournal.ie/posts/a-blue-and-white-light-spiral-seen-over-europe-was-likely-caused-by-a-spacex-fal/1053145260191767/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thejournal.ie/posts/a-blue-and-white-light-spiral-seen-over-europe-was-likely-caused-by-a-spacex-fal/1053145260191767/</a>  
+   Link:<a href="https://www.facebook.com/thejournal.ie/posts/a-blue-and-white-light-spiral-seen-over-europe-was-likely-caused-by-a-spacex-fal/1053145260191767/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thejournal.ie/posts/a-blue-and-white-light-spiral-seen-over-europe-was-likely-caused-by-a-spacex-fal/1053145260191767/</a>  
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/tvpworldcom/posts/a-bright-spiral-appeared-in-the-night-sky-across-europe-stunning-onlookers-the-p/1242729947855662/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/tvpworldcom/posts/a-bright-spiral-appeared-in-the-night-sky-across-europe-stunning-onlookers-the-p/1242729947855662/</a>  
+   Link:<a href="https://www.facebook.com/tvpworldcom/posts/a-bright-spiral-appeared-in-the-night-sky-across-europe-stunning-onlookers-the-p/1242729947855662/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/tvpworldcom/posts/a-bright-spiral-appeared-in-the-night-sky-across-europe-stunning-onlookers-the-p/1242729947855662/</a>  
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: aui.edu  
-   Link: <a href="https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/</a>  
+   Link:<a href="https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/</a>  
 
-59. <a id="endnote-59"></a>
+59.<a id="endnote-59"></a>
    Source: neoteo.com  
-   Link: <a href="https://www.neoteo.com/en/failed-russian-bulava-missile-spiral-norway" target="_blank" rel="noopener noreferrer nofollow">https://www.neoteo.com/en/failed-russian-bulava-missile-spiral-norway</a>  
+   Link:<a href="https://www.neoteo.com/en/failed-russian-bulava-missile-spiral-norway" target="_blank" rel="noopener noreferrer nofollow">https://www.neoteo.com/en/failed-russian-bulava-missile-spiral-norway</a>  
 
-60. <a id="endnote-60"></a>
+60.<a id="endnote-60"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/SLD30/posts/did-you-see-it-throwbackthursday-to-dec-22-2017when-a-launch-from-vandenberg-lit/1398892488950376/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SLD30/posts/did-you-see-it-throwbackthursday-to-dec-22-2017when-a-launch-from-vandenberg-lit/1398892488950376/</a>  
+   Link:<a href="https://www.facebook.com/SLD30/posts/did-you-see-it-throwbackthursday-to-dec-22-2017when-a-launch-from-vandenberg-lit/1398892488950376/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SLD30/posts/did-you-see-it-throwbackthursday-to-dec-22-2017when-a-launch-from-vandenberg-lit/1398892488950376/</a>  
 
-61. <a id="endnote-61"></a>
+61.<a id="endnote-61"></a>
    Source: x.com  
-   Link: <a href="https://x.com/spacegovuk/status/1904464636612628979" target="_blank" rel="noopener noreferrer nofollow">https://x.com/spacegovuk/status/1904464636612628979</a>  
+   Link:<a href="https://x.com/spacegovuk/status/1904464636612628979" target="_blank" rel="noopener noreferrer nofollow">https://x.com/spacegovuk/status/1904464636612628979</a>  
 
-62. <a id="endnote-62"></a>
+62.<a id="endnote-62"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/bbcherefordandworcester/posts/did-you-see-the-spiral-its-believed-to-have-been-caused-by-a-spacex-rocket-launc/1200476338748213/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bbcherefordandworcester/posts/did-you-see-the-spiral-its-believed-to-have-been-caused-by-a-spacex-rocket-launc/1200476338748213/</a>
+   Link:<a href="https://www.facebook.com/bbcherefordandworcester/posts/did-you-see-the-spiral-its-believed-to-have-been-caused-by-a-spacex-rocket-launc/1200476338748213/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bbcherefordandworcester/posts/did-you-see-the-spiral-its-believed-to-have-been-caused-by-a-spacex-rocket-launc/1200476338748213/</a>

@@ -274,12 +274,12 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c_nigh
 
 ## Introduction
 
-A surprisingly common cause of UFO reports and photographs is the reflection of an ordinary room lamp in a window at night. When the outdoors is dark and the interior is brightly lit, the glass no longer behaves like an invisible opening. Instead, it acts as a partial mirror, overlaying the image of a lamp, ceiling fitting or chandelier onto the night sky beyond. The result can be startlingly convincing: a crisp, bright object that appears to hover over rooftops, fields, water or clouds even though its true source is inside the room. Optical demonstrations, photography examples and reflection studies all show that indoor lights can produce apparent sky objects that are easily mistaken for something external. <span class="citation-chip-wrap"><a class="citation-chip" href="https://profoundphysics.com/why-do-windows-reflect-at-night-the-physics-explained/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: profoundphysics.com">[profoundphysics.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">profoundphysics.com</span><span class="citation-popover-title">Why Do Windows Reflect At Night?</span><span class="citation-popover-snippet">The Physics ExplainedIn short, windows become more reflective at night because the light coming from indoor lighting gets reflected off t...</span></span></span> [ResearchGate Within the broader category of [reflections]({{ 'reflections/' | relative_url }}) through windows and [windscreens]({{ 'windscreens/' | relative_url }})](#endnote-2 "Snippet: The light of a big...The light of a big chandelier reflected on the window of the hall of a restaurant. (Test carried out by my ex-asso..."), this mechanism stands out because it often creates stationary, well-defined lights that seem to occupy the sky itself. The witness is seeing a real optical image, but its apparent location is misleading.
+A surprisingly common cause of UFO reports and photographs is the reflection of an ordinary room lamp in a window at night. When the outdoors is dark and the interior is brightly lit, the glass no longer behaves like an invisible opening. Instead, it acts as a partial mirror, overlaying the image of a lamp, ceiling fitting or chandelier onto the night sky beyond. The result can be startlingly convincing: a crisp, bright object that appears to hover over rooftops, fields, water or clouds even though its true source is inside the room. Optical demonstrations, photography examples and reflection studies all show that indoor lights can produce apparent sky objects that are easily mistaken for something external.<span class="citation-chip-wrap"><a class="citation-chip" href="https://profoundphysics.com/why-do-windows-reflect-at-night-the-physics-explained/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: profoundphysics.com">[profoundphysics.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">profoundphysics.com</span><span class="citation-popover-title">Why Do Windows Reflect At Night?</span><span class="citation-popover-snippet">The Physics ExplainedIn short, windows become more reflective at night because the light coming from indoor lighting gets reflected off t...</span></span></span> [ResearchGate Within the broader category of [reflections]({{ 'reflections/' | relative_url }}) through windows and [windscreens]({{ 'windscreens/' | relative_url }})](#endnote-2 "Snippet: The light of a big...The light of a big chandelier reflected on the window of the hall of a restaurant. (Test carried out by my ex-asso..."), this mechanism stands out because it often creates stationary, well-defined lights that seem to occupy the sky itself. The witness is seeing a real optical image, but its apparent location is misleading.
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c_night_window_lamp_re_2a4a79-Illustration-1-dark.svg" | relative_url }}" alt="Night Lamps illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c_night_window_lamp_re_2a4a79-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c_night_window_lamp_re_2a4a79-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Dark Skies Make Indoor Reflections Convincing
 
-At night, the balance of light changes dramatically. During the day, bright outdoor scenery overwhelms most reflections from inside a room. After dark, the situation reverses. Interior lighting may be hundreds or thousands of times brighter than the landscape outside the window, making reflections much easier to see. Physics explanations of window reflections note that windows always reflect some light, but the reflections become conspicuous at night because there is far less light arriving from outdoors. <span class="citation-chip-wrap"><a class="citation-chip" href="https://profoundphysics.com/why-do-windows-reflect-at-night-the-physics-explained/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: profoundphysics.com">[profoundphysics.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">profoundphysics.com</span><span class="citation-popover-title">Why Do Windows Reflect At Night?</span><span class="citation-popover-snippet">The Physics ExplainedIn short, windows become more reflective at night because the light coming from indoor lighting gets reflected off t...</span></span></span>
+At night, the balance of light changes dramatically. During the day, bright outdoor scenery overwhelms most reflections from inside a room. After dark, the situation reverses. Interior lighting may be hundreds or thousands of times brighter than the landscape outside the window, making reflections much easier to see. Physics explanations of window reflections note that windows always reflect some light, but the reflections become conspicuous at night because there is far less light arriving from outdoors.<span class="citation-chip-wrap"><a class="citation-chip" href="https://profoundphysics.com/why-do-windows-reflect-at-night-the-physics-explained/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: profoundphysics.com">[profoundphysics.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">profoundphysics.com</span><span class="citation-popover-title">Why Do Windows Reflect At Night?</span><span class="citation-popover-snippet">The Physics ExplainedIn short, windows become more reflective at night because the light coming from indoor lighting gets reflected off t...</span></span></span>
 
 This creates the perfect conditions for a false aerial object:
 
@@ -294,7 +294,7 @@ This creates the perfect conditions for a false aerial object:
 
 A small ceiling lamp reflected in glass can therefore appear to float far beyond the window. If the outdoor view includes a horizon, clouds or distant city lights, the reflected image may seem embedded within the sky itself.
 
-The effect becomes even stronger when photographs are involved. Cameras record both the transmitted outdoor scene and the reflected indoor scene simultaneously. Because the sensor cannot distinguish between them, the final image may contain a bright “object” that appears entirely external. Reflection-removal research in photography treats this blending of foreground reflections and background scenery as a well-known imaging problem. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1907.11912" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Semantic Guided Single Image Reflection Removal</span><span class="citation-popover-snippet">Semantic Guided Single Image Reflection RemovalJuly 27, 2019...</span><span class="citation-popover-meta">Published: July 27, 2019</span></span></span>
+The effect becomes even stronger when photographs are involved. Cameras record both the transmitted outdoor scene and the reflected indoor scene simultaneously. Because the sensor cannot distinguish between them, the final image may contain a bright “object” that appears entirely external. Reflection-removal research in photography treats this blending of foreground reflections and background scenery as a well-known imaging problem.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1907.11912" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Semantic Guided Single Image Reflection Removal</span><span class="citation-popover-snippet">Semantic Guided Single Image Reflection RemovalJuly 27, 2019...</span><span class="citation-popover-meta">Published: July 27, 2019</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pMMJo2q5ADM" title="Mirage : An optical illusion | What is a Mirage and Why do we see a Mirage" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pMMJo2q5ADM" target="_blank" rel="noopener noreferrer">Mirage : An optical illusion | What is a Mirage and Why do we see a Mirage</a></p><p class="youtube-embed-meta">Channel: Robomate &middot; Views: 990.2K &middot; Uploaded: April 2018 &middot; Length: 2 minutes 51 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pMMJo2q5ADM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pMMJo2q5ADM">Open on YouTube</a></p></div></div></div>
 
@@ -310,11 +310,11 @@ Several characteristics make the illusion particularly persuasive:
 
 **Geometric simplicity.** Many modern lamps are circular, ring-shaped or symmetrical. Reflected against a dark sky, these forms can resemble the classic appearance of luminous UFO reports.
 
-**High contrast.** Bright indoor lighting often appears more intense than distant [stars]({{ 'stars/' | relative_url }}), [aircraft lights]({{ 'aircraft-lights/' | relative_url }}) or clouds, giving the reflected object an unusually striking appearance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://profoundphysics.com/why-do-windows-reflect-at-night-the-physics-explained/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: profoundphysics.com">[profoundphysics.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">profoundphysics.com</span><span class="citation-popover-title">Why Do Windows Reflect At Night?</span><span class="citation-popover-snippet">The Physics ExplainedIn short, windows become more reflective at night because the light coming from indoor lighting gets reflected off t...</span></span></span>
+**High contrast.** Bright indoor lighting often appears more intense than distant [stars]({{ 'stars/' | relative_url }}), [aircraft lights]({{ 'aircraft-lights/' | relative_url }}) or clouds, giving the reflected object an unusually striking appearance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://profoundphysics.com/why-do-windows-reflect-at-night-the-physics-explained/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: profoundphysics.com">[profoundphysics.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">profoundphysics.com</span><span class="citation-popover-title">Why Do Windows Reflect At Night?</span><span class="citation-popover-snippet">The Physics ExplainedIn short, windows become more reflective at night because the light coming from indoor lighting gets reflected off t...</span></span></span>
 
 **Isolation.** A single reflected light may appear detached from any visible source, encouraging the assumption that it is an independent object outside.
 
-**Photographic [compression]({{ 'compression/' | relative_url }}).** Camera exposure settings can suppress room details while preserving the reflected light, making the apparent object seem even more mysterious. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1907.11912" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Semantic Guided Single Image Reflection Removal</span><span class="citation-popover-snippet">Semantic Guided Single Image Reflection RemovalJuly 27, 2019...</span><span class="citation-popover-meta">Published: July 27, 2019</span></span></span>
+**Photographic [compression]({{ 'compression/' | relative_url }}).** Camera exposure settings can suppress room details while preserving the reflected light, making the apparent object seem even more mysterious.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1907.11912" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Semantic Guided Single Image Reflection Removal</span><span class="citation-popover-snippet">Semantic Guided Single Image Reflection RemovalJuly 27, 2019...</span><span class="citation-popover-meta">Published: July 27, 2019</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c_night_window_lamp_re_2a4a79-Illustration-2-dark.svg" | relative_url }}" alt="Night Lamps illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c_night_window_lamp_re_2a4a79-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c_night_window_lamp_re_2a4a79-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Clues That the Light Source Is Inside the Room
@@ -323,7 +323,7 @@ Although the illusion can be convincing, indoor-light reflections often leave cl
 
 One common sign is an object that remains fixed relative to the window rather than to the outdoor landscape. If the observer shifts position and the apparent UFO shifts as well, the image is probably tied to the glass rather than the sky.
 
-Another clue is duplication. Modern double-glazed windows can produce multiple faint copies of the same light because reflections occur at several glass surfaces. Atmospheric optics specialists note that multiple “ghost” images can appear when panes are slightly tilted or not perfectly aligned. <span class="citation-chip-wrap"><a class="citation-chip" href="https://atoptics.co.uk/blog/multiple-images-through-glass-opod/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atoptics.co.uk">[atoptics.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atoptics.co.uk</span><span class="citation-popover-snippet">Multiple images through glass - OPOD - Atmospheric Optics16 Dec 2024 — When the panes are not perfectly aligned, a series of ghost images...</span></span></span>
+Another clue is duplication. Modern double-glazed windows can produce multiple faint copies of the same light because reflections occur at several glass surfaces. Atmospheric optics specialists note that multiple “ghost” images can appear when panes are slightly tilted or not perfectly aligned.<span class="citation-chip-wrap"><a class="citation-chip" href="https://atoptics.co.uk/blog/multiple-images-through-glass-opod/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atoptics.co.uk">[atoptics.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atoptics.co.uk</span><span class="citation-popover-snippet">Multiple images through glass - OPOD - Atmospheric Optics16 Dec 2024 — When the panes are not perfectly aligned, a series of ghost images...</span></span></span>
 
 Additional warning signs include:
 
@@ -334,13 +334,13 @@ Additional warning signs include:
 * Its shape resembles a domestic light fitting.
 * It brightens or fades when interior lighting changes.
 * It disappears when viewed from a different part of the room.
-* It appears in photographs taken through glass but not when viewed directly outside. <span class="citation-chip-wrap"><a class="citation-chip" href="https://atoptics.co.uk/blog/multiple-images-through-glass-opod/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atoptics.co.uk">[atoptics.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atoptics.co.uk</span><span class="citation-popover-snippet">Multiple images through glass - OPOD - Atmospheric Optics16 Dec 2024 — When the panes are not perfectly aligned, a series of ghost images...</span></span></span>
+* It appears in photographs taken through glass but not when viewed directly outside.<span class="citation-chip-wrap"><a class="citation-chip" href="https://atoptics.co.uk/blog/multiple-images-through-glass-opod/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atoptics.co.uk">[atoptics.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atoptics.co.uk</span><span class="citation-popover-snippet">Multiple images through glass - OPOD - Atmospheric Optics16 Dec 2024 — When the panes are not perfectly aligned, a series of ghost images...</span></span></span>
 
 </div>
 
-A notable demonstration published by astronomer and UFO researcher Massimo Teodorani showed how a restaurant chandelier reflected in a window could produce a striking image that might be interpreted as an anomalous aerial object if its true origin were unknown. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/figure/Misinterpreted-ordinary-light-reflection-The-light-of-a-big-chandelier-reflected-on-the_fig4_258369609" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Misinterpreted ordinary light reflection</span><span class="citation-popover-snippet">The light of a big...The light of a big chandelier reflected on the window of the hall of a restaurant. (Test carried out by my ex-asso...</span></span></span>
+A notable demonstration published by astronomer and UFO researcher Massimo Teodorani showed how a restaurant chandelier reflected in a window could produce a striking image that might be interpreted as an anomalous aerial object if its true origin were unknown.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/figure/Misinterpreted-ordinary-light-reflection-The-light-of-a-big-chandelier-reflected-on-the_fig4_258369609" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Misinterpreted ordinary light reflection</span><span class="citation-popover-snippet">The light of a big...The light of a big chandelier reflected on the window of the hall of a restaurant. (Test carried out by my ex-asso...</span></span></span>
 
-Informal examples repeatedly appear in photography communities and online discussions, where reflections of ceiling lights create images that look remarkably like hovering craft or luminous formations in the sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/confusing_perspective/comments/w3641a/alien_invasion_ceiling_lights_reflecting_on_glass/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Alien invasion (ceiling lights reflecting on glass window)July 19, 2022 — Only takes something this little to start UFO sighting co...</span><span class="citation-popover-meta">Published: July 19, 2022</span></span></span>
+Informal examples repeatedly appear in photography communities and online discussions, where reflections of ceiling lights create images that look remarkably like hovering craft or luminous formations in the sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/confusing_perspective/comments/w3641a/alien_invasion_ceiling_lights_reflecting_on_glass/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Alien invasion (ceiling lights reflecting on glass window)July 19, 2022 — Only takes something this little to start UFO sighting co...</span><span class="citation-popover-meta">Published: July 19, 2022</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/F1Dc43HvE9Y" title="Fix Window Reflections - Security Camera IR Night Vision Lights" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=F1Dc43HvE9Y" target="_blank" rel="noopener noreferrer">Fix Window Reflections - Security Camera IR Night Vision Lights</a></p><p class="youtube-embed-meta">Channel: Home Tech DIY &middot; Views: 26.9K &middot; Uploaded: October 2025 &middot; Length: 57 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=F1Dc43HvE9Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=F1Dc43HvE9Y">Open on YouTube</a></p></div></div></div>
 
@@ -377,197 +377,197 @@ These simple checks are often enough to distinguish a true object in the sky fro
 
 Night-time window-lamp reflections occupy an important place among identified flying object explanations because they can produce exactly the kind of isolated luminous target that attracts attention and photographs. Unlike vague visual impressions, they create bright, structured images that can seem highly anomalous at first glance.
 
-The lesson is not that every night-time UFO photograph is a reflection. Rather, any report involving a dark exterior, indoor lighting and observation through glass deserves careful examination before conclusions are drawn. A ceiling lamp, chandelier or decorative light may be optically transformed into a convincing sky object by nothing more exotic than a pane of glass and the darkness beyond it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://profoundphysics.com/why-do-windows-reflect-at-night-the-physics-explained/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: profoundphysics.com">[profoundphysics.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">profoundphysics.com</span><span class="citation-popover-title">Why Do Windows Reflect At Night?</span><span class="citation-popover-snippet">The Physics ExplainedIn short, windows become more reflective at night because the light coming from indoor lighting gets reflected off t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/figure/Misinterpreted-ordinary-light-reflection-The-light-of-a-big-chandelier-reflected-on-the_fig4_258369609" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Misinterpreted ordinary light reflection</span><span class="citation-popover-snippet">The light of a big...The light of a big chandelier reflected on the window of the hall of a restaurant. (Test carried out by my ex-asso...</span></span></span>
+The lesson is not that every night-time UFO photograph is a reflection. Rather, any report involving a dark exterior, indoor lighting and observation through glass deserves careful examination before conclusions are drawn. A ceiling lamp, chandelier or decorative light may be optically transformed into a convincing sky object by nothing more exotic than a pane of glass and the darkness beyond it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://profoundphysics.com/why-do-windows-reflect-at-night-the-physics-explained/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: profoundphysics.com">[profoundphysics.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">profoundphysics.com</span><span class="citation-popover-title">Why Do Windows Reflect At Night?</span><span class="citation-popover-snippet">The Physics ExplainedIn short, windows become more reflective at night because the light coming from indoor lighting gets reflected off t...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/figure/Misinterpreted-ordinary-light-reflection-The-light-of-a-big-chandelier-reflected-on-the_fig4_258369609" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Misinterpreted ordinary light reflection</span><span class="citation-popover-snippet">The light of a big...The light of a big chandelier reflected on the window of the hall of a restaurant. (Test carried out by my ex-asso...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When a Room Light Becomes a UFO. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When a Room Light Becomes a UFO. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Connects ordinary misidentifications to the wider history of UFO investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects ordinary misidentifications to the wider history of UFO investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
-        </h4>
-        <p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
+</h4>
+<p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
         
-        <p class="fr-book-desc">Explains how people can confidently misread ordinary visual scenes such as reflected lamps.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how people can confidently misread ordinary visual scenes such as reflected lamps.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Visual+Intelligence+by+Amy+E.+Herman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Visual Intelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4_XHBQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Visual Intelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Visual+Intelligence+by+Amy+E.+Herman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Visual Intelligence">Visual Intelligence</a>
-        </h4>
-        <p class="fr-book-author">By Amy E. Herman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Visual+Intelligence+by+Amy+E.+Herman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Visual Intelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4_XHBQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Visual Intelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Visual+Intelligence+by+Amy+E.+Herman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Visual Intelligence">Visual Intelligence</a>
+</h4>
+<p class="fr-book-author">By Amy E. Herman</p>
         
-        <p class="fr-book-desc">Helps readers think about checking angles, sources and visual assumptions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Visual+Intelligence+by+Amy+E.+Herman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers think about checking angles, sources and visual assumptions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Visual+Intelligence+by+Amy+E.+Herman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Light+and+Color+in+the+Outdoors+by+Marcel+Minnaert&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Light and Color in the Outdoors on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=yPj2BwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Light and Color in the Outdoors" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Light+and+Color+in+the+Outdoors+by+Marcel+Minnaert&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Light and Color in the Outdoors">Light and Color in the Outdoors</a>
-        </h4>
-        <p class="fr-book-author">By Marcel Minnaert</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Light+and+Color+in+the+Outdoors+by+Marcel+Minnaert&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Light and Color in the Outdoors on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=yPj2BwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Light and Color in the Outdoors" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Light+and+Color+in+the+Outdoors+by+Marcel+Minnaert&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Light and Color in the Outdoors">Light and Color in the Outdoors</a>
+</h4>
+<p class="fr-book-author">By Marcel Minnaert</p>
         
-        <p class="fr-book-desc">Directly supports the physics of reflections, light paths and apparent sky objects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Light+and+Color+in+the+Outdoors+by+Marcel+Minnaert&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly supports the physics of reflections, light paths and apparent sky objects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Light+and+Color+in+the+Outdoors+by+Marcel+Minnaert&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Invisible+Gorilla&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Invisible Gorilla</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Visual+Intelligence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Visual Intelligence</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Invisible+Gorilla&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Invisible Gorilla</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Visual+Intelligence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Visual Intelligence</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-room-light-becomes-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-a-room-light-becomes-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-room-light-becomes-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-a-room-light-becomes-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-room-light-becomes-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-a-room-light-becomes-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-room-light-becomes-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-a-room-light-becomes-a-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-room-light-becomes-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-a-room-light-becomes-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-room-light-becomes-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-a-room-light-becomes-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-room-light-becomes-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-a-room-light-becomes-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-room-light-becomes-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-a-room-light-becomes-a-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-room-light-becomes-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-a-room-light-becomes-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-room-light-becomes-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-a-room-light-becomes-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-room-light-becomes-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-a-room-light-becomes-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-room-light-becomes-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-a-room-light-becomes-a-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-room-light-becomes-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-a-room-light-becomes-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-room-light-becomes-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-a-room-light-becomes-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-room-light-becomes-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-a-room-light-becomes-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-room-light-becomes-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-a-room-light-becomes-a-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-room-light-becomes-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-a-room-light-becomes-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-room-light-becomes-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-a-room-light-becomes-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-room-light-becomes-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-a-room-light-becomes-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-room-light-becomes-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-a-room-light-becomes-a-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-room-light-becomes-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-a-room-light-becomes-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-room-light-becomes-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-a-room-light-becomes-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-room-light-becomes-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-a-room-light-becomes-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-room-light-becomes-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-a-room-light-becomes-a-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-room-light-becomes-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-a-room-light-becomes-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-room-light-becomes-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-a-room-light-becomes-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-room-light-becomes-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-a-room-light-becomes-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-room-light-becomes-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-a-room-light-becomes-a-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-room-light-becomes-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-a-room-light-becomes-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-room-light-becomes-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-a-room-light-becomes-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-room-light-becomes-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-a-room-light-becomes-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-room-light-becomes-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-a-room-light-becomes-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-room-light-becomes-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-a-room-light-becomes-a-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-room-light-becomes-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-a-room-light-becomes-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -583,7 +583,7 @@ The lesson is not that every night-time UFO photograph is a reflection. Rather, 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -603,7 +603,7 @@ The lesson is not that every night-time UFO photograph is a reflection. Rather, 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -635,7 +635,7 @@ The lesson is not that every night-time UFO photograph is a reflection. Rather, 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -687,7 +687,7 @@ The lesson is not that every night-time UFO photograph is a reflection. Rather, 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -732,7 +732,7 @@ The lesson is not that every night-time UFO photograph is a reflection. Rather, 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -773,102 +773,102 @@ The lesson is not that every night-time UFO photograph is a reflection. Rather, 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: profoundphysics.com  
    Title: Why Do Windows Reflect At Night?  
-   Link: <a href="https://profoundphysics.com/why-do-windows-reflect-at-night-the-physics-explained/" target="_blank" rel="noopener noreferrer nofollow">https://profoundphysics.com/why-do-windows-reflect-at-night-the-physics-explained/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Physics ExplainedIn short, windows become more reflective at night because the light coming from indoor lighting gets reflected off t...</p></details>
+   Link:<a href="https://profoundphysics.com/why-do-windows-reflect-at-night-the-physics-explained/" target="_blank" rel="noopener noreferrer nofollow">https://profoundphysics.com/why-do-windows-reflect-at-night-the-physics-explained/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Physics ExplainedIn short, windows become more reflective at night because the light coming from indoor lighting gets reflected off t...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: researchgate.net  
    Title: Research Gate Misinterpreted ordinary light reflection  
-   Link: <a href="https://www.researchgate.net/figure/Misinterpreted-ordinary-light-reflection-The-light-of-a-big-chandelier-reflected-on-the_fig4_258369609" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Misinterpreted-ordinary-light-reflection-The-light-of-a-big-chandelier-reflected-on-the_fig4_258369609</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The light of a big...The light of a big chandelier reflected on the window of the hall of a restaurant. (Test carried out by my ex-asso...</p></details>
+   Link:<a href="https://www.researchgate.net/figure/Misinterpreted-ordinary-light-reflection-The-light-of-a-big-chandelier-reflected-on-the_fig4_258369609" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Misinterpreted-ordinary-light-reflection-The-light-of-a-big-chandelier-reflected-on-the_fig4_258369609</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The light of a big...The light of a big chandelier reflected on the window of the hall of a restaurant. (Test carried out by my ex-asso...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
    Title: arXiv Semantic Guided Single Image Reflection Removal  
-   Link: <a href="https://arxiv.org/abs/1907.11912" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1907.11912</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Semantic Guided Single Image Reflection RemovalJuly 27, 2019...</p></details>
+   Link:<a href="https://arxiv.org/abs/1907.11912" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1907.11912</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Semantic Guided Single Image Reflection RemovalJuly 27, 2019...</p></details>
    Published: July 27, 2019  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: atoptics.co.uk  
-   Link: <a href="https://atoptics.co.uk/blog/multiple-images-through-glass-opod/" target="_blank" rel="noopener noreferrer nofollow">https://atoptics.co.uk/blog/multiple-images-through-glass-opod/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Multiple images through glass - OPOD - Atmospheric Optics16 Dec 2024 — When the panes are not perfectly aligned, a series of ghost images...</p></details>
+   Link:<a href="https://atoptics.co.uk/blog/multiple-images-through-glass-opod/" target="_blank" rel="noopener noreferrer nofollow">https://atoptics.co.uk/blog/multiple-images-through-glass-opod/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Multiple images through glass - OPOD - Atmospheric Optics16 Dec 2024 — When the panes are not perfectly aligned, a series of ghost images...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/confusing_perspective/comments/w3641a/alien_invasion_ceiling_lights_reflecting_on_glass/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/confusing_perspective/comments/w3641a/alien_invasion_ceiling_lights_reflecting_on_glass/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien invasion (ceiling lights reflecting on glass window)July 19, 2022 — Only takes something this little to start UFO sighting co...</p></details>
+   Link:<a href="https://www.reddit.com/r/confusing_perspective/comments/w3641a/alien_invasion_ceiling_lights_reflecting_on_glass/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/confusing_perspective/comments/w3641a/alien_invasion_ceiling_lights_reflecting_on_glass/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Alien invasion (ceiling lights reflecting on glass window)July 19, 2022 — Only takes something this little to start UFO sighting co...</p></details>
    Published: July 19, 2022  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/mildlyinteresting/comments/72m3zf/caught_the_reflection_of_the_light_in_the_window/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/mildlyinteresting/comments/72m3zf/caught_the_reflection_of_the_light_in_the_window/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>in the sky! everyone is complaining about the bulbs but it works so...</p></details>
+   Link:<a href="https://www.reddit.com/r/mildlyinteresting/comments/72m3zf/caught_the_reflection_of_the_light_in_the_window/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/mildlyinteresting/comments/72m3zf/caught_the_reflection_of_the_light_in_the_window/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>in the sky! everyone is complaining about the bulbs but it works so...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/pics/comments/3dr6mj/the_reflection_of_the_light_inside_makes_it_look/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/pics/comments/3dr6mj/the_reflection_of_the_light_inside_makes_it_look/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>s trapped in a thermal pocket and reflected the light from [Venus](&amp;#123;&amp;#123; &#x27;venus/&#x27; | relative_url &amp;#125;&amp;#125;). Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/pics/comments/3dr6mj/the_reflection_of_the_light_inside_makes_it_look/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/pics/comments/3dr6mj/the_reflection_of_the_light_inside_makes_it_look/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>s trapped in a thermal pocket and reflected the light from [Venus](&amp;#123;&amp;#123; &#x27;venus/&#x27; | relative_url &amp;#125;&amp;#125;). Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Ghosts/comments/s5ifrf/the_original_picture_of_reflection_in_window_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Ghosts/comments/s5ifrf/the_original_picture_of_reflection_in_window_of/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>e side of the wall facing the glass?...</p></details>
+   Link:<a href="https://www.reddit.com/r/Ghosts/comments/s5ifrf/the_original_picture_of_reflection_in_window_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Ghosts/comments/s5ifrf/the_original_picture_of_reflection_in_window_of/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>e side of the wall facing the glass?...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NOVApbs/posts/heres-what-you-might-actually-be-seeing-if-you-spot-a-ufo-in-the-night-sky/1344138991093815/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NOVApbs/posts/heres-what-you-might-actually-be-seeing-if-you-spot-a-ufo-in-the-night-sky/1344138991093815/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s what you might actually be seeing if you spot a UFO...The optics of the camera lenses can cause internal reflections. Int...</p></details>
+   Link:<a href="https://www.facebook.com/NOVApbs/posts/heres-what-you-might-actually-be-seeing-if-you-spot-a-ufo-in-the-night-sky/1344138991093815/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NOVApbs/posts/heres-what-you-might-actually-be-seeing-if-you-spot-a-ufo-in-the-night-sky/1344138991093815/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s what you might actually be seeing if you spot a UFO...The optics of the camera lenses can cause internal reflections. Int...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/764515800577918/posts/1052632535099575/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/764515800577918/posts/1052632535099575/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lights reflecting on the window create a unique effectThe photo you shared creates a mysterious [atmosphere](&amp;#123;&amp;#123; &#x27;atmosphere/&#x27; | relative_url &amp;#125;&amp;#125;), with circular lights appearin...</p></details>
+   Link:<a href="https://www.facebook.com/groups/764515800577918/posts/1052632535099575/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/764515800577918/posts/1052632535099575/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lights reflecting on the window create a unique effectThe photo you shared creates a mysterious [atmosphere](&amp;#123;&amp;#123; &#x27;atmosphere/&#x27; | relative_url &amp;#125;&amp;#125;), with circular lights appearin...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1289904897817614/posts/3039974452810641/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1289904897817614/posts/3039974452810641/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious photo turns out to be window reflectionIjust found this from a couple of yrs ago. I took this picture from inside my car threw...</p></details>
+   Link:<a href="https://www.facebook.com/groups/1289904897817614/posts/3039974452810641/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1289904897817614/posts/3039974452810641/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious photo turns out to be window reflectionIjust found this from a couple of yrs ago. I took this picture from inside my car threw...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: alamy.com  
-   Link: <a href="https://www.alamy.com/stock-photo/window-reflection-night.html" target="_blank" rel="noopener noreferrer nofollow">https://www.alamy.com/stock-photo/window-reflection-night.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Window reflection night Stock Photos and ImagesFind the perfect window reflection night stock photo, image, vector, illustration or 360 i...</p></details>
+   Link:<a href="https://www.alamy.com/stock-photo/window-reflection-night.html" target="_blank" rel="noopener noreferrer nofollow">https://www.alamy.com/stock-photo/window-reflection-night.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Window reflection night Stock Photos and ImagesFind the perfect window reflection night stock photo, image, vector, illustration or 360 i...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/bopweather/posts/4064043350546791/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/bopweather/posts/4064043350546791/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sighting explained as window reflectionThe lights may be reflections caused by sunlight bouncing off a drone or aircraft, or even an...</p></details>
+   Link:<a href="https://www.facebook.com/groups/bopweather/posts/4064043350546791/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/bopweather/posts/4064043350546791/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sighting explained as window reflectionThe lights may be reflections caused by sunlight bouncing off a drone or aircraft, or even an...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: pinterest.com  
-   Link: <a href="https://www.pinterest.com/ideas/window-light-reflection/954247272185/" target="_blank" rel="noopener noreferrer nofollow">https://www.pinterest.com/ideas/window-light-reflection/954247272185/</a>  
+   Link:<a href="https://www.pinterest.com/ideas/window-light-reflection/954247272185/" target="_blank" rel="noopener noreferrer nofollow">https://www.pinterest.com/ideas/window-light-reflection/954247272185/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cloudynights.com  
    Title: Dimensional constraints limit tilt angle to about 1.5  
-   Link: <a href="https://www.cloudynights.com/forums/topic/902763-tilt-optical-window-to-eliminate-ghost-reflections-how-much/" target="_blank" rel="noopener noreferrer nofollow">https://www.cloudynights.com/forums/topic/902763-tilt-optical-window-to-eliminate-ghost-reflections-how-much/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tilt optical window to eliminate ghost reflections; how much?9 Dec 2023 — I&#x27;m in the process of designing a cell to hold a window for my...</p></details>
+   Link:<a href="https://www.cloudynights.com/forums/topic/902763-tilt-optical-window-to-eliminate-ghost-reflections-how-much/" target="_blank" rel="noopener noreferrer nofollow">https://www.cloudynights.com/forums/topic/902763-tilt-optical-window-to-eliminate-ghost-reflections-how-much/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tilt optical window to eliminate ghost reflections; how much?9 Dec 2023 — I&#x27;m in the process of designing a cell to hold a window for my...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DQfbuamFEww/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DQfbuamFEww/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>shes on 1950s sky photos, some aligning with nuclear tests and UFO...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DQfbuamFEww/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DQfbuamFEww/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>shes on 1950s sky photos, some aligning with nuclear tests and UFO...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: houzz.com  
    Title: The solution is to install recessed lights  
-   Link: <a href="https://www.houzz.com/discussions/6447571/lighting-a-room-with-picture-windows-with-a-beautiful-night-view" target="_blank" rel="noopener noreferrer nofollow">https://www.houzz.com/discussions/6447571/lighting-a-room-with-picture-windows-with-a-beautiful-night-view</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lighting a room with picture windows with a beautiful night...25 May 2024 — OK, so you see reflections of room lights in the window and...</p></details>
+   Link:<a href="https://www.houzz.com/discussions/6447571/lighting-a-room-with-picture-windows-with-a-beautiful-night-view" target="_blank" rel="noopener noreferrer nofollow">https://www.houzz.com/discussions/6447571/lighting-a-room-with-picture-windows-with-a-beautiful-night-view</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lighting a room with picture windows with a beautiful night...25 May 2024 — OK, so you see reflections of room lights in the window and...</p></details>
    Published: May 2024  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: magnific.com  
    Title: Sky reflection window Images  
-   Link: <a href="https://www.magnific.com/free-photos-vectors/sky-reflection-window" target="_blank" rel="noopener noreferrer nofollow">https://www.magnific.com/free-photos-vectors/sky-reflection-window</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Free Download on...Find &amp; Download Free Graphic Resources for Sky reflection window Vectors, Stock Photos &amp; PSD files. ✓ Free for commer...</p></details>
+   Link:<a href="https://www.magnific.com/free-photos-vectors/sky-reflection-window" target="_blank" rel="noopener noreferrer nofollow">https://www.magnific.com/free-photos-vectors/sky-reflection-window</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Free Download on...Find &amp; Download Free Graphic Resources for Sky reflection window Vectors, Stock Photos &amp; PSD files. ✓ Free for commer...</p></details>

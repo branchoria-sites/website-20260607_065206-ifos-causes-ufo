@@ -504,24 +504,24 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a-overview-
 Pilot UFO reports deserve serious attention, but not automatic deference. Pilots are trained to manage aircraft, scan for traffic, understand weather and respond quickly to hazards; that makes their reports valuable, especially when safety is involved. It does not make them immune to misidentifying distance, speed, size, shape or intent when an unexpected light or object appears briefly in unfamiliar conditions.
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a-overview.webp" | relative_url }}" alt="Overview image for Pilots" loading="eager" decoding="sync" fetchpriority="high">
-This matters because many UFO and UAP reports are strongest in public discussion when the witness is a pilot, military aviator, air traffic controller or sensor operator. Professional status improves some parts of a report: timing, altitude, direction, aircraft position, operational context and the seriousness of a possible airspace hazard. Yet the same reports often contain the exact weaknesses that turn ordinary objects into extraordinary cases: surprise, high workload, night viewing, parallax, missing [range]({{ 'range/' | relative_url }}) data, [sensor limits]({{ 'sensor-limits/' | relative_url }}) and incomplete corroboration. Modern official reviews repeatedly make this point: aviation reports can be important safety data while still being too sparse, ambiguous or perception-dependent to prove anomalous performance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Director of National Intelligence</span></span></span>
+This matters because many UFO and UAP reports are strongest in public discussion when the witness is a pilot, military aviator, air traffic controller or sensor operator. Professional status improves some parts of a report: timing, altitude, direction, aircraft position, operational context and the seriousness of a possible airspace hazard. Yet the same reports often contain the exact weaknesses that turn ordinary objects into extraordinary cases: surprise, high workload, night viewing, parallax, missing [range]({{ 'range/' | relative_url }}) data, [sensor limits]({{ 'sensor-limits/' | relative_url }}) and incomplete corroboration. Modern official reviews repeatedly make this point: aviation reports can be important safety data while still being too sparse, ambiguous or perception-dependent to prove anomalous performance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Director of National Intelligence</span></span></span>
 
 ## What Pilots Know Well
 
-Pilots are not casual sky-watchers. They are used to judging weather, cloud layers, traffic lights, runway environments, radio calls, airspace structure and how aircraft normally behave. A pilot report can therefore add detail that a ground witness often cannot: the aircraft’s altitude, heading, location, visibility, workload, cockpit systems in use, nearby traffic constraints and whether the event interfered with training or flight safety. The U.S. government’s 2021 UAP assessment focused heavily on reports “largely witnessed firsthand by military aviators” and collected from systems considered reliable, which shows why professional aviation witnesses are treated as operationally important rather than dismissed as folklore. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Director of National Intelligence</span></span></span>
+Pilots are not casual sky-watchers. They are used to judging weather, cloud layers, traffic lights, runway environments, radio calls, airspace structure and how aircraft normally behave. A pilot report can therefore add detail that a ground witness often cannot: the aircraft’s altitude, heading, location, visibility, workload, cockpit systems in use, nearby traffic constraints and whether the event interfered with training or flight safety. The U.S. government’s 2021 UAP assessment focused heavily on reports “largely witnessed firsthand by military aviators” and collected from systems considered reliable, which shows why professional aviation witnesses are treated as operationally important rather than dismissed as folklore.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Director of National Intelligence</span></span></span>
 
-That expertise is most useful when the question is practical: did something occupy restricted airspace, interrupt a training range, create a possible collision risk or appear on more than one system? In the [Eglin case]({{ 'eglin-case/' | relative_url }}), for example, a military pilot reported an object near Eglin Air Force Base because it presented a possible flight safety hazard and incursion into a sensitive training range. AARO’s subsequent report did not treat the pilot’s observation as meaningless; it used the pilot’s description, radar information, electro-optical and [infrared]({{ 'infrared/' | relative_url }}) images, later discussion with the pilot, flight geometry and sun angle to evaluate the case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Eglin UAP Case Resolution</span><span class="citation-popover-snippet">Eglin UAP Case Resolution</span></span></span>
+That expertise is most useful when the question is practical: did something occupy restricted airspace, interrupt a training range, create a possible collision risk or appear on more than one system? In the [Eglin case]({{ 'eglin-case/' | relative_url }}), for example, a military pilot reported an object near Eglin Air Force Base because it presented a possible flight safety hazard and incursion into a sensitive training range. AARO’s subsequent report did not treat the pilot’s observation as meaningless; it used the pilot’s description, radar information, electro-optical and [infrared]({{ 'infrared/' | relative_url }}) images, later discussion with the pilot, flight geometry and sun angle to evaluate the case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Eglin UAP Case Resolution</span><span class="citation-popover-snippet">Eglin UAP Case Resolution</span></span></span>
 
 The useful distinction is between **noticing a hazard** and **correctly identifying its nature**. Pilots are well placed to notice that something is where it should not be, or that an object does not fit immediately into ordinary traffic expectations. But identifying a distant, unfamiliar object from a moving aircraft is a different task. A pilot may be excellent at avoiding traffic and still have limited information about whether a distant object is a balloon, drone, aircraft, reflection, bird, satellite, sensor artefact or something genuinely unresolved.
 
-Historical investigations made the same distinction. Project Blue Book listed military and civilian pilots among many reporting sources, but also noted that missiles, balloons, birds, kites, searchlights, [aircraft lights]({{ 'aircraft-lights/' | relative_url }}), jet exhaust, contrails, astronomical bodies and meteorological phenomena were often reported as UFOs. In other words, professional witnesses were part of the evidence stream, not a category exempt from ordinary misidentification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[esd.whs.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">proj b1</span><span class="citation-popover-snippet">proj b1</span></span></span>
+Historical investigations made the same distinction. Project Blue Book listed military and civilian pilots among many reporting sources, but also noted that missiles, balloons, birds, kites, searchlights, [aircraft lights]({{ 'aircraft-lights/' | relative_url }}), jet exhaust, contrails, astronomical bodies and meteorological phenomena were often reported as UFOs. In other words, professional witnesses were part of the evidence stream, not a category exempt from ordinary misidentification.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[esd.whs.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">proj b1</span><span class="citation-popover-snippet">proj b1</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a-Illustration-1-dark.svg" | relative_url }}" alt="Pilots illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Expertise Has Limits Under Surprise
 
 Pilot training reduces some errors, but it cannot remove the basic geometry and psychology of seeing from a fast-moving cockpit. A pilot looking out at night or through a sensor is not observing from a fixed laboratory position. The aircraft is moving, the object may be moving, the background may lack depth cues, and the pilot may have only seconds to divide attention between flying, communicating, navigating, checking instruments and responding to a possible hazard.
 
-Aviation safety training itself recognises that pilots are vulnerable to illusions. The FAA’s Airplane Flying Handbook warns that visual illusions are especially hazardous because pilots rely on their eyes, and that darkness or low visibility increases susceptibility to error. It specifically names false horizon and autokinesis: a false horizon can make ground lights, stars, cloud slopes or featureless water mislead a pilot’s orientation, while autokinesis can make a stationary light appear to move after being stared at in darkness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration Airplane Flying Handbook (3C) Chapter 11</span><span class="citation-popover-snippet">Federal Aviation Administration Airplane Flying Handbook (3C) Chapter 11</span></span></span>
+Aviation safety training itself recognises that pilots are vulnerable to illusions. The FAA’s Airplane Flying Handbook warns that visual illusions are especially hazardous because pilots rely on their eyes, and that darkness or low visibility increases susceptibility to error. It specifically names false horizon and autokinesis: a false horizon can make ground lights, stars, cloud slopes or featureless water mislead a pilot’s orientation, while autokinesis can make a stationary light appear to move after being stared at in darkness.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration Airplane Flying Handbook (3C) Chapter 11</span><span class="citation-popover-snippet">Federal Aviation Administration Airplane Flying Handbook (3C) Chapter 11</span></span></span>
 
 Those cockpit illusions do not map perfectly onto every UFO report, but they show the wider point: pilots can be highly trained and still experience compelling visual misperceptions. A lone light against a dark background may appear to drift, accelerate or hold position oddly because there are too few reference points. A distant aircraft can look stationary when approaching head-on, then suddenly seem to move. A star, planet, satellite or aircraft light near the horizon can appear more unusual through haze, cloud, glass, vibration or fatigue.
 
@@ -531,9 +531,9 @@ Workload matters too. Pilots do not normally have the luxury of extended, calm o
 
 The most common mistake in dramatic UFO interpretation is to treat apparent motion as real motion without knowing range. From a cockpit, a slow or stationary object can seem fast because the aircraft is moving rapidly past it. This is motion parallax: nearby objects appear to sweep across the view more quickly than distant ones, and an unknown distance can turn an ordinary path into an extraordinary-looking one.
 
-The “[GoFast]({{ 'gofast/' | relative_url }})” Navy video is a clear example because it came from a professional military platform and still illustrates how misleading apparent speed can be. The 2015 video appeared to show an object moving rapidly near the ocean surface. AARO’s 2025 resolution concluded that the object was actually about 13,000 feet above the Atlantic and, after accounting for wind, moving between about 5 and 92 mph rather than demonstrating anomalous performance. The report stated that the apparent high speed was attributable to motion parallax. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution</span><span class="citation-popover-snippet">Go Fast Case Resolution</span></span></span>
+The “[GoFast]({{ 'gofast/' | relative_url }})” Navy video is a clear example because it came from a professional military platform and still illustrates how misleading apparent speed can be. The 2015 video appeared to show an object moving rapidly near the ocean surface. AARO’s 2025 resolution concluded that the object was actually about 13,000 feet above the Atlantic and, after accounting for wind, moving between about 5 and 92 mph rather than demonstrating anomalous performance. The report stated that the apparent high speed was attributable to motion parallax.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution</span><span class="citation-popover-snippet">Go Fast Case Resolution</span></span></span>
 
-The case is important precisely because it is not a simple “bad witness” story. The footage came from a U.S. Navy F/A-18F using a forward-looking infrared sensor, and the display contained enough information for later analysis of range, sensor angle, aircraft altitude, aircraft speed and bank angle. Yet the original file and some metadata were unavailable, and AARO could not calculate a single exact object speed or heading because the aircraft’s exact location and heading were unknown. That is the professional-witness limit in miniature: better data can narrow the possibilities, but missing geometry can still prevent a clean identification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Western_United_States_Uap_508-02262024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Case Resolution of &#x27;Western United States UAP</span><span class="citation-popover-snippet">Case Resolution of &#x27;Western United States UAP</span></span></span>
+The case is important precisely because it is not a simple “bad witness” story. The footage came from a U.S. Navy F/A-18F using a forward-looking infrared sensor, and the display contained enough information for later analysis of range, sensor angle, aircraft altitude, aircraft speed and bank angle. Yet the original file and some metadata were unavailable, and AARO could not calculate a single exact object speed or heading because the aircraft’s exact location and heading were unknown. That is the professional-witness limit in miniature: better data can narrow the possibilities, but missing geometry can still prevent a clean identification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Western_United_States_Uap_508-02262024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Case Resolution of &#x27;Western United States UAP</span><span class="citation-popover-snippet">Case Resolution of &#x27;Western United States UAP</span></span></span>
 
 Distance error also affects size. An object one metre wide close by and an object ten metres wide farther away can occupy a similar apparent size. The observer’s brain tends to fill the gap using expectation: aircraft are assumed to be aircraft-sized; lights are interpreted as traffic; a featureless dot becomes a “craft” if it seems controlled. Without range, size and speed estimates are often guesses wearing the clothes of certainty.
 
@@ -543,19 +543,19 @@ Distance error also affects size. An object one metre wide close by and an objec
 
 Night flying creates some of the most convincing conditions for UFO reports because lights become detached from familiar objects. A pilot may see a point of light, a formation of lights, a glow through haze or a shape in infrared without enough surrounding context to judge what it is. Brightness is not a reliable guide to distance, and colour can be altered by atmosphere, windows, camera processing and sensor settings.
 
-The FAA’s night-flying guidance is blunt: darkness or low visibility increases pilot susceptibility to visual error. Ground lights can be confused with stars, geometric patterns can create inaccurate horizon cues, and atmospheric or water conditions can remove a discernible horizon. In the dark, a stationary light may appear to move if stared at for several seconds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration Airplane Flying Handbook (3C) Chapter 11</span><span class="citation-popover-snippet">Federal Aviation Administration Airplane Flying Handbook (3C) Chapter 11</span></span></span>
+The FAA’s night-flying guidance is blunt: darkness or low visibility increases pilot susceptibility to visual error. Ground lights can be confused with stars, geometric patterns can create inaccurate horizon cues, and atmospheric or water conditions can remove a discernible horizon. In the dark, a stationary light may appear to move if stared at for several seconds.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration Airplane Flying Handbook (3C) Chapter 11</span><span class="citation-popover-snippet">Federal Aviation Administration Airplane Flying Handbook (3C) Chapter 11</span></span></span>
 
 This matters for pilot UFO reports because many cases are not rich visual encounters with a detailed object in daylight. They are brief sightings of lights, dots, glints, infrared signatures or shapes under unusual viewing geometry. A pilot may accurately report “five equidistant lights” or “a bright object apparently holding station” while the later explanation depends on information unavailable in the cockpit: air traffic tracks hundreds of nautical miles away, wind data, satellite positions, sensor calibration or camera vibration.
 
-AARO’s “Western United States” case shows this pattern. Military personnel reported equidistant lights moving at a relatively constant pace in restricted military airspace. AARO assessed that the lights were almost certainly commercial aircraft travelling on established air corridors as far as 300 nautical miles from the observing platform; it also concluded that apparent shape changes came from sensor vibration and autofocus. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">AARO UAP Imagery...</span></span></span>
+AARO’s “Western United States” case shows this pattern. Military personnel reported equidistant lights moving at a relatively constant pace in restricted military airspace. AARO assessed that the lights were almost certainly commercial aircraft travelling on established air corridors as far as 300 nautical miles from the observing platform; it also concluded that apparent shape changes came from sensor vibration and autofocus.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">AARO UAP Imagery...</span></span></span>
 
 ## Sensors Help, But They Do Not Automatically Settle the Case
 
-A pilot report becomes stronger when it is backed by independent sensor data. Radar, infrared, electro-optical imagery, weapon seekers, transponder data, air traffic control records and satellite or weather information can all help constrain a case. The 2021 ODNI assessment noted that 80 of 144 U.S. government UAP reports involved observation with multiple sensors, including radar, infrared, electro-optical systems, weapon seekers and visual observation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Director of National Intelligence</span></span></span>
+A pilot report becomes stronger when it is backed by independent sensor data. Radar, infrared, electro-optical imagery, weapon seekers, transponder data, air traffic control records and satellite or weather information can all help constrain a case. The 2021 ODNI assessment noted that 80 of 144 U.S. government UAP reports involved observation with multiple sensors, including radar, infrared, electro-optical systems, weapon seekers and visual observation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Director of National Intelligence</span></span></span>
 
-But multi-sensor does not mean multi-proof. Sensors are designed for particular jobs, not for solving every unidentified-object problem. The same ODNI report warned that some UAP may be attributable to sensor anomalies, and that sensor limitations and vantage points play major roles in distinguishing UAP from known objects or determining whether a report shows breakthrough capability. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Director of National Intelligence</span></span></span>
+But multi-sensor does not mean multi-proof. Sensors are designed for particular jobs, not for solving every unidentified-object problem. The same ODNI report warned that some UAP may be attributable to sensor anomalies, and that sensor limitations and vantage points play major roles in distinguishing UAP from known objects or determining whether a report shows breakthrough capability.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Director of National Intelligence</span></span></span>
 
-AARO’s public imagery pages are useful because they show both sides of sensor evidence. Some cases remain unresolved because the available data are insufficient to determine whether an apparent heat signature is a physical object, a thermal reflection, an environmental heat difference or a sensor display error. Other cases have been resolved as balloons or aircraft after reconstruction, pixel analysis, wind correlation, boresight analysis or comparison with known objects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
+AARO’s public imagery pages are useful because they show both sides of sensor evidence. Some cases remain unresolved because the available data are insufficient to determine whether an apparent heat signature is a physical object, a thermal reflection, an environmental heat difference or a sensor display error. Other cases have been resolved as balloons or aircraft after reconstruction, pixel analysis, wind correlation, boresight analysis or comparison with known objects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
 
 The key question is not “was there a sensor?” but “what did the sensor actually measure?” A radar contact may provide range and velocity but little shape. Infrared may show contrast but not material or distance unless the geometry is known. Video may show apparent speed but lack metadata. A pilot’s visual description may add context but also introduce memory, expectation and surprise. [Strong cases]({{ 'strong-cases/' | relative_url }}) are those where independent channels converge on the same object in a way that fixes position, distance, motion and timing.
 
@@ -575,7 +575,7 @@ A professional report should be treated as a lead to investigate, not as a concl
 
 </div>
 
-The Eglin case shows how corroboration can both strengthen and weaken parts of a report. The pilot’s report was taken seriously, but AARO found the visual description generally consistent with a lighter-than-air object such as a commercial lighting balloon. The report also noted that a perceived “engine” was not visible in the available images and had not appeared in the initial report, while the aircraft radar problem was likely linked to a pre-existing circuit-breaker issue rather than the object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_Puerto_Rico_UAP_Case_Resolution.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Puerto Rico UAP Case Resolution</span><span class="citation-popover-snippet">Puerto Rico UAP Case Resolution</span></span></span>
+The Eglin case shows how corroboration can both strengthen and weaken parts of a report. The pilot’s report was taken seriously, but AARO found the visual description generally consistent with a lighter-than-air object such as a commercial lighting balloon. The report also noted that a perceived “engine” was not visible in the available images and had not appeared in the initial report, while the aircraft radar problem was likely linked to a pre-existing circuit-breaker issue rather than the object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_Puerto_Rico_UAP_Case_Resolution.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Puerto Rico UAP Case Resolution</span><span class="citation-popover-snippet">Puerto Rico UAP Case Resolution</span></span></span>
 
 That does not mean the pilot was careless or dishonest. It means later analysis separated the durable parts of the report from the uncertain parts. The object’s presence, approximate altitude, shape and hazard relevance were useful. The interpretation of “blurry air”, a possible engine and a radar malfunction required corroboration, and the corroboration did not support the more exotic reading.
 
@@ -583,9 +583,9 @@ That does not mean the pilot was careless or dishonest. It means later analysis 
 
 ## Why Professional Reports Still Matter
 
-Professional witness limits should not be used as a lazy debunking shortcut. Pilots can report genuine hazards, and unidentified objects in controlled or restricted airspace matter regardless of whether they are balloons, drones, aircraft, debris, sensor errors or something stranger. The 2021 ODNI assessment said UAP pose a safety-of-flight issue, and it recorded 11 reports of near misses with UAP. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Director of National Intelligence</span></span></span>
+Professional witness limits should not be used as a lazy debunking shortcut. Pilots can report genuine hazards, and unidentified objects in controlled or restricted airspace matter regardless of whether they are balloons, drones, aircraft, debris, sensor errors or something stranger. The 2021 ODNI assessment said UAP pose a safety-of-flight issue, and it recorded 11 reports of near misses with UAP.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Director of National Intelligence</span></span></span>
 
-NASA’s 2023 independent UAP study made a similar point from the data side. It argued that better reporting, data acquisition, curation and analysis are needed, and identified NASA’s Aviation Safety Reporting System, used by pilots, air traffic controllers and other aviation professionals, as a promising route for commercial pilot UAP reporting. NASA also noted that stigma around UAP reporting likely causes data loss, which means some potentially useful aviation observations never enter a reliable system at all. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+NASA’s 2023 independent UAP study made a similar point from the data side. It argued that better reporting, data acquisition, curation and analysis are needed, and identified NASA’s Aviation Safety Reporting System, used by pilots, air traffic controllers and other aviation professionals, as a promising route for commercial pilot UAP reporting. NASA also noted that stigma around UAP reporting likely causes data loss, which means some potentially useful aviation observations never enter a reliable system at all.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The best attitude is therefore neither credulity nor ridicule. Pilot reports should be encouraged, standardised and investigated because they can reveal airspace hazards and sometimes provide high-value data. But the witness’s profession should not be allowed to do the work that only evidence can do. A pilot’s report is strongest when it begins an investigation; it is weakest when it is treated as if training alone proves distance, speed, size and origin.
 
@@ -612,194 +612,194 @@ That approach preserves what pilots contribute without pretending that professio
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a-Illustration-3-dark.svg" | relative_url }}" alt="Pilots illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Pilots Can Misidentify UFOs. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Pilots Can Misidentify UFOs. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ATZGAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Handbook">The UFO Handbook</a>
-        </h4>
-        <p class="fr-book-author">By Allan Hendry</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ATZGAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Handbook">The UFO Handbook</a>
+</h4>
+<p class="fr-book-author">By Allan Hendry</p>
         
-        <p class="fr-book-desc">Covers evaluating sighting reports, including witness reliability.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers evaluating sighting reports, including witness reliability.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains how witness reports should be assessed scientifically.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how witness reports should be assessed scientifically.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Directly addresses pilot and official UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses pilot and official UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stick and Rudder on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stick and Rudder">Stick and Rudder</a>
-        </h4>
-        <p class="fr-book-author">By Wolfgang Langewiesche, Leighton Holden Collins</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stick and Rudder on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stick and Rudder">Stick and Rudder</a>
+</h4>
+<p class="fr-book-author">By Wolfgang Langewiesche, Leighton Holden Collins</p>
         
-        <p class="fr-book-desc">Gives readers aviation context for pilot perception and flight behaviour.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Gives readers aviation context for pilot perception and flight behaviour.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model+aircraft&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilots-why-pilots-can-misidentify-ufos-ifos-causes-of-airliner-model-aircraft&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model aircraft" data-ebay-reference="pilots-why-pilots-can-misidentify-ufos-ifos-causes-of-airliner-model-aircraft" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MyTravel 3x snap fit aircraft models - Sale Finishing 23.55 Sunday 7 June"><img src="{{ '/assets/images/marketplace-covers/9bc1303e67474cd50300.jpg' | relative_url }}" alt="Listing image for MyTravel 3x snap fit aircraft models - Sale Finishing 23.55 Sunday 7 June" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model+aircraft&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilots-why-pilots-can-misidentify-ufos-ifos-causes-of-airliner-model-aircraft&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model aircraft" data-ebay-reference="pilots-why-pilots-can-misidentify-ufos-ifos-causes-of-airliner-model-aircraft" target="_blank" rel="sponsored noopener noreferrer">MyTravel 3x snap fit aircraft models - Sale Finishing 23.55 Sunday 7 June</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model+aircraft&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilots-why-pilots-can-misidentify-ufos-ifos-causes-of-airliner-model-aircraft&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model aircraft" data-ebay-reference="pilots-why-pilots-can-misidentify-ufos-ifos-causes-of-airliner-model-aircraft" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airliner model aircraft">Search <span data-ebay-domain-label>eBay.co.uk</span>: airliner model aircraft</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model+aircraft&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilots-why-pilots-can-misidentify-ufos-ifos-causes-of-airliner-model-aircraft&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model aircraft" data-ebay-reference="pilots-why-pilots-can-misidentify-ufos-ifos-causes-of-airliner-model-aircraft" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model+aircraft&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilots-why-pilots-can-misidentify-ufos-ifos-causes-of-airliner-model-aircraft&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model aircraft" data-ebay-reference="pilots-why-pilots-can-misidentify-ufos-ifos-causes-of-airliner-model-aircraft" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MyTravel 3x snap fit aircraft models - Sale Finishing 23.55 Sunday 7 June"><img src="{{ '/assets/images/marketplace-covers/9bc1303e67474cd50300.jpg' | relative_url }}" alt="Listing image for MyTravel 3x snap fit aircraft models - Sale Finishing 23.55 Sunday 7 June" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model+aircraft&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilots-why-pilots-can-misidentify-ufos-ifos-causes-of-airliner-model-aircraft&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model aircraft" data-ebay-reference="pilots-why-pilots-can-misidentify-ufos-ifos-causes-of-airliner-model-aircraft" target="_blank" rel="sponsored noopener noreferrer">MyTravel 3x snap fit aircraft models - Sale Finishing 23.55 Sunday 7 June</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model+aircraft&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilots-why-pilots-can-misidentify-ufos-ifos-causes-of-airliner-model-aircraft&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model aircraft" data-ebay-reference="pilots-why-pilots-can-misidentify-ufos-ifos-causes-of-airliner-model-aircraft" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airliner model aircraft">Search<span data-ebay-domain-label>eBay.co.uk</span>: airliner model aircraft</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model+aircraft&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilots-why-pilots-can-misidentify-ufos-ifos-causes-of-airliner-model-aircraft&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model aircraft" data-ebay-reference="pilots-why-pilots-can-misidentify-ufos-ifos-causes-of-airliner-model-aircraft" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model+aircraft&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilots-why-pilots-can-misidentify-ufos-ifos-causes-of-airliner-model-aircraft&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model aircraft" data-ebay-reference="pilots-why-pilots-can-misidentify-ufos-ifos-causes-of-airliner-model-aircraft" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Diecast Model Aircraft Airliner Boeing 747B VC25A Air Force One 1:450"><img src="{{ '/assets/images/marketplace-covers/5adbcbb4aa17e0d078fd.jpg' | relative_url }}" alt="Listing image for Diecast Model Aircraft Airliner Boeing 747B VC25A Air Force One 1:450" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model+aircraft&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilots-why-pilots-can-misidentify-ufos-ifos-causes-of-airliner-model-aircraft&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model aircraft" data-ebay-reference="pilots-why-pilots-can-misidentify-ufos-ifos-causes-of-airliner-model-aircraft" target="_blank" rel="sponsored noopener noreferrer">Diecast Model Aircraft Airliner Boeing 747B VC25A Air Force One 1:450</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model+aircraft&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilots-why-pilots-can-misidentify-ufos-ifos-causes-of-airliner-model-aircraft&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model aircraft" data-ebay-reference="pilots-why-pilots-can-misidentify-ufos-ifos-causes-of-airliner-model-aircraft" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airliner model aircraft">Search <span data-ebay-domain-label>eBay.co.uk</span>: airliner model aircraft</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model+aircraft&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilots-why-pilots-can-misidentify-ufos-ifos-causes-of-airliner-model-aircraft&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model aircraft" data-ebay-reference="pilots-why-pilots-can-misidentify-ufos-ifos-causes-of-airliner-model-aircraft" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model+aircraft&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilots-why-pilots-can-misidentify-ufos-ifos-causes-of-airliner-model-aircraft&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model aircraft" data-ebay-reference="pilots-why-pilots-can-misidentify-ufos-ifos-causes-of-airliner-model-aircraft" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Diecast Model Aircraft Airliner Boeing 747B VC25A Air Force One 1:450"><img src="{{ '/assets/images/marketplace-covers/5adbcbb4aa17e0d078fd.jpg' | relative_url }}" alt="Listing image for Diecast Model Aircraft Airliner Boeing 747B VC25A Air Force One 1:450" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model+aircraft&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilots-why-pilots-can-misidentify-ufos-ifos-causes-of-airliner-model-aircraft&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model aircraft" data-ebay-reference="pilots-why-pilots-can-misidentify-ufos-ifos-causes-of-airliner-model-aircraft" target="_blank" rel="sponsored noopener noreferrer">Diecast Model Aircraft Airliner Boeing 747B VC25A Air Force One 1:450</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model+aircraft&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilots-why-pilots-can-misidentify-ufos-ifos-causes-of-airliner-model-aircraft&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model aircraft" data-ebay-reference="pilots-why-pilots-can-misidentify-ufos-ifos-causes-of-airliner-model-aircraft" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airliner model aircraft">Search<span data-ebay-domain-label>eBay.co.uk</span>: airliner model aircraft</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model+aircraft&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilots-why-pilots-can-misidentify-ufos-ifos-causes-of-airliner-model-aircraft&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model aircraft" data-ebay-reference="pilots-why-pilots-can-misidentify-ufos-ifos-causes-of-airliner-model-aircraft" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model+aircraft&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilots-why-pilots-can-misidentify-ufos-ifos-causes-of-airliner-model-aircraft&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model aircraft" data-ebay-reference="pilots-why-pilots-can-misidentify-ufos-ifos-causes-of-airliner-model-aircraft" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 16cm A380 Airbus Emirates Metal Aircraft Plane Model Gift UK"><img src="{{ '/assets/images/marketplace-covers/4b5e9402b7e76e7c1cae.jpg' | relative_url }}" alt="Listing image for 16cm A380 Airbus Emirates Metal Aircraft Plane Model Gift UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model+aircraft&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilots-why-pilots-can-misidentify-ufos-ifos-causes-of-airliner-model-aircraft&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model aircraft" data-ebay-reference="pilots-why-pilots-can-misidentify-ufos-ifos-causes-of-airliner-model-aircraft" target="_blank" rel="sponsored noopener noreferrer">16cm A380 Airbus Emirates Metal Aircraft Plane Model Gift UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model+aircraft&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilots-why-pilots-can-misidentify-ufos-ifos-causes-of-airliner-model-aircraft&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model aircraft" data-ebay-reference="pilots-why-pilots-can-misidentify-ufos-ifos-causes-of-airliner-model-aircraft" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airliner model aircraft">Search <span data-ebay-domain-label>eBay.co.uk</span>: airliner model aircraft</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model+aircraft&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilots-why-pilots-can-misidentify-ufos-ifos-causes-of-airliner-model-aircraft&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model aircraft" data-ebay-reference="pilots-why-pilots-can-misidentify-ufos-ifos-causes-of-airliner-model-aircraft" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model+aircraft&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilots-why-pilots-can-misidentify-ufos-ifos-causes-of-airliner-model-aircraft&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model aircraft" data-ebay-reference="pilots-why-pilots-can-misidentify-ufos-ifos-causes-of-airliner-model-aircraft" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 16cm A380 Airbus Emirates Metal Aircraft Plane Model Gift UK"><img src="{{ '/assets/images/marketplace-covers/4b5e9402b7e76e7c1cae.jpg' | relative_url }}" alt="Listing image for 16cm A380 Airbus Emirates Metal Aircraft Plane Model Gift UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model+aircraft&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilots-why-pilots-can-misidentify-ufos-ifos-causes-of-airliner-model-aircraft&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model aircraft" data-ebay-reference="pilots-why-pilots-can-misidentify-ufos-ifos-causes-of-airliner-model-aircraft" target="_blank" rel="sponsored noopener noreferrer">16cm A380 Airbus Emirates Metal Aircraft Plane Model Gift UK</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model+aircraft&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilots-why-pilots-can-misidentify-ufos-ifos-causes-of-airliner-model-aircraft&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model aircraft" data-ebay-reference="pilots-why-pilots-can-misidentify-ufos-ifos-causes-of-airliner-model-aircraft" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airliner model aircraft">Search<span data-ebay-domain-label>eBay.co.uk</span>: airliner model aircraft</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model+aircraft&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilots-why-pilots-can-misidentify-ufos-ifos-causes-of-airliner-model-aircraft&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model aircraft" data-ebay-reference="pilots-why-pilots-can-misidentify-ufos-ifos-causes-of-airliner-model-aircraft" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model+aircraft&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilots-why-pilots-can-misidentify-ufos-ifos-causes-of-airliner-model-aircraft&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model aircraft" data-ebay-reference="pilots-why-pilots-can-misidentify-ufos-ifos-causes-of-airliner-model-aircraft" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Singapore Airlines Airbus A350 Model Aircraft Large Display Plane"><img src="{{ '/assets/images/marketplace-covers/ed63f40c947feea81f55.jpg' | relative_url }}" alt="Listing image for Singapore Airlines Airbus A350 Model Aircraft Large Display Plane" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model+aircraft&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilots-why-pilots-can-misidentify-ufos-ifos-causes-of-airliner-model-aircraft&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model aircraft" data-ebay-reference="pilots-why-pilots-can-misidentify-ufos-ifos-causes-of-airliner-model-aircraft" target="_blank" rel="sponsored noopener noreferrer">Singapore Airlines Airbus A350 Model Aircraft Large Display Plane</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model+aircraft&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilots-why-pilots-can-misidentify-ufos-ifos-causes-of-airliner-model-aircraft&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model aircraft" data-ebay-reference="pilots-why-pilots-can-misidentify-ufos-ifos-causes-of-airliner-model-aircraft" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airliner model aircraft">Search <span data-ebay-domain-label>eBay.co.uk</span>: airliner model aircraft</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model+aircraft&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilots-why-pilots-can-misidentify-ufos-ifos-causes-of-airliner-model-aircraft&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model aircraft" data-ebay-reference="pilots-why-pilots-can-misidentify-ufos-ifos-causes-of-airliner-model-aircraft" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model+aircraft&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilots-why-pilots-can-misidentify-ufos-ifos-causes-of-airliner-model-aircraft&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model aircraft" data-ebay-reference="pilots-why-pilots-can-misidentify-ufos-ifos-causes-of-airliner-model-aircraft" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model+aircraft&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilots-why-pilots-can-misidentify-ufos-ifos-causes-of-airliner-model-aircraft&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model aircraft" data-ebay-reference="pilots-why-pilots-can-misidentify-ufos-ifos-causes-of-airliner-model-aircraft" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Singapore Airlines Airbus A350 Model Aircraft Large Display Plane"><img src="{{ '/assets/images/marketplace-covers/ed63f40c947feea81f55.jpg' | relative_url }}" alt="Listing image for Singapore Airlines Airbus A350 Model Aircraft Large Display Plane" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model+aircraft&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilots-why-pilots-can-misidentify-ufos-ifos-causes-of-airliner-model-aircraft&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model aircraft" data-ebay-reference="pilots-why-pilots-can-misidentify-ufos-ifos-causes-of-airliner-model-aircraft" target="_blank" rel="sponsored noopener noreferrer">Singapore Airlines Airbus A350 Model Aircraft Large Display Plane</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model+aircraft&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilots-why-pilots-can-misidentify-ufos-ifos-causes-of-airliner-model-aircraft&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model aircraft" data-ebay-reference="pilots-why-pilots-can-misidentify-ufos-ifos-causes-of-airliner-model-aircraft" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airliner model aircraft">Search<span data-ebay-domain-label>eBay.co.uk</span>: airliner model aircraft</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model+aircraft&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilots-why-pilots-can-misidentify-ufos-ifos-causes-of-airliner-model-aircraft&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model aircraft" data-ebay-reference="pilots-why-pilots-can-misidentify-ufos-ifos-causes-of-airliner-model-aircraft" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model+aircraft&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilots-why-pilots-can-misidentify-ufos-ifos-causes-of-airliner-model-aircraft&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model aircraft" data-ebay-reference="pilots-why-pilots-can-misidentify-ufos-ifos-causes-of-airliner-model-aircraft" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -815,7 +815,7 @@ That approach preserves what pilots contribute without pretending that professio
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -835,7 +835,7 @@ That approach preserves what pilots contribute without pretending that professio
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -867,7 +867,7 @@ That approach preserves what pilots contribute without pretending that professio
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -919,7 +919,7 @@ That approach preserves what pilots contribute without pretending that professio
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -964,7 +964,7 @@ That approach preserves what pilots contribute without pretending that professio
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1005,148 +1005,148 @@ That approach preserves what pilots contribute without pretending that professio
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: dni.gov  
    Title: Director of National Intelligence  
-   Link: <a href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf</a>  
+   Link:<a href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: aaro.mil  
    Title: Eglin UAP Case Resolution  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: esd.whs.mil  
    Title: proj b1  
-   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837</a>  
+   Link:<a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: faa.gov  
    Title: Federal Aviation Administration Airplane Flying Handbook (3C) Chapter 11  
-   Link: <a href="https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf</a>  
+   Link:<a href="https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: aaro.mil  
    Title: Go Fast Case Resolution  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: aaro.mil  
    Title: Case Resolution of 'Western United States UAP'  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Western_United_States_Uap_508-02262024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Western_United_States_Uap_508-02262024.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Western_United_States_Uap_508-02262024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Western_United_States_Uap_508-02262024.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Imagery...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Imagery...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: aaro.mil  
    Title: [Puerto Rico](&#123;&#123; 'puerto-rico/' | relative_url &#125;&#125;) UAP Case Resolution  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_Puerto_Rico_UAP_Case_Resolution.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_Puerto_Rico_UAP_Case_Resolution.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_Puerto_Rico_UAP_Case_Resolution.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_Puerto_Rico_UAP_Case_Resolution.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: aaro.mil  
    Title: UAP Case Resolution Reports Go Fast Case Resolution · GOFAST  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf</a>  
+   Link:<a href="https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/19_phak_ch17.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/19_phak_ch17.pdf</a>  
+   Link:<a href="https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/19_phak_ch17.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/19_phak_ch17.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: history.navy.mil  
    Title: u2s ufos and operation blue book  
-   Link: <a href="https://www.history.navy.mil/browse-by-topic/disasters-and-phenomena/u2s-ufos-and-operation-blue-book.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/browse-by-topic/disasters-and-phenomena/u2s-ufos-and-operation-blue-book.html</a>  
+   Link:<a href="https://www.history.navy.mil/browse-by-topic/disasters-and-phenomena/u2s-ufos-and-operation-blue-book.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/browse-by-topic/disasters-and-phenomena/u2s-ufos-and-operation-blue-book.html</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-023-49527-x</a>  
+   Link:<a href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-023-49527-x</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
+   Link:<a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: dvidshub.net  
-   Link: <a href="https://www.dvidshub.net/video/964843/middle-east-red-balloon-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/964843/middle-east-red-balloon-2024</a>  
+   Link:<a href="https://www.dvidshub.net/video/964843/middle-east-red-balloon-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/964843/middle-east-red-balloon-2024</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: dvidshub.net  
-   Link: <a href="https://www.dvidshub.net/video/956955/gimbal-uap" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/956955/gimbal-uap</a>  
+   Link:<a href="https://www.dvidshub.net/video/956955/gimbal-uap" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/956955/gimbal-uap</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: qsl.net  
    Title: Night Flying  
-   Link: <a href="https://www.qsl.net/wu1m/Night_Flying.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.qsl.net/wu1m/Night_Flying.pdf</a>  
+   Link:<a href="https://www.qsl.net/wu1m/Night_Flying.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.qsl.net/wu1m/Night_Flying.pdf</a>  
 
 ### Additional References
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: Some Thoughts on David Grusch  
-   Link: <a href="http://www.youtube.com/watch?v=AvhMMhW-JN0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=AvhMMhW-JN0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pilots explain UAP UFO perception issues challenges Veteran Describes STRANGE Alien Encounter in Vietnam Gaia...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=AvhMMhW-JN0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=AvhMMhW-JN0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pilots explain UAP UFO perception issues challenges Veteran Describes STRANGE Alien Encounter in Vietnam Gaia...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: faasafety.gov  
-   Link: <a href="https://www.faasafety.gov/files/events/SO/SO15/2024/SO15134204/YourSensesInTheShadows.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faasafety.gov/files/events/SO/SO15/2024/SO15134204/YourSensesInTheShadows.pdf</a>  
+   Link:<a href="https://www.faasafety.gov/files/events/SO/SO15/2024/SO15134204/YourSensesInTheShadows.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faasafety.gov/files/events/SO/SO15/2024/SO15134204/YourSensesInTheShadows.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
    Title: Breakdown of the Pentagon UFO videos with Mick West  
-   Link: <a href="http://www.youtube.com/watch?v=Le7Fqbsrrm8" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Le7Fqbsrrm8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Discussion with Dr Brian Keating - Are UFOs Here?...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=Le7Fqbsrrm8" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Le7Fqbsrrm8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Discussion with Dr Brian Keating - Are UFOs Here?...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: Discussion with Dr Brian Keating  
-   Link: <a href="http://www.youtube.com/watch?v=KEOuotxpWU8" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=KEOuotxpWU8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Some Thoughts on David Grusch - Alien Whistleblower...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=KEOuotxpWU8" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=KEOuotxpWU8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Some Thoughts on David Grusch - Alien Whistleblower...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1htxlhm/26_year_pilot_just_witnessed_something_i_cannot/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1htxlhm/26_year_pilot_just_witnessed_something_i_cannot/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1htxlhm/26_year_pilot_just_witnessed_something_i_cannot/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1htxlhm/26_year_pilot_just_witnessed_something_i_cannot/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: aiaa.org  
-   Link: <a href="https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf</a>  
+   Link:<a href="https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/News13/posts/among-the-new-files-was-footage-from-an-infrared-sensor-operated-by-the-us-coast/1290168619986535/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/News13/posts/among-the-new-files-was-footage-from-an-infrared-sensor-operated-by-the-us-coast/1290168619986535/</a>  
+   Link:<a href="https://www.facebook.com/News13/posts/among-the-new-files-was-footage-from-an-infrared-sensor-operated-by-the-us-coast/1290168619986535/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/News13/posts/among-the-new-files-was-footage-from-an-infrared-sensor-operated-by-the-us-coast/1290168619986535/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: skybrary.aero  
-   Link: <a href="https://skybrary.aero/sites/default/files/bookshelf/3720.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/sites/default/files/bookshelf/3720.pdf</a>
+   Link:<a href="https://skybrary.aero/sites/default/files/bookshelf/3720.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/sites/default/files/bookshelf/3720.pdf</a>

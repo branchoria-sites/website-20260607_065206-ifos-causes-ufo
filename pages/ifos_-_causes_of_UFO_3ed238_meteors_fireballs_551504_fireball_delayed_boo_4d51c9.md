@@ -273,7 +273,7 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_meteors_fireballs_551504_fireb
 
 ## Introduction
 
-A common source of dramatic UFO reports is a bright fireball that appears silently, vanishes, and only later is followed by a loud boom, rumble, or even shaking. To many witnesses, the delay makes the sound seem unrelated to the flash. Some conclude that a second event occurred, that an object exploded after disappearing, or that something unusual was moving through the sky. In reality, the delay is usually a straightforward consequence of physics: light from a meteor reaches observers almost instantly, while sound from a sonic boom or atmospheric explosion travels much more slowly through the [atmosphere]({{ 'atmosphere/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/blogs/watch-the-skies/2026/03/26/its-fireball-season-answering-your-meteor-questions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">its fireball season answering your meteor questions</span><span class="citation-popover-snippet">It&#x27;s Fireball Season! Answering Your Meteor QuestionsMar 26, 2026 — Why do some meteors make a “boom” noise? Some meteors you can hea...</span></span></span>
+A common source of dramatic UFO reports is a bright fireball that appears silently, vanishes, and only later is followed by a loud boom, rumble, or even shaking. To many witnesses, the delay makes the sound seem unrelated to the flash. Some conclude that a second event occurred, that an object exploded after disappearing, or that something unusual was moving through the sky. In reality, the delay is usually a straightforward consequence of physics: light from a meteor reaches observers almost instantly, while sound from a sonic boom or atmospheric explosion travels much more slowly through the [atmosphere]({{ 'atmosphere/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/blogs/watch-the-skies/2026/03/26/its-fireball-season-answering-your-meteor-questions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">its fireball season answering your meteor questions</span><span class="citation-popover-snippet">It&#x27;s Fireball Season! Answering Your Meteor QuestionsMar 26, 2026 — Why do some meteors make a “boom” noise? Some meteors you can hea...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_meteors_fireballs_551504_fireball_delayed_boo_4d51c9-Illustration-1-dark.svg" | relative_url }}" alt="Delayed booms illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_meteors_fireballs_551504_fireball_delayed_boo_4d51c9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_meteors_fireballs_551504_fireball_delayed_boo_4d51c9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within the study of identified flying objects (IFOs), delayed booms are important because they help explain why otherwise natural fireball events can generate reports of mysterious craft, explosions, or unknown aerial phenomena.
@@ -282,7 +282,7 @@ Within the study of identified flying objects (IFOs), delayed booms are importan
 
 When a meteoroid enters Earth's atmosphere, it can create a brilliant fireball visible across hundreds of kilometres. The light arrives at an observer's eyes effectively instantaneously. Sound does not.
 
-A sonic boom or fragmentation blast must travel through the atmosphere at roughly the speed of sound, which is only a tiny fraction of the speed of light. If the fireball breaks apart tens of kilometres away, witnesses may wait many seconds or even several minutes before hearing anything. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/stargazing/meteor-showers/rare-daytime-fireball-spotted-from-orbit-as-residents-report-powerful-sonic-boom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">Rare daytime fireball spotted from orbit as residents report...Mar 17, 2026 — &quot;Therefore, folks below the path will hear a sonic bo...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cneos.jpl.nasa.gov/fireballs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cneos.jpl.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cneos.jpl.nasa.gov</span><span class="citation-popover-snippet">NASAFireball and Bolide Data. The following fireball data are derived from U.S. Government sensor detections and are provided to...</span></span></span>
+A sonic boom or fragmentation blast must travel through the atmosphere at roughly the speed of sound, which is only a tiny fraction of the speed of light. If the fireball breaks apart tens of kilometres away, witnesses may wait many seconds or even several minutes before hearing anything.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/stargazing/meteor-showers/rare-daytime-fireball-spotted-from-orbit-as-residents-report-powerful-sonic-boom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">Rare daytime fireball spotted from orbit as residents report...Mar 17, 2026 — &quot;Therefore, folks below the path will hear a sonic bo...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://cneos.jpl.nasa.gov/fireballs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cneos.jpl.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cneos.jpl.nasa.gov</span><span class="citation-popover-snippet">NASAFireball and Bolide Data. The following fireball data are derived from U.S. Government sensor detections and are provided to...</span></span></span>
 
 This timing gap creates several recurring misconceptions:
 
@@ -295,7 +295,7 @@ This timing gap creates several recurring misconceptions:
 
 </div>
 
-Meteor investigators frequently use the delay itself as a clue. If witnesses can reliably estimate the interval between the flash and the boom, it helps constrain how far away the atmospheric disruption occurred. In one analysed South African bolide event, the measured lag between flash and sound was used to estimate a distance of roughly 60 kilometres. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assa.saao.ac.za/sections/comet-asteroid-meteor-section/bolide-over-the-western-cape-on-09-august-2021/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: saao.ac.za">[Assa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">saao.ac.za</span><span class="citation-popover-title">The event was not detected by NASA fireball detectors, neither ...Read more</span><span class="citation-popover-snippet">AssaBolide over the Western Cape on 09 August 2021 &#124; ASSAAug 9, 2021 — The time lag of the sound gives a distance to the flash of approxi...</span></span></span>
+Meteor investigators frequently use the delay itself as a clue. If witnesses can reliably estimate the interval between the flash and the boom, it helps constrain how far away the atmospheric disruption occurred. In one analysed South African bolide event, the measured lag between flash and sound was used to estimate a distance of roughly 60 kilometres.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assa.saao.ac.za/sections/comet-asteroid-meteor-section/bolide-over-the-western-cape-on-09-august-2021/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: saao.ac.za">[Assa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">saao.ac.za</span><span class="citation-popover-title">The event was not detected by NASA fireball detectors, neither ...Read more</span><span class="citation-popover-snippet">AssaBolide over the Western Cape on 09 August 2021 &#124; ASSAAug 9, 2021 — The time lag of the sound gives a distance to the flash of approxi...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PWdya32j0d8" title="Fireball flies across the sky and causes sonic boom" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PWdya32j0d8" target="_blank" rel="noopener noreferrer">Fireball flies across the sky and causes sonic boom</a></p><p class="youtube-embed-meta">Channel: CNN &middot; Views: 466.7K &middot; Uploaded: June 2025 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PWdya32j0d8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PWdya32j0d8">Open on YouTube</a></p></div></div></div>
 
@@ -303,20 +303,20 @@ Meteor investigators frequently use the delay itself as a clue. If witnesses can
 
 The [delayed sound]({{ 'delayed-sound/' | relative_url }}) is not always just a noise. Large [fireballs]({{ 'fireballs/' | relative_url }}) can generate powerful pressure waves.
 
-[Meteors]({{ 'meteors/' | relative_url }}) travel at hypersonic speeds, greatly exceeding the speed of sound. As they plunge through the atmosphere they create shock waves. If the object fragments, the sudden release of energy can strengthen those pressure waves, producing what observers describe as a cannon blast, thunderclap, double boom, or rolling explosion. In stronger events, windows rattle, doors vibrate, and buildings may seem to shake. NASA <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/science/2026/jun/01/meteor-massachusetts-sonic-boom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">According to NASA, the meteor was traveling at around 75,000 mph and fragmented about 40 miles above ground, releasing energy equivalent...</span></span></span>
+[Meteors]({{ 'meteors/' | relative_url }}) travel at hypersonic speeds, greatly exceeding the speed of sound. As they plunge through the atmosphere they create shock waves. If the object fragments, the sudden release of energy can strengthen those pressure waves, producing what observers describe as a cannon blast, thunderclap, double boom, or rolling explosion. In stronger events, windows rattle, doors vibrate, and buildings may seem to shake. NASA<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/science/2026/jun/01/meteor-massachusetts-sonic-boom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">According to NASA, the meteor was traveling at around 75,000 mph and fragmented about 40 miles above ground, releasing energy equivalent...</span></span></span>
 
 Because the shock wave reaches the ground after the visual event has ended, witnesses often experience the sequence as:
 
-1. A brilliant flash. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ebsco.com/research-starters/astronomy-and-astrophysics/fireball" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[ebsco.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-snippet">They create a brilliant flash of light followed some time later by a sonic boom, a loud explosion-like...Read more...</span></span></span>
+1. A brilliant flash.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ebsco.com/research-starters/astronomy-and-astrophysics/fireball" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[ebsco.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-snippet">They create a brilliant flash of light followed some time later by a sonic boom, a loud explosion-like...Read more...</span></span></span>
 2. A period of silence.
 3. A sudden explosive sound.
 4. Physical vibration or shaking.
 
 That sequence can feel counterintuitive. People are accustomed to nearby events producing light and sound together. When the boom arrives much later, the mind naturally searches for a separate cause.
 
-Recent examples demonstrate how convincing this effect can be. In May 2026, a meteor that fragmented above New England produced widespread reports of loud booms and shaking buildings across parts of the northeastern United States and Canada. Some residents initially suspected an earthquake or industrial explosion. NASA and the U.S. Geological Survey later identified the source as an atmospheric meteor event rather than seismic activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/science/2026/jun/01/meteor-massachusetts-sonic-boom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">According to NASA, the meteor was traveling at around 75,000 mph and fragmented about 40 miles above ground, releasing energy equivalent...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theverge.com/science/940467/meteor-exploded-new-england" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theverge.com">[The Verge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theverge.com</span><span class="citation-popover-title">meteor exploded new england</span><span class="citation-popover-snippet">The event produced a sonic boom that shook houses across the region, prompting initial speculation of an earthquake. However, the US Geol...</span></span></span>
+Recent examples demonstrate how convincing this effect can be. In May 2026, a meteor that fragmented above New England produced widespread reports of loud booms and shaking buildings across parts of the northeastern United States and Canada. Some residents initially suspected an earthquake or industrial explosion. NASA and the U.S. Geological Survey later identified the source as an atmospheric meteor event rather than seismic activity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/science/2026/jun/01/meteor-massachusetts-sonic-boom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">According to NASA, the meteor was traveling at around 75,000 mph and fragmented about 40 miles above ground, releasing energy equivalent...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theverge.com/science/940467/meteor-exploded-new-england" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theverge.com">[The Verge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theverge.com</span><span class="citation-popover-title">meteor exploded new england</span><span class="citation-popover-snippet">The event produced a sonic boom that shook houses across the region, prompting initial speculation of an earthquake. However, the US Geol...</span></span></span>
 
-Similar reports accompanied a daytime fireball over Ohio in March 2026, where pressure waves from the atmospheric breakup created a delayed sonic boom heard over a wide area. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/stargazing/meteor-showers/massive-boom-over-northeastern-us-was-a-meteor-explosion-as-powerful-as-300-tons-of-tnt-nasa-confirms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">The event occurred at 2:06 p.m. EDT and was detected using satellite imagery from NOAA&#x27;s GOES-19 satellite. The meteor fragmented approxi...</span></span></span>
+Similar reports accompanied a daytime fireball over Ohio in March 2026, where pressure waves from the atmospheric breakup created a delayed sonic boom heard over a wide area.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/stargazing/meteor-showers/massive-boom-over-northeastern-us-was-a-meteor-explosion-as-powerful-as-300-tons-of-tnt-nasa-confirms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">The event occurred at 2:06 p.m. EDT and was detected using satellite imagery from NOAA&#x27;s GOES-19 satellite. The meteor fragmented approxi...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_meteors_fireballs_551504_fireball_delayed_boo_4d51c9-Illustration-2-dark.svg" | relative_url }}" alt="Delayed booms illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_meteors_fireballs_551504_fireball_delayed_boo_4d51c9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_meteors_fireballs_551504_fireball_delayed_boo_4d51c9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the delay can make ordinary events seem extraordinary
@@ -332,7 +332,7 @@ This can generate UFO narratives such as:
 * Multiple objects were present because the sound arrived from a different direction.
 * Something impacted the ground nearby when in fact the explosion occurred tens of kilometres overhead.
 
-American Meteor Society witness reports frequently include both visual observations and delayed sound reports, illustrating how common this sequence is during significant fireball events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.amsmeteors.org/members/imo_view/report/414886" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-title">American Meteor Society Fireball report</span><span class="citation-popover-snippet">sonic boom and thought it was eery and gave up. Delayed Sound. Observation, Yes. Remarks, As I said above the LOUD explosive boom and the...</span></span></span>
+American Meteor Society witness reports frequently include both visual observations and delayed sound reports, illustrating how common this sequence is during significant fireball events.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.amsmeteors.org/members/imo_view/report/414886" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-title">American Meteor Society Fireball report</span><span class="citation-popover-snippet">sonic boom and thought it was eery and gave up. Delayed Sound. Observation, Yes. Remarks, As I said above the LOUD explosive boom and the...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pctLBLrU0qc" title="Meteor suspected as source of Friday night &quot;boom&quot; and flash in Indiana sky" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pctLBLrU0qc" target="_blank" rel="noopener noreferrer">Meteor suspected as source of Friday night &quot;boom&quot; and flash in Indiana sky</a></p><p class="youtube-embed-meta">Channel: WTHR &middot; Views: 69.9K &middot; Uploaded: April 2023 &middot; Length: 1 minute 40 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pctLBLrU0qc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pctLBLrU0qc">Open on YouTube</a></p></div></div></div>
 
@@ -342,213 +342,213 @@ When a loud unexplained boom is reported, investigators do not rely solely on wi
 
 Typical checks include:
 
-* Fireball reports submitted to meteor networks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://fireball.amsmeteors.org/members/imo_view/browse_reports?event=PENDING" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fireball.amsmeteors.org">[fireball.amsmeteors.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fireball.amsmeteors.org</span><span class="citation-popover-title">American Meteor Society Pending reports found: 26</span><span class="citation-popover-snippet">American Meteor SocietyPending reports found: 26 - Report a FireballAmerican Meteor Society.... Magn. D. Sound, C. Sound, Frag. Observer...</span></span></span>
+* Fireball reports submitted to meteor networks.<span class="citation-chip-wrap"><a class="citation-chip" href="https://fireball.amsmeteors.org/members/imo_view/browse_reports?event=PENDING" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fireball.amsmeteors.org">[fireball.amsmeteors.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fireball.amsmeteors.org</span><span class="citation-popover-title">American Meteor Society Pending reports found: 26</span><span class="citation-popover-snippet">American Meteor SocietyPending reports found: 26 - Report a FireballAmerican Meteor Society.... Magn. D. Sound, C. Sound, Frag. Observer...</span></span></span>
 * Security-camera, dashcam, and doorbell-camera footage.
 * Satellite detections of atmospheric flashes.
 * Weather-[radar]({{ 'radar/' | relative_url }}) observations of possible meteor debris.
 * Seismic records to determine whether shaking was caused by an earthquake.
-* Timing comparisons between observed flashes and reported booms. CNEOS <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theverge.com/science/940467/meteor-exploded-new-england" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theverge.com">[The Verge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theverge.com</span><span class="citation-popover-title">meteor exploded new england</span><span class="citation-popover-snippet">The event produced a sonic boom that shook houses across the region, prompting initial speculation of an earthquake. However, the US Geol...</span></span></span>
+* Timing comparisons between observed flashes and reported booms. CNEOS<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theverge.com/science/940467/meteor-exploded-new-england" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theverge.com">[The Verge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theverge.com</span><span class="citation-popover-title">meteor exploded new england</span><span class="citation-popover-snippet">The event produced a sonic boom that shook houses across the region, prompting initial speculation of an earthquake. However, the US Geol...</span></span></span>
 
-The timing relationship is especially useful. If many witnesses report seeing a fireball and hearing a boom after a delay consistent with atmospheric sound propagation, investigators gain strong evidence that both observations originated from the same event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/stargazing/meteor-showers/fireball-sightings-are-surging-across-the-us-heres-whats-really-going-on" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">Fireball sightings are surging across the USMar 27, 2026 — Why are fireball sightings increasing across the US? Experts explain the recen...</span></span></span>
+The timing relationship is especially useful. If many witnesses report seeing a fireball and hearing a boom after a delay consistent with atmospheric sound propagation, investigators gain strong evidence that both observations originated from the same event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/stargazing/meteor-showers/fireball-sightings-are-surging-across-the-us-heres-whats-really-going-on" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">Fireball sightings are surging across the USMar 27, 2026 — Why are fireball sightings increasing across the US? Experts explain the recen...</span></span></span>
 
-In cases where residents report shaking but seismographs record no earthquake, a meteor-generated pressure wave becomes a leading explanation. This pattern appeared in several well-documented 2026 fireball events in the United States. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/science/2026/jun/01/meteor-massachusetts-sonic-boom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">According to NASA, the meteor was traveling at around 75,000 mph and fragmented about 40 miles above ground, releasing energy equivalent...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theverge.com/science/940467/meteor-exploded-new-england" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theverge.com">[The Verge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theverge.com</span><span class="citation-popover-title">meteor exploded new england</span><span class="citation-popover-snippet">The event produced a sonic boom that shook houses across the region, prompting initial speculation of an earthquake. However, the US Geol...</span></span></span>
+In cases where residents report shaking but seismographs record no earthquake, a meteor-generated pressure wave becomes a leading explanation. This pattern appeared in several well-documented 2026 fireball events in the United States.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/science/2026/jun/01/meteor-massachusetts-sonic-boom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">According to NASA, the meteor was traveling at around 75,000 mph and fragmented about 40 miles above ground, releasing energy equivalent...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theverge.com/science/940467/meteor-exploded-new-england" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theverge.com">[The Verge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theverge.com</span><span class="citation-popover-title">meteor exploded new england</span><span class="citation-popover-snippet">The event produced a sonic boom that shook houses across the region, prompting initial speculation of an earthquake. However, the US Geol...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_meteors_fireballs_551504_fireball_delayed_boo_4d51c9-Illustration-3-dark.svg" | relative_url }}" alt="Delayed booms illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_meteors_fireballs_551504_fireball_delayed_boo_4d51c9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_meteors_fireballs_551504_fireball_delayed_boo_4d51c9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The key takeaway
 
-A delayed boom after a brilliant fireball is not an anomaly requiring a second object or an exotic explanation. It is often exactly what investigators expect from a meteor or bolide that travelled faster than sound and fragmented high in the atmosphere. The flash arrives immediately, the sound arrives later, and the resulting separation can make a single natural event appear far stranger than it really was. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cneos.jpl.nasa.gov/fireballs/intro.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cneos.jpl.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cneos.jpl.nasa.gov</span><span class="citation-popover-snippet">and bolidesA fireball is an unusually bright meteor that reaches a visual magnitude of -3 or brighter when seen at the observer&#x27;s zenith...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/stargazing/meteor-showers/rare-daytime-fireball-spotted-from-orbit-as-residents-report-powerful-sonic-boom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">Rare daytime fireball spotted from orbit as residents report...Mar 17, 2026 — &quot;Therefore, folks below the path will hear a sonic bo...</span></span></span>
+A delayed boom after a brilliant fireball is not an anomaly requiring a second object or an exotic explanation. It is often exactly what investigators expect from a meteor or bolide that travelled faster than sound and fragmented high in the atmosphere. The flash arrives immediately, the sound arrives later, and the resulting separation can make a single natural event appear far stranger than it really was.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cneos.jpl.nasa.gov/fireballs/intro.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cneos.jpl.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cneos.jpl.nasa.gov</span><span class="citation-popover-snippet">and bolidesA fireball is an unusually bright meteor that reaches a visual magnitude of -3 or brighter when seen at the observer&#x27;s zenith...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/stargazing/meteor-showers/rare-daytime-fireball-spotted-from-orbit-as-residents-report-powerful-sonic-boom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">Rare daytime fireball spotted from orbit as residents report...Mar 17, 2026 — &quot;Therefore, folks below the path will hear a sonic bo...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wqLl2fgf3q8" title="The SKY Is Getting LOUDER — The 3 9 Sigma Fireball and Sonic Boom Anomaly" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wqLl2fgf3q8" target="_blank" rel="noopener noreferrer">The SKY Is Getting LOUDER — The 3 9 Sigma Fireball and Sonic Boom Anomaly</a></p><p class="youtube-embed-meta">Channel: Ray&#x27;s Astrophotography &middot; Views: 26.2K &middot; Uploaded: June 2026 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wqLl2fgf3q8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wqLl2fgf3q8">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why the boom came after the flash. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why the boom came after the flash. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ATZGAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Handbook">The UFO Handbook</a>
-        </h4>
-        <p class="fr-book-author">By Allan Hendry</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ATZGAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Handbook">The UFO Handbook</a>
+</h4>
+<p class="fr-book-author">By Allan Hendry</p>
         
-        <p class="fr-book-desc">Useful for understanding why fireballs can be reported as UFOs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding why fireballs can be reported as UFOs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Gives readers a practical foundation for meteor and fireball sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Gives readers a practical foundation for meteor and fireball sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteorites+by+Sara+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteorites on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Bg2kPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Meteorites" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Meteorites+by+Sara+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteorites">Meteorites</a>
-        </h4>
-        <p class="fr-book-author">By Sara Russell, Monica M. Grady</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteorites+by+Sara+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteorites on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Bg2kPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Meteorites" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Meteorites+by+Sara+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteorites">Meteorites</a>
+</h4>
+<p class="fr-book-author">By Sara Russell, Monica M. Grady</p>
         
-        <p class="fr-book-desc">Connects fireballs, meteorites, and atmospheric entry.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Meteorites+by+Sara+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects fireballs, meteorites, and atmospheric entry.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Meteorites+by+Sara+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Backyard Astronomer&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hdvYKwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Backyard Astronomer&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Backyard Astronomer&#x27;s Guide">The Backyard Astronomer&#x27;s Guide</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson, Alan Dyer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Backyard Astronomer&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hdvYKwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Backyard Astronomer&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Backyard Astronomer&#x27;s Guide">The Backyard Astronomer&#x27;s Guide</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson, Alan Dyer</p>
         
-        <p class="fr-book-desc">Helps readers interpret unusual sky observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers interpret unusual sky observations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Meteorites&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meteorites</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Meteorites&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meteorites</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-boom-came-after-the-flash-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="why-the-boom-came-after-the-flash-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Indochinite Tektite Natural Impact Glass Meteorite Related Specimen, Genuine"><img src="https://i.ebayimg.com/images/g/ZD8AAeSwqyxqCuJk/s-l225.jpg" alt="Listing image for Indochinite Tektite Natural Impact Glass Meteorite Related Specimen, Genuine" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-boom-came-after-the-flash-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="why-the-boom-came-after-the-flash-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer">Indochinite Tektite Natural Impact Glass Meteorite Related Specimen, Genuine</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-boom-came-after-the-flash-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="why-the-boom-came-after-the-flash-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite specimen">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteorite specimen</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-boom-came-after-the-flash-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="why-the-boom-came-after-the-flash-meteorite-specimen" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-boom-came-after-the-flash-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="why-the-boom-came-after-the-flash-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Indochinite Tektite Natural Impact Glass Meteorite Related Specimen, Genuine"><img src="https://i.ebayimg.com/images/g/ZD8AAeSwqyxqCuJk/s-l225.jpg" alt="Listing image for Indochinite Tektite Natural Impact Glass Meteorite Related Specimen, Genuine" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-boom-came-after-the-flash-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="why-the-boom-came-after-the-flash-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer">Indochinite Tektite Natural Impact Glass Meteorite Related Specimen, Genuine</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-boom-came-after-the-flash-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="why-the-boom-came-after-the-flash-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite specimen">Search<span data-ebay-domain-label>eBay.co.uk</span>: meteorite specimen</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-boom-came-after-the-flash-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="why-the-boom-came-after-the-flash-meteorite-specimen" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-boom-came-after-the-flash-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="why-the-boom-came-after-the-flash-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Beautiful Agoudal Iron Meteorite Specimen 22.28 grams, Astronomy Gift, Space"><img src="https://i.ebayimg.com/images/g/~4wAAeSwjOZpL-MB/s-l225.jpg" alt="Listing image for Beautiful Agoudal Iron Meteorite Specimen 22.28 grams, Astronomy Gift, Space" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-boom-came-after-the-flash-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="why-the-boom-came-after-the-flash-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer">Beautiful Agoudal Iron Meteorite Specimen 22.28 grams, Astronomy Gift, Space</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-boom-came-after-the-flash-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="why-the-boom-came-after-the-flash-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite specimen">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteorite specimen</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-boom-came-after-the-flash-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="why-the-boom-came-after-the-flash-meteorite-specimen" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-boom-came-after-the-flash-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="why-the-boom-came-after-the-flash-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Beautiful Agoudal Iron Meteorite Specimen 22.28 grams, Astronomy Gift, Space"><img src="https://i.ebayimg.com/images/g/~4wAAeSwjOZpL-MB/s-l225.jpg" alt="Listing image for Beautiful Agoudal Iron Meteorite Specimen 22.28 grams, Astronomy Gift, Space" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-boom-came-after-the-flash-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="why-the-boom-came-after-the-flash-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer">Beautiful Agoudal Iron Meteorite Specimen 22.28 grams, Astronomy Gift, Space</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-boom-came-after-the-flash-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="why-the-boom-came-after-the-flash-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite specimen">Search<span data-ebay-domain-label>eBay.co.uk</span>: meteorite specimen</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-boom-came-after-the-flash-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="why-the-boom-came-after-the-flash-meteorite-specimen" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-boom-came-after-the-flash-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="why-the-boom-came-after-the-flash-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lunar Meteorite NWA 003 Genuine Moon Rock Specimen Morocco"><img src="https://i.ebayimg.com/images/g/hCAAAeSwKOdp7MPF/s-l225.jpg" alt="Listing image for Lunar Meteorite NWA 003 Genuine Moon Rock Specimen Morocco" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-boom-came-after-the-flash-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="why-the-boom-came-after-the-flash-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer">Lunar Meteorite NWA 003 Genuine Moon Rock Specimen Morocco</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-boom-came-after-the-flash-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="why-the-boom-came-after-the-flash-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite specimen">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteorite specimen</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-boom-came-after-the-flash-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="why-the-boom-came-after-the-flash-meteorite-specimen" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-boom-came-after-the-flash-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="why-the-boom-came-after-the-flash-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lunar Meteorite NWA 003 Genuine Moon Rock Specimen Morocco"><img src="https://i.ebayimg.com/images/g/hCAAAeSwKOdp7MPF/s-l225.jpg" alt="Listing image for Lunar Meteorite NWA 003 Genuine Moon Rock Specimen Morocco" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-boom-came-after-the-flash-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="why-the-boom-came-after-the-flash-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer">Lunar Meteorite NWA 003 Genuine Moon Rock Specimen Morocco</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-boom-came-after-the-flash-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="why-the-boom-came-after-the-flash-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite specimen">Search<span data-ebay-domain-label>eBay.co.uk</span>: meteorite specimen</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-boom-came-after-the-flash-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="why-the-boom-came-after-the-flash-meteorite-specimen" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-boom-came-after-the-flash-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="why-the-boom-came-after-the-flash-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Beautiful Agoudal Iron Meteorite Specimen, Astronomy Gift, Space, 68.20g"><img src="https://i.ebayimg.com/images/g/lC4AAeSwBxxp4BKF/s-l225.jpg" alt="Listing image for Beautiful Agoudal Iron Meteorite Specimen, Astronomy Gift, Space, 68.20g" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-boom-came-after-the-flash-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="why-the-boom-came-after-the-flash-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer">Beautiful Agoudal Iron Meteorite Specimen, Astronomy Gift, Space, 68.20g</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-boom-came-after-the-flash-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="why-the-boom-came-after-the-flash-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite specimen">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteorite specimen</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-boom-came-after-the-flash-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="why-the-boom-came-after-the-flash-meteorite-specimen" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-boom-came-after-the-flash-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="why-the-boom-came-after-the-flash-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-boom-came-after-the-flash-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="why-the-boom-came-after-the-flash-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Beautiful Agoudal Iron Meteorite Specimen, Astronomy Gift, Space, 68.20g"><img src="https://i.ebayimg.com/images/g/lC4AAeSwBxxp4BKF/s-l225.jpg" alt="Listing image for Beautiful Agoudal Iron Meteorite Specimen, Astronomy Gift, Space, 68.20g" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-boom-came-after-the-flash-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="why-the-boom-came-after-the-flash-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer">Beautiful Agoudal Iron Meteorite Specimen, Astronomy Gift, Space, 68.20g</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-boom-came-after-the-flash-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="why-the-boom-came-after-the-flash-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite specimen">Search<span data-ebay-domain-label>eBay.co.uk</span>: meteorite specimen</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-boom-came-after-the-flash-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="why-the-boom-came-after-the-flash-meteorite-specimen" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-boom-came-after-the-flash-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="why-the-boom-came-after-the-flash-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -564,7 +564,7 @@ A delayed boom after a brilliant fireball is not an anomaly requiring a second o
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -584,7 +584,7 @@ A delayed boom after a brilliant fireball is not an anomaly requiring a second o
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -616,7 +616,7 @@ A delayed boom after a brilliant fireball is not an anomaly requiring a second o
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -668,7 +668,7 @@ A delayed boom after a brilliant fireball is not an anomaly requiring a second o
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -713,7 +713,7 @@ A delayed boom after a brilliant fireball is not an anomaly requiring a second o
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -754,121 +754,121 @@ A delayed boom after a brilliant fireball is not an anomaly requiring a second o
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nasa.gov  
    Title: its fireball season answering your meteor questions  
-   Link: <a href="https://www.nasa.gov/blogs/watch-the-skies/2026/03/26/its-fireball-season-answering-your-meteor-questions/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/blogs/watch-the-skies/2026/03/26/its-fireball-season-answering-your-meteor-questions/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s Fireball Season! Answering Your Meteor QuestionsMar 26, 2026 — Why do some meteors make a “boom” noise? Some meteors you can hea...</p></details>
+   Link:<a href="https://www.nasa.gov/blogs/watch-the-skies/2026/03/26/its-fireball-season-answering-your-meteor-questions/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/blogs/watch-the-skies/2026/03/26/its-fireball-season-answering-your-meteor-questions/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s Fireball Season! Answering Your Meteor QuestionsMar 26, 2026 — Why do some meteors make a “boom” noise? Some meteors you can hea...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: space.com  
-   Link: <a href="https://www.space.com/stargazing/meteor-showers/rare-daytime-fireball-spotted-from-orbit-as-residents-report-powerful-sonic-boom" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/stargazing/meteor-showers/rare-daytime-fireball-spotted-from-orbit-as-residents-report-powerful-sonic-boom</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rare daytime fireball spotted from orbit as residents report...Mar 17, 2026 — &quot;Therefore, folks below the path will hear a sonic bo...</p></details>
+   Link:<a href="https://www.space.com/stargazing/meteor-showers/rare-daytime-fireball-spotted-from-orbit-as-residents-report-powerful-sonic-boom" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/stargazing/meteor-showers/rare-daytime-fireball-spotted-from-orbit-as-residents-report-powerful-sonic-boom</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rare daytime fireball spotted from orbit as residents report...Mar 17, 2026 — &quot;Therefore, folks below the path will hear a sonic bo...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: space.com  
-   Link: <a href="https://www.space.com/stargazing/meteor-showers/massive-boom-over-northeastern-us-was-a-meteor-explosion-as-powerful-as-300-tons-of-tnt-nasa-confirms" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/stargazing/meteor-showers/massive-boom-over-northeastern-us-was-a-meteor-explosion-as-powerful-as-300-tons-of-tnt-nasa-confirms</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The event occurred at 2:06 p.m. EDT and was detected using satellite imagery from NOAA&#x27;s GOES-19 satellite. The meteor fragmented approxi...</p></details>
+   Link:<a href="https://www.space.com/stargazing/meteor-showers/massive-boom-over-northeastern-us-was-a-meteor-explosion-as-powerful-as-300-tons-of-tnt-nasa-confirms" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/stargazing/meteor-showers/massive-boom-over-northeastern-us-was-a-meteor-explosion-as-powerful-as-300-tons-of-tnt-nasa-confirms</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The event occurred at 2:06 p.m. EDT and was detected using satellite imagery from NOAA&#x27;s GOES-19 satellite. The meteor fragmented approxi...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cneos.jpl.nasa.gov  
-   Link: <a href="https://cneos.jpl.nasa.gov/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://cneos.jpl.nasa.gov/fireballs/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASAFireball and Bolide Data. The following fireball data are derived from U.S. Government sensor detections and are provided to...</p></details>
+   Link:<a href="https://cneos.jpl.nasa.gov/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://cneos.jpl.nasa.gov/fireballs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASAFireball and Bolide Data. The following fireball data are derived from U.S. Government sensor detections and are provided to...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cneos.jpl.nasa.gov  
-   Link: <a href="https://cneos.jpl.nasa.gov/fireballs/intro.html" target="_blank" rel="noopener noreferrer nofollow">https://cneos.jpl.nasa.gov/fireballs/intro.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>and bolidesA fireball is an unusually bright meteor that reaches a visual magnitude of -3 or brighter when seen at the observer&#x27;s zenith...</p></details>
+   Link:<a href="https://cneos.jpl.nasa.gov/fireballs/intro.html" target="_blank" rel="noopener noreferrer nofollow">https://cneos.jpl.nasa.gov/fireballs/intro.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and bolidesA fireball is an unusually bright meteor that reaches a visual magnitude of -3 or brighter when seen at the observer&#x27;s zenith...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: space.com  
-   Link: <a href="https://www.space.com/stargazing/meteor-showers/fireball-sightings-are-surging-across-the-us-heres-whats-really-going-on" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/stargazing/meteor-showers/fireball-sightings-are-surging-across-the-us-heres-whats-really-going-on</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fireball sightings are surging across the USMar 27, 2026 — Why are fireball sightings increasing across the US? Experts explain the recen...</p></details>
+   Link:<a href="https://www.space.com/stargazing/meteor-showers/fireball-sightings-are-surging-across-the-us-heres-whats-really-going-on" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/stargazing/meteor-showers/fireball-sightings-are-surging-across-the-us-heres-whats-really-going-on</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fireball sightings are surging across the USMar 27, 2026 — Why are fireball sightings increasing across the US? Experts explain the recen...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ares.jsc.nasa.gov  
-   Link: <a href="https://ares.jsc.nasa.gov/meteorite-falls/events/" target="_blank" rel="noopener noreferrer nofollow">https://ares.jsc.nasa.gov/meteorite-falls/events/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Falls | Recent EventsThis meteorite fall, which was one of the largest recorded to date, was reported as very bright and produced numerou...</p></details>
+   Link:<a href="https://ares.jsc.nasa.gov/meteorite-falls/events/" target="_blank" rel="noopener noreferrer nofollow">https://ares.jsc.nasa.gov/meteorite-falls/events/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Falls | Recent EventsThis meteorite fall, which was one of the largest recorded to date, was reported as very bright and produced numerou...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/science/2026/jun/01/meteor-massachusetts-sonic-boom" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2026/jun/01/meteor-massachusetts-sonic-boom</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>According to NASA, the meteor was traveling at around 75,000 mph and fragmented about 40 miles above ground, releasing energy equivalent...</p></details>
+   Link:<a href="https://www.theguardian.com/science/2026/jun/01/meteor-massachusetts-sonic-boom" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2026/jun/01/meteor-massachusetts-sonic-boom</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>According to NASA, the meteor was traveling at around 75,000 mph and fragmented about 40 miles above ground, releasing energy equivalent...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: theverge.com  
    Title: meteor exploded new england  
-   Link: <a href="https://www.theverge.com/science/940467/meteor-exploded-new-england" target="_blank" rel="noopener noreferrer nofollow">https://www.theverge.com/science/940467/meteor-exploded-new-england</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The event produced a sonic boom that shook houses across the region, prompting initial speculation of an earthquake. However, the US Geol...</p></details>
+   Link:<a href="https://www.theverge.com/science/940467/meteor-exploded-new-england" target="_blank" rel="noopener noreferrer nofollow">https://www.theverge.com/science/940467/meteor-exploded-new-england</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The event produced a sonic boom that shook houses across the region, prompting initial speculation of an earthquake. However, the US Geol...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: amsmeteors.org  
    Title: American Meteor Society Fireball report  
-   Link: <a href="https://www.amsmeteors.org/members/imo_view/report/414886" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/members/imo_view/report/414886</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>sonic boom and thought it was eery and gave up. Delayed Sound. Observation, Yes. Remarks, As I said above the LOUD explosive boom and the...</p></details>
+   Link:<a href="https://www.amsmeteors.org/members/imo_view/report/414886" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/members/imo_view/report/414886</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>sonic boom and thought it was eery and gave up. Delayed Sound. Observation, Yes. Remarks, As I said above the LOUD explosive boom and the...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: fireball.amsmeteors.org  
    Title: American Meteor Society Pending reports found: 26  
-   Link: <a href="https://fireball.amsmeteors.org/members/imo_view/browse_reports?event=PENDING" target="_blank" rel="noopener noreferrer nofollow">https://fireball.amsmeteors.org/members/imo_view/browse_reports?event=PENDING</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteor SocietyPending reports found: 26 - Report a FireballAmerican Meteor Society.... Magn. D. Sound, C. Sound, Frag. Observer...</p></details>
+   Link:<a href="https://fireball.amsmeteors.org/members/imo_view/browse_reports?event=PENDING" target="_blank" rel="noopener noreferrer nofollow">https://fireball.amsmeteors.org/members/imo_view/browse_reports?event=PENDING</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteor SocietyPending reports found: 26 - Report a FireballAmerican Meteor Society.... Magn. D. Sound, C. Sound, Frag. Observer...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/astronomy-and-astrophysics/fireball" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/astronomy-and-astrophysics/fireball</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>They create a brilliant flash of light followed some time later by a sonic boom, a loud explosion-like...Read more...</p></details>
+   Link:<a href="https://www.ebsco.com/research-starters/astronomy-and-astrophysics/fireball" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/astronomy-and-astrophysics/fireball</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>They create a brilliant flash of light followed some time later by a sonic boom, a loud explosion-like...Read more...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/interestingasfuck/comments/1jblo5p/31425_meteor_sonic_boom/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/interestingasfuck/comments/1jblo5p/31425_meteor_sonic_boom/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>3/14/25 Meteor sonic boom: r/interestingasfuckThis meteor was heading NNW not far south of Chicago, over 400 miles away, and probably cl...</p></details>
+   Link:<a href="https://www.reddit.com/r/interestingasfuck/comments/1jblo5p/31425_meteor_sonic_boom/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/interestingasfuck/comments/1jblo5p/31425_meteor_sonic_boom/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3/14/25 Meteor sonic boom: r/interestingasfuckThis meteor was heading NNW not far south of Chicago, over 400 miles away, and probably cl...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DVjDOayjaTa/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DVjDOayjaTa/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A meteor travelling about 100 times the speed of sound lit...NASA confirmed that the bright fireball and sonic boom that lit up the Vanc...</p></details>
+   Link:<a href="https://www.instagram.com/p/DVjDOayjaTa/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DVjDOayjaTa/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A meteor travelling about 100 times the speed of sound lit...NASA confirmed that the bright fireball and sonic boom that lit up the Vanc...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DWAQPZYjs2N/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWAQPZYjs2N/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC World News Tonight on Instagram: &quot;The sonic “boom...The sonic “boom” heard from Ohio to Kentucky was from a meteorite traveling 40,0...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DWAQPZYjs2N/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWAQPZYjs2N/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ABC World News Tonight on Instagram: &quot;The sonic “boom...The sonic “boom” heard from Ohio to Kentucky was from a meteorite traveling 40,0...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: amsmeteors.org  
-   Link: <a href="https://amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow">https://amsmeteors.org/fireballs/faqf/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fireball FAQsBecause sound travels quite slowly, at only about 20 km per minute, it will generally be 1.5 to 4 minutes after the visual e...</p></details>
+   Link:<a href="https://amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow">https://amsmeteors.org/fireballs/faqf/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fireball FAQsBecause sound travels quite slowly, at only about 20 km per minute, it will generally be 1.5 to 4 minutes after the visual e...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: livescience.com  
-   Link: <a href="https://www.livescience.com/space/meteoroids/rare-daytime-fireball-meteor-creates-powerful-sonic-boom-as-7-ton-space-rock-explodes-above-eastern-us" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/space/meteoroids/rare-daytime-fireball-meteor-creates-powerful-sonic-boom-as-7-ton-space-rock-explodes-above-eastern-us</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>on the morning of March 17, 2026, creating a bright flash and a powerful sonic boom. The 6-foot-wide, 7-ton asteroid entered Earth&#x27;s atmo...</p></details>
+   Link:<a href="https://www.livescience.com/space/meteoroids/rare-daytime-fireball-meteor-creates-powerful-sonic-boom-as-7-ton-space-rock-explodes-above-eastern-us" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/space/meteoroids/rare-daytime-fireball-meteor-creates-powerful-sonic-boom-as-7-ton-space-rock-explodes-above-eastern-us</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>on the morning of March 17, 2026, creating a bright flash and a powerful sonic boom. The 6-foot-wide, 7-ton asteroid entered Earth&#x27;s atmo...</p></details>
    Published: March 17, 2026  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/space/comments/1c6e5nh/meteor_making_noise/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/1c6e5nh/meteor_making_noise/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Meteor making noise??: r/spaceI live in Santa Clarita, CA, a northern suburb of Los Angeles. Last night around 8pm, many residents of th...</p></details>
+   Link:<a href="https://www.reddit.com/r/space/comments/1c6e5nh/meteor_making_noise/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/1c6e5nh/meteor_making_noise/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Meteor making noise??: r/spaceI live in Santa Clarita, CA, a northern suburb of Los Angeles. Last night around 8pm, many residents of th...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NickBeresNC5/posts/wow-a-fireball-and-a-very-loud-boom-what-was-it-i-actually-heard-from-people-in-/1474668547353221/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NickBeresNC5/posts/wow-a-fireball-and-a-very-loud-boom-what-was-it-i-actually-heard-from-people-in-/1474668547353221/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>WOW … A FIREBALL AND A VERY LOUD BOOM. What...The noise coming from the meteor traveled faster than the speed of sound. The Cincinnati I...</p></details>
+   Link:<a href="https://www.facebook.com/NickBeresNC5/posts/wow-a-fireball-and-a-very-loud-boom-what-was-it-i-actually-heard-from-people-in-/1474668547353221/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NickBeresNC5/posts/wow-a-fireball-and-a-very-loud-boom-what-was-it-i-actually-heard-from-people-in-/1474668547353221/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WOW … A FIREBALL AND A VERY LOUD BOOM. What...The noise coming from the meteor traveled faster than the speed of sound. The Cincinnati I...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=PWdya32j0d8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PWdya32j0d8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fireball flies across the sky and causes sonic boomA &#x27;daytime fireball&#x27; was caught on video in the sky over South Carolina – causing a so...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=PWdya32j0d8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PWdya32j0d8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fireball flies across the sky and causes sonic boomA &#x27;daytime fireball&#x27; was caught on video in the sky over South Carolina – causing a so...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: independent.co.uk  
    Title: philadelphia fireball night sky explanation b2953746  
-   Link: <a href="https://www.independent.co.uk/news/world/americas/philadelphia-fireball-night-sky-explanation-b2953746.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/world/americas/philadelphia-fireball-night-sky-explanation-b2953746.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA explains what the fireball seen over parts of...8 Apr 2026 — The latest sighting comes mere weeks after a 7-ton meteorite exploded...</p></details>
+   Link:<a href="https://www.independent.co.uk/news/world/americas/philadelphia-fireball-night-sky-explanation-b2953746.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/world/americas/philadelphia-fireball-night-sky-explanation-b2953746.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA explains what the fireball seen over parts of...8 Apr 2026 — The latest sighting comes mere weeks after a 7-ton meteorite exploded...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: Meteor suspected as source of Friday night "boom" and flash in Indiana sky  
-   Link: <a href="http://www.youtube.com/watch?v=pctLBLrU0qc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=pctLBLrU0qc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why does a meteor sonic boom arrive after the flash Did you see flash of light, hear sonic boom? WLKY explains WLKY News Louisville...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=pctLBLrU0qc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=pctLBLrU0qc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why does a meteor sonic boom arrive after the flash Did you see flash of light, hear sonic boom? WLKY explains WLKY News Louisville...</p></details>

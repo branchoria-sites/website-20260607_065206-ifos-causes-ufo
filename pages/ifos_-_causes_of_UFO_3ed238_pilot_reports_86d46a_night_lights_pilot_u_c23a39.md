@@ -274,7 +274,7 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a_night_lig
 
 ## Introduction
 
-Many UFO reports from [pilots]({{ 'pilots/' | relative_url }}) occur at night, not because the night sky is full of exotic objects, but because darkness removes the visual information that normally helps people identify what they are seeing. A bright light seen from a moving aircraft may reveal almost nothing about its true size, distance, speed or direction. Without a visible horizon, terrain features or nearby reference points, even experienced aviators can struggle to determine whether a light is a distant aircraft, a planet, a satellite, a ground installation or something much closer. Aviation safety guidance has long warned that night flying creates powerful visual illusions that affect trained pilots as well as ordinary observers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationAirplane Flying Handbook (3C) Chapter 11September 24, 2021 — Landing lights are not only useful for taxi...</span><span class="citation-popover-meta">Published: September 24, 2021</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.atsb.gov.au/sites/default/files/2024-05/FAA-H-8083-3B%20Chapter%2010.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atsb.gov.au">[ATSB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atsb.gov.au</span><span class="citation-popover-snippet">NIGHT VISIONOn a clear night, distant stationary lights can be mis- taken for stars or other aircraft. Even the northern lights can confu...</span></span></span>
+Many UFO reports from [pilots]({{ 'pilots/' | relative_url }}) occur at night, not because the night sky is full of exotic objects, but because darkness removes the visual information that normally helps people identify what they are seeing. A bright light seen from a moving aircraft may reveal almost nothing about its true size, distance, speed or direction. Without a visible horizon, terrain features or nearby reference points, even experienced aviators can struggle to determine whether a light is a distant aircraft, a planet, a satellite, a ground installation or something much closer. Aviation safety guidance has long warned that night flying creates powerful visual illusions that affect trained pilots as well as ordinary observers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationAirplane Flying Handbook (3C) Chapter 11September 24, 2021 — Landing lights are not only useful for taxi...</span><span class="citation-popover-meta">Published: September 24, 2021</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.atsb.gov.au/sites/default/files/2024-05/FAA-H-8083-3B%20Chapter%2010.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atsb.gov.au">[ATSB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atsb.gov.au</span><span class="citation-popover-snippet">NIGHT VISIONOn a clear night, distant stationary lights can be mis- taken for stars or other aircraft. Even the northern lights can confu...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a_night_lights_pilot_u_c23a39-Illustration-1-dark.svg" | relative_url }}" alt="Night Lights illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a_night_lights_pilot_u_c23a39-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a_night_lights_pilot_u_c23a39-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This does not mean pilot reports are worthless. Rather, it explains why a sincere and skilled observer can accurately report seeing an unusual light while still misjudging what that light actually was. Within the broader question of UFO reports, night-time observations are a reminder that witness expertise does not eliminate the limits imposed by human perception.
@@ -283,9 +283,9 @@ This does not mean pilot reports are worthless. Rather, it explains why a sincer
 
 In daylight, pilots unconsciously use countless visual references. The horizon separates sky from ground. Clouds reveal relative altitude. Terrain, roads and buildings provide scale. At night, many of these cues disappear.
 
-A single bright light against a dark background often lacks any obvious context. The observer may know where the light is located in the windscreen, but not how far away it is. A distant airliner can appear surprisingly close. A bright planet near the horizon can resemble an approaching aircraft. Ground lights can seem suspended in the sky. FAA guidance notes that [aircraft lights]({{ 'aircraft-lights/' | relative_url }}) may blend with [stars]({{ 'stars/' | relative_url }}) or city lights, while distant stationary lights can be mistaken for aircraft and vice versa. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationAirplane Flying Handbook (3C) Chapter 11September 24, 2021 — Landing lights are not only useful for taxi...</span><span class="citation-popover-meta">Published: September 24, 2021</span></span></span>
+A single bright light against a dark background often lacks any obvious context. The observer may know where the light is located in the windscreen, but not how far away it is. A distant airliner can appear surprisingly close. A bright planet near the horizon can resemble an approaching aircraft. Ground lights can seem suspended in the sky. FAA guidance notes that [aircraft lights]({{ 'aircraft-lights/' | relative_url }}) may blend with [stars]({{ 'stars/' | relative_url }}) or city lights, while distant stationary lights can be mistaken for aircraft and vice versa.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationAirplane Flying Handbook (3C) Chapter 11September 24, 2021 — Landing lights are not only useful for taxi...</span><span class="citation-popover-meta">Published: September 24, 2021</span></span></span>
 
-The problem becomes more severe over water, deserts or sparsely populated terrain. In these environments, pilots may have little visual information beyond isolated points of light. Aviation researchers refer to this as a loss of external visual references, a condition that increases the risk of misjudging orientation, motion and distance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sensory illusions in aviation</span><span class="citation-popover-snippet">Sensory illusions in aviation</span></span></span>
+The problem becomes more severe over water, deserts or sparsely populated terrain. In these environments, pilots may have little visual information beyond isolated points of light. Aviation researchers refer to this as a loss of external visual references, a condition that increases the risk of misjudging orientation, motion and distance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sensory illusions in aviation</span><span class="citation-popover-snippet">Sensory illusions in aviation</span></span></span>
 
 For UFO investigations, this matters because many dramatic reports begin with a witness describing a bright light whose actual [range]({{ 'range/' | relative_url }}) was unknown. If distance cannot be estimated reliably, then apparent size and speed become difficult to estimate as well. A light thought to be a nearby object accelerating rapidly may instead be a far more distant source whose movement is being interpreted incorrectly.
 
@@ -293,11 +293,11 @@ For UFO investigations, this matters because many dramatic reports begin with a 
 
 ## Autokinesis and False Motion
 
-One of the best-known night-flying illusions is autokinesis. This occurs when a person stares at a single bright light against a dark, featureless background. After several seconds, the light can appear to move even though it is stationary. Aviation training materials specifically warn pilots about this effect because it can create the impression that another aircraft, a star or a distant light is changing direction or approaching. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hartzellprop.com/watch-out-for-night-flight-illusions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hartzellprop.com">[Hartzell Propeller]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hartzellprop.com</span><span class="citation-popover-title">Hartzell Propeller Watch Out for These 5 Night Flight Illusions</span><span class="citation-popover-snippet">This illusion happens when a pilot stares at a bright, stationary light set against a pitch-black background, such as a star or the...Re...</span></span></span>
+One of the best-known night-flying illusions is autokinesis. This occurs when a person stares at a single bright light against a dark, featureless background. After several seconds, the light can appear to move even though it is stationary. Aviation training materials specifically warn pilots about this effect because it can create the impression that another aircraft, a star or a distant light is changing direction or approaching.<span class="citation-chip-wrap"><a class="citation-chip" href="https://hartzellprop.com/watch-out-for-night-flight-illusions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hartzellprop.com">[Hartzell Propeller]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hartzellprop.com</span><span class="citation-popover-title">Hartzell Propeller Watch Out for These 5 Night Flight Illusions</span><span class="citation-popover-snippet">This illusion happens when a pilot stares at a bright, stationary light set against a pitch-black background, such as a star or the...Re...</span></span></span>
 
-The illusion arises because the eyes make tiny involuntary movements. In normal daytime viewing, the brain uses surrounding objects as references and ignores these small motions. When there are no reference points, the brain may interpret the light itself as moving. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pilotinstitute.com/illusions-explained/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pilotinstitute.com">[Pilot Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pilotinstitute.com</span><span class="citation-popover-title">Pilot Institute The 8 Types of Illusions Explained</span><span class="citation-popover-snippet">Infographic for the autokinesis illusion, showing a pilot seeing a stationary light at night and. Imagine you&#x27;re flying at...Read more...</span></span></span>
+The illusion arises because the eyes make tiny involuntary movements. In normal daytime viewing, the brain uses surrounding objects as references and ignores these small motions. When there are no reference points, the brain may interpret the light itself as moving.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pilotinstitute.com/illusions-explained/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pilotinstitute.com">[Pilot Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pilotinstitute.com</span><span class="citation-popover-title">Pilot Institute The 8 Types of Illusions Explained</span><span class="citation-popover-snippet">Infographic for the autokinesis illusion, showing a pilot seeing a stationary light at night and. Imagine you&#x27;re flying at...Read more...</span></span></span>
 
-For a pilot already alert to possible traffic or hazards, autokinesis can be especially persuasive. A stationary star may seem to drift. A planet near the horizon may appear to manoeuvre. A distant aircraft light can appear to zigzag or pace the observer. Aviation literature has long noted that bright celestial objects such as Venus and [Sirius]({{ 'sirius/' | relative_url }}) are frequent sources of confusion because they are bright enough to attract prolonged attention while lacking nearby visual references. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Graveyard_spiral" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Graveyard spiral</span><span class="citation-popover-snippet">Graveyard spiral</span></span></span>
+For a pilot already alert to possible traffic or hazards, autokinesis can be especially persuasive. A stationary star may seem to drift. A planet near the horizon may appear to manoeuvre. A distant aircraft light can appear to zigzag or pace the observer. Aviation literature has long noted that bright celestial objects such as Venus and [Sirius]({{ 'sirius/' | relative_url }}) are frequent sources of confusion because they are bright enough to attract prolonged attention while lacking nearby visual references.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Graveyard_spiral" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Graveyard spiral</span><span class="citation-popover-snippet">Graveyard spiral</span></span></span>
 
 Many UFO descriptions involving hovering lights that suddenly dart, weave or reverse direction resemble the kinds of apparent motion produced by autokinesis. The witness genuinely perceives movement, but the movement exists in perception rather than in the object itself.
 
@@ -306,7 +306,7 @@ Many UFO descriptions involving hovering lights that suddenly dart, weave or rev
 
 A common assumption in UFO reports is that a very bright light must be relatively close. At night, this assumption is often unreliable.
 
-Humans are poor at estimating distance from isolated lights. A powerful landing light on a distant aircraft can look larger and nearer than it is. Conversely, a modest light nearby can appear surprisingly remote. Without surrounding reference points, brightness provides little trustworthy information about range. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationAirplane Flying Handbook (3C) Chapter 11September 24, 2021 — Landing lights are not only useful for taxi...</span><span class="citation-popover-meta">Published: September 24, 2021</span></span></span>
+Humans are poor at estimating distance from isolated lights. A powerful landing light on a distant aircraft can look larger and nearer than it is. Conversely, a modest light nearby can appear surprisingly remote. Without surrounding reference points, brightness provides little trustworthy information about range.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationAirplane Flying Handbook (3C) Chapter 11September 24, 2021 — Landing lights are not only useful for taxi...</span><span class="citation-popover-meta">Published: September 24, 2021</span></span></span>
 
 This creates a chain of errors. If a pilot underestimates the distance to a light, the object appears smaller than expected. If it then appears to move across the windscreen, the observer may conclude that it is travelling at extraordinary speed. Yet the apparent speed calculation depends entirely on the initial distance estimate. An object thought to be one mile away behaves very differently from one that is actually twenty miles away.
 
@@ -318,9 +318,9 @@ Night observations therefore tend to magnify impressions of unusual performance.
 
 Several modern investigations illustrate how difficult night identification can be even when professional observers are involved.
 
-In a widely discussed 2023 case near Eglin Air Force Base, a military pilot reported an unusual object that appeared anomalous and raised flight-safety concerns. After reviewing visual observations, radar information, electro-optical imagery, [infrared]({{ 'infrared/' | relative_url }}) imagery, geometry and environmental conditions, the All-domain Anomaly Resolution Office concluded that the object was very likely a conventional lighter-than-air object, probably a commercial lighting balloon or something similar rather than an anomalous craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Eglin UAP Case Resolution</span><span class="citation-popover-snippet">AAROEglin UAP Case ResolutionApril 24, 2024 — (U) On 26 January 2023, a military pilot reported four potential unidentified anomalous phe...</span><span class="citation-popover-meta">Published: April 24, 2024</span></span></span>
+In a widely discussed 2023 case near Eglin Air Force Base, a military pilot reported an unusual object that appeared anomalous and raised flight-safety concerns. After reviewing visual observations, radar information, electro-optical imagery, [infrared]({{ 'infrared/' | relative_url }}) imagery, geometry and environmental conditions, the All-domain Anomaly Resolution Office concluded that the object was very likely a conventional lighter-than-air object, probably a commercial lighting balloon or something similar rather than an anomalous craft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Eglin UAP Case Resolution</span><span class="citation-popover-snippet">AAROEglin UAP Case ResolutionApril 24, 2024 — (U) On 26 January 2023, a military pilot reported four potential unidentified anomalous phe...</span><span class="citation-popover-meta">Published: April 24, 2024</span></span></span>
 
-Another documented example involved multiple commercial pilots who reported what appeared to be an unusual aerial phenomenon over the Pacific. Later reconstruction showed that recently launched Starlink satellites, viewed under unusual illumination conditions, could account for the observations. The case demonstrated that even multiple trained witnesses can misinterpret unfamiliar lights when viewing conditions are poor and the objects are outside normal expectations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
+Another documented example involved multiple commercial pilots who reported what appeared to be an unusual aerial phenomenon over the Pacific. Later reconstruction showed that recently launched Starlink satellites, viewed under unusual illumination conditions, could account for the observations. The case demonstrated that even multiple trained witnesses can misinterpret unfamiliar lights when viewing conditions are poor and the objects are outside normal expectations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
 
 These examples do not show that every night-time UFO report is solved. They show something more specific: unusual lights seen from aircraft can appear far stranger than they really are when darkness removes the contextual information needed for reliable identification.
 
@@ -329,201 +329,201 @@ These examples do not show that every night-time UFO report is solved. They show
 
 Pilot observations remain valuable because they often provide accurate details about timing, direction, weather and operational circumstances. However, night flying highlights a key limitation of eyewitness testimony. Expertise helps a pilot recognise that something unusual has been seen; it does not guarantee correct identification of a distant light viewed under poor visual conditions.
 
-Aviation safety organisations devote significant training to night illusions precisely because trained pilots are vulnerable to them. False horizons, confusion between stars and ground lights, autokinesis and errors in distance perception are recognised hazards within professional aviation itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aopa.org/training-and-safety/online-learning/safety-spotlights/spatial-disorientation/tricked-by-illusions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aopa.org">[AOPA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aopa.org</span><span class="citation-popover-snippet">Tricked by IllusionsConfusing ground and star light: At night, ground lights can be mistaken for stars. This can lead pilots to maneu...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.atsb.gov.au/sites/default/files/2024-05/FAA-H-8083-3B%20Chapter%2010.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atsb.gov.au">[ATSB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atsb.gov.au</span><span class="citation-popover-snippet">NIGHT VISIONOn a clear night, distant stationary lights can be mis- taken for stars or other aircraft. Even the northern lights can confu...</span></span></span>
+Aviation safety organisations devote significant training to night illusions precisely because trained pilots are vulnerable to them. False horizons, confusion between stars and ground lights, autokinesis and errors in distance perception are recognised hazards within professional aviation itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aopa.org/training-and-safety/online-learning/safety-spotlights/spatial-disorientation/tricked-by-illusions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aopa.org">[AOPA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aopa.org</span><span class="citation-popover-snippet">Tricked by IllusionsConfusing ground and star light: At night, ground lights can be mistaken for stars. This can lead pilots to maneu...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.atsb.gov.au/sites/default/files/2024-05/FAA-H-8083-3B%20Chapter%2010.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atsb.gov.au">[ATSB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atsb.gov.au</span><span class="citation-popover-snippet">NIGHT VISIONOn a clear night, distant stationary lights can be mis- taken for stars or other aircraft. Even the northern lights can confu...</span></span></span>
 
 For understanding UFO reports, the lesson is straightforward. Darkness transforms isolated lights into ambiguous observations. The less context available, the easier it becomes for ordinary aircraft, stars, satellites and ground lights to acquire the appearance of something extraordinary. Even highly experienced witnesses can be fooled when the night sky removes the visual clues that normally keep perception anchored to reality.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6BD9fyyIJzY" title="Spatial Disorientation Explained: Deadly Flight Illusions Every Pilot Must Know" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6BD9fyyIJzY" target="_blank" rel="noopener noreferrer">Spatial Disorientation Explained: Deadly Flight Illusions Every Pilot Must Know</a></p><p class="youtube-embed-meta">Channel: Epic Flight Academy &middot; Views: 9.1K &middot; Uploaded: December 2025 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6BD9fyyIJzY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6BD9fyyIJzY">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Night Lights Fool Trained Pilots. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Night Lights Fool Trained Pilots. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Covers aviation witnesses and official UFO reporting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers aviation witnesses and official UFO reporting.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Frames witness reports within scientific evaluation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Frames witness reports within scientific evaluation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Weather+Flying+by+Robert+Buck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weather Flying on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Lou7f1tpERoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Weather Flying" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Weather+Flying+by+Robert+Buck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weather Flying">Weather Flying</a>
-        </h4>
-        <p class="fr-book-author">By Robert Buck</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Weather+Flying+by+Robert+Buck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weather Flying on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Lou7f1tpERoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Weather Flying" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Weather+Flying+by+Robert+Buck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weather Flying">Weather Flying</a>
+</h4>
+<p class="fr-book-author">By Robert Buck</p>
         
-        <p class="fr-book-desc">Explains difficult visual and weather conditions pilots face.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Weather+Flying+by+Robert+Buck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains difficult visual and weather conditions pilots face.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Weather+Flying+by+Robert+Buck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stick and Rudder on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stick and Rudder">Stick and Rudder</a>
-        </h4>
-        <p class="fr-book-author">By Wolfgang Langewiesche, Leighton Holden Collins</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stick and Rudder on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stick and Rudder">Stick and Rudder</a>
+</h4>
+<p class="fr-book-author">By Wolfgang Langewiesche, Leighton Holden Collins</p>
         
-        <p class="fr-book-desc">Helps explain flight perception and what pilots actually see.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps explain flight perception and what pilots actually see.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Weather+Flying&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Weather Flying</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Weather+Flying&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Weather Flying</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-lights-fool-trained-pilots-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-night-lights-fool-trained-pilots-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Royal Air Force Aircraft Poster A3 – RAF Plane Identification Guide – Aviation"><img src="https://i.ebayimg.com/images/g/mukAAeSwYctqHytq/s-l225.jpg" alt="Listing image for Royal Air Force Aircraft Poster A3 – RAF Plane Identification Guide – Aviation" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-lights-fool-trained-pilots-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-night-lights-fool-trained-pilots-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Royal Air Force Aircraft Poster A3 – RAF Plane Identification Guide – Aviation</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-lights-fool-trained-pilots-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-night-lights-fool-trained-pilots-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-lights-fool-trained-pilots-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-night-lights-fool-trained-pilots-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-lights-fool-trained-pilots-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-night-lights-fool-trained-pilots-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Royal Air Force Aircraft Poster A3 – RAF Plane Identification Guide – Aviation"><img src="https://i.ebayimg.com/images/g/mukAAeSwYctqHytq/s-l225.jpg" alt="Listing image for Royal Air Force Aircraft Poster A3 – RAF Plane Identification Guide – Aviation" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-lights-fool-trained-pilots-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-night-lights-fool-trained-pilots-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Royal Air Force Aircraft Poster A3 – RAF Plane Identification Guide – Aviation</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-lights-fool-trained-pilots-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-night-lights-fool-trained-pilots-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-lights-fool-trained-pilots-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-night-lights-fool-trained-pilots-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-lights-fool-trained-pilots-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-night-lights-fool-trained-pilots-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/KZwAAeSw8P5p39er/s-l225.jpg" alt="Listing image for WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-lights-fool-trained-pilots-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-night-lights-fool-trained-pilots-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-lights-fool-trained-pilots-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-night-lights-fool-trained-pilots-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-lights-fool-trained-pilots-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-night-lights-fool-trained-pilots-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-lights-fool-trained-pilots-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-night-lights-fool-trained-pilots-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/KZwAAeSw8P5p39er/s-l225.jpg" alt="Listing image for WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-lights-fool-trained-pilots-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-night-lights-fool-trained-pilots-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-lights-fool-trained-pilots-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-night-lights-fool-trained-pilots-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-lights-fool-trained-pilots-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-night-lights-fool-trained-pilots-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-lights-fool-trained-pilots-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-night-lights-fool-trained-pilots-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spitfire aviation poster wall art print un framed various size options available"><img src="https://i.ebayimg.com/images/g/nl0AAeSwgYNoyb7F/s-l225.jpg" alt="Listing image for Spitfire aviation poster wall art print un framed various size options available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-lights-fool-trained-pilots-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-night-lights-fool-trained-pilots-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Spitfire aviation poster wall art print un framed various size options available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-lights-fool-trained-pilots-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-night-lights-fool-trained-pilots-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-lights-fool-trained-pilots-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-night-lights-fool-trained-pilots-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-lights-fool-trained-pilots-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-night-lights-fool-trained-pilots-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spitfire aviation poster wall art print un framed various size options available"><img src="https://i.ebayimg.com/images/g/nl0AAeSwgYNoyb7F/s-l225.jpg" alt="Listing image for Spitfire aviation poster wall art print un framed various size options available" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-lights-fool-trained-pilots-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-night-lights-fool-trained-pilots-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Spitfire aviation poster wall art print un framed various size options available</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-lights-fool-trained-pilots-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-night-lights-fool-trained-pilots-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-lights-fool-trained-pilots-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-night-lights-fool-trained-pilots-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-lights-fool-trained-pilots-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-night-lights-fool-trained-pilots-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FIGHTER JET POSTER WALL ART SKY PRINT IMAGE AVIATION USA ARMY"><img src="https://i.ebayimg.com/images/g/WzgAAOSwR9xip7fr/s-l225.jpg" alt="Listing image for FIGHTER JET POSTER WALL ART SKY PRINT IMAGE AVIATION USA ARMY" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-lights-fool-trained-pilots-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-night-lights-fool-trained-pilots-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">FIGHTER JET POSTER WALL ART SKY PRINT IMAGE AVIATION USA ARMY</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-lights-fool-trained-pilots-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-night-lights-fool-trained-pilots-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-lights-fool-trained-pilots-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-night-lights-fool-trained-pilots-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-lights-fool-trained-pilots-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-night-lights-fool-trained-pilots-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-lights-fool-trained-pilots-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-night-lights-fool-trained-pilots-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FIGHTER JET POSTER WALL ART SKY PRINT IMAGE AVIATION USA ARMY"><img src="https://i.ebayimg.com/images/g/WzgAAOSwR9xip7fr/s-l225.jpg" alt="Listing image for FIGHTER JET POSTER WALL ART SKY PRINT IMAGE AVIATION USA ARMY" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-lights-fool-trained-pilots-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-night-lights-fool-trained-pilots-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">FIGHTER JET POSTER WALL ART SKY PRINT IMAGE AVIATION USA ARMY</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-lights-fool-trained-pilots-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-night-lights-fool-trained-pilots-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-lights-fool-trained-pilots-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-night-lights-fool-trained-pilots-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-lights-fool-trained-pilots-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-night-lights-fool-trained-pilots-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -539,7 +539,7 @@ For understanding UFO reports, the lesson is straightforward. Darkness transform
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -559,7 +559,7 @@ For understanding UFO reports, the lesson is straightforward. Darkness transform
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -591,7 +591,7 @@ For understanding UFO reports, the lesson is straightforward. Darkness transform
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -643,7 +643,7 @@ For understanding UFO reports, the lesson is straightforward. Darkness transform
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -688,7 +688,7 @@ For understanding UFO reports, the lesson is straightforward. Darkness transform
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -729,117 +729,117 @@ For understanding UFO reports, the lesson is straightforward. Darkness transform
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationAirplane Flying Handbook (3C) Chapter 11September 24, 2021 — [Landing lights](&amp;#123;&amp;#123; &#x27;landing-lights/&#x27; | relative_url &amp;#125;&amp;#125;) are not only useful for taxi...</p></details>
+   Link:<a href="https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationAirplane Flying Handbook (3C) Chapter 11September 24, 2021 — [Landing lights](&amp;#123;&amp;#123; &#x27;landing-lights/&#x27; | relative_url &amp;#125;&amp;#125;) are not only useful for taxi...</p></details>
    Published: September 24, 2021  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: aopa.org  
-   Link: <a href="https://www.aopa.org/training-and-safety/online-learning/safety-spotlights/spatial-disorientation/tricked-by-illusions" target="_blank" rel="noopener noreferrer nofollow">https://www.aopa.org/training-and-safety/online-learning/safety-spotlights/spatial-disorientation/tricked-by-illusions</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tricked by IllusionsConfusing ground and star light: At night, ground lights can be mistaken for stars. This can lead pilots to maneu...</p></details>
+   Link:<a href="https://www.aopa.org/training-and-safety/online-learning/safety-spotlights/spatial-disorientation/tricked-by-illusions" target="_blank" rel="noopener noreferrer nofollow">https://www.aopa.org/training-and-safety/online-learning/safety-spotlights/spatial-disorientation/tricked-by-illusions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tricked by IllusionsConfusing ground and star light: At night, ground lights can be mistaken for stars. This can lead pilots to maneu...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Sensory illusions in aviation  
-   Link: <a href="https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Graveyard spiral  
-   Link: <a href="https://en.wikipedia.org/wiki/Graveyard_spiral" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Graveyard_spiral</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Graveyard_spiral" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Graveyard_spiral</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Autokinetic effect  
-   Link: <a href="https://en.wikipedia.org/wiki/Autokinetic_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Autokinetic_effect</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Autokinetic_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Autokinetic_effect</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: [aaro](&#123;&#123; 'aaro/' | relative_url &#125;&#125;). mil  
    Title: Eglin UAP Case Resolution  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROEglin UAP Case ResolutionApril 24, 2024 — (U) On 26 January 2023, a military pilot reported four potential unidentified anomalous phe...</p></details>
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AAROEglin UAP Case ResolutionApril 24, 2024 — (U) On 26 January 2023, a military pilot reported four potential unidentified anomalous phe...</p></details>
    Published: April 24, 2024  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</p></details>
+   Link:<a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: faasafety.gov  
    Title: Library Contents  
-   Link: <a href="https://www.faasafety.gov/gslac/alc/libview_normal.aspx?id=6580" target="_blank" rel="noopener noreferrer nofollow">https://www.faasafety.gov/gslac/alc/libview_normal.aspx?id=6580</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FAA - FAASTeamAfter a lot of work, I think N.I.G.H.T. is one such flight planning aid pilots should use before every night flight. Night...</p></details>
+   Link:<a href="https://www.faasafety.gov/gslac/alc/libview_normal.aspx?id=6580" target="_blank" rel="noopener noreferrer nofollow">https://www.faasafety.gov/gslac/alc/libview_normal.aspx?id=6580</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FAA - FAASTeamAfter a lot of work, I think N.I.G.H.T. is one such flight planning aid pilots should use before every night flight. Night...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: hartzellprop.com  
    Title: Hartzell Propeller Watch Out for These 5 Night Flight Illusions  
-   Link: <a href="https://hartzellprop.com/watch-out-for-night-flight-illusions/" target="_blank" rel="noopener noreferrer nofollow">https://hartzellprop.com/watch-out-for-night-flight-illusions/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This illusion happens when a pilot stares at a bright, stationary light set against a pitch-black background, such as a star or the...Re...</p></details>
+   Link:<a href="https://hartzellprop.com/watch-out-for-night-flight-illusions/" target="_blank" rel="noopener noreferrer nofollow">https://hartzellprop.com/watch-out-for-night-flight-illusions/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This illusion happens when a pilot stares at a bright, stationary light set against a pitch-black background, such as a star or the...Re...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pilotinstitute.com  
    Title: Pilot Institute The 8 Types of Illusions Explained  
-   Link: <a href="https://pilotinstitute.com/illusions-explained/" target="_blank" rel="noopener noreferrer nofollow">https://pilotinstitute.com/illusions-explained/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Infographic for the autokinesis illusion, showing a pilot seeing a stationary light at night and. Imagine you&#x27;re flying at...Read more...</p></details>
+   Link:<a href="https://pilotinstitute.com/illusions-explained/" target="_blank" rel="noopener noreferrer nofollow">https://pilotinstitute.com/illusions-explained/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Infographic for the autokinesis illusion, showing a pilot seeing a stationary light at night and. Imagine you&#x27;re flying at...Read more...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: atsb.gov.au  
-   Link: <a href="https://www.atsb.gov.au/sites/default/files/2024-05/FAA-H-8083-3B%20Chapter%2010.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.atsb.gov.au/sites/default/files/2024-05/FAA-H-8083-3B%20Chapter%2010.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NIGHT VISIONOn a clear night, distant stationary lights can be mis- taken for stars or other aircraft. Even the northern lights can confu...</p></details>
+   Link:<a href="https://www.atsb.gov.au/sites/default/files/2024-05/FAA-H-8083-3B%20Chapter%2010.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.atsb.gov.au/sites/default/files/2024-05/FAA-H-8083-3B%20Chapter%2010.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NIGHT VISIONOn a clear night, distant stationary lights can be mis- taken for stars or other aircraft. Even the northern lights can confu...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: safety.af.mil  
-   Link: <a href="https://www.safety.af.mil/Portals/71/documents/Magazines/FSM/1970s/197912%20-%20AerospaceSafety.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.safety.af.mil/Portals/71/documents/Magazines/FSM/1970s/197912%20-%20AerospaceSafety.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the Directorate of Aerospace SafetySeconds before crash, crew chief heard copilot ask pilot if he wanted the landing lights or searchligh...</p></details>
+   Link:<a href="https://www.safety.af.mil/Portals/71/documents/Magazines/FSM/1970s/197912%20-%20AerospaceSafety.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.safety.af.mil/Portals/71/documents/Magazines/FSM/1970s/197912%20-%20AerospaceSafety.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the Directorate of Aerospace SafetySeconds before crash, crew chief heard copilot ask pilot if he wanted the landing lights or searchligh...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: twz.com  
    Title: eglin afb pilot likely saw a lighting balloon not a ufo pentagon concludes  
-   Link: <a href="https://www.twz.com/air/eglin-afb-pilot-likely-saw-a-lighting-balloon-not-a-ufo-pentagon-concludes" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/air/eglin-afb-pilot-likely-saw-a-lighting-balloon-not-a-ufo-pentagon-concludes</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The War ZoneEglin AFB Pilot Likely Saw A Lighting Balloon, Not A UFO...24 Apr 2024 — As a result, the AARO report concluded with “modera...</p></details>
+   Link:<a href="https://www.twz.com/air/eglin-afb-pilot-likely-saw-a-lighting-balloon-not-a-ufo-pentagon-concludes" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/air/eglin-afb-pilot-likely-saw-a-lighting-balloon-not-a-ufo-pentagon-concludes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The War ZoneEglin AFB Pilot Likely Saw A Lighting Balloon, Not A UFO...24 Apr 2024 — As a result, the AARO report concluded with “modera...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: instagram.com  
    Title: city lights or clouds can trick your perception of the horizon  
-   Link: <a href="https://www.instagram.com/p/DUT_V0PE7v5/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DUT_V0PE7v5/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>There are three visual illusions pilots must recognise: -Autokinesis: stationary lights can appear to move. -False Horizon: city lights o...</p></details>
+   Link:<a href="https://www.instagram.com/p/DUT_V0PE7v5/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DUT_V0PE7v5/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>There are three visual illusions pilots must recognise: -Autokinesis: stationary lights can appear to move. -False Horizon: city lights o...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: boldmethod.com  
    Title: eight things you need to consider on your next night flight  
-   Link: <a href="https://www.boldmethod.com/blog/lists/2026/04/eight-things-you-need-to-consider-on-your-next-night-flight/" target="_blank" rel="noopener noreferrer nofollow">https://www.boldmethod.com/blog/lists/2026/04/eight-things-you-need-to-consider-on-your-next-night-flight/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>8 Of The Most Common Night Flying Hazards4 Apr 2026 — 8 Of The Most Common Night Flying Hazards · 1) Night Vision · 2) Strobe Lights · 3)...</p></details>
+   Link:<a href="https://www.boldmethod.com/blog/lists/2026/04/eight-things-you-need-to-consider-on-your-next-night-flight/" target="_blank" rel="noopener noreferrer nofollow">https://www.boldmethod.com/blog/lists/2026/04/eight-things-you-need-to-consider-on-your-next-night-flight/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>8 Of The Most Common Night Flying Hazards4 Apr 2026 — 8 Of The Most Common Night Flying Hazards · 1) Night Vision · 2) Strobe Lights · 3)...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
    Title: Flying at night is as challenging as it is breathtaking  
-   Link: <a href="https://www.facebook.com/AirwaysAviationAustralia/posts/flying-at-night-is-as-challenging-as-it-is-breathtakingthere-are-three-visual-il/1318279753674629/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AirwaysAviationAustralia/posts/flying-at-night-is-as-challenging-as-it-is-breathtakingthere-are-three-visual-il/1318279753674629/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>There...3 Feb 2026 — There are three visual illusions pilots must recognise: -Autokinesis: stationary lights can appear to move. -False...</p></details>
+   Link:<a href="https://www.facebook.com/AirwaysAviationAustralia/posts/flying-at-night-is-as-challenging-as-it-is-breathtakingthere-are-three-visual-il/1318279753674629/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AirwaysAviationAustralia/posts/flying-at-night-is-as-challenging-as-it-is-breathtakingthere-are-three-visual-il/1318279753674629/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>There...3 Feb 2026 — There are three visual illusions pilots must recognise: -Autokinesis: stationary lights can appear to move. -False...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: x.com  
-   Link: <a href="https://x.com/DoD_AARO/status/1783215130076959000" target="_blank" rel="noopener noreferrer nofollow">https://x.com/DoD_AARO/status/1783215130076959000</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>t presents AARO&#x27;s analysis of a January 2023 event reported by a...Read more...</p></details>
+   Link:<a href="https://x.com/DoD_AARO/status/1783215130076959000" target="_blank" rel="noopener noreferrer nofollow">https://x.com/DoD_AARO/status/1783215130076959000</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>t presents AARO&#x27;s analysis of a January 2023 event reported by a...Read more...</p></details>
    Published: January 2023  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: Spatial disorientation Night VFR visual somatogravic illusion video  
-   Link: <a href="http://www.youtube.com/watch?v=_oc_52gnrv8" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=_oc_52gnrv8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aviation night flying visual illusions landing lights orientation UAP The Light Gate - A Paranormal/UFO Discussion with Michelle Desroche...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=_oc_52gnrv8" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=_oc_52gnrv8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aviation night flying visual illusions landing lights orientation UAP The Light Gate - A Paranormal/UFO Discussion with Michelle Desroche...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NewsNationNow/posts/the-pentagon-said-it-has-resolved-the-case-of-a-uap-reported-near-eglin-air-forc/451647407242282/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/the-pentagon-said-it-has-resolved-the-case-of-a-uap-reported-near-eglin-air-forc/451647407242282/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Base off the coast of Florida, finding it was a lighter-than-...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/NewsNationNow/posts/the-pentagon-said-it-has-resolved-the-case-of-a-uap-reported-near-eglin-air-forc/451647407242282/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/the-pentagon-said-it-has-resolved-the-case-of-a-uap-reported-near-eglin-air-forc/451647407242282/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Base off the coast of Florida, finding it was a lighter-than-...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: faasafety.gov  
    Title: Your Senses in the Shadows  
-   Link: <a href="https://www.faasafety.gov/files/events/SO/SO15/2024/SO15134204/YourSensesInTheShadows.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faasafety.gov/files/events/SO/SO15/2024/SO15134204/YourSensesInTheShadows.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nighttime Visual Illusions...This illusion happens when a pilot stares at a bright, stationary light set against a pitch-black backgroun...</p></details>
+   Link:<a href="https://www.faasafety.gov/files/events/SO/SO15/2024/SO15134204/YourSensesInTheShadows.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faasafety.gov/files/events/SO/SO15/2024/SO15134204/YourSensesInTheShadows.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nighttime Visual Illusions...This illusion happens when a pilot stares at a bright, stationary light set against a pitch-black backgroun...</p></details>

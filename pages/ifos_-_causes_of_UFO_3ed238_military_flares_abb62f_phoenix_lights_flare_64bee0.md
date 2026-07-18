@@ -274,14 +274,14 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_military_flares_abb62f_phoenix
 
 ## Introduction
 
-The Phoenix Lights are often cited in UFO debates because one night in March 1997 produced reports that appear, at first glance, to describe a single extraordinary event. The strongest conventional explanation, however, concerns the later light display seen around 10 p.m. near Phoenix. A substantial body of evidence links those lights to military illumination flares dropped during training exercises over the Barry Goldwater [Range]({{ 'range/' | relative_url }}). At the same time, many researchers, witnesses and even some sceptics argue that not every report from that evening can be reduced to the flare explanation. The central question is therefore not whether flares were present, but how much of the overall witness record they explain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Phoenix_Lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Phoenix Lights</span><span class="citation-popover-snippet">Phoenix Lights</span></span></span>
+The Phoenix Lights are often cited in UFO debates because one night in March 1997 produced reports that appear, at first glance, to describe a single extraordinary event. The strongest conventional explanation, however, concerns the later light display seen around 10 p.m. near Phoenix. A substantial body of evidence links those lights to military illumination flares dropped during training exercises over the Barry Goldwater [Range]({{ 'range/' | relative_url }}). At the same time, many researchers, witnesses and even some sceptics argue that not every report from that evening can be reduced to the flare explanation. The central question is therefore not whether flares were present, but how much of the overall witness record they explain.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Phoenix_Lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Phoenix Lights</span><span class="citation-popover-snippet">Phoenix Lights</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_military_flares_abb62f_phoenix_lights_flare_64bee0-Illustration-1-dark.svg" | relative_url }}" alt="Phoenix Lights illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_military_flares_abb62f_phoenix_lights_flare_64bee0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_military_flares_abb62f_phoenix_lights_flare_64bee0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The later Phoenix light display
 
-The best-supported flare explanation concerns a line of bright lights observed in the south-western sky of the Phoenix metropolitan area at roughly 10 p.m. Witnesses described a row of luminous objects that appeared to hover, remain stationary and then disappear one by one. These observations closely match the behaviour of military illumination flares suspended beneath parachutes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Phoenix_Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Phoenix Incident</span><span class="citation-popover-snippet">The Phoenix IncidentPresented as a documentary found footage film based on real events, it is set in the present day and focuses upon...</span></span></span>
+The best-supported flare explanation concerns a line of bright lights observed in the south-western sky of the Phoenix metropolitan area at roughly 10 p.m. Witnesses described a row of luminous objects that appeared to hover, remain stationary and then disappear one by one. These observations closely match the behaviour of military illumination flares suspended beneath parachutes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Phoenix_Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Phoenix Incident</span><span class="citation-popover-snippet">The Phoenix IncidentPresented as a documentary found footage film based on real events, it is set in the present day and focuses upon...</span></span></span>
 
-According to Air Force accounts and later investigations, A-10 aircraft participating in training exercises released LUU-2 illumination flares over the Barry Goldwater military range. These flares burn intensely while descending slowly, making them appear motionless when viewed from tens of kilometres away. As they descend behind distant terrain, they seem to extinguish sequentially even though they are simply dropping below the observer's line of sight. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Phoenix_Lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Phoenix Lights</span><span class="citation-popover-snippet">Phoenix Lights</span></span></span>
+According to Air Force accounts and later investigations, A-10 aircraft participating in training exercises released LUU-2 illumination flares over the Barry Goldwater military range. These flares burn intensely while descending slowly, making them appear motionless when viewed from tens of kilometres away. As they descend behind distant terrain, they seem to extinguish sequentially even though they are simply dropping below the observer's line of sight.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Phoenix_Lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Phoenix Lights</span><span class="citation-popover-snippet">Phoenix Lights</span></span></span>
 
 Several features of the recorded videos support this interpretation:
 
@@ -290,43 +290,43 @@ Several features of the recorded videos support this interpretation:
 * The lights remain fixed relative to one another for extended periods rather than manoeuvring as a single craft.
 * Their brightness fluctuates in ways consistent with burning flares.
 * They disappear from one side of the formation to the other, matching the effect expected when lights descend behind a mountain ridge.
-* Later comparisons with known flare drops produced remarkably similar visual patterns. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Phoenix_Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Phoenix Incident</span><span class="citation-popover-snippet">The Phoenix IncidentPresented as a documentary found footage film based on real events, it is set in the present day and focuses upon...</span></span></span>
+* Later comparisons with known flare drops produced remarkably similar visual patterns.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Phoenix_Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Phoenix Incident</span><span class="citation-popover-snippet">The Phoenix IncidentPresented as a documentary found footage film based on real events, it is set in the present day and focuses upon...</span></span></span>
 
 </div>
 
-For many investigators, these points make the later display one of the stronger examples of a UFO report being explained by military training lights rather than an unknown aerial object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Phoenix_Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Phoenix Incident</span><span class="citation-popover-snippet">The Phoenix IncidentPresented as a documentary found footage film based on real events, it is set in the present day and focuses upon...</span></span></span>
+For many investigators, these points make the later display one of the stronger examples of a UFO report being explained by military training lights rather than an unknown aerial object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Phoenix_Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Phoenix Incident</span><span class="citation-popover-snippet">The Phoenix IncidentPresented as a documentary found footage film based on real events, it is set in the present day and focuses upon...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/N1fW1l1sh-A" title="Phoenix Lights - The Dark Truth?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=N1fW1l1sh-A" target="_blank" rel="noopener noreferrer">Phoenix Lights - The Dark Truth?</a></p><p class="youtube-embed-meta">Channel: Found And Explained &middot; Views: 316.9K &middot; Uploaded: December 2022 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=N1fW1l1sh-A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=N1fW1l1sh-A">Open on YouTube</a></p></div></div></div>
 
 ## The Barry Goldwater range connection
 
-The flare explanation gained credibility because investigators were able to identify a plausible source rather than merely proposing a generic possibility. The Barry Goldwater Range is a large military training area in south-west Arizona frequently used for air-to-ground exercises. On the night of 13 March 1997, Air National Guard aircraft were conducting operations associated with Operation Snowbird, a recurring training programme based out of Davis–Monthan Air Force Base. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Phoenix_Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Phoenix Incident</span><span class="citation-popover-snippet">The Phoenix IncidentPresented as a documentary found footage film based on real events, it is set in the present day and focuses upon...</span></span></span>
+The flare explanation gained credibility because investigators were able to identify a plausible source rather than merely proposing a generic possibility. The Barry Goldwater Range is a large military training area in south-west Arizona frequently used for air-to-ground exercises. On the night of 13 March 1997, Air National Guard aircraft were conducting operations associated with Operation Snowbird, a recurring training programme based out of Davis–Monthan Air Force Base.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Phoenix_Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Phoenix Incident</span><span class="citation-popover-snippet">The Phoenix IncidentPresented as a documentary found footage film based on real events, it is set in the present day and focuses upon...</span></span></span>
 
-Later reporting identified [pilots]({{ 'pilots/' | relative_url }}) and units linked to the exercise. Members of the Maryland Air National Guard confirmed participation in training flights over the range that evening, and military histories published after the event connected the squadron to the flare releases. Contemporary newspaper reporting in 1997 likewise traced the lights to visiting Air National Guard aircraft conducting training with illumination flares. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Phoenix_Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Phoenix Incident</span><span class="citation-popover-snippet">The Phoenix IncidentPresented as a documentary found footage film based on real events, it is set in the present day and focuses upon...</span></span></span>
+Later reporting identified [pilots]({{ 'pilots/' | relative_url }}) and units linked to the exercise. Members of the Maryland Air National Guard confirmed participation in training flights over the range that evening, and military histories published after the event connected the squadron to the flare releases. Contemporary newspaper reporting in 1997 likewise traced the lights to visiting Air National Guard aircraft conducting training with illumination flares.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Phoenix_Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Phoenix Incident</span><span class="citation-popover-snippet">The Phoenix IncidentPresented as a documentary found footage film based on real events, it is set in the present day and focuses upon...</span></span></span>
 
-The geographic alignment is also important. The lights appeared in the direction of the range from much of Phoenix, and the Sierra Estrella mountains lie between parts of the city and the training area. Investigators argued that the mountains explain why the lights seemed to vanish in sequence: each flare descended behind the ridge at a slightly different time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Phoenix_Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Phoenix Incident</span><span class="citation-popover-snippet">The Phoenix IncidentPresented as a documentary found footage film based on real events, it is set in the present day and focuses upon...</span></span></span>
+The geographic alignment is also important. The lights appeared in the direction of the range from much of Phoenix, and the Sierra Estrella mountains lie between parts of the city and the training area. Investigators argued that the mountains explain why the lights seemed to vanish in sequence: each flare descended behind the ridge at a slightly different time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Phoenix_Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Phoenix Incident</span><span class="citation-popover-snippet">The Phoenix IncidentPresented as a documentary found footage film based on real events, it is set in the present day and focuses upon...</span></span></span>
 
-In UFO investigation terms, this is stronger than a simple resemblance argument. There was a known military activity, in a known training area, at the relevant time, producing exactly the type of light source capable of creating the observed visual effect. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Phoenix_Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Phoenix Incident</span><span class="citation-popover-snippet">The Phoenix IncidentPresented as a documentary found footage film based on real events, it is set in the present day and focuses upon...</span></span></span>
+In UFO investigation terms, this is stronger than a simple resemblance argument. There was a known military activity, in a known training area, at the relevant time, producing exactly the type of light source capable of creating the observed visual effect.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Phoenix_Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Phoenix Incident</span><span class="citation-popover-snippet">The Phoenix IncidentPresented as a documentary found footage film based on real events, it is set in the present day and focuses upon...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_military_flares_abb62f_phoenix_lights_flare_64bee0-Illustration-2-dark.svg" | relative_url }}" alt="Phoenix Lights illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_military_flares_abb62f_phoenix_lights_flare_64bee0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_military_flares_abb62f_phoenix_lights_flare_64bee0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why earlier reports remain separate
 
 The principal dispute is not over whether flares were dropped. It is over whether the flare explanation can account for the entire Phoenix Lights case.
 
-Many witnesses reported unusual lights much earlier in the evening, beginning around 8 p.m. and extending across a large portion of Arizona. These reports described a moving V-shaped or triangular formation travelling across the state. The sightings stretched over hundreds of kilometres and occurred well before the widely filmed 10 p.m. light display. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Phoenix_Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Phoenix Incident</span><span class="citation-popover-snippet">The Phoenix IncidentPresented as a documentary found footage film based on real events, it is set in the present day and focuses upon...</span></span></span>
+Many witnesses reported unusual lights much earlier in the evening, beginning around 8 p.m. and extending across a large portion of Arizona. These reports described a moving V-shaped or triangular formation travelling across the state. The sightings stretched over hundreds of kilometres and occurred well before the widely filmed 10 p.m. light display.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Phoenix_Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Phoenix Incident</span><span class="citation-popover-snippet">The Phoenix IncidentPresented as a documentary found footage film based on real events, it is set in the present day and focuses upon...</span></span></span>
 
-This distinction is crucial because the most famous video footage comes from the later stationary lights, whereas many of the most dramatic witness accounts concern the earlier moving formation. Even sources that support the flare explanation commonly acknowledge that two separate observation periods occurred that night. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Phoenix_Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Phoenix Incident</span><span class="citation-popover-snippet">The Phoenix IncidentPresented as a documentary found footage film based on real events, it is set in the present day and focuses upon...</span></span></span>
+This distinction is crucial because the most famous video footage comes from the later stationary lights, whereas many of the most dramatic witness accounts concern the earlier moving formation. Even sources that support the flare explanation commonly acknowledge that two separate observation periods occurred that night.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Phoenix_Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Phoenix Incident</span><span class="citation-popover-snippet">The Phoenix IncidentPresented as a documentary found footage film based on real events, it is set in the present day and focuses upon...</span></span></span>
 
-Researchers who favour conventional explanations have proposed that the earlier reports involved aircraft flying in formation, including A-10 aircraft associated with Operation Snowbird. Some observers, including an amateur astronomer who viewed the lights through a telescope, reported seeing individual aircraft rather than a single giant object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Phoenix_Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Phoenix Incident</span><span class="citation-popover-snippet">The Phoenix IncidentPresented as a documentary found footage film based on real events, it is set in the present day and focuses upon...</span></span></span>
+Researchers who favour conventional explanations have proposed that the earlier reports involved aircraft flying in formation, including A-10 aircraft associated with Operation Snowbird. Some observers, including an amateur astronomer who viewed the lights through a telescope, reported seeing individual aircraft rather than a single giant object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Phoenix_Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Phoenix Incident</span><span class="citation-popover-snippet">The Phoenix IncidentPresented as a documentary found footage film based on real events, it is set in the present day and focuses upon...</span></span></span>
 
 However, critics of a complete aircraft explanation point to several unresolved issues:
 
 * Numerous witnesses reported perceiving a single enormous structure rather than separate lights.
 * The reported path covered a large region of Arizona, creating difficulties for any simple one-location explanation.
 * The timing of the earlier sightings does not match the later flare releases.
-* Some witness testimony describes motion and apparent overhead passage that differs from the stationary flare display. Unsolved Mysteries <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kgun9.com/news/state/man-behind-famous-phoenix-lights-footage-still-mystified-25-years-later" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kgun9.com">[2KGUN 9 Tucson News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kgun9.com</span><span class="citation-popover-snippet">KGUN 9 Tucson NewsMan behind famous &#x27;Phoenix Lights&#x27; footage still mystified...18 Dec 2022 — Krzyston says before, he&#x27;d seen floating l...</span></span></span>
+* Some witness testimony describes motion and apparent overhead passage that differs from the stationary flare display. Unsolved Mysteries<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kgun9.com/news/state/man-behind-famous-phoenix-lights-footage-still-mystified-25-years-later" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kgun9.com">[2KGUN 9 Tucson News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kgun9.com</span><span class="citation-popover-snippet">KGUN 9 Tucson NewsMan behind famous &#x27;Phoenix Lights&#x27; footage still mystified...18 Dec 2022 — Krzyston says before, he&#x27;d seen floating l...</span></span></span>
 
-Whether these reports reflect aircraft, perceptual effects, memory reconstruction, multiple unrelated observations or something genuinely unidentified remains debated. What is generally accepted is that the earlier reports and the later flare display should not automatically be treated as the same event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Phoenix_Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Phoenix Incident</span><span class="citation-popover-snippet">The Phoenix IncidentPresented as a documentary found footage film based on real events, it is set in the present day and focuses upon...</span></span></span>
+Whether these reports reflect aircraft, perceptual effects, memory reconstruction, multiple unrelated observations or something genuinely unidentified remains debated. What is generally accepted is that the earlier reports and the later flare display should not automatically be treated as the same event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Phoenix_Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Phoenix Incident</span><span class="citation-popover-snippet">The Phoenix IncidentPresented as a documentary found footage film based on real events, it is set in the present day and focuses upon...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KKDy1QfBlxs" title="The Phoenix Lights: 28 years later, the mystery endures" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KKDy1QfBlxs" target="_blank" rel="noopener noreferrer">The Phoenix Lights: 28 years later, the mystery endures</a></p><p class="youtube-embed-meta">Channel: ABC15 Arizona &middot; Views: 48.5K &middot; Uploaded: March 2025 &middot; Length: 2 minutes 37 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KKDy1QfBlxs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KKDy1QfBlxs">Open on YouTube</a></p></div></div></div>
 
@@ -334,201 +334,201 @@ Whether these reports reflect aircraft, perceptual effects, memory reconstructio
 
 ## What the Phoenix Lights show about flare explanations
 
-The Phoenix Lights illustrate both the strengths and limits of flare-based explanations for UFO reports. The later Phoenix display is one of the best-documented cases in which military illumination flares match witness descriptions, video evidence, location data and known military activity. The case demonstrates how bright flares viewed at long range can appear to hover, maintain formation and vanish mysteriously. <span class="citation-chip-wrap"><a class="citation-chip" href="https://stampaday.wordpress.com/2019/03/13/the-phoenix-lights/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stampaday.wordpress.com">[2A Stamp A Day]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stampaday.wordpress.com</span><span class="citation-popover-title">A Stamp A Day The Phoenix Lights</span><span class="citation-popover-snippet">A Stamp A DayThe Phoenix Lights - A Stamp A Day13 Mar 2019 — The U.S. Air Force explained the second event as slow-falling, long-burning...</span></span></span>
+The Phoenix Lights illustrate both the strengths and limits of flare-based explanations for UFO reports. The later Phoenix display is one of the best-documented cases in which military illumination flares match witness descriptions, video evidence, location data and known military activity. The case demonstrates how bright flares viewed at long range can appear to hover, maintain formation and vanish mysteriously.<span class="citation-chip-wrap"><a class="citation-chip" href="https://stampaday.wordpress.com/2019/03/13/the-phoenix-lights/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stampaday.wordpress.com">[2A Stamp A Day]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stampaday.wordpress.com</span><span class="citation-popover-title">A Stamp A Day The Phoenix Lights</span><span class="citation-popover-snippet">A Stamp A DayThe Phoenix Lights - A Stamp A Day13 Mar 2019 — The U.S. Air Force explained the second event as slow-falling, long-burning...</span></span></span>
 
-At the same time, the broader Phoenix Lights record warns against treating every witness report from a famous event as a single phenomenon. The strongest evidence for flares concerns the later stationary lights near Phoenix. The earlier moving reports remain a separate evidential question. As a result, the Phoenix Lights are frequently cited both by advocates of conventional explanations and by those who argue that at least part of the 1997 witness record has not been fully accounted for. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.phoenixnewtimes.com/uncategorized/phoenix-lights-ufo-mystery-explanations-19105870/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phoenixnewtimes.com">[Phoenix New Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phoenixnewtimes.com</span><span class="citation-popover-title">phoenix lights ufo mystery explanations 19105870</span><span class="citation-popover-snippet">The first sighting happened between 7:55 and 8:40 p.m. and the second between 9:15...Read more...</span></span></span>
+At the same time, the broader Phoenix Lights record warns against treating every witness report from a famous event as a single phenomenon. The strongest evidence for flares concerns the later stationary lights near Phoenix. The earlier moving reports remain a separate evidential question. As a result, the Phoenix Lights are frequently cited both by advocates of conventional explanations and by those who argue that at least part of the 1997 witness record has not been fully accounted for.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.phoenixnewtimes.com/uncategorized/phoenix-lights-ufo-mystery-explanations-19105870/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phoenixnewtimes.com">[Phoenix New Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phoenixnewtimes.com</span><span class="citation-popover-title">phoenix lights ufo mystery explanations 19105870</span><span class="citation-popover-snippet">The first sighting happened between 7:55 and 8:40 p.m. and the second between 9:15...Read more...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_military_flares_abb62f_phoenix_lights_flare_64bee0-Illustration-3-dark.svg" | relative_url }}" alt="Phoenix Lights illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_military_flares_abb62f_phoenix_lights_flare_64bee0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_military_flares_abb62f_phoenix_lights_flare_64bee0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What flares explain in Phoenix. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What flares explain in Phoenix. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Phoenix+Lights+by+Lynne+D+Kitei+M+D&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Phoenix Lights on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h4lkAQAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Phoenix Lights" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Phoenix+Lights+by+Lynne+D+Kitei+M+D&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Phoenix Lights">The Phoenix Lights</a>
-        </h4>
-        <p class="fr-book-author">By Lynne D Kitei M D</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Phoenix+Lights+by+Lynne+D+Kitei+M+D&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Phoenix Lights on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h4lkAQAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Phoenix Lights" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Phoenix+Lights+by+Lynne+D+Kitei+M+D&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Phoenix Lights">The Phoenix Lights</a>
+</h4>
+<p class="fr-book-author">By Lynne D Kitei M D</p>
         
-        <p class="fr-book-desc">Directly focused on the event discussed on the page.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Phoenix+Lights+by+Lynne+D+Kitei+M+D&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly focused on the event discussed on the page.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Phoenix+Lights+by+Lynne+D+Kitei+M+D&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ATZGAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Handbook">The UFO Handbook</a>
-        </h4>
-        <p class="fr-book-author">By Allan Hendry</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ATZGAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Handbook">The UFO Handbook</a>
+</h4>
+<p class="fr-book-author">By Allan Hendry</p>
         
-        <p class="fr-book-desc">Provides tools for evaluating flare explanations and witness reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides tools for evaluating flare explanations and witness reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Places major UFO incidents into a broader investigative framework.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places major UFO incidents into a broader investigative framework.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Explains official approaches to evaluating unusual aerial reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains official approaches to evaluating unusual aerial reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Phoenix+Lights&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Phoenix Lights</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Phoenix+Lights&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Phoenix Lights</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phoenix+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-flares-explain-in-phoenix-phoenix-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phoenix lights poster" data-ebay-reference="what-flares-explain-in-phoenix-phoenix-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Phoenix Arizona Neon Lights - Souve Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/flsAAeSwzRxp2SCz/s-l225.jpg" alt="Listing image for Phoenix Arizona Neon Lights - Souve Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phoenix+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-flares-explain-in-phoenix-phoenix-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phoenix lights poster" data-ebay-reference="what-flares-explain-in-phoenix-phoenix-lights-poster" target="_blank" rel="sponsored noopener noreferrer">Phoenix Arizona Neon Lights - Souve Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phoenix+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-flares-explain-in-phoenix-phoenix-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phoenix lights poster" data-ebay-reference="what-flares-explain-in-phoenix-phoenix-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phoenix lights poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: phoenix lights poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phoenix+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-flares-explain-in-phoenix-phoenix-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phoenix lights poster" data-ebay-reference="what-flares-explain-in-phoenix-phoenix-lights-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phoenix+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-flares-explain-in-phoenix-phoenix-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phoenix lights poster" data-ebay-reference="what-flares-explain-in-phoenix-phoenix-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Phoenix Arizona Neon Lights - Souve Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/flsAAeSwzRxp2SCz/s-l225.jpg" alt="Listing image for Phoenix Arizona Neon Lights - Souve Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=phoenix+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-flares-explain-in-phoenix-phoenix-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phoenix lights poster" data-ebay-reference="what-flares-explain-in-phoenix-phoenix-lights-poster" target="_blank" rel="sponsored noopener noreferrer">Phoenix Arizona Neon Lights - Souve Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phoenix+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-flares-explain-in-phoenix-phoenix-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phoenix lights poster" data-ebay-reference="what-flares-explain-in-phoenix-phoenix-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phoenix lights poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: phoenix lights poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=phoenix+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-flares-explain-in-phoenix-phoenix-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phoenix lights poster" data-ebay-reference="what-flares-explain-in-phoenix-phoenix-lights-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phoenix+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-flares-explain-in-phoenix-phoenix-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phoenix lights poster" data-ebay-reference="what-flares-explain-in-phoenix-phoenix-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Phoenix Light City Map Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/hxMAAeSwOotpXBnM/s-l225.jpg" alt="Listing image for Phoenix Light City Map Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phoenix+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-flares-explain-in-phoenix-phoenix-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phoenix lights poster" data-ebay-reference="what-flares-explain-in-phoenix-phoenix-lights-poster" target="_blank" rel="sponsored noopener noreferrer">Phoenix Light City Map Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phoenix+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-flares-explain-in-phoenix-phoenix-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phoenix lights poster" data-ebay-reference="what-flares-explain-in-phoenix-phoenix-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phoenix lights poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: phoenix lights poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phoenix+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-flares-explain-in-phoenix-phoenix-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phoenix lights poster" data-ebay-reference="what-flares-explain-in-phoenix-phoenix-lights-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phoenix+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-flares-explain-in-phoenix-phoenix-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phoenix lights poster" data-ebay-reference="what-flares-explain-in-phoenix-phoenix-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Phoenix Light City Map Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/hxMAAeSwOotpXBnM/s-l225.jpg" alt="Listing image for Phoenix Light City Map Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=phoenix+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-flares-explain-in-phoenix-phoenix-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phoenix lights poster" data-ebay-reference="what-flares-explain-in-phoenix-phoenix-lights-poster" target="_blank" rel="sponsored noopener noreferrer">Phoenix Light City Map Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phoenix+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-flares-explain-in-phoenix-phoenix-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phoenix lights poster" data-ebay-reference="what-flares-explain-in-phoenix-phoenix-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phoenix lights poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: phoenix lights poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=phoenix+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-flares-explain-in-phoenix-phoenix-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phoenix lights poster" data-ebay-reference="what-flares-explain-in-phoenix-phoenix-lights-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phoenix+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-flares-explain-in-phoenix-phoenix-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phoenix lights poster" data-ebay-reference="what-flares-explain-in-phoenix-phoenix-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ISODA KORYUSAI, PHOENIX WAVES AND MORNING -FRAMED WALL ART POSTER PRINT 4 SIZES"><img src="https://i.ebayimg.com/images/g/ik4AAOSwyC9kq~f5/s-l225.jpg" alt="Listing image for ISODA KORYUSAI, PHOENIX WAVES AND MORNING -FRAMED WALL ART POSTER PRINT 4 SIZES" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phoenix+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-flares-explain-in-phoenix-phoenix-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phoenix lights poster" data-ebay-reference="what-flares-explain-in-phoenix-phoenix-lights-poster" target="_blank" rel="sponsored noopener noreferrer">ISODA KORYUSAI, PHOENIX WAVES AND MORNING -FRAMED WALL ART POSTER PRINT 4 SIZES</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phoenix+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-flares-explain-in-phoenix-phoenix-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phoenix lights poster" data-ebay-reference="what-flares-explain-in-phoenix-phoenix-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phoenix lights poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: phoenix lights poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phoenix+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-flares-explain-in-phoenix-phoenix-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phoenix lights poster" data-ebay-reference="what-flares-explain-in-phoenix-phoenix-lights-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phoenix+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-flares-explain-in-phoenix-phoenix-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phoenix lights poster" data-ebay-reference="what-flares-explain-in-phoenix-phoenix-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ISODA KORYUSAI, PHOENIX WAVES AND MORNING -FRAMED WALL ART POSTER PRINT 4 SIZES"><img src="https://i.ebayimg.com/images/g/ik4AAOSwyC9kq~f5/s-l225.jpg" alt="Listing image for ISODA KORYUSAI, PHOENIX WAVES AND MORNING -FRAMED WALL ART POSTER PRINT 4 SIZES" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=phoenix+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-flares-explain-in-phoenix-phoenix-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phoenix lights poster" data-ebay-reference="what-flares-explain-in-phoenix-phoenix-lights-poster" target="_blank" rel="sponsored noopener noreferrer">ISODA KORYUSAI, PHOENIX WAVES AND MORNING -FRAMED WALL ART POSTER PRINT 4 SIZES</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phoenix+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-flares-explain-in-phoenix-phoenix-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phoenix lights poster" data-ebay-reference="what-flares-explain-in-phoenix-phoenix-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phoenix lights poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: phoenix lights poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=phoenix+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-flares-explain-in-phoenix-phoenix-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phoenix lights poster" data-ebay-reference="what-flares-explain-in-phoenix-phoenix-lights-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phoenix+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-flares-explain-in-phoenix-phoenix-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phoenix lights poster" data-ebay-reference="what-flares-explain-in-phoenix-phoenix-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Phoenix of Light - sculpted and pai Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/foMAAeSwvSpp1~YC/s-l225.jpg" alt="Listing image for Phoenix of Light - sculpted and pai Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phoenix+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-flares-explain-in-phoenix-phoenix-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phoenix lights poster" data-ebay-reference="what-flares-explain-in-phoenix-phoenix-lights-poster" target="_blank" rel="sponsored noopener noreferrer">Phoenix of Light - sculpted and pai Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phoenix+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-flares-explain-in-phoenix-phoenix-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phoenix lights poster" data-ebay-reference="what-flares-explain-in-phoenix-phoenix-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phoenix lights poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: phoenix lights poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phoenix+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-flares-explain-in-phoenix-phoenix-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phoenix lights poster" data-ebay-reference="what-flares-explain-in-phoenix-phoenix-lights-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=phoenix+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-flares-explain-in-phoenix-phoenix-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phoenix lights poster" data-ebay-reference="what-flares-explain-in-phoenix-phoenix-lights-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phoenix+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-flares-explain-in-phoenix-phoenix-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phoenix lights poster" data-ebay-reference="what-flares-explain-in-phoenix-phoenix-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Phoenix of Light - sculpted and pai Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/foMAAeSwvSpp1~YC/s-l225.jpg" alt="Listing image for Phoenix of Light - sculpted and pai Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=phoenix+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-flares-explain-in-phoenix-phoenix-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phoenix lights poster" data-ebay-reference="what-flares-explain-in-phoenix-phoenix-lights-poster" target="_blank" rel="sponsored noopener noreferrer">Phoenix of Light - sculpted and pai Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phoenix+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-flares-explain-in-phoenix-phoenix-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phoenix lights poster" data-ebay-reference="what-flares-explain-in-phoenix-phoenix-lights-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phoenix lights poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: phoenix lights poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=phoenix+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-flares-explain-in-phoenix-phoenix-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phoenix lights poster" data-ebay-reference="what-flares-explain-in-phoenix-phoenix-lights-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=phoenix+lights+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-flares-explain-in-phoenix-phoenix-lights-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phoenix lights poster" data-ebay-reference="what-flares-explain-in-phoenix-phoenix-lights-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -544,7 +544,7 @@ At the same time, the broader Phoenix Lights record warns against treating every
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -564,7 +564,7 @@ At the same time, the broader Phoenix Lights record warns against treating every
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -596,7 +596,7 @@ At the same time, the broader Phoenix Lights record warns against treating every
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -648,7 +648,7 @@ At the same time, the broader Phoenix Lights record warns against treating every
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -693,7 +693,7 @@ At the same time, the broader Phoenix Lights record warns against treating every
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -734,120 +734,120 @@ At the same time, the broader Phoenix Lights record warns against treating every
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Phoenix Lights  
-   Link: <a href="https://en.wikipedia.org/wiki/Phoenix_Lights" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Phoenix_Lights</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Phoenix_Lights" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Phoenix_Lights</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: unsolved.com  
-   Link: <a href="https://unsolved.com/gallery/phoenix-mystery-lights/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/phoenix-mystery-lights/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved MysteriesPhoenix Mystery LightsThe military said the flares were dropped between 9:00 and 10:00 PM. However, the most impressive...</p></details>
+   Link:<a href="https://unsolved.com/gallery/phoenix-mystery-lights/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/phoenix-mystery-lights/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved MysteriesPhoenix Mystery LightsThe military said the flares were dropped between 9:00 and 10:00 PM. However, the most impressive...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: kgun9.com  
-   Link: <a href="https://www.kgun9.com/news/state/man-behind-famous-phoenix-lights-footage-still-mystified-25-years-later" target="_blank" rel="noopener noreferrer nofollow">https://www.kgun9.com/news/state/man-behind-famous-phoenix-lights-footage-still-mystified-25-years-later</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>KGUN 9 Tucson NewsMan behind famous &#x27;Phoenix Lights&#x27; footage still mystified...18 Dec 2022 — Krzyston says before, he&#x27;d seen floating l...</p></details>
+   Link:<a href="https://www.kgun9.com/news/state/man-behind-famous-phoenix-lights-footage-still-mystified-25-years-later" target="_blank" rel="noopener noreferrer nofollow">https://www.kgun9.com/news/state/man-behind-famous-phoenix-lights-footage-still-mystified-25-years-later</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>KGUN 9 Tucson NewsMan behind famous &#x27;Phoenix Lights&#x27; footage still mystified...18 Dec 2022 — Krzyston says before, he&#x27;d seen floating l...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: The Phoenix Incident  
-   Link: <a href="https://en.wikipedia.org/wiki/The_Phoenix_Incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Phoenix_Incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Phoenix IncidentPresented as a documentary found footage film based on real events, it is set in the present day and focuses upon...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/The_Phoenix_Incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Phoenix_Incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Phoenix IncidentPresented as a documentary found footage film based on real events, it is set in the present day and focuses upon...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
    Title: Phoenix Lights Explained & Debunked  
-   Link: <a href="https://www.youtube.com/watch?v=TD6MYZcucQA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TD6MYZcucQA</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Phoenix Lights - The Dark Truth?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=TD6MYZcucQA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TD6MYZcucQA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Phoenix Lights - The Dark Truth?...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
    Title: Phoenix Lights  
-   Link: <a href="https://www.youtube.com/watch?v=N1fW1l1sh-A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=N1fW1l1sh-A</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>witness describes what she saw...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=N1fW1l1sh-A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=N1fW1l1sh-A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>witness describes what she saw...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: phoenixnewtimes.com  
    Title: phoenix lights ufo mystery explanations 19105870  
-   Link: <a href="https://www.phoenixnewtimes.com/uncategorized/phoenix-lights-ufo-mystery-explanations-19105870/" target="_blank" rel="noopener noreferrer nofollow">https://www.phoenixnewtimes.com/uncategorized/phoenix-lights-ufo-mystery-explanations-19105870/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The first sighting happened between 7:55 and 8:40 p.m. and the second between 9:15...Read more...</p></details>
+   Link:<a href="https://www.phoenixnewtimes.com/uncategorized/phoenix-lights-ufo-mystery-explanations-19105870/" target="_blank" rel="noopener noreferrer nofollow">https://www.phoenixnewtimes.com/uncategorized/phoenix-lights-ufo-mystery-explanations-19105870/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The first sighting happened between 7:55 and 8:40 p.m. and the second between 9:15...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: stampaday.wordpress.com  
    Title: A Stamp A Day The Phoenix Lights  
-   Link: <a href="https://stampaday.wordpress.com/2019/03/13/the-phoenix-lights/" target="_blank" rel="noopener noreferrer nofollow">https://stampaday.wordpress.com/2019/03/13/the-phoenix-lights/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Stamp A DayThe Phoenix Lights - A Stamp A Day13 Mar 2019 — The U.S. Air Force explained the second event as slow-falling, long-burning...</p></details>
+   Link:<a href="https://stampaday.wordpress.com/2019/03/13/the-phoenix-lights/" target="_blank" rel="noopener noreferrer nofollow">https://stampaday.wordpress.com/2019/03/13/the-phoenix-lights/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Stamp A DayThe Phoenix Lights - A Stamp A Day13 Mar 2019 — The U.S. Air Force explained the second event as slow-falling, long-burning...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: thisunexplaineduniverse.com  
    Title: phoenix lights  
-   Link: <a href="https://www.thisunexplaineduniverse.com/articles/phoenix-lights" target="_blank" rel="noopener noreferrer nofollow">https://www.thisunexplaineduniverse.com/articles/phoenix-lights</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>event, leaves the earlier V-formation sighting completely unaddressed. And even...Read more...</p></details>
+   Link:<a href="https://www.thisunexplaineduniverse.com/articles/phoenix-lights" target="_blank" rel="noopener noreferrer nofollow">https://www.thisunexplaineduniverse.com/articles/phoenix-lights</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>event, leaves the earlier V-formation sighting completely unaddressed. And even...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
    Title: Phoenix lights  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/1nh9psn/phoenix_lights_1997/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1nh9psn/phoenix_lights_1997/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1997: r/aliensThe original sighting was supposedly earlier in the evening, and the story goes that the military dropped a sequence of fl...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/1nh9psn/phoenix_lights_1997/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1nh9psn/phoenix_lights_1997/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1997: r/aliensThe original sighting was supposedly earlier in the evening, and the story goes that the military dropped a sequence of fl...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: planeandpilotmag.com  
    Title: the phoenix lights  
-   Link: <a href="https://planeandpilotmag.com/the-phoenix-lights/" target="_blank" rel="noopener noreferrer nofollow">https://planeandpilotmag.com/the-phoenix-lights/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>20 Sept 2022 — The most popular and intriguing explanation to emerge is that the lights were emitted by extraterrestrial spacecraft.Read...</p></details>
+   Link:<a href="https://planeandpilotmag.com/the-phoenix-lights/" target="_blank" rel="noopener noreferrer nofollow">https://planeandpilotmag.com/the-phoenix-lights/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>20 Sept 2022 — The most popular and intriguing explanation to emerge is that the lights were emitted by extraterrestrial spacecraft.Read...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/dzrimg/is_there_any_video_of_the_original_phoenix_lights/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/dzrimg/is_there_any_video_of_the_original_phoenix_lights/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Is there any video of the original Phoenix Lights incident?Flares were dropped for the 10:00 News. A giant chevron shaped craft was...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/dzrimg/is_there_any_video_of_the_original_phoenix_lights/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/dzrimg/is_there_any_video_of_the_original_phoenix_lights/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is there any video of the original Phoenix Lights incident?Flares were dropped for the 10:00 News. A giant chevron shaped craft was...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/skeptic/comments/xuhht4/need_help_finding_video_that_explains_phoenix/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skeptic/comments/xuhht4/need_help_finding_video_that_explains_phoenix/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Need help finding video that explains Phoenix LightsHere is the video explaining how the Phoenix Lights were actually flares dropping beh...</p></details>
+   Link:<a href="https://www.reddit.com/r/skeptic/comments/xuhht4/need_help_finding_video_that_explains_phoenix/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skeptic/comments/xuhht4/need_help_finding_video_that_explains_phoenix/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Need help finding video that explains Phoenix LightsHere is the video explaining how the Phoenix Lights were actually flares dropping beh...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/189wk23/what_is_the_general_opinion_on_the_phoenix_lights/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/189wk23/what_is_the_general_opinion_on_the_phoenix_lights/</a>  
+   Link:<a href="https://www.reddit.com/r/aliens/comments/189wk23/what_is_the_general_opinion_on_the_phoenix_lights/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/189wk23/what_is_the_general_opinion_on_the_phoenix_lights/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40levi_27264/the-phoenix-lights-debunking-the-debunkers-f9a2d1932cd" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40levi_27264/the-phoenix-lights-debunking-the-debunkers-f9a2d1932cd</a>  
+   Link:<a href="https://medium.com/%40levi_27264/the-phoenix-lights-debunking-the-debunkers-f9a2d1932cd" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40levi_27264/the-phoenix-lights-debunking-the-debunkers-f9a2d1932cd</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=EOkXUvS3iX0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EOkXUvS3iX0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>19 years later and The Phoenix Lights mystery goes onIt comes around this time of year; Phoenix residents start talking about the Phoenix...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=EOkXUvS3iX0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EOkXUvS3iX0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>19 years later and The Phoenix Lights mystery goes onIt comes around this time of year; Phoenix residents start talking about the Phoenix...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1prwx2y/the_most_comprehensive_video_of_the_phoenix/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1prwx2y/the_most_comprehensive_video_of_the_phoenix/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>I know some people have reported seven, but they are either mistaken, misremembering, lying...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1prwx2y/the_most_comprehensive_video_of_the_phoenix/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1prwx2y/the_most_comprehensive_video_of_the_phoenix/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I know some people have reported seven, but they are either mistaken, misremembering, lying...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=KKDy1QfBlxs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KKDy1QfBlxs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Phoenix Lights: 28 years later, the mystery enduresOn the night of March 13, 1997, thousands of Arizonans looked up and saw something...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=KKDy1QfBlxs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KKDy1QfBlxs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Phoenix Lights: 28 years later, the mystery enduresOn the night of March 13, 1997, thousands of Arizonans looked up and saw something...</p></details>
    Published: March 13, 1997  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: discoveryuk.com  
    Title: the phoenix lights phenomenon an unsolved ufo mystery  
-   Link: <a href="https://www.discoveryuk.com/mysteries/the-phoenix-lights-phenomenon-an-unsolved-ufo-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/the-phoenix-lights-phenomenon-an-unsolved-ufo-mystery/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Phoenix Lights Phenomenon: An Unsolved UFO Mystery14 May 2024 — Some are convinced the lights over Phoenix in 1997 were UFOs, or UAPs...</p></details>
+   Link:<a href="https://www.discoveryuk.com/mysteries/the-phoenix-lights-phenomenon-an-unsolved-ufo-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/the-phoenix-lights-phenomenon-an-unsolved-ufo-mystery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Phoenix Lights Phenomenon: An Unsolved UFO Mystery14 May 2024 — Some are convinced the lights over Phoenix in 1997 were UFOs, or UAPs...</p></details>
    Published: May 2024  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: lasvegassun.com  
    Title: military now says flares may be cause of mysteriou  
-   Link: <a href="https://lasvegassun.com/news/1997/jul/25/military-now-says-flares-may-be-cause-of-mysteriou/" target="_blank" rel="noopener noreferrer nofollow">https://lasvegassun.com/news/1997/jul/25/military-now-says-flares-may-be-cause-of-mysteriou/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>s...25 Jul 1997 — It turns out visiting jets from the Maryland Air National Guard were using high-intensity flares over a bombing range...</p></details>
+   Link:<a href="https://lasvegassun.com/news/1997/jul/25/military-now-says-flares-may-be-cause-of-mysteriou/" target="_blank" rel="noopener noreferrer nofollow">https://lasvegassun.com/news/1997/jul/25/military-now-says-flares-may-be-cause-of-mysteriou/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>s...25 Jul 1997 — It turns out visiting jets from the Maryland Air National Guard were using high-intensity flares over a bombing range...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: deseret.com  
    Title: flares not ufos caused light show military says  
-   Link: <a href="https://www.deseret.com/1997/7/26/19325702/flares-not-ufos-caused-light-show-military-says/" target="_blank" rel="noopener noreferrer nofollow">https://www.deseret.com/1997/7/26/19325702/flares-not-ufos-caused-light-show-military-says/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Deseret NewsFlares, not UFOs, caused light show, military says26 Jul 1997 — Visiting jets from the Maryland Air National Guard were using...</p></details>
+   Link:<a href="https://www.deseret.com/1997/7/26/19325702/flares-not-ufos-caused-light-show-military-says/" target="_blank" rel="noopener noreferrer nofollow">https://www.deseret.com/1997/7/26/19325702/flares-not-ufos-caused-light-show-military-says/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Deseret NewsFlares, not UFOs, caused light show, military says26 Jul 1997 — Visiting jets from the Maryland Air National Guard were using...</p></details>

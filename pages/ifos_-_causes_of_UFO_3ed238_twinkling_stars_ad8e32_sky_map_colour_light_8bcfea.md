@@ -274,7 +274,7 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32_sky_map
 
 ## Introduction
 
-Many reports of colour-changing or flashing lights can be checked against the known sky before any more exotic explanation is considered. A sky-map reconstruction uses the exact date, time, location and viewing direction from a sighting report to determine whether a bright star or planet occupied the same position. Because stars and planets follow predictable paths, a surprisingly large number of reports can be tested after the fact if enough observational details were recorded. Modern planetarium software and online [sky maps]({{ 'sky-maps/' | relative_url }}) can recreate the sky for almost any place and time, allowing investigators to compare a witness's description with known celestial objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://stellarium-web.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stellarium-web.org">[Stellarium Web]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stellarium-web.org</span><span class="citation-popover-snippet">Stellarium WebStellarium Web Online Star MapStellarium Web is a planetarium running in your web browser. It shows a realistic star map, j...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://stellarium.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stellarium.org">[stellarium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stellarium.org</span><span class="citation-popover-snippet">Stellarium Astronomy SoftwareStellarium is a planetarium software that shows exactly what you see when you look up at the stars...</span></span></span> For reports involving twinkling, colour changes or apparently stationary lights, this approach is especially valuable. A flashing light that seems unusual in memory may match the position of a bright star such as [Sirius]({{ 'sirius/' | relative_url }}) or a bright planet viewed low above the horizon. The strength of the check depends largely on the quality of the original observation record.
+Many reports of colour-changing or flashing lights can be checked against the known sky before any more exotic explanation is considered. A sky-map reconstruction uses the exact date, time, location and viewing direction from a sighting report to determine whether a bright star or planet occupied the same position. Because stars and planets follow predictable paths, a surprisingly large number of reports can be tested after the fact if enough observational details were recorded. Modern planetarium software and online [sky maps]({{ 'sky-maps/' | relative_url }}) can recreate the sky for almost any place and time, allowing investigators to compare a witness's description with known celestial objects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://stellarium-web.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stellarium-web.org">[Stellarium Web]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stellarium-web.org</span><span class="citation-popover-snippet">Stellarium WebStellarium Web Online Star MapStellarium Web is a planetarium running in your web browser. It shows a realistic star map, j...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://stellarium.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stellarium.org">[stellarium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stellarium.org</span><span class="citation-popover-snippet">Stellarium Astronomy SoftwareStellarium is a planetarium software that shows exactly what you see when you look up at the stars...</span></span></span> For reports involving twinkling, colour changes or apparently stationary lights, this approach is especially valuable. A flashing light that seems unusual in memory may match the position of a bright star such as [Sirius]({{ 'sirius/' | relative_url }}) or a bright planet viewed low above the horizon. The strength of the check depends largely on the quality of the original observation record.
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32_sky_map_colour_light_8bcfea-Illustration-1-dark.svg" | relative_url }}" alt="Sky Checks illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32_sky_map_colour_light_8bcfea-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32_sky_map_colour_light_8bcfea-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The Details a Sighting Report Needs
@@ -293,9 +293,9 @@ A sky-map check is only as good as the information supplied. The most useful rep
 
 </div>
 
-Time matters because the sky changes continuously. [Stars]({{ 'stars/' | relative_url }}) rise and set, planets move relative to the stars, and even a difference of fifteen or twenty minutes can shift a celestial object's apparent position noticeably. Sky-chart and planetarium systems allow investigators to recreate the sky for a specific location and moment, making precise timing far more valuable than a rough estimate. Sky & Telescope <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/advice/skills/stellarium-astronomy-planetarium-software-how-to-use" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-title">stellarium astronomy planetarium software how to use</span><span class="citation-popover-snippet">How to install and use Stellarium astronomy software17 Jul 2020 — In general use, if you want to display the sky for a specific date and...</span></span></span>
+Time matters because the sky changes continuously. [Stars]({{ 'stars/' | relative_url }}) rise and set, planets move relative to the stars, and even a difference of fifteen or twenty minutes can shift a celestial object's apparent position noticeably. Sky-chart and planetarium systems allow investigators to recreate the sky for a specific location and moment, making precise timing far more valuable than a rough estimate. Sky & Telescope<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/advice/skills/stellarium-astronomy-planetarium-software-how-to-use" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-title">stellarium astronomy planetarium software how to use</span><span class="citation-popover-snippet">How to install and use Stellarium astronomy software17 Jul 2020 — In general use, if you want to display the sky for a specific date and...</span></span></span>
 
-Location is equally important. The sky seen from southern England is not identical to the sky seen from northern Scotland or southern Spain at the same moment. Modern planetarium software calculates positions from the observer's coordinates and can show which stars, planets and other [bright objects]({{ 'bright-objects/' | relative_url }}) were visible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://stellarium.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stellarium.org">[Stellarium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stellarium.org</span><span class="citation-popover-snippet">Stellarium Astronomy SoftwareStellarium is a planetarium software that shows exactly what you see when you look up at the stars...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://vo-for-education.oats.inaf.it/use_cases/en_cosadie_19_stellarium.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vo-for-education.oats.inaf.it">[EuroVO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vo-for-education.oats.inaf.it</span><span class="citation-popover-snippet">FOR BEGINNERSStellarium is a free software that transforms your home computer in a planetarium. It calculates the positions of the Sun an...</span></span></span>
+Location is equally important. The sky seen from southern England is not identical to the sky seen from northern Scotland or southern Spain at the same moment. Modern planetarium software calculates positions from the observer's coordinates and can show which stars, planets and other [bright objects]({{ 'bright-objects/' | relative_url }}) were visible.<span class="citation-chip-wrap"><a class="citation-chip" href="https://stellarium.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stellarium.org">[Stellarium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stellarium.org</span><span class="citation-popover-snippet">Stellarium Astronomy SoftwareStellarium is a planetarium software that shows exactly what you see when you look up at the stars...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://vo-for-education.oats.inaf.it/use_cases/en_cosadie_19_stellarium.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vo-for-education.oats.inaf.it">[EuroVO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vo-for-education.oats.inaf.it</span><span class="citation-popover-snippet">FOR BEGINNERSStellarium is a free software that transforms your home computer in a planetarium. It calculates the positions of the Sun an...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5ddQDw-COX4" title="Stellarium with Sky Surveys: Astrophotography Game-Changer!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5ddQDw-COX4" target="_blank" rel="noopener noreferrer">Stellarium with Sky Surveys: Astrophotography Game-Changer!</a></p><p class="youtube-embed-meta">Channel: Frosth Astrophotography &middot; Views: 12.8K &middot; Uploaded: December 2025 &middot; Length: 36 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5ddQDw-COX4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5ddQDw-COX4">Open on YouTube</a></p></div></div></div>
 
@@ -303,7 +303,7 @@ Location is equally important. The sky seen from southern England is not identic
 
 The most useful directional information is a combination of bearing and altitude.
 
-Bearing, often called azimuth in astronomy, is the compass direction of the light. Altitude is the angle above the horizon. Together they describe a position in the observer's sky. The altitude-azimuth system is the standard method for locating visible objects relative to an observer's position. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.open.edu/openlearn/mod/oucontent/view.php?id=114762&amp;section=3.2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: open.edu">[The Open University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">open.edu</span><span class="citation-popover-snippet">The Open University3.2 The Altitude-Azimuth systemThe Alt-Azimuth system of coordinates specifies the position of an object in terms of t...</span></span></span>
+Bearing, often called azimuth in astronomy, is the compass direction of the light. Altitude is the angle above the horizon. Together they describe a position in the observer's sky. The altitude-azimuth system is the standard method for locating visible objects relative to an observer's position.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.open.edu/openlearn/mod/oucontent/view.php?id=114762&amp;section=3.2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: open.edu">[The Open University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">open.edu</span><span class="citation-popover-snippet">The Open University3.2 The Altitude-Azimuth systemThe Alt-Azimuth system of coordinates specifies the position of an object in terms of t...</span></span></span>
 
 In practice, witnesses rarely provide precise measurements. Instead, they might say:
 
@@ -330,12 +330,12 @@ However, investigators should avoid overclaiming. Human estimates of direction a
 
 </div>
 
-When multiple elements align, the probability of a mistaken astronomical identification rises substantially. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.adlerplanetarium.org/blog/how-to-identify-planets/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adlerplanetarium.org">[Adler Planetarium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adlerplanetarium.org</span><span class="citation-popover-title">Adler Planetarium How To Identify Planets In The Night Sky</span><span class="citation-popover-snippet">Adler PlanetariumHow To Identify Planets In The Night SkyMarch 17, 2025 — 17 Mar 2025 — The easiest way to pick out visible planets is to...</span><span class="citation-popover-meta">Published: March 17, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.open.edu/openlearn/mod/oucontent/view.php?id=114762&amp;section=3.2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: open.edu">[The Open University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">open.edu</span><span class="citation-popover-snippet">The Open University3.2 The Altitude-Azimuth systemThe Alt-Azimuth system of coordinates specifies the position of an object in terms of t...</span></span></span>
+When multiple elements align, the probability of a mistaken astronomical identification rises substantially.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.adlerplanetarium.org/blog/how-to-identify-planets/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adlerplanetarium.org">[Adler Planetarium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adlerplanetarium.org</span><span class="citation-popover-title">Adler Planetarium How To Identify Planets In The Night Sky</span><span class="citation-popover-snippet">Adler PlanetariumHow To Identify Planets In The Night SkyMarch 17, 2025 — 17 Mar 2025 — The easiest way to pick out visible planets is to...</span><span class="citation-popover-meta">Published: March 17, 2025</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.open.edu/openlearn/mod/oucontent/view.php?id=114762&amp;section=3.2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: open.edu">[The Open University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">open.edu</span><span class="citation-popover-snippet">The Open University3.2 The Altitude-Azimuth systemThe Alt-Azimuth system of coordinates specifies the position of an object in terms of t...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32_sky_map_colour_light_8bcfea-Illustration-2-dark.svg" | relative_url }}" alt="Sky Checks illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32_sky_map_colour_light_8bcfea-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32_sky_map_colour_light_8bcfea-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Reconstructing the Sky Step by Step
 
-Modern tools make retrospective checks relatively straightforward. Programs such as Stellarium and similar interactive sky maps allow users to enter a location and historical date and then view the sky exactly as it would have appeared from that point. <span class="citation-chip-wrap"><a class="citation-chip" href="https://stellarium-web.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stellarium-web.org">[Stellarium Web]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stellarium-web.org</span><span class="citation-popover-snippet">Stellarium WebStellarium Web Online Star MapStellarium Web is a planetarium running in your web browser. It shows a realistic star map, j...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://stellarium.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stellarium.org">[stellarium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stellarium.org</span><span class="citation-popover-snippet">Stellarium Astronomy SoftwareStellarium is a planetarium software that shows exactly what you see when you look up at the stars...</span></span></span> A typical reconstruction involves:
+Modern tools make retrospective checks relatively straightforward. Programs such as Stellarium and similar interactive sky maps allow users to enter a location and historical date and then view the sky exactly as it would have appeared from that point.<span class="citation-chip-wrap"><a class="citation-chip" href="https://stellarium-web.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stellarium-web.org">[Stellarium Web]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stellarium-web.org</span><span class="citation-popover-snippet">Stellarium WebStellarium Web Online Star MapStellarium Web is a planetarium running in your web browser. It shows a realistic star map, j...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://stellarium.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stellarium.org">[stellarium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stellarium.org</span><span class="citation-popover-snippet">Stellarium Astronomy SoftwareStellarium is a planetarium software that shows exactly what you see when you look up at the stars...</span></span></span> A typical reconstruction involves:
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -347,7 +347,7 @@ Modern tools make retrospective checks relatively straightforward. Programs such
 
 </div>
 
-If the witness described intense colour flashing, special attention should be paid to bright objects near the horizon. Atmospheric effects are strongest there, making stars appear more colourful and unstable than they do higher in the sky. A reconstructed sky can show whether a known bright object occupied exactly that part of the horizon at the relevant time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.adlerplanetarium.org/blog/how-to-identify-planets/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adlerplanetarium.org">[Adler Planetarium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adlerplanetarium.org</span><span class="citation-popover-title">Adler Planetarium How To Identify Planets In The Night Sky</span><span class="citation-popover-snippet">Adler PlanetariumHow To Identify Planets In The Night SkyMarch 17, 2025 — 17 Mar 2025 — The easiest way to pick out visible planets is to...</span><span class="citation-popover-meta">Published: March 17, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://stellarium-web.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stellarium-web.org">[Stellarium Web]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stellarium-web.org</span><span class="citation-popover-snippet">Stellarium WebStellarium Web Online Star MapStellarium Web is a planetarium running in your web browser. It shows a realistic star map, j...</span></span></span>
+If the witness described intense colour flashing, special attention should be paid to bright objects near the horizon. Atmospheric effects are strongest there, making stars appear more colourful and unstable than they do higher in the sky. A reconstructed sky can show whether a known bright object occupied exactly that part of the horizon at the relevant time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.adlerplanetarium.org/blog/how-to-identify-planets/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adlerplanetarium.org">[Adler Planetarium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adlerplanetarium.org</span><span class="citation-popover-title">Adler Planetarium How To Identify Planets In The Night Sky</span><span class="citation-popover-snippet">Adler PlanetariumHow To Identify Planets In The Night SkyMarch 17, 2025 — 17 Mar 2025 — The easiest way to pick out visible planets is to...</span><span class="citation-popover-meta">Published: March 17, 2025</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://stellarium-web.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stellarium-web.org">[Stellarium Web]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stellarium-web.org</span><span class="citation-popover-snippet">Stellarium WebStellarium Web Online Star MapStellarium Web is a planetarium running in your web browser. It shows a realistic star map, j...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/x9cSpKieSkQ" title="Using Stellarium to Explore the Sky" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=x9cSpKieSkQ" target="_blank" rel="noopener noreferrer">Using Stellarium to Explore the Sky</a></p><p class="youtube-embed-meta">Channel: Pacific Science Center &middot; Views: 12.3K &middot; Uploaded: January 2024 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=x9cSpKieSkQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=x9cSpKieSkQ">Open on YouTube</a></p></div></div></div>
 
@@ -355,11 +355,11 @@ If the witness described intense colour flashing, special attention should be pa
 
 Many failed identifications arise not because the method is flawed, but because the reconstruction uses incomplete or inaccurate information.
 
-One common mistake is using the wrong time zone or forgetting daylight-saving adjustments. An hour's error can place a celestial object in a significantly different position or even below the horizon. Sky-chart users are routinely warned that date and time settings must be handled carefully. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cupcakesandthecosmos.com/2016/11/how-to-use-a-star-chart/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cupcakesandthecosmos.com">[cupcakes and the cosmos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cupcakesandthecosmos.com</span><span class="citation-popover-snippet">cupcakes and the cosmosHow To Use A Star Chart &#124; Cupcakes and the Cosmos BlogNovember 8, 2016 — 8 Nov 2016 — Learn how to use a star char...</span><span class="citation-popover-meta">Published: November 8, 2016</span></span></span>
+One common mistake is using the wrong time zone or forgetting daylight-saving adjustments. An hour's error can place a celestial object in a significantly different position or even below the horizon. Sky-chart users are routinely warned that date and time settings must be handled carefully.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cupcakesandthecosmos.com/2016/11/how-to-use-a-star-chart/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cupcakesandthecosmos.com">[cupcakes and the cosmos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cupcakesandthecosmos.com</span><span class="citation-popover-snippet">cupcakes and the cosmosHow To Use A Star Chart &#124; Cupcakes and the Cosmos BlogNovember 8, 2016 — 8 Nov 2016 — Learn how to use a star char...</span><span class="citation-popover-meta">Published: November 8, 2016</span></span></span>
 
 Another problem is assuming the witness's remembered direction was exact. People frequently remember a light as being "south" when it was actually south-west or west-south-west. A rigid reconstruction that treats memory as precise can wrongly eliminate a valid astronomical candidate.
 
-A third error is checking only stars and ignoring planets. Bright planets can attract UFO reports because they appear unusually bright and can seem fixed in the sky. Although planets generally twinkle less than stars, atmospheric conditions near the horizon can still create noticeable visual effects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.adlerplanetarium.org/blog/how-to-identify-planets/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adlerplanetarium.org">[Adler Planetarium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adlerplanetarium.org</span><span class="citation-popover-title">Adler Planetarium How To Identify Planets In The Night Sky</span><span class="citation-popover-snippet">Adler PlanetariumHow To Identify Planets In The Night SkyMarch 17, 2025 — 17 Mar 2025 — The easiest way to pick out visible planets is to...</span><span class="citation-popover-meta">Published: March 17, 2025</span></span></span>
+A third error is checking only stars and ignoring planets. Bright planets can attract UFO reports because they appear unusually bright and can seem fixed in the sky. Although planets generally twinkle less than stars, atmospheric conditions near the horizon can still create noticeable visual effects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.adlerplanetarium.org/blog/how-to-identify-planets/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adlerplanetarium.org">[Adler Planetarium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adlerplanetarium.org</span><span class="citation-popover-title">Adler Planetarium How To Identify Planets In The Night Sky</span><span class="citation-popover-snippet">Adler PlanetariumHow To Identify Planets In The Night SkyMarch 17, 2025 — 17 Mar 2025 — The easiest way to pick out visible planets is to...</span><span class="citation-popover-meta">Published: March 17, 2025</span></span></span>
 
 Investigators also sometimes overlook the local horizon. Hills, buildings and trees can hide or reveal celestial objects in ways not reflected by a simple sky map. A star visible from an open field may not have been visible from a built-up street, and vice versa.
 
@@ -368,199 +368,199 @@ Investigators also sometimes overlook the local horizon. Hills, buildings and tr
 
 Colour-changing lights often generate reports because the observer reasonably assumes that changing colours indicate a powered object. A sky-map reconstruction tests that assumption against known celestial positions. If a bright star or planet occupied the reported location, the observation may be explained by atmospheric effects combined with normal human distance and motion perception.
 
-Importantly, the method does not dismiss the witness. The light was real. The question is whether its appearance resulted from a distant celestial source viewed through the [atmosphere]({{ 'atmosphere/' | relative_url }}) rather than a nearby structured object. By comparing a report with the reconstructed sky, investigators can separate many mistaken identifications from cases that require further examination. This makes sky-map checking one of the most practical and evidence-based tools available when assessing reports of flashing or colour-changing lights in the night sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://stellarium-web.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stellarium-web.org">[Stellarium Web]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stellarium-web.org</span><span class="citation-popover-snippet">Stellarium WebStellarium Web Online Star MapStellarium Web is a planetarium running in your web browser. It shows a realistic star map, j...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://skyandtelescope.org/stargazing-and-observing/interactive-stargazing-tools/interactive-sky-chart/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyandtelescope.org">[Sky &amp; Telescope]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyandtelescope.org</span><span class="citation-popover-title">interactive sky chart</span><span class="citation-popover-snippet">Sky &amp; TelescopeInteractive Sky Chart &#124; Map Your Night SkyWhat&#x27;s in your night sky tonight? Open our interactive sky chart to create a cus...</span></span></span>
+Importantly, the method does not dismiss the witness. The light was real. The question is whether its appearance resulted from a distant celestial source viewed through the [atmosphere]({{ 'atmosphere/' | relative_url }}) rather than a nearby structured object. By comparing a report with the reconstructed sky, investigators can separate many mistaken identifications from cases that require further examination. This makes sky-map checking one of the most practical and evidence-based tools available when assessing reports of flashing or colour-changing lights in the night sky.<span class="citation-chip-wrap"><a class="citation-chip" href="https://stellarium-web.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stellarium-web.org">[Stellarium Web]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stellarium-web.org</span><span class="citation-popover-snippet">Stellarium WebStellarium Web Online Star MapStellarium Web is a planetarium running in your web browser. It shows a realistic star map, j...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://skyandtelescope.org/stargazing-and-observing/interactive-stargazing-tools/interactive-sky-chart/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyandtelescope.org">[Sky &amp; Telescope]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyandtelescope.org</span><span class="citation-popover-title">interactive sky chart</span><span class="citation-popover-snippet">Sky &amp; TelescopeInteractive Sky Chart &#124; Map Your Night SkyWhat&#x27;s in your night sky tonight? Open our interactive sky chart to create a cus...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fRFligT-C8w" title="Stellarium Planetarium Software - February 2012 Jupiter &amp; Venus Conjunction" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fRFligT-C8w" target="_blank" rel="noopener noreferrer">Stellarium Planetarium Software - February 2012 Jupiter &amp; Venus Conjunction</a></p><p class="youtube-embed-meta">Channel: Far Lands or Bust with KurtJMac &middot; Views: 25.4K &middot; Uploaded: February 2012 &middot; Length: 26 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fRFligT-C8w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fRFligT-C8w">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How to Check a Flashing Light Against the Sky. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How to Check a Flashing Light Against the Sky. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Helps readers identify stars, planets and night-sky objects when checking flashing lights.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers identify stars, planets and night-sky objects when checking flashing lights.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
-        </h4>
-        <p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
+</h4>
+<p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
         
-        <p class="fr-book-desc">Supports practical sky-object identification and follow-up checks.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports practical sky-object identification and follow-up checks.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Backyard Astronomer&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hdvYKwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Backyard Astronomer&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Backyard Astronomer&#x27;s Guide">The Backyard Astronomer&#x27;s Guide</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson, Alan Dyer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Backyard Astronomer&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hdvYKwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Backyard Astronomer&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Backyard Astronomer&#x27;s Guide">The Backyard Astronomer&#x27;s Guide</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson, Alan Dyer</p>
         
-        <p class="fr-book-desc">Covers observing methods and equipment useful for sky-map verification.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers observing methods and equipment useful for sky-map verification.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains how astronomical objects can enter UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how astronomical objects can enter UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Backyard Astronomer&#x27;s books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Backyard Astronomer&#x27;s books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-a-flashing-light-against-the-sky-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="how-to-check-a-flashing-light-against-the-sky-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Magnetic Reward Chart [300 Stars 80 Tasks 1-3 Kids] Star Chart for Children For"><img src="https://i.ebayimg.com/images/g/ScsAAeSwHQBp-Q2T/s-l225.jpg" alt="Listing image for Magnetic Reward Chart [300 Stars 80 Tasks 1-3 Kids] Star Chart for Children For" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-a-flashing-light-against-the-sky-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="how-to-check-a-flashing-light-against-the-sky-star-chart" target="_blank" rel="sponsored noopener noreferrer">Magnetic Reward Chart [300 Stars 80 Tasks 1-3 Kids] Star Chart for Children For</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-a-flashing-light-against-the-sky-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="how-to-check-a-flashing-light-against-the-sky-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart">Search <span data-ebay-domain-label>eBay.co.uk</span>: star chart</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-a-flashing-light-against-the-sky-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="how-to-check-a-flashing-light-against-the-sky-star-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-a-flashing-light-against-the-sky-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="how-to-check-a-flashing-light-against-the-sky-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Magnetic Reward Chart [300 Stars 80 Tasks 1-3 Kids] Star Chart for Children For"><img src="https://i.ebayimg.com/images/g/ScsAAeSwHQBp-Q2T/s-l225.jpg" alt="Listing image for Magnetic Reward Chart [300 Stars 80 Tasks 1-3 Kids] Star Chart for Children For" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-a-flashing-light-against-the-sky-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="how-to-check-a-flashing-light-against-the-sky-star-chart" target="_blank" rel="sponsored noopener noreferrer">Magnetic Reward Chart [300 Stars 80 Tasks 1-3 Kids] Star Chart for Children For</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-a-flashing-light-against-the-sky-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="how-to-check-a-flashing-light-against-the-sky-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart">Search<span data-ebay-domain-label>eBay.co.uk</span>: star chart</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-a-flashing-light-against-the-sky-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="how-to-check-a-flashing-light-against-the-sky-star-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-a-flashing-light-against-the-sky-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="how-to-check-a-flashing-light-against-the-sky-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3-in-1 Reward Chart, Reusable Star Chart for Children&#x27;s Behaviour or Kids Chores"><img src="https://i.ebayimg.com/images/g/Ao0AAOSwLv9hESlh/s-l225.jpg" alt="Listing image for 3-in-1 Reward Chart, Reusable Star Chart for Children&#x27;s Behaviour or Kids Chores" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-a-flashing-light-against-the-sky-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="how-to-check-a-flashing-light-against-the-sky-star-chart" target="_blank" rel="sponsored noopener noreferrer">3-in-1 Reward Chart, Reusable Star Chart for Children&#x27;s Behaviour or Kids Chores</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-a-flashing-light-against-the-sky-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="how-to-check-a-flashing-light-against-the-sky-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart">Search <span data-ebay-domain-label>eBay.co.uk</span>: star chart</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-a-flashing-light-against-the-sky-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="how-to-check-a-flashing-light-against-the-sky-star-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-a-flashing-light-against-the-sky-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="how-to-check-a-flashing-light-against-the-sky-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3-in-1 Reward Chart, Reusable Star Chart for Children&#x27;s Behaviour or Kids Chores"><img src="https://i.ebayimg.com/images/g/Ao0AAOSwLv9hESlh/s-l225.jpg" alt="Listing image for 3-in-1 Reward Chart, Reusable Star Chart for Children&#x27;s Behaviour or Kids Chores" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-a-flashing-light-against-the-sky-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="how-to-check-a-flashing-light-against-the-sky-star-chart" target="_blank" rel="sponsored noopener noreferrer">3-in-1 Reward Chart, Reusable Star Chart for Children&#x27;s Behaviour or Kids Chores</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-a-flashing-light-against-the-sky-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="how-to-check-a-flashing-light-against-the-sky-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart">Search<span data-ebay-domain-label>eBay.co.uk</span>: star chart</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-a-flashing-light-against-the-sky-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="how-to-check-a-flashing-light-against-the-sky-star-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-a-flashing-light-against-the-sky-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="how-to-check-a-flashing-light-against-the-sky-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pack Of 6 Jungle Childrens Reward Behaviour Charts With Star Stickers &amp; Pen CHAR"><img src="https://i.ebayimg.com/images/g/9UUAAOSw-A1dJGpP/s-l225.jpg" alt="Listing image for Pack Of 6 Jungle Childrens Reward Behaviour Charts With Star Stickers &amp; Pen CHAR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-a-flashing-light-against-the-sky-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="how-to-check-a-flashing-light-against-the-sky-star-chart" target="_blank" rel="sponsored noopener noreferrer">Pack Of 6 Jungle Childrens Reward Behaviour Charts With Star Stickers &amp; Pen CHAR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-a-flashing-light-against-the-sky-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="how-to-check-a-flashing-light-against-the-sky-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart">Search <span data-ebay-domain-label>eBay.co.uk</span>: star chart</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-a-flashing-light-against-the-sky-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="how-to-check-a-flashing-light-against-the-sky-star-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-a-flashing-light-against-the-sky-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="how-to-check-a-flashing-light-against-the-sky-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pack Of 6 Jungle Childrens Reward Behaviour Charts With Star Stickers &amp; Pen CHAR"><img src="https://i.ebayimg.com/images/g/9UUAAOSw-A1dJGpP/s-l225.jpg" alt="Listing image for Pack Of 6 Jungle Childrens Reward Behaviour Charts With Star Stickers &amp; Pen CHAR" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-a-flashing-light-against-the-sky-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="how-to-check-a-flashing-light-against-the-sky-star-chart" target="_blank" rel="sponsored noopener noreferrer">Pack Of 6 Jungle Childrens Reward Behaviour Charts With Star Stickers &amp; Pen CHAR</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-a-flashing-light-against-the-sky-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="how-to-check-a-flashing-light-against-the-sky-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart">Search<span data-ebay-domain-label>eBay.co.uk</span>: star chart</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-a-flashing-light-against-the-sky-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="how-to-check-a-flashing-light-against-the-sky-star-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-a-flashing-light-against-the-sky-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="how-to-check-a-flashing-light-against-the-sky-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Reusable Good Behaviour Reward Chart Personalised Childrens Kids Stars Unicorn"><img src="https://i.ebayimg.com/images/g/F9EAAOSw6qdfw6io/s-l225.jpg" alt="Listing image for Reusable Good Behaviour Reward Chart Personalised Childrens Kids Stars Unicorn" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-a-flashing-light-against-the-sky-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="how-to-check-a-flashing-light-against-the-sky-star-chart" target="_blank" rel="sponsored noopener noreferrer">Reusable Good Behaviour Reward Chart Personalised Childrens Kids Stars Unicorn</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-a-flashing-light-against-the-sky-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="how-to-check-a-flashing-light-against-the-sky-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart">Search <span data-ebay-domain-label>eBay.co.uk</span>: star chart</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-a-flashing-light-against-the-sky-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="how-to-check-a-flashing-light-against-the-sky-star-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-a-flashing-light-against-the-sky-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="how-to-check-a-flashing-light-against-the-sky-star-chart" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-a-flashing-light-against-the-sky-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="how-to-check-a-flashing-light-against-the-sky-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Reusable Good Behaviour Reward Chart Personalised Childrens Kids Stars Unicorn"><img src="https://i.ebayimg.com/images/g/F9EAAOSw6qdfw6io/s-l225.jpg" alt="Listing image for Reusable Good Behaviour Reward Chart Personalised Childrens Kids Stars Unicorn" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-a-flashing-light-against-the-sky-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="how-to-check-a-flashing-light-against-the-sky-star-chart" target="_blank" rel="sponsored noopener noreferrer">Reusable Good Behaviour Reward Chart Personalised Childrens Kids Stars Unicorn</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-a-flashing-light-against-the-sky-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="how-to-check-a-flashing-light-against-the-sky-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart">Search<span data-ebay-domain-label>eBay.co.uk</span>: star chart</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-a-flashing-light-against-the-sky-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="how-to-check-a-flashing-light-against-the-sky-star-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-a-flashing-light-against-the-sky-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="how-to-check-a-flashing-light-against-the-sky-star-chart" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -576,7 +576,7 @@ Importantly, the method does not dismiss the witness. The light was real. The qu
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -596,7 +596,7 @@ Importantly, the method does not dismiss the witness. The light was real. The qu
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -628,7 +628,7 @@ Importantly, the method does not dismiss the witness. The light was real. The qu
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -680,7 +680,7 @@ Importantly, the method does not dismiss the witness. The light was real. The qu
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -725,7 +725,7 @@ Importantly, the method does not dismiss the witness. The light was real. The qu
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -766,135 +766,135 @@ Importantly, the method does not dismiss the witness. The light was real. The qu
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: stellarium-web.org  
-   Link: <a href="https://stellarium-web.org/" target="_blank" rel="noopener noreferrer nofollow">https://stellarium-web.org/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stellarium WebStellarium Web Online Star MapStellarium Web is a planetarium running in your web browser. It shows a realistic star map, j...</p></details>
+   Link:<a href="https://stellarium-web.org/" target="_blank" rel="noopener noreferrer nofollow">https://stellarium-web.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stellarium WebStellarium Web Online Star MapStellarium Web is a planetarium running in your web browser. It shows a realistic star map, j...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: stellarium.org  
-   Link: <a href="https://stellarium.org/" target="_blank" rel="noopener noreferrer nofollow">https://stellarium.org/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stellarium Astronomy SoftwareStellarium is a planetarium software that shows exactly what you see when you look up at the stars...</p></details>
+   Link:<a href="https://stellarium.org/" target="_blank" rel="noopener noreferrer nofollow">https://stellarium.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stellarium Astronomy SoftwareStellarium is a planetarium software that shows exactly what you see when you look up at the stars...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: open.edu  
-   Link: <a href="https://www.open.edu/openlearn/mod/oucontent/view.php?id=114762&amp;section=3.2" target="_blank" rel="noopener noreferrer nofollow">https://www.open.edu/openlearn/mod/oucontent/view.php?id=114762&amp;section=3.2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Open University3.2 The Altitude-Azimuth systemThe Alt-Azimuth system of coordinates specifies the position of an object in terms of t...</p></details>
+   Link:<a href="https://www.open.edu/openlearn/mod/oucontent/view.php?id=114762&amp;section=3.2" target="_blank" rel="noopener noreferrer nofollow">https://www.open.edu/openlearn/mod/oucontent/view.php?id=114762&amp;section=3.2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Open University3.2 The Altitude-Azimuth systemThe Alt-Azimuth system of coordinates specifies the position of an object in terms of t...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=1VrcHxm4tEM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=1VrcHxm4tEM</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stellarium with Sky Surveys: Astrophotography Game-Changer...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=1VrcHxm4tEM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=1VrcHxm4tEM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stellarium with Sky Surveys: Astrophotography Game-Changer...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
    Title: Stellarium with Sky Surveys: Astrophotography Game-Changer!  
-   Link: <a href="http://www.youtube.com/watch?v=5ddQDw-COX4" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=5ddQDw-COX4</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How to use Stellarium to identify night [sky objects](&amp;#123;&amp;#123; &#x27;sky-objects/&#x27; | relative_url &amp;#125;&amp;#125;) How to use Stellarium-Web Cernan Earth and Space Center...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=5ddQDw-COX4" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=5ddQDw-COX4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to use Stellarium to identify night [sky objects](&amp;#123;&amp;#123; &#x27;sky-objects/&#x27; | relative_url &amp;#125;&amp;#125;) How to use Stellarium-Web Cernan Earth and Space Center...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: skyandtelescope.org  
    Title: interactive sky chart  
-   Link: <a href="https://skyandtelescope.org/stargazing-and-observing/interactive-stargazing-tools/interactive-sky-chart/" target="_blank" rel="noopener noreferrer nofollow">https://skyandtelescope.org/stargazing-and-observing/interactive-stargazing-tools/interactive-sky-chart/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky &amp; TelescopeInteractive Sky Chart | Map Your Night SkyWhat&#x27;s in your night sky tonight? Open our interactive sky chart to create a cus...</p></details>
+   Link:<a href="https://skyandtelescope.org/stargazing-and-observing/interactive-stargazing-tools/interactive-sky-chart/" target="_blank" rel="noopener noreferrer nofollow">https://skyandtelescope.org/stargazing-and-observing/interactive-stargazing-tools/interactive-sky-chart/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sky &amp; TelescopeInteractive Sky Chart | Map Your Night SkyWhat&#x27;s in your night sky tonight? Open our interactive sky chart to create a cus...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: skyatnightmagazine.com  
    Title: stellarium astronomy planetarium software how to use  
-   Link: <a href="https://www.skyatnightmagazine.com/advice/skills/stellarium-astronomy-planetarium-software-how-to-use" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/advice/skills/stellarium-astronomy-planetarium-software-how-to-use</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How to install and use Stellarium astronomy software17 Jul 2020 — In general use, if you want to display the sky for a specific date and...</p></details>
+   Link:<a href="https://www.skyatnightmagazine.com/advice/skills/stellarium-astronomy-planetarium-software-how-to-use" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/advice/skills/stellarium-astronomy-planetarium-software-how-to-use</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to install and use Stellarium astronomy software17 Jul 2020 — In general use, if you want to display the sky for a specific date and...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: vo-for-education.oats.inaf.it  
-   Link: <a href="https://vo-for-education.oats.inaf.it/use_cases/en_cosadie_19_stellarium.pdf" target="_blank" rel="noopener noreferrer nofollow">https://vo-for-education.oats.inaf.it/use_cases/en_cosadie_19_stellarium.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FOR BEGINNERSStellarium is a free software that transforms your home computer in a planetarium. It calculates the positions of the Sun an...</p></details>
+   Link:<a href="https://vo-for-education.oats.inaf.it/use_cases/en_cosadie_19_stellarium.pdf" target="_blank" rel="noopener noreferrer nofollow">https://vo-for-education.oats.inaf.it/use_cases/en_cosadie_19_stellarium.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FOR BEGINNERSStellarium is a free software that transforms your home computer in a planetarium. It calculates the positions of the Sun an...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: adlerplanetarium.org  
    Title: Adler Planetarium How To Identify Planets In The Night Sky  
-   Link: <a href="https://www.adlerplanetarium.org/blog/how-to-identify-planets/" target="_blank" rel="noopener noreferrer nofollow">https://www.adlerplanetarium.org/blog/how-to-identify-planets/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Adler PlanetariumHow To Identify Planets In The Night SkyMarch 17, 2025 — 17 Mar 2025 — The easiest way to pick out visible planets is to...</p></details>
+   Link:<a href="https://www.adlerplanetarium.org/blog/how-to-identify-planets/" target="_blank" rel="noopener noreferrer nofollow">https://www.adlerplanetarium.org/blog/how-to-identify-planets/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Adler PlanetariumHow To Identify Planets In The Night SkyMarch 17, 2025 — 17 Mar 2025 — The easiest way to pick out visible planets is to...</p></details>
    Published: March 17, 2025  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cupcakesandthecosmos.com  
-   Link: <a href="https://www.cupcakesandthecosmos.com/2016/11/how-to-use-a-star-chart/" target="_blank" rel="noopener noreferrer nofollow">https://www.cupcakesandthecosmos.com/2016/11/how-to-use-a-star-chart/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>cupcakes and the cosmosHow To Use A Star Chart | Cupcakes and the Cosmos BlogNovember 8, 2016 — 8 Nov 2016 — Learn how to use a star char...</p></details>
+   Link:<a href="https://www.cupcakesandthecosmos.com/2016/11/how-to-use-a-star-chart/" target="_blank" rel="noopener noreferrer nofollow">https://www.cupcakesandthecosmos.com/2016/11/how-to-use-a-star-chart/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>cupcakes and the cosmosHow To Use A Star Chart | Cupcakes and the Cosmos BlogNovember 8, 2016 — 8 Nov 2016 — Learn how to use a star char...</p></details>
    Published: November 8, 2016  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: play.google.com  
-   Link: <a href="https://play.google.com/store/apps/details?hl=en&amp;id=com.noctuasoftware.stellarium_free" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en&amp;id=com.noctuasoftware.stellarium_free</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Star Map - Apps on Google PlayStellarium - Star Map is a planetarium app that shows exactly what you see when you look up at the stars. I...</p></details>
+   Link:<a href="https://play.google.com/store/apps/details?hl=en&amp;id=com.noctuasoftware.stellarium_free" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en&amp;id=com.noctuasoftware.stellarium_free</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Star Map - Apps on Google PlayStellarium - Star Map is a planetarium app that shows exactly what you see when you look up at the stars. I...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: play.google.com  
-   Link: <a href="https://play.google.com/store/apps/details?hl=en&amp;id=com.google.android.stardroid" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en&amp;id=com.google.android.stardroid</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Map - Apps on Google PlaySky Map helps you identify stars, planets, nebulae, and constellations in real-time. Originally developed as Goo...</p></details>
+   Link:<a href="https://play.google.com/store/apps/details?hl=en&amp;id=com.google.android.stardroid" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en&amp;id=com.google.android.stardroid</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Map - Apps on Google PlaySky Map helps you identify stars, planets, nebulae, and constellations in real-time. Originally developed as Goo...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Stellarium Planetarium Software  
-   Link: <a href="https://www.youtube.com/watch?v=fRFligT-C8w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fRFligT-C8w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>February 2012 Jupiter...Let&#x27;s play Stellarium! This is a free open source planetarium software available for Windows, Mac and Linux. It...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=fRFligT-C8w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fRFligT-C8w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>February 2012 Jupiter...Let&#x27;s play Stellarium! This is a free open source planetarium software available for Windows, Mac and Linux. It...</p></details>
    Published: February 2012  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: stellarium-labs.com  
-   Link: <a href="https://stellarium-labs.com/blog/gridsandlines/" target="_blank" rel="noopener noreferrer nofollow">https://stellarium-labs.com/blog/gridsandlines/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In this article, we&#x27;ll have a quick look at each one and discuss...Read more...</p></details>
+   Link:<a href="https://stellarium-labs.com/blog/gridsandlines/" target="_blank" rel="noopener noreferrer nofollow">https://stellarium-labs.com/blog/gridsandlines/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In this article, we&#x27;ll have a quick look at each one and discuss...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: astronomia.edu.uy  
-   Link: <a href="https://www.astronomia.edu.uy/CTE2/stellarium_user_guide-0.10.2-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomia.edu.uy/CTE2/stellarium_user_guide-0.10.2-1.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>l planetarium. It calculates the positions of the...Read more...</p></details>
+   Link:<a href="https://www.astronomia.edu.uy/CTE2/stellarium_user_guide-0.10.2-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomia.edu.uy/CTE2/stellarium_user_guide-0.10.2-1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>l planetarium. It calculates the positions of the...Read more...</p></details>
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: jpl.nasa.gov  
-   Link: <a href="https://www.jpl.nasa.gov/edu/resources/project/find-planets-in-the-sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.jpl.nasa.gov/edu/resources/project/find-planets-in-the-sky/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Planets in the Sky – Science ProjectFind planets in the night sky and learn about what spacecraft have visited those planets. Then predic...</p></details>
+   Link:<a href="https://www.jpl.nasa.gov/edu/resources/project/find-planets-in-the-sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.jpl.nasa.gov/edu/resources/project/find-planets-in-the-sky/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Planets in the Sky – Science ProjectFind planets in the night sky and learn about what spacecraft have visited those planets. Then predic...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: cliffsnotes.com  
-   Link: <a href="https://www.cliffsnotes.com/study-notes/24665368" target="_blank" rel="noopener noreferrer nofollow">https://www.cliffsnotes.com/study-notes/24665368</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Explore the Night Sky with Stellarium: A Student&#x27;s GuideStellarium, a free web-based tool, offers a comprehensive simulation of the night...</p></details>
+   Link:<a href="https://www.cliffsnotes.com/study-notes/24665368" target="_blank" rel="noopener noreferrer nofollow">https://www.cliffsnotes.com/study-notes/24665368</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Explore the Night Sky with Stellarium: A Student&#x27;s GuideStellarium, a free web-based tool, offers a comprehensive simulation of the night...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: theskylive.com  
-   Link: <a href="https://theskylive.com/personalized-star-map" target="_blank" rel="noopener noreferrer nofollow">https://theskylive.com/personalized-star-map</a>  
+   Link:<a href="https://theskylive.com/personalized-star-map" target="_blank" rel="noopener noreferrer nofollow">https://theskylive.com/personalized-star-map</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: timeanddate.com  
-   Link: <a href="https://www.timeanddate.com/astronomy/night/" target="_blank" rel="noopener noreferrer nofollow">https://www.timeanddate.com/astronomy/night/</a>  
+   Link:<a href="https://www.timeanddate.com/astronomy/night/" target="_blank" rel="noopener noreferrer nofollow">https://www.timeanddate.com/astronomy/night/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Astronomy/comments/60x3yg/how_can_i_extract_elevation_and_azimuth_positions/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Astronomy/comments/60x3yg/how_can_i_extract_elevation_and_azimuth_positions/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Enter your observing location and it will show you the altitude of an object over the course of the year allowing you...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/Astronomy/comments/60x3yg/how_can_i_extract_elevation_and_azimuth_positions/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Astronomy/comments/60x3yg/how_can_i_extract_elevation_and_azimuth_positions/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Enter your observing location and it will show you the altitude of an object over the course of the year allowing you...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: docs.astropy.org  
-   Link: <a href="https://docs.astropy.org/en/stable/coordinates/example_gallery_plot_obs_planning.html" target="_blank" rel="noopener noreferrer nofollow">https://docs.astropy.org/en/stable/coordinates/example_gallery_plot_obs_planning.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The altitude-azimuth coordinates are then found using astropy.coordinates.EarthLocation and astropy.time.Read more...</p></details>
+   Link:<a href="https://docs.astropy.org/en/stable/coordinates/example_gallery_plot_obs_planning.html" target="_blank" rel="noopener noreferrer nofollow">https://docs.astropy.org/en/stable/coordinates/example_gallery_plot_obs_planning.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The altitude-azimuth coordinates are then found using astropy.coordinates.EarthLocation and astropy.time.Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=DvWEBrDjyVE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DvWEBrDjyVE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Altitude, Azimuth, and Zenith in StellariumThe altitude is how far above the horizon you are for your location. The azimuth is what direc...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=DvWEBrDjyVE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DvWEBrDjyVE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Altitude, Azimuth, and Zenith in StellariumThe altitude is how far above the horizon you are for your location. The azimuth is what direc...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=qNmlZzlgt5o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qNmlZzlgt5o</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Read a Star ChartIn this video we will review how to read a star chart. This really is a fundamental skill if you are interested i...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=qNmlZzlgt5o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qNmlZzlgt5o</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Read a Star ChartIn this video we will review how to read a star chart. This really is a fundamental skill if you are interested i...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=x9cSpKieSkQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=x9cSpKieSkQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Using Stellarium to Explore the SkyJoin me in learning how to navigate Stellarium, a free planetarium software that allows users to explo...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=x9cSpKieSkQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=x9cSpKieSkQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Using Stellarium to Explore the SkyJoin me in learning how to navigate Stellarium, a free planetarium software that allows users to explo...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Astronomy/comments/1908ni3/is_there_an_astronomy_app_that_lets_me_define_my/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Astronomy/comments/1908ni3/is_there_an_astronomy_app_that_lets_me_define_my/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Most of the time, I am taking Astro photos from my deck of my condo. Half the sky is not visible...</p></details>
+   Link:<a href="https://www.reddit.com/r/Astronomy/comments/1908ni3/is_there_an_astronomy_app_that_lets_me_define_my/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Astronomy/comments/1908ni3/is_there_an_astronomy_app_that_lets_me_define_my/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Most of the time, I am taking Astro photos from my deck of my condo. Half the sky is not visible...</p></details>

@@ -504,15 +504,15 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13-overvie
 Weather records are one of the most practical tools for turning a UFO report into an IFO: an identified flying object or ordinary stimulus seen under confusing conditions. Haze, fog, cloud layers, rain, smoke and low visibility do not just hide things; they can change apparent colour, shape, distance, motion and brightness. A planet near the horizon may shimmer through haze, an aircraft may disappear into cloud, a balloon may seem self-lit at sunset, and a searchlight can look like a moving object when its beam hits broken cloud.
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13-overview.webp" | relative_url }}" alt="Overview image for Weather Records" loading="eager" decoding="sync" fetchpriority="high">
-That is why weather is not background decoration in UFO investigation. Project Blue Book explicitly treated weather conditions as essential information, and listed “weather conditions” among the [missing details]({{ 'missing-details/' | relative_url }}) that could make a report impossible to evaluate. It also noted that planets, aircraft and other ordinary objects were often reported as UFOs when seen through haze, light fog, moving clouds or other obscurations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[Defense Logistics Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">Defense Logistics Agency</span></span></span>
+That is why weather is not background decoration in UFO investigation. Project Blue Book explicitly treated weather conditions as essential information, and listed “weather conditions” among the [missing details]({{ 'missing-details/' | relative_url }}) that could make a report impossible to evaluate. It also noted that planets, aircraft and other ordinary objects were often reported as UFOs when seen through haze, light fog, moving clouds or other obscurations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[Defense Logistics Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">Defense Logistics Agency</span></span></span>
 
 ## Why visibility records matter in IFO cases
 
 Visibility records answer a deceptively simple question: could the witness actually see what they thought they saw? Meteorological visibility is normally about how far a standard object can be seen and identified, but a UFO witness is usually trying to judge an unfamiliar point of light, moving shape or partial silhouette. Those are much harder tasks than seeing a known landmark.
 
-Fog is the clearest example. The Met Office defines fog as a cloud at ground level that reduces visibility to less than 1,000 metres; dense fog can reduce visibility below 100 metres. Different kinds of fog matter because they behave differently: radiation fog often forms overnight in calm, clear conditions, valley fog can be trapped by terrain, and advection fog can move in from sea or over a cold surface. <span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/fog" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-title">Met Office What is fog?</span><span class="citation-popover-snippet">Met Office What is fog?</span></span></span> A sighting that seems to involve an object “appearing from nowhere” may simply coincide with a patch of fog, mist or low cloud moving across the line of sight.
+Fog is the clearest example. The Met Office defines fog as a cloud at ground level that reduces visibility to less than 1,000 metres; dense fog can reduce visibility below 100 metres. Different kinds of fog matter because they behave differently: radiation fog often forms overnight in calm, clear conditions, valley fog can be trapped by terrain, and advection fog can move in from sea or over a cold surface.<span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/fog" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-title">Met Office What is fog?</span><span class="citation-popover-snippet">Met Office What is fog?</span></span></span> A sighting that seems to involve an object “appearing from nowhere” may simply coincide with a patch of fog, mist or low cloud moving across the line of sight.
 
-Haze is more subtle because the sky can still look broadly clear. The World Meteorological Organization warns that elevated haze layers can mislead [pilots]({{ 'pilots/' | relative_url }}): surface visibility reports may be correct horizontally at the airfield, yet visibility inside a haze layer can feel much worse, while a pilot above a haze layer may initially see farther than the reported airfield visibility and then lose visibility when descending into it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://community.wmo.int/site/knowledge-hub/programmes-and-initiatives/aviation/aviation-hazards-low-visibility-and-low-cloud" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: community.wmo.int">[World Meteorological Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">community.wmo.int</span><span class="citation-popover-title">World Meteorological Organization Aviation</span><span class="citation-popover-snippet">World Meteorological Organization Aviation</span></span></span> For UFO reports, this matters because the witness may honestly describe a clear night while a thin aerosol layer near the horizon is still enough to blur, redden or intermittently obscure a bright object.
+Haze is more subtle because the sky can still look broadly clear. The World Meteorological Organization warns that elevated haze layers can mislead [pilots]({{ 'pilots/' | relative_url }}): surface visibility reports may be correct horizontally at the airfield, yet visibility inside a haze layer can feel much worse, while a pilot above a haze layer may initially see farther than the reported airfield visibility and then lose visibility when descending into it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://community.wmo.int/site/knowledge-hub/programmes-and-initiatives/aviation/aviation-hazards-low-visibility-and-low-cloud" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: community.wmo.int">[World Meteorological Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">community.wmo.int</span><span class="citation-popover-title">World Meteorological Organization Aviation</span><span class="citation-popover-snippet">World Meteorological Organization Aviation</span></span></span> For UFO reports, this matters because the witness may honestly describe a clear night while a thin aerosol layer near the horizon is still enough to blur, redden or intermittently obscure a bright object.
 
 The key visibility clues in a report are therefore not just “clear” or “cloudy”. Useful records include:
 
@@ -529,28 +529,28 @@ These details can turn a broad guess into a testable explanation. A bright stati
 
 Weather changes UFO reports mainly by changing contrast. A point of light that would normally be recognisable can lose its outline, acquire a halo, seem larger than it is, or appear to pulse as thin cloud and haze pass in front of it. The object has not changed; the medium between the object and the observer has.
 
-Project Blue Book made this point directly for astronomical sightings. It described bright [stars]({{ 'stars/' | relative_url }}), planets, comets, [meteors]({{ 'meteors/' | relative_url }}) and other celestial bodies as common UFO report sources, and singled out Venus, Jupiter and Mars as planets that had been reported as UFOs when observed through haze, light fog, moving clouds or unusual conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[Defense Logistics Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">Defense Logistics Agency</span></span></span> This is especially important near the horizon, where stars and planets are seen through a longer, thicker path of atmosphere. A low planet can look brighter, redder, more unstable and less star-like than the same planet higher in the sky.
+Project Blue Book made this point directly for astronomical sightings. It described bright [stars]({{ 'stars/' | relative_url }}), planets, comets, [meteors]({{ 'meteors/' | relative_url }}) and other celestial bodies as common UFO report sources, and singled out Venus, Jupiter and Mars as planets that had been reported as UFOs when observed through haze, light fog, moving clouds or unusual conditions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[Defense Logistics Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">Defense Logistics Agency</span></span></span> This is especially important near the horizon, where stars and planets are seen through a longer, thicker path of atmosphere. A low planet can look brighter, redder, more unstable and less star-like than the same planet higher in the sky.
 
-[Aircraft lights]({{ 'aircraft-lights/' | relative_url }}) can be altered in the same way. Blue Book noted that aircraft seen at high altitude and distance can take on disc-like or rocket-like appearances because of sunlight reflection, and that condensation trails may glow red or orange when reflecting sunlight. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[Defense Logistics Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">Defense Logistics Agency</span></span></span> A weather check can therefore explain two features that often sound dramatic in witness accounts: a “fiery” colour and a shape that seems unlike an aircraft. The shape may be a reflection, haze bloom, cloud edge, contrail or partial view rather than the body of the aircraft itself.
+[Aircraft lights]({{ 'aircraft-lights/' | relative_url }}) can be altered in the same way. Blue Book noted that aircraft seen at high altitude and distance can take on disc-like or rocket-like appearances because of sunlight reflection, and that condensation trails may glow red or orange when reflecting sunlight.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[Defense Logistics Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">Defense Logistics Agency</span></span></span> A weather check can therefore explain two features that often sound dramatic in witness accounts: a “fiery” colour and a shape that seems unlike an aircraft. The shape may be a reflection, haze bloom, cloud edge, contrail or partial view rather than the body of the aircraft itself.
 
-Rain and moisture add another layer. Aviation safety material on visual illusions warns that light rain, fog, haze, mist, smoke, dust, glare and darkness can affect height, distance and depth perception. It also notes that haze can make a runway seem farther away, while rain can produce fuzzy or halo effects around lights. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skybrary.aero/sites/default/files/bookshelf/177.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-title">Visual Illusions Awareness</span><span class="citation-popover-snippet">Visual Illusions Awareness</span></span></span> In UFO terms, the same optical problem can make a distant landing light, approach light, tower beacon or aircraft seem closer, larger or stranger than it is.
+Rain and moisture add another layer. Aviation safety material on visual illusions warns that light rain, fog, haze, mist, smoke, dust, glare and darkness can affect height, distance and depth perception. It also notes that haze can make a runway seem farther away, while rain can produce fuzzy or halo effects around lights.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skybrary.aero/sites/default/files/bookshelf/177.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-title">Visual Illusions Awareness</span><span class="citation-popover-snippet">Visual Illusions Awareness</span></span></span> In UFO terms, the same optical problem can make a distant landing light, approach light, tower beacon or aircraft seem closer, larger or stranger than it is.
 
 ## Cloud layers and obscuration
 
 Cloud evidence is often more useful than a simple weather summary because UFO sightings frequently involve intermittent disappearance. A witness may report that a light “blinked out”, “cloaked”, “entered another dimension” or “shot away”, when a low cloud deck or ragged cloud layer was simply crossing the line of sight.
 
-Cloud records help investigators ask whether the object was above, within or below the cloud layer. The Met Office explains that cloud observations include type, amount and height, and that multiple cloud layers may be present at different heights. Cloud amount is reported in oktas, or eighths of the sky; 8 oktas means full cloud cover, while 9 oktas indicates the sky is obscured by fog or another meteorological phenomenon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/fog" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-title">Met Office What is fog?</span><span class="citation-popover-snippet">Met Office What is fog?</span></span></span> A sighting under 7 or 8 oktas of low cloud is not the same as a sighting under high cirrus with clear lower air.
+Cloud records help investigators ask whether the object was above, within or below the cloud layer. The Met Office explains that cloud observations include type, amount and height, and that multiple cloud layers may be present at different heights. Cloud amount is reported in oktas, or eighths of the sky; 8 oktas means full cloud cover, while 9 oktas indicates the sky is obscured by fog or another meteorological phenomenon.<span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/fog" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-title">Met Office What is fog?</span><span class="citation-popover-snippet">Met Office What is fog?</span></span></span> A sighting under 7 or 8 oktas of low cloud is not the same as a sighting under high cirrus with clear lower air.
 
-The limits of records matter too. The Met Office notes that satellite imagery is excellent for large-scale cloud distribution, but it has limitations: high cloud can mask low cloud, shallow low cloud may be hard to distinguish from fog, and cloud base cannot be measured from space in the way aviation often requires. Surface stations and cloud-base instruments therefore remain important for local interpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/fog" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-title">Met Office What is fog?</span><span class="citation-popover-snippet">Met Office What is fog?</span></span></span> For a UFO case, a satellite image that appears broadly clear may not rule out local mist, low stratus, hill fog or broken scud cloud.
+The limits of records matter too. The Met Office notes that satellite imagery is excellent for large-scale cloud distribution, but it has limitations: high cloud can mask low cloud, shallow low cloud may be hard to distinguish from fog, and cloud base cannot be measured from space in the way aviation often requires. Surface stations and cloud-base instruments therefore remain important for local interpretation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/fog" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-title">Met Office What is fog?</span><span class="citation-popover-snippet">Met Office What is fog?</span></span></span> For a UFO case, a satellite image that appears broadly clear may not rule out local mist, low stratus, hill fog or broken scud cloud.
 
-Aviation tools show why this is a practical decision problem rather than a vague impression. The U.S. Aviation Weather Center’s Graphical Forecasts for Aviation combine observations, forecasts and warnings, including clouds, precipitation, visibility, ceiling, [radar]({{ 'radar/' | relative_url }}) and pilot reports; they also allow users to examine recent and forecast conditions over time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aviationweather.gov/gfa/help/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aviationweather.gov">[aviationweather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aviationweather.gov</span><span class="citation-popover-title">AW C GFA Help</span><span class="citation-popover-snippet">AW C GFA Help</span></span></span> The FAA’s Aeronautical Information Manual describes cloud and surface forecast products that include cloud coverage, bases, layers, tops, visibility and weather phenomena, and it gives examples where flight category is restricted by fog, haze, smoke or rain. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/publications/ATpubs/AIM_html/chap7_section_1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration Chapter 7. Safety of Flight</span><span class="citation-popover-snippet">Federal Aviation Administration Chapter 7. Safety of Flight</span></span></span> Those are exactly the kinds of records that can decide whether an ordinary light would have been distorted, hidden or misjudged.
+Aviation tools show why this is a practical decision problem rather than a vague impression. The U.S. Aviation Weather Center’s Graphical Forecasts for Aviation combine observations, forecasts and warnings, including clouds, precipitation, visibility, ceiling, [radar]({{ 'radar/' | relative_url }}) and pilot reports; they also allow users to examine recent and forecast conditions over time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://aviationweather.gov/gfa/help/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aviationweather.gov">[aviationweather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aviationweather.gov</span><span class="citation-popover-title">AW C GFA Help</span><span class="citation-popover-snippet">AW C GFA Help</span></span></span> The FAA’s Aeronautical Information Manual describes cloud and surface forecast products that include cloud coverage, bases, layers, tops, visibility and weather phenomena, and it gives examples where flight category is restricted by fog, haze, smoke or rain.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/publications/ATpubs/AIM_html/chap7_section_1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration Chapter 7. Safety of Flight</span><span class="citation-popover-snippet">Federal Aviation Administration Chapter 7. Safety of Flight</span></span></span> Those are exactly the kinds of records that can decide whether an ordinary light would have been distorted, hidden or misjudged.
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13-Illustration-2-dark.svg" | relative_url }}" alt="Weather Records illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Reading weather records without overclaiming
 
 Weather records are powerful, but they rarely “solve” a case by themselves. They work best when combined with time, position, direction, elevation angle, witness movement and possible candidate objects such as aircraft, [satellites]({{ 'satellites/' | relative_url }}), balloons or planets. Poor weather can make a mundane explanation more plausible, but it does not automatically identify the object.
 
-This distinction is important because modern UAP investigations repeatedly emphasise data quality. NASA’s independent UAP study stated that many UAP observations can be attributed to known phenomena, but that the needed data often do not exist; eyewitness reports alone are usually not reproducible and often lack enough information for definitive conclusions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> AARO’s 2024 annual report similarly said that many cases remain unresolved because of insufficient data, while hundreds of resolved or pending cases were attributed to prosaic objects such as balloons, birds, unmanned aerial systems, satellites and aircraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span></span></span> Weather records are one way to reduce that uncertainty, not a magic shortcut around it.
+This distinction is important because modern UAP investigations repeatedly emphasise data quality. NASA’s independent UAP study stated that many UAP observations can be attributed to known phenomena, but that the needed data often do not exist; eyewitness reports alone are usually not reproducible and often lack enough information for definitive conclusions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> AARO’s 2024 annual report similarly said that many cases remain unresolved because of insufficient data, while hundreds of resolved or pending cases were attributed to prosaic objects such as balloons, birds, unmanned aerial systems, satellites and aircraft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span></span></span> Weather records are one way to reduce that uncertainty, not a magic shortcut around it.
 
 A careful weather-based assessment usually follows a decision path:
 
@@ -569,7 +569,7 @@ The most common mistake is treating weather as either present or absent. In real
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13-Illustration-3-dark.svg" | relative_url }}" alt="Weather Records illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What a weather clue can and cannot prove
 
-A strong weather clue can explain why a normal object looked strange. Haze can soften sharp edges and make a point light appear larger. Fog can hide a structure while leaving its lights visible. Broken cloud can make a steady light seem to switch on and off. Low cloud can make a searchlight beam look like a luminous moving patch. A temperature inversion can favour mirage-like effects, and the World Meteorological Organization’s cloud atlas defines a mirage as an optical phenomenon involving images of distant objects that may be steady or wavering, single or multiple, upright or inverted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cloudatlas.wmo.int/mirage.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cloudatlas.wmo.int">[International Cloud Atlas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cloudatlas.wmo.int</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+A strong weather clue can explain why a normal object looked strange. Haze can soften sharp edges and make a point light appear larger. Fog can hide a structure while leaving its lights visible. Broken cloud can make a steady light seem to switch on and off. Low cloud can make a searchlight beam look like a luminous moving patch. A temperature inversion can favour mirage-like effects, and the World Meteorological Organization’s cloud atlas defines a mirage as an optical phenomenon involving images of distant objects that may be steady or wavering, single or multiple, upright or inverted.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cloudatlas.wmo.int/mirage.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cloudatlas.wmo.int">[International Cloud Atlas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cloudatlas.wmo.int</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 But weather evidence is weaker when it is general, distant or mismatched to the sighting direction. A weather station ten miles away may not capture fog in a valley. An airport visibility report may describe horizontal surface visibility, not the slant path from a hillside witness to a low planet. A satellite image may miss shallow fog or fail to reveal the cloud base. A single “clear” report may hide the fact that high cloud, smoke, dust or humidity affected contrast.
 
@@ -578,194 +578,194 @@ The best use of weather records is therefore comparative. If a report says a lig
 Weather clues do not dismiss witnesses. They explain why sincere observers can report real visual experiences that are hard to identify in the moment. In the IFO branch of UFO reports, that is their main value: they turn “it looked impossible” into a set of testable questions about visibility, cloud, light and line of sight.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Weather Clues That Explain Strange Lights. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Weather Clues That Explain Strange Lights. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cloudspotter&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=gbDYPEiB0T0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Cloudspotter&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cloudspotter&#x27;s Guide">The Cloudspotter&#x27;s Guide</a>
-        </h4>
-        <p class="fr-book-author">By Gavin Pretor-Pinney</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cloudspotter&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=gbDYPEiB0T0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Cloudspotter&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cloudspotter&#x27;s Guide">The Cloudspotter&#x27;s Guide</a>
+</h4>
+<p class="fr-book-author">By Gavin Pretor-Pinney</p>
         
-        <p class="fr-book-desc">Helps readers understand clouds, haze and visibility effects that can turn lights into mysteries.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand clouds, haze and visibility effects that can turn lights into mysteries.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Shows why weather records and adequate observation details matter in UFO classification.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows why weather records and adequate observation details matter in UFO classification.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Complements weather checks by helping readers identify ordinary lights and sky objects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Complements weather checks by helping readers identify ordinary lights and sky objects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience, A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience, A Scientific Inquiry">The UFO Experience, A Scientific Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience, A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience, A Scientific Inquiry">The UFO Experience, A Scientific Inquiry</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">First published 1972.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1972.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cloudspotter%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cloudspotter&#x27;s books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cloudspotter%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cloudspotter&#x27;s books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-clues-that-explain-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="weather-clues-that-explain-strange-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-clues-that-explain-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="weather-clues-that-explain-strange-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-clues-that-explain-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="weather-clues-that-explain-strange-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-clues-that-explain-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="weather-clues-that-explain-strange-lights-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-clues-that-explain-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="weather-clues-that-explain-strange-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-clues-that-explain-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="weather-clues-that-explain-strange-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-clues-that-explain-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="weather-clues-that-explain-strange-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-clues-that-explain-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="weather-clues-that-explain-strange-lights-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-clues-that-explain-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="weather-clues-that-explain-strange-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-clues-that-explain-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="weather-clues-that-explain-strange-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-clues-that-explain-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="weather-clues-that-explain-strange-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-clues-that-explain-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="weather-clues-that-explain-strange-lights-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-clues-that-explain-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="weather-clues-that-explain-strange-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-clues-that-explain-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="weather-clues-that-explain-strange-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-clues-that-explain-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="weather-clues-that-explain-strange-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-clues-that-explain-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="weather-clues-that-explain-strange-lights-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-clues-that-explain-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="weather-clues-that-explain-strange-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-clues-that-explain-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="weather-clues-that-explain-strange-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-clues-that-explain-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="weather-clues-that-explain-strange-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-clues-that-explain-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="weather-clues-that-explain-strange-lights-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-clues-that-explain-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="weather-clues-that-explain-strange-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-clues-that-explain-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="weather-clues-that-explain-strange-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-clues-that-explain-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="weather-clues-that-explain-strange-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-clues-that-explain-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="weather-clues-that-explain-strange-lights-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-clues-that-explain-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="weather-clues-that-explain-strange-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-clues-that-explain-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="weather-clues-that-explain-strange-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-clues-that-explain-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="weather-clues-that-explain-strange-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-clues-that-explain-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="weather-clues-that-explain-strange-lights-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-clues-that-explain-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="weather-clues-that-explain-strange-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-clues-that-explain-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="weather-clues-that-explain-strange-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-clues-that-explain-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="weather-clues-that-explain-strange-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-clues-that-explain-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="weather-clues-that-explain-strange-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-clues-that-explain-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="weather-clues-that-explain-strange-lights-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-clues-that-explain-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="weather-clues-that-explain-strange-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -781,7 +781,7 @@ Weather clues do not dismiss witnesses. They explain why sincere observers can r
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -801,7 +801,7 @@ Weather clues do not dismiss witnesses. They explain why sincere observers can r
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -833,7 +833,7 @@ Weather clues do not dismiss witnesses. They explain why sincere observers can r
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -885,7 +885,7 @@ Weather clues do not dismiss witnesses. They explain why sincere observers can r
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -930,7 +930,7 @@ Weather clues do not dismiss witnesses. They explain why sincere observers can r
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -971,227 +971,227 @@ Weather clues do not dismiss witnesses. They explain why sincere observers can r
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: esd.whs.mil  
    Title: Defense Logistics Agency  
-   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837</a>  
+   Link:<a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: weather.metoffice.gov.uk  
    Title: Met Office What is fog?  
-   Link: <a href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/fog" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/fog</a>  
+   Link:<a href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/fog" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/fog</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: skybrary.aero  
    Title: Visual Illusions Awareness  
-   Link: <a href="https://skybrary.aero/sites/default/files/bookshelf/177.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/sites/default/files/bookshelf/177.pdf</a>  
+   Link:<a href="https://skybrary.aero/sites/default/files/bookshelf/177.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/sites/default/files/bookshelf/177.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: weather.metoffice.gov.uk  
    Title: Met Office How we measure cloud  
-   Link: <a href="https://weather.metoffice.gov.uk/guides/observations/how-we-measure-cloud" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/guides/observations/how-we-measure-cloud</a>  
+   Link:<a href="https://weather.metoffice.gov.uk/guides/observations/how-we-measure-cloud" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/guides/observations/how-we-measure-cloud</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: aviationweather.gov  
    Title: AW C GFA Help  
-   Link: <a href="https://aviationweather.gov/gfa/help/" target="_blank" rel="noopener noreferrer nofollow">https://aviationweather.gov/gfa/help/</a>  
+   Link:<a href="https://aviationweather.gov/gfa/help/" target="_blank" rel="noopener noreferrer nofollow">https://aviationweather.gov/gfa/help/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: faa.gov  
    Title: Federal Aviation Administration Chapter 7. Safety of Flight  
-   Link: <a href="https://www.faa.gov/air_traffic/publications/ATpubs/AIM_html/chap7_section_1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/ATpubs/AIM_html/chap7_section_1.html</a>  
+   Link:<a href="https://www.faa.gov/air_traffic/publications/ATpubs/AIM_html/chap7_section_1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/ATpubs/AIM_html/chap7_section_1.html</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: media.defense.gov  
    Title: FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508  
-   Link: <a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: skybrary.aero  
-   Link: <a href="https://skybrary.aero/articles/meteorological-aerodrome-report-metar" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/meteorological-aerodrome-report-metar</a>  
+   Link:<a href="https://skybrary.aero/articles/meteorological-aerodrome-report-metar" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/meteorological-aerodrome-report-metar</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/sites/faa.gov/files/15_phak_ch13.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/15_phak_ch13.pdf</a>  
+   Link:<a href="https://www.faa.gov/sites/faa.gov/files/15_phak_ch13.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/15_phak_ch13.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: faa.gov  
    Title: FAA H 8083 28A FAA Web  
-   Link: <a href="https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-28A_FAA_Web.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-28A_FAA_Web.pdf</a>  
+   Link:<a href="https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-28A_FAA_Web.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-28A_FAA_Web.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: metoffice.gov.uk  
    Title: whats the difference between mist fog and haze  
-   Link: <a href="https://www.metoffice.gov.uk/blog/2025/whats-the-difference-between-mist-fog-and-haze" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/blog/2025/whats-the-difference-between-mist-fog-and-haze</a>  
+   Link:<a href="https://www.metoffice.gov.uk/blog/2025/whats-the-difference-between-mist-fog-and-haze" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/blog/2025/whats-the-difference-between-mist-fog-and-haze</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: metoffice.gov.uk  
    Title: caa case study 1 high pressure  
-   Link: <a href="https://www.metoffice.gov.uk/binaries/content/assets/metofficegovuk/pdf/services/transport/aviation/case-studies/caa-case-study-1---high-pressure.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/binaries/content/assets/metofficegovuk/pdf/services/transport/aviation/case-studies/caa-case-study-1---high-pressure.pdf</a>  
+   Link:<a href="https://www.metoffice.gov.uk/binaries/content/assets/metofficegovuk/pdf/services/transport/aviation/case-studies/caa-case-study-1---high-pressure.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/binaries/content/assets/metofficegovuk/pdf/services/transport/aviation/case-studies/caa-case-study-1---high-pressure.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: metoffice.gov.uk  
-   Link: <a href="https://www.metoffice.gov.uk/binaries/content/assets/metofficegovuk/pdf/services/transport/aviation/training-resources/02413-getmet-update-v6.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/binaries/content/assets/metofficegovuk/pdf/services/transport/aviation/training-resources/02413-getmet-update-v6.pdf</a>  
+   Link:<a href="https://www.metoffice.gov.uk/binaries/content/assets/metofficegovuk/pdf/services/transport/aviation/training-resources/02413-getmet-update-v6.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/binaries/content/assets/metofficegovuk/pdf/services/transport/aviation/training-resources/02413-getmet-update-v6.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: metoffice.gov.uk  
-   Link: <a href="https://www.metoffice.gov.uk/services/transport/aviation/regulated/training-resources-for-aviation/abbreviations" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/services/transport/aviation/regulated/training-resources-for-aviation/abbreviations</a>  
+   Link:<a href="https://www.metoffice.gov.uk/services/transport/aviation/regulated/training-resources-for-aviation/abbreviations" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/services/transport/aviation/regulated/training-resources-for-aviation/abbreviations</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: digital.nmla.metoffice.gov.uk  
-   Link: <a href="https://digital.nmla.metoffice.gov.uk/download/file/IO_24bec82a-2253-4b3a-b857-d4af319c113f" target="_blank" rel="noopener noreferrer nofollow">https://digital.nmla.metoffice.gov.uk/download/file/IO_24bec82a-2253-4b3a-b857-d4af319c113f</a>  
+   Link:<a href="https://digital.nmla.metoffice.gov.uk/download/file/IO_24bec82a-2253-4b3a-b857-d4af319c113f" target="_blank" rel="noopener noreferrer nofollow">https://digital.nmla.metoffice.gov.uk/download/file/IO_24bec82a-2253-4b3a-b857-d4af319c113f</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: digital.nmla.metoffice.gov.uk  
-   Link: <a href="https://digital.nmla.metoffice.gov.uk/download/file/IO_a5237e05-8679-4597-95d8-bace02b1fb02" target="_blank" rel="noopener noreferrer nofollow">https://digital.nmla.metoffice.gov.uk/download/file/IO_a5237e05-8679-4597-95d8-bace02b1fb02</a>  
+   Link:<a href="https://digital.nmla.metoffice.gov.uk/download/file/IO_a5237e05-8679-4597-95d8-bace02b1fb02" target="_blank" rel="noopener noreferrer nofollow">https://digital.nmla.metoffice.gov.uk/download/file/IO_a5237e05-8679-4597-95d8-bace02b1fb02</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: digital.nmla.metoffice.gov.uk  
-   Link: <a href="https://digital.nmla.metoffice.gov.uk/download/file/IO_f7764e9e-7782-42e3-aace-5b8f35617c61" target="_blank" rel="noopener noreferrer nofollow">https://digital.nmla.metoffice.gov.uk/download/file/IO_f7764e9e-7782-42e3-aace-5b8f35617c61</a>  
+   Link:<a href="https://digital.nmla.metoffice.gov.uk/download/file/IO_f7764e9e-7782-42e3-aace-5b8f35617c61" target="_blank" rel="noopener noreferrer nofollow">https://digital.nmla.metoffice.gov.uk/download/file/IO_f7764e9e-7782-42e3-aace-5b8f35617c61</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: digital.nmla.metoffice.gov.uk  
-   Link: <a href="https://digital.nmla.metoffice.gov.uk/download/file/IO_c2c98752-8303-41d8-bf41-7cd41589cce0" target="_blank" rel="noopener noreferrer nofollow">https://digital.nmla.metoffice.gov.uk/download/file/IO_c2c98752-8303-41d8-bf41-7cd41589cce0</a>  
+   Link:<a href="https://digital.nmla.metoffice.gov.uk/download/file/IO_c2c98752-8303-41d8-bf41-7cd41589cce0" target="_blank" rel="noopener noreferrer nofollow">https://digital.nmla.metoffice.gov.uk/download/file/IO_c2c98752-8303-41d8-bf41-7cd41589cce0</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/media/zhu/ZHU_Training_Page/fog_stuff/fog_definitions/fog.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/media/zhu/ZHU_Training_Page/fog_stuff/fog_definitions/fog.pdf</a>  
+   Link:<a href="https://www.weather.gov/media/zhu/ZHU_Training_Page/fog_stuff/fog_definitions/fog.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/media/zhu/ZHU_Training_Page/fog_stuff/fog_definitions/fog.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: forecast.weather.gov  
-   Link: <a href="https://forecast.weather.gov/glossary.php?word=C" target="_blank" rel="noopener noreferrer nofollow">https://forecast.weather.gov/glossary.php?word=C</a>  
+   Link:<a href="https://forecast.weather.gov/glossary.php?word=C" target="_blank" rel="noopener noreferrer nofollow">https://forecast.weather.gov/glossary.php?word=C</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/media/publications/front/09dec-front.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/media/publications/front/09dec-front.pdf</a>  
+   Link:<a href="https://www.weather.gov/media/publications/front/09dec-front.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/media/publications/front/09dec-front.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: aviationweather.gov  
-   Link: <a href="https://aviationweather.gov/help/data/" target="_blank" rel="noopener noreferrer nofollow">https://aviationweather.gov/help/data/</a>  
+   Link:<a href="https://aviationweather.gov/help/data/" target="_blank" rel="noopener noreferrer nofollow">https://aviationweather.gov/help/data/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: aviationweather.gov  
-   Link: <a href="https://aviationweather.gov/gfa/?tab=cigvis" target="_blank" rel="noopener noreferrer nofollow">https://aviationweather.gov/gfa/?tab=cigvis</a>  
+   Link:<a href="https://aviationweather.gov/gfa/?tab=cigvis" target="_blank" rel="noopener noreferrer nofollow">https://aviationweather.gov/gfa/?tab=cigvis</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40pavpanda/ufo-sightings-around-the-world-through-the-eyes-of-data-4e7c34412080" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40pavpanda/ufo-sightings-around-the-world-through-the-eyes-of-data-4e7c34412080</a>  
+   Link:<a href="https://medium.com/%40pavpanda/ufo-sightings-around-the-world-through-the-eyes-of-data-4e7c34412080" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40pavpanda/ufo-sightings-around-the-world-through-the-eyes-of-data-4e7c34412080</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/aliens-landed/aliens-landed-and-discovered-fog-computing-heres-what-they-d-find-weird-%EF%B8%8F-6f017c29756f" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/aliens-landed/aliens-landed-and-discovered-fog-computing-heres-what-they-d-find-weird-%EF%B8%8F-6f017c29756f</a>  
+   Link:<a href="https://medium.com/aliens-landed/aliens-landed-and-discovered-fog-computing-heres-what-they-d-find-weird-%EF%B8%8F-6f017c29756f" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/aliens-landed/aliens-landed-and-discovered-fog-computing-heres-what-they-d-find-weird-%EF%B8%8F-6f017c29756f</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: ulc.gov.pl  
-   Link: <a href="https://ulc.gov.pl/_download/bezpieczenstow_lotow/ALAR/BN_5.3_-_Visual_Illusions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ulc.gov.pl/_download/bezpieczenstow_lotow/ALAR/BN_5.3_-_Visual_Illusions.pdf</a>  
+   Link:<a href="https://ulc.gov.pl/_download/bezpieczenstow_lotow/ALAR/BN_5.3_-_Visual_Illusions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ulc.gov.pl/_download/bezpieczenstow_lotow/ALAR/BN_5.3_-_Visual_Illusions.pdf</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: community.wmo.int  
    Title: World Meteorological Organization Aviation  
-   Link: <a href="https://community.wmo.int/site/knowledge-hub/programmes-and-initiatives/aviation/aviation-hazards-low-visibility-and-low-cloud" target="_blank" rel="noopener noreferrer nofollow">https://community.wmo.int/site/knowledge-hub/programmes-and-initiatives/aviation/aviation-hazards-low-visibility-and-low-cloud</a>  
+   Link:<a href="https://community.wmo.int/site/knowledge-hub/programmes-and-initiatives/aviation/aviation-hazards-low-visibility-and-low-cloud" target="_blank" rel="noopener noreferrer nofollow">https://community.wmo.int/site/knowledge-hub/programmes-and-initiatives/aviation/aviation-hazards-low-visibility-and-low-cloud</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: cloudatlas.wmo.int  
-   Link: <a href="https://cloudatlas.wmo.int/mirage.html" target="_blank" rel="noopener noreferrer nofollow">https://cloudatlas.wmo.int/mirage.html</a>  
+   Link:<a href="https://cloudatlas.wmo.int/mirage.html" target="_blank" rel="noopener noreferrer nofollow">https://cloudatlas.wmo.int/mirage.html</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Mirage" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mirage</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Mirage" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mirage</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: hyperphysics.phy-astr.gsu.edu  
-   Link: <a href="https://hyperphysics.phy-astr.gsu.edu/hbase/atmos/mirage.html" target="_blank" rel="noopener noreferrer nofollow">https://hyperphysics.phy-astr.gsu.edu/hbase/atmos/mirage.html</a>  
+   Link:<a href="https://hyperphysics.phy-astr.gsu.edu/hbase/atmos/mirage.html" target="_blank" rel="noopener noreferrer nofollow">https://hyperphysics.phy-astr.gsu.edu/hbase/atmos/mirage.html</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: tarmacview.com  
    Title: Meteorological Visibility  
-   Link: <a href="https://www.tarmacview.com/glossary/meteorological-visibility/" target="_blank" rel="noopener noreferrer nofollow">https://www.tarmacview.com/glossary/meteorological-visibility/</a>  
+   Link:<a href="https://www.tarmacview.com/glossary/meteorological-visibility/" target="_blank" rel="noopener noreferrer nofollow">https://www.tarmacview.com/glossary/meteorological-visibility/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: journalofscientificexploration.org  
-   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/view/124/62" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/124/62</a>  
+   Link:<a href="https://journalofscientificexploration.org/index.php/jse/article/view/124/62" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/124/62</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
+   Link:<a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/science/mirage" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/science/mirage</a>  
+   Link:<a href="https://www.ebsco.com/research-starters/science/mirage" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/science/mirage</a>  
 
 ### Additional References
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2502.06794v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v2</a>  
+   Link:<a href="https://arxiv.org/html/2502.06794v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v2</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: youtube.com  
    Title: Identifying Aerial Phenomena: The Role of Weather Data  
-   Link: <a href="https://www.youtube.com/watch?v=kYJzXf12Y1M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kYJzXf12Y1M</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating UAP Reports: Separating Objects from Atmospheric Conditions...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=kYJzXf12Y1M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kYJzXf12Y1M</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating UAP Reports: Separating Objects from Atmospheric Conditions...</p></details>
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100040072-9.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100040072-9.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100040072-9.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100040072-9.pdf</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: youtube.com  
    Title: How Weather Balloons and Atmosphere Affect UFO Sightings  
-   Link: <a href="https://www.youtube.com/watch?v=W0yV8sN5R2U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=W0yV8sN5R2U</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Meteorological Visibility and UFO Reporting...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=W0yV8sN5R2U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=W0yV8sN5R2U</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Meteorological Visibility and UFO Reporting...</p></details>
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: youtube.com  
    Title: Understanding Meteorological Visibility and UFO Reporting  
-   Link: <a href="https://www.youtube.com/watch?v=9pG8z9R4GzM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9pG8z9R4GzM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Identifying Aerial Phenomena: The Role of Weather Data...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=9pG8z9R4GzM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9pG8z9R4GzM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Identifying Aerial Phenomena: The Role of Weather Data...</p></details>
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: youtube.com  
    Title: Mick West: Identifying UAPs and Weather Phenomena  
-   Link: <a href="https://www.youtube.com/watch?v=wX-41aJv_gM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wX-41aJv_gM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Weather Balloons and Atmosphere Affect UFO Sightings...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=wX-41aJv_gM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wX-41aJv_gM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Weather Balloons and Atmosphere Affect UFO Sightings...</p></details>
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/272664441_Identification_of_Visibility_Reducing_Weather_Phenomena_Due_to_Aerosols" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/272664441_Identification_of_Visibility_Reducing_Weather_Phenomena_Due_to_Aerosols</a>  
+   Link:<a href="https://www.researchgate.net/publication/272664441_Identification_of_Visibility_Reducing_Weather_Phenomena_Due_to_Aerosols" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/272664441_Identification_of_Visibility_Reducing_Weather_Phenomena_Due_to_Aerosols</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Boldmethod/posts/1-most-weather-reported-in-a-metar-observation-is-within-_____-of-the-airports-l/961050876049994/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Boldmethod/posts/1-most-weather-reported-in-a-metar-observation-is-within-_____-of-the-airports-l/961050876049994/</a>  
+   Link:<a href="https://www.facebook.com/Boldmethod/posts/1-most-weather-reported-in-a-metar-observation-is-within-_____-of-the-airports-l/961050876049994/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Boldmethod/posts/1-most-weather-reported-in-a-metar-observation-is-within-_____-of-the-airports-l/961050876049994/</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/278390344_Instrumented_Monitoring_of_Aerial_Anomalies_-_A_Scientific_Approach_to_the_Investigation_On_Anomalous_Atmospheric_Light_Phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/278390344_Instrumented_Monitoring_of_Aerial_Anomalies_-_A_Scientific_Approach_to_the_Investigation_On_Anomalous_Atmospheric_Light_Phenomena</a>  
+   Link:<a href="https://www.researchgate.net/publication/278390344_Instrumented_Monitoring_of_Aerial_Anomalies_-_A_Scientific_Approach_to_the_Investigation_On_Anomalous_Atmospheric_Light_Phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/278390344_Instrumented_Monitoring_of_Aerial_Anomalies_-_A_Scientific_Approach_to_the_Investigation_On_Anomalous_Atmospheric_Light_Phenomena</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/375267222_Light_refraction_in_the_earth%27s_atmosphere_II_Inferior_mirages_regions_for_images_and_objects_observation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/375267222_Light_refraction_in_the_earth%27s_atmosphere_II_Inferior_mirages_regions_for_images_and_objects_observation</a>
+   Link:<a href="https://www.researchgate.net/publication/375267222_Light_refraction_in_the_earth%27s_atmosphere_II_Inferior_mirages_regions_for_images_and_objects_observation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/375267222_Light_refraction_in_the_earth%27s_atmosphere_II_Inferior_mirages_regions_for_images_and_objects_observation</a>

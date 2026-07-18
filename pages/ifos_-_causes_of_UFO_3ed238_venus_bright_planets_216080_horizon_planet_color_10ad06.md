@@ -277,27 +277,27 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_ho
 Reports of a bright object that flashes red, blue, green, and white near the horizon are among the most common categories of UFO sightings. In many cases, the witness is observing a bright planet—often [Venus]({{ 'venus/' | relative_url }}), but sometimes Jupiter or Mercury—through a particularly difficult section of Earth's [atmosphere]({{ 'atmosphere/' | relative_url }}). The colour changes can appear dramatic enough to suggest an active craft, a rotating beacon, or an object making controlled movements. Yet the horizon itself is often responsible for much of the spectacle.
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_horizon_planet_color_10ad06-Illustration-1-dark.svg" | relative_url }}" alt="Color Shifts illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_horizon_planet_color_10ad06-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_horizon_planet_color_10ad06-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The key point is not simply that planets can look colourful. It is that atmospheric turbulence, refraction, haze, and thin cloud layers can combine to create rapid colour shifts and shimmering effects that make a stationary astronomical object appear dynamic and unusual. This mechanism has been recognised for decades in observational astronomy and is especially strong when [bright objects]({{ 'bright-objects/' | relative_url }}) are viewed low in the sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Twinkling" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+The key point is not simply that planets can look colourful. It is that atmospheric turbulence, refraction, haze, and thin cloud layers can combine to create rapid colour shifts and shimmering effects that make a stationary astronomical object appear dynamic and unusual. This mechanism has been recognised for decades in observational astronomy and is especially strong when [bright objects]({{ 'bright-objects/' | relative_url }}) are viewed low in the sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Twinkling" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 ## Scintillation Near the Horizon
 
-A planet close to the horizon is seen through a far greater thickness of atmosphere than the same planet viewed high overhead. Light must travel through multiple layers of air that differ in temperature, density, and moisture content. These layers bend the incoming light slightly differently from moment to moment. The result is atmospheric scintillation: rapid variations in brightness, apparent position, and sometimes colour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Atmospheric_refraction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Atmospheric refraction</span><span class="citation-popover-snippet">Atmospheric refraction</span></span></span>
+A planet close to the horizon is seen through a far greater thickness of atmosphere than the same planet viewed high overhead. Light must travel through multiple layers of air that differ in temperature, density, and moisture content. These layers bend the incoming light slightly differently from moment to moment. The result is atmospheric scintillation: rapid variations in brightness, apparent position, and sometimes colour.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Atmospheric_refraction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Atmospheric refraction</span><span class="citation-popover-snippet">Atmospheric refraction</span></span></span>
 
-Although planets normally twinkle less than [stars]({{ 'stars/' | relative_url }}) because they have a small visible disc rather than appearing as perfect points of light, that advantage weakens near the horizon. The longer atmospheric path increases turbulence effects, allowing even bright planets to shimmer noticeably. Astronomical references note that scintillation becomes much more pronounced as objects approach the horizon because the light crosses more disturbed air before reaching the observer. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Identification studies of UFOs</span><span class="citation-popover-snippet">Identification studies of UFOs</span></span></span>
+Although planets normally twinkle less than [stars]({{ 'stars/' | relative_url }}) because they have a small visible disc rather than appearing as perfect points of light, that advantage weakens near the horizon. The longer atmospheric path increases turbulence effects, allowing even bright planets to shimmer noticeably. Astronomical references note that scintillation becomes much more pronounced as objects approach the horizon because the light crosses more disturbed air before reaching the observer.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Identification studies of UFOs</span><span class="citation-popover-snippet">Identification studies of UFOs</span></span></span>
 
 For UFO witnesses, this matters because the eye often interprets changing brightness as movement or activity. A stationary Venus may appear to pulse, flare, or briefly dim and brighten. Combined with the absence of [distance cues]({{ 'distance-cues/' | relative_url }}) at night, these changes can make the object seem alive or responsive when it is actually fixed in celestial position.
 
-Another source of confusion is that turbulence does not merely alter brightness. It can also create tiny shifts in apparent position. While these shifts are usually small, they can produce a visual impression that the object is wobbling, darting, or vibrating against the horizon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Twinkling" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+Another source of confusion is that turbulence does not merely alter brightness. It can also create tiny shifts in apparent position. While these shifts are usually small, they can produce a visual impression that the object is wobbling, darting, or vibrating against the horizon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Twinkling" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 ## Haze, Cloud, and Reddening Effects
 
-Colour-changing reports often involve more than simple twinkling. The atmosphere acts like a weak prism, bending different colours of light by different amounts. Blue wavelengths are refracted more strongly than red wavelengths. Near the horizon this effect becomes much stronger because the viewing angle is so shallow. Astronomers refer to this as atmospheric dispersion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.astropix.com/books/GDPI/CHAPTER1/105.HTM" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astropix.com">[Astropix]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astropix.com</span><span class="citation-popover-title">Atmospheric Effects Scintillation</span><span class="citation-popover-snippet">Atmospheric EffectsScintillation - Scintillation causes rapid changes in brightness in the celestial object being viewed. This is...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Twinkling" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia Under steady conditions]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>, atmospheric dispersion can produce subtle colour fringing. Under turbulent conditions, the coloured components can fluctuate independently, causing flashes of red, blue, green, or white. To an observer unfamiliar with the effect, the planet may appear to be actively changing colour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.astropix.com/books/GDPI/CHAPTER1/105.HTM" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astropix.com">[Astropix]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astropix.com</span><span class="citation-popover-title">Atmospheric Effects Scintillation</span><span class="citation-popover-snippet">Atmospheric EffectsScintillation - Scintillation causes rapid changes in brightness in the celestial object being viewed. This is...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cloudynights.com/forums/topic/764513-about-the-twinkling-of-stars/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cloudynights.com">[Cloudy Nights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cloudynights.com</span><span class="citation-popover-title">764513 about the twinkling of stars</span><span class="citation-popover-snippet">Cloudy NightsAbout the twinkling of stars3 Apr 2021 — Refractive dispersion is due to the fact that air bends blue light more than red, s...</span></span></span>
+Colour-changing reports often involve more than simple twinkling. The atmosphere acts like a weak prism, bending different colours of light by different amounts. Blue wavelengths are refracted more strongly than red wavelengths. Near the horizon this effect becomes much stronger because the viewing angle is so shallow. Astronomers refer to this as atmospheric dispersion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.astropix.com/books/GDPI/CHAPTER1/105.HTM" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astropix.com">[Astropix]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astropix.com</span><span class="citation-popover-title">Atmospheric Effects Scintillation</span><span class="citation-popover-snippet">Atmospheric EffectsScintillation - Scintillation causes rapid changes in brightness in the celestial object being viewed. This is...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Twinkling" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia Under steady conditions]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>, atmospheric dispersion can produce subtle colour fringing. Under turbulent conditions, the coloured components can fluctuate independently, causing flashes of red, blue, green, or white. To an observer unfamiliar with the effect, the planet may appear to be actively changing colour.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.astropix.com/books/GDPI/CHAPTER1/105.HTM" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astropix.com">[Astropix]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astropix.com</span><span class="citation-popover-title">Atmospheric Effects Scintillation</span><span class="citation-popover-snippet">Atmospheric EffectsScintillation - Scintillation causes rapid changes in brightness in the celestial object being viewed. This is...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cloudynights.com/forums/topic/764513-about-the-twinkling-of-stars/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cloudynights.com">[Cloudy Nights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cloudynights.com</span><span class="citation-popover-title">764513 about the twinkling of stars</span><span class="citation-popover-snippet">Cloudy NightsAbout the twinkling of stars3 Apr 2021 — Refractive dispersion is due to the fact that air bends blue light more than red, s...</span></span></span>
 
-Haze and airborne particles add another layer of distortion. As light passes through a long atmospheric path, shorter blue wavelengths are scattered more efficiently than red wavelengths. This is why celestial objects generally appear redder near the horizon. High humidity, dust, smoke, or pollution can intensify the effect. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cloudynights.com/forums/topic/764513-about-the-twinkling-of-stars/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cloudynights.com">[Cloudy Nights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cloudynights.com</span><span class="citation-popover-title">764513 about the twinkling of stars</span><span class="citation-popover-snippet">Cloudy NightsAbout the twinkling of stars3 Apr 2021 — Refractive dispersion is due to the fact that air bends blue light more than red, s...</span></span></span>
+Haze and airborne particles add another layer of distortion. As light passes through a long atmospheric path, shorter blue wavelengths are scattered more efficiently than red wavelengths. This is why celestial objects generally appear redder near the horizon. High humidity, dust, smoke, or pollution can intensify the effect.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cloudynights.com/forums/topic/764513-about-the-twinkling-of-stars/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cloudynights.com">[Cloudy Nights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cloudynights.com</span><span class="citation-popover-title">764513 about the twinkling of stars</span><span class="citation-popover-snippet">Cloudy NightsAbout the twinkling of stars3 Apr 2021 — Refractive dispersion is due to the fact that air bends blue light more than red, s...</span></span></span>
 
 Thin cloud can make the appearance even stranger. Passing layers of semi-transparent cloud may briefly attenuate parts of the planet's light, causing sudden changes in colour balance or brightness. Witnesses sometimes describe this as a light "switching colours" or "rotating through colours", when the effect is actually being generated by changing atmospheric transmission between the observer and the planet.
 
-A useful clue is that many colour-changing UFO reports occur during twilight or shortly after sunset, exactly when bright planets tend to be low in the sky and atmospheric effects are strongest. This timing is consistent with atmospheric optics rather than with an object generating its own complex light display. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Atmospheric_refraction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Atmospheric refraction</span><span class="citation-popover-snippet">Atmospheric refraction</span></span></span>
+A useful clue is that many colour-changing UFO reports occur during twilight or shortly after sunset, exactly when bright planets tend to be low in the sky and atmospheric effects are strongest. This timing is consistent with atmospheric optics rather than with an object generating its own complex light display.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Atmospheric_refraction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Atmospheric refraction</span><span class="citation-popover-snippet">Atmospheric refraction</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_horizon_planet_color_10ad06-Illustration-2-dark.svg" | relative_url }}" alt="Color Shifts illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_horizon_planet_color_10ad06-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_horizon_planet_color_10ad06-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Witnesses Often Overestimate the Effect
@@ -318,13 +318,13 @@ A bright horizon object may be reported as:
 
 These descriptions are not necessarily inaccurate accounts of what the witness perceived. The important distinction is that the perceived behaviour may arise from atmospheric distortion acting on a fixed celestial object rather than from the object itself performing those actions.
 
-Astronomers frequently encounter similar effects when observing bright stars and planets at low altitudes. Observers using telescopes often see coloured fringes, flashes, and image instability that disappear once the object climbs higher above the horizon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.astroshop.eu/magazine/practical-tips/peter-s-problem-solvers/colour-fringing-on-low-lying-planets/i%2C1484" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astroshop.eu">[Astroshop]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astroshop.eu</span><span class="citation-popover-snippet">Colour fringing on low-lying planetsColour fringing on planets is very common, even with expensive telescopes. The reason for th...</span></span></span>
+Astronomers frequently encounter similar effects when observing bright stars and planets at low altitudes. Observers using telescopes often see coloured fringes, flashes, and image instability that disappear once the object climbs higher above the horizon.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.astroshop.eu/magazine/practical-tips/peter-s-problem-solvers/colour-fringing-on-low-lying-planets/i%2C1484" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astroshop.eu">[Astroshop]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astroshop.eu</span><span class="citation-popover-snippet">Colour fringing on low-lying planetsColour fringing on planets is very common, even with expensive telescopes. The reason for th...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dzLQgs4MAA0" title="Venus Updates: Strange Flashes, Atmospheric Life and 85000 Volcanoes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dzLQgs4MAA0" target="_blank" rel="noopener noreferrer">Venus Updates: Strange Flashes, Atmospheric Life and 85000 Volcanoes</a></p><p class="youtube-embed-meta">Channel: Anton Petrov &middot; Views: 147.4K &middot; Uploaded: November 2023 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dzLQgs4MAA0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dzLQgs4MAA0">Open on YouTube</a></p></div></div></div>
 
 ## When Colour Change Is Not Enough
 
-Colour change by itself is weak evidence for an unidentified craft because ordinary atmospheric processes readily produce it. A bright object low in the sky that remains fixed relative to the stars, follows the expected position of a known planet, and exhibits colour flashing or shimmering is consistent with atmospheric scintillation and dispersion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Identification studies of UFOs</span><span class="citation-popover-snippet">Identification studies of UFOs</span></span></span>
+Colour change by itself is weak evidence for an unidentified craft because ordinary atmospheric processes readily produce it. A bright object low in the sky that remains fixed relative to the stars, follows the expected position of a known planet, and exhibits colour flashing or shimmering is consistent with atmospheric scintillation and dispersion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Identification studies of UFOs</span><span class="citation-popover-snippet">Identification studies of UFOs</span></span></span>
 
 More useful questions are:
 
@@ -337,199 +337,199 @@ More useful questions are:
 
 </div>
 
-In many UFO investigations, the strongest clue is not the colour itself but the combination of a bright planetary object, a [low horizon]({{ 'low-horizon/' | relative_url }}) position, and reports of flashing colours. That pattern closely matches the known optical effects produced when planetary light passes through turbulent air, haze, and thin cloud near the horizon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Identification studies of UFOs</span><span class="citation-popover-snippet">Identification studies of UFOs</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Identification studies of UFOs</span><span class="citation-popover-snippet">Identification studies of UFOs</span></span></span>
+In many UFO investigations, the strongest clue is not the colour itself but the combination of a bright planetary object, a [low horizon]({{ 'low-horizon/' | relative_url }}) position, and reports of flashing colours. That pattern closely matches the known optical effects produced when planetary light passes through turbulent air, haze, and thin cloud near the horizon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Identification studies of UFOs</span><span class="citation-popover-snippet">Identification studies of UFOs</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Identification studies of UFOs</span><span class="citation-popover-snippet">Identification studies of UFOs</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_horizon_planet_color_10ad06-Illustration-3-dark.svg" | relative_url }}" alt="Color Shifts illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_horizon_planet_color_10ad06-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_horizon_planet_color_10ad06-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Low Planets Seem to Change Colour. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Low Planets Seem to Change Colour. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Astronomy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eInnwg77gbkC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Astronomy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Astronomy">Bad Astronomy</a>
-        </h4>
-        <p class="fr-book-author">By Philip C. Plait</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Astronomy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eInnwg77gbkC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Astronomy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Astronomy">Bad Astronomy</a>
+</h4>
+<p class="fr-book-author">By Philip C. Plait</p>
         
-        <p class="fr-book-desc">Directly addresses twinkling, color changes and sky misperceptions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses twinkling, color changes and sky misperceptions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Explains atmospheric effects on planets near the horizon.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains atmospheric effects on planets near the horizon.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
-        </h4>
-        <p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
+</h4>
+<p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
         
-        <p class="fr-book-desc">Helps readers recognize how planets actually appear in the sky.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers recognize how planets actually appear in the sky.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cosmos on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VKjWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Cosmos" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cosmos">Cosmos</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cosmos on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VKjWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Cosmos" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cosmos">Cosmos</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Provides broader context about planets and observational astronomy.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader context about planets and observational astronomy.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Astronomy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Astronomy</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Astronomy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Astronomy</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-planets-seem-to-change-colour-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="venus poster" data-ebay-reference="why-low-planets-seem-to-change-colour-venus-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rossetti TOP SELECTION Fine Art Prints A1 A2 A3 A4 easy fit wall art poster"><img src="https://i.ebayimg.com/images/g/7lMAAeSwevpooz5m/s-l225.jpg" alt="Listing image for Rossetti TOP SELECTION Fine Art Prints A1 A2 A3 A4 easy fit wall art poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-planets-seem-to-change-colour-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="venus poster" data-ebay-reference="why-low-planets-seem-to-change-colour-venus-poster" target="_blank" rel="sponsored noopener noreferrer">Rossetti TOP SELECTION Fine Art Prints A1 A2 A3 A4 easy fit wall art poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-planets-seem-to-change-colour-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="venus poster" data-ebay-reference="why-low-planets-seem-to-change-colour-venus-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for venus poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: venus poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-planets-seem-to-change-colour-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="venus poster" data-ebay-reference="why-low-planets-seem-to-change-colour-venus-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-planets-seem-to-change-colour-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="venus poster" data-ebay-reference="why-low-planets-seem-to-change-colour-venus-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rossetti TOP SELECTION Fine Art Prints A1 A2 A3 A4 easy fit wall art poster"><img src="https://i.ebayimg.com/images/g/7lMAAeSwevpooz5m/s-l225.jpg" alt="Listing image for Rossetti TOP SELECTION Fine Art Prints A1 A2 A3 A4 easy fit wall art poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-planets-seem-to-change-colour-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="venus poster" data-ebay-reference="why-low-planets-seem-to-change-colour-venus-poster" target="_blank" rel="sponsored noopener noreferrer">Rossetti TOP SELECTION Fine Art Prints A1 A2 A3 A4 easy fit wall art poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-planets-seem-to-change-colour-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="venus poster" data-ebay-reference="why-low-planets-seem-to-change-colour-venus-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for venus poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: venus poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-planets-seem-to-change-colour-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="venus poster" data-ebay-reference="why-low-planets-seem-to-change-colour-venus-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-planets-seem-to-change-colour-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="venus poster" data-ebay-reference="why-low-planets-seem-to-change-colour-venus-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PAINTINGS REPRODUCTION POSTER PRINTS - Fine Art - A4 A3 A2 - Home Decor Wall Art"><img src="https://i.ebayimg.com/images/g/wJUAAOSwNI1jXvHb/s-l225.jpg" alt="Listing image for PAINTINGS REPRODUCTION POSTER PRINTS - Fine Art - A4 A3 A2 - Home Decor Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-planets-seem-to-change-colour-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="venus poster" data-ebay-reference="why-low-planets-seem-to-change-colour-venus-poster" target="_blank" rel="sponsored noopener noreferrer">PAINTINGS REPRODUCTION POSTER PRINTS - Fine Art - A4 A3 A2 - Home Decor Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-planets-seem-to-change-colour-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="venus poster" data-ebay-reference="why-low-planets-seem-to-change-colour-venus-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for venus poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: venus poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-planets-seem-to-change-colour-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="venus poster" data-ebay-reference="why-low-planets-seem-to-change-colour-venus-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-planets-seem-to-change-colour-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="venus poster" data-ebay-reference="why-low-planets-seem-to-change-colour-venus-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PAINTINGS REPRODUCTION POSTER PRINTS - Fine Art - A4 A3 A2 - Home Decor Wall Art"><img src="https://i.ebayimg.com/images/g/wJUAAOSwNI1jXvHb/s-l225.jpg" alt="Listing image for PAINTINGS REPRODUCTION POSTER PRINTS - Fine Art - A4 A3 A2 - Home Decor Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-planets-seem-to-change-colour-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="venus poster" data-ebay-reference="why-low-planets-seem-to-change-colour-venus-poster" target="_blank" rel="sponsored noopener noreferrer">PAINTINGS REPRODUCTION POSTER PRINTS - Fine Art - A4 A3 A2 - Home Decor Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-planets-seem-to-change-colour-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="venus poster" data-ebay-reference="why-low-planets-seem-to-change-colour-venus-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for venus poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: venus poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-planets-seem-to-change-colour-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="venus poster" data-ebay-reference="why-low-planets-seem-to-change-colour-venus-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-planets-seem-to-change-colour-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="venus poster" data-ebay-reference="why-low-planets-seem-to-change-colour-venus-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Venus Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/2qEAAeSwErZpW~3Q/s-l225.jpg" alt="Listing image for Venus Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-planets-seem-to-change-colour-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="venus poster" data-ebay-reference="why-low-planets-seem-to-change-colour-venus-poster" target="_blank" rel="sponsored noopener noreferrer">Venus Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-planets-seem-to-change-colour-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="venus poster" data-ebay-reference="why-low-planets-seem-to-change-colour-venus-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for venus poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: venus poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-planets-seem-to-change-colour-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="venus poster" data-ebay-reference="why-low-planets-seem-to-change-colour-venus-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-planets-seem-to-change-colour-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="venus poster" data-ebay-reference="why-low-planets-seem-to-change-colour-venus-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Venus Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/2qEAAeSwErZpW~3Q/s-l225.jpg" alt="Listing image for Venus Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-planets-seem-to-change-colour-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="venus poster" data-ebay-reference="why-low-planets-seem-to-change-colour-venus-poster" target="_blank" rel="sponsored noopener noreferrer">Venus Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-planets-seem-to-change-colour-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="venus poster" data-ebay-reference="why-low-planets-seem-to-change-colour-venus-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for venus poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: venus poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-planets-seem-to-change-colour-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="venus poster" data-ebay-reference="why-low-planets-seem-to-change-colour-venus-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-planets-seem-to-change-colour-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="venus poster" data-ebay-reference="why-low-planets-seem-to-change-colour-venus-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sandro Botticelli the Birth of Venus Art Print Poster Wall Decor Premium Stylish"><img src="https://i.ebayimg.com/images/g/nPcAAeSwNwJqKIZU/s-l225.jpg" alt="Listing image for Sandro Botticelli the Birth of Venus Art Print Poster Wall Decor Premium Stylish" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-planets-seem-to-change-colour-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="venus poster" data-ebay-reference="why-low-planets-seem-to-change-colour-venus-poster" target="_blank" rel="sponsored noopener noreferrer">Sandro Botticelli the Birth of Venus Art Print Poster Wall Decor Premium Stylish</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-planets-seem-to-change-colour-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="venus poster" data-ebay-reference="why-low-planets-seem-to-change-colour-venus-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for venus poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: venus poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-planets-seem-to-change-colour-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="venus poster" data-ebay-reference="why-low-planets-seem-to-change-colour-venus-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-planets-seem-to-change-colour-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="venus poster" data-ebay-reference="why-low-planets-seem-to-change-colour-venus-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-planets-seem-to-change-colour-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="venus poster" data-ebay-reference="why-low-planets-seem-to-change-colour-venus-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sandro Botticelli the Birth of Venus Art Print Poster Wall Decor Premium Stylish"><img src="https://i.ebayimg.com/images/g/nPcAAeSwNwJqKIZU/s-l225.jpg" alt="Listing image for Sandro Botticelli the Birth of Venus Art Print Poster Wall Decor Premium Stylish" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-planets-seem-to-change-colour-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="venus poster" data-ebay-reference="why-low-planets-seem-to-change-colour-venus-poster" target="_blank" rel="sponsored noopener noreferrer">Sandro Botticelli the Birth of Venus Art Print Poster Wall Decor Premium Stylish</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-planets-seem-to-change-colour-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="venus poster" data-ebay-reference="why-low-planets-seem-to-change-colour-venus-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for venus poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: venus poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-planets-seem-to-change-colour-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="venus poster" data-ebay-reference="why-low-planets-seem-to-change-colour-venus-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-planets-seem-to-change-colour-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="venus poster" data-ebay-reference="why-low-planets-seem-to-change-colour-venus-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -545,7 +545,7 @@ In many UFO investigations, the strongest clue is not the colour itself but the 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -565,7 +565,7 @@ In many UFO investigations, the strongest clue is not the colour itself but the 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -597,7 +597,7 @@ In many UFO investigations, the strongest clue is not the colour itself but the 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -649,7 +649,7 @@ In many UFO investigations, the strongest clue is not the colour itself but the 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -694,7 +694,7 @@ In many UFO investigations, the strongest clue is not the colour itself but the 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -735,94 +735,94 @@ In many UFO investigations, the strongest clue is not the colour itself but the 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Twinkling" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Twinkling</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Twinkling" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Twinkling</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Atmospheric refraction  
-   Link: <a href="https://en.wikipedia.org/wiki/Atmospheric_refraction" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Atmospheric_refraction</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Atmospheric_refraction" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Atmospheric_refraction</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: astropix.com  
    Title: Atmospheric Effects Scintillation  
-   Link: <a href="https://www.astropix.com/books/GDPI/CHAPTER1/105.HTM" target="_blank" rel="noopener noreferrer nofollow">https://www.astropix.com/books/GDPI/CHAPTER1/105.HTM</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Atmospheric EffectsScintillation - Scintillation causes rapid changes in brightness in the celestial object being viewed. This is...</p></details>
+   Link:<a href="https://www.astropix.com/books/GDPI/CHAPTER1/105.HTM" target="_blank" rel="noopener noreferrer nofollow">https://www.astropix.com/books/GDPI/CHAPTER1/105.HTM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Atmospheric EffectsScintillation - Scintillation causes rapid changes in brightness in the celestial object being viewed. This is...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: astroshop.eu  
-   Link: <a href="https://www.astroshop.eu/magazine/practical-tips/peter-s-problem-solvers/colour-fringing-on-low-lying-planets/i%2C1484" target="_blank" rel="noopener noreferrer nofollow">https://www.astroshop.eu/magazine/practical-tips/peter-s-problem-solvers/colour-fringing-on-low-lying-planets/i%2C1484</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Colour fringing on low-lying planetsColour fringing on planets is very common, even with expensive telescopes. The reason for th...</p></details>
+   Link:<a href="https://www.astroshop.eu/magazine/practical-tips/peter-s-problem-solvers/colour-fringing-on-low-lying-planets/i%2C1484" target="_blank" rel="noopener noreferrer nofollow">https://www.astroshop.eu/magazine/practical-tips/peter-s-problem-solvers/colour-fringing-on-low-lying-planets/i%2C1484</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Colour fringing on low-lying planetsColour fringing on planets is very common, even with expensive telescopes. The reason for th...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Identification studies of UFOs  
-   Link: <a href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Identification_studies_of_UFOs</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Identification_studies_of_UFOs</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: hero.epa.gov  
-   Link: <a href="https://hero.epa.gov/reference/2583722/" target="_blank" rel="noopener noreferrer nofollow">https://hero.epa.gov/reference/2583722/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>of OCS, upper limit to H2S, and latitudinal variations...by VA Krasnopolsky · 2008 · Cited by 58 — Venus was observed at 2.4 and 3.7 mu...</p></details>
+   Link:<a href="https://hero.epa.gov/reference/2583722/" target="_blank" rel="noopener noreferrer nofollow">https://hero.epa.gov/reference/2583722/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of OCS, upper limit to H2S, and latitudinal variations...by VA Krasnopolsky · 2008 · Cited by 58 — Venus was observed at 2.4 and 3.7 mu...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cloudynights.com  
    Title: 764513 about the twinkling of stars  
-   Link: <a href="https://www.cloudynights.com/forums/topic/764513-about-the-twinkling-of-stars/" target="_blank" rel="noopener noreferrer nofollow">https://www.cloudynights.com/forums/topic/764513-about-the-twinkling-of-stars/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cloudy NightsAbout the twinkling of stars3 Apr 2021 — Refractive dispersion is due to the fact that air bends blue light more than red, s...</p></details>
+   Link:<a href="https://www.cloudynights.com/forums/topic/764513-about-the-twinkling-of-stars/" target="_blank" rel="noopener noreferrer nofollow">https://www.cloudynights.com/forums/topic/764513-about-the-twinkling-of-stars/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cloudy NightsAbout the twinkling of stars3 Apr 2021 — Refractive dispersion is due to the fact that air bends blue light more than red, s...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/askastronomy/comments/1fhig5z/a_flickering_object_in_the_northern_hemisphere/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askastronomy/comments/1fhig5z/a_flickering_object_in_the_northern_hemisphere/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A “flickering” object in the northern hemisphere: r/askastronomyBright stars twinkle more, and stars near the horizon twinkle more. They...</p></details>
+   Link:<a href="https://www.reddit.com/r/askastronomy/comments/1fhig5z/a_flickering_object_in_the_northern_hemisphere/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askastronomy/comments/1fhig5z/a_flickering_object_in_the_northern_hemisphere/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A “flickering” object in the northern hemisphere: r/askastronomyBright stars twinkle more, and stars near the horizon twinkle more. They...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: morningstarmissions.space  
-   Link: <a href="https://www.morningstarmissions.space/atmosphereanomalies" target="_blank" rel="noopener noreferrer nofollow">https://www.morningstarmissions.space/atmosphereanomalies</a>  
+   Link:<a href="https://www.morningstarmissions.space/atmosphereanomalies" target="_blank" rel="noopener noreferrer nofollow">https://www.morningstarmissions.space/atmosphereanomalies</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: aasnova.org  
    Title: using spacecraft signals to measure sulfur species on venus  
-   Link: <a href="https://aasnova.org/2023/05/10/using-spacecraft-signals-to-measure-sulfur-species-on-venus/" target="_blank" rel="noopener noreferrer nofollow">https://aasnova.org/2023/05/10/using-spacecraft-signals-to-measure-sulfur-species-on-venus/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Using Spacecraft Signals to Measure Sulfur Species on...10 May 2023 — Upcoming missions to Venus will seek trace amounts of sulfur-conta...</p></details>
+   Link:<a href="https://aasnova.org/2023/05/10/using-spacecraft-signals-to-measure-sulfur-species-on-venus/" target="_blank" rel="noopener noreferrer nofollow">https://aasnova.org/2023/05/10/using-spacecraft-signals-to-measure-sulfur-species-on-venus/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Using Spacecraft Signals to Measure Sulfur Species on...10 May 2023 — Upcoming missions to Venus will seek trace amounts of sulfur-conta...</p></details>
    Published: May 2023  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: primitiveproton.com  
    Title: Few stars, such as Betelgeuse, [Sirius](&#123;&#123; 'sirius/' | relative_url &#125;&#125;), and Rigel  
-   Link: <a href="https://primitiveproton.com/atmospheric-scintillation-why-stars-twinkle-and-planets-dont/" target="_blank" rel="noopener noreferrer nofollow">https://primitiveproton.com/atmospheric-scintillation-why-stars-twinkle-and-planets-dont/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Atmospheric Scintillation: Why Stars Twinkle And Planets...It is an astronomical term for changes in stars&#x27; brightness or their colors b...</p></details>
+   Link:<a href="https://primitiveproton.com/atmospheric-scintillation-why-stars-twinkle-and-planets-dont/" target="_blank" rel="noopener noreferrer nofollow">https://primitiveproton.com/atmospheric-scintillation-why-stars-twinkle-and-planets-dont/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Atmospheric Scintillation: Why Stars Twinkle And Planets...It is an astronomical term for changes in stars&#x27; brightness or their colors b...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: orbi.uliege.be  
    Title: ISSI Therm Struct Paper final 12 April 2017  
-   Link: <a href="https://orbi.uliege.be/bitstream/2268/213261/1/ISSI-Therm-Struct%20Paper%20-%20final%20-%2012%20April%202017.pdf" target="_blank" rel="noopener noreferrer nofollow">https://orbi.uliege.be/bitstream/2268/213261/1/ISSI-Therm-Struct%20Paper%20-%20final%20-%2012%20April%202017.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Thermal Structure of the Venus Atmosphereby SS Limaye · 2017 · Cited by 71 — The atmospheric profiles cover the upper troposphere and mes...</p></details>
+   Link:<a href="https://orbi.uliege.be/bitstream/2268/213261/1/ISSI-Therm-Struct%20Paper%20-%20final%20-%2012%20April%202017.pdf" target="_blank" rel="noopener noreferrer nofollow">https://orbi.uliege.be/bitstream/2268/213261/1/ISSI-Therm-Struct%20Paper%20-%20final%20-%2012%20April%202017.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Thermal Structure of the Venus Atmosphereby SS Limaye · 2017 · Cited by 71 — The atmospheric profiles cover the upper troposphere and mes...</p></details>
    Published: April 2017  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: lpi.usra.edu  
    Title: Venus STDT Report 0409  
-   Link: <a href="https://www.lpi.usra.edu/vexag/documents/reports/Venus-STDT-Report-0409.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lpi.usra.edu/vexag/documents/reports/Venus-STDT-Report-0409.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Flagship Mission Study Report 2009Is Xe in Venus&#x27; atmosphere mass fractionated from early atmospheric blow-off, like the Earth&#x27;s or is it...</p></details>
+   Link:<a href="https://www.lpi.usra.edu/vexag/documents/reports/Venus-STDT-Report-0409.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lpi.usra.edu/vexag/documents/reports/Venus-STDT-Report-0409.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Flagship Mission Study Report 2009Is Xe in Venus&#x27; atmosphere mass fractionated from early atmospheric blow-off, like the Earth&#x27;s or is it...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2404.07669v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2404.07669v2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Venus12 Apr 2024 — In this chapter, we will describe how various measurements and models have helped us to characterize Venus, starting w...</p></details>
+   Link:<a href="https://arxiv.org/html/2404.07669v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2404.07669v2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Venus12 Apr 2024 — In this chapter, we will describe how various measurements and models have helped us to characterize Venus, starting w...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: insu.hal.science  
-   Link: <a href="https://insu.hal.science/insu-03780953/document" target="_blank" rel="noopener noreferrer nofollow">https://insu.hal.science/insu-03780953/document</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of Venus&#x27;s dayside disk during the 2020...by YJ Lee · 2022 · Cited by 11 — We performed a unique Venus observation campaign to measure t...</p></details>
+   Link:<a href="https://insu.hal.science/insu-03780953/document" target="_blank" rel="noopener noreferrer nofollow">https://insu.hal.science/insu-03780953/document</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of Venus&#x27;s dayside disk during the 2020...by YJ Lee · 2022 · Cited by 11 — We performed a unique Venus observation campaign to measure t...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/physicsisfun109/posts/1025367923475385/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/physicsisfun109/posts/1025367923475385/</a>  
+   Link:<a href="https://www.facebook.com/groups/physicsisfun109/posts/1025367923475385/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/physicsisfun109/posts/1025367923475385/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ntrs.nasa.gov  
-   Link: <a href="https://ntrs.nasa.gov/citations/20030022791" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/20030022791</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The atmospheric pressure makes flight much easier than on planets such as Mars...</p></details>
+   Link:<a href="https://ntrs.nasa.gov/citations/20030022791" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/20030022791</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The atmospheric pressure makes flight much easier than on planets such as Mars...</p></details>

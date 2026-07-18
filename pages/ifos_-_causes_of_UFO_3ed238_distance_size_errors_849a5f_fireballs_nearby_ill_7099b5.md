@@ -277,7 +277,7 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f_fi
 Bright fireballs are among the most convincing sources of sincere UFO reports because they often look far closer to the ground than they really are. A witness may watch a blazing object streak across the sky, fragment into glowing pieces, and apparently disappear behind a nearby hill or tree line. The natural conclusion is that something has crashed just beyond the horizon. In reality, the object may still have been tens or even hundreds of kilometres away and dozens of kilometres above the Earth.
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f_fireballs_nearby_ill_7099b5-Illustration-1-dark.svg" | relative_url }}" alt="Fireballs illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f_fireballs_nearby_ill_7099b5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f_fireballs_nearby_ill_7099b5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This “nearby meteor illusion” arises from the same distance-estimation problem that affects many aerial sightings. The observer sees a bright object moving across an apparently flat sky but lacks reliable depth cues. Fireballs are especially prone to this effect because they are extraordinarily bright, can be visible over huge areas, and often appear to descend steeply toward the horizon even when their actual trajectory remains high in the [atmosphere]({{ 'atmosphere/' | relative_url }}). Most visible [meteors]({{ 'meteors/' | relative_url }}) occur between roughly 80 and 120 kilometres altitude, and even exceptionally bright fireballs usually remain far above ordinary aircraft heights. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.amsmeteors.org/meteor-showers/meteor-faq/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[amsmeteors.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">Meteor FAQsThis “meteoric region” lies between about 80 km and 120 km (50 to 75 miles) in altitude. This is a general guideline only, sin...</span></span></span>
+This “nearby meteor illusion” arises from the same distance-estimation problem that affects many aerial sightings. The observer sees a bright object moving across an apparently flat sky but lacks reliable depth cues. Fireballs are especially prone to this effect because they are extraordinarily bright, can be visible over huge areas, and often appear to descend steeply toward the horizon even when their actual trajectory remains high in the [atmosphere]({{ 'atmosphere/' | relative_url }}). Most visible [meteors]({{ 'meteors/' | relative_url }}) occur between roughly 80 and 120 kilometres altitude, and even exceptionally bright fireballs usually remain far above ordinary aircraft heights.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.amsmeteors.org/meteor-showers/meteor-faq/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[amsmeteors.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">Meteor FAQsThis “meteoric region” lies between about 80 km and 120 km (50 to 75 miles) in altitude. This is a general guideline only, sin...</span></span></span>
 
 ## Why meteors seem to fall nearby
 
@@ -287,13 +287,13 @@ A bright meteor can cross a large angle of sky in only a few seconds. Because it
 
 A useful comparison is watching an aircraft approach a distant horizon. From one viewpoint it may seem to descend behind nearby hills even though it remains many kilometres away. Fireballs create the same effect on a much larger scale because they are brighter, faster and usually lack visible structure.
 
-The phenomenon is so common that meteor organisations routinely receive reports claiming a fireball landed just beyond a local neighbourhood, while triangulated observations later show the event occurred hundreds of kilometres away. Fireballs are specifically known for being visible across very wide geographic regions, often spanning multiple states or countries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cneos.jpl.nasa.gov/fireballs/intro.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cneos.jpl.nasa.gov">[CNEOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cneos.jpl.nasa.gov</span><span class="citation-popover-snippet">Fireballs and bolidesFireballs and bolides are astronomical terms for exceptionally bright meteors that are spectacular enough to to...</span></span></span>
+The phenomenon is so common that meteor organisations routinely receive reports claiming a fireball landed just beyond a local neighbourhood, while triangulated observations later show the event occurred hundreds of kilometres away. Fireballs are specifically known for being visible across very wide geographic regions, often spanning multiple states or countries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cneos.jpl.nasa.gov/fireballs/intro.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cneos.jpl.nasa.gov">[CNEOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cneos.jpl.nasa.gov</span><span class="citation-popover-snippet">Fireballs and bolidesFireballs and bolides are astronomical terms for exceptionally bright meteors that are spectacular enough to to...</span></span></span>
 
 ### Brightness creates a false sense of proximity
 
 People often associate brightness with nearness. A dazzling fireball can illuminate clouds, cast shadows, or appear larger than the Moon. The brain tends to interpret such intensity as evidence that the object must be close.
 
-The relationship is misleading. Fireballs become bright because meteoroids enter the atmosphere at enormous speeds and convert kinetic energy into light. Even relatively small objects can produce spectacular displays while remaining tens of kilometres above the surface. NASA analyses of recent fireball events have repeatedly shown fragmentation heights around 30 to 50 miles (roughly 50 to 80 kilometres), despite widespread reports from observers who felt the objects were almost overhead or about to land nearby. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theverge.com/science/940467/meteor-exploded-new-england" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theverge.com">[The Verge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theverge.com</span><span class="citation-popover-title">The Verge NASA confirms exploding meteor caused the sonic boom over Boston</span><span class="citation-popover-snippet">The event produced a sonic boom that shook houses across the region, prompting initial speculation of an earthquake. However, the US Geol...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cneos.jpl.nasa.gov/fireballs/intro.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cneos.jpl.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cneos.jpl.nasa.gov</span><span class="citation-popover-snippet">Fireballs and bolidesFireballs and bolides are astronomical terms for exceptionally bright meteors that are spectacular enough to to...</span></span></span>
+The relationship is misleading. Fireballs become bright because meteoroids enter the atmosphere at enormous speeds and convert kinetic energy into light. Even relatively small objects can produce spectacular displays while remaining tens of kilometres above the surface. NASA analyses of recent fireball events have repeatedly shown fragmentation heights around 30 to 50 miles (roughly 50 to 80 kilometres), despite widespread reports from observers who felt the objects were almost overhead or about to land nearby.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theverge.com/science/940467/meteor-exploded-new-england" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theverge.com">[The Verge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theverge.com</span><span class="citation-popover-title">The Verge NASA confirms exploding meteor caused the sonic boom over Boston</span><span class="citation-popover-snippet">The event produced a sonic boom that shook houses across the region, prompting initial speculation of an earthquake. However, the US Geol...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://cneos.jpl.nasa.gov/fireballs/intro.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cneos.jpl.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cneos.jpl.nasa.gov</span><span class="citation-popover-snippet">Fireballs and bolidesFireballs and bolides are astronomical terms for exceptionally bright meteors that are spectacular enough to to...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qiQEXcBhC9o" title="Bright fireball streaks across Utah sky, dropping debris" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qiQEXcBhC9o" target="_blank" rel="noopener noreferrer">Bright fireball streaks across Utah sky, dropping debris</a></p><p class="youtube-embed-meta">Channel: KSL News Utah &middot; Views: 42.4K &middot; Uploaded: April 2026 &middot; Length: 2 minutes 8 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qiQEXcBhC9o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qiQEXcBhC9o">Open on YouTube</a></p></div></div></div>
 
@@ -322,7 +322,7 @@ are often sincere interpretations rather than measured facts.
 
 Meteor investigations frequently show that observers in widely separated locations all believed the same fireball landed nearby. This is geometrically impossible, yet entirely understandable. Each person is viewing the event from a different angle and unconsciously projecting it into local terrain.
 
-A dramatic example comes from large bolides that generate hundreds of reports over broad regions. Recent fireballs over North America have been observed across multiple states and Canadian provinces simultaneously while fragmenting at altitudes around 40 miles (64 kilometres) or more. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/science/2026/jun/01/meteor-massachusetts-sonic-boom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">According to NASA, the meteor was traveling at around 75,000 mph and fragmented about 40 miles above ground, releasing energy equivalent...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theverge.com/science/940467/meteor-exploded-new-england" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theverge.com">[The Verge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theverge.com</span><span class="citation-popover-title">The Verge NASA confirms exploding meteor caused the sonic boom over Boston</span><span class="citation-popover-snippet">The event produced a sonic boom that shook houses across the region, prompting initial speculation of an earthquake. However, the US Geol...</span></span></span>
+A dramatic example comes from large bolides that generate hundreds of reports over broad regions. Recent fireballs over North America have been observed across multiple states and Canadian provinces simultaneously while fragmenting at altitudes around 40 miles (64 kilometres) or more.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/science/2026/jun/01/meteor-massachusetts-sonic-boom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">According to NASA, the meteor was traveling at around 75,000 mph and fragmented about 40 miles above ground, releasing energy equivalent...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theverge.com/science/940467/meteor-exploded-new-england" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theverge.com">[The Verge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theverge.com</span><span class="citation-popover-title">The Verge NASA confirms exploding meteor caused the sonic boom over Boston</span><span class="citation-popover-snippet">The event produced a sonic boom that shook houses across the region, prompting initial speculation of an earthquake. However, the US Geol...</span></span></span>
 
 ### Why fragmentation makes the illusion stronger
 
@@ -330,7 +330,7 @@ Many fireballs break apart during flight. To a witness, this can resemble an obj
 
 In reality, fragmentation is a normal consequence of atmospheric stress. As the meteoroid encounters denser air, it can crack and shed material, creating multiple glowing fragments moving along similar [trajectories]({{ 'trajectories/' | relative_url }}).
 
-Because the fragments spread apart visually, observers often gain an exaggerated impression of size. A small meteoroid producing a wide glowing debris field can appear enormous. The combination of fragmentation, brightness and uncertain distance sometimes leads witnesses to describe a “huge craft” when the original object was comparatively small. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/solar-system/meteors-meteorites/facts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceMeteors and Meteorites: Facts14 Feb 2025 — In 2013 the world was startled by a brilliant fireball that streaked across the sk...</span></span></span>
+Because the fragments spread apart visually, observers often gain an exaggerated impression of size. A small meteoroid producing a wide glowing debris field can appear enormous. The combination of fragmentation, brightness and uncertain distance sometimes leads witnesses to describe a “huge craft” when the original object was comparatively small.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/solar-system/meteors-meteorites/facts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceMeteors and Meteorites: Facts14 Feb 2025 — In 2013 the world was startled by a brilliant fireball that streaked across the sk...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f_fireballs_nearby_ill_7099b5-Illustration-2-dark.svg" | relative_url }}" alt="Fireballs illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f_fireballs_nearby_ill_7099b5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f_fireballs_nearby_ill_7099b5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why sound often confuses the picture
@@ -339,11 +339,11 @@ Sound can make a distant meteor feel even more local.
 
 A large fireball may produce sonic booms or other acoustic effects. Unlike light, sound travels slowly. A witness may see the flash and then hear a boom tens of seconds or even minutes later.
 
-Without careful timing, the brain tends to connect the sound with the apparent position of the fireball rather than its actual distance. In some cases people interpret [delayed booms]({{ 'delayed-booms/' | relative_url }}) as evidence that the object exploded nearby, even though the source may have been dozens of kilometres away. Fireball reporting guides therefore encourage witnesses to record the delay between the visual event and any sound because the delay can help estimate distance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popastro.com/meteor/detailed-fireball-reporting-guide/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popastro.com">[popastro.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popastro.com</span><span class="citation-popover-snippet">Detailed Fireball Reporting Guide - Meteor SectionJanuary 18, 2018 — In all cases, note down what sounds you heard, and what the approxim...</span><span class="citation-popover-meta">Published: January 18, 2018</span></span></span>
+Without careful timing, the brain tends to connect the sound with the apparent position of the fireball rather than its actual distance. In some cases people interpret [delayed booms]({{ 'delayed-booms/' | relative_url }}) as evidence that the object exploded nearby, even though the source may have been dozens of kilometres away. Fireball reporting guides therefore encourage witnesses to record the delay between the visual event and any sound because the delay can help estimate distance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popastro.com/meteor/detailed-fireball-reporting-guide/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popastro.com">[popastro.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popastro.com</span><span class="citation-popover-snippet">Detailed Fireball Reporting Guide - Meteor SectionJanuary 18, 2018 — In all cases, note down what sounds you heard, and what the approxim...</span><span class="citation-popover-meta">Published: January 18, 2018</span></span></span>
 
-The 2013 Chelyabinsk event in Russia demonstrated this dramatically. The meteor exploded roughly 23 kilometres above the ground, yet the resulting shock wave affected a huge area and shattered windows far from the airburst location. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/solar-system/meteors-meteorites/facts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceMeteors and Meteorites: Facts14 Feb 2025 — In 2013 the world was startled by a brilliant fireball that streaked across the sk...</span></span></span>
+The 2013 Chelyabinsk event in Russia demonstrated this dramatically. The meteor exploded roughly 23 kilometres above the ground, yet the resulting shock wave affected a huge area and shattered windows far from the airburst location.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/solar-system/meteors-meteorites/facts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceMeteors and Meteorites: Facts14 Feb 2025 — In 2013 the world was startled by a brilliant fireball that streaked across the sk...</span></span></span>
 
-More recent North American fireballs have likewise generated widespread reports of booms and shaking while fragmentation occurred around 30 to 40 miles above the surface. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/science/2026/jun/01/meteor-massachusetts-sonic-boom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">According to NASA, the meteor was traveling at around 75,000 mph and fragmented about 40 miles above ground, releasing energy equivalent...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theverge.com/science/940467/meteor-exploded-new-england" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theverge.com">[The Verge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theverge.com</span><span class="citation-popover-title">The Verge NASA confirms exploding meteor caused the sonic boom over Boston</span><span class="citation-popover-snippet">The event produced a sonic boom that shook houses across the region, prompting initial speculation of an earthquake. However, the US Geol...</span></span></span>
+More recent North American fireballs have likewise generated widespread reports of booms and shaking while fragmentation occurred around 30 to 40 miles above the surface.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/science/2026/jun/01/meteor-massachusetts-sonic-boom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">According to NASA, the meteor was traveling at around 75,000 mph and fragmented about 40 miles above ground, releasing energy equivalent...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theverge.com/science/940467/meteor-exploded-new-england" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theverge.com">[The Verge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theverge.com</span><span class="citation-popover-title">The Verge NASA confirms exploding meteor caused the sonic boom over Boston</span><span class="citation-popover-snippet">The event produced a sonic boom that shook houses across the region, prompting initial speculation of an earthquake. However, the US Geol...</span></span></span>
 
 ## Separating angular path from physical path
 
@@ -372,7 +372,7 @@ By contrast, estimates such as:
 
 usually require additional data from other observers, cameras, [radar]({{ 'radar/' | relative_url }}) systems or satellite measurements.
 
-Meteor researchers routinely reconstruct trajectories by combining many independent reports. Events that looked local from dozens of separate locations often turn out to have occurred high above the atmosphere over a completely different region. This is why modern investigations place much greater weight on triangulation and geometry than on individual impressions of distance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cneos.jpl.nasa.gov/fireballs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cneos.jpl.nasa.gov">[CNEOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cneos.jpl.nasa.gov</span><span class="citation-popover-snippet">following chart shows reported fireball events for which geographic location data are provided. Each event&#x27;s calculated total impact ener...</span></span></span>
+Meteor researchers routinely reconstruct trajectories by combining many independent reports. Events that looked local from dozens of separate locations often turn out to have occurred high above the atmosphere over a completely different region. This is why modern investigations place much greater weight on triangulation and geometry than on individual impressions of distance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cneos.jpl.nasa.gov/fireballs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cneos.jpl.nasa.gov">[CNEOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cneos.jpl.nasa.gov</span><span class="citation-popover-snippet">following chart shows reported fireball events for which geographic location data are provided. Each event&#x27;s calculated total impact ener...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f_fireballs_nearby_ill_7099b5-Illustration-3-dark.svg" | relative_url }}" alt="Fireballs illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f_fireballs_nearby_ill_7099b5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f_fireballs_nearby_ill_7099b5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What this means for UFO reports
@@ -388,194 +388,194 @@ For investigators, that distinction matters. The question is often not whether s
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TuZ-TP0UN30" title="American Meteor Society on rare &#x27;bolide&#x27; fireball seen across Southeast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TuZ-TP0UN30" target="_blank" rel="noopener noreferrer">American Meteor Society on rare &#x27;bolide&#x27; fireball seen across Southeast</a></p><p class="youtube-embed-meta">Channel: 11Alive &middot; Views: 55.3K &middot; Uploaded: June 2025 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TuZ-TP0UN30" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TuZ-TP0UN30">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Fireballs Look Closer Than They Are. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Fireballs Look Closer Than They Are. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Helps readers understand meteors, bright sky events and observing context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand meteors, bright sky events and observing context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
-        </h4>
-        <p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
+</h4>
+<p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
         
-        <p class="fr-book-desc">Supports skywatching literacy relevant to meteor and fireball reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports skywatching literacy relevant to meteor and fireball reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Backyard Astronomer&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hdvYKwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Backyard Astronomer&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Backyard Astronomer&#x27;s Guide">The Backyard Astronomer&#x27;s Guide</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson, Alan Dyer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Backyard Astronomer&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hdvYKwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Backyard Astronomer&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Backyard Astronomer&#x27;s Guide">The Backyard Astronomer&#x27;s Guide</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson, Alan Dyer</p>
         
-        <p class="fr-book-desc">Provides broader context for interpreting bright transient sky events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader context for interpreting bright transient sky events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
-        </h4>
-        <p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
+</h4>
+<p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
         
-        <p class="fr-book-desc">Explains why dramatic events can produce confident but mistaken distance impressions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why dramatic events can produce confident but mistaken distance impressions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Backyard Astronomer&#x27;s books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Backyard Astronomer&#x27;s books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fireballs-look-closer-than-they-are-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="why-fireballs-look-closer-than-they-are-meteor-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Meteor Italian Locandina Poster Sean Connery Natalie Wood 1979"><img src="https://i.ebayimg.com/images/g/PP8AAeSw7ztp62vC/s-l225.jpg" alt="Listing image for Meteor Italian Locandina Poster Sean Connery Natalie Wood 1979" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fireballs-look-closer-than-they-are-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="why-fireballs-look-closer-than-they-are-meteor-poster" target="_blank" rel="sponsored noopener noreferrer">Meteor Italian Locandina Poster Sean Connery Natalie Wood 1979</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fireballs-look-closer-than-they-are-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="why-fireballs-look-closer-than-they-are-meteor-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteor poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteor poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fireballs-look-closer-than-they-are-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="why-fireballs-look-closer-than-they-are-meteor-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fireballs-look-closer-than-they-are-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="why-fireballs-look-closer-than-they-are-meteor-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Meteor Italian Locandina Poster Sean Connery Natalie Wood 1979"><img src="https://i.ebayimg.com/images/g/PP8AAeSw7ztp62vC/s-l225.jpg" alt="Listing image for Meteor Italian Locandina Poster Sean Connery Natalie Wood 1979" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fireballs-look-closer-than-they-are-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="why-fireballs-look-closer-than-they-are-meteor-poster" target="_blank" rel="sponsored noopener noreferrer">Meteor Italian Locandina Poster Sean Connery Natalie Wood 1979</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fireballs-look-closer-than-they-are-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="why-fireballs-look-closer-than-they-are-meteor-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteor poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: meteor poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fireballs-look-closer-than-they-are-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="why-fireballs-look-closer-than-they-are-meteor-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fireballs-look-closer-than-they-are-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="why-fireballs-look-closer-than-they-are-meteor-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Meteor Man Robert Townsend Movie/Film Poster Art PICTURE / PRINT 9&quot; x 8&quot;"><img src="https://i.ebayimg.com/images/g/qWcAAeSweINqB7pT/s-l225.jpg" alt="Listing image for The Meteor Man Robert Townsend Movie/Film Poster Art PICTURE / PRINT 9&quot; x 8&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fireballs-look-closer-than-they-are-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="why-fireballs-look-closer-than-they-are-meteor-poster" target="_blank" rel="sponsored noopener noreferrer">The Meteor Man Robert Townsend Movie/Film Poster Art PICTURE / PRINT 9&quot; x 8&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fireballs-look-closer-than-they-are-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="why-fireballs-look-closer-than-they-are-meteor-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteor poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteor poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fireballs-look-closer-than-they-are-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="why-fireballs-look-closer-than-they-are-meteor-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fireballs-look-closer-than-they-are-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="why-fireballs-look-closer-than-they-are-meteor-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Meteor Man Robert Townsend Movie/Film Poster Art PICTURE / PRINT 9&quot; x 8&quot;"><img src="https://i.ebayimg.com/images/g/qWcAAeSweINqB7pT/s-l225.jpg" alt="Listing image for The Meteor Man Robert Townsend Movie/Film Poster Art PICTURE / PRINT 9&quot; x 8&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fireballs-look-closer-than-they-are-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="why-fireballs-look-closer-than-they-are-meteor-poster" target="_blank" rel="sponsored noopener noreferrer">The Meteor Man Robert Townsend Movie/Film Poster Art PICTURE / PRINT 9&quot; x 8&quot;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fireballs-look-closer-than-they-are-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="why-fireballs-look-closer-than-they-are-meteor-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteor poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: meteor poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fireballs-look-closer-than-they-are-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="why-fireballs-look-closer-than-they-are-meteor-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fireballs-look-closer-than-they-are-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="why-fireballs-look-closer-than-they-are-meteor-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for METEOR MAN ONE SHEET ROLLED POSTER JAMES EARL JONES MARLA GIBBS 1993"><img src="https://i.ebayimg.com/images/g/IwYAAOSwsBVgZa35/s-l225.jpg" alt="Listing image for METEOR MAN ONE SHEET ROLLED POSTER JAMES EARL JONES MARLA GIBBS 1993" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fireballs-look-closer-than-they-are-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="why-fireballs-look-closer-than-they-are-meteor-poster" target="_blank" rel="sponsored noopener noreferrer">METEOR MAN ONE SHEET ROLLED POSTER JAMES EARL JONES MARLA GIBBS 1993</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fireballs-look-closer-than-they-are-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="why-fireballs-look-closer-than-they-are-meteor-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteor poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteor poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fireballs-look-closer-than-they-are-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="why-fireballs-look-closer-than-they-are-meteor-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fireballs-look-closer-than-they-are-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="why-fireballs-look-closer-than-they-are-meteor-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for METEOR MAN ONE SHEET ROLLED POSTER JAMES EARL JONES MARLA GIBBS 1993"><img src="https://i.ebayimg.com/images/g/IwYAAOSwsBVgZa35/s-l225.jpg" alt="Listing image for METEOR MAN ONE SHEET ROLLED POSTER JAMES EARL JONES MARLA GIBBS 1993" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fireballs-look-closer-than-they-are-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="why-fireballs-look-closer-than-they-are-meteor-poster" target="_blank" rel="sponsored noopener noreferrer">METEOR MAN ONE SHEET ROLLED POSTER JAMES EARL JONES MARLA GIBBS 1993</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fireballs-look-closer-than-they-are-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="why-fireballs-look-closer-than-they-are-meteor-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteor poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: meteor poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fireballs-look-closer-than-they-are-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="why-fireballs-look-closer-than-they-are-meteor-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fireballs-look-closer-than-they-are-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="why-fireballs-look-closer-than-they-are-meteor-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Painting Meteor Shower Fram Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/3DAAAeSwpmFp1Tcp/s-l225.jpg" alt="Listing image for Vintage Painting Meteor Shower Fram Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fireballs-look-closer-than-they-are-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="why-fireballs-look-closer-than-they-are-meteor-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage Painting Meteor Shower Fram Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fireballs-look-closer-than-they-are-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="why-fireballs-look-closer-than-they-are-meteor-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteor poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteor poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fireballs-look-closer-than-they-are-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="why-fireballs-look-closer-than-they-are-meteor-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fireballs-look-closer-than-they-are-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="why-fireballs-look-closer-than-they-are-meteor-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fireballs-look-closer-than-they-are-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="why-fireballs-look-closer-than-they-are-meteor-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Painting Meteor Shower Fram Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/3DAAAeSwpmFp1Tcp/s-l225.jpg" alt="Listing image for Vintage Painting Meteor Shower Fram Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fireballs-look-closer-than-they-are-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="why-fireballs-look-closer-than-they-are-meteor-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage Painting Meteor Shower Fram Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fireballs-look-closer-than-they-are-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="why-fireballs-look-closer-than-they-are-meteor-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteor poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: meteor poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fireballs-look-closer-than-they-are-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="why-fireballs-look-closer-than-they-are-meteor-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fireballs-look-closer-than-they-are-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="why-fireballs-look-closer-than-they-are-meteor-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -591,7 +591,7 @@ For investigators, that distinction matters. The question is often not whether s
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -611,7 +611,7 @@ For investigators, that distinction matters. The question is often not whether s
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -643,7 +643,7 @@ For investigators, that distinction matters. The question is often not whether s
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -695,7 +695,7 @@ For investigators, that distinction matters. The question is often not whether s
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -740,7 +740,7 @@ For investigators, that distinction matters. The question is often not whether s
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -781,143 +781,143 @@ For investigators, that distinction matters. The question is often not whether s
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: amsmeteors.org  
-   Link: <a href="https://www.amsmeteors.org/meteor-showers/meteor-faq/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/meteor-showers/meteor-faq/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Meteor FAQsThis “meteoric region” lies between about 80 km and 120 km (50 to 75 miles) in altitude. This is a general guideline only, sin...</p></details>
+   Link:<a href="https://www.amsmeteors.org/meteor-showers/meteor-faq/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/meteor-showers/meteor-faq/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Meteor FAQsThis “meteoric region” lies between about 80 km and 120 km (50 to 75 miles) in altitude. This is a general guideline only, sin...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cneos.jpl.nasa.gov  
-   Link: <a href="https://cneos.jpl.nasa.gov/fireballs/intro.html" target="_blank" rel="noopener noreferrer nofollow">https://cneos.jpl.nasa.gov/fireballs/intro.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fireballs and bolidesFireballs and bolides are astronomical terms for exceptionally bright meteors that are spectacular enough to to...</p></details>
+   Link:<a href="https://cneos.jpl.nasa.gov/fireballs/intro.html" target="_blank" rel="noopener noreferrer nofollow">https://cneos.jpl.nasa.gov/fireballs/intro.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fireballs and bolidesFireballs and bolides are astronomical terms for exceptionally bright meteors that are spectacular enough to to...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nasa.gov  
    Title: its fireball season answering your meteor questions  
-   Link: <a href="https://www.nasa.gov/blogs/watch-the-skies/2026/03/26/its-fireball-season-answering-your-meteor-questions/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/blogs/watch-the-skies/2026/03/26/its-fireball-season-answering-your-meteor-questions/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s Fireball Season! Answering Your Meteor Questions26 Mar 2026 — The fireball – caused by a small asteroid nearly 6 feet in diamete...</p></details>
+   Link:<a href="https://www.nasa.gov/blogs/watch-the-skies/2026/03/26/its-fireball-season-answering-your-meteor-questions/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/blogs/watch-the-skies/2026/03/26/its-fireball-season-answering-your-meteor-questions/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s Fireball Season! Answering Your Meteor Questions26 Mar 2026 — The fireball – caused by a small asteroid nearly 6 feet in diamete...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/solar-system/meteors-meteorites/facts/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/solar-system/meteors-meteorites/facts/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceMeteors and Meteorites: Facts14 Feb 2025 — In 2013 the world was startled by a brilliant fireball that streaked across the sk...</p></details>
+   Link:<a href="https://science.nasa.gov/solar-system/meteors-meteorites/facts/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/solar-system/meteors-meteorites/facts/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceMeteors and Meteorites: Facts14 Feb 2025 — In 2013 the world was startled by a brilliant fireball that streaked across the sk...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: popastro.com  
-   Link: <a href="https://www.popastro.com/meteor/detailed-fireball-reporting-guide/" target="_blank" rel="noopener noreferrer nofollow">https://www.popastro.com/meteor/detailed-fireball-reporting-guide/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Detailed Fireball Reporting Guide - Meteor SectionJanuary 18, 2018 — In all cases, note down what sounds you heard, and what the approxim...</p></details>
+   Link:<a href="https://www.popastro.com/meteor/detailed-fireball-reporting-guide/" target="_blank" rel="noopener noreferrer nofollow">https://www.popastro.com/meteor/detailed-fireball-reporting-guide/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Detailed Fireball Reporting Guide - Meteor SectionJanuary 18, 2018 — In all cases, note down what sounds you heard, and what the approxim...</p></details>
    Published: January 18, 2018  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cneos.jpl.nasa.gov  
-   Link: <a href="https://cneos.jpl.nasa.gov/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://cneos.jpl.nasa.gov/fireballs/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>following chart shows reported fireball events for which geographic location data are provided. Each event&#x27;s calculated total impact ener...</p></details>
+   Link:<a href="https://cneos.jpl.nasa.gov/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://cneos.jpl.nasa.gov/fireballs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>following chart shows reported fireball events for which geographic location data are provided. Each event&#x27;s calculated total impact ener...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nasa.gov  
-   Link: <a href="https://www.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA explores the unknown in air and space, innovates for the benefit of humanity, and inspires the world through discovery. About NA...</p></details>
+   Link:<a href="https://www.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA explores the unknown in air and space, innovates for the benefit of humanity, and inspires the world through discovery. About NA...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nasa.gov  
-   Link: <a href="https://www.nasa.gov/blogs/watch-the-skies/page/17/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/blogs/watch-the-skies/page/17/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Watch the Skies8 Sept 2014 — Last night at 8:38:30 PM CDT, a basketball size meteoroid entered the atmosphere 63 miles above Columbia, So...</p></details>
+   Link:<a href="https://www.nasa.gov/blogs/watch-the-skies/page/17/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/blogs/watch-the-skies/page/17/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Watch the Skies8 Sept 2014 — Last night at 8:38:30 PM CDT, a basketball size meteoroid entered the atmosphere 63 miles above Columbia, So...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: amsmeteors.org  
-   Link: <a href="https://amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow">https://amsmeteors.org/fireballs/faqf/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fireball FAQsThis is more likely if the bolide occurs at an altitude angle of about 45 degrees or so for the observer, and is less likely...</p></details>
+   Link:<a href="https://amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow">https://amsmeteors.org/fireballs/faqf/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fireball FAQsThis is more likely if the bolide occurs at an altitude angle of about 45 degrees or so for the observer, and is less likely...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: amsmeteors.org  
-   Link: <a href="https://amsmeteors.org/ams-q1-2026-fireball-analysis.html" target="_blank" rel="noopener noreferrer nofollow">https://amsmeteors.org/ams-q1-2026-fireball-analysis.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Q1 2026: Has Something Changed in the Near-Earth...Mar 25, 2026 — Daytime Fireball &amp; Meteorite Fall Over Houston, TX — 181 Reports...</p></details>
+   Link:<a href="https://amsmeteors.org/ams-q1-2026-fireball-analysis.html" target="_blank" rel="noopener noreferrer nofollow">https://amsmeteors.org/ams-q1-2026-fireball-analysis.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Q1 2026: Has Something Changed in the Near-Earth...Mar 25, 2026 — Daytime Fireball &amp; Meteorite Fall Over Houston, TX — 181 Reports...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: space.com  
-   Link: <a href="https://www.space.com/stargazing/meteor-showers/fireball-sightings-are-surging-across-the-us-heres-whats-really-going-on" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/stargazing/meteor-showers/fireball-sightings-are-surging-across-the-us-heres-whats-really-going-on</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fireball sightings are surging across the USMar 27, 2026 — Many fireballs lasted a long time and were seen across wide areas. Some caused...</p></details>
+   Link:<a href="https://www.space.com/stargazing/meteor-showers/fireball-sightings-are-surging-across-the-us-heres-whats-really-going-on" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/stargazing/meteor-showers/fireball-sightings-are-surging-across-the-us-heres-whats-really-going-on</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fireball sightings are surging across the USMar 27, 2026 — Many fireballs lasted a long time and were seen across wide areas. Some caused...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Why Meteors Seem to Fall Nearby  
-   Link: <a href="https://www.youtube.com/watch?v=F07212F_S68" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=F07212F_S68</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Illusion of Nearby Fireballs...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=F07212F_S68" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=F07212F_S68</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Illusion of Nearby Fireballs...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/astronomy-and-astrophysics/fireball" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/astronomy-and-astrophysics/fireball</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>About one in every thousand meteors is a fireball. Fireballs are generally...Read more...</p></details>
+   Link:<a href="https://www.ebsco.com/research-starters/astronomy-and-astrophysics/fireball" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/astronomy-and-astrophysics/fireball</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>About one in every thousand meteors is a fireball. Fireballs are generally...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: theverge.com  
    Title: The Verge NASA confirms exploding meteor caused the sonic boom over Boston  
-   Link: <a href="https://www.theverge.com/science/940467/meteor-exploded-new-england" target="_blank" rel="noopener noreferrer nofollow">https://www.theverge.com/science/940467/meteor-exploded-new-england</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The event produced a sonic boom that shook houses across the region, prompting initial speculation of an earthquake. However, the US Geol...</p></details>
+   Link:<a href="https://www.theverge.com/science/940467/meteor-exploded-new-england" target="_blank" rel="noopener noreferrer nofollow">https://www.theverge.com/science/940467/meteor-exploded-new-england</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The event produced a sonic boom that shook houses across the region, prompting initial speculation of an earthquake. However, the US Geol...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/science/2026/jun/01/meteor-massachusetts-sonic-boom" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2026/jun/01/meteor-massachusetts-sonic-boom</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>According to NASA, the meteor was traveling at around 75,000 mph and fragmented about 40 miles above ground, releasing energy equivalent...</p></details>
+   Link:<a href="https://www.theguardian.com/science/2026/jun/01/meteor-massachusetts-sonic-boom" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2026/jun/01/meteor-massachusetts-sonic-boom</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>According to NASA, the meteor was traveling at around 75,000 mph and fragmented about 40 miles above ground, releasing energy equivalent...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: abcnews.com  
-   Link: <a href="https://abcnews.com/US/daylight-fireball-meteor-rattled-parts-new-york-city/story?id=112006023" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/US/daylight-fireball-meteor-rattled-parts-new-york-city/story?id=112006023</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Daylight fireball meteor may have rattled parts of New York...Officials report that the fireball may have flown at 34000 miles per hour...</p></details>
+   Link:<a href="https://abcnews.com/US/daylight-fireball-meteor-rattled-parts-new-york-city/story?id=112006023" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/US/daylight-fireball-meteor-rattled-parts-new-york-city/story?id=112006023</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Daylight fireball meteor may have rattled parts of New York...Officials report that the fireball may have flown at 34000 miles per hour...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Meteor" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Meteor</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MeteorMeteors become visible between about 75 to 120 km (47 to 75 mi) above Earth. They usually disintegrate at altitudes of 50 to 95...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Meteor" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Meteor</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MeteorMeteors become visible between about 75 to 120 km (47 to 75 mi) above Earth. They usually disintegrate at altitudes of 50 to 95...</p></details>
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/WorldNewsTonight/posts/a-bright-fireball-spotted-over-the-skies-of-texas-crashes-into-a-home-in-the-hou/1459588482501595/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WorldNewsTonight/posts/a-bright-fireball-spotted-over-the-skies-of-texas-crashes-into-a-home-in-the-hou/1459588482501595/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A bright fireball spotted over the skies of Texas crashes into...A fireball that made an entry near McAllen on Wednesday was a meteoroid...</p></details>
+   Link:<a href="https://www.facebook.com/WorldNewsTonight/posts/a-bright-fireball-spotted-over-the-skies-of-texas-crashes-into-a-home-in-the-hou/1459588482501595/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WorldNewsTonight/posts/a-bright-fireball-spotted-over-the-skies-of-texas-crashes-into-a-home-in-the-hou/1459588482501595/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A bright fireball spotted over the skies of Texas crashes into...A fireball that made an entry near McAllen on Wednesday was a meteoroid...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: weather.com  
-   Link: <a href="https://weather.com/science/space/video/fireball-washington-oregon-british-columbia" target="_blank" rel="noopener noreferrer nofollow">https://weather.com/science/space/video/fireball-washington-oregon-british-columbia</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bright Fireball Streaks Over Washington, Oregon | Weather.comA brilliant ball of light streaked across the sky early Wednesday in Washing...</p></details>
+   Link:<a href="https://weather.com/science/space/video/fireball-washington-oregon-british-columbia" target="_blank" rel="noopener noreferrer nofollow">https://weather.com/science/space/video/fireball-washington-oregon-british-columbia</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bright Fireball Streaks Over Washington, Oregon | Weather.comA brilliant ball of light streaked across the sky early Wednesday in Washing...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/JoeRaoWeather/posts/around-2-pm-saturday-afternoon-nearly-300-reports-came-in-across-eastern-massach/1579364043549177/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/JoeRaoWeather/posts/around-2-pm-saturday-afternoon-nearly-300-reports-came-in-across-eastern-massach/1579364043549177/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Joe RaoOver 150 people reported the event on the American Meteor Society&#x27;s fireball log—one person in Vermont reported hearing a rumbling...</p></details>
+   Link:<a href="https://www.facebook.com/JoeRaoWeather/posts/around-2-pm-saturday-afternoon-nearly-300-reports-came-in-across-eastern-massach/1579364043549177/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/JoeRaoWeather/posts/around-2-pm-saturday-afternoon-nearly-300-reports-came-in-across-eastern-massach/1579364043549177/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Joe RaoOver 150 people reported the event on the American Meteor Society&#x27;s fireball log—one person in Vermont reported hearing a rumbling...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/mlive/posts/-did-you-see-this-monday-night-the-american-meteor-society-received-nearly-200-r/1457349826422483/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mlive/posts/-did-you-see-this-monday-night-the-american-meteor-society-received-nearly-200-r/1457349826422483/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>🔗: [https://mlive.visitlink.me/eX6cjL](https://mlive.visitlink.me/eX6cjL) Did you see this Monday...The American Meteor Society received nearly 200 reports of a bright green...</p></details>
+   Link:<a href="https://www.facebook.com/mlive/posts/-did-you-see-this-monday-night-the-american-meteor-society-received-nearly-200-r/1457349826422483/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mlive/posts/-did-you-see-this-monday-night-the-american-meteor-society-received-nearly-200-r/1457349826422483/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>🔗: [https://mlive.visitlink.me/eX6cjL](https://mlive.visitlink.me/eX6cjL) Did you see this Monday...The American Meteor Society received nearly 200 reports of a bright green...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: livescience.com  
-   Link: <a href="https://www.livescience.com/space/meteoroids/nasa-confirms-meteor-exploded-over-northeastern-us-with-force-of-230-tons-of-tnt" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/space/meteoroids/nasa-confirms-meteor-exploded-over-northeastern-us-with-force-of-230-tons-of-tnt</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The meteor, which measured around 5 feet (1.6 meters) in diameter and had a mass of about 5.6 metric tons, entered Earth&#x27;s atmosphere at...</p></details>
+   Link:<a href="https://www.livescience.com/space/meteoroids/nasa-confirms-meteor-exploded-over-northeastern-us-with-force-of-230-tons-of-tnt" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/space/meteoroids/nasa-confirms-meteor-exploded-over-northeastern-us-with-force-of-230-tons-of-tnt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The meteor, which measured around 5 feet (1.6 meters) in diameter and had a mass of about 5.6 metric tons, entered Earth&#x27;s atmosphere at...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: ourmidland.com  
-   Link: <a href="https://www.ourmidland.com/news/article/fireball-eight-states-us-canada-illinois-michigan-22287712.php" target="_blank" rel="noopener noreferrer nofollow">https://www.ourmidland.com/news/article/fireball-eight-states-us-canada-illinois-michigan-22287712.php</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>states and Ontario, Canada, prompting over 200 reports to the American Meteor Society. The fireball was captured on doorbell cameras and...</p></details>
+   Link:<a href="https://www.ourmidland.com/news/article/fireball-eight-states-us-canada-illinois-michigan-22287712.php" target="_blank" rel="noopener noreferrer nofollow">https://www.ourmidland.com/news/article/fireball-eight-states-us-canada-illinois-michigan-22287712.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>states and Ontario, Canada, prompting over 200 reports to the American Meteor Society. The fireball was captured on doorbell cameras and...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NASASpaceAlerts/posts/meteorsighting-a-fireball-was-observed-by-witnesses-early-this-morning-march-11-/1346366090858477/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NASASpaceAlerts/posts/meteorsighting-a-fireball-was-observed-by-witnesses-early-this-morning-march-11-/1346366090858477/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Space AlertsA meteoroid entered Earth&#x27;s atmosphere and burst into a fireball. The American Meteor Society lists over 280 eyewitness...</p></details>
+   Link:<a href="https://www.facebook.com/NASASpaceAlerts/posts/meteorsighting-a-fireball-was-observed-by-witnesses-early-this-morning-march-11-/1346366090858477/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NASASpaceAlerts/posts/meteorsighting-a-fireball-was-observed-by-witnesses-early-this-morning-march-11-/1346366090858477/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Space AlertsA meteoroid entered Earth&#x27;s atmosphere and burst into a fireball. The American Meteor Society lists over 280 eyewitness...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DY_CqWcsulC/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DY_CqWcsulC/</a>  
+   Link:<a href="https://www.instagram.com/reel/DY_CqWcsulC/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DY_CqWcsulC/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=TuZ-TP0UN30" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TuZ-TP0UN30</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteor Society on rare &#x27;bolide&#x27; fireball seen across...AMS Operations Manager Mike Hankey speaks with 11Alive Meteorologist Mel...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=TuZ-TP0UN30" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TuZ-TP0UN30</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteor Society on rare &#x27;bolide&#x27; fireball seen across...AMS Operations Manager Mike Hankey speaks with 11Alive Meteorologist Mel...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: instagram.com  
    Title: Multiple reports confirm a fireball lit up the sky at 4:50 a.m  
-   Link: <a href="https://www.instagram.com/reel/DXhaWseAetH/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXhaWseAetH/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>According to NASA, the meteor first became visible at an altitude of 48 miles above the Atlantic Ocean, just off the shore of Mastic Beac...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DXhaWseAetH/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXhaWseAetH/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>According to NASA, the meteor first became visible at an altitude of 48 miles above the Atlantic Ocean, just off the shore of Mastic Beac...</p></details>

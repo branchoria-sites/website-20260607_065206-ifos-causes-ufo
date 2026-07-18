@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ifos-causes-of-ufo-3ed238-insufficient/
 description: Focused pages that expand on Missing Data.
-date: '2026-06-12'
+date: '2026'
 layout: default
 parent_basename: ifos_-_causes_of_UFO_3ed238_insufficient_data_46f2ca
 parent_title: Missing Data
@@ -16,7 +16,7 @@ parent_permalink: /missing-data/
 
 # Explore Topics in Missing Data
 
-The following pages expand on the main **[Missing Data]({{ '/missing-data/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Missing Data]({{ '/missing-data/' | relative_url }})** page and cover its key branches in.
 
 - [Blue Book data]({{ '/blue-book-data/' | relative_url }})
 - [Timestamps]({{ '/timestamps/' | relative_url }})

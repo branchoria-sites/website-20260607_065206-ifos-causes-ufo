@@ -274,12 +274,12 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391_out_of_
 
 ## Introduction
 
-Many night-time UFO “orbs” are not objects that naturally appear as glowing spheres. They are ordinary point-like lights—stars, planets, [aircraft lights]({{ 'aircraft-lights/' | relative_url }}), drones, satellites or distant ground lights—that have been enlarged and blurred by the camera. When a camera fails to focus accurately on a tiny light source, the light is no longer recorded as a point. Instead, it spreads into a soft disc that can look surprisingly large, structured and mysterious. Combined with digital zoom, automatic exposure adjustments and image stabilisation, a simple light can appear to pulse, change shape or drift in ways that seem unusual even though the source itself is behaving normally. This effect is one of the most common reasons why short [night videos]({{ 'night-videos/' | relative_url }}) produce apparent UFO “orbs”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bhphotovideo.com/explora/photography/tips-and-solutions/understanding-bokeh" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bhphotovideo.com">[B&amp;H Photo Video]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bhphotovideo.com</span><span class="citation-popover-title">B&amp;H Photo Video Understanding Bokeh</span><span class="citation-popover-snippet">When a point of light is at the focal plane (middle illustration), it is reproduced as a...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slrlounge.com/glossary/circle-of-confusion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slrlounge.com">[SLR Lounge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slrlounge.com</span><span class="citation-popover-snippet">Circle Of Confusion DefinitionThe out-of-focus lights will expand and become “bokeh balls.” If you focus on the lights instead, they will...</span></span></span>
+Many night-time UFO “orbs” are not objects that naturally appear as glowing spheres. They are ordinary point-like lights—stars, planets, [aircraft lights]({{ 'aircraft-lights/' | relative_url }}), drones, satellites or distant ground lights—that have been enlarged and blurred by the camera. When a camera fails to focus accurately on a tiny light source, the light is no longer recorded as a point. Instead, it spreads into a soft disc that can look surprisingly large, structured and mysterious. Combined with digital zoom, automatic exposure adjustments and image stabilisation, a simple light can appear to pulse, change shape or drift in ways that seem unusual even though the source itself is behaving normally. This effect is one of the most common reasons why short [night videos]({{ 'night-videos/' | relative_url }}) produce apparent UFO “orbs”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bhphotovideo.com/explora/photography/tips-and-solutions/understanding-bokeh" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bhphotovideo.com">[B&amp;H Photo Video]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bhphotovideo.com</span><span class="citation-popover-title">B&amp;H Photo Video Understanding Bokeh</span><span class="citation-popover-snippet">When a point of light is at the focal plane (middle illustration), it is reproduced as a...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slrlounge.com/glossary/circle-of-confusion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slrlounge.com">[SLR Lounge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slrlounge.com</span><span class="citation-popover-snippet">Circle Of Confusion DefinitionThe out-of-focus lights will expand and become “bokeh balls.” If you focus on the lights instead, they will...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391_out_of_focus_ufo_orb_9fdbb4-Illustration-1-dark.svg" | relative_url }}" alt="UFO Orbs illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391_out_of_focus_ufo_orb_9fdbb4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391_out_of_focus_ufo_orb_9fdbb4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How Point Lights Become Blurred Discs
 
-A distant star or aircraft light is effectively a point source. When a camera lens is focused correctly, that point remains tiny on the image sensor. When focus is missed, the light spreads into what photographers call a “circle of confusion”, creating the familiar out-of-focus disc often known as bokeh. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bhphotovideo.com/explora/photography/tips-and-solutions/understanding-bokeh" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bhphotovideo.com">[2B&amp;H Photo Video]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bhphotovideo.com</span><span class="citation-popover-title">B&amp;H Photo Video Understanding Bokeh</span><span class="citation-popover-snippet">When a point of light is at the focal plane (middle illustration), it is reproduced as a...Read more...</span></span></span>
+A distant star or aircraft light is effectively a point source. When a camera lens is focused correctly, that point remains tiny on the image sensor. When focus is missed, the light spreads into what photographers call a “circle of confusion”, creating the familiar out-of-focus disc often known as bokeh.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bhphotovideo.com/explora/photography/tips-and-solutions/understanding-bokeh" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bhphotovideo.com">[2B&amp;H Photo Video]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bhphotovideo.com</span><span class="citation-popover-title">B&amp;H Photo Video Understanding Bokeh</span><span class="citation-popover-snippet">When a point of light is at the focal plane (middle illustration), it is reproduced as a...Read more...</span></span></span>
 
 This transformation is more dramatic at night because the light source is bright while the surrounding sky is dark. The result is a glowing circle with soft edges that can appear much larger than the actual object.
 
@@ -288,9 +288,9 @@ Several features of these discs are commonly mistaken for unusual characteristic
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * **Apparent size:** The orb can seem far larger than any visible star or aircraft light.
-* **Internal patterns:** Optical imperfections, aperture shapes and image processing can create rings, bright centres or textured patterns inside the blur. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Circle_of_confusion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Circle of confusion</span><span class="citation-popover-snippet">Circle of confusion</span></span></span>
+* **Internal patterns:** Optical imperfections, aperture shapes and image processing can create rings, bright centres or textured patterns inside the blur.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Circle_of_confusion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Circle of confusion</span><span class="citation-popover-snippet">Circle of confusion</span></span></span>
 * **Changing shape:** Small focus adjustments cause the disc to expand, shrink or alter appearance.
-* **Colour shifts:** Different wavelengths may blur slightly differently, producing red, green or blue fringes around the orb. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Bokeh" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+* **Colour shifts:** Different wavelengths may blur slightly differently, producing red, green or blue fringes around the orb.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Bokeh" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 </div>
 
@@ -302,13 +302,13 @@ Because viewers expect a distant object to remain a point of light, the enlarged
 
 Many UFO recordings begin when someone notices a small light and immediately uses maximum zoom. Unfortunately, digital zoom enlarges both the subject and any focusing errors.
 
-A star that occupies only a tiny fraction of a pixel in a wide shot can become a large shimmering blob after aggressive zooming. Digital sharpening and noise reduction may then invent additional detail that appears meaningful even though it comes from image processing rather than the object itself. This is one reason why videos of Venus, Jupiter and bright [stars]({{ 'stars/' | relative_url }}) are frequently circulated online as mysterious [glowing orbs]({{ 'glowing-orbs/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/HiddenFactsss/posts/a-strange-orb-reflecting-bright-light-was-filmed-hovering-in-the-sky-over-nevada/1621488049977828/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">A strange orb reflecting bright light was filmed hovering in...Digital zoom, autofocus adjustments, and light diffraction can dr...</span></span></span>
+A star that occupies only a tiny fraction of a pixel in a wide shot can become a large shimmering blob after aggressive zooming. Digital sharpening and noise reduction may then invent additional detail that appears meaningful even though it comes from image processing rather than the object itself. This is one reason why videos of Venus, Jupiter and bright [stars]({{ 'stars/' | relative_url }}) are frequently circulated online as mysterious [glowing orbs]({{ 'glowing-orbs/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/HiddenFactsss/posts/a-strange-orb-reflecting-bright-light-was-filmed-hovering-in-the-sky-over-nevada/1621488049977828/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">A strange orb reflecting bright light was filmed hovering in...Digital zoom, autofocus adjustments, and light diffraction can dr...</span></span></span>
 
 ## Why Phones Struggle With Dark Skies
 
 Modern phones are excellent general-purpose cameras, but night-sky imaging pushes them into a difficult operating environment.
 
-Autofocus systems depend on contrast. In daylight, a camera can easily detect edges and textures. Against a dark sky, a single bright point provides little information. The camera may repeatedly hunt for focus or lock onto the wrong distance. Astrophotographers commonly use manual focus because autofocus often struggles with stars and other faint celestial targets. Reddit <span class="citation-chip-wrap"><a class="citation-chip" href="https://discuss.pixls.us/t/focusing-on-stars-with-a-mirrorless-camera/38885" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discuss.pixls.us">[2discuss.pixls.us]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discuss.pixls.us</span><span class="citation-popover-title">Focusing on stars with a mirrorless camera</span><span class="citation-popover-snippet">Lounge15 Aug 2023 — I know that I have to focus on something in the distance and with my old Canon 5d mkii, it was always easy to autofoc...</span></span></span>
+Autofocus systems depend on contrast. In daylight, a camera can easily detect edges and textures. Against a dark sky, a single bright point provides little information. The camera may repeatedly hunt for focus or lock onto the wrong distance. Astrophotographers commonly use manual focus because autofocus often struggles with stars and other faint celestial targets. Reddit<span class="citation-chip-wrap"><a class="citation-chip" href="https://discuss.pixls.us/t/focusing-on-stars-with-a-mirrorless-camera/38885" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discuss.pixls.us">[2discuss.pixls.us]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discuss.pixls.us</span><span class="citation-popover-title">Focusing on stars with a mirrorless camera</span><span class="citation-popover-snippet">Lounge15 Aug 2023 — I know that I have to focus on something in the distance and with my old Canon 5d mkii, it was always easy to autofoc...</span></span></span>
 
 At the same time, phones are attempting to solve several problems at once:
 
@@ -318,7 +318,7 @@ At the same time, phones are attempting to solve several problems at once:
 * Reducing image noise.
 * Stabilising a handheld shot.
 * Maintaining focus on a tiny moving target.
-* Applying digital zoom. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/HiddenFactsss/posts/a-strange-orb-reflecting-bright-light-was-filmed-hovering-in-the-sky-over-nevada/1621488049977828/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">A strange orb reflecting bright light was filmed hovering in...Digital zoom, autofocus adjustments, and light diffraction can dr...</span></span></span>
+* Applying digital zoom.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/HiddenFactsss/posts/a-strange-orb-reflecting-bright-light-was-filmed-hovering-in-the-sky-over-nevada/1621488049977828/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">A strange orb reflecting bright light was filmed hovering in...Digital zoom, autofocus adjustments, and light diffraction can dr...</span></span></span>
 
 </div>
 
@@ -329,7 +329,7 @@ Each correction can subtly alter the appearance of the light. As the software ad
 
 Witnesses often describe UFO orbs as “breathing” or “pulsing”. In many cases, the apparent pulsation is created by the camera rather than the light source.
 
-Minor autofocus corrections cause the blur disc to expand and contract. Automatic exposure systems simultaneously brighten and darken the image to maintain visibility. Atmospheric turbulence can also make distant lights shimmer. Together, these effects create the impression that the object is actively changing shape or emitting energy when the behaviour is largely a combination of optics and image processing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/deepuniversee/posts/a-star-shaped-object-captured-in-viral-night-footage-has-been-analysed-by-resear/968937289237493/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">t with limited exposure control and no fixed reference points.Read more...</span></span></span>
+Minor autofocus corrections cause the blur disc to expand and contract. Automatic exposure systems simultaneously brighten and darken the image to maintain visibility. Atmospheric turbulence can also make distant lights shimmer. Together, these effects create the impression that the object is actively changing shape or emitting energy when the behaviour is largely a combination of optics and image processing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/deepuniversee/posts/a-star-shaped-object-captured-in-viral-night-footage-has-been-analysed-by-resear/968937289237493/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">t with limited exposure control and no fixed reference points.Read more...</span></span></span>
 
 ## Why A Star Can Look Like A Moving Orb
 
@@ -358,199 +358,199 @@ Finally, look for context. A wider shot showing the horizon, nearby lights or ai
 
 An out-of-focus orb is not evidence that nothing was present in the sky. There may indeed have been a star, aircraft, drone, satellite or other real object. The problem is that the recording no longer preserves enough visual information to identify it confidently.
 
-In investigations of IFOs—identified flying objects—this distinction matters. The orb appearance often reflects camera behaviour more than object behaviour. Once a distant point source has been transformed into a large blur disc, details needed for identification are lost. The resulting video may be genuine, but the glowing sphere on screen is frequently an optical artefact created by focus errors, zoom and low-light imaging rather than the true shape of the object being observed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bhphotovideo.com/explora/photography/tips-and-solutions/understanding-bokeh" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bhphotovideo.com">[B&amp;H Photo Video]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bhphotovideo.com</span><span class="citation-popover-title">B&amp;H Photo Video Understanding Bokeh</span><span class="citation-popover-snippet">When a point of light is at the focal plane (middle illustration), it is reproduced as a...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slrlounge.com/glossary/circle-of-confusion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slrlounge.com">[SLR Lounge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slrlounge.com</span><span class="citation-popover-snippet">Circle Of Confusion DefinitionThe out-of-focus lights will expand and become “bokeh balls.” If you focus on the lights instead, they will...</span></span></span>
+In investigations of IFOs—identified flying objects—this distinction matters. The orb appearance often reflects camera behaviour more than object behaviour. Once a distant point source has been transformed into a large blur disc, details needed for identification are lost. The resulting video may be genuine, but the glowing sphere on screen is frequently an optical artefact created by focus errors, zoom and low-light imaging rather than the true shape of the object being observed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bhphotovideo.com/explora/photography/tips-and-solutions/understanding-bokeh" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bhphotovideo.com">[B&amp;H Photo Video]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bhphotovideo.com</span><span class="citation-popover-title">B&amp;H Photo Video Understanding Bokeh</span><span class="citation-popover-snippet">When a point of light is at the focal plane (middle illustration), it is reproduced as a...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slrlounge.com/glossary/circle-of-confusion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slrlounge.com">[SLR Lounge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slrlounge.com</span><span class="citation-popover-snippet">Circle Of Confusion DefinitionThe out-of-focus lights will expand and become “bokeh balls.” If you focus on the lights instead, they will...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5pj0POVW99k" title="The Raw footage in 4K of something seriously weird in the night sky" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5pj0POVW99k" target="_blank" rel="noopener noreferrer">The Raw footage in 4K of something seriously weird in the night sky</a></p><p class="youtube-embed-meta">Channel: scannerguy1968 &middot; Views: 208.6K &middot; Uploaded: March 2026 &middot; Length: 4 minutes 41 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5pj0POVW99k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5pj0POVW99k">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Night Lights Become Orbs. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Night Lights Become Orbs. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Read+This+if+You+Want+to+Take+Great+Photographs+by+Henry+Carroll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Read This if You Want to Take Great Photographs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=p_UgEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Read This if You Want to Take Great Photographs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Read+This+if+You+Want+to+Take+Great+Photographs+by+Henry+Carroll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Read This if You Want to Take Great Photographs">Read This if You Want to Take Great Photographs</a>
-        </h4>
-        <p class="fr-book-author">By Henry Carroll</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Read+This+if+You+Want+to+Take+Great+Photographs+by+Henry+Carroll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Read This if You Want to Take Great Photographs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=p_UgEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Read This if You Want to Take Great Photographs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Read+This+if+You+Want+to+Take+Great+Photographs+by+Henry+Carroll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Read This if You Want to Take Great Photographs">Read This if You Want to Take Great Photographs</a>
+</h4>
+<p class="fr-book-author">By Henry Carroll</p>
         
-        <p class="fr-book-desc">Explains focus exposure and composition issues behind misleading night images.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Read+This+if+You+Want+to+Take+Great+Photographs+by+Henry+Carroll&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains focus exposure and composition issues behind misleading night images.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Read+This+if+You+Want+to+Take+Great+Photographs+by+Henry+Carroll&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Understanding+Exposure+by+Bryan+F.+Peterson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Understanding Exposure on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=v4lw2lZKmioC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Understanding Exposure" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Understanding+Exposure+by+Bryan+F.+Peterson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Understanding Exposure">Understanding Exposure</a>
-        </h4>
-        <p class="fr-book-author">By Bryan F. Peterson</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 19 Google Books ratings</p>
-        <p class="fr-book-desc">Covers exposure focus and light behavior relevant to orb-like artefacts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Understanding+Exposure+by+Bryan+F.+Peterson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Understanding+Exposure+by+Bryan+F.+Peterson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Understanding Exposure on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=v4lw2lZKmioC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Understanding Exposure" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Understanding+Exposure+by+Bryan+F.+Peterson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Understanding Exposure">Understanding Exposure</a>
+</h4>
+<p class="fr-book-author">By Bryan F. Peterson</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 19 Google Books ratings</p>
+<p class="fr-book-desc">Covers exposure focus and light behavior relevant to orb-like artefacts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Understanding+Exposure+by+Bryan+F.+Peterson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Encourages careful evaluation of extraordinary-looking evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages careful evaluation of extraordinary-looking evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides wider context for evaluating UFO reports and evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides wider context for evaluating UFO reports and evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Read+This+if+You+Want+to+Take+Great+Photographs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Read This if You Want to Take Great Photographs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Understanding+Exposure&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Understanding Exposure</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Read+This+if+You+Want+to+Take+Great+Photographs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Read This if You Want to Take Great Photographs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Understanding+Exposure&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Understanding Exposure</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-lights-become-orbs-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-night-lights-become-orbs-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-lights-become-orbs-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-night-lights-become-orbs-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-lights-become-orbs-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-night-lights-become-orbs-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-lights-become-orbs-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-night-lights-become-orbs-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-lights-become-orbs-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-night-lights-become-orbs-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-lights-become-orbs-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-night-lights-become-orbs-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-lights-become-orbs-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-night-lights-become-orbs-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-lights-become-orbs-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-night-lights-become-orbs-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-lights-become-orbs-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-night-lights-become-orbs-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-lights-become-orbs-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-night-lights-become-orbs-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-lights-become-orbs-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-night-lights-become-orbs-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-lights-become-orbs-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-night-lights-become-orbs-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-lights-become-orbs-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-night-lights-become-orbs-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-lights-become-orbs-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-night-lights-become-orbs-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-lights-become-orbs-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-night-lights-become-orbs-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-lights-become-orbs-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-night-lights-become-orbs-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-lights-become-orbs-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-night-lights-become-orbs-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-lights-become-orbs-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-night-lights-become-orbs-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-lights-become-orbs-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-night-lights-become-orbs-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-lights-become-orbs-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-night-lights-become-orbs-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-lights-become-orbs-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-night-lights-become-orbs-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-lights-become-orbs-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-night-lights-become-orbs-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-lights-become-orbs-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-night-lights-become-orbs-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-lights-become-orbs-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-night-lights-become-orbs-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-lights-become-orbs-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-night-lights-become-orbs-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-lights-become-orbs-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-night-lights-become-orbs-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-lights-become-orbs-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-night-lights-become-orbs-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-lights-become-orbs-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-night-lights-become-orbs-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-lights-become-orbs-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-night-lights-become-orbs-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-lights-become-orbs-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-night-lights-become-orbs-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-lights-become-orbs-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-night-lights-become-orbs-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-lights-become-orbs-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-night-lights-become-orbs-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-lights-become-orbs-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-night-lights-become-orbs-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-lights-become-orbs-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-night-lights-become-orbs-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -566,7 +566,7 @@ In investigations of IFOs—identified flying objects—this distinction matters
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -586,7 +586,7 @@ In investigations of IFOs—identified flying objects—this distinction matters
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -618,7 +618,7 @@ In investigations of IFOs—identified flying objects—this distinction matters
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -670,7 +670,7 @@ In investigations of IFOs—identified flying objects—this distinction matters
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -715,7 +715,7 @@ In investigations of IFOs—identified flying objects—this distinction matters
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -756,132 +756,132 @@ In investigations of IFOs—identified flying objects—this distinction matters
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Circle of confusion  
-   Link: <a href="https://en.wikipedia.org/wiki/Circle_of_confusion" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Circle_of_confusion</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Circle_of_confusion" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Circle_of_confusion</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Bokeh" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bokeh</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Bokeh" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bokeh</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/HiddenFactsss/posts/a-strange-orb-reflecting-bright-light-was-filmed-hovering-in-the-sky-over-nevada/1621488049977828/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HiddenFactsss/posts/a-strange-orb-reflecting-bright-light-was-filmed-hovering-in-the-sky-over-nevada/1621488049977828/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A strange orb reflecting bright light was filmed hovering in...Digital zoom, autofocus adjustments, and light diffraction can dr...</p></details>
+   Link:<a href="https://www.facebook.com/HiddenFactsss/posts/a-strange-orb-reflecting-bright-light-was-filmed-hovering-in-the-sky-over-nevada/1621488049977828/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HiddenFactsss/posts/a-strange-orb-reflecting-bright-light-was-filmed-hovering-in-the-sky-over-nevada/1621488049977828/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A strange orb reflecting bright light was filmed hovering in...Digital zoom, autofocus adjustments, and light diffraction can dr...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/AskAstrophotography/comments/1eq9477/how_do_you_focus_on_the_stars/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AskAstrophotography/comments/1eq9477/how_do_you_focus_on_the_stars/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How do you focus on the stars?: r/AskAstrophotographyHi everyone, I could use your help 😊. These days the sky is completely clear...</p></details>
+   Link:<a href="https://www.reddit.com/r/AskAstrophotography/comments/1eq9477/how_do_you_focus_on_the_stars/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AskAstrophotography/comments/1eq9477/how_do_you_focus_on_the_stars/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How do you focus on the stars?: r/AskAstrophotographyHi everyone, I could use your help 😊. These days the sky is completely clear...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: discuss.pixls.us  
    Title: Focusing on stars with a mirrorless camera  
-   Link: <a href="https://discuss.pixls.us/t/focusing-on-stars-with-a-mirrorless-camera/38885" target="_blank" rel="noopener noreferrer nofollow">https://discuss.pixls.us/t/focusing-on-stars-with-a-mirrorless-camera/38885</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lounge15 Aug 2023 — I know that I have to focus on something in the distance and with my old Canon 5d mkii, it was always easy to autofoc...</p></details>
+   Link:<a href="https://discuss.pixls.us/t/focusing-on-stars-with-a-mirrorless-camera/38885" target="_blank" rel="noopener noreferrer nofollow">https://discuss.pixls.us/t/focusing-on-stars-with-a-mirrorless-camera/38885</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lounge15 Aug 2023 — I know that I have to focus on something in the distance and with my old Canon 5d mkii, it was always easy to autofoc...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/1sfcj84/high_resolution_video_of_orb_filmed_by_peter/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1sfcj84/high_resolution_video_of_orb_filmed_by_peter/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>r/HighStrangeness - Rare Tubular UFO with Orb – Telepathic Encounter Caught on Camera.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/1sfcj84/high_resolution_video_of_orb_filmed_by_peter/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1sfcj84/high_resolution_video_of_orb_filmed_by_peter/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>r/HighStrangeness - Rare Tubular UFO with Orb – Telepathic Encounter Caught on Camera.Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/deepuniversee/posts/a-star-shaped-object-captured-in-viral-night-footage-has-been-analysed-by-resear/968937289237493/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/deepuniversee/posts/a-star-shaped-object-captured-in-viral-night-footage-has-been-analysed-by-resear/968937289237493/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>t with limited exposure control and no fixed reference points.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/deepuniversee/posts/a-star-shaped-object-captured-in-viral-night-footage-has-been-analysed-by-resear/968937289237493/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/deepuniversee/posts/a-star-shaped-object-captured-in-viral-night-footage-has-been-analysed-by-resear/968937289237493/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>t with limited exposure control and no fixed reference points.Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/999313021058041/posts/1365178554471484/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/999313021058041/posts/1365178554471484/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stargazing photo with water reflectionBefore it gets completely dark, focus on a distant light source (like a street light miles away) or...</p></details>
+   Link:<a href="https://www.facebook.com/groups/999313021058041/posts/1365178554471484/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/999313021058041/posts/1365178554471484/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stargazing photo with water reflectionBefore it gets completely dark, focus on a distant light source (like a street light miles away) or...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/VintageLensesForVideo/posts/3336882033144045/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/VintageLensesForVideo/posts/3336882033144045/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>I made an video to explain bokeh and circles of confusionCircles of confusion refer to the size of the out- of-focus points of light in a...</p></details>
+   Link:<a href="https://www.facebook.com/groups/VintageLensesForVideo/posts/3336882033144045/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/VintageLensesForVideo/posts/3336882033144045/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I made an video to explain bokeh and circles of confusionCircles of confusion refer to the size of the out- of-focus points of light in a...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1295673443855365/posts/9471332646289363/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1295673443855365/posts/9471332646289363/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Camera Focus Issue with StarsWhat a real star looks like. I got plenty more! Tell me how this is gas. And meant to be two star systems ha...</p></details>
+   Link:<a href="https://www.facebook.com/groups/1295673443855365/posts/9471332646289363/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1295673443855365/posts/9471332646289363/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Camera Focus Issue with StarsWhat a real star looks like. I got plenty more! Tell me how this is gas. And meant to be two star systems ha...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1399025047071176/posts/3417509711889356/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1399025047071176/posts/3417509711889356/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What is this erratic UFO-like object spotted at Electric Forest?Not the best vid but conviced I’ve captured a UFO 2023 🤣 it was Sunday a...</p></details>
+   Link:<a href="https://www.facebook.com/groups/1399025047071176/posts/3417509711889356/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1399025047071176/posts/3417509711889356/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is this erratic UFO-like object spotted at Electric Forest?Not the best vid but conviced I’ve captured a UFO 2023 🤣 it was Sunday a...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: bhphotovideo.com  
    Title: B&H Photo Video Understanding Bokeh  
-   Link: <a href="https://www.bhphotovideo.com/explora/photography/tips-and-solutions/understanding-bokeh" target="_blank" rel="noopener noreferrer nofollow">https://www.bhphotovideo.com/explora/photography/tips-and-solutions/understanding-bokeh</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When a point of light is at the focal plane (middle illustration), it is reproduced as a...Read more...</p></details>
+   Link:<a href="https://www.bhphotovideo.com/explora/photography/tips-and-solutions/understanding-bokeh" target="_blank" rel="noopener noreferrer nofollow">https://www.bhphotovideo.com/explora/photography/tips-and-solutions/understanding-bokeh</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When a point of light is at the focal plane (middle illustration), it is reproduced as a...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: slrlounge.com  
-   Link: <a href="https://www.slrlounge.com/glossary/circle-of-confusion/" target="_blank" rel="noopener noreferrer nofollow">https://www.slrlounge.com/glossary/circle-of-confusion/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Circle Of Confusion DefinitionThe out-of-focus lights will expand and become “bokeh balls.” If you focus on the lights instead, they will...</p></details>
+   Link:<a href="https://www.slrlounge.com/glossary/circle-of-confusion/" target="_blank" rel="noopener noreferrer nofollow">https://www.slrlounge.com/glossary/circle-of-confusion/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Circle Of Confusion DefinitionThe out-of-focus lights will expand and become “bokeh balls.” If you focus on the lights instead, they will...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=xHvr9p7XBr0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xHvr9p7XBr0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Up of the Color Changing Orb 12-30-2024 @MrMBB333I found one of these crazy glowing orbs no idea what it is. I took some footage on...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=xHvr9p7XBr0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xHvr9p7XBr0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close Up of the Color Changing Orb 12-30-2024 @MrMBB333I found one of these crazy glowing orbs no idea what it is. I took some footage on...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=GthjZ2j8FzY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GthjZ2j8FzY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CAUGHT ON CAMERA! Several Multi Colored UAP&#x27;S Spotted...CAUGHT ON CAMERA! Several Multi Colored UAP&#x27;S Spotted Descending Towards Earth...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=GthjZ2j8FzY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GthjZ2j8FzY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CAUGHT ON CAMERA! Several Multi Colored UAP&#x27;S Spotted...CAUGHT ON CAMERA! Several Multi Colored UAP&#x27;S Spotted Descending Towards Earth...</p></details>
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: apenasimagens.com  
-   Link: <a href="https://apenasimagens.com/en/circle-of-confusion/" target="_blank" rel="noopener noreferrer nofollow">https://apenasimagens.com/en/circle-of-confusion/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Circle of Confusion – only imagesThe Circles of Confusion become large and overlap, encroaching on each other, making the image blurry, l...</p></details>
+   Link:<a href="https://apenasimagens.com/en/circle-of-confusion/" target="_blank" rel="noopener noreferrer nofollow">https://apenasimagens.com/en/circle-of-confusion/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Circle of Confusion – only imagesThe Circles of Confusion become large and overlap, encroaching on each other, making the image blurry, l...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: learningwithexperts.com  
-   Link: <a href="https://www.learningwithexperts.com/blogs/articles/bokeh-explained?srsltid=AfmBOopvCL0LcmCYBA_ZcMt7BPtyeqiloiDSOFO0i3qoHKpMQXlTo86h" target="_blank" rel="noopener noreferrer nofollow">https://www.learningwithexperts.com/blogs/articles/bokeh-explained?srsltid=AfmBOopvCL0LcmCYBA_ZcMt7BPtyeqiloiDSOFO0i3qoHKpMQXlTo86h</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bokeh ExplainedIn out of focus areas of a photograph light spreads or diffracts into round discs, and these are the bokeh, also known as...</p></details>
+   Link:<a href="https://www.learningwithexperts.com/blogs/articles/bokeh-explained?srsltid=AfmBOopvCL0LcmCYBA_ZcMt7BPtyeqiloiDSOFO0i3qoHKpMQXlTo86h" target="_blank" rel="noopener noreferrer nofollow">https://www.learningwithexperts.com/blogs/articles/bokeh-explained?srsltid=AfmBOopvCL0LcmCYBA_ZcMt7BPtyeqiloiDSOFO0i3qoHKpMQXlTo86h</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bokeh ExplainedIn out of focus areas of a photograph light spreads or diffracts into round discs, and these are the bokeh, also known as...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DZBGtZeMiiD/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DZBGtZeMiiD/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Turn the focus ring until the stars appear as small as possible, take a test shot...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DZBGtZeMiiD/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DZBGtZeMiiD/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Turn the focus ring until the stars appear as small as possible, take a test shot...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: picturecorrect.com  
-   Link: <a href="https://www.picturecorrect.com/the-circle-of-confusion-and-its-impact-on-photography/" target="_blank" rel="noopener noreferrer nofollow">https://www.picturecorrect.com/the-circle-of-confusion-and-its-impact-on-photography/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s related to how your lens focuses as well as the aperture value that you use...Read more...</p></details>
+   Link:<a href="https://www.picturecorrect.com/the-circle-of-confusion-and-its-impact-on-photography/" target="_blank" rel="noopener noreferrer nofollow">https://www.picturecorrect.com/the-circle-of-confusion-and-its-impact-on-photography/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s related to how your lens focuses as well as the aperture value that you use...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DW6afBCCPlz/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DW6afBCCPlz/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>o look at this and think we&#x27;ve finally got proof of UFOs...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DW6afBCCPlz/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DW6afBCCPlz/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>o look at this and think we&#x27;ve finally got proof of UFOs...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=ToN15U6dy1Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ToN15U6dy1Q</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ght sky with both a smart phone and a DSLR camera whilst under...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ToN15U6dy1Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ToN15U6dy1Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ght sky with both a smart phone and a DSLR camera whilst under...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=5pj0POVW99k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5pj0POVW99k</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ously weird in the night sky with my extreme low light camera...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=5pj0POVW99k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5pj0POVW99k</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ously weird in the night sky with my extreme low light camera...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: Unlocking The Magic: Master The Art Of Bokeh Photography  
-   Link: <a href="http://www.youtube.com/watch?v=z3c7VezUhQc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=z3c7VezUhQc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why out of focus lights become orbs bokeh explained BOKEH Expert Shares Top Techniques for Stunning Photography...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=z3c7VezUhQc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=z3c7VezUhQc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why out of focus lights become orbs bokeh explained BOKEH Expert Shares Top Techniques for Stunning Photography...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=wMrCs1fdPEQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wMrCs1fdPEQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ager in his family&#x27;s kitchen, where he saw an orb with the...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=wMrCs1fdPEQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wMrCs1fdPEQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ager in his family&#x27;s kitchen, where he saw an orb with the...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: imagemaven.com  
    Title: focus on the stars  
-   Link: <a href="https://www.imagemaven.com/blog/focus-on-the-stars" target="_blank" rel="noopener noreferrer nofollow">https://www.imagemaven.com/blog/focus-on-the-stars</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>10 Sept 2024 — The bottom left corner circle turns green, and you should see the word STAR for a brief moment. You will also hear a beep...</p></details>
+   Link:<a href="https://www.imagemaven.com/blog/focus-on-the-stars" target="_blank" rel="noopener noreferrer nofollow">https://www.imagemaven.com/blog/focus-on-the-stars</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>10 Sept 2024 — The bottom left corner circle turns green, and you should see the word STAR for a brief moment. You will also hear a beep...</p></details>

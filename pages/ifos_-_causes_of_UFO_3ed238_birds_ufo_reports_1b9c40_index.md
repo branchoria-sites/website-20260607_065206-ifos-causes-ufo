@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ifos-causes-of-ufo-3ed238-birds-ufo/
 description: Focused pages that expand on Birds.
-date: '2026-06-12'
+date: '2026'
 layout: default
 parent_basename: ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40
 parent_title: Birds
@@ -16,7 +16,7 @@ parent_permalink: /birds/
 
 # Explore Topics in Birds
 
-The following pages expand on the main **[Birds]({{ '/birds/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Birds]({{ '/birds/' | relative_url }})** page and cover its key branches in.
 
 - [AARO IR birds]({{ '/aaro-ir-birds/' | relative_url }})
 - [Field checks]({{ '/field-checks/' | relative_url }})

@@ -274,248 +274,248 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b_gal
 
 ## Introduction
 
-The Gallup airline pilot case is a useful example of how a credible witness can encounter a genuinely puzzling sight in the night sky and still be observing a conventional phenomenon. In October 2022, an airline pilot flying near Gallup, New Mexico, reported multiple bright lights apparently moving in different directions near the constellation Leo. Because the observer was a professional pilot at cruising altitude, the report attracted attention as a potentially significant unidentified aerial phenomenon (UAP) case. Subsequent analysis, however, showed that the sighting closely matched the geometry expected from [Starlink]({{ 'starlink/' | relative_url }}) satellite flares viewed from an aircraft. Rather than undermining the pilot's credibility, the case demonstrates how unusual viewing conditions can make satellite [reflections]({{ 'reflections/' | relative_url }}) appear far stranger than most people would expect. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Correlations of Starlink Satellite Flaring with UAP</span><span class="citation-popover-snippet">Correlations of Starlink Satellite Flaring with UAP...January 24, 2025 — by A An · 2024 — The report states that the pilot was trave...</span><span class="citation-popover-meta">Published: January 24, 2025</span></span></span>
+The Gallup airline pilot case is a useful example of how a credible witness can encounter a genuinely puzzling sight in the night sky and still be observing a conventional phenomenon. In October 2022, an airline pilot flying near Gallup, New Mexico, reported multiple bright lights apparently moving in different directions near the constellation Leo. Because the observer was a professional pilot at cruising altitude, the report attracted attention as a potentially significant unidentified aerial phenomenon (UAP) case. Subsequent analysis, however, showed that the sighting closely matched the geometry expected from [Starlink]({{ 'starlink/' | relative_url }}) satellite flares viewed from an aircraft. Rather than undermining the pilot's credibility, the case demonstrates how unusual viewing conditions can make satellite [reflections]({{ 'reflections/' | relative_url }}) appear far stranger than most people would expect.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Correlations of Starlink Satellite Flaring with UAP</span><span class="citation-popover-snippet">Correlations of Starlink Satellite Flaring with UAP...January 24, 2025 — by A An · 2024 — The report states that the pilot was trave...</span><span class="citation-popover-meta">Published: January 24, 2025</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b_gallup_pilot_flares_1bd646-Illustration-1-dark.svg" | relative_url }}" alt="Gallup case illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b_gallup_pilot_flares_1bd646-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b_gallup_pilot_flares_1bd646-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What the pilot reported near Gallup
 
-According to the Federal Aviation Administration report later analysed by the U.S. All-domain Anomaly Resolution Office ([AARO]({{ 'aaro/' | relative_url }})), the sighting occurred on 9 October 2022 at approximately 3:50 a.m. local time. The aircraft was travelling eastbound near Gallup, New Mexico, at roughly 35,000 feet. The pilot described seeing “multiple lights moving in different directions” to the left of the constellation Leo. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Correlations of Starlink Satellite Flaring with UAP</span><span class="citation-popover-snippet">Correlations of Starlink Satellite Flaring with UAP...January 24, 2025 — by A An · 2024 — The report states that the pilot was trave...</span><span class="citation-popover-meta">Published: January 24, 2025</span></span></span>
+According to the Federal Aviation Administration report later analysed by the U.S. All-domain Anomaly Resolution Office ([AARO]({{ 'aaro/' | relative_url }})), the sighting occurred on 9 October 2022 at approximately 3:50 a.m. local time. The aircraft was travelling eastbound near Gallup, New Mexico, at roughly 35,000 feet. The pilot described seeing “multiple lights moving in different directions” to the left of the constellation Leo.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Correlations of Starlink Satellite Flaring with UAP</span><span class="citation-popover-snippet">Correlations of Starlink Satellite Flaring with UAP...January 24, 2025 — by A An · 2024 — The report states that the pilot was trave...</span><span class="citation-popover-meta">Published: January 24, 2025</span></span></span>
 
-That description is important because it differs from a typical satellite observation. Most people expect a satellite to look like a single dim point moving steadily across the sky. The reported lights instead appeared dynamic and irregular, creating the impression that separate objects were manoeuvring independently. From the cockpit, with a wide horizon and a view extending far beyond what is visible from the ground, the scene appeared unusual enough to be reported as a UAP. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Correlations of Starlink Satellite Flaring with UAP</span><span class="citation-popover-snippet">Correlations of Starlink Satellite Flaring with UAP...January 24, 2025 — by A An · 2024 — The report states that the pilot was trave...</span><span class="citation-popover-meta">Published: January 24, 2025</span></span></span>
+That description is important because it differs from a typical satellite observation. Most people expect a satellite to look like a single dim point moving steadily across the sky. The reported lights instead appeared dynamic and irregular, creating the impression that separate objects were manoeuvring independently. From the cockpit, with a wide horizon and a view extending far beyond what is visible from the ground, the scene appeared unusual enough to be reported as a UAP.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Correlations of Starlink Satellite Flaring with UAP</span><span class="citation-popover-snippet">Correlations of Starlink Satellite Flaring with UAP...January 24, 2025 — by A An · 2024 — The report states that the pilot was trave...</span><span class="citation-popover-meta">Published: January 24, 2025</span></span></span>
 
-The report also illustrates a recurring pattern in aviation sightings. [Pilots]({{ 'pilots/' | relative_url }}) often have excellent observational skills, but they also operate in environments where atmospheric conditions, extreme viewing distances and unusual lighting geometries can create visual effects rarely encountered by ground observers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skyandtelescope.org/astronomy-news/starlink-flares-can-fool-anyone-even-airline-pilots/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyandtelescope.org">[Sky &amp; Telescope]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyandtelescope.org</span><span class="citation-popover-title">starlink flares can fool anyone even airline pilots</span><span class="citation-popover-snippet">Sky &amp; TelescopeStarlink Flares Can Fool Anyone — Even Airline Pilots10 Jun 2024 — The flare from numerous Starlink satellites, launched b...</span></span></span>
+The report also illustrates a recurring pattern in aviation sightings. [Pilots]({{ 'pilots/' | relative_url }}) often have excellent observational skills, but they also operate in environments where atmospheric conditions, extreme viewing distances and unusual lighting geometries can create visual effects rarely encountered by ground observers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skyandtelescope.org/astronomy-news/starlink-flares-can-fool-anyone-even-airline-pilots/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyandtelescope.org">[Sky &amp; Telescope]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyandtelescope.org</span><span class="citation-popover-title">starlink flares can fool anyone even airline pilots</span><span class="citation-popover-snippet">Sky &amp; TelescopeStarlink Flares Can Fool Anyone — Even Airline Pilots10 Jun 2024 — The flare from numerous Starlink satellites, launched b...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jI03Bglh_bY" title="UFO sightings in Oregon skies baffle some commercial pilots" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jI03Bglh_bY" target="_blank" rel="noopener noreferrer">UFO sightings in Oregon skies baffle some commercial pilots</a></p><p class="youtube-embed-meta">Channel: KGW News &middot; Views: 468.5K &middot; Uploaded: December 2024 &middot; Length: 2 minutes 46 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jI03Bglh_bY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jI03Bglh_bY">Open on YouTube</a></p></div></div></div>
 
 ## How the flare reconstruction matched the sighting
 
-AARO used the Gallup report as a worked example in its study of correlations between Starlink satellite flaring and UAP reports. Investigators reconstructed the aircraft's position, altitude, heading and viewing direction, then compared those conditions with the locations of Starlink [satellites]({{ 'satellites/' | relative_url }}) that could have produced specular reflections—brief flashes caused when sunlight reflects directly toward an observer. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Correlations of Starlink Satellite Flaring with UAP</span><span class="citation-popover-snippet">Correlations of Starlink Satellite Flaring with UAP...January 24, 2025 — by A An · 2024 — The report states that the pilot was trave...</span><span class="citation-popover-meta">Published: January 24, 2025</span></span></span>
+AARO used the Gallup report as a worked example in its study of correlations between Starlink satellite flaring and UAP reports. Investigators reconstructed the aircraft's position, altitude, heading and viewing direction, then compared those conditions with the locations of Starlink [satellites]({{ 'satellites/' | relative_url }}) that could have produced specular reflections—brief flashes caused when sunlight reflects directly toward an observer.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Correlations of Starlink Satellite Flaring with UAP</span><span class="citation-popover-snippet">Correlations of Starlink Satellite Flaring with UAP...January 24, 2025 — by A An · 2024 — The report states that the pilot was trave...</span><span class="citation-popover-meta">Published: January 24, 2025</span></span></span>
 
-The analysis found that the geometry was highly favourable for visible Starlink flares. Although it was still dark at the aircraft's location, satellites hundreds of kilometres above Earth remained illuminated by the Sun. From the aircraft's elevated vantage point, the pilot was also able to see farther into the illuminated region above Earth's shadow than an observer on the ground could. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Correlations of Starlink Satellite Flaring with UAP</span><span class="citation-popover-snippet">Correlations of Starlink Satellite Flaring with UAP...January 24, 2025 — by A An · 2024 — The report states that the pilot was trave...</span><span class="citation-popover-meta">Published: January 24, 2025</span></span></span>
+The analysis found that the geometry was highly favourable for visible Starlink flares. Although it was still dark at the aircraft's location, satellites hundreds of kilometres above Earth remained illuminated by the Sun. From the aircraft's elevated vantage point, the pilot was also able to see farther into the illuminated region above Earth's shadow than an observer on the ground could.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Correlations of Starlink Satellite Flaring with UAP</span><span class="citation-popover-snippet">Correlations of Starlink Satellite Flaring with UAP...January 24, 2025 — by A An · 2024 — The report states that the pilot was trave...</span><span class="citation-popover-meta">Published: January 24, 2025</span></span></span>
 
-A key element of the reconstruction was the concept of an "effective observation point". Because the aircraft was moving at high speed and viewing the sky from 35,000 feet, the relevant geometry differed from that of a stationary observer on the ground. Using the aircraft's heading and altitude, AARO calculated a viewing location farther along the flight path and then examined where Starlink satellites would have produced bright reflections relative to that line of sight. The predicted flare locations aligned with the reported viewing direction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Correlations of Starlink Satellite Flaring with UAP</span><span class="citation-popover-snippet">Correlations of Starlink Satellite Flaring with UAP...January 24, 2025 — by A An · 2024 — The report states that the pilot was trave...</span><span class="citation-popover-meta">Published: January 24, 2025</span></span></span>
+A key element of the reconstruction was the concept of an "effective observation point". Because the aircraft was moving at high speed and viewing the sky from 35,000 feet, the relevant geometry differed from that of a stationary observer on the ground. Using the aircraft's heading and altitude, AARO calculated a viewing location farther along the flight path and then examined where Starlink satellites would have produced bright reflections relative to that line of sight. The predicted flare locations aligned with the reported viewing direction.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Correlations of Starlink Satellite Flaring with UAP</span><span class="citation-popover-snippet">Correlations of Starlink Satellite Flaring with UAP...January 24, 2025 — by A An · 2024 — The report states that the pilot was trave...</span><span class="citation-popover-meta">Published: January 24, 2025</span></span></span>
 
-The resulting explanation did not require satellites to physically change direction. Instead, different satellites in different orbital tracks brightened and faded as each one briefly reached the correct reflection angle. To an observer, the sequence can resemble separate lights appearing, disappearing and moving independently, even though each satellite is following a normal orbit. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Correlations of Starlink Satellite Flaring with UAP</span><span class="citation-popover-snippet">Correlations of Starlink Satellite Flaring with UAP...January 24, 2025 — by A An · 2024 — The report states that the pilot was trave...</span><span class="citation-popover-meta">Published: January 24, 2025</span></span></span>
+The resulting explanation did not require satellites to physically change direction. Instead, different satellites in different orbital tracks brightened and faded as each one briefly reached the correct reflection angle. To an observer, the sequence can resemble separate lights appearing, disappearing and moving independently, even though each satellite is following a normal orbit.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Correlations of Starlink Satellite Flaring with UAP</span><span class="citation-popover-snippet">Correlations of Starlink Satellite Flaring with UAP...January 24, 2025 — by A An · 2024 — The report states that the pilot was trave...</span><span class="citation-popover-meta">Published: January 24, 2025</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b_gallup_pilot_flares_1bd646-Illustration-2-dark.svg" | relative_url }}" alt="Gallup case illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b_gallup_pilot_flares_1bd646-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b_gallup_pilot_flares_1bd646-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the lights seemed to move in different directions
 
 One of the most confusing aspects of the Gallup report was the impression that the lights were travelling in different directions. Satellite-flare geometry provides a straightforward explanation.
 
-Starlink satellites occupy numerous orbital planes crossing the sky at different angles. When sunlight reflects from one satellite, the flare may appear in one position. Moments later, a different satellite in another orbit may brighten elsewhere. Because the observer mainly notices the brightening events rather than the dim satellites between them, the brain tends to connect the flashes into a pattern of moving objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Correlations of Starlink Satellite Flaring with UAP</span><span class="citation-popover-snippet">Correlations of Starlink Satellite Flaring with UAP...January 24, 2025 — by A An · 2024 — The report states that the pilot was trave...</span><span class="citation-popover-meta">Published: January 24, 2025</span></span></span>
+Starlink satellites occupy numerous orbital planes crossing the sky at different angles. When sunlight reflects from one satellite, the flare may appear in one position. Moments later, a different satellite in another orbit may brighten elsewhere. Because the observer mainly notices the brightening events rather than the dim satellites between them, the brain tends to connect the flashes into a pattern of moving objects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Correlations of Starlink Satellite Flaring with UAP</span><span class="citation-popover-snippet">Correlations of Starlink Satellite Flaring with UAP...January 24, 2025 — by A An · 2024 — The report states that the pilot was trave...</span><span class="citation-popover-meta">Published: January 24, 2025</span></span></span>
 
-At aircraft altitude, this effect becomes more pronounced. The observer sees farther over Earth's curved surface and can simultaneously view reflections from many satellites spread across a large volume of space. The visual result can resemble a cluster of lights performing coordinated manoeuvres even though no object is actually changing course. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Correlations of Starlink Satellite Flaring with UAP</span><span class="citation-popover-snippet">Correlations of Starlink Satellite Flaring with UAP...January 24, 2025 — by A An · 2024 — The report states that the pilot was trave...</span><span class="citation-popover-meta">Published: January 24, 2025</span></span></span>
+At aircraft altitude, this effect becomes more pronounced. The observer sees farther over Earth's curved surface and can simultaneously view reflections from many satellites spread across a large volume of space. The visual result can resemble a cluster of lights performing coordinated manoeuvres even though no object is actually changing course.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Correlations of Starlink Satellite Flaring with UAP</span><span class="citation-popover-snippet">Correlations of Starlink Satellite Flaring with UAP...January 24, 2025 — by A An · 2024 — The report states that the pilot was trave...</span><span class="citation-popover-meta">Published: January 24, 2025</span></span></span>
 
-Researchers studying Starlink flaring have noted that extremely bright reflections can occur when sunlight strikes the underside of a satellite at a shallow angle. Such flares can become unexpectedly conspicuous and may appear far brighter than observers anticipate from ordinary satellites. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/pdf/2405.13091" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Extreme Flaring of Starlink Satellitesby A Mallama · 2024 · Cited by 2 — Abstract. Starlink satellites can become extremely bright w...</span></span></span>
+Researchers studying Starlink flaring have noted that extremely bright reflections can occur when sunlight strikes the underside of a satellite at a shallow angle. Such flares can become unexpectedly conspicuous and may appear far brighter than observers anticipate from ordinary satellites.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/pdf/2405.13091" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Extreme Flaring of Starlink Satellitesby A Mallama · 2024 · Cited by 2 — Abstract. Starlink satellites can become extremely bright w...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b_gallup_pilot_flares_1bd646-Illustration-3-dark.svg" | relative_url }}" alt="Gallup case illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b_gallup_pilot_flares_1bd646-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b_gallup_pilot_flares_1bd646-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the case teaches about witness reliability
 
 The Gallup case is often cited because it highlights an important point in the broader discussion of UFO and UAP reports: witness credibility and object identification are separate questions.
 
-Nothing in the reconstruction suggests that the pilot was careless, dishonest or mistaken about seeing unusual lights. The evidence instead indicates that the pilot accurately reported an unusual visual experience. The misunderstanding concerned the source of the lights, not their existence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Correlations of Starlink Satellite Flaring with UAP</span><span class="citation-popover-snippet">Correlations of Starlink Satellite Flaring with UAP...January 24, 2025 — by A An · 2024 — The report states that the pilot was trave...</span><span class="citation-popover-meta">Published: January 24, 2025</span></span></span>
+Nothing in the reconstruction suggests that the pilot was careless, dishonest or mistaken about seeing unusual lights. The evidence instead indicates that the pilot accurately reported an unusual visual experience. The misunderstanding concerned the source of the lights, not their existence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Correlations of Starlink Satellite Flaring with UAP</span><span class="citation-popover-snippet">Correlations of Starlink Satellite Flaring with UAP...January 24, 2025 — by A An · 2024 — The report states that the pilot was trave...</span><span class="citation-popover-meta">Published: January 24, 2025</span></span></span>
 
-This distinction matters because pilot testimony is frequently treated as either decisive proof of an anomalous object or dismissed entirely if a conventional explanation emerges. The Gallup example supports neither extreme. It shows that highly trained observers can provide valuable observations while still encountering situations where human perception struggles with unfamiliar optical effects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Correlations of Starlink Satellite Flaring with UAP</span><span class="citation-popover-snippet">Correlations of Starlink Satellite Flaring with UAP...January 24, 2025 — by A An · 2024 — The report states that the pilot was trave...</span><span class="citation-popover-meta">Published: January 24, 2025</span></span></span>
+This distinction matters because pilot testimony is frequently treated as either decisive proof of an anomalous object or dismissed entirely if a conventional explanation emerges. The Gallup example supports neither extreme. It shows that highly trained observers can provide valuable observations while still encountering situations where human perception struggles with unfamiliar optical effects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Correlations of Starlink Satellite Flaring with UAP</span><span class="citation-popover-snippet">Correlations of Starlink Satellite Flaring with UAP...January 24, 2025 — by A An · 2024 — The report states that the pilot was trave...</span><span class="citation-popover-meta">Published: January 24, 2025</span></span></span>
 
-For investigations of UFO reports, the lesson is practical. A witness's expertise may improve the quality of a report, but it does not eliminate the need to examine orbital data, lighting conditions and viewing geometry. In some circumstances, especially around dawn or dusk and at cruising altitude, those factors can create appearances that are far more surprising than a simple "satellite sighting" would suggest. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Correlations of Starlink Satellite Flaring with UAP</span><span class="citation-popover-snippet">Correlations of Starlink Satellite Flaring with UAP...January 24, 2025 — by A An · 2024 — The report states that the pilot was trave...</span><span class="citation-popover-meta">Published: January 24, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://skyandtelescope.org/astronomy-news/starlink-flares-can-fool-anyone-even-airline-pilots/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyandtelescope.org">[Sky &amp; Telescope]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyandtelescope.org</span><span class="citation-popover-title">starlink flares can fool anyone even airline pilots</span><span class="citation-popover-snippet">Sky &amp; TelescopeStarlink Flares Can Fool Anyone — Even Airline Pilots10 Jun 2024 — The flare from numerous Starlink satellites, launched b...</span></span></span>
+For investigations of UFO reports, the lesson is practical. A witness's expertise may improve the quality of a report, but it does not eliminate the need to examine orbital data, lighting conditions and viewing geometry. In some circumstances, especially around dawn or dusk and at cruising altitude, those factors can create appearances that are far more surprising than a simple "satellite sighting" would suggest.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Correlations of Starlink Satellite Flaring with UAP</span><span class="citation-popover-snippet">Correlations of Starlink Satellite Flaring with UAP...January 24, 2025 — by A An · 2024 — The report states that the pilot was trave...</span><span class="citation-popover-meta">Published: January 24, 2025</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://skyandtelescope.org/astronomy-news/starlink-flares-can-fool-anyone-even-airline-pilots/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyandtelescope.org">[Sky &amp; Telescope]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyandtelescope.org</span><span class="citation-popover-title">starlink flares can fool anyone even airline pilots</span><span class="citation-popover-snippet">Sky &amp; TelescopeStarlink Flares Can Fool Anyone — Even Airline Pilots10 Jun 2024 — The flare from numerous Starlink satellites, launched b...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nHiFIDyFe5k" title="What Exactly Are UAPs (UFOs)?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nHiFIDyFe5k" target="_blank" rel="noopener noreferrer">What Exactly Are UAPs (UFOs)?</a></p><p class="youtube-embed-meta">Channel: History of Simple Things &middot; Views: 1.9K &middot; Uploaded: May 2026 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nHiFIDyFe5k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nHiFIDyFe5k">Open on YouTube</a></p></div></div></div>
 
 ## Why the Gallup case matters within satellite-related UFO reports
 
-Among modern satellite-related UFO cases, the Gallup sighting stands out because it moved beyond a general claim that "it was probably Starlink". Investigators reconstructed the geometry in detail and demonstrated a plausible mechanism linking the pilot's observations to predicted satellite flares. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Correlations of Starlink Satellite Flaring with UAP</span><span class="citation-popover-snippet">Correlations of Starlink Satellite Flaring with UAP...January 24, 2025 — by A An · 2024 — The report states that the pilot was trave...</span><span class="citation-popover-meta">Published: January 24, 2025</span></span></span>
+Among modern satellite-related UFO cases, the Gallup sighting stands out because it moved beyond a general claim that "it was probably Starlink". Investigators reconstructed the geometry in detail and demonstrated a plausible mechanism linking the pilot's observations to predicted satellite flares.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Correlations of Starlink Satellite Flaring with UAP</span><span class="citation-popover-snippet">Correlations of Starlink Satellite Flaring with UAP...January 24, 2025 — by A An · 2024 — The report states that the pilot was trave...</span><span class="citation-popover-meta">Published: January 24, 2025</span></span></span>
 
-As satellite constellations continue to expand, similar reports are likely to remain common. The Gallup case provides a concrete example of how multiple bright lights, apparent changes of direction and a highly credible witness can all coexist with a conventional explanation. Within the study of UFO reports, it has become a useful illustration of how satellite flares can transform ordinary orbital traffic into something that appears extraordinary from the cockpit of an airliner. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Correlations of Starlink Satellite Flaring with UAP</span><span class="citation-popover-snippet">Correlations of Starlink Satellite Flaring with UAP...January 24, 2025 — by A An · 2024 — The report states that the pilot was trave...</span><span class="citation-popover-meta">Published: January 24, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://skyandtelescope.org/astronomy-news/starlink-flares-can-fool-anyone-even-airline-pilots/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyandtelescope.org">[Sky &amp; Telescope]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyandtelescope.org</span><span class="citation-popover-title">starlink flares can fool anyone even airline pilots</span><span class="citation-popover-snippet">Sky &amp; TelescopeStarlink Flares Can Fool Anyone — Even Airline Pilots10 Jun 2024 — The flare from numerous Starlink satellites, launched b...</span></span></span>
+As satellite constellations continue to expand, similar reports are likely to remain common. The Gallup case provides a concrete example of how multiple bright lights, apparent changes of direction and a highly credible witness can all coexist with a conventional explanation. Within the study of UFO reports, it has become a useful illustration of how satellite flares can transform ordinary orbital traffic into something that appears extraordinary from the cockpit of an airliner.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Correlations of Starlink Satellite Flaring with UAP</span><span class="citation-popover-snippet">Correlations of Starlink Satellite Flaring with UAP...January 24, 2025 — by A An · 2024 — The report states that the pilot was trave...</span><span class="citation-popover-meta">Published: January 24, 2025</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://skyandtelescope.org/astronomy-news/starlink-flares-can-fool-anyone-even-airline-pilots/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyandtelescope.org">[Sky &amp; Telescope]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyandtelescope.org</span><span class="citation-popover-title">starlink flares can fool anyone even airline pilots</span><span class="citation-popover-snippet">Sky &amp; TelescopeStarlink Flares Can Fool Anyone — Even Airline Pilots10 Jun 2024 — The flare from numerous Starlink satellites, launched b...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why pilots can misread satellite flares. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why pilots can misread satellite flares. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Backyard Astronomer&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hdvYKwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Backyard Astronomer&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Backyard Astronomer&#x27;s Guide">The Backyard Astronomer&#x27;s Guide</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson, Alan Dyer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Backyard Astronomer&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hdvYKwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Backyard Astronomer&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Backyard Astronomer&#x27;s Guide">The Backyard Astronomer&#x27;s Guide</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson, Alan Dyer</p>
         
-        <p class="fr-book-desc">Useful for understanding satellite visibility and flares.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding satellite visibility and flares.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
-        </h4>
-        <p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
+</h4>
+<p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
         
-        <p class="fr-book-desc">Helps readers understand what sky objects look like from real observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand what sky objects look like from real observations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Matches the page&#x27;s focus on credible aviation witnesses and interpretation limits.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Matches the page&#x27;s focus on credible aviation witnesses and interpretation limits.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Satellite+Basics+for+Everyone+by+C.+Robert+Welti&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Satellite Basics for Everyone on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8boMthqMAUMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Satellite Basics for Everyone" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Satellite+Basics+for+Everyone+by+C.+Robert+Welti&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Satellite Basics for Everyone">Satellite Basics for Everyone</a>
-        </h4>
-        <p class="fr-book-author">By C. Robert Welti</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Satellite+Basics+for+Everyone+by+C.+Robert+Welti&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Satellite Basics for Everyone on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8boMthqMAUMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Satellite Basics for Everyone" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Satellite+Basics+for+Everyone+by+C.+Robert+Welti&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Satellite Basics for Everyone">Satellite Basics for Everyone</a>
+</h4>
+<p class="fr-book-author">By C. Robert Welti</p>
         
-        <p class="fr-book-desc">Explains orbital objects that pilots may misread as UAP.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Satellite+Basics+for+Everyone+by+C.+Robert+Welti&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains orbital objects that pilots may misread as UAP.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Satellite+Basics+for+Everyone+by+C.+Robert+Welti&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Backyard Astronomer&#x27;s books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Backyard Astronomer&#x27;s books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pilots-can-misread-satellite-flares-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="why-pilots-can-misread-satellite-flares-starlink-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Star Link Battle for Atlas Star Fox McCloud 2 Side Video Game Poster 42x33,5 cm"><img src="https://i.ebayimg.com/images/g/vCYAAOSwxKxm~CPj/s-l225.jpg" alt="Listing image for Star Link Battle for Atlas Star Fox McCloud 2 Side Video Game Poster 42x33,5 cm" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pilots-can-misread-satellite-flares-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="why-pilots-can-misread-satellite-flares-starlink-poster" target="_blank" rel="sponsored noopener noreferrer">Star Link Battle for Atlas Star Fox McCloud 2 Side Video Game Poster 42x33,5 cm</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pilots-can-misread-satellite-flares-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="why-pilots-can-misread-satellite-flares-starlink-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Starlink poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Starlink poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pilots-can-misread-satellite-flares-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="why-pilots-can-misread-satellite-flares-starlink-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pilots-can-misread-satellite-flares-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="why-pilots-can-misread-satellite-flares-starlink-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Star Link Battle for Atlas Star Fox McCloud 2 Side Video Game Poster 42x33,5 cm"><img src="https://i.ebayimg.com/images/g/vCYAAOSwxKxm~CPj/s-l225.jpg" alt="Listing image for Star Link Battle for Atlas Star Fox McCloud 2 Side Video Game Poster 42x33,5 cm" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pilots-can-misread-satellite-flares-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="why-pilots-can-misread-satellite-flares-starlink-poster" target="_blank" rel="sponsored noopener noreferrer">Star Link Battle for Atlas Star Fox McCloud 2 Side Video Game Poster 42x33,5 cm</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pilots-can-misread-satellite-flares-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="why-pilots-can-misread-satellite-flares-starlink-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Starlink poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Starlink poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pilots-can-misread-satellite-flares-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="why-pilots-can-misread-satellite-flares-starlink-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pilots-can-misread-satellite-flares-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="why-pilots-can-misread-satellite-flares-starlink-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Starlink Battle for Atlas Game Poster Print Ubisoft Characters, Ships, Weapons"><img src="https://i.ebayimg.com/images/g/dW0AAeSwdsVoBF6E/s-l225.jpg" alt="Listing image for Starlink Battle for Atlas Game Poster Print Ubisoft Characters, Ships, Weapons" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pilots-can-misread-satellite-flares-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="why-pilots-can-misread-satellite-flares-starlink-poster" target="_blank" rel="sponsored noopener noreferrer">Starlink Battle for Atlas Game Poster Print Ubisoft Characters, Ships, Weapons</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pilots-can-misread-satellite-flares-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="why-pilots-can-misread-satellite-flares-starlink-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Starlink poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Starlink poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pilots-can-misread-satellite-flares-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="why-pilots-can-misread-satellite-flares-starlink-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pilots-can-misread-satellite-flares-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="why-pilots-can-misread-satellite-flares-starlink-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Starlink Battle for Atlas Game Poster Print Ubisoft Characters, Ships, Weapons"><img src="https://i.ebayimg.com/images/g/dW0AAeSwdsVoBF6E/s-l225.jpg" alt="Listing image for Starlink Battle for Atlas Game Poster Print Ubisoft Characters, Ships, Weapons" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pilots-can-misread-satellite-flares-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="why-pilots-can-misread-satellite-flares-starlink-poster" target="_blank" rel="sponsored noopener noreferrer">Starlink Battle for Atlas Game Poster Print Ubisoft Characters, Ships, Weapons</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pilots-can-misread-satellite-flares-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="why-pilots-can-misread-satellite-flares-starlink-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Starlink poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Starlink poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pilots-can-misread-satellite-flares-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="why-pilots-can-misread-satellite-flares-starlink-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pilots-can-misread-satellite-flares-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="why-pilots-can-misread-satellite-flares-starlink-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Starlink Network Earth Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/K~IAAeSwh2lo-QQL/s-l225.jpg" alt="Listing image for Starlink Network Earth Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pilots-can-misread-satellite-flares-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="why-pilots-can-misread-satellite-flares-starlink-poster" target="_blank" rel="sponsored noopener noreferrer">Starlink Network Earth Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pilots-can-misread-satellite-flares-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="why-pilots-can-misread-satellite-flares-starlink-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Starlink poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Starlink poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pilots-can-misread-satellite-flares-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="why-pilots-can-misread-satellite-flares-starlink-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pilots-can-misread-satellite-flares-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="why-pilots-can-misread-satellite-flares-starlink-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Starlink Network Earth Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/K~IAAeSwh2lo-QQL/s-l225.jpg" alt="Listing image for Starlink Network Earth Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pilots-can-misread-satellite-flares-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="why-pilots-can-misread-satellite-flares-starlink-poster" target="_blank" rel="sponsored noopener noreferrer">Starlink Network Earth Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pilots-can-misread-satellite-flares-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="why-pilots-can-misread-satellite-flares-starlink-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Starlink poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Starlink poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pilots-can-misread-satellite-flares-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="why-pilots-can-misread-satellite-flares-starlink-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pilots-can-misread-satellite-flares-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="why-pilots-can-misread-satellite-flares-starlink-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Xbox One Starlink Starter Pack game not included. Character Pieces and poster"><img src="https://i.ebayimg.com/images/g/lgAAAeSwwr5ot2gW/s-l225.jpg" alt="Listing image for Xbox One Starlink Starter Pack game not included. Character Pieces and poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pilots-can-misread-satellite-flares-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="why-pilots-can-misread-satellite-flares-starlink-poster" target="_blank" rel="sponsored noopener noreferrer">Xbox One Starlink Starter Pack game not included. Character Pieces and poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pilots-can-misread-satellite-flares-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="why-pilots-can-misread-satellite-flares-starlink-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Starlink poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Starlink poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pilots-can-misread-satellite-flares-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="why-pilots-can-misread-satellite-flares-starlink-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pilots-can-misread-satellite-flares-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="why-pilots-can-misread-satellite-flares-starlink-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pilots-can-misread-satellite-flares-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="why-pilots-can-misread-satellite-flares-starlink-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Xbox One Starlink Starter Pack game not included. Character Pieces and poster"><img src="https://i.ebayimg.com/images/g/lgAAAeSwwr5ot2gW/s-l225.jpg" alt="Listing image for Xbox One Starlink Starter Pack game not included. Character Pieces and poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pilots-can-misread-satellite-flares-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="why-pilots-can-misread-satellite-flares-starlink-poster" target="_blank" rel="sponsored noopener noreferrer">Xbox One Starlink Starter Pack game not included. Character Pieces and poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pilots-can-misread-satellite-flares-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="why-pilots-can-misread-satellite-flares-starlink-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Starlink poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Starlink poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pilots-can-misread-satellite-flares-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="why-pilots-can-misread-satellite-flares-starlink-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pilots-can-misread-satellite-flares-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="why-pilots-can-misread-satellite-flares-starlink-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -531,7 +531,7 @@ As satellite constellations continue to expand, similar reports are likely to re
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -551,7 +551,7 @@ As satellite constellations continue to expand, similar reports are likely to re
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -583,7 +583,7 @@ As satellite constellations continue to expand, similar reports are likely to re
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -635,7 +635,7 @@ As satellite constellations continue to expand, similar reports are likely to re
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -680,7 +680,7 @@ As satellite constellations continue to expand, similar reports are likely to re
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -721,81 +721,81 @@ As satellite constellations continue to expand, similar reports are likely to re
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: aaro.mil  
    Title: Correlations of Starlink Satellite Flaring with UAP  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Correlations of Starlink Satellite Flaring with UAP...January 24, 2025 — by A An · 2024 — The report states that the pilot was trave...</p></details>
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Correlations of Starlink Satellite Flaring with UAP...January 24, 2025 — by A An · 2024 — The report states that the pilot was trave...</p></details>
    Published: January 24, 2025  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/pdf/2405.13091" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2405.13091</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Extreme Flaring of Starlink Satellitesby A Mallama · 2024 · Cited by 2 — Abstract. Starlink satellites can become extremely bright w...</p></details>
+   Link:<a href="https://arxiv.org/pdf/2405.13091" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2405.13091</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Extreme Flaring of Starlink Satellitesby A Mallama · 2024 · Cited by 2 — Abstract. Starlink satellites can become extremely bright w...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
    Title: arXiv Extreme Flaring of Starlink Satellites  
-   Link: <a href="https://arxiv.org/abs/2405.13091" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2405.13091</a>  
+   Link:<a href="https://arxiv.org/abs/2405.13091" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2405.13091</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: skyandtelescope.org  
    Title: starlink flares can fool anyone even airline pilots  
-   Link: <a href="https://skyandtelescope.org/astronomy-news/starlink-flares-can-fool-anyone-even-airline-pilots/" target="_blank" rel="noopener noreferrer nofollow">https://skyandtelescope.org/astronomy-news/starlink-flares-can-fool-anyone-even-airline-pilots/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky &amp; TelescopeStarlink Flares Can Fool Anyone — Even Airline Pilots10 Jun 2024 — The flare from numerous Starlink satellites, launched b...</p></details>
+   Link:<a href="https://skyandtelescope.org/astronomy-news/starlink-flares-can-fool-anyone-even-airline-pilots/" target="_blank" rel="noopener noreferrer nofollow">https://skyandtelescope.org/astronomy-news/starlink-flares-can-fool-anyone-even-airline-pilots/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sky &amp; TelescopeStarlink Flares Can Fool Anyone — Even Airline Pilots10 Jun 2024 — The flare from numerous Starlink satellites, launched b...</p></details>
 
 ### Additional References
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) A global picture of unidentified anomalous phenomenaTo redress this issue, this paper reviews the publicly available information on...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) A global picture of unidentified anomalous phenomenaTo redress this issue, this paper reviews the publicly available information on...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/2365809903441367/posts/6866734786682167/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/6866734786682167/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink flares study by pilot and air crash investigatorStarlink Flares vs UFO Sightings... Nice article here about how pilots&#x27; reports...</p></details>
+   Link:<a href="https://www.facebook.com/groups/2365809903441367/posts/6866734786682167/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/6866734786682167/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink flares study by pilot and air crash investigatorStarlink Flares vs UFO Sightings... Nice article here about how pilots&#x27; reports...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=jI03Bglh_bY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jI03Bglh_bY</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in Oregon skies baffle some commercial pilotsSeveral commercial pilots have spotted bright lights hovering and streaking ac...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=jI03Bglh_bY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jI03Bglh_bY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in Oregon skies baffle some commercial pilotsSeveral commercial pilots have spotted bright lights hovering and streaking ac...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: epa.gov  
    Title: new mexico priority climate action plan  
-   Link: <a href="https://www.epa.gov/system/files/documents/2024-03/new-mexico-priority-climate-action-plan.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.epa.gov/system/files/documents/2024-03/new-mexico-priority-climate-action-plan.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>new-mexico-priority-climate-action-plan....1 Mar 2024 — heavy-duty zero-emission trucks in New Mexico, in the Gallup, Bernalillo County...</p></details>
+   Link:<a href="https://www.epa.gov/system/files/documents/2024-03/new-mexico-priority-climate-action-plan.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.epa.gov/system/files/documents/2024-03/new-mexico-priority-climate-action-plan.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>new-mexico-priority-climate-action-plan....1 Mar 2024 — heavy-duty zero-emission trucks in New Mexico, in the Gallup, Bernalillo County...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: documents1.worldbank.org  
-   Link: <a href="https://documents1.worldbank.org/curated/en/099926108152313872/txt/IDU081cb2b3c004f504f140a651037ee0a046b88.txt" target="_blank" rel="noopener noreferrer nofollow">https://documents1.worldbank.org/curated/en/099926108152313872/txt/IDU081cb2b3c004f504f140a651037ee0a046b88.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Documents &amp; ReportsGFDRR has played a leading role in advancing disaster risk management and climate change adaptation since its inceptio...</p></details>
+   Link:<a href="https://documents1.worldbank.org/curated/en/099926108152313872/txt/IDU081cb2b3c004f504f140a651037ee0a046b88.txt" target="_blank" rel="noopener noreferrer nofollow">https://documents1.worldbank.org/curated/en/099926108152313872/txt/IDU081cb2b3c004f504f140a651037ee0a046b88.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Documents &amp; ReportsGFDRR has played a leading role in advancing disaster risk management and climate change adaptation since its inceptio...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: newspaceeconomy.ca  
    Title: Are We Chasing Aliens or Just Starlink?  
-   Link: <a href="https://newspaceeconomy.ca/2025/02/06/are-we-chasing-aliens-or-just-starlink-the-role-of-satellite-flares-in-uap-reports/" target="_blank" rel="noopener noreferrer nofollow">https://newspaceeconomy.ca/2025/02/06/are-we-chasing-aliens-or-just-starlink-the-role-of-satellite-flares-in-uap-reports/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Role of Satellite...6 Feb 2025 — The rapid expansion of satellite mega-constellations has transformed the night sky. Companies like...</p></details>
+   Link:<a href="https://newspaceeconomy.ca/2025/02/06/are-we-chasing-aliens-or-just-starlink-the-role-of-satellite-flares-in-uap-reports/" target="_blank" rel="noopener noreferrer nofollow">https://newspaceeconomy.ca/2025/02/06/are-we-chasing-aliens-or-just-starlink-the-role-of-satellite-flares-in-uap-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Role of Satellite...6 Feb 2025 — The rapid expansion of satellite mega-constellations has transformed the night sky. Companies like...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: doi.gov  
    Title: doi fy2022 afr 508c  
-   Link: <a href="https://www.doi.gov/sites/default/files/doi-fy2022-afr-508c.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.doi.gov/sites/default/files/doi-fy2022-afr-508c.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Agency Financial Report 20224 Aug 2020 — The U.S. Geological Survey will use Landsat 9, which can capture images such as this false-color...</p></details>
+   Link:<a href="https://www.doi.gov/sites/default/files/doi-fy2022-afr-508c.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.doi.gov/sites/default/files/doi-fy2022-afr-508c.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Agency Financial Report 20224 Aug 2020 — The U.S. Geological Survey will use Landsat 9, which can capture images such as this false-color...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: japcc.org  
-   Link: <a href="https://www.japcc.org/wp-content/uploads/A-Comprehensive-Approach-to-Countering-Unmanned-Aircraft-Systems.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.japcc.org/wp-content/uploads/A-Comprehensive-Approach-to-Countering-Unmanned-Aircraft-Systems.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(NATO), and is designed to provide an...Read more...</p></details>
+   Link:<a href="https://www.japcc.org/wp-content/uploads/A-Comprehensive-Approach-to-Countering-Unmanned-Aircraft-Systems.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.japcc.org/wp-content/uploads/A-Comprehensive-Approach-to-Countering-Unmanned-Aircraft-Systems.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(NATO), and is designed to provide an...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cloud.env.nm.gov  
    Title: NTAz Y2Uw Mj Rh N2Jl MDZi ZTNl Nm Uy NDUw Nl8y MTMx Nzc~  
-   Link: <a href="https://cloud.env.nm.gov/resources/_translator.php/NTAzY2UwMjRhN2JlMDZiZTNlNmUyNDUwNl8yMTMxNzc~.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cloud.env.nm.gov/resources/_translator.php/NTAzY2UwMjRhN2JlMDZiZTNlNmUyNDUwNl8yMTMxNzc~.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Agency&#x27;s (EPA&#x27;s) Climate Pollution Reduction Grant Program under...Read more...</p></details>
+   Link:<a href="https://cloud.env.nm.gov/resources/_translator.php/NTAzY2UwMjRhN2JlMDZiZTNlNmUyNDUwNl8yMTMxNzc~.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cloud.env.nm.gov/resources/_translator.php/NTAzY2UwMjRhN2JlMDZiZTNlNmUyNDUwNl8yMTMxNzc~.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Agency&#x27;s (EPA&#x27;s) Climate Pollution Reduction Grant Program under...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: asias.faa.gov  
-   Link: <a href="https://www.asias.faa.gov/apex/f?p=100%3A24%3A%3A%3A%3A%3A%3A" target="_blank" rel="noopener noreferrer nofollow">https://www.asias.faa.gov/apex/f?p=100%3A24%3A%3A%3A%3A%3A%3A</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Event Count, 94952. Freeze Date, 29-APR-26. Load Date, 03-JUN-2026. NTSB Search Form. Search NTSB Clear Search Cancel. Narrative.Read more...</p></details>
+   Link:<a href="https://www.asias.faa.gov/apex/f?p=100%3A24%3A%3A%3A%3A%3A%3A" target="_blank" rel="noopener noreferrer nofollow">https://www.asias.faa.gov/apex/f?p=100%3A24%3A%3A%3A%3A%3A%3A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Event Count, 94952. Freeze Date, 29-APR-26. Load Date, 03-JUN-2026. NTSB Search Form. Search NTSB Clear Search Cancel. Narrative.Read more...</p></details>

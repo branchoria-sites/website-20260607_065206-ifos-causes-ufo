@@ -275,17 +275,17 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5_mod_lanter
 MoD 2008–09 [Lantern Surge]({{ 'lantern-surge/' | relative_url }}) in UFO Reports
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5_mod_lantern_surge_aa96ee-Illustration-1-dark.svg" | relative_url }}" alt="Mo D surge illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5_mod_lantern_surge_aa96ee-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5_mod_lantern_surge_aa96ee-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The sharp increase in UFO reports received by the United Kingdom’s Ministry of Defence (MoD) during 2008 and 2009 is one of the clearest documented examples of how a widespread social trend can generate a major wave of unidentified aerial object reports. Declassified files released through the UK National Archives show that officials were confronted with an unprecedented volume of sightings during this period, many involving silent orange lights, glowing spheres, and apparent formations moving across the night sky. Subsequent analysis within the MoD and by researchers working with the National Archives concluded that the growing popularity of Chinese sky lanterns was a significant contributor to the surge. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National ArchivesUFO Desk: ClosedThe files suggest that it was believed the increase could be partly a result of the craze for releasing...</span></span></span>
+The sharp increase in UFO reports received by the United Kingdom’s Ministry of Defence (MoD) during 2008 and 2009 is one of the clearest documented examples of how a widespread social trend can generate a major wave of unidentified aerial object reports. Declassified files released through the UK National Archives show that officials were confronted with an unprecedented volume of sightings during this period, many involving silent orange lights, glowing spheres, and apparent formations moving across the night sky. Subsequent analysis within the MoD and by researchers working with the National Archives concluded that the growing popularity of Chinese sky lanterns was a significant contributor to the surge.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National ArchivesUFO Desk: ClosedThe files suggest that it was believed the increase could be partly a result of the craze for releasing...</span></span></span>
 
 The episode is important because it demonstrates how ordinary objects can produce highly convincing UFO reports, even among trained observers. It also provides a rare case where government records preserve both the initial mystery and the later explanation.
 
 ### The Background: A Sudden Increase in Reports
 
-By 2008, the MoD’s long-running UFO desk was receiving a growing number of reports from members of the public. Internal briefing material later released through the National Archives described an “upsurge” in sightings during 2008–09 that significantly increased the workload of the small team responsible for handling reports. Officials noted that the volume had become difficult to manage and was beginning to affect other defence-related work. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National ArchivesUFO Desk: ClosedThe files suggest that it was believed the increase could be partly a result of the craze for releasing...</span></span></span>
+By 2008, the MoD’s long-running UFO desk was receiving a growing number of reports from members of the public. Internal briefing material later released through the National Archives described an “upsurge” in sightings during 2008–09 that significantly increased the workload of the small team responsible for handling reports. Officials noted that the volume had become difficult to manage and was beginning to affect other defence-related work.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National ArchivesUFO Desk: ClosedThe files suggest that it was believed the increase could be partly a result of the craze for releasing...</span></span></span>
 
-The increase was substantial enough to become part of the justification for closing the UFO desk. When the final files were released, government documents emphasized that despite the higher reporting rate, no sighting had revealed evidence of an extraterrestrial presence or a threat to national security. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[Sky News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-title">ufo desk why mod shut real life x files 10442364</span><span class="citation-popover-snippet">Sky NewsUFO Desk: Why MoD Shut Real-Life X-Files &#124; UK News20 Jun 2013 — They include accounts of alleged abductions, contact with aliens...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.csmonitor.com/Science/2013/0621/UFO-Britain-releases-documents-explaining-closure-of-military-UFO-desk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csmonitor.com">[The Christian Science Monitor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csmonitor.com</span><span class="citation-popover-title">UFO Britain releases documents explaining closure of military UFO desk</span><span class="citation-popover-snippet">The Christian Science MonitorUFO: Britain releases documents explaining closure of...21 Jun 2013 — Newly declassified files from Britain...</span></span></span>
+The increase was substantial enough to become part of the justification for closing the UFO desk. When the final files were released, government documents emphasized that despite the higher reporting rate, no sighting had revealed evidence of an extraterrestrial presence or a threat to national security.<span class="citation-chip-wrap"><a class="citation-chip" href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[Sky News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-title">ufo desk why mod shut real life x files 10442364</span><span class="citation-popover-snippet">Sky NewsUFO Desk: Why MoD Shut Real-Life X-Files &#124; UK News20 Jun 2013 — They include accounts of alleged abductions, contact with aliens...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.csmonitor.com/Science/2013/0621/UFO-Britain-releases-documents-explaining-closure-of-military-UFO-desk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csmonitor.com">[The Christian Science Monitor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csmonitor.com</span><span class="citation-popover-title">UFO Britain releases documents explaining closure of military UFO desk</span><span class="citation-popover-snippet">The Christian Science MonitorUFO: Britain releases documents explaining closure of...21 Jun 2013 — Newly declassified files from Britain...</span></span></span>
 
-Researchers associated with the National Archives identified multiple causes for the surge. One factor was increased public awareness generated by the gradual release of historic UFO files. As media coverage intensified, more people became aware that the MoD accepted UFO reports and consequently submitted their own observations. Another major factor was the rapid spread of Chinese sky lanterns at weddings, celebrations, festivals, and public events throughout Britain. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National ArchivesUFO Desk: ClosedThe files suggest that it was believed the increase could be partly a result of the craze for releasing...</span></span></span>
+Researchers associated with the National Archives identified multiple causes for the surge. One factor was increased public awareness generated by the gradual release of historic UFO files. As media coverage intensified, more people became aware that the MoD accepted UFO reports and consequently submitted their own observations. Another major factor was the rapid spread of Chinese sky lanterns at weddings, celebrations, festivals, and public events throughout Britain.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National ArchivesUFO Desk: ClosedThe files suggest that it was believed the increase could be partly a result of the craze for releasing...</span></span></span>
 
 ### The Rise of Chinese Lanterns in Britain
 
@@ -293,30 +293,30 @@ Chinese sky lanterns were not entirely new to the UK, but their popularity expan
 
 Unlike traditional fireworks, lanterns remained visible for several minutes and drifted quietly across the sky. Their appearance was particularly striking after dark. A small flame inside a paper envelope produced a bright orange or amber glow. At night, observers often could not see the lantern structure itself and instead perceived only a luminous point of light.
 
-The National Archives’ review of the UFO files explicitly noted that officials believed the lantern craze was helping drive the increase in reports. Released documents state that the surge could be partly explained by the widespread use of Chinese lanterns during weddings and public celebrations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National ArchivesUFO Desk: ClosedThe files suggest that it was believed the increase could be partly a result of the craze for releasing...</span></span></span>
+The National Archives’ review of the UFO files explicitly noted that officials believed the lantern craze was helping drive the increase in reports. Released documents state that the surge could be partly explained by the widespread use of Chinese lanterns during weddings and public celebrations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National ArchivesUFO Desk: ClosedThe files suggest that it was believed the increase could be partly a result of the craze for releasing...</span></span></span>
 
-Media analysis of the released files reached similar conclusions. Reporting on the final tranche of documents, The Guardian observed that Chinese lanterns had become a major craze and likely helped explain the dramatic increase in sightings reported to the MoD. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">last release mod ufo files</span><span class="citation-popover-snippet">The GuardianAlien nation: MoD releases final UFO files21 Jun 2013 — Chinese lanterns became something of a craze, which may help to expla...</span></span></span>
+Media analysis of the released files reached similar conclusions. Reporting on the final tranche of documents, The Guardian observed that Chinese lanterns had become a major craze and likely helped explain the dramatic increase in sightings reported to the MoD.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">last release mod ufo files</span><span class="citation-popover-snippet">The GuardianAlien nation: MoD releases final UFO files21 Jun 2013 — Chinese lanterns became something of a craze, which may help to expla...</span></span></span>
 
 ### Why Lanterns Produced Convincing UFO Reports
 
 The lantern explanation was not simply a matter of people seeing unfamiliar objects. Several characteristics of lantern flights closely matched classic UFO descriptions.
 
-First, lanterns appeared as self-luminous orange spheres. Witnesses commonly reported glowing balls, fire-like objects, or bright amber lights moving silently through the sky. These descriptions recur repeatedly throughout the MoD sighting logs from 2009. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">reports in the UKUFO reports 1997 to 2009 in the UK, showing dates and times, location and a brief description of the sighting.Read more...</span></span></span>
+First, lanterns appeared as self-luminous orange spheres. Witnesses commonly reported glowing balls, fire-like objects, or bright amber lights moving silently through the sky. These descriptions recur repeatedly throughout the MoD sighting logs from 2009.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">reports in the UKUFO reports 1997 to 2009 in the UK, showing dates and times, location and a brief description of the sighting.Read more...</span></span></span>
 
-Second, lanterns often travelled in groups. Wedding guests frequently released multiple lanterns simultaneously. Because all lanterns entered similar wind currents, they tended to move in parallel paths while maintaining roughly consistent spacing. To observers on the ground, this could resemble a coordinated formation of intelligently controlled craft. Researchers later noted that lanterns released together were sometimes interpreted as triangles, lines, clusters, or even a single structured object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National ArchivesUFO Desk: ClosedThe files suggest that it was believed the increase could be partly a result of the craze for releasing...</span></span></span>
+Second, lanterns often travelled in groups. Wedding guests frequently released multiple lanterns simultaneously. Because all lanterns entered similar wind currents, they tended to move in parallel paths while maintaining roughly consistent spacing. To observers on the ground, this could resemble a coordinated formation of intelligently controlled craft. Researchers later noted that lanterns released together were sometimes interpreted as triangles, lines, clusters, or even a single structured object.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National ArchivesUFO Desk: ClosedThe files suggest that it was believed the increase could be partly a result of the craze for releasing...</span></span></span>
 
-Third, lanterns were silent. Many witnesses specifically remarked that the observed objects made no sound. This absence of engine noise strengthened impressions that the objects were unusual or technologically advanced. Yet silence is exactly what would be expected from lanterns drifting at altitude. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">reports in the UKUFO reports 1997 to 2009 in the UK, showing dates and times, location and a brief description of the sighting.Read more...</span></span></span>
+Third, lanterns were silent. Many witnesses specifically remarked that the observed objects made no sound. This absence of engine noise strengthened impressions that the objects were unusual or technologically advanced. Yet silence is exactly what would be expected from lanterns drifting at altitude.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">reports in the UKUFO reports 1997 to 2009 in the UK, showing dates and times, location and a brief description of the sighting.Read more...</span></span></span>
 
-Finally, lanterns could appear to change speed, hover, or alter direction. In reality, they were moving with wind currents that often differed from conditions at ground level. Because distance estimation at night is notoriously difficult, observers frequently misjudged the size, speed, and altitude of the lights. What looked like purposeful manoeuvring could result from changing winds and visual perception. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-title">things mistaken for ufos</span><span class="citation-popover-snippet">In 2009, the number of sightings reported to the MoD&#x27;s UFO desk tripled, with most...Read more...</span></span></span>
+Finally, lanterns could appear to change speed, hover, or alter direction. In reality, they were moving with wind currents that often differed from conditions at ground level. Because distance estimation at night is notoriously difficult, observers frequently misjudged the size, speed, and altitude of the lights. What looked like purposeful manoeuvring could result from changing winds and visual perception.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-title">things mistaken for ufos</span><span class="citation-popover-snippet">In 2009, the number of sightings reported to the MoD&#x27;s UFO desk tripled, with most...Read more...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5_mod_lantern_surge_aa96ee-Illustration-2-dark.svg" | relative_url }}" alt="Mo D surge illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5_mod_lantern_surge_aa96ee-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5_mod_lantern_surge_aa96ee-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The Shropshire Military Sighting
 
 One of the most famous cases from the period involved soldiers from the Royal Irish Regiment stationed at Tern Hill Barracks in Shropshire during June 2008.
 
-According to National Archives material, the soldiers reported seeing multiple orange lights moving silently in formation. A corporal recorded footage on a mobile phone, and the incident attracted substantial media attention after appearing in national newspapers. At the time, the sighting was widely discussed as a potentially significant UFO event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National ArchivesUFO Desk: ClosedThe files suggest that it was believed the increase could be partly a result of the craze for releasing...</span></span></span>
+According to National Archives material, the soldiers reported seeing multiple orange lights moving silently in formation. A corporal recorded footage on a mobile phone, and the incident attracted substantial media attention after appearing in national newspapers. At the time, the sighting was widely discussed as a potentially significant UFO event.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National ArchivesUFO Desk: ClosedThe files suggest that it was believed the increase could be partly a result of the craze for releasing...</span></span></span>
 
-Subsequent investigation produced a far more mundane explanation. The National Archives later reported that a nearby hotel had hosted a wedding reception on the same evening and guests had released Chinese lanterns. The timing and location strongly suggested that the apparently mysterious lights were the wedding lanterns drifting across the night sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National ArchivesUFO Desk: ClosedThe files suggest that it was believed the increase could be partly a result of the craze for releasing...</span></span></span>
+Subsequent investigation produced a far more mundane explanation. The National Archives later reported that a nearby hotel had hosted a wedding reception on the same evening and guests had released Chinese lanterns. The timing and location strongly suggested that the apparently mysterious lights were the wedding lanterns drifting across the night sky.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National ArchivesUFO Desk: ClosedThe files suggest that it was believed the increase could be partly a result of the craze for releasing...</span></span></span>
 
 This case became emblematic because it involved trained military personnel rather than casual observers. It demonstrated that even disciplined witnesses can misinterpret unfamiliar aerial lights when viewing conditions are poor and contextual information is absent.
 
@@ -324,222 +324,222 @@ This case became emblematic because it involved trained military personnel rathe
 
 The MoD’s publicly released 2009 UFO report database provides a remarkable snapshot of the lantern era. Entry after entry describes orange lights, red-orange spheres, glowing balls, formations, [silent objects]({{ 'silent-objects/' | relative_url }}), and multiple lights moving together.
 
-Examples include reports of six red or orange lights in an oval formation over Sussex, three orange lights arranged vertically over Nottinghamshire, ten orange orbs in Cumbria, five bright orange lights over Surrey, three bright orange lights in triangular formation over Surrey, and numerous other observations involving orange luminous objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">reports in the UKUFO reports 1997 to 2009 in the UK, showing dates and times, location and a brief description of the sighting.Read more...</span></span></span>
+Examples include reports of six red or orange lights in an oval formation over Sussex, three orange lights arranged vertically over Nottinghamshire, ten orange orbs in Cumbria, five bright orange lights over Surrey, three bright orange lights in triangular formation over Surrey, and numerous other observations involving orange luminous objects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">reports in the UKUFO reports 1997 to 2009 in the UK, showing dates and times, location and a brief description of the sighting.Read more...</span></span></span>
 
 While not every report can be conclusively identified as a lantern sighting, the repeated appearance of the same visual characteristics across widely separated locations is striking. The pattern matches the expected appearance of lantern releases far better than it suggests a wave of technologically advanced craft operating throughout Britain.
 
-The consistency of descriptions also supports the view that a common source was generating many reports. Witnesses who had never met each other repeatedly described silent orange lights, often in groups, often moving slowly, and often disappearing gradually as they drifted away. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">reports in the UKUFO reports 1997 to 2009 in the UK, showing dates and times, location and a brief description of the sighting.Read more...</span></span></span>
+The consistency of descriptions also supports the view that a common source was generating many reports. Witnesses who had never met each other repeatedly described silent orange lights, often in groups, often moving slowly, and often disappearing gradually as they drifted away.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">reports in the UKUFO reports 1997 to 2009 in the UK, showing dates and times, location and a brief description of the sighting.Read more...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5_mod_lantern_surge_aa96ee-Illustration-3-dark.svg" | relative_url }}" alt="Mo D surge illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5_mod_lantern_surge_aa96ee-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5_mod_lantern_surge_aa96ee-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Publicity, Contagion, and Reporting Behaviour
 
 The lantern phenomenon was amplified by media attention. Researchers examining the released files observed that newspaper coverage of UFO stories encouraged additional reporting. As unusual lights received publicity, more people became attentive to similar phenomena and more willing to contact authorities.
 
-National Archives commentary on the Shropshire case specifically noted that widespread media reporting encouraged others to come forward with their own sightings. This feedback loop is a familiar feature of UFO waves. Public awareness increases, reporting rises, and a growing number of observations are interpreted within the UFO framework. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National ArchivesUFO Desk: ClosedThe files suggest that it was believed the increase could be partly a result of the craze for releasing...</span></span></span>
+National Archives commentary on the Shropshire case specifically noted that widespread media reporting encouraged others to come forward with their own sightings. This feedback loop is a familiar feature of UFO waves. Public awareness increases, reporting rises, and a growing number of observations are interpreted within the UFO framework.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National ArchivesUFO Desk: ClosedThe files suggest that it was believed the increase could be partly a result of the craze for releasing...</span></span></span>
 
-Londonist likewise noted that the release of UFO files and the resulting publicity helped stimulate public reporting at the same time that lantern use was expanding. <span class="citation-chip-wrap"><a class="citation-chip" href="https://londonist.com/2013/06/london-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: londonist.com">[Londonist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">londonist.com</span><span class="citation-popover-title">london ufo sightings</span><span class="citation-popover-snippet">London UFO Sightings21 Jun 2013 — Reported sightings shot up in 2008 and 2009, partly because the very existence of the &quot;UFO fil...</span></span></span>
+Londonist likewise noted that the release of UFO files and the resulting publicity helped stimulate public reporting at the same time that lantern use was expanding.<span class="citation-chip-wrap"><a class="citation-chip" href="https://londonist.com/2013/06/london-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: londonist.com">[Londonist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">londonist.com</span><span class="citation-popover-title">london ufo sightings</span><span class="citation-popover-snippet">London UFO Sightings21 Jun 2013 — Reported sightings shot up in 2008 and 2009, partly because the very existence of the &quot;UFO fil...</span></span></span>
 
 ### Closure of the MoD UFO Desk
 
-By late 2009, the MoD concluded that continued investigation of public UFO reports offered no defence value. Internal briefings emphasized that more than fifty years of reports had failed to reveal evidence of an extraterrestrial presence or a threat to the United Kingdom. The UFO desk was formally closed in December 2009. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[Sky News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-title">ufo desk why mod shut real life x files 10442364</span><span class="citation-popover-snippet">Sky NewsUFO Desk: Why MoD Shut Real-Life X-Files &#124; UK News20 Jun 2013 — They include accounts of alleged abductions, contact with aliens...</span></span></span>
+By late 2009, the MoD concluded that continued investigation of public UFO reports offered no defence value. Internal briefings emphasized that more than fifty years of reports had failed to reveal evidence of an extraterrestrial presence or a threat to the United Kingdom. The UFO desk was formally closed in December 2009.<span class="citation-chip-wrap"><a class="citation-chip" href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[Sky News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-title">ufo desk why mod shut real life x files 10442364</span><span class="citation-popover-snippet">Sky NewsUFO Desk: Why MoD Shut Real-Life X-Files &#124; UK News20 Jun 2013 — They include accounts of alleged abductions, contact with aliens...</span></span></span>
 
-The closure occurred shortly after the period of peak lantern-related reporting. Released files indicate that officials regarded the rising workload as disproportionate to any intelligence benefit, especially given the growing understanding that many sightings stemmed from ordinary causes such as lantern releases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National ArchivesUFO Desk: ClosedThe files suggest that it was believed the increase could be partly a result of the craze for releasing...</span></span></span>
+The closure occurred shortly after the period of peak lantern-related reporting. Released files indicate that officials regarded the rising workload as disproportionate to any intelligence benefit, especially given the growing understanding that many sightings stemmed from ordinary causes such as lantern releases.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National ArchivesUFO Desk: ClosedThe files suggest that it was believed the increase could be partly a result of the craze for releasing...</span></span></span>
 
 ### Conclusion
 
-The 2008–09 surge in UFO reports received by the UK Ministry of Defence stands as one of the best-documented modern examples of a socially driven UFO wave. Declassified records show a dramatic increase in sightings characterized by silent orange lights, glowing spheres, and apparent formations. Investigations, archival analysis, and later reviews consistently identified the rapidly growing popularity of Chinese sky lanterns as a major factor behind the phenomenon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National ArchivesUFO Desk: ClosedThe files suggest that it was believed the increase could be partly a result of the craze for releasing...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National ArchivesUFO Desk: ClosedThe files suggest that it was believed the increase could be partly a result of the craze for releasing...</span></span></span>
+The 2008–09 surge in UFO reports received by the UK Ministry of Defence stands as one of the best-documented modern examples of a socially driven UFO wave. Declassified records show a dramatic increase in sightings characterized by silent orange lights, glowing spheres, and apparent formations. Investigations, archival analysis, and later reviews consistently identified the rapidly growing popularity of Chinese sky lanterns as a major factor behind the phenomenon.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National ArchivesUFO Desk: ClosedThe files suggest that it was believed the increase could be partly a result of the craze for releasing...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National ArchivesUFO Desk: ClosedThe files suggest that it was believed the increase could be partly a result of the craze for releasing...</span></span></span>
 
-The evidence is particularly compelling because it combines official reporting data, individual case studies, witness descriptions, and government analysis. The Shropshire military sighting, the recurring descriptions in the 2009 logs, and the National Archives’ own conclusions all point in the same direction. Rather than revealing extraordinary craft, the surge illustrates how unfamiliar but entirely ordinary airborne lights can generate persuasive reports of structured formations, controlled flight, and mysterious aerial activity. In that respect, the lantern wave of 2008–09 remains one of the clearest lessons in the history of British UFO reporting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National ArchivesUFO Desk: ClosedThe files suggest that it was believed the increase could be partly a result of the craze for releasing...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">reports in the UKUFO reports 1997 to 2009 in the UK, showing dates and times, location and a brief description of the sighting.Read more...</span></span></span>
+The evidence is particularly compelling because it combines official reporting data, individual case studies, witness descriptions, and government analysis. The Shropshire military sighting, the recurring descriptions in the 2009 logs, and the National Archives’ own conclusions all point in the same direction. Rather than revealing extraordinary craft, the surge illustrates how unfamiliar but entirely ordinary airborne lights can generate persuasive reports of structured formations, controlled flight, and mysterious aerial activity. In that respect, the lantern wave of 2008–09 remains one of the clearest lessons in the history of British UFO reporting.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National ArchivesUFO Desk: ClosedThe files suggest that it was believed the increase could be partly a result of the craze for releasing...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">reports in the UKUFO reports 1997 to 2009 in the UK, showing dates and times, location and a brief description of the sighting.Read more...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The lantern craze that flooded UFO reports. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The lantern craze that flooded UFO reports. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Covers systematic classification of UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers systematic classification of UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for official and public UFO reporting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for official and public UFO reporting.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Relevant to how official agencies handled UFO report patterns.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to how official agencies handled UFO report patterns.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Supports careful thinking about waves of public reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports careful thinking about waves of public reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-lantern-craze-that-flooded-ufo-reports-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="the-lantern-craze-that-flooded-ufo-reports-sky-lantern" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mardome Rooflight Glass Sky Light Flat Roof Lantern Window Grey Frame Skylight"><img src="https://i.ebayimg.com/images/g/Sv8AAOSwKAFeUAPw/s-l225.jpg" alt="Listing image for Mardome Rooflight Glass Sky Light Flat Roof Lantern Window Grey Frame Skylight" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-lantern-craze-that-flooded-ufo-reports-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="the-lantern-craze-that-flooded-ufo-reports-sky-lantern" target="_blank" rel="sponsored noopener noreferrer">Mardome Rooflight Glass Sky Light Flat Roof Lantern Window Grey Frame Skylight</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-lantern-craze-that-flooded-ufo-reports-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="the-lantern-craze-that-flooded-ufo-reports-sky-lantern" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sky lantern">Search <span data-ebay-domain-label>eBay.co.uk</span>: sky lantern</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-lantern-craze-that-flooded-ufo-reports-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="the-lantern-craze-that-flooded-ufo-reports-sky-lantern" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-lantern-craze-that-flooded-ufo-reports-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="the-lantern-craze-that-flooded-ufo-reports-sky-lantern" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mardome Rooflight Glass Sky Light Flat Roof Lantern Window Grey Frame Skylight"><img src="https://i.ebayimg.com/images/g/Sv8AAOSwKAFeUAPw/s-l225.jpg" alt="Listing image for Mardome Rooflight Glass Sky Light Flat Roof Lantern Window Grey Frame Skylight" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-lantern-craze-that-flooded-ufo-reports-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="the-lantern-craze-that-flooded-ufo-reports-sky-lantern" target="_blank" rel="sponsored noopener noreferrer">Mardome Rooflight Glass Sky Light Flat Roof Lantern Window Grey Frame Skylight</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-lantern-craze-that-flooded-ufo-reports-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="the-lantern-craze-that-flooded-ufo-reports-sky-lantern" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sky lantern">Search<span data-ebay-domain-label>eBay.co.uk</span>: sky lantern</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-lantern-craze-that-flooded-ufo-reports-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="the-lantern-craze-that-flooded-ufo-reports-sky-lantern" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-lantern-craze-that-flooded-ufo-reports-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="the-lantern-craze-that-flooded-ufo-reports-sky-lantern" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 30cm White Paper Lampshade Ceiling Light Pendant Lamp Shade Ball Lantern Decor"><img src="https://i.ebayimg.com/images/g/ITYAAeSwb-JqDJQP/s-l225.jpg" alt="Listing image for 30cm White Paper Lampshade Ceiling Light Pendant Lamp Shade Ball Lantern Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-lantern-craze-that-flooded-ufo-reports-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="the-lantern-craze-that-flooded-ufo-reports-sky-lantern" target="_blank" rel="sponsored noopener noreferrer">30cm White Paper Lampshade Ceiling Light Pendant Lamp Shade Ball Lantern Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-lantern-craze-that-flooded-ufo-reports-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="the-lantern-craze-that-flooded-ufo-reports-sky-lantern" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sky lantern">Search <span data-ebay-domain-label>eBay.co.uk</span>: sky lantern</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-lantern-craze-that-flooded-ufo-reports-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="the-lantern-craze-that-flooded-ufo-reports-sky-lantern" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-lantern-craze-that-flooded-ufo-reports-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="the-lantern-craze-that-flooded-ufo-reports-sky-lantern" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 30cm White Paper Lampshade Ceiling Light Pendant Lamp Shade Ball Lantern Decor"><img src="https://i.ebayimg.com/images/g/ITYAAeSwb-JqDJQP/s-l225.jpg" alt="Listing image for 30cm White Paper Lampshade Ceiling Light Pendant Lamp Shade Ball Lantern Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-lantern-craze-that-flooded-ufo-reports-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="the-lantern-craze-that-flooded-ufo-reports-sky-lantern" target="_blank" rel="sponsored noopener noreferrer">30cm White Paper Lampshade Ceiling Light Pendant Lamp Shade Ball Lantern Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-lantern-craze-that-flooded-ufo-reports-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="the-lantern-craze-that-flooded-ufo-reports-sky-lantern" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sky lantern">Search<span data-ebay-domain-label>eBay.co.uk</span>: sky lantern</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-lantern-craze-that-flooded-ufo-reports-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="the-lantern-craze-that-flooded-ufo-reports-sky-lantern" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-lantern-craze-that-flooded-ufo-reports-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="the-lantern-craze-that-flooded-ufo-reports-sky-lantern" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aluminium Roof Lantern Sky pod Self Cleaning 2000 x 1000"><img src="https://i.ebayimg.com/images/g/~3kAAeSweR9qJ7FB/s-l225.jpg" alt="Listing image for Aluminium Roof Lantern Sky pod Self Cleaning 2000 x 1000" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-lantern-craze-that-flooded-ufo-reports-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="the-lantern-craze-that-flooded-ufo-reports-sky-lantern" target="_blank" rel="sponsored noopener noreferrer">Aluminium Roof Lantern Sky pod Self Cleaning 2000 x 1000</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-lantern-craze-that-flooded-ufo-reports-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="the-lantern-craze-that-flooded-ufo-reports-sky-lantern" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sky lantern">Search <span data-ebay-domain-label>eBay.co.uk</span>: sky lantern</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-lantern-craze-that-flooded-ufo-reports-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="the-lantern-craze-that-flooded-ufo-reports-sky-lantern" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-lantern-craze-that-flooded-ufo-reports-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="the-lantern-craze-that-flooded-ufo-reports-sky-lantern" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aluminium Roof Lantern Sky pod Self Cleaning 2000 x 1000"><img src="https://i.ebayimg.com/images/g/~3kAAeSweR9qJ7FB/s-l225.jpg" alt="Listing image for Aluminium Roof Lantern Sky pod Self Cleaning 2000 x 1000" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-lantern-craze-that-flooded-ufo-reports-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="the-lantern-craze-that-flooded-ufo-reports-sky-lantern" target="_blank" rel="sponsored noopener noreferrer">Aluminium Roof Lantern Sky pod Self Cleaning 2000 x 1000</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-lantern-craze-that-flooded-ufo-reports-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="the-lantern-craze-that-flooded-ufo-reports-sky-lantern" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sky lantern">Search<span data-ebay-domain-label>eBay.co.uk</span>: sky lantern</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-lantern-craze-that-flooded-ufo-reports-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="the-lantern-craze-that-flooded-ufo-reports-sky-lantern" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-lantern-craze-that-flooded-ufo-reports-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="the-lantern-craze-that-flooded-ufo-reports-sky-lantern" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for sky pod rooflight ,Bi fold doors and roof lanterns. FAST delivery times HUG"><img src="https://i.ebayimg.com/images/g/M7IAAOSwrORbhrZx/s-l225.jpg" alt="Listing image for sky pod rooflight ,Bi fold doors and roof lanterns. FAST delivery times HUG" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-lantern-craze-that-flooded-ufo-reports-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="the-lantern-craze-that-flooded-ufo-reports-sky-lantern" target="_blank" rel="sponsored noopener noreferrer">sky pod rooflight ,Bi fold doors and roof lanterns. FAST delivery times HUG</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-lantern-craze-that-flooded-ufo-reports-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="the-lantern-craze-that-flooded-ufo-reports-sky-lantern" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sky lantern">Search <span data-ebay-domain-label>eBay.co.uk</span>: sky lantern</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-lantern-craze-that-flooded-ufo-reports-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="the-lantern-craze-that-flooded-ufo-reports-sky-lantern" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-lantern-craze-that-flooded-ufo-reports-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="the-lantern-craze-that-flooded-ufo-reports-sky-lantern" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-lantern-craze-that-flooded-ufo-reports-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="the-lantern-craze-that-flooded-ufo-reports-sky-lantern" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for sky pod rooflight ,Bi fold doors and roof lanterns. FAST delivery times HUG"><img src="https://i.ebayimg.com/images/g/M7IAAOSwrORbhrZx/s-l225.jpg" alt="Listing image for sky pod rooflight ,Bi fold doors and roof lanterns. FAST delivery times HUG" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-lantern-craze-that-flooded-ufo-reports-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="the-lantern-craze-that-flooded-ufo-reports-sky-lantern" target="_blank" rel="sponsored noopener noreferrer">sky pod rooflight ,Bi fold doors and roof lanterns. FAST delivery times HUG</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-lantern-craze-that-flooded-ufo-reports-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="the-lantern-craze-that-flooded-ufo-reports-sky-lantern" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sky lantern">Search<span data-ebay-domain-label>eBay.co.uk</span>: sky lantern</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-lantern-craze-that-flooded-ufo-reports-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="the-lantern-craze-that-flooded-ufo-reports-sky-lantern" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-lantern-craze-that-flooded-ufo-reports-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="the-lantern-craze-that-flooded-ufo-reports-sky-lantern" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -555,7 +555,7 @@ The evidence is particularly compelling because it combines official reporting d
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -575,7 +575,7 @@ The evidence is particularly compelling because it combines official reporting d
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -607,7 +607,7 @@ The evidence is particularly compelling because it combines official reporting d
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -659,7 +659,7 @@ The evidence is particularly compelling because it combines official reporting d
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -704,7 +704,7 @@ The evidence is particularly compelling because it combines official reporting d
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -745,144 +745,144 @@ The evidence is particularly compelling because it combines official reporting d
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesUFO Desk: ClosedThe files suggest that it was believed the increase could be partly a result of the craze for releasing...</p></details>
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesUFO Desk: ClosedThe files suggest that it was believed the increase could be partly a result of the craze for releasing...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo highlights guide 2013  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Archivesufo-highlights-guide-2013.pdfUFO sightings and Chinese lantern craze. Details of the sighting reports logged by MoD in 2...</p></details>
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Archivesufo-highlights-guide-2013.pdfUFO sightings and Chinese lantern craze. Details of the sighting reports logged by MoD in 2...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky NewsUFO Desk: Why MoD Shut Real-Life X-Files | UK News20 Jun 2013 — They include accounts of alleged abductions, contact with aliens...</p></details>
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sky NewsUFO Desk: Why MoD Shut Real-Life X-Files | UK News20 Jun 2013 — They include accounts of alleged abductions, contact with aliens...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: londonist.com  
    Title: london ufo sightings  
-   Link: <a href="https://londonist.com/2013/06/london-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://londonist.com/2013/06/london-ufo-sightings</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>London UFO Sightings21 Jun 2013 — Reported sightings shot up in 2008 and 2009, partly because the very existence of the &quot;UFO fil...</p></details>
+   Link:<a href="https://londonist.com/2013/06/london-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://londonist.com/2013/06/london-ufo-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>London UFO Sightings21 Jun 2013 — Reported sightings shot up in 2008 and 2009, partly because the very existence of the &quot;UFO fil...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reports 2009 for MoD website-EditedDecember 16, 2009 — 12 Jan 2009 — Six red or orange lights in a. Three orange lights arranged vertical...</p></details>
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reports 2009 for MoD website-EditedDecember 16, 2009 — 12 Jan 2009 — Six red or orange lights in a. Three orange lights arranged vertical...</p></details>
    Published: December 16, 2009  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesUFO file release video transcriptMinistry was receiving a very large number of sightings of objects in the sky that were...</p></details>
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesUFO file release video transcriptMinistry was receiving a very large number of sightings of objects in the sky that were...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO FILESThis book is largely based upon the real-life accounts of UFO experiences recorded in files collected by Britain&#x27;s Ministry of D...</p></details>
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO FILESThis book is largely based upon the real-life accounts of UFO experiences recorded in files collected by Britain&#x27;s Ministry of D...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: GOV.UK  
    Title: ufo reports in the uk  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>reports in the UKUFO reports 1997 to 2009 in the UK, showing dates and times, location and a brief description of the sighting.Read more...</p></details>
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>reports in the UKUFO reports 1997 to 2009 in the UK, showing dates and times, location and a brief description of the sighting.Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: Why the UK Ministry of Defence closed its UFO desk  
-   Link: <a href="https://www.youtube.com/watch?v=480lS1y1mK4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=480lS1y1mK4</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Archives: The truth behind the UK&#x27;s UFO files...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=480lS1y1mK4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=480lS1y1mK4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Archives: The truth behind the UK&#x27;s UFO files...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: National Archives: The truth behind the UK's UFO files  
-   Link: <a href="https://www.youtube.com/watch?v=B8H8p91-sYo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=B8H8p91-sYo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nick Pope on the decline of UFO reporting in the UK...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=B8H8p91-sYo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=B8H8p91-sYo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nick Pope on the decline of UFO reporting in the UK...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: csmonitor.com  
    Title: UFO Britain releases documents explaining closure of military UFO desk  
-   Link: <a href="https://www.csmonitor.com/Science/2013/0621/UFO-Britain-releases-documents-explaining-closure-of-military-UFO-desk" target="_blank" rel="noopener noreferrer nofollow">https://www.csmonitor.com/Science/2013/0621/UFO-Britain-releases-documents-explaining-closure-of-military-UFO-desk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Christian Science MonitorUFO: Britain releases documents explaining closure of...21 Jun 2013 — Newly declassified files from Britain...</p></details>
+   Link:<a href="https://www.csmonitor.com/Science/2013/0621/UFO-Britain-releases-documents-explaining-closure-of-military-UFO-desk" target="_blank" rel="noopener noreferrer nofollow">https://www.csmonitor.com/Science/2013/0621/UFO-Britain-releases-documents-explaining-closure-of-military-UFO-desk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Christian Science MonitorUFO: Britain releases documents explaining closure of...21 Jun 2013 — Newly declassified files from Britain...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: theguardian.com  
    Title: last release mod ufo files  
-   Link: <a href="https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianAlien nation: MoD releases final UFO files21 Jun 2013 — Chinese lanterns became something of a craze, which may help to expla...</p></details>
+   Link:<a href="https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianAlien nation: MoD releases final UFO files21 Jun 2013 — Chinese lanterns became something of a craze, which may help to expla...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: skyatnightmagazine.com  
    Title: things mistaken for ufos  
-   Link: <a href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In 2009, the number of sightings reported to the MoD&#x27;s UFO desk tripled, with most...Read more...</p></details>
+   Link:<a href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In 2009, the number of sightings reported to the MoD&#x27;s UFO desk tripled, with most...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: theguardian.com  
    Title: mod report ufo sightings  
-   Link: <a href="https://www.theguardian.com/uk/2009/aug/17/mod-report-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2009/aug/17/mod-report-ufo-sightings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MoD&#x27;s latest UFO files reveal saucerful of secrets16 Aug 2009 — National Archives indicate 800 sightings in four-year period, while polic...</p></details>
+   Link:<a href="https://www.theguardian.com/uk/2009/aug/17/mod-report-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2009/aug/17/mod-report-ufo-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MoD&#x27;s latest UFO files reveal saucerful of secrets16 Aug 2009 — National Archives indicate 800 sightings in four-year period, while polic...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: itv.com  
    Title: ufo sightings files mod the national archives  
-   Link: <a href="https://www.itv.com/news/story/2013-06-21/ufo-sightings-files-mod-the-national-archives/" target="_blank" rel="noopener noreferrer nofollow">https://www.itv.com/news/story/2013-06-21/ufo-sightings-files-mod-the-national-archives/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO &#x27;spotted near Parliament&#x27;21 Jun 2013 — The surge in UFO &#x27;sightings&#x27; has been attributed to the popular trend of releasing Chinese lan...</p></details>
+   Link:<a href="https://www.itv.com/news/story/2013-06-21/ufo-sightings-files-mod-the-national-archives/" target="_blank" rel="noopener noreferrer nofollow">https://www.itv.com/news/story/2013-06-21/ufo-sightings-files-mod-the-national-archives/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO &#x27;spotted near Parliament&#x27;21 Jun 2013 — The surge in UFO &#x27;sightings&#x27; has been attributed to the popular trend of releasing Chinese lan...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
    Title: UFO sightings in the United Kingdom  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in the United KingdomMany more sightings have become known since the gradual release, between 2008 and 2013, of the Mini...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in the United KingdomMany more sightings have become known since the gradual release, between 2008 and 2013, of the Mini...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: Wikipedia  
    Title: Unidentified flying object  
-   Link: <a href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unidentified_flying_object</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified flying objectEight file collections on UFO sightings, dating from 1978 to 1987, were first released on May 14, 2008, to T...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unidentified_flying_object</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified flying objectEight file collections on UFO sightings, dating from 1978 to 1987, were first released on May 14, 2008, to T...</p></details>
    Published: May 14, 2008  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: scribd.com  
    Title: ufo report 2009 pdf  
-   Link: <a href="https://www.scribd.com/document/446684700/ufo-report-2009-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/446684700/ufo-report-2009-pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings Across the UK in 2009 | PDF | SkyThis document summarizes UFO sighting reports from January 2009 in the UK. It lists the da...</p></details>
+   Link:<a href="https://www.scribd.com/document/446684700/ufo-report-2009-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/446684700/ufo-report-2009-pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings Across the UK in 2009 | PDF | SkyThis document summarizes UFO sighting reports from January 2009 in the UK. It lists the da...</p></details>
    Published: January 2009  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: hjkc.de  
    Title: UF O-Forschung  
-   Link: <a href="https://www.hjkc.de/_blog/25927-ufo-forschung-aus-dem-cenap-archiv-ufo-history-teil-453/" target="_blank" rel="noopener noreferrer nofollow">https://www.hjkc.de/_blog/25927-ufo-forschung-aus-dem-cenap-archiv-ufo-history-teil-453/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO-Forschung - Aus dem CENAP-Archiv: UFO-History Teil-45327 Sept 2025 — Dieser Blog dient der zusätzlichen Information zu unserem cenap...</p></details>
+   Link:<a href="https://www.hjkc.de/_blog/25927-ufo-forschung-aus-dem-cenap-archiv-ufo-history-teil-453/" target="_blank" rel="noopener noreferrer nofollow">https://www.hjkc.de/_blog/25927-ufo-forschung-aus-dem-cenap-archiv-ufo-history-teil-453/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO-Forschung - Aus dem CENAP-Archiv: UFO-History Teil-45327 Sept 2025 — Dieser Blog dient der zusätzlichen Information zu unserem cenap...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: Nick Pope on the decline of UFO reporting in the UK  
-   Link: <a href="https://www.youtube.com/watch?v=T_iUe_Fk458" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=T_iUe_Fk458</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Examining the 2008-2009 surge in unexplained sky sightings...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=T_iUe_Fk458" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=T_iUe_Fk458</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Examining the 2008-2009 surge in unexplained sky sightings...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: 6abc.com  
-   Link: <a href="https://6abc.com/archive/6229312/" target="_blank" rel="noopener noreferrer nofollow">https://6abc.com/archive/6229312/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>6abc PhiladelphiaUFO mystery solved in Britain | 6abc Philadelphia | 6abc.com26 Jun 2008 — Britain&#x27;s Ministry of Defense has received num...</p></details>
+   Link:<a href="https://6abc.com/archive/6229312/" target="_blank" rel="noopener noreferrer nofollow">https://6abc.com/archive/6229312/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>6abc PhiladelphiaUFO mystery solved in Britain | 6abc Philadelphia | 6abc.com26 Jun 2008 — Britain&#x27;s Ministry of Defense has received num...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: UK Ministry of Defence releases final UFO files  
-   Link: <a href="https://www.youtube.com/watch?v=F0S2p_g_jDk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=F0S2p_g_jDk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why the UK Ministry of Defence closed its UFO desk...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=F0S2p_g_jDk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=F0S2p_g_jDk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why the UK Ministry of Defence closed its UFO desk...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: independent.co.uk  
-   Link: <a href="https://www.independent.co.uk/news/uk/politics/the-not-so-real-life-xfiles-chinese-lanterns-responsible-for-surge-of-ufo-sightings-files-from-mod-reveal-8667620.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/uk/politics/the-not-so-real-life-xfiles-chinese-lanterns-responsible-for-surge-of-ufo-sightings-files-from-mod-reveal-8667620.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The (not so) real life X-Files: Chinese lanterns responsible...21 Jun 2013 — These latest files, released by the National Archives, show...</p></details>
+   Link:<a href="https://www.independent.co.uk/news/uk/politics/the-not-so-real-life-xfiles-chinese-lanterns-responsible-for-surge-of-ufo-sightings-files-from-mod-reveal-8667620.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/uk/politics/the-not-so-real-life-xfiles-chinese-lanterns-responsible-for-surge-of-ufo-sightings-files-from-mod-reveal-8667620.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The (not so) real life X-Files: Chinese lanterns responsible...21 Jun 2013 — These latest files, released by the National Archives, show...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=k5j4Y-P6m6g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=k5j4Y-P6m6g</a>
+   Link:<a href="https://www.youtube.com/watch?v=k5j4Y-P6m6g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=k5j4Y-P6m6g</a>

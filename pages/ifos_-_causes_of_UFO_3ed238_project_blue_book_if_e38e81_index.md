@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ifos-causes-of-ufo-3ed238-project-blue/
 description: Focused pages that expand on Blue Book.
-date: '2026-06-12'
+date: '2026'
 layout: default
 parent_basename: ifos_-_causes_of_UFO_3ed238_project_blue_book_if_e38e81
 parent_title: Blue Book
@@ -16,7 +16,7 @@ parent_permalink: /blue-book/
 
 # Explore Topics in Blue Book
 
-The following pages expand on the main **[Blue Book]({{ '/blue-book/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Blue Book]({{ '/blue-book/' | relative_url }})** page and cover its key branches in.
 
 - [Sky Objects]({{ '/sky-objects/' | relative_url }})
 - [IFO Pattern]({{ '/ifo-pattern/' | relative_url }})

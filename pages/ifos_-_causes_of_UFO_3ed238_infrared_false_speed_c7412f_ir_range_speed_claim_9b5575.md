@@ -274,7 +274,7 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f_ir
 
 ## Introduction
 
-Many dramatic speed estimates in [infrared]({{ 'infrared/' | relative_url }}) UFO videos fail at the same point: the distance to the object is unknown. A camera can measure how quickly something moves across its field of view, but that is only angular motion — a change in direction from the observer's perspective. Converting that angular motion into a real speed requires range. Without range, it is impossible to determine reliably whether an object is small and nearby, large and distant, slow or fast. This is one of the most important mechanisms behind false impressions of extraordinary performance in infrared UFO footage. Analyses by the US Department of Defense's All-domain Anomaly Resolution Office ([AARO]({{ 'aaro/' | relative_url }})) repeatedly emphasise that apparent motion can be heavily influenced by geometry, parallax and observer movement rather than by extreme object speed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution</span><span class="citation-popover-snippet">AARO GoFast Case ResolutionFebruary 24, 2025 — 6 Feb 2025 — Motion parallax is an optical effect that induces an observer to perceive...</span><span class="citation-popover-meta">Published: February 24, 2025</span></span></span>
+Many dramatic speed estimates in [infrared]({{ 'infrared/' | relative_url }}) UFO videos fail at the same point: the distance to the object is unknown. A camera can measure how quickly something moves across its field of view, but that is only angular motion — a change in direction from the observer's perspective. Converting that angular motion into a real speed requires range. Without range, it is impossible to determine reliably whether an object is small and nearby, large and distant, slow or fast. This is one of the most important mechanisms behind false impressions of extraordinary performance in infrared UFO footage. Analyses by the US Department of Defense's All-domain Anomaly Resolution Office ([AARO]({{ 'aaro/' | relative_url }})) repeatedly emphasise that apparent motion can be heavily influenced by geometry, parallax and observer movement rather than by extreme object speed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution</span><span class="citation-popover-snippet">AARO GoFast Case ResolutionFebruary 24, 2025 — 6 Feb 2025 — Motion parallax is an optical effect that induces an observer to perceive...</span><span class="citation-popover-meta">Published: February 24, 2025</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f_ir_range_speed_claim_9b5575-Illustration-1-dark.svg" | relative_url }}" alt="Range illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f_ir_range_speed_claim_9b5575-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f_ir_range_speed_claim_9b5575-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 In the context of UFO reports, this means that a striking infrared clip may record a real object while still providing insufficient information to calculate its true velocity. The missing number is often not time, but distance.
@@ -285,11 +285,11 @@ An infrared video directly records where an object appears in the image. It does
 
 Imagine an object crossing ten degrees of the camera's view in ten seconds. That measurement is real. However, the corresponding physical distance travelled depends entirely on range. If the object is 500 metres away, the distance covered is modest. If it is 50 kilometres away, the same angular movement represents a vastly larger physical displacement.
 
-This distinction is fundamental in tracking and guidance systems. Engineers frequently work with line-of-sight rate — the rate at which an object's apparent direction changes — because angular measurements are available even when range is uncertain. Converting line-of-sight motion into physical motion requires additional distance information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.astesj.com/publications/ASTESJ_030626.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astesj.com">[ASTESJ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astesj.com</span><span class="citation-popover-title">Guidance Law Based on Line-of-Sight Rate Information</span><span class="citation-popover-snippet">Guidance Law Based on Line-of-Sight Rate Information...June 20, 2019 — 15 Nov 2018 — The goal of the missile intercept problem is...</span><span class="citation-popover-meta">Published: June 20, 2019</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://secwww.jhuapl.edu/techdigest/content/techdigest/pdf/V29-N01/29-01-Palumbo_Principles_Rev2018.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: secjhuapl.edu">[JHU Applied Physics Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">secjhuapl.edu</span><span class="citation-popover-title">29 01 Palumbo Principles Rev2018</span><span class="citation-popover-snippet">Principles of Homing Guidanceby NF Palumbo · 2010 · Cited by 188 — INTRODUCTION. The key objective of this article is to provide a broad...</span></span></span>
+This distinction is fundamental in tracking and guidance systems. Engineers frequently work with line-of-sight rate — the rate at which an object's apparent direction changes — because angular measurements are available even when range is uncertain. Converting line-of-sight motion into physical motion requires additional distance information.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.astesj.com/publications/ASTESJ_030626.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astesj.com">[ASTESJ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astesj.com</span><span class="citation-popover-title">Guidance Law Based on Line-of-Sight Rate Information</span><span class="citation-popover-snippet">Guidance Law Based on Line-of-Sight Rate Information...June 20, 2019 — 15 Nov 2018 — The goal of the missile intercept problem is...</span><span class="citation-popover-meta">Published: June 20, 2019</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://secwww.jhuapl.edu/techdigest/content/techdigest/pdf/V29-N01/29-01-Palumbo_Principles_Rev2018.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: secjhuapl.edu">[JHU Applied Physics Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">secjhuapl.edu</span><span class="citation-popover-title">29 01 Palumbo Principles Rev2018</span><span class="citation-popover-snippet">Principles of Homing Guidanceby NF Palumbo · 2010 · Cited by 188 — INTRODUCTION. The key objective of this article is to provide a broad...</span></span></span>
 
 Infrared UFO debates often skip this step. Viewers see an object moving rapidly across the screen and intuitively assume high speed. Yet the screen only shows angular movement. The actual velocity remains unknown until range is established.
 
-AARO's discussion of forced perspective highlights the same problem. Humans naturally estimate size and distance using visual references. When those references are absent or ambiguous, errors in distance estimation lead directly to errors in size and speed estimation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Observers will often compare unknown objects to clouds, trees, buildings, or other non-...Read more...</span></span></span>
+AARO's discussion of forced perspective highlights the same problem. Humans naturally estimate size and distance using visual references. When those references are absent or ambiguous, errors in distance estimation lead directly to errors in size and speed estimation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Observers will often compare unknown objects to clouds, trees, buildings, or other non-...Read more...</span></span></span>
 
 ## How nearby small objects mimic distant fast ones
 
@@ -307,7 +307,7 @@ This creates a classic ambiguity:
 
 </div>
 
-Because infrared footage often removes familiar visual cues such as colour, markings, windows or wing shapes, the ambiguity becomes even harder to resolve. AARO notes that observers frequently struggle to judge the size and distance of unknown aerial objects when reliable reference points are absent. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution</span><span class="citation-popover-snippet">AARO GoFast Case ResolutionFebruary 24, 2025 — 6 Feb 2025 — Motion parallax is an optical effect that induces an observer to perceive...</span><span class="citation-popover-meta">Published: February 24, 2025</span></span></span>
+Because infrared footage often removes familiar visual cues such as colour, markings, windows or wing shapes, the ambiguity becomes even harder to resolve. AARO notes that observers frequently struggle to judge the size and distance of unknown aerial objects when reliable reference points are absent.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution</span><span class="citation-popover-snippet">AARO GoFast Case ResolutionFebruary 24, 2025 — 6 Feb 2025 — Motion parallax is an optical effect that induces an observer to perceive...</span><span class="citation-popover-meta">Published: February 24, 2025</span></span></span>
 
 The result is that a mundane object can appear to possess extraordinary speed simply because the observer has unconsciously chosen the wrong distance estimate.
 
@@ -321,7 +321,7 @@ This effect is familiar from everyday travel. Looking from a train window, nearb
 
 Infrared footage recorded from aircraft introduces the same problem. The camera platform is moving rapidly, often at hundreds of knots. If a tracked object is relatively close to the aircraft, its apparent movement against the background can become dramatic even when its own speed is modest.
 
-AARO's formal resolution of the well-known "[GoFast]({{ 'gofast/' | relative_url }})" video concluded that the object's apparently extraordinary speed was attributable to motion parallax. According to the office's analysis, the visual impression of extreme velocity resulted from viewing geometry and aircraft motion rather than evidence of a remarkably fast object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Observers will often compare unknown objects to clouds, trees, buildings, or other non-...Read more...</span></span></span>
+AARO's formal resolution of the well-known "[GoFast]({{ 'gofast/' | relative_url }})" video concluded that the object's apparently extraordinary speed was attributable to motion parallax. According to the office's analysis, the visual impression of extreme velocity resulted from viewing geometry and aircraft motion rather than evidence of a remarkably fast object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Observers will often compare unknown objects to clouds, trees, buildings, or other non-...Read more...</span></span></span>
 
 This is why screen motion alone is a poor indicator of performance. A fast-moving image is not necessarily an image of a fast-moving object.
 
@@ -371,206 +371,206 @@ To estimate true velocity reliably, investigators ideally need:
 
 When these elements are available, analysts can reconstruct the geometry of the encounter and determine whether an object's motion was genuinely unusual.
 
-When they are absent, multiple interpretations often remain possible. A speed estimate may vary enormously depending on the assumed distance. An object thought to be travelling at hundreds or thousands of kilometres per hour can sometimes become consistent with a balloon, bird or other ordinary aerial target once a different range estimate is applied. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Observers will often compare unknown objects to clouds, trees, buildings, or other non-...Read more...</span></span></span>
+When they are absent, multiple interpretations often remain possible. A speed estimate may vary enormously depending on the assumed distance. An object thought to be travelling at hundreds or thousands of kilometres per hour can sometimes become consistent with a balloon, bird or other ordinary aerial target once a different range estimate is applied.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Observers will often compare unknown objects to clouds, trees, buildings, or other non-...Read more...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f_ir_range_speed_claim_9b5575-Illustration-3-dark.svg" | relative_url }}" alt="Range illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f_ir_range_speed_claim_9b5575-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f_ir_range_speed_claim_9b5575-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why range makes or breaks UFO speed claims
 
 The key lesson from infrared UFO analysis is simple: cameras measure angles, not distances.
 
-Without reliable range information, an infrared clip cannot by itself establish an object's true size, altitude or speed. The same angular motion can represent a nearby slow target or a distant fast one. Parallax, observer motion and forced perspective can amplify the illusion of extraordinary performance, especially when visual depth cues are missing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Observers will often compare unknown objects to clouds, trees, buildings, or other non-...Read more...</span></span></span>
+Without reliable range information, an infrared clip cannot by itself establish an object's true size, altitude or speed. The same angular motion can represent a nearby slow target or a distant fast one. Parallax, observer motion and forced perspective can amplify the illusion of extraordinary performance, especially when visual depth cues are missing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Observers will often compare unknown objects to clouds, trees, buildings, or other non-...Read more...</span></span></span>
 
 For that reason, the strongest UFO investigations treat infrared video as only one piece of evidence. The decisive question is often not how fast the object appears to move on the screen, but whether anyone can demonstrate how far away it was. Until that number is known, speed claims remain highly uncertain.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why range makes or breaks UFO speed claims. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why range makes or breaks UFO speed claims. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ATZGAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Handbook">The UFO Handbook</a>
-        </h4>
-        <p class="fr-book-author">By Allan Hendry</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ATZGAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Handbook">The UFO Handbook</a>
+</h4>
+<p class="fr-book-author">By Allan Hendry</p>
         
-        <p class="fr-book-desc">Focuses on evaluating sightings, evidence quality, and common interpretation errors.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evaluating sightings, evidence quality, and common interpretation errors.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for official and sensor-based UAP cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for official and sensor-based UAP cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Measure Anything on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=EAPXAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Measure Anything" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Measure Anything">How to Measure Anything</a>
-        </h4>
-        <p class="fr-book-author">By Douglas W. Hubbard</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Measure Anything on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=EAPXAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Measure Anything" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Measure Anything">How to Measure Anything</a>
+</h4>
+<p class="fr-book-author">By Douglas W. Hubbard</p>
         
-        <p class="fr-book-desc">Directly relates to the problem of estimating speed without reliable range data.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relates to the problem of estimating speed without reliable range data.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Encourages careful reasoning about extraordinary claims from incomplete evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages careful reasoning about extraordinary claims from incomplete evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Measure+Anything&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Measure Anything</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Measure+Anything&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Measure Anything</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal monocular" data-ebay-reference="why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flir Scout II 240 -Thermal Optic Monocular Scope"><img src="https://i.ebayimg.com/images/g/OiYAAeSwYDhqKHoH/s-l225.jpg" alt="Listing image for Flir Scout II 240 -Thermal Optic Monocular Scope" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal monocular" data-ebay-reference="why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular" target="_blank" rel="sponsored noopener noreferrer">Flir Scout II 240 -Thermal Optic Monocular Scope</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal monocular" data-ebay-reference="why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for thermal monocular">Search <span data-ebay-domain-label>eBay.co.uk</span>: thermal monocular</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal monocular" data-ebay-reference="why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal monocular" data-ebay-reference="why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flir Scout II 240 -Thermal Optic Monocular Scope"><img src="https://i.ebayimg.com/images/g/OiYAAeSwYDhqKHoH/s-l225.jpg" alt="Listing image for Flir Scout II 240 -Thermal Optic Monocular Scope" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal monocular" data-ebay-reference="why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular" target="_blank" rel="sponsored noopener noreferrer">Flir Scout II 240 -Thermal Optic Monocular Scope</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal monocular" data-ebay-reference="why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for thermal monocular">Search<span data-ebay-domain-label>eBay.co.uk</span>: thermal monocular</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal monocular" data-ebay-reference="why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal monocular" data-ebay-reference="why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HIKMICRO Lynx 3.0 10mm Thermal Monocular LE10"><img src="https://i.ebayimg.com/images/g/8tkAAeSwzmBp8fPT/s-l225.jpg" alt="Listing image for HIKMICRO Lynx 3.0 10mm Thermal Monocular LE10" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal monocular" data-ebay-reference="why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular" target="_blank" rel="sponsored noopener noreferrer">HIKMICRO Lynx 3.0 10mm Thermal Monocular LE10</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal monocular" data-ebay-reference="why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for thermal monocular">Search <span data-ebay-domain-label>eBay.co.uk</span>: thermal monocular</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal monocular" data-ebay-reference="why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal monocular" data-ebay-reference="why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HIKMICRO Lynx 3.0 10mm Thermal Monocular LE10"><img src="https://i.ebayimg.com/images/g/8tkAAeSwzmBp8fPT/s-l225.jpg" alt="Listing image for HIKMICRO Lynx 3.0 10mm Thermal Monocular LE10" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal monocular" data-ebay-reference="why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular" target="_blank" rel="sponsored noopener noreferrer">HIKMICRO Lynx 3.0 10mm Thermal Monocular LE10</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal monocular" data-ebay-reference="why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for thermal monocular">Search<span data-ebay-domain-label>eBay.co.uk</span>: thermal monocular</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal monocular" data-ebay-reference="why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal monocular" data-ebay-reference="why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MiLESEEY TNV30i Thermal Imaging Monocular Night Vision Camera for Android"><img src="https://i.ebayimg.com/images/g/zXMAAeSw6glodzyw/s-l225.jpg" alt="Listing image for MiLESEEY TNV30i Thermal Imaging Monocular Night Vision Camera for Android" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal monocular" data-ebay-reference="why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular" target="_blank" rel="sponsored noopener noreferrer">MiLESEEY TNV30i Thermal Imaging Monocular Night Vision Camera for Android</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal monocular" data-ebay-reference="why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for thermal monocular">Search <span data-ebay-domain-label>eBay.co.uk</span>: thermal monocular</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal monocular" data-ebay-reference="why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal monocular" data-ebay-reference="why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MiLESEEY TNV30i Thermal Imaging Monocular Night Vision Camera for Android"><img src="https://i.ebayimg.com/images/g/zXMAAeSw6glodzyw/s-l225.jpg" alt="Listing image for MiLESEEY TNV30i Thermal Imaging Monocular Night Vision Camera for Android" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal monocular" data-ebay-reference="why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular" target="_blank" rel="sponsored noopener noreferrer">MiLESEEY TNV30i Thermal Imaging Monocular Night Vision Camera for Android</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal monocular" data-ebay-reference="why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for thermal monocular">Search<span data-ebay-domain-label>eBay.co.uk</span>: thermal monocular</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal monocular" data-ebay-reference="why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal monocular" data-ebay-reference="why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pixfra Sirius S435 Thermal Imaging Monocular 384x288 35mm"><img src="https://i.ebayimg.com/images/g/5XoAAeSwIXFpxquC/s-l225.jpg" alt="Listing image for Pixfra Sirius S435 Thermal Imaging Monocular 384x288 35mm" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal monocular" data-ebay-reference="why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular" target="_blank" rel="sponsored noopener noreferrer">Pixfra Sirius S435 Thermal Imaging Monocular 384x288 35mm</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal monocular" data-ebay-reference="why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for thermal monocular">Search <span data-ebay-domain-label>eBay.co.uk</span>: thermal monocular</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal monocular" data-ebay-reference="why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal monocular" data-ebay-reference="why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal monocular" data-ebay-reference="why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pixfra Sirius S435 Thermal Imaging Monocular 384x288 35mm"><img src="https://i.ebayimg.com/images/g/5XoAAeSwIXFpxquC/s-l225.jpg" alt="Listing image for Pixfra Sirius S435 Thermal Imaging Monocular 384x288 35mm" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal monocular" data-ebay-reference="why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular" target="_blank" rel="sponsored noopener noreferrer">Pixfra Sirius S435 Thermal Imaging Monocular 384x288 35mm</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal monocular" data-ebay-reference="why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for thermal monocular">Search<span data-ebay-domain-label>eBay.co.uk</span>: thermal monocular</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal monocular" data-ebay-reference="why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal monocular" data-ebay-reference="why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -586,7 +586,7 @@ For that reason, the strongest UFO investigations treat infrared video as only o
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -606,7 +606,7 @@ For that reason, the strongest UFO investigations treat infrared video as only o
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -638,7 +638,7 @@ For that reason, the strongest UFO investigations treat infrared video as only o
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -690,7 +690,7 @@ For that reason, the strongest UFO investigations treat infrared video as only o
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -735,7 +735,7 @@ For that reason, the strongest UFO investigations treat infrared video as only o
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -776,97 +776,97 @@ For that reason, the strongest UFO investigations treat infrared video as only o
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: aaro.mil  
    Title: Go Fast Case Resolution  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO GoFast Case ResolutionFebruary 24, 2025 — 6 Feb 2025 — Motion parallax is an optical effect that induces an observer to perceive...</p></details>
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO GoFast Case ResolutionFebruary 24, 2025 — 6 Feb 2025 — Motion parallax is an optical effect that induces an observer to perceive...</p></details>
    Published: February 24, 2025  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Observers will often compare unknown objects to clouds, trees, buildings, or other non-...Read more...</p></details>
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Observers will often compare unknown objects to clouds, trees, buildings, or other non-...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: astesj.com  
    Title: Guidance Law Based on Line-of-Sight Rate Information  
-   Link: <a href="https://www.astesj.com/publications/ASTESJ_030626.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.astesj.com/publications/ASTESJ_030626.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Guidance Law Based on Line-of-Sight Rate Information...June 20, 2019 — 15 Nov 2018 — The goal of the missile intercept problem is...</p></details>
+   Link:<a href="https://www.astesj.com/publications/ASTESJ_030626.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.astesj.com/publications/ASTESJ_030626.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Guidance Law Based on Line-of-Sight Rate Information...June 20, 2019 — 15 Nov 2018 — The goal of the missile intercept problem is...</p></details>
    Published: June 20, 2019  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Historical Record Report Volume 18 Mar 2024 — SECTION I: Introduction. This report represents Volume I of the All-domain Anomaly Resoluti...</p></details>
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Historical Record Report Volume 18 Mar 2024 — SECTION I: Introduction. This report represents Volume I of the All-domain Anomaly Resoluti...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: secjhuapl.edu  
    Title: 29 01 Palumbo Principles Rev2018  
-   Link: <a href="https://secwww.jhuapl.edu/techdigest/content/techdigest/pdf/V29-N01/29-01-Palumbo_Principles_Rev2018.pdf" target="_blank" rel="noopener noreferrer nofollow">https://secwww.jhuapl.edu/techdigest/content/techdigest/pdf/V29-N01/29-01-Palumbo_Principles_Rev2018.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Principles of Homing Guidanceby NF Palumbo · 2010 · Cited by 188 — INTRODUCTION. The key objective of this article is to provide a broad...</p></details>
+   Link:<a href="https://secwww.jhuapl.edu/techdigest/content/techdigest/pdf/V29-N01/29-01-Palumbo_Principles_Rev2018.pdf" target="_blank" rel="noopener noreferrer nofollow">https://secwww.jhuapl.edu/techdigest/content/techdigest/pdf/V29-N01/29-01-Palumbo_Principles_Rev2018.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Principles of Homing Guidanceby NF Palumbo · 2010 · Cited by 188 — INTRODUCTION. The key objective of this article is to provide a broad...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Forced perspective  
-   Link: <a href="https://en.wikipedia.org/wiki/Forced_perspective" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Forced_perspective</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Forced perspectiveForced perspective is a technique that employs optical illusion to make an object appear farther away, closer, large...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Forced_perspective" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Forced_perspective</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Forced perspectiveForced perspective is a technique that employs optical illusion to make an object appear farther away, closer, large...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Parallax" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Parallax</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ParallaxParallax is a displacement or difference in the apparent position of an object viewed along two different lines of sightRead more...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Parallax" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Parallax</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ParallaxParallax is a displacement or difference in the apparent position of an object viewed along two different lines of sightRead more...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/398474116_Real-time_Motion_Parallax_Generation_System_using_Spherical_Rendering_and_View_Morphing_in_Unknown_Environments" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/398474116_Real-time_Motion_Parallax_Generation_System_using_Spherical_Rendering_and_View_Morphing_in_Unknown_Environments</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Real-Time Motion Parallax Generation System...16 Mar 2026 — This paper presents a novel intermediate viewpoint generation system t...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/398474116_Real-time_Motion_Parallax_Generation_System_using_Spherical_Rendering_and_View_Morphing_in_Unknown_Environments" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/398474116_Real-time_Motion_Parallax_Generation_System_using_Spherical_Rendering_and_View_Morphing_in_Unknown_Environments</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Real-Time Motion Parallax Generation System...16 Mar 2026 — This paper presents a novel intermediate viewpoint generation system t...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>According to AARO&#x27;s new website, the FLIR, Gimbal and...According to AARO, the FLIR (Tic Tac UAP), Gimbal, and GoFast videos are “unreso...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>According to AARO&#x27;s new website, the FLIR, Gimbal and...According to AARO, the FLIR (Tic Tac UAP), Gimbal, and GoFast videos are “unreso...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/254011144_Measurement_angular_velocity_based_on_video_technology" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/254011144_Measurement_angular_velocity_based_on_video_technology</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Measurement angular velocity based on video technologyTo measure the angular velocity of the object with video measurement technique is a...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/254011144_Measurement_angular_velocity_based_on_video_technology" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/254011144_Measurement_angular_velocity_based_on_video_technology</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Measurement angular velocity based on video technologyTo measure the angular velocity of the object with video measurement technique is a...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Proportional_navigation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Proportional_navigation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Proportional navigationProportional navigation is a guidance law (analogous to proportional control) used in some form or another by m...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Proportional_navigation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Proportional_navigation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Proportional navigationProportional navigation is a guidance law (analogous to proportional control) used in some form or another by m...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: resources.mpi-inf.mpg.de  
-   Link: <a href="https://resources.mpi-inf.mpg.de/StereoParallax/supplemental.pdf" target="_blank" rel="noopener noreferrer nofollow">https://resources.mpi-inf.mpg.de/StereoParallax/supplemental.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Parallax in Stereo 3D: Model and Applicationsby P Kellnhofer · Cited by 43 — This is a supplemental text for the SIGGRAPH Asia 2016 paper...</p></details>
+   Link:<a href="https://resources.mpi-inf.mpg.de/StereoParallax/supplemental.pdf" target="_blank" rel="noopener noreferrer nofollow">https://resources.mpi-inf.mpg.de/StereoParallax/supplemental.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Parallax in Stereo 3D: Model and Applicationsby P Kellnhofer · Cited by 43 — This is a supplemental text for the SIGGRAPH Asia 2016 paper...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/245615969_Increasing_the_range_of_self-generated_motion_parallax_increases_its_effectiveness" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/245615969_Increasing_the_range_of_self-generated_motion_parallax_increases_its_effectiveness</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Increasing the range of self-generated motion parallax...28 Feb 2026 — Motion parallax is an effective source of depth information, Its...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/245615969_Increasing_the_range_of_self-generated_motion_parallax_increases_its_effectiveness" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/245615969_Increasing_the_range_of_self-generated_motion_parallax_increases_its_effectiveness</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Increasing the range of self-generated motion parallax...28 Feb 2026 — Motion parallax is an effective source of depth information, Its...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/370446562_Manipulation_of_Motion_Parallax_Gain_Distorts_Perceived_Distance_and_Object_Depth_in_Virtual_Reality" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/370446562_Manipulation_of_Motion_Parallax_Gain_Distorts_Perceived_Distance_and_Object_Depth_in_Virtual_Reality</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Manipulation of Motion Parallax Gain Distorts Perceived...9 May 2023 — PDF | On Mar 1, 2023, Xue Teng and others published Manipulation...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/370446562_Manipulation_of_Motion_Parallax_Gain_Distorts_Perceived_Distance_and_Object_Depth_in_Virtual_Reality" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/370446562_Manipulation_of_Motion_Parallax_Gain_Distorts_Perceived_Distance_and_Object_Depth_in_Virtual_Reality</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Manipulation of Motion Parallax Gain Distorts Perceived...9 May 2023 — PDF | On Mar 1, 2023, Xue Teng and others published Manipulation...</p></details>
    Published: May 2023  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: colinzheng.com  
-   Link: <a href="https://www.colinzheng.com/wp-content/data/research/papers/thesis_uw08.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.colinzheng.com/wp-content/data/research/papers/thesis_uw08.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Parallax Photography: Creating 3D Motions from Stillsby KC Zheng · 2008 · Cited by 1 — A full-view panorama extends the sampling of a pho...</p></details>
+   Link:<a href="https://www.colinzheng.com/wp-content/data/research/papers/thesis_uw08.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.colinzheng.com/wp-content/data/research/papers/thesis_uw08.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Parallax Photography: Creating 3D Motions from Stillsby KC Zheng · 2008 · Cited by 1 — A full-view panorama extends the sampling of a pho...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: jenrs.com  
-   Link: <a href="https://www.jenrs.com/publications/JENRS_0303003.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.jenrs.com/publications/JENRS_0303003.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>tion proportional to line of sight (LOS) angular rate, so that missile velocity vector...Read more...</p></details>
+   Link:<a href="https://www.jenrs.com/publications/JENRS_0303003.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.jenrs.com/publications/JENRS_0303003.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>tion proportional to line of sight (LOS) angular rate, so that missile velocity vector...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: etd.lib.metu.edu.tr  
-   Link: <a href="https://etd.lib.metu.edu.tr/upload/12621850/index.pdf" target="_blank" rel="noopener noreferrer nofollow">https://etd.lib.metu.edu.tr/upload/12621850/index.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>method for estimating target velocity and range withby BCAN BABAOĞLU · 2018 — A new algorithm for both target speed and range estimation...</p></details>
+   Link:<a href="https://etd.lib.metu.edu.tr/upload/12621850/index.pdf" target="_blank" rel="noopener noreferrer nofollow">https://etd.lib.metu.edu.tr/upload/12621850/index.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>method for estimating target velocity and range withby BCAN BABAOĞLU · 2018 — A new algorithm for both target speed and range estimation...</p></details>

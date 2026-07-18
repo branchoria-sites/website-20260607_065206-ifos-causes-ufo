@@ -277,24 +277,24 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_wind_data_33671a_trajectory_mo
 Trajectory modelling is one of the most useful ways to test whether a reported UFO could have been a balloon, lantern or other wind-driven object. Rather than asking only whether winds were present, investigators can use meteorological data to estimate where a drifting object would have travelled if released from a particular location, at a particular time and altitude. When the predicted path resembles the reported movement, a balloon explanation becomes more plausible. When repeated model runs fail to reproduce the sighting, the balloon hypothesis becomes weaker.
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_wind_data_33671a_trajectory_model_tes_2a4d4e-Illustration-1-dark.svg" | relative_url }}" alt="Trajectories illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_wind_data_33671a_trajectory_model_tes_2a4d4e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_wind_data_33671a_trajectory_model_tes_2a4d4e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The key point is that trajectory models are tests of consistency, not proof. A successful match shows that known winds could have carried an object along a path similar to the reported one. It does not demonstrate that a balloon was actually present. Likewise, a poor match may reflect uncertainty in the starting assumptions rather than a definitive rejection of the balloon explanation. Modern trajectory tools therefore work best when used as probability assessments rather than simple yes-or-no verdicts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ready.noaa.gov/hypub-bin/trajtype.pl" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ready.noaa.gov">[ready.noaa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ready.noaa.gov</span><span class="citation-popover-snippet">NOAA HYSPLIT Trajectory ModelEach member of the trajectory ensemble is calculated by offsetting the meteorological data by a fixed grid f...</span></span></span>
+The key point is that trajectory models are tests of consistency, not proof. A successful match shows that known winds could have carried an object along a path similar to the reported one. It does not demonstrate that a balloon was actually present. Likewise, a poor match may reflect uncertainty in the starting assumptions rather than a definitive rejection of the balloon explanation. Modern trajectory tools therefore work best when used as probability assessments rather than simple yes-or-no verdicts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ready.noaa.gov/hypub-bin/trajtype.pl" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ready.noaa.gov">[ready.noaa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ready.noaa.gov</span><span class="citation-popover-snippet">NOAA HYSPLIT Trajectory ModelEach member of the trajectory ensemble is calculated by offsetting the meteorological data by a fixed grid f...</span></span></span>
 
 ## Can a model trace the UFO's drift?
 
-Trajectory models calculate how an object would move through the [atmosphere]({{ 'atmosphere/' | relative_url }}) when carried by changing winds. The most widely used systems, such as NOAA's Hybrid Single-Particle Lagrangian Integrated Trajectory model (HYSPLIT), were developed for atmospheric transport studies but are equally useful for reconstructing potential balloon paths. These models combine weather observations and forecast data with assumptions about an object's location and altitude to generate a projected track. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.arl.noaa.gov/hysplit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arl.noaa.gov">[Air Resources Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arl.noaa.gov</span><span class="citation-popover-title">Air Resources Laboratory HYSPLIT</span><span class="citation-popover-snippet">Air Resources LaboratoryHYSPLIT - Air Resources LaboratoryHYSPLIT models simulate the dispersion and trajectory of substances transported...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.ametsoc.org/view/journals/bams/96/12/bams-d-14-00110.1.xml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.ametsoc.org">[American Meteorological Society Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.ametsoc.org</span><span class="citation-popover-snippet">American Meteorological Society JournalsNOAA&#x27;s HYSPLIT Atmospheric Transport and Dispersion...by AF Stein · 2015 · Cited by 6803 — HYSPL...</span></span></span>
+Trajectory models calculate how an object would move through the [atmosphere]({{ 'atmosphere/' | relative_url }}) when carried by changing winds. The most widely used systems, such as NOAA's Hybrid Single-Particle Lagrangian Integrated Trajectory model (HYSPLIT), were developed for atmospheric transport studies but are equally useful for reconstructing potential balloon paths. These models combine weather observations and forecast data with assumptions about an object's location and altitude to generate a projected track.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.arl.noaa.gov/hysplit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arl.noaa.gov">[Air Resources Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arl.noaa.gov</span><span class="citation-popover-title">Air Resources Laboratory HYSPLIT</span><span class="citation-popover-snippet">Air Resources LaboratoryHYSPLIT - Air Resources LaboratoryHYSPLIT models simulate the dispersion and trajectory of substances transported...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.ametsoc.org/view/journals/bams/96/12/bams-d-14-00110.1.xml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.ametsoc.org">[American Meteorological Society Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.ametsoc.org</span><span class="citation-popover-snippet">American Meteorological Society JournalsNOAA&#x27;s HYSPLIT Atmospheric Transport and Dispersion...by AF Stein · 2015 · Cited by 6803 — HYSPL...</span></span></span>
 
 In a suspected balloon sighting, investigators typically compare two tracks:
 
 * The reported path reconstructed from witness observations, photographs or video.
-* The modelled path generated from weather data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aoml.noaa.gov/upper-air-observations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aoml.noaa.gov">[aoml.noaa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aoml.noaa.gov</span><span class="citation-popover-title">upper air observations</span><span class="citation-popover-snippet">Air Observations: How Weather Balloons Improve...1 Sept 2017 — Weather balloons, also known as radiosondes, provide detailed and reliabl...</span></span></span>
+* The modelled path generated from weather data.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aoml.noaa.gov/upper-air-observations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aoml.noaa.gov">[aoml.noaa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aoml.noaa.gov</span><span class="citation-popover-title">upper air observations</span><span class="citation-popover-snippet">Air Observations: How Weather Balloons Improve...1 Sept 2017 — Weather balloons, also known as radiosondes, provide detailed and reliabl...</span></span></span>
 
-If the directions, speeds and timing broadly agree, the result supports the possibility that the object drifted with the wind. This approach is particularly valuable when witnesses report slow movement, gradual course changes or long-duration visibility, all of which are characteristic of drifting objects rather than powered aircraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.arl.noaa.gov/hysplit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arl.noaa.gov">[Air Resources Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arl.noaa.gov</span><span class="citation-popover-title">Air Resources Laboratory HYSPLIT</span><span class="citation-popover-snippet">Air Resources LaboratoryHYSPLIT - Air Resources LaboratoryHYSPLIT models simulate the dispersion and trajectory of substances transported...</span></span></span>
+If the directions, speeds and timing broadly agree, the result supports the possibility that the object drifted with the wind. This approach is particularly valuable when witnesses report slow movement, gradual course changes or long-duration visibility, all of which are characteristic of drifting objects rather than powered aircraft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.arl.noaa.gov/hysplit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arl.noaa.gov">[Air Resources Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arl.noaa.gov</span><span class="citation-popover-title">Air Resources Laboratory HYSPLIT</span><span class="citation-popover-snippet">Air Resources LaboratoryHYSPLIT - Air Resources LaboratoryHYSPLIT models simulate the dispersion and trajectory of substances transported...</span></span></span>
 
-A practical example comes from weather-balloon and radiosonde tracking. Thousands of balloon flights are routinely predicted and reconstructed using trajectory software because wind fields largely determine their movement. Balloon-recovery communities and meteorological agencies use these methods to estimate landing zones and flight paths with reasonable success. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.stratoflights.com/en/tutorial/weather-balloon-tools/predicting-the-flight-path/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stratoflights.com">[Stratoflights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stratoflights.com</span><span class="citation-popover-snippet">Predicting the Weather Balloon flight pathThis tool will help you to predict the estimated flight path of your high altitude...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://sondehub.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sondehub.org">[SondeHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sondehub.org</span><span class="citation-popover-snippet">SondeHub TrackerLive tracking of radiosonde flights. Data via SondeHub v2. Includes weather overlay, predictions, and access to h...</span></span></span>
+A practical example comes from weather-balloon and radiosonde tracking. Thousands of balloon flights are routinely predicted and reconstructed using trajectory software because wind fields largely determine their movement. Balloon-recovery communities and meteorological agencies use these methods to estimate landing zones and flight paths with reasonable success.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.stratoflights.com/en/tutorial/weather-balloon-tools/predicting-the-flight-path/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stratoflights.com">[Stratoflights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stratoflights.com</span><span class="citation-popover-snippet">Predicting the Weather Balloon flight pathThis tool will help you to predict the estimated flight path of your high altitude...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://sondehub.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sondehub.org">[SondeHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sondehub.org</span><span class="citation-popover-snippet">SondeHub TrackerLive tracking of radiosonde flights. Data via SondeHub v2. Includes weather overlay, predictions, and access to h...</span></span></span>
 
 ### What a trajectory model can and cannot prove
 
-A trajectory model can demonstrate that a reported movement is physically compatible with known atmospheric conditions. It can also identify whether a claimed route would require winds that did not exist at plausible altitudes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9864114/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by H Hou · 2023 · Cited by 8 — HYSPLIT calculates forward and backward trajectories of particles based on wind speed, wind direction...</span></span></span>
+A trajectory model can demonstrate that a reported movement is physically compatible with known atmospheric conditions. It can also identify whether a claimed route would require winds that did not exist at plausible altitudes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9864114/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by H Hou · 2023 · Cited by 8 — HYSPLIT calculates forward and backward trajectories of particles based on wind speed, wind direction...</span></span></span>
 
 However, the model cannot establish:
 
@@ -307,12 +307,12 @@ However, the model cannot establish:
 
 </div>
 
-A close match between modelled and observed tracks should therefore be treated as supporting evidence rather than conclusive identification. Conversely, a mismatch is not necessarily fatal to the balloon hypothesis if the starting assumptions remain uncertain. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.arl.noaa.gov/hysplit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arl.noaa.gov">[Air Resources Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arl.noaa.gov</span><span class="citation-popover-title">Air Resources Laboratory HYSPLIT</span><span class="citation-popover-snippet">Air Resources LaboratoryHYSPLIT - Air Resources LaboratoryHYSPLIT models simulate the dispersion and trajectory of substances transported...</span></span></span>
+A close match between modelled and observed tracks should therefore be treated as supporting evidence rather than conclusive identification. Conversely, a mismatch is not necessarily fatal to the balloon hypothesis if the starting assumptions remain uncertain.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.arl.noaa.gov/hysplit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arl.noaa.gov">[Air Resources Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arl.noaa.gov</span><span class="citation-popover-title">Air Resources Laboratory HYSPLIT</span><span class="citation-popover-snippet">Air Resources LaboratoryHYSPLIT - Air Resources LaboratoryHYSPLIT models simulate the dispersion and trajectory of substances transported...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_wind_data_33671a_trajectory_model_tes_2a4d4e-Illustration-2-dark.svg" | relative_url }}" alt="Trajectories illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_wind_data_33671a_trajectory_model_tes_2a4d4e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_wind_data_33671a_trajectory_model_tes_2a4d4e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Start point, time and altitude choices
 
-The most difficult part of trajectory testing is often selecting the starting conditions. Small changes in launch time or altitude can produce substantially different paths because atmospheric winds vary with height and evolve over time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://data.nasa.gov/dataset/wind-profile-data-radiosonde-fife-bca10" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: data.nasa.gov">[NASA Open Data Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">data.nasa.gov</span><span class="citation-popover-snippet">NASA Open Data PortalWind Profile Data: Radiosonde (FIFE) - Dataset1 Apr 2025 — The wind profile data described in this document were der...</span></span></span>
+The most difficult part of trajectory testing is often selecting the starting conditions. Small changes in launch time or altitude can produce substantially different paths because atmospheric winds vary with height and evolve over time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://data.nasa.gov/dataset/wind-profile-data-radiosonde-fife-bca10" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: data.nasa.gov">[NASA Open Data Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">data.nasa.gov</span><span class="citation-popover-snippet">NASA Open Data PortalWind Profile Data: Radiosonde (FIFE) - Dataset1 Apr 2025 — The wind profile data described in this document were der...</span></span></span>
 
 For suspected balloon sightings, investigators commonly explore multiple possibilities:
 
@@ -325,9 +325,9 @@ For suspected balloon sightings, investigators commonly explore multiple possibi
 
 </div>
 
-This matters because a drifting object may pass through several wind layers during a single observation. A balloon released near the ground might initially travel east, then curve north after rising into a different air current. Witnesses sometimes interpret such changes as controlled manoeuvres even when they are consistent with atmospheric transport. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/askscience/comments/10zoxa0/how_is_the_spy_balloon_steerable/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">How is the spy balloon steerable?</span><span class="citation-popover-snippet">r/askscienceFebruary 11, 2023 — Balloons are “steerable” by changing altitude to find winds in a different direction. Altitude change is...</span><span class="citation-popover-meta">Published: February 11, 2023</span></span></span>
+This matters because a drifting object may pass through several wind layers during a single observation. A balloon released near the ground might initially travel east, then curve north after rising into a different air current. Witnesses sometimes interpret such changes as controlled manoeuvres even when they are consistent with atmospheric transport.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/askscience/comments/10zoxa0/how_is_the_spy_balloon_steerable/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">How is the spy balloon steerable?</span><span class="citation-popover-snippet">r/askscienceFebruary 11, 2023 — Balloons are “steerable” by changing altitude to find winds in a different direction. Altitude change is...</span><span class="citation-popover-meta">Published: February 11, 2023</span></span></span>
 
-Altitude assumptions are especially important. NOAA's trajectory tools include options to test paths from multiple starting heights because atmospheric transport can differ dramatically between layers separated by only a few hundred metres. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.arl.noaa.gov/hysplit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arl.noaa.gov">[Air Resources Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arl.noaa.gov</span><span class="citation-popover-title">Air Resources Laboratory HYSPLIT</span><span class="citation-popover-snippet">Air Resources LaboratoryHYSPLIT - Air Resources LaboratoryHYSPLIT models simulate the dispersion and trajectory of substances transported...</span></span></span>
+Altitude assumptions are especially important. NOAA's trajectory tools include options to test paths from multiple starting heights because atmospheric transport can differ dramatically between layers separated by only a few hundred metres.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.arl.noaa.gov/hysplit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arl.noaa.gov">[Air Resources Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arl.noaa.gov</span><span class="citation-popover-title">Air Resources Laboratory HYSPLIT</span><span class="citation-popover-snippet">Air Resources LaboratoryHYSPLIT - Air Resources LaboratoryHYSPLIT models simulate the dispersion and trajectory of substances transported...</span></span></span>
 
 A strong analysis therefore avoids selecting a single preferred altitude and instead examines a [range]({{ 'range/' | relative_url }}) of realistic heights that fit the reported object.
 
@@ -335,9 +335,9 @@ A strong analysis therefore avoids selecting a single preferred altitude and ins
 
 ## Why ensemble paths matter for uncertainty
 
-One of the most common mistakes in UFO investigations is treating a single trajectory line as if it were an exact reconstruction. Atmospheric scientists generally avoid this approach because every trajectory contains uncertainty. Weather observations are incomplete, models have finite resolution and the object's true starting conditions may be unknown. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.arl.noaa.gov/hysplit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arl.noaa.gov">[Air Resources Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arl.noaa.gov</span><span class="citation-popover-title">Air Resources Laboratory HYSPLIT</span><span class="citation-popover-snippet">Air Resources LaboratoryHYSPLIT - Air Resources LaboratoryHYSPLIT models simulate the dispersion and trajectory of substances transported...</span></span></span>
+One of the most common mistakes in UFO investigations is treating a single trajectory line as if it were an exact reconstruction. Atmospheric scientists generally avoid this approach because every trajectory contains uncertainty. Weather observations are incomplete, models have finite resolution and the object's true starting conditions may be unknown.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.arl.noaa.gov/hysplit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arl.noaa.gov">[Air Resources Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arl.noaa.gov</span><span class="citation-popover-title">Air Resources Laboratory HYSPLIT</span><span class="citation-popover-snippet">Air Resources LaboratoryHYSPLIT - Air Resources LaboratoryHYSPLIT models simulate the dispersion and trajectory of substances transported...</span></span></span>
 
-For that reason, many trajectory systems provide ensemble calculations. Instead of producing one path, they generate multiple trajectories by slightly altering the starting position, altitude or meteorological inputs. NOAA's HYSPLIT ensemble option, for example, automatically computes numerous nearby trajectories to show how sensitive the result is to small changes in assumptions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ready.noaa.gov/READY_balloon.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ready.noaa.gov">[ready.noaa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ready.noaa.gov</span><span class="citation-popover-title">READ Y</span><span class="citation-popover-snippet">Balloon Flight Forecasting ToolsMay 12, 2025 — HYSPLIT Trajectory Optimization. This program developed at ARL (Draxler, 1996) can be used...</span><span class="citation-popover-meta">Published: May 12, 2025</span></span></span>
+For that reason, many trajectory systems provide ensemble calculations. Instead of producing one path, they generate multiple trajectories by slightly altering the starting position, altitude or meteorological inputs. NOAA's HYSPLIT ensemble option, for example, automatically computes numerous nearby trajectories to show how sensitive the result is to small changes in assumptions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ready.noaa.gov/READY_balloon.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ready.noaa.gov">[ready.noaa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ready.noaa.gov</span><span class="citation-popover-title">READ Y</span><span class="citation-popover-snippet">Balloon Flight Forecasting ToolsMay 12, 2025 — HYSPLIT Trajectory Optimization. This program developed at ARL (Draxler, 1996) can be used...</span><span class="citation-popover-meta">Published: May 12, 2025</span></span></span>
 
 The difference between a single trajectory and an ensemble can be crucial:
 
@@ -349,7 +349,7 @@ The difference between a single trajectory and an ensemble can be crucial:
 
 </div>
 
-For UFO analysis, the most persuasive result is often not a perfect overlap but a situation where the reported path falls within a realistic envelope of ensemble solutions. That demonstrates compatibility with known winds while honestly acknowledging uncertainty. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.arl.noaa.gov/hysplit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arl.noaa.gov">[Air Resources Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arl.noaa.gov</span><span class="citation-popover-title">Air Resources Laboratory HYSPLIT</span><span class="citation-popover-snippet">Air Resources LaboratoryHYSPLIT - Air Resources LaboratoryHYSPLIT models simulate the dispersion and trajectory of substances transported...</span></span></span>
+For UFO analysis, the most persuasive result is often not a perfect overlap but a situation where the reported path falls within a realistic envelope of ensemble solutions. That demonstrates compatibility with known winds while honestly acknowledging uncertainty.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.arl.noaa.gov/hysplit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arl.noaa.gov">[Air Resources Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arl.noaa.gov</span><span class="citation-popover-title">Air Resources Laboratory HYSPLIT</span><span class="citation-popover-snippet">Air Resources LaboratoryHYSPLIT - Air Resources LaboratoryHYSPLIT models simulate the dispersion and trajectory of substances transported...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_wind_data_33671a_trajectory_model_tes_2a4d4e-Illustration-3-dark.svg" | relative_url }}" alt="Trajectories illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_wind_data_33671a_trajectory_model_tes_2a4d4e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_wind_data_33671a_trajectory_model_tes_2a4d4e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When trajectory matches become meaningful
@@ -365,203 +365,203 @@ A trajectory result becomes more informative when independent evidence points in
 
 </div>
 
-Trajectory modelling is strongest when it forms part of a larger evidential picture rather than standing alone. A model that places a potential balloon directly along the reported route at the correct time is far more persuasive when supported by known launch activity or documented atmospheric balloon operations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sondehub.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sondehub.org">[SondeHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sondehub.org</span><span class="citation-popover-snippet">SondeHub TrackerLive tracking of radiosonde flights. Data via SondeHub v2. Includes weather overlay, predictions, and access to h...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://radiosondy.info/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: radiosondy.info">[2SQ6KXY Radiosonde Tracker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">radiosondy.info</span><span class="citation-popover-snippet">SQ6KXY Radiosonde Tracker DatabaseGet Data. Radiosondes of last 48 hours: Show Table. Show Map. Last Status Changes: Number. Type. Launch...</span></span></span>
+Trajectory modelling is strongest when it forms part of a larger evidential picture rather than standing alone. A model that places a potential balloon directly along the reported route at the correct time is far more persuasive when supported by known launch activity or documented atmospheric balloon operations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sondehub.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sondehub.org">[SondeHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sondehub.org</span><span class="citation-popover-snippet">SondeHub TrackerLive tracking of radiosonde flights. Data via SondeHub v2. Includes weather overlay, predictions, and access to h...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://radiosondy.info/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: radiosondy.info">[2SQ6KXY Radiosonde Tracker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">radiosondy.info</span><span class="citation-popover-snippet">SQ6KXY Radiosonde Tracker DatabaseGet Data. Radiosondes of last 48 hours: Show Table. Show Map. Last Status Changes: Number. Type. Launch...</span></span></span>
 
 ## The practical value of trajectory testing
 
 Within investigations of UFO reports, trajectory modelling provides a way to move beyond intuition. Witnesses often estimate motion against a background of unknown distance, uncertain altitude and changing perspective. Wind-based modelling introduces an objective test: could a free-floating object have followed a similar route under the atmospheric conditions that actually existed?
 
-The answer is rarely absolute. Yet when multiple trajectory runs, realistic altitude assumptions and ensemble analyses all point toward the same drifting path, the balloon explanation becomes substantially stronger than a simple visual guess. Equally important, when plausible trajectories repeatedly fail to match the reported movement, investigators gain a clearer understanding of where the balloon hypothesis may fall short. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.arl.noaa.gov/hysplit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arl.noaa.gov">[Air Resources Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arl.noaa.gov</span><span class="citation-popover-title">Air Resources Laboratory HYSPLIT</span><span class="citation-popover-snippet">Air Resources LaboratoryHYSPLIT - Air Resources LaboratoryHYSPLIT models simulate the dispersion and trajectory of substances transported...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.arl.noaa.gov/hysplit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arl.noaa.gov">[Air Resources Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arl.noaa.gov</span><span class="citation-popover-title">Air Resources Laboratory HYSPLIT</span><span class="citation-popover-snippet">Air Resources LaboratoryHYSPLIT - Air Resources LaboratoryHYSPLIT models simulate the dispersion and trajectory of substances transported...</span></span></span>
+The answer is rarely absolute. Yet when multiple trajectory runs, realistic altitude assumptions and ensemble analyses all point toward the same drifting path, the balloon explanation becomes substantially stronger than a simple visual guess. Equally important, when plausible trajectories repeatedly fail to match the reported movement, investigators gain a clearer understanding of where the balloon hypothesis may fall short.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.arl.noaa.gov/hysplit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arl.noaa.gov">[Air Resources Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arl.noaa.gov</span><span class="citation-popover-title">Air Resources Laboratory HYSPLIT</span><span class="citation-popover-snippet">Air Resources LaboratoryHYSPLIT - Air Resources LaboratoryHYSPLIT models simulate the dispersion and trajectory of substances transported...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.arl.noaa.gov/hysplit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arl.noaa.gov">[Air Resources Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arl.noaa.gov</span><span class="citation-popover-title">Air Resources Laboratory HYSPLIT</span><span class="citation-popover-snippet">Air Resources LaboratoryHYSPLIT - Air Resources LaboratoryHYSPLIT models simulate the dispersion and trajectory of substances transported...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can a model trace the UFO&#x27;s drift?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can a model trace the UFO&#x27;s drift?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
-        </h4>
-        <p class="fr-book-author">By Nate Silver</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
+</h4>
+<p class="fr-book-author">By Nate Silver</p>
         
-        <p class="fr-book-desc">Useful for understanding modelling uncertainty, probability and limits of inference.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding modelling uncertainty, probability and limits of inference.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Connects model-based drift testing to the broader process of UFO case evaluation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects model-based drift testing to the broader process of UFO case evaluation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Lie with Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2oZGEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Lie with Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Lie with Statistics">How to Lie with Statistics</a>
-        </h4>
-        <p class="fr-book-author">By Darrell Huff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Lie with Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2oZGEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Lie with Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Lie with Statistics">How to Lie with Statistics</a>
+</h4>
+<p class="fr-book-author">By Darrell Huff</p>
         
-        <p class="fr-book-desc">Reinforces caution about overclaiming from uncertain model outputs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Reinforces caution about overclaiming from uncertain model outputs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience, A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience, A Scientific Inquiry">The UFO Experience, A Scientific Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience, A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience, A Scientific Inquiry">The UFO Experience, A Scientific Inquiry</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">First published 1972.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1972.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Lie with Statistics</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Lie with Statistics</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-model-trace-the-ufo-s-drift-wind-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind chart poster" data-ebay-reference="can-a-model-trace-the-ufo-s-drift-wind-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wind Surfing Water Sports Surfer Extreme 3d View Wall Sticker Poster Decal A358"><img src="https://i.ebayimg.com/images/g/WfsAAOSwUlJh-YyE/s-l225.jpg" alt="Listing image for Wind Surfing Water Sports Surfer Extreme 3d View Wall Sticker Poster Decal A358" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-model-trace-the-ufo-s-drift-wind-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind chart poster" data-ebay-reference="can-a-model-trace-the-ufo-s-drift-wind-chart-poster" target="_blank" rel="sponsored noopener noreferrer">Wind Surfing Water Sports Surfer Extreme 3d View Wall Sticker Poster Decal A358</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-model-trace-the-ufo-s-drift-wind-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind chart poster" data-ebay-reference="can-a-model-trace-the-ufo-s-drift-wind-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for wind chart poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: wind chart poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-model-trace-the-ufo-s-drift-wind-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind chart poster" data-ebay-reference="can-a-model-trace-the-ufo-s-drift-wind-chart-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-model-trace-the-ufo-s-drift-wind-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind chart poster" data-ebay-reference="can-a-model-trace-the-ufo-s-drift-wind-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wind Surfing Water Sports Surfer Extreme 3d View Wall Sticker Poster Decal A358"><img src="https://i.ebayimg.com/images/g/WfsAAOSwUlJh-YyE/s-l225.jpg" alt="Listing image for Wind Surfing Water Sports Surfer Extreme 3d View Wall Sticker Poster Decal A358" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-model-trace-the-ufo-s-drift-wind-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind chart poster" data-ebay-reference="can-a-model-trace-the-ufo-s-drift-wind-chart-poster" target="_blank" rel="sponsored noopener noreferrer">Wind Surfing Water Sports Surfer Extreme 3d View Wall Sticker Poster Decal A358</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-model-trace-the-ufo-s-drift-wind-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind chart poster" data-ebay-reference="can-a-model-trace-the-ufo-s-drift-wind-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for wind chart poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: wind chart poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-model-trace-the-ufo-s-drift-wind-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind chart poster" data-ebay-reference="can-a-model-trace-the-ufo-s-drift-wind-chart-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-model-trace-the-ufo-s-drift-wind-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind chart poster" data-ebay-reference="can-a-model-trace-the-ufo-s-drift-wind-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Poster Beaufort Wind Force Scale Educational Classroom Chart"><img src="https://i.ebayimg.com/images/g/vQsAAOSw-BRn12nv/s-l225.jpg" alt="Listing image for Poster Beaufort Wind Force Scale Educational Classroom Chart" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-model-trace-the-ufo-s-drift-wind-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind chart poster" data-ebay-reference="can-a-model-trace-the-ufo-s-drift-wind-chart-poster" target="_blank" rel="sponsored noopener noreferrer">Poster Beaufort Wind Force Scale Educational Classroom Chart</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-model-trace-the-ufo-s-drift-wind-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind chart poster" data-ebay-reference="can-a-model-trace-the-ufo-s-drift-wind-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for wind chart poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: wind chart poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-model-trace-the-ufo-s-drift-wind-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind chart poster" data-ebay-reference="can-a-model-trace-the-ufo-s-drift-wind-chart-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-model-trace-the-ufo-s-drift-wind-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind chart poster" data-ebay-reference="can-a-model-trace-the-ufo-s-drift-wind-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Poster Beaufort Wind Force Scale Educational Classroom Chart"><img src="https://i.ebayimg.com/images/g/vQsAAOSw-BRn12nv/s-l225.jpg" alt="Listing image for Poster Beaufort Wind Force Scale Educational Classroom Chart" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-model-trace-the-ufo-s-drift-wind-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind chart poster" data-ebay-reference="can-a-model-trace-the-ufo-s-drift-wind-chart-poster" target="_blank" rel="sponsored noopener noreferrer">Poster Beaufort Wind Force Scale Educational Classroom Chart</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-model-trace-the-ufo-s-drift-wind-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind chart poster" data-ebay-reference="can-a-model-trace-the-ufo-s-drift-wind-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for wind chart poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: wind chart poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-model-trace-the-ufo-s-drift-wind-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind chart poster" data-ebay-reference="can-a-model-trace-the-ufo-s-drift-wind-chart-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-model-trace-the-ufo-s-drift-wind-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind chart poster" data-ebay-reference="can-a-model-trace-the-ufo-s-drift-wind-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Official Zelda Wind Waker Sea Chart Poster Map Nintendo GameCube Era 29x21"><img src="https://i.ebayimg.com/images/g/7c0AAeSwb-JqFloa/s-l225.jpg" alt="Listing image for Official Zelda Wind Waker Sea Chart Poster Map Nintendo GameCube Era 29x21" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-model-trace-the-ufo-s-drift-wind-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind chart poster" data-ebay-reference="can-a-model-trace-the-ufo-s-drift-wind-chart-poster" target="_blank" rel="sponsored noopener noreferrer">Official Zelda Wind Waker Sea Chart Poster Map Nintendo GameCube Era 29x21</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-model-trace-the-ufo-s-drift-wind-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind chart poster" data-ebay-reference="can-a-model-trace-the-ufo-s-drift-wind-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for wind chart poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: wind chart poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-model-trace-the-ufo-s-drift-wind-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind chart poster" data-ebay-reference="can-a-model-trace-the-ufo-s-drift-wind-chart-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-model-trace-the-ufo-s-drift-wind-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind chart poster" data-ebay-reference="can-a-model-trace-the-ufo-s-drift-wind-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Official Zelda Wind Waker Sea Chart Poster Map Nintendo GameCube Era 29x21"><img src="https://i.ebayimg.com/images/g/7c0AAeSwb-JqFloa/s-l225.jpg" alt="Listing image for Official Zelda Wind Waker Sea Chart Poster Map Nintendo GameCube Era 29x21" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-model-trace-the-ufo-s-drift-wind-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind chart poster" data-ebay-reference="can-a-model-trace-the-ufo-s-drift-wind-chart-poster" target="_blank" rel="sponsored noopener noreferrer">Official Zelda Wind Waker Sea Chart Poster Map Nintendo GameCube Era 29x21</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-model-trace-the-ufo-s-drift-wind-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind chart poster" data-ebay-reference="can-a-model-trace-the-ufo-s-drift-wind-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for wind chart poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: wind chart poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-model-trace-the-ufo-s-drift-wind-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind chart poster" data-ebay-reference="can-a-model-trace-the-ufo-s-drift-wind-chart-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-model-trace-the-ufo-s-drift-wind-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind chart poster" data-ebay-reference="can-a-model-trace-the-ufo-s-drift-wind-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Meterology Mural Wall Chart Weather Science Wind Monsoon Air Masses"><img src="https://i.ebayimg.com/images/g/r3AAAeSwZP5pbf9O/s-l225.jpg" alt="Listing image for Meterology Mural Wall Chart Weather Science Wind Monsoon Air Masses" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-model-trace-the-ufo-s-drift-wind-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind chart poster" data-ebay-reference="can-a-model-trace-the-ufo-s-drift-wind-chart-poster" target="_blank" rel="sponsored noopener noreferrer">Meterology Mural Wall Chart Weather Science Wind Monsoon Air Masses</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-model-trace-the-ufo-s-drift-wind-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind chart poster" data-ebay-reference="can-a-model-trace-the-ufo-s-drift-wind-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for wind chart poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: wind chart poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-model-trace-the-ufo-s-drift-wind-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind chart poster" data-ebay-reference="can-a-model-trace-the-ufo-s-drift-wind-chart-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-model-trace-the-ufo-s-drift-wind-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind chart poster" data-ebay-reference="can-a-model-trace-the-ufo-s-drift-wind-chart-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-model-trace-the-ufo-s-drift-wind-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind chart poster" data-ebay-reference="can-a-model-trace-the-ufo-s-drift-wind-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Meterology Mural Wall Chart Weather Science Wind Monsoon Air Masses"><img src="https://i.ebayimg.com/images/g/r3AAAeSwZP5pbf9O/s-l225.jpg" alt="Listing image for Meterology Mural Wall Chart Weather Science Wind Monsoon Air Masses" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-model-trace-the-ufo-s-drift-wind-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind chart poster" data-ebay-reference="can-a-model-trace-the-ufo-s-drift-wind-chart-poster" target="_blank" rel="sponsored noopener noreferrer">Meterology Mural Wall Chart Weather Science Wind Monsoon Air Masses</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-model-trace-the-ufo-s-drift-wind-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind chart poster" data-ebay-reference="can-a-model-trace-the-ufo-s-drift-wind-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for wind chart poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: wind chart poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-model-trace-the-ufo-s-drift-wind-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind chart poster" data-ebay-reference="can-a-model-trace-the-ufo-s-drift-wind-chart-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-model-trace-the-ufo-s-drift-wind-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind chart poster" data-ebay-reference="can-a-model-trace-the-ufo-s-drift-wind-chart-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -577,7 +577,7 @@ The answer is rarely absolute. Yet when multiple trajectory runs, realistic alti
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -597,7 +597,7 @@ The answer is rarely absolute. Yet when multiple trajectory runs, realistic alti
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -629,7 +629,7 @@ The answer is rarely absolute. Yet when multiple trajectory runs, realistic alti
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -681,7 +681,7 @@ The answer is rarely absolute. Yet when multiple trajectory runs, realistic alti
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -726,7 +726,7 @@ The answer is rarely absolute. Yet when multiple trajectory runs, realistic alti
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -767,224 +767,224 @@ The answer is rarely absolute. Yet when multiple trajectory runs, realistic alti
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ready.noaa.gov  
-   Link: <a href="https://www.ready.noaa.gov/hypub-bin/trajtype.pl" target="_blank" rel="noopener noreferrer nofollow">https://www.ready.noaa.gov/hypub-bin/trajtype.pl</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NOAA HYSPLIT Trajectory ModelEach member of the trajectory ensemble is calculated by offsetting the meteorological data by a fixed grid f...</p></details>
+   Link:<a href="https://www.ready.noaa.gov/hypub-bin/trajtype.pl" target="_blank" rel="noopener noreferrer nofollow">https://www.ready.noaa.gov/hypub-bin/trajtype.pl</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NOAA HYSPLIT Trajectory ModelEach member of the trajectory ensemble is calculated by offsetting the meteorological data by a fixed grid f...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arl.noaa.gov  
    Title: Air Resources Laboratory HYSPLIT  
-   Link: <a href="https://www.arl.noaa.gov/hysplit/" target="_blank" rel="noopener noreferrer nofollow">https://www.arl.noaa.gov/hysplit/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Resources LaboratoryHYSPLIT - Air Resources LaboratoryHYSPLIT models simulate the dispersion and trajectory of substances transported...</p></details>
+   Link:<a href="https://www.arl.noaa.gov/hysplit/" target="_blank" rel="noopener noreferrer nofollow">https://www.arl.noaa.gov/hysplit/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Resources LaboratoryHYSPLIT - Air Resources LaboratoryHYSPLIT models simulate the dispersion and trajectory of substances transported...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arl.noaa.gov  
    Title: Air Resources Laboratory HYSPLIT User's Guide  
-   Link: <a href="https://www.arl.noaa.gov/documents/reports/hysplit_user_guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.arl.noaa.gov/documents/reports/hysplit_user_guide.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Resources LaboratoryHYSPLIT User&#x27;s Guide - Air Resources Laboratoryby R Draxler · Cited by 931 — The HYsplit (HYbrid Single-Particle...</p></details>
+   Link:<a href="https://www.arl.noaa.gov/documents/reports/hysplit_user_guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.arl.noaa.gov/documents/reports/hysplit_user_guide.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Resources LaboratoryHYSPLIT User&#x27;s Guide - Air Resources Laboratoryby R Draxler · Cited by 931 — The HYsplit (HYbrid Single-Particle...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arl.noaa.gov  
-   Link: <a href="https://www.arl.noaa.gov/research/atmospheric-transport-and-dispersion/atd-programs-ready/" target="_blank" rel="noopener noreferrer nofollow">https://www.arl.noaa.gov/research/atmospheric-transport-and-dispersion/atd-programs-ready/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Resources LaboratoryAtmospheric Transport: HYSPLIT &amp; READYHYSPLIT is a complete system for computing simple air parcel trajectories a...</p></details>
+   Link:<a href="https://www.arl.noaa.gov/research/atmospheric-transport-and-dispersion/atd-programs-ready/" target="_blank" rel="noopener noreferrer nofollow">https://www.arl.noaa.gov/research/atmospheric-transport-and-dispersion/atd-programs-ready/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Resources LaboratoryAtmospheric Transport: HYSPLIT &amp; READYHYSPLIT is a complete system for computing simple air parcel trajectories a...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arl.noaa.gov  
    Title: balloon flight forecasting tools  
-   Link: <a href="https://www.arl.noaa.gov/hysplit/getrun-hysplit/balloon-flight-forecasting-tools/" target="_blank" rel="noopener noreferrer nofollow">https://www.arl.noaa.gov/hysplit/getrun-hysplit/balloon-flight-forecasting-tools/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Resources LaboratoryHYSPLIT Balloon Flight Forecasting ToolThis program developed at ARL (Draxler, 1996) can be used to visualize all...</p></details>
+   Link:<a href="https://www.arl.noaa.gov/hysplit/getrun-hysplit/balloon-flight-forecasting-tools/" target="_blank" rel="noopener noreferrer nofollow">https://www.arl.noaa.gov/hysplit/getrun-hysplit/balloon-flight-forecasting-tools/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Resources LaboratoryHYSPLIT Balloon Flight Forecasting ToolThis program developed at ARL (Draxler, 1996) can be used to visualize all...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: stratoflights.com  
-   Link: <a href="https://www.stratoflights.com/en/tutorial/weather-balloon-tools/predicting-the-flight-path/" target="_blank" rel="noopener noreferrer nofollow">https://www.stratoflights.com/en/tutorial/weather-balloon-tools/predicting-the-flight-path/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Predicting the Weather Balloon flight pathThis tool will help you to predict the estimated flight path of your high altitude...</p></details>
+   Link:<a href="https://www.stratoflights.com/en/tutorial/weather-balloon-tools/predicting-the-flight-path/" target="_blank" rel="noopener noreferrer nofollow">https://www.stratoflights.com/en/tutorial/weather-balloon-tools/predicting-the-flight-path/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Predicting the Weather Balloon flight pathThis tool will help you to predict the estimated flight path of your high altitude...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: sondehub.org  
-   Link: <a href="https://sondehub.org/" target="_blank" rel="noopener noreferrer nofollow">https://sondehub.org/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SondeHub TrackerLive tracking of radiosonde flights. Data via SondeHub v2. Includes weather overlay, predictions, and access to h...</p></details>
+   Link:<a href="https://sondehub.org/" target="_blank" rel="noopener noreferrer nofollow">https://sondehub.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SondeHub TrackerLive tracking of radiosonde flights. Data via SondeHub v2. Includes weather overlay, predictions, and access to h...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: data.nasa.gov  
-   Link: <a href="https://data.nasa.gov/dataset/wind-profile-data-radiosonde-fife-bca10" target="_blank" rel="noopener noreferrer nofollow">https://data.nasa.gov/dataset/wind-profile-data-radiosonde-fife-bca10</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Open Data PortalWind Profile Data: Radiosonde (FIFE) - Dataset1 Apr 2025 — The wind profile data described in this document were der...</p></details>
+   Link:<a href="https://data.nasa.gov/dataset/wind-profile-data-radiosonde-fife-bca10" target="_blank" rel="noopener noreferrer nofollow">https://data.nasa.gov/dataset/wind-profile-data-radiosonde-fife-bca10</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Open Data PortalWind Profile Data: Radiosonde (FIFE) - Dataset1 Apr 2025 — The wind profile data described in this document were der...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arl.noaa.gov  
    Title: Air Resources Laboratory HYSPLIT  
-   Link: <a href="https://www.arl.noaa.gov/documents/workshop/NAQC2007/HTML_Docs/trajerro.html" target="_blank" rel="noopener noreferrer nofollow">https://www.arl.noaa.gov/documents/workshop/NAQC2007/HTML_Docs/trajerro.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Resources LaboratoryHYSPLIT - Trajectory ErrorThe total error is composed of four error components: physical error due to the inadequ...</p></details>
+   Link:<a href="https://www.arl.noaa.gov/documents/workshop/NAQC2007/HTML_Docs/trajerro.html" target="_blank" rel="noopener noreferrer nofollow">https://www.arl.noaa.gov/documents/workshop/NAQC2007/HTML_Docs/trajerro.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Resources LaboratoryHYSPLIT - Trajectory ErrorThe total error is composed of four error components: physical error due to the inadequ...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: arl.noaa.gov  
    Title: Air Resources Laboratory HYSPLIT  
-   Link: <a href="https://www.arl.noaa.gov/documents/workshop/NAQC2007/HTML_Docs/trajmult.html" target="_blank" rel="noopener noreferrer nofollow">https://www.arl.noaa.gov/documents/workshop/NAQC2007/HTML_Docs/trajmult.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Multiple TrajectoriesOne way to reduce those uncertainties would be to compute multiple trajectories, in height, time, and space. HYSPLIT...</p></details>
+   Link:<a href="https://www.arl.noaa.gov/documents/workshop/NAQC2007/HTML_Docs/trajmult.html" target="_blank" rel="noopener noreferrer nofollow">https://www.arl.noaa.gov/documents/workshop/NAQC2007/HTML_Docs/trajmult.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Multiple TrajectoriesOne way to reduce those uncertainties would be to compute multiple trajectories, in height, time, and space. HYSPLIT...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
    Title: How is the spy balloon steerable?  
-   Link: <a href="https://www.reddit.com/r/askscience/comments/10zoxa0/how_is_the_spy_balloon_steerable/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askscience/comments/10zoxa0/how_is_the_spy_balloon_steerable/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>r/askscienceFebruary 11, 2023 — Balloons are “steerable” by changing altitude to find winds in a different direction. Altitude change is...</p></details>
+   Link:<a href="https://www.reddit.com/r/askscience/comments/10zoxa0/how_is_the_spy_balloon_steerable/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askscience/comments/10zoxa0/how_is_the_spy_balloon_steerable/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>r/askscienceFebruary 11, 2023 — Balloons are “steerable” by changing altitude to find winds in a different direction. Altitude change is...</p></details>
    Published: February 11, 2023  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: aoml.noaa.gov  
    Title: upper air observations  
-   Link: <a href="https://www.aoml.noaa.gov/upper-air-observations/" target="_blank" rel="noopener noreferrer nofollow">https://www.aoml.noaa.gov/upper-air-observations/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Observations: How Weather Balloons Improve...1 Sept 2017 — Weather balloons, also known as radiosondes, provide detailed and reliabl...</p></details>
+   Link:<a href="https://www.aoml.noaa.gov/upper-air-observations/" target="_blank" rel="noopener noreferrer nofollow">https://www.aoml.noaa.gov/upper-air-observations/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Observations: How Weather Balloons Improve...1 Sept 2017 — Weather balloons, also known as radiosondes, provide detailed and reliabl...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ready.noaa.gov  
    Title: READ Y  
-   Link: <a href="https://www.ready.noaa.gov/READY_balloon.php" target="_blank" rel="noopener noreferrer nofollow">https://www.ready.noaa.gov/READY_balloon.php</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Balloon Flight Forecasting ToolsMay 12, 2025 — HYSPLIT Trajectory Optimization. This program developed at ARL (Draxler, 1996) can be used...</p></details>
+   Link:<a href="https://www.ready.noaa.gov/READY_balloon.php" target="_blank" rel="noopener noreferrer nofollow">https://www.ready.noaa.gov/READY_balloon.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Balloon Flight Forecasting ToolsMay 12, 2025 — HYSPLIT Trajectory Optimization. This program developed at ARL (Draxler, 1996) can be used...</p></details>
    Published: May 12, 2025  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: noaa.gov  
-   Link: <a href="https://www.noaa.gov/jetstream/upperair/radiosondes" target="_blank" rel="noopener noreferrer nofollow">https://www.noaa.gov/jetstream/upperair/radiosondes</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Oceanic and Atmospheric...16 Sept 2025 — The radiosonde is a small instrument package that is suspended below balloon filled wi...</p></details>
+   Link:<a href="https://www.noaa.gov/jetstream/upperair/radiosondes" target="_blank" rel="noopener noreferrer nofollow">https://www.noaa.gov/jetstream/upperair/radiosondes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Oceanic and Atmospheric...16 Sept 2025 — The radiosonde is a small instrument package that is suspended below balloon filled wi...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: noaa.gov  
-   Link: <a href="https://www.noaa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.noaa.gov/</a>  
+   Link:<a href="https://www.noaa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.noaa.gov/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ready.noaa.gov  
    Title: Cheat Sheet 2020  
-   Link: <a href="https://www.ready.noaa.gov/documents/ppts/Cheat_Sheet_2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ready.noaa.gov/documents/ppts/Cheat_Sheet_2020.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cheat Sheet8 Sept 2020 — The HYSPLIT model is a system for computing simple air parcel trajectories, dispersion simulations. includes thi...</p></details>
+   Link:<a href="https://www.ready.noaa.gov/documents/ppts/Cheat_Sheet_2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ready.noaa.gov/documents/ppts/Cheat_Sheet_2020.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cheat Sheet8 Sept 2020 — The HYSPLIT model is a system for computing simple air parcel trajectories, dispersion simulations. includes thi...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ready.noaa.gov  
    Title: HYSPLIT traj  
-   Link: <a href="https://www.ready.noaa.gov/HYSPLIT_traj.php" target="_blank" rel="noopener noreferrer nofollow">https://www.ready.noaa.gov/HYSPLIT_traj.php</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ectory Model - READY - - NOAA12 May 2025 — Trajectory optimization for balloon flights. Users are limited to 500 trajectories per day. HY...</p></details>
+   Link:<a href="https://www.ready.noaa.gov/HYSPLIT_traj.php" target="_blank" rel="noopener noreferrer nofollow">https://www.ready.noaa.gov/HYSPLIT_traj.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ectory Model - READY - - NOAA12 May 2025 — Trajectory optimization for balloon flights. Users are limited to 500 trajectories per day. HY...</p></details>
    Published: May 2025  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: ready.noaa.gov  
-   Link: <a href="https://www.ready.noaa.gov/hypub-bin/trajsrc.pl?trjtype=4" target="_blank" rel="noopener noreferrer nofollow">https://www.ready.noaa.gov/hypub-bin/trajsrc.pl?trjtype=4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>HYSPLIT Trajectory ModelSelect the forecast meteorological data set from the drop-down list. Currently, the NAM, GFS, and HRRR data are a...</p></details>
+   Link:<a href="https://www.ready.noaa.gov/hypub-bin/trajsrc.pl?trjtype=4" target="_blank" rel="noopener noreferrer nofollow">https://www.ready.noaa.gov/hypub-bin/trajsrc.pl?trjtype=4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HYSPLIT Trajectory ModelSelect the forecast meteorological data set from the drop-down list. Currently, the NAM, GFS, and HRRR data are a...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: www-n-bbs.arl.noaa.gov  
-   Link: <a href="https://www-n-bbs.arl.noaa.gov/viewtopic.php?t=2704" target="_blank" rel="noopener noreferrer nofollow">https://www-n-bbs.arl.noaa.gov/viewtopic.php?t=2704</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In this case, is it better to increase the initial height to be 250 m...Read more...</p></details>
+   Link:<a href="https://www-n-bbs.arl.noaa.gov/viewtopic.php?t=2704" target="_blank" rel="noopener noreferrer nofollow">https://www-n-bbs.arl.noaa.gov/viewtopic.php?t=2704</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In this case, is it better to increase the initial height to be 250 m...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: ready.noaa.gov  
-   Link: <a href="https://www.ready.noaa.gov/HYSPLIT.php" target="_blank" rel="noopener noreferrer nofollow">https://www.ready.noaa.gov/HYSPLIT.php</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Resources Laboratory - HYSPLIT12 May 2025 — The HYSPLIT model can be run interactively on the READY web site or installed on a PC (Mac) o...</p></details>
+   Link:<a href="https://www.ready.noaa.gov/HYSPLIT.php" target="_blank" rel="noopener noreferrer nofollow">https://www.ready.noaa.gov/HYSPLIT.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Resources Laboratory - HYSPLIT12 May 2025 — The HYSPLIT model can be run interactively on the READY web site or installed on a PC (Mac) o...</p></details>
    Published: May 2025  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/</a>  
+   Link:<a href="https://www.weather.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/gjt/education_corner_balloon" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/gjt/education_corner_balloon</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Education Corner weather balloonThe weather balloon remains the best platform for observing temperature, wind, relative humidity, and pre...</p></details>
+   Link:<a href="https://www.weather.gov/gjt/education_corner_balloon" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/gjt/education_corner_balloon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Education Corner weather balloonThe weather balloon remains the best platform for observing temperature, wind, relative humidity, and pre...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/upperair/factsheet" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/upperair/factsheet</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Radiosonde ObservationThe radiosonde is a small, expendable instrument package (weighs 60 to 80 grams) that is suspended below a large ba...</p></details>
+   Link:<a href="https://www.weather.gov/upperair/factsheet" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/upperair/factsheet</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Radiosonde ObservationThe radiosonde is a small, expendable instrument package (weighs 60 to 80 grams) that is suspended below a large ba...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/TheMotte/comments/n5c0r1/a_theory_that_matches_observations_and_recent/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/TheMotte/comments/n5c0r1/a_theory_that_matches_observations_and_recent/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ons via tractor beams would work, as well as the reports from people...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/TheMotte/comments/n5c0r1/a_theory_that_matches_observations_and_recent/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/TheMotte/comments/n5c0r1/a_theory_that_matches_observations_and_recent/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ons via tractor beams would work, as well as the reports from people...Read more...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: journals.ametsoc.org  
-   Link: <a href="https://journals.ametsoc.org/view/journals/bams/96/12/bams-d-14-00110.1.xml" target="_blank" rel="noopener noreferrer nofollow">https://journals.ametsoc.org/view/journals/bams/96/12/bams-d-14-00110.1.xml</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteorological Society JournalsNOAA&#x27;s HYSPLIT Atmospheric Transport and Dispersion...by AF Stein · 2015 · Cited by 6803 — HYSPL...</p></details>
+   Link:<a href="https://journals.ametsoc.org/view/journals/bams/96/12/bams-d-14-00110.1.xml" target="_blank" rel="noopener noreferrer nofollow">https://journals.ametsoc.org/view/journals/bams/96/12/bams-d-14-00110.1.xml</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteorological Society JournalsNOAA&#x27;s HYSPLIT Atmospheric Transport and Dispersion...by AF Stein · 2015 · Cited by 6803 — HYSPL...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: radiosondy.info  
-   Link: <a href="https://radiosondy.info/" target="_blank" rel="noopener noreferrer nofollow">https://radiosondy.info/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SQ6KXY Radiosonde Tracker DatabaseGet Data. Radiosondes of last 48 hours: Show Table. Show Map. Last Status Changes: Number. Type. Launch...</p></details>
+   Link:<a href="https://radiosondy.info/" target="_blank" rel="noopener noreferrer nofollow">https://radiosondy.info/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SQ6KXY Radiosonde Tracker DatabaseGet Data. Radiosondes of last 48 hours: Show Table. Show Map. Last Status Changes: Number. Type. Launch...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: balloonwiki.org  
-   Link: <a href="https://www.balloonwiki.org/en/doku.php/hysplit/start" target="_blank" rel="noopener noreferrer nofollow">https://www.balloonwiki.org/en/doku.php/hysplit/start</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>HYSPLIT [BalloonWiki]8 Feb 2021 — Here you have to select the weather model and the location where the trajectories start. In the example...</p></details>
+   Link:<a href="https://www.balloonwiki.org/en/doku.php/hysplit/start" target="_blank" rel="noopener noreferrer nofollow">https://www.balloonwiki.org/en/doku.php/hysplit/start</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HYSPLIT [BalloonWiki]8 Feb 2021 — Here you have to select the weather model and the location where the trajectories start. In the example...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: Wikipedia  
    Title: Weather balloon  
-   Link: <a href="https://en.wikipedia.org/wiki/Weather_balloon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Weather_balloon</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Weather balloonA weather balloon, also known as a sounding balloon, is a high-altitude balloon (HAB) that carries instruments into the...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Weather_balloon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Weather_balloon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Weather balloonA weather balloon, also known as a sounding balloon, is a high-altitude balloon (HAB) that carries instruments into the...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/HYSPLIT" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/HYSPLIT</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>HYSPLITThe Hybrid Single-Particle Lagrangian Integrated Trajectory model (HYSPLIT) is a computer model that is used to compute air par...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/HYSPLIT" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/HYSPLIT</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HYSPLITThe Hybrid Single-Particle Lagrangian Integrated Trajectory model (HYSPLIT) is a computer model that is used to compute air par...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: mce2.org  
-   Link: <a href="https://mce2.org/wmogurme/images/workshops/ASEAN/day1/saide/HYSPLIT.pdf" target="_blank" rel="noopener noreferrer nofollow">https://mce2.org/wmogurme/images/workshops/ASEAN/day1/saide/HYSPLIT.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Introduction to the HYSPLIT Trajectory ModelData is available globally and regionally over North America. PC HYSPLIT downloads data direc...</p></details>
+   Link:<a href="https://mce2.org/wmogurme/images/workshops/ASEAN/day1/saide/HYSPLIT.pdf" target="_blank" rel="noopener noreferrer nofollow">https://mce2.org/wmogurme/images/workshops/ASEAN/day1/saide/HYSPLIT.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Introduction to the HYSPLIT Trajectory ModelData is available globally and regionally over North America. PC HYSPLIT downloads data direc...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: www2.atmos.umd.edu  
-   Link: <a href="https://www2.atmos.umd.edu/~tcanty/hysplit/today/index.htm" target="_blank" rel="noopener noreferrer nofollow">https://www2.atmos.umd.edu/~tcanty/hysplit/today/index.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Trajectories - UMD - University of MarylandThe figures on this webpage illustrate air parcel trajectories found using the publicly access...</p></details>
+   Link:<a href="https://www2.atmos.umd.edu/~tcanty/hysplit/today/index.htm" target="_blank" rel="noopener noreferrer nofollow">https://www2.atmos.umd.edu/~tcanty/hysplit/today/index.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Trajectories - UMD - University of MarylandThe figures on this webpage illustrate air parcel trajectories found using the publicly access...</p></details>
 
 ### Additional References
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: hurricanescience.org  
-   Link: <a href="https://hurricanescience.org/science/observation/landbased/radiosonde/index.html" target="_blank" rel="noopener noreferrer nofollow">https://hurricanescience.org/science/observation/landbased/radiosonde/index.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Upper-Air Observations: The RadiosondeAs the radiosonde rises at about 300 m/min (about 1,000 ft/min), its sensors make in-situ measureme...</p></details>
+   Link:<a href="https://hurricanescience.org/science/observation/landbased/radiosonde/index.html" target="_blank" rel="noopener noreferrer nofollow">https://hurricanescience.org/science/observation/landbased/radiosonde/index.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Upper-Air Observations: The RadiosondeAs the radiosonde rises at about 300 m/min (about 1,000 ft/min), its sensors make in-situ measureme...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/275223272_Investigation_of_the_Effects_of_Considering_Balloon_Drift_Information_on_Radiosonde_Data_Assimilation_Using_the_Four-Dimensional_Variational_Method" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/275223272_Investigation_of_the_Effects_of_Considering_Balloon_Drift_Information_on_Radiosonde_Data_Assimilation_Using_the_Four-Dimensional_Variational_Method</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigation of the Effects of Considering Balloon Drift...13 Dec 2025 — Effects of balloon drift information (i.e., position and elaps...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/275223272_Investigation_of_the_Effects_of_Considering_Balloon_Drift_Information_on_Radiosonde_Data_Assimilation_Using_the_Four-Dimensional_Variational_Method" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/275223272_Investigation_of_the_Effects_of_Considering_Balloon_Drift_Information_on_Radiosonde_Data_Assimilation_Using_the_Four-Dimensional_Variational_Method</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Investigation of the Effects of Considering Balloon Drift...13 Dec 2025 — Effects of balloon drift information (i.e., position and elaps...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/356315630_Moisture_trajectories_during_heavy_rainfall_events_using_Hybrid_Single-Particle_Lagrangian_Integrated_Trajectory_HYSPLIT_model" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/356315630_Moisture_trajectories_during_heavy_rainfall_events_using_Hybrid_Single-Particle_Lagrangian_Integrated_Trajectory_HYSPLIT_model</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Moisture trajectories during heavy rainfall events using...Journal of Physics: Conference Series 2070 (2021) 012066; HYSPLIT model is o...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/356315630_Moisture_trajectories_during_heavy_rainfall_events_using_Hybrid_Single-Particle_Lagrangian_Integrated_Trajectory_HYSPLIT_model" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/356315630_Moisture_trajectories_during_heavy_rainfall_events_using_Hybrid_Single-Particle_Lagrangian_Integrated_Trajectory_HYSPLIT_model</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Moisture trajectories during heavy rainfall events using...Journal of Physics: Conference Series 2070 (2021) 012066; HYSPLIT model is o...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: news.fsu.edu  
-   Link: <a href="https://news.fsu.edu/news/expert-pitches/2023/02/15/weather-ballons-and-ufos-fsu-professor-offers-historical-perspective-on-aerial-surveillance/" target="_blank" rel="noopener noreferrer nofollow">https://news.fsu.edu/news/expert-pitches/2023/02/15/weather-ballons-and-ufos-fsu-professor-offers-historical-perspective-on-aerial-surveillance/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>balloons and UFOs: FSU professor offers...15 Feb 2023 — The recent incursion of a Chinese spy balloon and other flying objects into Amer...</p></details>
+   Link:<a href="https://news.fsu.edu/news/expert-pitches/2023/02/15/weather-ballons-and-ufos-fsu-professor-offers-historical-perspective-on-aerial-surveillance/" target="_blank" rel="noopener noreferrer nofollow">https://news.fsu.edu/news/expert-pitches/2023/02/15/weather-ballons-and-ufos-fsu-professor-offers-historical-perspective-on-aerial-surveillance/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>balloons and UFOs: FSU professor offers...15 Feb 2023 — The recent incursion of a Chinese spy balloon and other flying objects into Amer...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/story/radiosonde-hunters" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/radiosonde-hunters</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>These devices, released by meteorologists via weather balloons to measure wind, temperature, and humidity, burst and fall back to earth...</p></details>
+   Link:<a href="https://www.wired.com/story/radiosonde-hunters" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/radiosonde-hunters</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These devices, released by meteorologists via weather balloons to measure wind, temperature, and humidity, burst and fall back to earth...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9864114/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9864114/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by H Hou · 2023 · Cited by 8 — HYSPLIT calculates forward and backward trajectories of particles based on wind speed, [wind direction](&amp;#123;&amp;#123; &#x27;wind-direction/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9864114/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9864114/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by H Hou · 2023 · Cited by 8 — HYSPLIT calculates forward and backward trajectories of particles based on wind speed, [wind direction](&amp;#123;&amp;#123; &#x27;wind-direction/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=rtMS7_9yNmM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rtMS7_9yNmM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Run the NOAA HYSPLIT Model onlineHYSPLIT: The Hybrid Single-Particle Lagrangian Integrated Trajectory model (HYSPLIT) is a compute...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=rtMS7_9yNmM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rtMS7_9yNmM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Run the NOAA HYSPLIT Model onlineHYSPLIT: The Hybrid Single-Particle Lagrangian Integrated Trajectory model (HYSPLIT) is a compute...</p></details>
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: instagram.com  
    Title: NOA A (@noaa) • Instagram photos and videos Official feed for the U.S  
-   Link: <a href="https://www.instagram.com/noaa/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/noaa/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Oceanic and Atmospheric Administration. Our mission: Science, Service and Stewardship. Join us on X @noaa. Great news out...Rea...</p></details>
+   Link:<a href="https://www.instagram.com/noaa/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/noaa/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Oceanic and Atmospheric Administration. Our mission: Science, Service and Stewardship. Join us on X @noaa. Great news out...Rea...</p></details>
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/270514931_A_comparison_of_HYSPLIT_backward_trajectories_generated_from_two_GDAS_datasets" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/270514931_A_comparison_of_HYSPLIT_backward_trajectories_generated_from_two_GDAS_datasets</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>widely used to generate backward trajectories in given starting locations.Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/270514931_A_comparison_of_HYSPLIT_backward_trajectories_generated_from_two_GDAS_datasets" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/270514931_A_comparison_of_HYSPLIT_backward_trajectories_generated_from_two_GDAS_datasets</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>widely used to generate backward trajectories in given starting locations.Read more...</p></details>
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: researchgate.net  
    Title: 229043431 Global radiosonde balloon drift statistics  
-   Link: <a href="https://www.researchgate.net/publication/229043431_Global_radiosonde_balloon_drift_statistics" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/229043431_Global_radiosonde_balloon_drift_statistics</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Global radiosonde balloon drift statistics7 Apr 2011 — This study presents a comprehensive global climatology of radiosonde balloon...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/229043431_Global_radiosonde_balloon_drift_statistics" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/229043431_Global_radiosonde_balloon_drift_statistics</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Global radiosonde balloon drift statistics7 Apr 2011 — This study presents a comprehensive global climatology of radiosonde balloon...</p></details>

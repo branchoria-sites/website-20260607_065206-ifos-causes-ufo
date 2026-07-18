@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ifos-causes-of-ufo-3ed238-insects/
 description: Focused pages that expand on Insects.
-date: '2026-06-12'
+date: '2026'
 layout: default
 parent_basename: ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74
 parent_title: Insects
@@ -16,7 +16,7 @@ parent_permalink: /insects/
 
 # Explore Topics in Insects
 
-The following pages expand on the main **[Insects]({{ '/insects/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Insects]({{ '/insects/' | relative_url }})** page and cover its key branches in.
 
 - [False Speed]({{ '/false-speed/' | relative_url }})
 - [Denver Case]({{ '/denver-case/' | relative_url }})

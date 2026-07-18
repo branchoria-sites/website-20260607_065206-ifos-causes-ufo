@@ -268,14 +268,14 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948_project_co
 
 ## Introduction
 
-Project Condign is often described as the United Kingdom's secret UFO study, but that description can be misleading. The central question was not whether every unexplained sighting could be identified. Instead, the study asked whether decades of reports of unidentified aerial phenomena (UAP) in the UK air defence region contained anything of intelligence, defence or security significance. In other words, the Ministry of Defence (MoD) wanted to know whether there was a real phenomenon requiring military attention, whether it represented a threat, and whether it revealed any technology or capability of strategic interest. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/396201-defe-24-2090-1/396201-defe-24-2090-1_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;Project Condign&quot;... REPORT ON UNIDENTIFIED AERIAL PHENOMENA (UAP) IN THE UK AIR DEFENCE REGION ISSUE 1. Th...</span></span></span>
+Project Condign is often described as the United Kingdom's secret UFO study, but that description can be misleading. The central question was not whether every unexplained sighting could be identified. Instead, the study asked whether decades of reports of unidentified aerial phenomena (UAP) in the UK air defence region contained anything of intelligence, defence or security significance. In other words, the Ministry of Defence (MoD) wanted to know whether there was a real phenomenon requiring military attention, whether it represented a threat, and whether it revealed any technology or capability of strategic interest.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/396201-defe-24-2090-1/396201-defe-24-2090-1_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;Project Condign&quot;... REPORT ON UNIDENTIFIED AERIAL PHENOMENA (UAP) IN THE UK AIR DEFENCE REGION ISSUE 1. Th...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948_project_condign_defe_276efb-Illustration-1-dark.svg" | relative_url }}" alt="Condign illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948_project_condign_defe_276efb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948_project_condign_defe_276efb-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-That focus makes Project Condign particularly important within the broader history of UFO investigations. It was not a public-facing catalogue of mysteries. It was an intelligence assessment commissioned inside the defence establishment, aimed at determining whether the accumulated reporting justified continued concern from an air-defence perspective. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/396201-defe-24-2090-1/396201-defe-24-2090-1_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;Project Condign&quot;... REPORT ON UNIDENTIFIED AERIAL PHENOMENA (UAP) IN THE UK AIR DEFENCE REGION ISSUE 1. Th...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://nickpope.net/wpte19/project-condign/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nickpope.net">[2nickpope.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nickpope.net</span><span class="citation-popover-title">project condign</span><span class="citation-popover-snippet">s final report was declassified and released in May 2006 (with certain portions redacted) and Nick Pope was authorized by the MoD to giv...</span><span class="citation-popover-meta">Published: May 2006</span></span></span>
+That focus makes Project Condign particularly important within the broader history of UFO investigations. It was not a public-facing catalogue of mysteries. It was an intelligence assessment commissioned inside the defence establishment, aimed at determining whether the accumulated reporting justified continued concern from an air-defence perspective.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/396201-defe-24-2090-1/396201-defe-24-2090-1_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;Project Condign&quot;... REPORT ON UNIDENTIFIED AERIAL PHENOMENA (UAP) IN THE UK AIR DEFENCE REGION ISSUE 1. Th...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://nickpope.net/wpte19/project-condign/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nickpope.net">[2nickpope.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nickpope.net</span><span class="citation-popover-title">project condign</span><span class="citation-popover-snippet">s final report was declassified and released in May 2006 (with certain portions redacted) and Nick Pope was authorized by the MoD to giv...</span><span class="citation-popover-meta">Published: May 2006</span></span></span>
 
 ## What Project Condign really asked
 
-Project Condign was a Defence Intelligence Staff study conducted between roughly 1997 and 2000 and compiled into a substantial classified report titled *Unidentified Aerial Phenomena in the UK Air Defence Region*. The project drew upon decades of reports held by the MoD and intelligence branches responsible for assessing unusual aerial activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/396201-defe-24-2090-1/396201-defe-24-2090-1_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;Project Condign&quot;... REPORT ON UNIDENTIFIED AERIAL PHENOMENA (UAP) IN THE UK AIR DEFENCE REGION ISSUE 1. Th...</span></span></span> Scribd The key issue was whether recurring reports represented: <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribd.com/document/54557001/Project-Condign-part-0-UAP-in-UK-Air-Defence-Executive-Summary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[scribd.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-title">UK Air Defence UAP Report</span><span class="citation-popover-snippet">Summary &#124; PDFProject Condign was the name given to a top-secret UFO study undertaken by the British Government&#x27;s Defence Intelligence Sta...</span></span></span>
+Project Condign was a Defence Intelligence Staff study conducted between roughly 1997 and 2000 and compiled into a substantial classified report titled *Unidentified Aerial Phenomena in the UK Air Defence Region*. The project drew upon decades of reports held by the MoD and intelligence branches responsible for assessing unusual aerial activity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/396201-defe-24-2090-1/396201-defe-24-2090-1_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;Project Condign&quot;... REPORT ON UNIDENTIFIED AERIAL PHENOMENA (UAP) IN THE UK AIR DEFENCE REGION ISSUE 1. Th...</span></span></span> Scribd The key issue was whether recurring reports represented:<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribd.com/document/54557001/Project-Condign-part-0-UAP-in-UK-Air-Defence-Executive-Summary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[scribd.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-title">UK Air Defence UAP Report</span><span class="citation-popover-snippet">Summary &#124; PDFProject Condign was the name given to a top-secret UFO study undertaken by the British Government&#x27;s Defence Intelligence Sta...</span></span></span>
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -286,23 +286,23 @@ Project Condign was a Defence Intelligence Staff study conducted between roughly
 
 </div>
 
-This distinction matters. Many discussions of UFO files assume that an unresolved case automatically implies an extraordinary explanation. Condign approached the problem differently. Intelligence analysts wanted to know whether the pattern of reports, taken as a whole, pointed to a defence problem. A report could remain unexplained while still failing to demonstrate any hostile capability or strategic threat. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/396201-defe-24-2090-1/396201-defe-24-2090-1_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;Project Condign&quot;... REPORT ON UNIDENTIFIED AERIAL PHENOMENA (UAP) IN THE UK AIR DEFENCE REGION ISSUE 1. Th...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bahaistudies.net/asma/condign_report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bahaistudies.net">[2bahaistudies.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bahaistudies.net</span><span class="citation-popover-snippet">A relational database has been designed to study the pattern...Read more...</span></span></span>
+This distinction matters. Many discussions of UFO files assume that an unresolved case automatically implies an extraordinary explanation. Condign approached the problem differently. Intelligence analysts wanted to know whether the pattern of reports, taken as a whole, pointed to a defence problem. A report could remain unexplained while still failing to demonstrate any hostile capability or strategic threat.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/396201-defe-24-2090-1/396201-defe-24-2090-1_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;Project Condign&quot;... REPORT ON UNIDENTIFIED AERIAL PHENOMENA (UAP) IN THE UK AIR DEFENCE REGION ISSUE 1. Th...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bahaistudies.net/asma/condign_report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bahaistudies.net">[2bahaistudies.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bahaistudies.net</span><span class="citation-popover-snippet">A relational database has been designed to study the pattern...Read more...</span></span></span>
 
-Recently released archival material has reinforced that defence focus. Internal discussions from the late 1990s show intelligence personnel arguing that persistent reports could not simply be ignored because any genuinely unidentified activity in national airspace potentially had security implications. The study was therefore commissioned as a threat-assessment exercise rather than as a search for proof of extraterrestrial visitation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thetimes.com/uk/history/article/mod-ordered-officers-to-find-ufo-technology-secret-files-reveal-hnr62vcn9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thetimes.com">[The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thetimes.com</span><span class="citation-popover-title">The Times Mo D ordered officers to find UFO technology, secret files reveal</span><span class="citation-popover-snippet">Prompted by credible reports—especially from Belgium, where numerous sightings of silent, fast-moving black triangles occurred between 19...</span></span></span>
+Recently released archival material has reinforced that defence focus. Internal discussions from the late 1990s show intelligence personnel arguing that persistent reports could not simply be ignored because any genuinely unidentified activity in national airspace potentially had security implications. The study was therefore commissioned as a threat-assessment exercise rather than as a search for proof of extraterrestrial visitation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thetimes.com/uk/history/article/mod-ordered-officers-to-find-ufo-technology-secret-files-reveal-hnr62vcn9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thetimes.com">[The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thetimes.com</span><span class="citation-popover-title">The Times Mo D ordered officers to find UFO technology, secret files reveal</span><span class="citation-popover-snippet">Prompted by credible reports—especially from Belgium, where numerous sightings of silent, fast-moving black triangles occurred between 19...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EffRg4avK_k" title="U.S. Government Secretly Studies Health Effects of UFO Encounters" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EffRg4avK_k" target="_blank" rel="noopener noreferrer">U.S. Government Secretly Studies Health Effects of UFO Encounters</a></p><p class="youtube-embed-meta">Channel: Wisdom Land &middot; Views: 1.8K &middot; Uploaded: May 2019 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EffRg4avK_k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EffRg4avK_k">Open on YouTube</a></p></div></div></div>
 
 ## Why the study was commissioned
 
-The MoD already possessed decades of UFO reports when Condign began. What changed was the recognition that a large historical dataset could be examined systematically rather than case by case. According to the report, thousands of sightings had accumulated, allowing analysts to look for recurring characteristics and patterns. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bahaistudies.net/asma/condign_report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bahaistudies.net">[bahaistudies.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bahaistudies.net</span><span class="citation-popover-snippet">A relational database has been designed to study the pattern...Read more...</span></span></span>
+The MoD already possessed decades of UFO reports when Condign began. What changed was the recognition that a large historical dataset could be examined systematically rather than case by case. According to the report, thousands of sightings had accumulated, allowing analysts to look for recurring characteristics and patterns.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bahaistudies.net/asma/condign_report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bahaistudies.net">[bahaistudies.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bahaistudies.net</span><span class="citation-popover-snippet">A relational database has been designed to study the pattern...Read more...</span></span></span>
 
 Several factors appear to have motivated the study:
 
-**Air defence responsibility.** Any unidentified object reported in protected airspace naturally attracts military interest, even when the probability of a threat is low. Intelligence organisations are expected to investigate uncertainty rather than assume it away. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thetimes.com/uk/history/article/mod-ordered-officers-to-find-ufo-technology-secret-files-reveal-hnr62vcn9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thetimes.com">[The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thetimes.com</span><span class="citation-popover-title">The Times Mo D ordered officers to find UFO technology, secret files reveal</span><span class="citation-popover-snippet">Prompted by credible reports—especially from Belgium, where numerous sightings of silent, fast-moving black triangles occurred between 19...</span></span></span>
+**Air defence responsibility.** Any unidentified object reported in protected airspace naturally attracts military interest, even when the probability of a threat is low. Intelligence organisations are expected to investigate uncertainty rather than assume it away.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thetimes.com/uk/history/article/mod-ordered-officers-to-find-ufo-technology-secret-files-reveal-hnr62vcn9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thetimes.com">[The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thetimes.com</span><span class="citation-popover-title">The Times Mo D ordered officers to find UFO technology, secret files reveal</span><span class="citation-popover-snippet">Prompted by credible reports—especially from Belgium, where numerous sightings of silent, fast-moving black triangles occurred between 19...</span></span></span>
 
-**International reporting trends.** During the 1990s, well-publicised European cases, including the [Belgian wave]({{ 'belgian-wave/' | relative_url }}) of triangular-object reports, encouraged questions about whether some sightings reflected a genuine but poorly understood phenomenon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thetimes.com/uk/history/article/mod-ordered-officers-to-find-ufo-technology-secret-files-reveal-hnr62vcn9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thetimes.com">[The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thetimes.com</span><span class="citation-popover-title">The Times Mo D ordered officers to find UFO technology, secret files reveal</span><span class="citation-popover-snippet">Prompted by credible reports—especially from Belgium, where numerous sightings of silent, fast-moving black triangles occurred between 19...</span></span></span>
+**International reporting trends.** During the 1990s, well-publicised European cases, including the [Belgian wave]({{ 'belgian-wave/' | relative_url }}) of triangular-object reports, encouraged questions about whether some sightings reflected a genuine but poorly understood phenomenon.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thetimes.com/uk/history/article/mod-ordered-officers-to-find-ufo-technology-secret-files-reveal-hnr62vcn9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thetimes.com">[The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thetimes.com</span><span class="citation-popover-title">The Times Mo D ordered officers to find UFO technology, secret files reveal</span><span class="citation-popover-snippet">Prompted by credible reports—especially from Belgium, where numerous sightings of silent, fast-moving black triangles occurred between 19...</span></span></span>
 
-**Potential technological relevance.** The study explicitly considered whether reported behaviours might reveal scientific principles or technologies of future military value. Intelligence agencies routinely examine anomalous observations for that reason, even when the observations later prove mundane. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/science/2007/feb/22/freedomofinformation.it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Could we have hitched a ride on UFOs?</span><span class="citation-popover-snippet">Science22 Feb 2007 — One of Project Condign&#x27;s conclusions was that UAP events could be put down to poorly understood phenomena called p...</span></span></span>
+**Potential technological relevance.** The study explicitly considered whether reported behaviours might reveal scientific principles or technologies of future military value. Intelligence agencies routinely examine anomalous observations for that reason, even when the observations later prove mundane.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/science/2007/feb/22/freedomofinformation.it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Could we have hitched a ride on UFOs?</span><span class="citation-popover-snippet">Science22 Feb 2007 — One of Project Condign&#x27;s conclusions was that UAP events could be put down to poorly understood phenomena called p...</span></span></span>
 
 Importantly, commissioning a study is not evidence that the MoD believed UFOs were alien spacecraft. It is evidence that defence planners considered the question worth examining because uncertainty itself can be a security concern.
 
@@ -311,7 +311,7 @@ Importantly, commissioning a study is not evidence that the MoD believed UFOs we
 
 One of the most misunderstood aspects of Project Condign is the difference between solving mysteries and assessing threats.
 
-The report did not claim that every sighting had been identified. Instead, it attempted to determine whether the accumulated evidence indicated a hostile or strategically significant presence in UK airspace. Its broad conclusion was that no evidence supported the existence of a conventional military threat behind the reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/396201-defe-24-2090-1/396201-defe-24-2090-1_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;Project Condign&quot;... REPORT ON UNIDENTIFIED AERIAL PHENOMENA (UAP) IN THE UK AIR DEFENCE REGION ISSUE 1. Th...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bahaistudies.net/asma/condign_report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bahaistudies.net">[2bahaistudies.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bahaistudies.net</span><span class="citation-popover-snippet">A relational database has been designed to study the pattern...Read more...</span></span></span>
+The report did not claim that every sighting had been identified. Instead, it attempted to determine whether the accumulated evidence indicated a hostile or strategically significant presence in UK airspace. Its broad conclusion was that no evidence supported the existence of a conventional military threat behind the reports.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/396201-defe-24-2090-1/396201-defe-24-2090-1_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;Project Condign&quot;... REPORT ON UNIDENTIFIED AERIAL PHENOMENA (UAP) IN THE UK AIR DEFENCE REGION ISSUE 1. Th...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bahaistudies.net/asma/condign_report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bahaistudies.net">[2bahaistudies.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bahaistudies.net</span><span class="citation-popover-snippet">A relational database has been designed to study the pattern...Read more...</span></span></span>
 
 That finding is often overlooked because readers focus on the remaining unexplained cases. From an intelligence perspective, however, the crucial question was not whether some reports remained unresolved but whether those reports collectively demonstrated:
 
@@ -324,7 +324,7 @@ That finding is often overlooked because readers focus on the remaining unexplai
 
 </div>
 
-The study found no convincing evidence for such conclusions. At the same time, it acknowledged that witnesses occasionally reported unusual lights, apparent manoeuvres and visual effects that were not easily explained in individual cases. Unexplained did not automatically become threatening. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/396201-defe-24-2090-1/396201-defe-24-2090-1_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;Project Condign&quot;... REPORT ON UNIDENTIFIED AERIAL PHENOMENA (UAP) IN THE UK AIR DEFENCE REGION ISSUE 1. Th...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bahaistudies.net/asma/condign_report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bahaistudies.net">[2bahaistudies.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bahaistudies.net</span><span class="citation-popover-snippet">A relational database has been designed to study the pattern...Read more...</span></span></span>
+The study found no convincing evidence for such conclusions. At the same time, it acknowledged that witnesses occasionally reported unusual lights, apparent manoeuvres and visual effects that were not easily explained in individual cases. Unexplained did not automatically become threatening.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/396201-defe-24-2090-1/396201-defe-24-2090-1_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;Project Condign&quot;... REPORT ON UNIDENTIFIED AERIAL PHENOMENA (UAP) IN THE UK AIR DEFENCE REGION ISSUE 1. Th...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bahaistudies.net/asma/condign_report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bahaistudies.net">[2bahaistudies.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bahaistudies.net</span><span class="citation-popover-snippet">A relational database has been designed to study the pattern...Read more...</span></span></span>
 
 This distinction mirrors a broader lesson from UFO reporting. A large collection of reports can contain many unresolved observations without producing strong evidence for a single extraordinary explanation.
 
@@ -334,220 +334,220 @@ This distinction mirrors a broader lesson from UFO reporting. A large collection
 
 Project Condign became famous largely because of its discussion of atmospheric plasma phenomena.
 
-The report argued that at least some UAP reports might be associated with poorly understood atmospheric electrical effects resembling forms of plasma or ball-lightning-like phenomena. Analysts suggested that such effects could potentially account for recurring descriptions of luminous objects, unusual lights and some reported manoeuvres. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/science/2007/feb/22/freedomofinformation.it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Could we have hitched a ride on UFOs?</span><span class="citation-popover-snippet">Science22 Feb 2007 — One of Project Condign&#x27;s conclusions was that UAP events could be put down to poorly understood phenomena called p...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/science/2007/feb/22/freedomofinformation.it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Could we have hitched a ride on UFOs?</span><span class="citation-popover-snippet">Science22 Feb 2007 — One of Project Condign&#x27;s conclusions was that UAP events could be put down to poorly understood phenomena called p...</span></span></span>
+The report argued that at least some UAP reports might be associated with poorly understood atmospheric electrical effects resembling forms of plasma or ball-lightning-like phenomena. Analysts suggested that such effects could potentially account for recurring descriptions of luminous objects, unusual lights and some reported manoeuvres.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/science/2007/feb/22/freedomofinformation.it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Could we have hitched a ride on UFOs?</span><span class="citation-popover-snippet">Science22 Feb 2007 — One of Project Condign&#x27;s conclusions was that UAP events could be put down to poorly understood phenomena called p...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/science/2007/feb/22/freedomofinformation.it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Could we have hitched a ride on UFOs?</span><span class="citation-popover-snippet">Science22 Feb 2007 — One of Project Condign&#x27;s conclusions was that UAP events could be put down to poorly understood phenomena called p...</span></span></span>
 
 This conclusion generated considerable attention because it appeared to offer a unifying explanation for otherwise puzzling reports. Yet the evidence should be understood carefully.
 
-First, the report did not demonstrate that plasma explained all UAP cases. Rather, it proposed a candidate mechanism that might account for a subset of observations. The distinction is important because many sightings lacked the detailed measurements required to test the hypothesis directly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/2012/08/17/seeing-sprites/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[drdavidclarke.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-title">Seeing Sprites</span><span class="citation-popover-snippet">Dr David Clarke17 Aug 2012 — The study, codenamed &#x27;Project Condign&#x27;, concluded that UAPs – as the MoD&#x27;s Defence Intelligence Staff prefer...</span></span></span>
+First, the report did not demonstrate that plasma explained all UAP cases. Rather, it proposed a candidate mechanism that might account for a subset of observations. The distinction is important because many sightings lacked the detailed measurements required to test the hypothesis directly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/2012/08/17/seeing-sprites/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[drdavidclarke.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-title">Seeing Sprites</span><span class="citation-popover-snippet">Dr David Clarke17 Aug 2012 — The study, codenamed &#x27;Project Condign&#x27;, concluded that UAPs – as the MoD&#x27;s Defence Intelligence Staff prefer...</span></span></span>
 
-Second, much of the argument relied on inference from witness descriptions and on contemporary discussions of atmospheric electricity rather than on instrumented observations of the specific events under investigation. The report therefore moved beyond what the sighting evidence alone could conclusively establish. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bahaistudies.net/asma/condign_report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bahaistudies.net">[bahaistudies.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bahaistudies.net</span><span class="citation-popover-snippet">A relational database has been designed to study the pattern...Read more...</span></span></span>
+Second, much of the argument relied on inference from witness descriptions and on contemporary discussions of atmospheric electricity rather than on instrumented observations of the specific events under investigation. The report therefore moved beyond what the sighting evidence alone could conclusively establish.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bahaistudies.net/asma/condign_report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bahaistudies.net">[bahaistudies.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bahaistudies.net</span><span class="citation-popover-snippet">A relational database has been designed to study the pattern...Read more...</span></span></span>
 
-Third, the plasma explanation itself remains scientifically limited as an explanation for the entire UFO dataset. Some reported features may fit luminous atmospheric effects, while others involve observational uncertainties, misidentifications, aircraft, astronomical objects or insufficient information. No single mechanism has been shown to account for every category of report. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/17az93j/lost_and_found_project_condign_the_uk_mods_secret/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Project Condign: The UK MoD&#x27;s Secret UFO studyUAP report findings are: • Mis-reporting of man-made vehicles, often observed by perf...</span></span></span>
+Third, the plasma explanation itself remains scientifically limited as an explanation for the entire UFO dataset. Some reported features may fit luminous atmospheric effects, while others involve observational uncertainties, misidentifications, aircraft, astronomical objects or insufficient information. No single mechanism has been shown to account for every category of report.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/17az93j/lost_and_found_project_condign_the_uk_mods_secret/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Project Condign: The UK MoD&#x27;s Secret UFO studyUAP report findings are: • Mis-reporting of man-made vehicles, often observed by perf...</span></span></span>
 
-For readers interested in the causes of UFO reports, this is perhaps the most useful takeaway. Project Condign did not discover a definitive explanation for all unidentified sightings. It proposed that some apparently extraordinary reports might arise from rare natural phenomena interacting with human perception, while also recognising that many reports likely stem from ordinary misidentifications and incomplete information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bahaistudies.net/asma/condign_report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bahaistudies.net">[bahaistudies.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bahaistudies.net</span><span class="citation-popover-snippet">A relational database has been designed to study the pattern...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOscience/comments/qzvwxg/declassified_uk_ministry_of_defence_report_says/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">air traffic: “…a head-on encounter with a UAP… could, conceivably...Read more...</span></span></span>
+For readers interested in the causes of UFO reports, this is perhaps the most useful takeaway. Project Condign did not discover a definitive explanation for all unidentified sightings. It proposed that some apparently extraordinary reports might arise from rare natural phenomena interacting with human perception, while also recognising that many reports likely stem from ordinary misidentifications and incomplete information.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bahaistudies.net/asma/condign_report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bahaistudies.net">[bahaistudies.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bahaistudies.net</span><span class="citation-popover-snippet">A relational database has been designed to study the pattern...Read more...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOscience/comments/qzvwxg/declassified_uk_ministry_of_defence_report_says/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">air traffic: “…a head-on encounter with a UAP… could, conceivably...Read more...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948_project_condign_defe_276efb-Illustration-3-dark.svg" | relative_url }}" alt="Condign illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948_project_condign_defe_276efb-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948_project_condign_defe_276efb-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Condign contributes to the UFO-reporting debate
 
 Within the UK Ministry of Defence files, Project Condign stands out because it addressed a different question from the public UFO desk.
 
-The public reporting system largely collected witness accounts. Condign attempted to evaluate the accumulated record from an intelligence perspective. Its significance lies less in any specific explanation and more in its assessment framework: decades of reports were examined to determine whether they justified defence concern. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/396201-defe-24-2090-1/396201-defe-24-2090-1_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;Project Condign&quot;... REPORT ON UNIDENTIFIED AERIAL PHENOMENA (UAP) IN THE UK AIR DEFENCE REGION ISSUE 1. Th...</span></span></span>
+The public reporting system largely collected witness accounts. Condign attempted to evaluate the accumulated record from an intelligence perspective. Its significance lies less in any specific explanation and more in its assessment framework: decades of reports were examined to determine whether they justified defence concern.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/396201-defe-24-2090-1/396201-defe-24-2090-1_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;Project Condign&quot;... REPORT ON UNIDENTIFIED AERIAL PHENOMENA (UAP) IN THE UK AIR DEFENCE REGION ISSUE 1. Th...</span></span></span>
 
-The study's answer was nuanced. Analysts concluded that some reported phenomena appeared genuine in the sense that witnesses were observing something real rather than inventing stories. However, they found no evidence that the overall body of reports demonstrated a military threat, a foreign aerospace breakthrough, or a need for sustained air-defence action. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/396201-defe-24-2090-1/396201-defe-24-2090-1_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;Project Condign&quot;... REPORT ON UNIDENTIFIED AERIAL PHENOMENA (UAP) IN THE UK AIR DEFENCE REGION ISSUE 1. Th...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bahaistudies.net/asma/condign_report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bahaistudies.net">[2bahaistudies.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bahaistudies.net</span><span class="citation-popover-snippet">A relational database has been designed to study the pattern...Read more...</span></span></span>
+The study's answer was nuanced. Analysts concluded that some reported phenomena appeared genuine in the sense that witnesses were observing something real rather than inventing stories. However, they found no evidence that the overall body of reports demonstrated a military threat, a foreign aerospace breakthrough, or a need for sustained air-defence action.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/396201-defe-24-2090-1/396201-defe-24-2090-1_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;Project Condign&quot;... REPORT ON UNIDENTIFIED AERIAL PHENOMENA (UAP) IN THE UK AIR DEFENCE REGION ISSUE 1. Th...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bahaistudies.net/asma/condign_report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bahaistudies.net">[2bahaistudies.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bahaistudies.net</span><span class="citation-popover-snippet">A relational database has been designed to study the pattern...Read more...</span></span></span>
 
-For understanding the causes of UFO reports, that conclusion is more important than whether every individual case was solved. Project Condign treated unexplained sightings as an intelligence question, examined the available evidence, and ultimately found that mystery alone was not enough to establish defence significance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/396201-defe-24-2090-1/396201-defe-24-2090-1_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;Project Condign&quot;... REPORT ON UNIDENTIFIED AERIAL PHENOMENA (UAP) IN THE UK AIR DEFENCE REGION ISSUE 1. Th...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bahaistudies.net/asma/condign_report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bahaistudies.net">[2bahaistudies.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bahaistudies.net</span><span class="citation-popover-snippet">A relational database has been designed to study the pattern...Read more...</span></span></span>
+For understanding the causes of UFO reports, that conclusion is more important than whether every individual case was solved. Project Condign treated unexplained sightings as an intelligence question, examined the available evidence, and ultimately found that mystery alone was not enough to establish defence significance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/396201-defe-24-2090-1/396201-defe-24-2090-1_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;Project Condign&quot;... REPORT ON UNIDENTIFIED AERIAL PHENOMENA (UAP) IN THE UK AIR DEFENCE REGION ISSUE 1. Th...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bahaistudies.net/asma/condign_report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bahaistudies.net">[2bahaistudies.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bahaistudies.net</span><span class="citation-popover-snippet">A relational database has been designed to study the pattern...Read more...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KK3ZgwgJ8kY" title="The 1993 Cosford Incident: Nick Pope’s Turning Point on UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KK3ZgwgJ8kY" target="_blank" rel="noopener noreferrer">The 1993 Cosford Incident: Nick Pope’s Turning Point on UFOs</a></p><p class="youtube-embed-meta">Channel: Eyes On Cinema &middot; Views: 73.4K &middot; Uploaded: February 2026 &middot; Length: 46 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KK3ZgwgJ8kY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KK3ZgwgJ8kY">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Project Condign really asked. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Project Condign really asked. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SOPWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SOPWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
+</h4>
+<p class="fr-book-author">By Nick Pope</p>
         
-        <p class="fr-book-desc">Gives reader-friendly context for UK defence UFO work.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Gives reader-friendly context for UK defence UFO work.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Matches the page’s official-evidence and defence-interest lane.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Matches the page’s official-evidence and defence-interest lane.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides a broader framework for official UFO studies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a broader framework for official UFO studies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Helps readers evaluate extraordinary interpretations cautiously.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers evaluate extraordinary interpretations cautiously.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-project-condign-really-asked-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="what-project-condign-really-asked-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO - 2 Patch Set #1 - Gerry Anderson Ed Straker ITC - FREE P&amp;P - UK"><img src="https://i.ebayimg.com/images/g/wq4AAOSw4thhtM1T/s-l225.jpg" alt="Listing image for UFO SHADO - 2 Patch Set #1 - Gerry Anderson Ed Straker ITC - FREE P&amp;P - UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-project-condign-really-asked-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="what-project-condign-really-asked-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO - 2 Patch Set #1 - Gerry Anderson Ed Straker ITC - FREE P&amp;P - UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-project-condign-really-asked-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="what-project-condign-really-asked-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-project-condign-really-asked-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="what-project-condign-really-asked-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-project-condign-really-asked-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="what-project-condign-really-asked-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO - 2 Patch Set #1 - Gerry Anderson Ed Straker ITC - FREE P&amp;P - UK"><img src="https://i.ebayimg.com/images/g/wq4AAOSw4thhtM1T/s-l225.jpg" alt="Listing image for UFO SHADO - 2 Patch Set #1 - Gerry Anderson Ed Straker ITC - FREE P&amp;P - UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-project-condign-really-asked-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="what-project-condign-really-asked-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO - 2 Patch Set #1 - Gerry Anderson Ed Straker ITC - FREE P&amp;P - UK</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-project-condign-really-asked-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="what-project-condign-really-asked-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-project-condign-really-asked-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="what-project-condign-really-asked-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-project-condign-really-asked-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="what-project-condign-really-asked-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Iron On Patch / Sew On Clothes Bag Jacket NASA Space UFO Embroidery Badge"><img src="https://i.ebayimg.com/images/g/fuwAAOSwmLlX7M1z/s-l225.jpg" alt="Listing image for Alien Iron On Patch / Sew On Clothes Bag Jacket NASA Space UFO Embroidery Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-project-condign-really-asked-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="what-project-condign-really-asked-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Alien Iron On Patch / Sew On Clothes Bag Jacket NASA Space UFO Embroidery Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-project-condign-really-asked-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="what-project-condign-really-asked-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-project-condign-really-asked-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="what-project-condign-really-asked-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-project-condign-really-asked-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="what-project-condign-really-asked-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Iron On Patch / Sew On Clothes Bag Jacket NASA Space UFO Embroidery Badge"><img src="https://i.ebayimg.com/images/g/fuwAAOSwmLlX7M1z/s-l225.jpg" alt="Listing image for Alien Iron On Patch / Sew On Clothes Bag Jacket NASA Space UFO Embroidery Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-project-condign-really-asked-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="what-project-condign-really-asked-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Alien Iron On Patch / Sew On Clothes Bag Jacket NASA Space UFO Embroidery Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-project-condign-really-asked-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="what-project-condign-really-asked-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-project-condign-really-asked-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="what-project-condign-really-asked-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-project-condign-really-asked-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="what-project-condign-really-asked-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551"><img src="https://i.ebayimg.com/images/g/YVIAAOSwd71n7DAx/s-l225.jpg" alt="Listing image for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-project-condign-really-asked-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="what-project-condign-really-asked-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-project-condign-really-asked-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="what-project-condign-really-asked-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-project-condign-really-asked-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="what-project-condign-really-asked-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-project-condign-really-asked-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="what-project-condign-really-asked-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551"><img src="https://i.ebayimg.com/images/g/YVIAAOSwd71n7DAx/s-l225.jpg" alt="Listing image for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-project-condign-really-asked-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="what-project-condign-really-asked-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-project-condign-really-asked-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="what-project-condign-really-asked-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-project-condign-really-asked-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="what-project-condign-really-asked-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-project-condign-really-asked-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="what-project-condign-really-asked-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Television Sci-Fi Novelty Character Patch Selection - Iron-on / Sew-on"><img src="https://i.ebayimg.com/images/g/n04AAOSwV-5bm7PQ/s-l225.jpg" alt="Listing image for Retro Television Sci-Fi Novelty Character Patch Selection - Iron-on / Sew-on" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-project-condign-really-asked-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="what-project-condign-really-asked-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Retro Television Sci-Fi Novelty Character Patch Selection - Iron-on / Sew-on</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-project-condign-really-asked-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="what-project-condign-really-asked-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-project-condign-really-asked-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="what-project-condign-really-asked-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-project-condign-really-asked-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="what-project-condign-really-asked-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-project-condign-really-asked-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="what-project-condign-really-asked-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Television Sci-Fi Novelty Character Patch Selection - Iron-on / Sew-on"><img src="https://i.ebayimg.com/images/g/n04AAOSwV-5bm7PQ/s-l225.jpg" alt="Listing image for Retro Television Sci-Fi Novelty Character Patch Selection - Iron-on / Sew-on" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-project-condign-really-asked-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="what-project-condign-really-asked-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Retro Television Sci-Fi Novelty Character Patch Selection - Iron-on / Sew-on</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-project-condign-really-asked-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="what-project-condign-really-asked-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-project-condign-really-asked-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="what-project-condign-really-asked-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-project-condign-really-asked-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="what-project-condign-really-asked-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -563,7 +563,7 @@ For understanding the causes of UFO reports, that conclusion is more important t
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -583,7 +583,7 @@ For understanding the causes of UFO reports, that conclusion is more important t
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -615,7 +615,7 @@ For understanding the causes of UFO reports, that conclusion is more important t
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -667,7 +667,7 @@ For understanding the causes of UFO reports, that conclusion is more important t
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -712,7 +712,7 @@ For understanding the causes of UFO reports, that conclusion is more important t
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -753,147 +753,147 @@ For understanding the causes of UFO reports, that conclusion is more important t
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/396201-defe-24-2090-1/396201-defe-24-2090-1_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/396201-defe-24-2090-1/396201-defe-24-2090-1_djvu.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet ArchiveFull text of &quot;Project Condign&quot;... REPORT ON UNIDENTIFIED AERIAL PHENOMENA (UAP) IN THE UK AIR DEFENCE REGION ISSUE 1. Th...</p></details>
+   Link:<a href="https://archive.org/stream/396201-defe-24-2090-1/396201-defe-24-2090-1_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/396201-defe-24-2090-1/396201-defe-24-2090-1_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Internet ArchiveFull text of &quot;Project Condign&quot;... REPORT ON UNIDENTIFIED AERIAL PHENOMENA (UAP) IN THE UK AIR DEFENCE REGION ISSUE 1. Th...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nickpope.net  
    Title: project condign  
-   Link: <a href="https://nickpope.net/wpte19/project-condign/" target="_blank" rel="noopener noreferrer nofollow">https://nickpope.net/wpte19/project-condign/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;s final report was declassified and released in May 2006 (with certain portions redacted) and Nick Pope was authorized by the MoD to giv...</p></details>
+   Link:<a href="https://nickpope.net/wpte19/project-condign/" target="_blank" rel="noopener noreferrer nofollow">https://nickpope.net/wpte19/project-condign/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;s final report was declassified and released in May 2006 (with certain portions redacted) and Nick Pope was authorized by the MoD to giv...</p></details>
    Published: May 2006  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: scribd.com  
    Title: UK Air Defence UAP Report  
-   Link: <a href="https://www.scribd.com/document/54557001/Project-Condign-part-0-UAP-in-UK-Air-Defence-Executive-Summary" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/54557001/Project-Condign-part-0-UAP-in-UK-Air-Defence-Executive-Summary</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Summary | PDFProject Condign was the name given to a top-secret UFO study undertaken by the British Government&#x27;s Defence Intelligence Sta...</p></details>
+   Link:<a href="https://www.scribd.com/document/54557001/Project-Condign-part-0-UAP-in-UK-Air-Defence-Executive-Summary" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/54557001/Project-Condign-part-0-UAP-in-UK-Air-Defence-Executive-Summary</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Summary | PDFProject Condign was the name given to a top-secret UFO study undertaken by the British Government&#x27;s Defence Intelligence Sta...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: bahaistudies.net  
-   Link: <a href="https://www.bahaistudies.net/asma/condign_report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bahaistudies.net/asma/condign_report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A relational database has been designed to study the pattern...Read more...</p></details>
+   Link:<a href="https://www.bahaistudies.net/asma/condign_report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bahaistudies.net/asma/condign_report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A relational database has been designed to study the pattern...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/17az93j/lost_and_found_project_condign_the_uk_mods_secret/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/17az93j/lost_and_found_project_condign_the_uk_mods_secret/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Condign: The UK MoD&#x27;s Secret UFO studyUAP report findings are: • Mis-reporting of man-made vehicles, often observed by perf...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/17az93j/lost_and_found_project_condign_the_uk_mods_secret/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/17az93j/lost_and_found_project_condign_the_uk_mods_secret/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Condign: The UK MoD&#x27;s Secret UFO studyUAP report findings are: • Mis-reporting of man-made vehicles, often observed by perf...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: drdavidclarke.co.uk  
    Title: Seeing Sprites  
-   Link: <a href="https://drdavidclarke.co.uk/2012/08/17/seeing-sprites/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/2012/08/17/seeing-sprites/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr David Clarke17 Aug 2012 — The study, codenamed &#x27;Project Condign&#x27;, concluded that UAPs – as the MoD&#x27;s Defence Intelligence Staff prefer...</p></details>
+   Link:<a href="https://drdavidclarke.co.uk/2012/08/17/seeing-sprites/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/2012/08/17/seeing-sprites/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dr David Clarke17 Aug 2012 — The study, codenamed &#x27;Project Condign&#x27;, concluded that UAPs – as the MoD&#x27;s Defence Intelligence Staff prefer...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOscience/comments/qzvwxg/declassified_uk_ministry_of_defence_report_says/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOscience/comments/qzvwxg/declassified_uk_ministry_of_defence_report_says/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>air traffic: “…a head-on encounter with a UAP… could, conceivably...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOscience/comments/qzvwxg/declassified_uk_ministry_of_defence_report_says/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOscience/comments/qzvwxg/declassified_uk_ministry_of_defence_report_says/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>air traffic: “…a head-on encounter with a UAP… could, conceivably...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/r0ivee/uk_mod_report_exceptional_ufos_with_aerodynamic/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/r0ivee/uk_mod_report_exceptional_ufos_with_aerodynamic/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UK MoD Report: “Exceptional” UFOs With “Aerodynamic...With respect to the possibility of the use of plasmas for military applications… t...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/r0ivee/uk_mod_report_exceptional_ufos_with_aerodynamic/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/r0ivee/uk_mod_report_exceptional_ufos_with_aerodynamic/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK MoD Report: “Exceptional” UFOs With “Aerodynamic...With respect to the possibility of the use of plasmas for military applications… t...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOscience/comments/s3a5my/the_ultimate_dirty_secret_about_ufos_according_to/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOscience/comments/s3a5my/the_ultimate_dirty_secret_about_ufos_according_to/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>aterrestrials, but they&#x27;re some kind of atmospheric plasma. That...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOscience/comments/s3a5my/the_ultimate_dirty_secret_about_ufos_according_to/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOscience/comments/s3a5my/the_ultimate_dirty_secret_about_ufos_according_to/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>aterrestrials, but they&#x27;re some kind of atmospheric plasma. That...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: archive.org  
    Title: condign vol 2 1 258  
-   Link: <a href="https://archive.org/details/condign-vol-2-1-258" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/condign-vol-2-1-258</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Condign: Unidentified Aerial Phenomena in the UK...15 Sept 2023 — A study was undertaken to determine the potential value, if an...</p></details>
+   Link:<a href="https://archive.org/details/condign-vol" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/condign-vol</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Condign: Unidentified Aerial Phenomena in the UK...15 Sept 2023 — A study was undertaken to determine the potential value, if an...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/doc/17686246/Unidentified-Aerial-Phenomena-UAP-in-the-UK-Air-Defence-Region" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/17686246/Unidentified-Aerial-Phenomena-UAP-in-the-UK-Air-Defence-Region</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>More controversially, the report&#x27;s...Read more...</p></details>
+   Link:<a href="https://www.scribd.com/doc/17686246/Unidentified-Aerial-Phenomena-UAP-in-the-UK-Air-Defence-Region" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/17686246/Unidentified-Aerial-Phenomena-UAP-in-the-UK-Air-Defence-Region</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>More controversially, the report&#x27;s...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: drdavidclarke.co.uk  
    Title: ndign report  
-   Link: <a href="https://drdavidclarke.co.uk/tag/condign-report/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/tag/condign-report/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ndign report | - Dr David Clarke2 Jul 2017 —... archives files on UFOs held by the Ministry of Defence. Six of these... The UFO files...</p></details>
+   Link:<a href="https://drdavidclarke.co.uk/tag/condign-report/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/tag/condign-report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ndign report | - Dr David Clarke2 Jul 2017 —... archives files on UFOs held by the Ministry of Defence. Six of these... The UFO files...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: thetimes.com  
    Title: The Times Mo D ordered officers to find UFO technology, secret files reveal  
-   Link: <a href="https://www.thetimes.com/uk/history/article/mod-ordered-officers-to-find-ufo-technology-secret-files-reveal-hnr62vcn9" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.com/uk/history/article/mod-ordered-officers-to-find-ufo-technology-secret-files-reveal-hnr62vcn9</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Prompted by credible reports—especially from Belgium, where numerous sightings of silent, fast-moving black triangles occurred between 19...</p></details>
+   Link:<a href="https://www.thetimes.com/uk/history/article/mod-ordered-officers-to-find-ufo-technology-secret-files-reveal-hnr62vcn9" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.com/uk/history/article/mod-ordered-officers-to-find-ufo-technology-secret-files-reveal-hnr62vcn9</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Prompted by credible reports—especially from Belgium, where numerous sightings of silent, fast-moving black triangles occurred between 19...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: theguardian.com  
    Title: The Guardian Could we have hitched a ride on UFOs?  
-   Link: <a href="https://www.theguardian.com/science/2007/feb/22/freedomofinformation.it" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2007/feb/22/freedomofinformation.it</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Science22 Feb 2007 — One of Project Condign&#x27;s conclusions was that UAP events could be put down to poorly understood phenomena called p...</p></details>
+   Link:<a href="https://www.theguardian.com/science/2007/feb/22/freedomofinformation.it" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2007/feb/22/freedomofinformation.it</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Science22 Feb 2007 — One of Project Condign&#x27;s conclusions was that UAP events could be put down to poorly understood phenomena called p...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/science/2006/may/08/freedomofinformation.politics" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2006/may/08/freedomofinformation.politics</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings caused by freak weather, says MoD report8 May 2006 — It blames the most vexing sightings on airborne &quot;plasmas&quot; which form d...</p></details>
+   Link:<a href="https://www.theguardian.com/science/2006/may/08/freedomofinformation.politics" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2006/may/08/freedomofinformation.politics</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings caused by freak weather, says MoD report8 May 2006 — It blames the most vexing sightings on airborne &quot;plasmas&quot; which form d...</p></details>
    Published: May 2006  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: theguardian.com  
    Title: mod report ufo sightings  
-   Link: <a href="https://www.theguardian.com/uk/2009/aug/17/mod-report-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2009/aug/17/mod-report-ufo-sightings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This article is more... alien spacecraft have landed on our planet&quot;. But few of its...Read more...</p></details>
+   Link:<a href="https://www.theguardian.com/uk/2009/aug/17/mod-report-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2009/aug/17/mod-report-ufo-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This article is more... alien spacecraft have landed on our planet&quot;. But few of its...Read more...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: nutritionmodels.com  
-   Link: <a href="https://www.nutritionmodels.com/tedeschi/download/mar-2011-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nutritionmodels.com/tedeschi/download/mar-2011-highlights-guide.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Highlights GuideThe file contains a detailed briefing by the RAF Wing. Commander responsible for UFOs which covers Air Defence responsibi...</p></details>
+   Link:<a href="https://www.nutritionmodels.com/tedeschi/download/mar-2011-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nutritionmodels.com/tedeschi/download/mar-2011-highlights-guide.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Highlights GuideThe file contains a detailed briefing by the RAF Wing. Commander responsible for UFOs which covers Air Defence responsibi...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Condign" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Condign</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project CondignProject Condign was a secret unidentified flying object (UFO) study undertaken by the British Government&#x27;s Defence Inte...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Condign" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Condign</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project CondignProject Condign was a secret unidentified flying object (UFO) study undertaken by the British Government&#x27;s Defence Inte...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The British Mod Study: Project CondignStandard UAP report form used by the Air Ministry and MoD. IUR ✦ 30:4 5 Fig. 1 (continued). UAP rep...</p></details>
+   Link:<a href="https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The British Mod Study: Project CondignStandard UAP report form used by the Air Ministry and MoD. IUR ✦ 30:4 5 Fig. 1 (continued). UAP rep...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reportsEarly letters regarding UFO sightings · Correspondence on the Rendlesham Forest incident · Documents on UFO policy and communi...</p></details>
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reportsEarly letters regarding UFO sightings · Correspondence on the Rendlesham Forest incident · Documents on UFO policy and communi...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: avalonlibrary.net  
    Title: UAP in the UK Air Defence Region (Project Condign)Project Condign Volume 3.zip  
-   Link: <a href="https://avalonlibrary.net/?dir=UAP+in+the+UK+Air+Defence+Region+%28Project+Condign%29" target="_blank" rel="noopener noreferrer nofollow">https://avalonlibrary.net/?dir=UAP+in+the+UK+Air+Defence+Region+%28Project+Condign%29</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>63.06MB. 2022-07-10 13:05:17 · The British MoD study - Project Condign by Dr David Clarke and Gary Anthony.pdf. 5.26MB. 2022-07-10...Rea...</p></details>
+   Link:<a href="https://avalonlibrary.net/?dir=UAP+in+the+UK+Air+Defence+Region+%28Project+Condign%29" target="_blank" rel="noopener noreferrer nofollow">https://avalonlibrary.net/?dir=UAP+in+the+UK+Air+Defence+Region+%28Project+Condign%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>63.06MB. 2022-07-10 13:05:17 · The British MoD study - Project Condign by Dr David Clarke and Gary Anthony.pdf. 5.26MB. 2022-07-10...Rea...</p></details>
    Published: July 10, 2022  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40nahudini/hidden-craft-hidden-programs-and-the-nine-at-the-edge-a2c390f97692" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40nahudini/hidden-craft-hidden-programs-and-the-nine-at-the-edge-a2c390f97692</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Later coverage summarizing the declassified British Ministry of Defence study&#x27;s interest in unusual plasma phenomena...Read more...</p></details>
+   Link:<a href="https://medium.com/%40nahudini/hidden-craft-hidden-programs-and-the-nine-at-the-edge-a2c390f97692" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40nahudini/hidden-craft-hidden-programs-and-the-nine-at-the-edge-a2c390f97692</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Later coverage summarizing the declassified British Ministry of Defence study&#x27;s interest in unusual plasma phenomena...Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/377871814_Exploring_Unidentified_Aerospace_Phenomena_through_Instrumented_Field_Studies_Historical_Insights_Current_Challenges_and_Future_Directions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/377871814_Exploring_Unidentified_Aerospace_Phenomena_through_Instrumented_Field_Studies_Historical_Insights_Current_Challenges_and_Future_Directions</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Historical Insights, Current Challenges, and Future DirectionsWe provide an overview of some past and current UAP military and civilian p...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/377871814_Exploring_Unidentified_Aerospace_Phenomena_through_Instrumented_Field_Studies_Historical_Insights_Current_Challenges_and_Future_Directions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/377871814_Exploring_Unidentified_Aerospace_Phenomena_through_Instrumented_Field_Studies_Historical_Insights_Current_Challenges_and_Future_Directions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Historical Insights, Current Challenges, and Future DirectionsWe provide an overview of some past and current UAP military and civilian p...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: jstor.org  
-   Link: <a href="https://www.jstor.org/stable/48505170" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/48505170</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>THE CHANGING SITUATION WITH BRITISH NATIONAL...by N POPE · 2008 — For three years in the British Ministry of Defence, the author ran the...</p></details>
+   Link:<a href="https://www.jstor.org/stable/48505170" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/48505170</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE CHANGING SITUATION WITH BRITISH NATIONAL...by N POPE · 2008 — For three years in the British Ministry of Defence, the author ran the...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: ufotransparency.com  
    Title: intl uk project condign volume 1 uap vol1 annex atod  
-   Link: <a href="https://ufotransparency.com/files/intl-uk-project-condign-volume-1-uap-vol1-annex-atod" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/intl-uk-project-condign-volume-1-uap-vol1-annex-atod</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Aerial Phenomena in the UK Air Defence Region...18 May 2026 — Project Condign is a 400-page classified UK Ministry of Defen...</p></details>
+   Link:<a href="https://ufotransparency.com/files/intl-uk-project-condign-volume-1-uap-vol1-annex-atod" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/intl-uk-project-condign-volume-1-uap-vol1-annex-atod</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Aerial Phenomena in the UK Air Defence Region...18 May 2026 — Project Condign is a 400-page classified UK Ministry of Defen...</p></details>
    Published: May 2026

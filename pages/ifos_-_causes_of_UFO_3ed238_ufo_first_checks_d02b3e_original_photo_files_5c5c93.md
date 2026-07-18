@@ -274,7 +274,7 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e_origin
 
 ## Introduction
 
-When a photograph or video is offered as evidence of a UFO sighting, the most important file is usually the one that never appears on social media: the original recording from the camera or phone. Before a sighting can be considered genuinely anomalous, investigators need to know when the image was taken, what device recorded it, whether it has been edited, and how it relates to the surrounding sequence of images. Those answers often come from the original file itself rather than from the visible picture. NASA's recent work on unidentified anomalous phenomena has repeatedly stressed that investigations are limited by [missing metadata]({{ 'missing-metadata/' | relative_url }}) and poor-quality source data rather than by a lack of analytical techniques. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
+When a photograph or video is offered as evidence of a UFO sighting, the most important file is usually the one that never appears on social media: the original recording from the camera or phone. Before a sighting can be considered genuinely anomalous, investigators need to know when the image was taken, what device recorded it, whether it has been edited, and how it relates to the surrounding sequence of images. Those answers often come from the original file itself rather than from the visible picture. NASA's recent work on unidentified anomalous phenomena has repeatedly stressed that investigations are limited by [missing metadata]({{ 'missing-metadata/' | relative_url }}) and poor-quality source data rather than by a lack of analytical techniques.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e_original_photo_files_5c5c93-Illustration-1-dark.svg" | relative_url }}" alt="Original files illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e_original_photo_files_5c5c93-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e_original_photo_files_5c5c93-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 In practical terms, preserving the original file is one of the simplest and most valuable checks that can be performed before a sighting is treated as unexplained. A cropped screenshot, compressed upload, or edited clip may still show something interesting, but it often removes exactly the information needed to determine whether the object was a planet, aircraft, satellite, camera artefact, balloon, drone, or something that genuinely requires further study.
@@ -289,11 +289,11 @@ Digital photographs and videos usually contain metadata, commonly stored in EXIF
 * Exposure settings.
 * File creation details.
 * GPS location data, if enabled.
-* Information about image processing performed by the device. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ojp.gov/pdffiles1/nij/nlectc/218283.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ojp.gov">[Office of Justice Programs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ojp.gov</span><span class="citation-popover-title">Office of Justice Programs EXIF: A Format Is Worth A Thousand Words</span><span class="citation-popover-snippet">Office of Justice ProgramsEXIF: A Format Is Worth A Thousand WordsJune 25, 2020 — The National Center for Missing &amp; Exploited Children re...</span><span class="citation-popover-meta">Published: June 25, 2020</span></span></span>
+* Information about image processing performed by the device.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ojp.gov/pdffiles1/nij/nlectc/218283.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ojp.gov">[Office of Justice Programs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ojp.gov</span><span class="citation-popover-title">Office of Justice Programs EXIF: A Format Is Worth A Thousand Words</span><span class="citation-popover-snippet">Office of Justice ProgramsEXIF: A Format Is Worth A Thousand WordsJune 25, 2020 — The National Center for Missing &amp; Exploited Children re...</span><span class="citation-popover-meta">Published: June 25, 2020</span></span></span>
 
 For UFO investigations, these details are often more valuable than the image itself. A precise timestamp can be checked against satellite passes, aircraft records, astronomical objects, weather conditions, and other observations. Camera settings can reveal whether an apparent object might be a lens reflection, overexposed light source, digital zoom artefact, or motion blur effect.
 
-The importance of metadata is not unique to UFO research. Across scientific and forensic disciplines, metadata provides the context needed to interpret observations correctly. NASA's UAP study specifically identified missing sensor metadata as a major obstacle to analysing unusual reports and noted that some apparent anomalies have been resolved once calibration and metadata information were examined. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
+The importance of metadata is not unique to UFO research. Across scientific and forensic disciplines, metadata provides the context needed to interpret observations correctly. NASA's UAP study specifically identified missing sensor metadata as a major obstacle to analysing unusual reports and noted that some apparent anomalies have been resolved once calibration and metadata information were examined.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
 
 An image without context can be intriguing. An image with reliable metadata can often be tested.
 
@@ -301,7 +301,7 @@ An image without context can be intriguing. An image with reliable metadata can 
 
 Many people unknowingly destroy useful evidence before sharing it. The most common problem is not deliberate manipulation but routine digital handling.
 
-Social-media platforms frequently remove metadata when photographs are uploaded. Independent testing and long-running metadata studies have found that major platforms often strip GPS information, camera details, [timestamps]({{ 'timestamps/' | relative_url }}), and other embedded records from publicly downloadable copies of images. The Library of Congress Fastio The process can happen in several ways: <span class="citation-chip-wrap"><a class="citation-chip" href="https://proton.me/blog/exif-data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: proton.me">[proton.me]</a><span class="citation-popover" role="note"><span class="citation-popover-source">proton.me</span><span class="citation-popover-title">exif data</span><span class="citation-popover-snippet">Always delete metadata before uploading your photos to websites, cloud storage, or messaging apps.Read more...</span></span></span>
+Social-media platforms frequently remove metadata when photographs are uploaded. Independent testing and long-running metadata studies have found that major platforms often strip GPS information, camera details, [timestamps]({{ 'timestamps/' | relative_url }}), and other embedded records from publicly downloadable copies of images. The Library of Congress Fastio The process can happen in several ways:<span class="citation-chip-wrap"><a class="citation-chip" href="https://proton.me/blog/exif-data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: proton.me">[proton.me]</a><span class="citation-popover" role="note"><span class="citation-popover-source">proton.me</span><span class="citation-popover-title">exif data</span><span class="citation-popover-snippet">Always delete metadata before uploading your photos to websites, cloud storage, or messaging apps.Read more...</span></span></span>
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -310,7 +310,7 @@ Social-media platforms frequently remove metadata when photographs are uploaded.
 * Taking a screenshot of the original photo.
 * Cropping or editing the image and saving a new version.
 * Exporting the file through photo-editing software.
-* Converting between file formats. <span class="citation-chip-wrap"><a class="citation-chip" href="https://fast.io/resources/social-media-photo-metadata-platforms-strip/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fast.io">[Fastio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fast.io</span><span class="citation-popover-snippet">ioWhich Social Media Platforms Strip Photo Metadata?See which social media platforms strip EXIF data from photos. Tested results for...</span></span></span>
+* Converting between file formats.<span class="citation-chip-wrap"><a class="citation-chip" href="https://fast.io/resources/social-media-photo-metadata-platforms-strip/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fast.io">[Fastio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fast.io</span><span class="citation-popover-snippet">ioWhich Social Media Platforms Strip Photo Metadata?See which social media platforms strip EXIF data from photos. Tested results for...</span></span></span>
 
 </div>
 
@@ -330,9 +330,9 @@ An original file can help answer questions such as:
 * Does the image belong to a longer sequence of photographs?
 * Has the file been edited or re-saved multiple times?
 * Were there nearby images showing the object entering or leaving the frame?
-* Does the recording correspond to known astronomical or aviation events? <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ojp.gov/pdffiles1/nij/nlectc/218283.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ojp.gov">[Office of Justice Programs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ojp.gov</span><span class="citation-popover-title">Office of Justice Programs EXIF: A Format Is Worth A Thousand Words</span><span class="citation-popover-snippet">Office of Justice ProgramsEXIF: A Format Is Worth A Thousand WordsJune 25, 2020 — The National Center for Missing &amp; Exploited Children re...</span><span class="citation-popover-meta">Published: June 25, 2020</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciepublish.com/article/pii/567" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciepublish.com">[sciepublish]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciepublish.com</span><span class="citation-popover-snippet">Forensic Value of Exif Data: An Analytical Evaluation...by N Soni · 2025 · Cited by 6 — This research adopts an empirical approach to an...</span></span></span> Video files are particularly sensitive to this issue. Re-encoded clips uploaded to social media often lose frame-level information, [compression]({{ 'compression/' | relative_url }}) characteristics, and timing details that can help determine speed, motion, and distance. What remains may be adequate for viewing but inadequate for analysis.
+* Does the recording correspond to known astronomical or aviation events?<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ojp.gov/pdffiles1/nij/nlectc/218283.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ojp.gov">[Office of Justice Programs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ojp.gov</span><span class="citation-popover-title">Office of Justice Programs EXIF: A Format Is Worth A Thousand Words</span><span class="citation-popover-snippet">Office of Justice ProgramsEXIF: A Format Is Worth A Thousand WordsJune 25, 2020 — The National Center for Missing &amp; Exploited Children re...</span><span class="citation-popover-meta">Published: June 25, 2020</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciepublish.com/article/pii/567" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciepublish.com">[sciepublish]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciepublish.com</span><span class="citation-popover-snippet">Forensic Value of Exif Data: An Analytical Evaluation...by N Soni · 2025 · Cited by 6 — This research adopts an empirical approach to an...</span></span></span> Video files are particularly sensitive to this issue. Re-encoded clips uploaded to social media often lose frame-level information, [compression]({{ 'compression/' | relative_url }}) characteristics, and timing details that can help determine speed, motion, and distance. What remains may be adequate for viewing but inadequate for analysis.
 
-This is one reason that scientific approaches to UAP investigations increasingly emphasise data quality. A blurry but well-documented original recording may be more useful than a dramatic-looking image that has passed through several rounds of editing and reposting. NASA Science <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
+This is one reason that scientific approaches to UAP investigations increasingly emphasise data quality. A blurry but well-documented original recording may be more useful than a dramatic-looking image that has passed through several rounds of editing and reposting. NASA Science<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e_original_photo_files_5c5c93-Illustration-3-dark.svg" | relative_url }}" alt="Original files illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e_original_photo_files_5c5c93-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e_original_photo_files_5c5c93-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What to save before sharing footage
@@ -349,7 +349,7 @@ Useful steps include:
 4. **Record the viewing location.** A map pin, coordinates, or exact address may help later comparisons.
 5. **Note the direction of observation.** Landmarks and compass bearings can be as valuable as the image itself.
 6. **Preserve witness notes.** Time, duration, weather, and observations should be recorded while memories are fresh.
-7. **Retain the full-resolution version.** Avoid relying solely on screenshots or platform downloads. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
+7. **Retain the full-resolution version.** Avoid relying solely on screenshots or platform downloads.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
 
 </div>
 
@@ -359,197 +359,197 @@ A simple rule is that every additional processing step risks removing informatio
 
 Within UFO investigation, preserving original files is not a technical luxury; it is a basic evidential safeguard. Many sightings remain unresolved not because they defy explanation, but because the information needed to test ordinary explanations was discarded before analysis began.
 
-The original photo or video provides a bridge between the witness account and the physical circumstances of the event. It can anchor timing, device characteristics, image provenance, and observational context. When that bridge is preserved, investigators can compare a claim against known aircraft, [satellites]({{ 'satellites/' | relative_url }}), astronomical objects, atmospheric effects, and camera artefacts. When it is lost, even a sincere and potentially important report becomes much harder to evaluate. As modern UAP studies have repeatedly concluded, better conclusions depend first on better data, and preserving the original file is one of the easiest ways to improve it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skyandtelescope.org/astronomy-news/nasa-finds-no-evidence-ufos-are-extraterrestrial-promises-further-study/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyandtelescope.org">[skyandtelescope.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyandtelescope.org</span><span class="citation-popover-title">nasa finds no evidence ufos are extraterrestrial promises further study</span><span class="citation-popover-snippet">First, UAP reports are typically single sightings and lack multiple measurements. Those individual reports also often lack sensor metadat...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
+The original photo or video provides a bridge between the witness account and the physical circumstances of the event. It can anchor timing, device characteristics, image provenance, and observational context. When that bridge is preserved, investigators can compare a claim against known aircraft, [satellites]({{ 'satellites/' | relative_url }}), astronomical objects, atmospheric effects, and camera artefacts. When it is lost, even a sincere and potentially important report becomes much harder to evaluate. As modern UAP studies have repeatedly concluded, better conclusions depend first on better data, and preserving the original file is one of the easiest ways to improve it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skyandtelescope.org/astronomy-news/nasa-finds-no-evidence-ufos-are-extraterrestrial-promises-further-study/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyandtelescope.org">[skyandtelescope.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyandtelescope.org</span><span class="citation-popover-title">nasa finds no evidence ufos are extraterrestrial promises further study</span><span class="citation-popover-snippet">First, UAP reports are typically single sightings and lack multiple measurements. Those individual reports also often lack sensor metadat...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why the original UFO file matters. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why the original UFO file matters. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides broader context for evaluating sighting evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader context for evaluating sighting evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Understanding+Exposure+by+Bryan+F.+Peterson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Understanding Exposure on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=v4lw2lZKmioC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Understanding Exposure" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Understanding+Exposure+by+Bryan+F.+Peterson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Understanding Exposure">Understanding Exposure</a>
-        </h4>
-        <p class="fr-book-author">By Bryan F. Peterson</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 19 Google Books ratings</p>
-        <p class="fr-book-desc">Explains exposure and camera behaviour that affect UFO photos.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Understanding+Exposure+by+Bryan+F.+Peterson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Understanding+Exposure+by+Bryan+F.+Peterson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Understanding Exposure on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=v4lw2lZKmioC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Understanding Exposure" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Understanding+Exposure+by+Bryan+F.+Peterson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Understanding Exposure">Understanding Exposure</a>
+</h4>
+<p class="fr-book-author">By Bryan F. Peterson</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 19 Google Books ratings</p>
+<p class="fr-book-desc">Explains exposure and camera behaviour that affect UFO photos.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Understanding+Exposure+by+Bryan+F.+Peterson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Digital+Photography+Book+by+Scott+Kelby&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Digital Photography Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JzemJH1SXugC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Digital Photography Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Digital+Photography+Book+by+Scott+Kelby&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Digital Photography Book">The Digital Photography Book</a>
-        </h4>
-        <p class="fr-book-author">By Scott Kelby</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Digital+Photography+Book+by+Scott+Kelby&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Digital Photography Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JzemJH1SXugC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Digital Photography Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Digital+Photography+Book+by+Scott+Kelby&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Digital Photography Book">The Digital Photography Book</a>
+</h4>
+<p class="fr-book-author">By Scott Kelby</p>
         
-        <p class="fr-book-desc">Helps readers understand camera files, settings and image capture limits.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Digital+Photography+Book+by+Scott+Kelby&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand camera files, settings and image capture limits.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Digital+Photography+Book+by+Scott+Kelby&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Useful for judging claims by evidence quality and provenance.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for judging claims by evidence quality and provenance.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Understanding+Exposure&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Understanding Exposure</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Digital+Photography+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Digital Photography Book</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Understanding+Exposure&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Understanding Exposure</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Digital+Photography+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Digital Photography Book</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-ufo-file-matters-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="why-the-original-ufo-file-matters-camera-memory-card" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Full Size Ultra SD Memory Card 32GB 64GB 128GB 256GB SDHC Class 10 For Cameras"><img src="https://i.ebayimg.com/images/g/51sAAeSwO~No14Aj/s-l225.jpg" alt="Listing image for Full Size Ultra SD Memory Card 32GB 64GB 128GB 256GB SDHC Class 10 For Cameras" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-ufo-file-matters-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="why-the-original-ufo-file-matters-camera-memory-card" target="_blank" rel="sponsored noopener noreferrer">Full Size Ultra SD Memory Card 32GB 64GB 128GB 256GB SDHC Class 10 For Cameras</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-ufo-file-matters-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="why-the-original-ufo-file-matters-camera-memory-card" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera memory card">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera memory card</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-ufo-file-matters-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="why-the-original-ufo-file-matters-camera-memory-card" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-ufo-file-matters-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="why-the-original-ufo-file-matters-camera-memory-card" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Full Size Ultra SD Memory Card 32GB 64GB 128GB 256GB SDHC Class 10 For Cameras"><img src="https://i.ebayimg.com/images/g/51sAAeSwO~No14Aj/s-l225.jpg" alt="Listing image for Full Size Ultra SD Memory Card 32GB 64GB 128GB 256GB SDHC Class 10 For Cameras" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-ufo-file-matters-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="why-the-original-ufo-file-matters-camera-memory-card" target="_blank" rel="sponsored noopener noreferrer">Full Size Ultra SD Memory Card 32GB 64GB 128GB 256GB SDHC Class 10 For Cameras</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-ufo-file-matters-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="why-the-original-ufo-file-matters-camera-memory-card" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera memory card">Search<span data-ebay-domain-label>eBay.co.uk</span>: camera memory card</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-ufo-file-matters-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="why-the-original-ufo-file-matters-camera-memory-card" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-ufo-file-matters-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="why-the-original-ufo-file-matters-camera-memory-card" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FAST SPEED CLASS 10 SD CARD 16GB 32GB 64GB 128GB 256GB, MEMORY CARD FOR CAMERAS"><img src="https://i.ebayimg.com/images/g/Ys8AAeSwK-9qJeGZ/s-l225.jpg" alt="Listing image for FAST SPEED CLASS 10 SD CARD 16GB 32GB 64GB 128GB 256GB, MEMORY CARD FOR CAMERAS" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-ufo-file-matters-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="why-the-original-ufo-file-matters-camera-memory-card" target="_blank" rel="sponsored noopener noreferrer">FAST SPEED CLASS 10 SD CARD 16GB 32GB 64GB 128GB 256GB, MEMORY CARD FOR CAMERAS</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-ufo-file-matters-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="why-the-original-ufo-file-matters-camera-memory-card" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera memory card">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera memory card</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-ufo-file-matters-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="why-the-original-ufo-file-matters-camera-memory-card" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-ufo-file-matters-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="why-the-original-ufo-file-matters-camera-memory-card" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FAST SPEED CLASS 10 SD CARD 16GB 32GB 64GB 128GB 256GB, MEMORY CARD FOR CAMERAS"><img src="https://i.ebayimg.com/images/g/Ys8AAeSwK-9qJeGZ/s-l225.jpg" alt="Listing image for FAST SPEED CLASS 10 SD CARD 16GB 32GB 64GB 128GB 256GB, MEMORY CARD FOR CAMERAS" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-ufo-file-matters-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="why-the-original-ufo-file-matters-camera-memory-card" target="_blank" rel="sponsored noopener noreferrer">FAST SPEED CLASS 10 SD CARD 16GB 32GB 64GB 128GB 256GB, MEMORY CARD FOR CAMERAS</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-ufo-file-matters-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="why-the-original-ufo-file-matters-camera-memory-card" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera memory card">Search<span data-ebay-domain-label>eBay.co.uk</span>: camera memory card</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-ufo-file-matters-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="why-the-original-ufo-file-matters-camera-memory-card" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-ufo-file-matters-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="why-the-original-ufo-file-matters-camera-memory-card" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sandisk 32/64/128 GB Ultra Extreme Pro SD SDHC Class 10 4 Memory Card for Camera"><img src="https://i.ebayimg.com/images/g/htMAAOSw3FledlDs/s-l225.jpg" alt="Listing image for Sandisk 32/64/128 GB Ultra Extreme Pro SD SDHC Class 10 4 Memory Card for Camera" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-ufo-file-matters-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="why-the-original-ufo-file-matters-camera-memory-card" target="_blank" rel="sponsored noopener noreferrer">Sandisk 32/64/128 GB Ultra Extreme Pro SD SDHC Class 10 4 Memory Card for Camera</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-ufo-file-matters-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="why-the-original-ufo-file-matters-camera-memory-card" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera memory card">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera memory card</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-ufo-file-matters-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="why-the-original-ufo-file-matters-camera-memory-card" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-ufo-file-matters-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="why-the-original-ufo-file-matters-camera-memory-card" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sandisk 32/64/128 GB Ultra Extreme Pro SD SDHC Class 10 4 Memory Card for Camera"><img src="https://i.ebayimg.com/images/g/htMAAOSw3FledlDs/s-l225.jpg" alt="Listing image for Sandisk 32/64/128 GB Ultra Extreme Pro SD SDHC Class 10 4 Memory Card for Camera" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-ufo-file-matters-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="why-the-original-ufo-file-matters-camera-memory-card" target="_blank" rel="sponsored noopener noreferrer">Sandisk 32/64/128 GB Ultra Extreme Pro SD SDHC Class 10 4 Memory Card for Camera</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-ufo-file-matters-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="why-the-original-ufo-file-matters-camera-memory-card" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera memory card">Search<span data-ebay-domain-label>eBay.co.uk</span>: camera memory card</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-ufo-file-matters-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="why-the-original-ufo-file-matters-camera-memory-card" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-ufo-file-matters-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="why-the-original-ufo-file-matters-camera-memory-card" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SanDisk Ultra SD Memory Card 16GB 32GB 64GB 128GB SDHC Class 10 Cameras UK"><img src="https://i.ebayimg.com/images/g/3XAAAeSweJZqDw~b/s-l225.jpg" alt="Listing image for SanDisk Ultra SD Memory Card 16GB 32GB 64GB 128GB SDHC Class 10 Cameras UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-ufo-file-matters-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="why-the-original-ufo-file-matters-camera-memory-card" target="_blank" rel="sponsored noopener noreferrer">SanDisk Ultra SD Memory Card 16GB 32GB 64GB 128GB SDHC Class 10 Cameras UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-ufo-file-matters-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="why-the-original-ufo-file-matters-camera-memory-card" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera memory card">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera memory card</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-ufo-file-matters-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="why-the-original-ufo-file-matters-camera-memory-card" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-ufo-file-matters-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="why-the-original-ufo-file-matters-camera-memory-card" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-ufo-file-matters-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="why-the-original-ufo-file-matters-camera-memory-card" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SanDisk Ultra SD Memory Card 16GB 32GB 64GB 128GB SDHC Class 10 Cameras UK"><img src="https://i.ebayimg.com/images/g/3XAAAeSweJZqDw~b/s-l225.jpg" alt="Listing image for SanDisk Ultra SD Memory Card 16GB 32GB 64GB 128GB SDHC Class 10 Cameras UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-ufo-file-matters-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="why-the-original-ufo-file-matters-camera-memory-card" target="_blank" rel="sponsored noopener noreferrer">SanDisk Ultra SD Memory Card 16GB 32GB 64GB 128GB SDHC Class 10 Cameras UK</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-ufo-file-matters-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="why-the-original-ufo-file-matters-camera-memory-card" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera memory card">Search<span data-ebay-domain-label>eBay.co.uk</span>: camera memory card</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-ufo-file-matters-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="why-the-original-ufo-file-matters-camera-memory-card" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-ufo-file-matters-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="why-the-original-ufo-file-matters-camera-memory-card" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -565,7 +565,7 @@ The original photo or video provides a bridge between the witness account and th
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -585,7 +585,7 @@ The original photo or video provides a bridge between the witness account and th
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -617,7 +617,7 @@ The original photo or video provides a bridge between the witness account and th
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -669,7 +669,7 @@ The original photo or video provides a bridge between the witness account and th
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -714,7 +714,7 @@ The original photo or video provides a bridge between the witness account and th
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -755,108 +755,108 @@ The original photo or video provides a bridge between the witness account and th
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nasa.gov  
    Title: update nasa shares uap independent study report names director  
-   Link: <a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through sys...</p></details>
+   Link:<a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through sys...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sciepublish.com  
-   Link: <a href="https://www.sciepublish.com/article/pii/567" target="_blank" rel="noopener noreferrer nofollow">https://www.sciepublish.com/article/pii/567</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Forensic Value of Exif Data: An Analytical Evaluation...by N Soni · 2025 · Cited by 6 — This research adopts an empirical approach to an...</p></details>
+   Link:<a href="https://www.sciepublish.com/article/pii/567" target="_blank" rel="noopener noreferrer nofollow">https://www.sciepublish.com/article/pii/567</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Forensic Value of Exif Data: An Analytical Evaluation...by N Soni · 2025 · Cited by 6 — This research adopts an empirical approach to an...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: skyandtelescope.org  
    Title: nasa finds no evidence ufos are extraterrestrial promises further study  
-   Link: <a href="https://skyandtelescope.org/astronomy-news/nasa-finds-no-evidence-ufos-are-extraterrestrial-promises-further-study/" target="_blank" rel="noopener noreferrer nofollow">https://skyandtelescope.org/astronomy-news/nasa-finds-no-evidence-ufos-are-extraterrestrial-promises-further-study/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>First, UAP reports are typically single sightings and lack multiple measurements. Those individual reports also often lack sensor metadat...</p></details>
+   Link:<a href="https://skyandtelescope.org/astronomy-news/nasa-finds-no-evidence-ufos-are-extraterrestrial-promises-further-study/" target="_blank" rel="noopener noreferrer nofollow">https://skyandtelescope.org/astronomy-news/nasa-finds-no-evidence-ufos-are-extraterrestrial-promises-further-study/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>First, UAP reports are typically single sightings and lack multiple measurements. Those individual reports also often lack sensor metadat...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — The UAP Independent Study shall report on the following questions: What types of scientific data currently collec...</p></details>
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — The UAP Independent Study shall report on the following questions: What types of scientific data currently collec...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ojp.gov  
    Title: Office of Justice Programs EXIF: A Format Is Worth A Thousand Words  
-   Link: <a href="https://www.ojp.gov/pdffiles1/nij/nlectc/218283.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ojp.gov/pdffiles1/nij/nlectc/218283.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Office of Justice ProgramsEXIF: A Format Is Worth A Thousand WordsJune 25, 2020 — The National Center for Missing &amp; Exploited Children re...</p></details>
+   Link:<a href="https://www.ojp.gov/pdffiles1/nij/nlectc/218283.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ojp.gov/pdffiles1/nij/nlectc/218283.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Office of Justice ProgramsEXIF: A Format Is Worth A Thousand WordsJune 25, 2020 — The National Center for Missing &amp; Exploited Children re...</p></details>
    Published: June 25, 2020  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: fast.io  
-   Link: <a href="https://fast.io/resources/social-media-photo-metadata-platforms-strip/" target="_blank" rel="noopener noreferrer nofollow">https://fast.io/resources/social-media-photo-metadata-platforms-strip/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ioWhich Social Media Platforms Strip Photo Metadata?See which social media platforms strip EXIF data from photos. Tested results for...</p></details>
+   Link:<a href="https://fast.io/resources/social-media-photo-metadata-platforms-strip/" target="_blank" rel="noopener noreferrer nofollow">https://fast.io/resources/social-media-photo-metadata-platforms-strip/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ioWhich Social Media Platforms Strip Photo Metadata?See which social media platforms strip EXIF data from photos. Tested results for...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: science.org  
    Title: nasa ufo team calls higher quality data first public meeting  
-   Link: <a href="https://www.science.org/content/article/nasa-ufo-team-calls-higher-quality-data-first-public-meeting" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/content/article/nasa-ufo-team-calls-higher-quality-data-first-public-meeting</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO team calls for higher quality data in first public...31 May 2023 — But any existing data sets applied to the question of UAPs w...</p></details>
+   Link:<a href="https://www.science.org/content/article/nasa-ufo-team-calls-higher-quality-data-first-public-meeting" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/content/article/nasa-ufo-team-calls-higher-quality-data-first-public-meeting</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO team calls for higher quality data in first public...31 May 2023 — But any existing data sets applied to the question of UAPs w...</p></details>
    Published: May 2023  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: proton.me  
    Title: exif data  
-   Link: <a href="https://proton.me/blog/exif-data" target="_blank" rel="noopener noreferrer nofollow">https://proton.me/blog/exif-data</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Always delete metadata before uploading your photos to websites, cloud storage, or messaging apps.Read more...</p></details>
+   Link:<a href="https://proton.me/blog/exif-data" target="_blank" rel="noopener noreferrer nofollow">https://proton.me/blog/exif-data</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Always delete metadata before uploading your photos to websites, cloud storage, or messaging apps.Read more...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: globalchildexploitationpolicy.org  
-   Link: <a href="https://globalchildexploitationpolicy.org/content/gpp-ncmec/us/en/policy-advocacy/exploitative-content.html" target="_blank" rel="noopener noreferrer nofollow">https://globalchildexploitationpolicy.org/content/gpp-ncmec/us/en/policy-advocacy/exploitative-content.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Briefly: Exploitative ContentExploitative content refers to imagery that may not be considered unlawful child sexual abuse material (CSAM...</p></details>
+   Link:<a href="https://globalchildexploitationpolicy.org/content/gpp-ncmec/us/en/policy-advocacy/exploitative-content.html" target="_blank" rel="noopener noreferrer nofollow">https://globalchildexploitationpolicy.org/content/gpp-ncmec/us/en/policy-advocacy/exploitative-content.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Briefly: Exploitative ContentExploitative content refers to imagery that may not be considered unlawful child sexual abuse material (CSAM...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: exifremover.com  
-   Link: <a href="https://exifremover.com/" target="_blank" rel="noopener noreferrer nofollow">https://exifremover.com/</a>  
+   Link:<a href="https://exifremover.com/" target="_blank" rel="noopener noreferrer nofollow">https://exifremover.com/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/hacking/comments/18no8ar/i_dont_know_how_relevant_this_is_but/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/hacking/comments/18no8ar/i_dont_know_how_relevant_this_is_but/</a>  
+   Link:<a href="https://www.reddit.com/r/hacking/comments/18no8ar/i_dont_know_how_relevant_this_is_but/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/hacking/comments/18no8ar/i_dont_know_how_relevant_this_is_but/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: blogs.loc.gov  
    Title: social media networks stripping data from your digital photos  
-   Link: <a href="https://blogs.loc.gov/thesignal/2013/04/social-media-networks-stripping-data-from-your-digital-photos/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.loc.gov/thesignal/2013/04/social-media-networks-stripping-data-from-your-digital-photos/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Library of CongressSocial Media Networks Stripping Data from Your Digital...11 Apr 2013 — This survey shows that a number of the mor...</p></details>
+   Link:<a href="https://blogs.loc.gov/thesignal/2013/04/social-media-networks-stripping-data-from-your-digital-photos/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.loc.gov/thesignal/2013/04/social-media-networks-stripping-data-from-your-digital-photos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Library of CongressSocial Media Networks Stripping Data from Your Digital...11 Apr 2013 — This survey shows that a number of the mor...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/cybersecurity_help/comments/plhqut/is_it_possible_to_extract_metadata_from_images_if/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/cybersecurity_help/comments/plhqut/is_it_possible_to_extract_metadata_from_images_if/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How much information can be collected from an image uploaded to a social media account? What kind of information...</p></details>
+   Link:<a href="https://www.reddit.com/r/cybersecurity_help/comments/plhqut/is_it_possible_to_extract_metadata_from_images_if/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/cybersecurity_help/comments/plhqut/is_it_possible_to_extract_metadata_from_images_if/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How much information can be collected from an image uploaded to a social media account? What kind of information...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQcqOW39ksk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena Independent Study ReportNASA commissioned an independent study team to examine unidentified anomalous ph...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQcqOW39ksk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena Independent Study ReportNASA commissioned an independent study team to examine unidentified anomalous ph...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: utica.edu  
-   Link: <a href="https://www.utica.edu/academic/institutes/ecii/publications/articles/A0B1F944-FF4E-4788-E75541A7418DAE24.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.utica.edu/academic/institutes/ecii/publications/articles/A0B1F944-FF4E-4788-E75541A7418DAE24.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ta in files when written to file formats that support arbitrary extra data (PSD TIFF, EPS and PDF), and...</p></details>
+   Link:<a href="https://www.utica.edu/academic/institutes/ecii/publications/articles/A0B1F944-FF4E-4788-E75541A7418DAE24.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.utica.edu/academic/institutes/ecii/publications/articles/A0B1F944-FF4E-4788-E75541A7418DAE24.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ta in files when written to file formats that support arbitrary extra data (PSD TIFF, EPS and PDF), and...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: 1854.photography  
    Title: study exposes social media sites that delete photographs metadata  
-   Link: <a href="https://www.1854.photography/2013/03/study-exposes-social-media-sites-that-delete-photographs-metadata/" target="_blank" rel="noopener noreferrer nofollow">https://www.1854.photography/2013/03/study-exposes-social-media-sites-that-delete-photographs-metadata/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Study exposes social media sites that delete photographs&#x27;...13 Mar 2013 — The results show that Facebook and Flickr are some of the wors...</p></details>
+   Link:<a href="https://www.1854.photography/2013/03/study-exposes-social-media-sites-that-delete-photographs-metadata/" target="_blank" rel="noopener noreferrer nofollow">https://www.1854.photography/2013/03/study-exposes-social-media-sites-that-delete-photographs-metadata/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Study exposes social media sites that delete photographs&#x27;...13 Mar 2013 — The results show that Facebook and Flickr are some of the wors...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: port.ac.uk  
    Title: ufos what well learn from the nasa panel investigating sightings  
-   Link: <a href="https://www.port.ac.uk/news-events-and-blogs/blogs/developing-enhanced-technologies/ufos-what-well-learn-from-the-nasa-panel-investigating-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.port.ac.uk/news-events-and-blogs/blogs/developing-enhanced-technologies/ufos-what-well-learn-from-the-nasa-panel-investigating-sightings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>what we&#x27;ll learn from the Nasa panel investigating sightings13 Jun 2023 — A committee set up by Nasa has examined about 800 reports of un...</p></details>
+   Link:<a href="https://www.port.ac.uk/news-events-and-blogs/blogs/developing-enhanced-technologies/ufos-what-well-learn-from-the-nasa-panel-investigating-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.port.ac.uk/news-events-and-blogs/blogs/developing-enhanced-technologies/ufos-what-well-learn-from-the-nasa-panel-investigating-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>what we&#x27;ll learn from the Nasa panel investigating sightings13 Jun 2023 — A committee set up by Nasa has examined about 800 reports of un...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: nevadacurrent.com  
    Title: nasa report finds no evidence that ufos are extraterrestrial  
-   Link: <a href="https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/" target="_blank" rel="noopener noreferrer nofollow">https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>18 Sept 2023 — Analysis of this data is “hampered by poor sensor calibration, the lack of multiple measurements, the lack of sensor metad...</p></details>
+   Link:<a href="https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/" target="_blank" rel="noopener noreferrer nofollow">https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>18 Sept 2023 — Analysis of this data is “hampered by poor sensor calibration, the lack of multiple measurements, the lack of sensor metad...</p></details>

@@ -268,19 +268,19 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391_compres
 
 ## Introduction
 
-A surprising number of UFO “trails”, glowing auras and apparent wakes are not features of the object in the sky at all. They are features of the video. Modern digital video is heavily compressed so that it can be transmitted, streamed and stored efficiently. When a small bright object occupies only a few pixels against a mostly empty background, the compression system has little information to work with. As a result, ordinary [aircraft lights]({{ 'aircraft-lights/' | relative_url }}), [satellites]({{ 'satellites/' | relative_url }}) or distant objects can acquire smears, halos, ghost images or trailing streaks that were never present in the original scene. In UFO investigations, these artefacts matter because they can create the impression of unusual propulsion, atmospheric disturbance or extraordinary motion where none exists. NASA and the U.S. Department of Defense have both cited video-compression effects when discussing well-known UFO footage that appeared to show mysterious wakes behind airborne objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — Footage taken by an MQ-9 of an unidentified object in South Asia with an ap...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
+A surprising number of UFO “trails”, glowing auras and apparent wakes are not features of the object in the sky at all. They are features of the video. Modern digital video is heavily compressed so that it can be transmitted, streamed and stored efficiently. When a small bright object occupies only a few pixels against a mostly empty background, the compression system has little information to work with. As a result, ordinary [aircraft lights]({{ 'aircraft-lights/' | relative_url }}), [satellites]({{ 'satellites/' | relative_url }}) or distant objects can acquire smears, halos, ghost images or trailing streaks that were never present in the original scene. In UFO investigations, these artefacts matter because they can create the impression of unusual propulsion, atmospheric disturbance or extraordinary motion where none exists. NASA and the U.S. Department of Defense have both cited video-compression effects when discussing well-known UFO footage that appeared to show mysterious wakes behind airborne objects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — Footage taken by an MQ-9 of an unidentified object in South Asia with an ap...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391_compression_ufo_arti_efacc5-Illustration-1-dark.svg" | relative_url }}" alt="Compression illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391_compression_ufo_arti_efacc5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391_compression_ufo_arti_efacc5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## When Small Objects Defeat the Codec
 
-Digital video codecs such as H.264 and H.265 reduce file size by predicting what remains unchanged between frames and storing only the differences. This approach works well for large, stable features. It becomes much less reliable when the scene contains a tiny bright target moving across a relatively featureless background. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dwe.ai/blogs/news/what-are-h-264-compression-artifacts?srsltid=AfmBOoptXeNyGaMCJ1zAzt9fCtaFzah4JnxW7wp7QEbjYW88D16ea7qd" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dwe.ai">[DeepWater Exploration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dwe.ai</span><span class="citation-popover-title">Deep Water Exploration What are H.264 Compression Artifacts?</span><span class="citation-popover-snippet">DeepWater ExplorationWhat are H.264 Compression Artifacts?June 27, 2024 — 13 Jun 2024 — 264 compression algorithm prioritizes maintaining...</span><span class="citation-popover-meta">Published: June 27, 2024</span></span></span>
+Digital video codecs such as H.264 and H.265 reduce file size by predicting what remains unchanged between frames and storing only the differences. This approach works well for large, stable features. It becomes much less reliable when the scene contains a tiny bright target moving across a relatively featureless background.<span class="citation-chip-wrap"><a class="citation-chip" href="https://dwe.ai/blogs/news/what-are-h-264-compression-artifacts?srsltid=AfmBOoptXeNyGaMCJ1zAzt9fCtaFzah4JnxW7wp7QEbjYW88D16ea7qd" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dwe.ai">[DeepWater Exploration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dwe.ai</span><span class="citation-popover-title">Deep Water Exploration What are H.264 Compression Artifacts?</span><span class="citation-popover-snippet">DeepWater ExplorationWhat are H.264 Compression Artifacts?June 27, 2024 — 13 Jun 2024 — 264 compression algorithm prioritizes maintaining...</span><span class="citation-popover-meta">Published: June 27, 2024</span></span></span>
 
 Several common artefacts can emerge:
 
 * **Motion smearing:** The codec blends information across frames to save bandwidth, making a bright point appear stretched.
 * **Ghosting:** Residual data from previous frames can linger, producing a faint duplicate or trailing image.
 * **Ringing:** [Bright objects]({{ 'bright-objects/' | relative_url }}) may acquire halos or outlines caused by the way compression reconstructs sharp edges.
-* **Blocking and blur:** The object can lose its true shape and become surrounded by artificial patterns created by compression blocks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.avnetwork.com/avtechnology/compression-artifacts-why-video-looks-bad" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avnetwork.com">[AVNetwork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avnetwork.com</span><span class="citation-popover-snippet">Compression Artifacts: Why Video Looks “Bad”15 Nov 2017 — An increase in resolution makes blocking artifacts smaller in terms of...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://wavelab.at/papers/Unterweger13a.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wavelab.at">[3wavelab.at]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wavelab.at</span><span class="citation-popover-snippet">This chapter describes and explains common as well as less common distortions in modern video coding, ranging from artifacts appearing in...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://eceweb.uwaterloo.ca/~z70wang/publications/HVEI14.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eceweb.uwaterloo.ca">[3eceweb.uwaterloo.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eceweb.uwaterloo.ca</span><span class="citation-popover-snippet">e of distortion frequently seen in reconstructed video produced by video compression standards, which use...Read more...</span></span></span>
+* **Blocking and blur:** The object can lose its true shape and become surrounded by artificial patterns created by compression blocks.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.avnetwork.com/avtechnology/compression-artifacts-why-video-looks-bad" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avnetwork.com">[AVNetwork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avnetwork.com</span><span class="citation-popover-snippet">Compression Artifacts: Why Video Looks “Bad”15 Nov 2017 — An increase in resolution makes blocking artifacts smaller in terms of...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://wavelab.at/papers/Unterweger13a.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wavelab.at">[3wavelab.at]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wavelab.at</span><span class="citation-popover-snippet">This chapter describes and explains common as well as less common distortions in modern video coding, ranging from artifacts appearing in...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://eceweb.uwaterloo.ca/~z70wang/publications/HVEI14.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eceweb.uwaterloo.ca">[3eceweb.uwaterloo.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eceweb.uwaterloo.ca</span><span class="citation-popover-snippet">e of distortion frequently seen in reconstructed video produced by video compression standards, which use...Read more...</span></span></span>
 
 In UFO footage, viewers often interpret these distortions as physical effects. A faint streak behind an aircraft may look like a propulsion trail. A halo around a bright light may appear to be an energy field. Because the artefacts move with the object, they can seem convincingly real.
 
@@ -292,7 +292,7 @@ The problem is amplified when the object itself is unresolved. If the viewer can
 
 Video compression is designed around a trade-off: preserve the overall appearance of a scene while discarding information that seems less important to human viewers. A distant aircraft occupying a handful of pixels is exactly the kind of detail that receives aggressive simplification.
 
-Instead of storing every frame independently, codecs estimate motion and predict where pixels will appear next. When prediction is imperfect, the reconstruction process can leave behind traces of previous positions or create blurred transitions between frames. At low bitrates, fast motion and high contrast make these effects more noticeable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dwe.ai/blogs/news/what-are-h-264-compression-artifacts?srsltid=AfmBOoptXeNyGaMCJ1zAzt9fCtaFzah4JnxW7wp7QEbjYW88D16ea7qd" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dwe.ai">[DeepWater Exploration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dwe.ai</span><span class="citation-popover-title">Deep Water Exploration What are H.264 Compression Artifacts?</span><span class="citation-popover-snippet">DeepWater ExplorationWhat are H.264 Compression Artifacts?June 27, 2024 — 13 Jun 2024 — 264 compression algorithm prioritizes maintaining...</span><span class="citation-popover-meta">Published: June 27, 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://wavelab.at/papers/Unterweger13a.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wavelab.at">[2wavelab.at]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wavelab.at</span><span class="citation-popover-snippet">This chapter describes and explains common as well as less common distortions in modern video coding, ranging from artifacts appearing in...</span></span></span>
+Instead of storing every frame independently, codecs estimate motion and predict where pixels will appear next. When prediction is imperfect, the reconstruction process can leave behind traces of previous positions or create blurred transitions between frames. At low bitrates, fast motion and high contrast make these effects more noticeable.<span class="citation-chip-wrap"><a class="citation-chip" href="https://dwe.ai/blogs/news/what-are-h-264-compression-artifacts?srsltid=AfmBOoptXeNyGaMCJ1zAzt9fCtaFzah4JnxW7wp7QEbjYW88D16ea7qd" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dwe.ai">[DeepWater Exploration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dwe.ai</span><span class="citation-popover-title">Deep Water Exploration What are H.264 Compression Artifacts?</span><span class="citation-popover-snippet">DeepWater ExplorationWhat are H.264 Compression Artifacts?June 27, 2024 — 13 Jun 2024 — 264 compression algorithm prioritizes maintaining...</span><span class="citation-popover-meta">Published: June 27, 2024</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://wavelab.at/papers/Unterweger13a.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wavelab.at">[2wavelab.at]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wavelab.at</span><span class="citation-popover-snippet">This chapter describes and explains common as well as less common distortions in modern video coding, ranging from artifacts appearing in...</span></span></span>
 
 This is especially relevant for UFO clips because many share the same characteristics:
 
@@ -325,7 +325,7 @@ A typical chain might involve:
 
 </div>
 
-Each generation introduces further loss of information. Researchers and video engineers refer to this cumulative degradation as generation loss. Artefacts that were barely visible in the original file can become prominent after several rounds of recompression. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Compression_artifact" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Compression artifact</span><span class="citation-popover-snippet">Compression artifact</span></span></span>
+Each generation introduces further loss of information. Researchers and video engineers refer to this cumulative degradation as generation loss. Artefacts that were barely visible in the original file can become prominent after several rounds of recompression.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Compression_artifact" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Compression artifact</span><span class="citation-popover-snippet">Compression artifact</span></span></span>
 
 This helps explain why some UFO videos appear to gain strange visual properties as they spread online. A faint blur can become a conspicuous wake. A barely noticeable edge distortion can grow into an apparent glowing aura. Investigators who work from viral copies rather than original recordings may therefore be analysing artefacts produced by the distribution process rather than by the recorded event itself.
 
@@ -335,11 +335,11 @@ This helps explain why some UFO videos appear to gain strange visual properties 
 
 One of the clearest modern examples comes from the so-called “Atmospheric Wake” videos released through official UAP channels.
 
-The footage, recorded by an MQ-9 drone, appeared to show an airborne object generating a remarkable trailing disturbance or cavitation-like wake. To many viewers, the apparent effect suggested unusual flight characteristics. The imagery became widely discussed within UFO circles and was presented publicly as an unresolved case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/News-Stories/Article/Article/3368109/dod-working-to-better-understand-resolve-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">dod working to better understand resolve anomalous phenomena</span><span class="citation-popover-snippet">Department of WarDOD Working to Better Understand, Resolve Anomalous...19 Apr 2023 — In a Senate hearing, Sean M. Kirkpatrick, AARO dire...</span></span></span>
+The footage, recorded by an MQ-9 drone, appeared to show an airborne object generating a remarkable trailing disturbance or cavitation-like wake. To many viewers, the apparent effect suggested unusual flight characteristics. The imagery became widely discussed within UFO circles and was presented publicly as an unresolved case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/News-Stories/Article/Article/3368109/dod-working-to-better-understand-resolve-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">dod working to better understand resolve anomalous phenomena</span><span class="citation-popover-snippet">Department of WarDOD Working to Better Understand, Resolve Anomalous...19 Apr 2023 — In a Senate hearing, Sean M. Kirkpatrick, AARO dire...</span></span></span>
 
-Subsequent analysis reached a different conclusion. NASA's Independent UAP Study Team noted that the apparent wake was likely a sensor artefact resulting from video compression. [AARO]({{ 'aaro/' | relative_url }}), the All-domain Anomaly Resolution Office, later stated that analysis of the full-motion video, additional footage and flight data indicated the object was likely a conventional commercial aircraft and that the trailing feature was a compression-related sensor artefact rather than a physical wake. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — Footage taken by an MQ-9 of an unidentified object in South Asia with an ap...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">UAP Imagery UAP Video: Atmospheric Wake</span><span class="citation-popover-snippet">UAP ImageryUAP Video: Atmospheric Wake - South Asian Object (Sensor #1), An MQ-9 forward... artifact resultant of video compression...</span></span></span>
+Subsequent analysis reached a different conclusion. NASA's Independent UAP Study Team noted that the apparent wake was likely a sensor artefact resulting from video compression. [AARO]({{ 'aaro/' | relative_url }}), the All-domain Anomaly Resolution Office, later stated that analysis of the full-motion video, additional footage and flight data indicated the object was likely a conventional commercial aircraft and that the trailing feature was a compression-related sensor artefact rather than a physical wake.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — Footage taken by an MQ-9 of an unidentified object in South Asia with an ap...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">UAP Imagery UAP Video: Atmospheric Wake</span><span class="citation-popover-snippet">UAP ImageryUAP Video: Atmospheric Wake - South Asian Object (Sensor #1), An MQ-9 forward... artifact resultant of video compression...</span></span></span>
 
-The case is important because it demonstrates how persuasive compression artefacts can be. Even trained observers examining military sensor footage initially saw a feature that resembled a real aerodynamic effect. Only detailed analysis using additional data revealed that the apparent wake existed in the video processing chain rather than in the [atmosphere]({{ 'atmosphere/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Atmospheric_Wakes_508-02262024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Case Resolution of &#x27;Atmospheric Wakes&#x27;(U) AARO&#x27;s Intelligence partners assess with high confidence that the “atmospheric wake” in eac...</span></span></span>
+The case is important because it demonstrates how persuasive compression artefacts can be. Even trained observers examining military sensor footage initially saw a feature that resembled a real aerodynamic effect. Only detailed analysis using additional data revealed that the apparent wake existed in the video processing chain rather than in the [atmosphere]({{ 'atmosphere/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Atmospheric_Wakes_508-02262024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Case Resolution of &#x27;Atmospheric Wakes&#x27;(U) AARO&#x27;s Intelligence partners assess with high confidence that the “atmospheric wake” in eac...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QoZ8pccsYo4" title="How Video Compression Works" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QoZ8pccsYo4" target="_blank" rel="noopener noreferrer">How Video Compression Works</a></p><p class="youtube-embed-meta">Channel: Leo Isikdogan &middot; Views: 157.6K &middot; Uploaded: August 2018 &middot; Length: 4 minutes 44 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QoZ8pccsYo4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QoZ8pccsYo4">Open on YouTube</a></p></div></div></div>
 
@@ -355,205 +355,205 @@ A suspected artefact becomes more likely when:
 * The feature appears only in compressed copies.
 * The effect weakens or disappears in higher-quality versions.
 * The trail follows pixel structure rather than physical airflow.
-* Independent sensor data fail to support the visual appearance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">UAP Imagery UAP Video: Atmospheric Wake</span><span class="citation-popover-snippet">UAP ImageryUAP Video: Atmospheric Wake - South Asian Object (Sensor #1), An MQ-9 forward... artifact resultant of video compression...</span></span></span>
+* Independent sensor data fail to support the visual appearance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">UAP Imagery UAP Video: Atmospheric Wake</span><span class="citation-popover-snippet">UAP ImageryUAP Video: Atmospheric Wake - South Asian Object (Sensor #1), An MQ-9 forward... artifact resultant of video compression...</span></span></span>
 
 </div>
 
 Investigators therefore place high value on [original files]({{ 'original-files/' | relative_url }}), longer recordings and multiple viewpoints. A genuine physical trail should remain consistent across different recordings and analysis methods. A compression artefact often changes dramatically when the source video, bitrate or processing chain changes.
 
-For UFO reports, this distinction is crucial. An apparent aura or wake may look like evidence of extraordinary technology, yet the most likely explanation can be a routine consequence of how digital video systems store moving points of light. Compression does not merely reduce image quality; in some circumstances it can create visual features that never existed in the scene being recorded. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dwe.ai/blogs/news/what-are-h-264-compression-artifacts?srsltid=AfmBOoptXeNyGaMCJ1zAzt9fCtaFzah4JnxW7wp7QEbjYW88D16ea7qd" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dwe.ai">[DeepWater Exploration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dwe.ai</span><span class="citation-popover-title">Deep Water Exploration What are H.264 Compression Artifacts?</span><span class="citation-popover-snippet">DeepWater ExplorationWhat are H.264 Compression Artifacts?June 27, 2024 — 13 Jun 2024 — 264 compression algorithm prioritizes maintaining...</span><span class="citation-popover-meta">Published: June 27, 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://wavelab.at/papers/Unterweger13a.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wavelab.at">[2wavelab.at]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wavelab.at</span><span class="citation-popover-snippet">This chapter describes and explains common as well as less common distortions in modern video coding, ranging from artifacts appearing in...</span></span></span>
+For UFO reports, this distinction is crucial. An apparent aura or wake may look like evidence of extraordinary technology, yet the most likely explanation can be a routine consequence of how digital video systems store moving points of light. Compression does not merely reduce image quality; in some circumstances it can create visual features that never existed in the scene being recorded.<span class="citation-chip-wrap"><a class="citation-chip" href="https://dwe.ai/blogs/news/what-are-h-264-compression-artifacts?srsltid=AfmBOoptXeNyGaMCJ1zAzt9fCtaFzah4JnxW7wp7QEbjYW88D16ea7qd" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dwe.ai">[DeepWater Exploration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dwe.ai</span><span class="citation-popover-title">Deep Water Exploration What are H.264 Compression Artifacts?</span><span class="citation-popover-snippet">DeepWater ExplorationWhat are H.264 Compression Artifacts?June 27, 2024 — 13 Jun 2024 — 264 compression algorithm prioritizes maintaining...</span><span class="citation-popover-meta">Published: June 27, 2024</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://wavelab.at/papers/Unterweger13a.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wavelab.at">[2wavelab.at]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wavelab.at</span><span class="citation-popover-snippet">This chapter describes and explains common as well as less common distortions in modern video coding, ranging from artifacts appearing in...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391_compression_ufo_arti_efacc5-Illustration-3-dark.svg" | relative_url }}" alt="Compression illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391_compression_ufo_arti_efacc5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391_compression_ufo_arti_efacc5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When the Trail Is in the Video. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When the Trail Is in the Video. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Filmmaker%27s+Handbook+by+Steven+Ascher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Filmmaker&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zp4KMKwnYVoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Filmmaker&#x27;s Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Filmmaker%27s+Handbook+by+Steven+Ascher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Filmmaker&#x27;s Handbook">The Filmmaker&#x27;s Handbook</a>
-        </h4>
-        <p class="fr-book-author">By Steven Ascher, Edward Pincus</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Filmmaker%27s+Handbook+by+Steven+Ascher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Filmmaker&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zp4KMKwnYVoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Filmmaker&#x27;s Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Filmmaker%27s+Handbook+by+Steven+Ascher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Filmmaker&#x27;s Handbook">The Filmmaker&#x27;s Handbook</a>
+</h4>
+<p class="fr-book-author">By Steven Ascher, Edward Pincus</p>
         
-        <p class="fr-book-desc">Covers digital video technology and image artefacts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Filmmaker%27s+Handbook+by+Steven+Ascher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers digital video technology and image artefacts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Filmmaker%27s+Handbook+by+Steven+Ascher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Encourages scrutiny of apparent visual anomalies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages scrutiny of apparent visual anomalies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Adds UFO investigation context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Adds UFO investigation context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Video+Works+Diana+Weynand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Video Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13187581-M.jpg" alt="Cover for How Video Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+Video+Works+Diana+Weynand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Video Works">How Video Works</a>
-        </h4>
-        <p class="fr-book-author">By Diana Weynand, Vance Piccin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Video+Works+Diana+Weynand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Video Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13187581-M.jpg" alt="Cover for How Video Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+Video+Works+Diana+Weynand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Video Works">How Video Works</a>
+</h4>
+<p class="fr-book-author">By Diana Weynand, Vance Piccin</p>
         
-        <p class="fr-book-desc">First published 2015. Subjects: Home video systems, Digital video, Vidéo d&#x27;amateurs, Vidéo numérique.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+Video+Works+Diana+Weynand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2015. Subjects: Home video systems, Digital video, Vidéo d&#x27;amateurs, Vidéo numérique.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+Video+Works+Diana+Weynand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Filmmaker%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Filmmaker&#x27;s books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Filmmaker%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Filmmaker&#x27;s books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-trail-is-in-the-video-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-the-trail-is-in-the-video-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-trail-is-in-the-video-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-the-trail-is-in-the-video-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-trail-is-in-the-video-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-the-trail-is-in-the-video-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-trail-is-in-the-video-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-the-trail-is-in-the-video-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-trail-is-in-the-video-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-the-trail-is-in-the-video-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-trail-is-in-the-video-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-the-trail-is-in-the-video-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-trail-is-in-the-video-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-the-trail-is-in-the-video-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-trail-is-in-the-video-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-the-trail-is-in-the-video-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-trail-is-in-the-video-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-the-trail-is-in-the-video-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-trail-is-in-the-video-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-the-trail-is-in-the-video-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-trail-is-in-the-video-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-the-trail-is-in-the-video-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-trail-is-in-the-video-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-the-trail-is-in-the-video-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-trail-is-in-the-video-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-the-trail-is-in-the-video-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-trail-is-in-the-video-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-the-trail-is-in-the-video-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-trail-is-in-the-video-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-the-trail-is-in-the-video-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-trail-is-in-the-video-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-the-trail-is-in-the-video-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-trail-is-in-the-video-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-the-trail-is-in-the-video-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-trail-is-in-the-video-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-the-trail-is-in-the-video-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-trail-is-in-the-video-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-the-trail-is-in-the-video-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-trail-is-in-the-video-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-the-trail-is-in-the-video-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-trail-is-in-the-video-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-the-trail-is-in-the-video-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-trail-is-in-the-video-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-the-trail-is-in-the-video-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-trail-is-in-the-video-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-the-trail-is-in-the-video-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-trail-is-in-the-video-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-the-trail-is-in-the-video-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-trail-is-in-the-video-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-the-trail-is-in-the-video-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-trail-is-in-the-video-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-the-trail-is-in-the-video-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-trail-is-in-the-video-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-the-trail-is-in-the-video-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-trail-is-in-the-video-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-the-trail-is-in-the-video-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-trail-is-in-the-video-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-the-trail-is-in-the-video-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-trail-is-in-the-video-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-the-trail-is-in-the-video-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-trail-is-in-the-video-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-the-trail-is-in-the-video-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-trail-is-in-the-video-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-the-trail-is-in-the-video-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-trail-is-in-the-video-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-the-trail-is-in-the-video-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-trail-is-in-the-video-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-the-trail-is-in-the-video-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -569,7 +569,7 @@ For UFO reports, this distinction is crucial. An apparent aura or wake may look 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -589,7 +589,7 @@ For UFO reports, this distinction is crucial. An apparent aura or wake may look 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -621,7 +621,7 @@ For UFO reports, this distinction is crucial. An apparent aura or wake may look 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -673,7 +673,7 @@ For UFO reports, this distinction is crucial. An apparent aura or wake may look 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -718,7 +718,7 @@ For UFO reports, this distinction is crucial. An apparent aura or wake may look 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -759,115 +759,115 @@ For UFO reports, this distinction is crucial. An apparent aura or wake may look 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — Footage taken by an MQ-9 of an unidentified object in South Asia with an ap...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — Footage taken by an MQ-9 of an unidentified object in South Asia with an ap...</p></details>
    Published: September 13, 2023  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: aaro.mil  
    Title: UAP Imagery UAP Video: Atmospheric Wake  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryUAP Video: Atmospheric Wake - South Asian Object (Sensor #1), An MQ-9 forward... artifact resultant of video compression...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryUAP Video: Atmospheric Wake - South Asian Object (Sensor #1), An MQ-9 forward... artifact resultant of video compression...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: wavelab.at  
-   Link: <a href="https://wavelab.at/papers/Unterweger13a.pdf" target="_blank" rel="noopener noreferrer nofollow">https://wavelab.at/papers/Unterweger13a.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This chapter describes and explains common as well as less common distortions in modern video coding, ranging from artifacts appearing in...</p></details>
+   Link:<a href="https://wavelab.at/papers/Unterweger13a.pdf" target="_blank" rel="noopener noreferrer nofollow">https://wavelab.at/papers/Unterweger13a.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This chapter describes and explains common as well as less common distortions in modern video coding, ranging from artifacts appearing in...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: eceweb.uwaterloo.ca  
-   Link: <a href="https://eceweb.uwaterloo.ca/~z70wang/publications/HVEI14.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eceweb.uwaterloo.ca/~z70wang/publications/HVEI14.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>e of distortion frequently seen in reconstructed video produced by video compression standards, which use...Read more...</p></details>
+   Link:<a href="https://eceweb.uwaterloo.ca/~z70wang/publications/HVEI14.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eceweb.uwaterloo.ca/~z70wang/publications/HVEI14.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>e of distortion frequently seen in reconstructed video produced by video compression standards, which use...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: avnetwork.com  
-   Link: <a href="https://www.avnetwork.com/avtechnology/compression-artifacts-why-video-looks-bad" target="_blank" rel="noopener noreferrer nofollow">https://www.avnetwork.com/avtechnology/compression-artifacts-why-video-looks-bad</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Compression Artifacts: Why Video Looks “Bad”15 Nov 2017 — An increase in resolution makes blocking artifacts smaller in terms of...</p></details>
+   Link:<a href="https://www.avnetwork.com/avtechnology/compression-artifacts-why-video-looks-bad" target="_blank" rel="noopener noreferrer nofollow">https://www.avnetwork.com/avtechnology/compression-artifacts-why-video-looks-bad</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Compression Artifacts: Why Video Looks “Bad”15 Nov 2017 — An increase in resolution makes blocking artifacts smaller in terms of...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Compression artifact  
-   Link: <a href="https://en.wikipedia.org/wiki/Compression_artifact" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Compression_artifact</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Compression_artifact" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Compression_artifact</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: war.gov  
    Title: dod working to better understand resolve anomalous phenomena  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3368109/dod-working-to-better-understand-resolve-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3368109/dod-working-to-better-understand-resolve-anomalous-phenomena/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Working to Better Understand, Resolve Anomalous...19 Apr 2023 — In a Senate hearing, Sean M. Kirkpatrick, AARO dire...</p></details>
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3368109/dod-working-to-better-understand-resolve-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3368109/dod-working-to-better-understand-resolve-anomalous-phenomena/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Working to Better Understand, Resolve Anomalous...19 Apr 2023 — In a Senate hearing, Sean M. Kirkpatrick, AARO dire...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Atmospheric_Wakes_508-02262024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Atmospheric_Wakes_508-02262024.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Case Resolution of &#x27;Atmospheric Wakes&#x27;(U) AARO&#x27;s Intelligence partners assess with high confidence that the “atmospheric wake” in eac...</p></details>
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Atmospheric_Wakes_508-02262024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Atmospheric_Wakes_508-02262024.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Case Resolution of &#x27;Atmospheric Wakes&#x27;(U) AARO&#x27;s Intelligence partners assess with high confidence that the “atmospheric wake” in eac...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: dwe.ai  
    Title: Deep Water Exploration What are H.264 Compression Artifacts?  
-   Link: <a href="https://dwe.ai/blogs/news/what-are-h-264-compression-artifacts?srsltid=AfmBOoptXeNyGaMCJ1zAzt9fCtaFzah4JnxW7wp7QEbjYW88D16ea7qd" target="_blank" rel="noopener noreferrer nofollow">https://dwe.ai/blogs/news/what-are-h-264-compression-artifacts?srsltid=AfmBOoptXeNyGaMCJ1zAzt9fCtaFzah4JnxW7wp7QEbjYW88D16ea7qd</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DeepWater ExplorationWhat are H.264 Compression Artifacts?June 27, 2024 — 13 Jun 2024 — 264 compression algorithm prioritizes maintaining...</p></details>
+   Link:<a href="https://dwe.ai/blogs/news/what-are-h-264-compression-artifacts?srsltid=AfmBOoptXeNyGaMCJ1zAzt9fCtaFzah4JnxW7wp7QEbjYW88D16ea7qd" target="_blank" rel="noopener noreferrer nofollow">https://dwe.ai/blogs/news/what-are-h-264-compression-artifacts?srsltid=AfmBOoptXeNyGaMCJ1zAzt9fCtaFzah4JnxW7wp7QEbjYW88D16ea7qd</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DeepWater ExplorationWhat are H.264 Compression Artifacts?June 27, 2024 — 13 Jun 2024 — 264 compression algorithm prioritizes maintaining...</p></details>
    Published: June 27, 2024  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: testufo.com  
-   Link: <a href="https://testufo.com/ghosting" target="_blank" rel="noopener noreferrer nofollow">https://testufo.com/ghosting</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Classic UFO Graphics at 960 pixels/sec - Legacy default...</p></details>
+   Link:<a href="https://testufo.com/ghosting" target="_blank" rel="noopener noreferrer nofollow">https://testufo.com/ghosting</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Classic UFO Graphics at 960 pixels/sec - Legacy default...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/HiddenFactsss/videos/ufo-sightings-upscaled-to-4k-show-clearer-shapes-and-details-in-old-footage-maki/1898089294303418/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HiddenFactsss/videos/ufo-sightings-upscaled-to-4k-show-clearer-shapes-and-details-in-old-footage-maki/1898089294303418/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings upscaled to 4K show clearer shapes and...UFO, Aliens, Other Plan...... No photo description available. UFOS VIEWS. Media/...</p></details>
+   Link:<a href="https://www.facebook.com/HiddenFactsss/videos/ufo-sightings-upscaled-to-4k-show-clearer-shapes-and-details-in-old-footage-maki/1898089294303418/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HiddenFactsss/videos/ufo-sightings-upscaled-to-4k-show-clearer-shapes-and-details-in-old-footage-maki/1898089294303418/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings upscaled to 4K show clearer shapes and...UFO, Aliens, Other Plan...... No photo description available. UFOS VIEWS. Media/...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: livenowfox.com  
    Title: newly declassified ufo videos pentagon tracking 650 potential cases  
-   Link: <a href="https://www.livenowfox.com/news/newly-declassified-ufo-videos-pentagon-tracking-650-potential-cases" target="_blank" rel="noopener noreferrer nofollow">https://www.livenowfox.com/news/newly-declassified-ufo-videos-pentagon-tracking-650-potential-cases</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon shares newly declassified UFO videos, tracking...20 Apr 2023 — The AARO assessed that the object likely was a commercial aircra...</p></details>
+   Link:<a href="https://www.livenowfox.com/news/newly-declassified-ufo-videos-pentagon-tracking-650-potential-cases" target="_blank" rel="noopener noreferrer nofollow">https://www.livenowfox.com/news/newly-declassified-ufo-videos-pentagon-tracking-650-potential-cases</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon shares newly declassified UFO videos, tracking...20 Apr 2023 — The AARO assessed that the object likely was a commercial aircra...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: us.ktcplay.com  
    Title: Master Sync Track validation, distinguish ghosting from overshoot  
-   Link: <a href="https://us.ktcplay.com/blogs/technology-hub/interpreting-ufo-test-results-pursuit-camera?srsltid=AfmBOorgk86r6pPB22e4dMMlYtApitltbQqD2qAdo-W4Kj1g6v4U9Ksl" target="_blank" rel="noopener noreferrer nofollow">https://us.ktcplay.com/blogs/technology-hub/interpreting-ufo-test-results-pursuit-camera?srsltid=AfmBOorgk86r6pPB22e4dMMlYtApitltbQqD2qAdo-W4Kj1g6v4U9Ksl</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Test Results: Pursuit Camera Methodology6 days ago — Learn how to interpret UFO Test results using pursuit camera methodology...</p></details>
+   Link:<a href="https://us.ktcplay.com/blogs/technology-hub/interpreting-ufo-test-results-pursuit-camera?srsltid=AfmBOorgk86r6pPB22e4dMMlYtApitltbQqD2qAdo-W4Kj1g6v4U9Ksl" target="_blank" rel="noopener noreferrer nofollow">https://us.ktcplay.com/blogs/technology-hub/interpreting-ufo-test-results-pursuit-camera?srsltid=AfmBOorgk86r6pPB22e4dMMlYtApitltbQqD2qAdo-W4Kj1g6v4U9Ksl</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Test Results: Pursuit Camera Methodology6 days ago — Learn how to interpret UFO Test results using pursuit camera methodology...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: diva-portal.org  
-   Link: <a href="https://www.diva-portal.org/smash/get/diva2%3A833137/FULLTEXT01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.diva-portal.org/smash/get/diva2%3A833137/FULLTEXT01.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Diva PortalH.264 VIDEO CODING ARTIFACTSby RA CHODISETTI · 2014 · Cited by 4 — Blocking, ringing and flickering are the main artifacts fou...</p></details>
+   Link:<a href="https://www.diva-portal.org/smash/get/diva2%3A833137/FULLTEXT01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.diva-portal.org/smash/get/diva2%3A833137/FULLTEXT01.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Diva PortalH.264 VIDEO CODING ARTIFACTSby RA CHODISETTI · 2014 · Cited by 4 — Blocking, ringing and flickering are the main artifacts fou...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: esd.whs.mil  
    Title: 20230418 AARO Congressional Open Hearing final 2.0  
-   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/20230418_AARO_Congressional_Open_Hearing_final_2.0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/20230418_AARO_Congressional_Open_Hearing_final_2.0.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>US Department of Defense &amp; the UAP Mission17 Apr 2023 — South Asia UAP observed with apparent wake, likely resolved as commercial airline...</p></details>
+   Link:<a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/20230418_AARO_Congressional_Open_Hearing_final_2.0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/20230418_AARO_Congressional_Open_Hearing_final_2.0.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US Department of Defense &amp; the UAP Mission17 Apr 2023 — South Asia UAP observed with apparent wake, likely resolved as commercial airline...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: video.stackexchange.com  
    Title: (emphasis mine). It may just be corruption in the bitstream.Read more  
-   Link: <a href="https://video.stackexchange.com/questions/24725/grime-like-blocking-compression-artifacts-on-the-decompressed-video-h-264" target="_blank" rel="noopener noreferrer nofollow">https://video.stackexchange.com/questions/24725/grime-like-blocking-compression-artifacts-on-the-decompressed-video-h-264</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>stackexchange.comGrime-like blocking compression artifacts on the...27 Aug 2018 — Data errors in the compressed bit-stream, possibly due...</p></details>
+   Link:<a href="https://video.stackexchange.com/questions/24725/grime-like-blocking-compression-artifacts-on-the-decompressed-video-h-264" target="_blank" rel="noopener noreferrer nofollow">https://video.stackexchange.com/questions/24725/grime-like-blocking-compression-artifacts-on-the-decompressed-video-h-264</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>stackexchange.comGrime-like blocking compression artifacts on the...27 Aug 2018 — Data errors in the compressed bit-stream, possibly due...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ancientwhispers/posts/image-captured-as-a-still-frame-from-a-video-recording-appears-to-show-an-uniden/863026643383425/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ancientwhispers/posts/image-captured-as-a-still-frame-from-a-video-recording-appears-to-show-an-uniden/863026643383425/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ts a genuine UFO or a misidentified object caught at an unusual...</p></details>
+   Link:<a href="https://www.facebook.com/ancientwhispers/posts/image-captured-as-a-still-frame-from-a-video-recording-appears-to-show-an-uniden/863026643383425/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ancientwhispers/posts/image-captured-as-a-still-frame-from-a-video-recording-appears-to-show-an-uniden/863026643383425/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ts a genuine UFO or a misidentified object caught at an unusual...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/premiere/comments/1r8scbu/weird_compression_artifacts_no_matter_what_i_do/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/premiere/comments/1r8scbu/weird_compression_artifacts_no_matter_what_i_do/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>tter what settings i change, it has weird grey...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/premiere/comments/1r8scbu/weird_compression_artifacts_no_matter_what_i_do/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/premiere/comments/1r8scbu/weird_compression_artifacts_no_matter_what_i_do/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>tter what settings i change, it has weird grey...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: metabunk.org  
    Title: Aguadilla [Infrared](&#123;&#123; 'infrared/' | relative_url &#125;&#125;) Footage of 'UFOs'  
-   Link: <a href="https://www.metabunk.org/threads/aguadilla-infrared-footage-of-ufos-probably-hot-air-wedding-lanterns.8952/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/aguadilla-infrared-footage-of-ufos-probably-hot-air-wedding-lanterns.8952/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Probably Hot Air...26 Jul 2017 — The alleged UFO was a simple pair of wind-driven hot air lanterns in the shape of hearts, tied together...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/aguadilla-infrared-footage-of-ufos-probably-hot-air-wedding-lanterns.8952/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/aguadilla-infrared-footage-of-ufos-probably-hot-air-wedding-lanterns.8952/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Probably Hot Air...26 Jul 2017 — The alleged UFO was a simple pair of wind-driven hot air lanterns in the shape of hearts, tied together...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ancientwhispers/posts/new-footage-circulating-online-claims-to-show-an-exceptionally-clear-ufo-event-n/838257589193664/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ancientwhispers/posts/new-footage-circulating-online-claims-to-show-an-exceptionally-clear-ufo-event-n/838257589193664/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>orists, who claim this may be one of the best pieces of...</p></details>
+   Link:<a href="https://www.facebook.com/ancientwhispers/posts/new-footage-circulating-online-claims-to-show-an-exceptionally-clear-ufo-event-n/838257589193664/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ancientwhispers/posts/new-footage-circulating-online-claims-to-show-an-exceptionally-clear-ufo-event-n/838257589193664/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>orists, who claim this may be one of the best pieces of...</p></details>

@@ -504,17 +504,17 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c-overv
 Drones have become one of the most important modern triggers for UFO reports because they add behaviours to the night sky that older witnesses did not grow up expecting: small lights that can hover, stop suddenly, climb vertically, move sideways, fly in groups, change brightness, and then vanish behind trees or buildings. In UFO investigation, that matters because a drone can be a real, physical object and still produce a misleading report when distance, size, altitude, sound and purpose are unknown.
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c-overview.webp" | relative_url }}" alt="Overview image for Drones" loading="eager" decoding="sync" fetchpriority="high">
-The point is not that every new “mystery light” is a drone. Many reported drones later turn out to be aircraft, [stars]({{ 'stars/' | relative_url }}), planets, balloons or [satellites]({{ 'satellites/' | relative_url }}). The useful lesson is narrower: drones have changed the pool of ordinary explanations. Official UAP reviewers now list drones or uncrewed aircraft among the commonplace objects that can resolve some reports, while aviation authorities treat drone visibility, lighting and identification as practical safety issues rather than fringe curiosities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defensescoop.com">[DefenseScoop]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defensescoop.com</span><span class="citation-popover-title">Defense Scoop&#x27;The truly anomalous&#x27;: New AARO chief unveils Pentagon&#x27;s</span><span class="citation-popover-snippet">Defense Scoop&#x27;The truly anomalous&#x27;: New AARO chief unveils Pentagon&#x27;s</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">dhs fbi faa dod joint statement ongoing response reported drone sightings</span><span class="citation-popover-snippet">dhs fbi faa dod joint statement ongoing response reported drone sightings</span></span></span>
+The point is not that every new “mystery light” is a drone. Many reported drones later turn out to be aircraft, [stars]({{ 'stars/' | relative_url }}), planets, balloons or [satellites]({{ 'satellites/' | relative_url }}). The useful lesson is narrower: drones have changed the pool of ordinary explanations. Official UAP reviewers now list drones or uncrewed aircraft among the commonplace objects that can resolve some reports, while aviation authorities treat drone visibility, lighting and identification as practical safety issues rather than fringe curiosities.<span class="citation-chip-wrap"><a class="citation-chip" href="https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defensescoop.com">[DefenseScoop]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defensescoop.com</span><span class="citation-popover-title">Defense Scoop&#x27;The truly anomalous&#x27;: New AARO chief unveils Pentagon&#x27;s</span><span class="citation-popover-snippet">Defense Scoop&#x27;The truly anomalous&#x27;: New AARO chief unveils Pentagon&#x27;s</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">dhs fbi faa dod joint statement ongoing response reported drone sightings</span><span class="citation-popover-snippet">dhs fbi faa dod joint statement ongoing response reported drone sightings</span></span></span>
 
 ## The Changing Drone Sky
 
 For much of the twentieth century, a witness who saw a low, manoeuvring light at night usually had a short list of likely explanations: aircraft, helicopter, balloon, astronomical object, searchlight, flare, reflection, or hoax. Drones complicate that list. They are aircraft, but they do not always behave like the crewed aircraft most people recognise. A small quadcopter can hold position in one place, yaw without turning like an aeroplane, rise vertically, descend behind a roofline, or move in short bursts that look purposeful but not obviously “plane-like”.
 
-The scale of drone activity makes that shift more than theoretical. The U.S. Federal Aviation Administration’s “By the Numbers” page lists hundreds of thousands of registered drones and hundreds of thousands of certificated remote [pilots]({{ 'pilots/' | relative_url }}), while its 2024 small unmanned aircraft systems survey estimated tens of millions of U.S. drone flights during that year when commercial and recreational operations are combined. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">dhs fbi faa dod joint statement ongoing response reported drone sightings</span><span class="citation-popover-snippet">dhs fbi faa dod joint statement ongoing response reported drone sightings</span></span></span> In the UK, the Civil Aviation Authority’s public guidance now treats drone and model aircraft registration, flyer IDs, operator IDs and night-flying lights as mainstream airspace-management issues rather than niche hobby guidance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/get-an-operator-id/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">Civil Aviation Authority Get an Operator ID</span><span class="citation-popover-snippet">Civil Aviation Authority Get an Operator ID</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/get-an-operator-id/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">Civil Aviation Authority Get an Operator ID</span><span class="citation-popover-snippet">Civil Aviation Authority Get an Operator ID</span></span></span>
+The scale of drone activity makes that shift more than theoretical. The U.S. Federal Aviation Administration’s “By the Numbers” page lists hundreds of thousands of registered drones and hundreds of thousands of certificated remote [pilots]({{ 'pilots/' | relative_url }}), while its 2024 small unmanned aircraft systems survey estimated tens of millions of U.S. drone flights during that year when commercial and recreational operations are combined.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">dhs fbi faa dod joint statement ongoing response reported drone sightings</span><span class="citation-popover-snippet">dhs fbi faa dod joint statement ongoing response reported drone sightings</span></span></span> In the UK, the Civil Aviation Authority’s public guidance now treats drone and model aircraft registration, flyer IDs, operator IDs and night-flying lights as mainstream airspace-management issues rather than niche hobby guidance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/get-an-operator-id/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">Civil Aviation Authority Get an Operator ID</span><span class="citation-popover-snippet">Civil Aviation Authority Get an Operator ID</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/get-an-operator-id/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">Civil Aviation Authority Get an Operator ID</span><span class="citation-popover-snippet">Civil Aviation Authority Get an Operator ID</span></span></span>
 
 This expansion changes UFO reporting in two ways. First, it creates more genuine aerial lights for people to notice, especially around parks, coastlines, housing estates, industrial sites, sporting events, emergency scenes, farms, construction areas and filming locations. Second, it creates a new interpretive category in the public mind: when people see an unfamiliar light, “drone” may be their first guess, even when the object is actually a plane, helicopter or star. That means drones can trigger UFO reports directly, but they can also shape how unrelated sightings are described.
 
-The late-2024 U.S. “drone sightings” wave around [New Jersey]({{ 'new-jersey/' | relative_url }}) and neighbouring states showed this double effect clearly. Federal agencies said they examined thousands of reports and assessed that the sightings included lawful commercial, hobbyist and law-enforcement drones, but also manned aircraft, helicopters and stars mistakenly reported as drones. Earlier FBI and DHS statements also stressed that they had no evidence the reported sightings posed a national-security or public-safety threat, while investigations continued to distinguish actual drones from misidentified aircraft or inaccurate sightings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">dhs fbi faa dod joint statement ongoing response reported drone sightings</span><span class="citation-popover-snippet">dhs fbi faa dod joint statement ongoing response reported drone sightings</span></span></span>
+The late-2024 U.S. “drone sightings” wave around [New Jersey]({{ 'new-jersey/' | relative_url }}) and neighbouring states showed this double effect clearly. Federal agencies said they examined thousands of reports and assessed that the sightings included lawful commercial, hobbyist and law-enforcement drones, but also manned aircraft, helicopters and stars mistakenly reported as drones. Earlier FBI and DHS statements also stressed that they had no evidence the reported sightings posed a national-security or public-safety threat, while investigations continued to distinguish actual drones from misidentified aircraft or inaccurate sightings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">dhs fbi faa dod joint statement ongoing response reported drone sightings</span><span class="citation-popover-snippet">dhs fbi faa dod joint statement ongoing response reported drone sightings</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c-Illustration-1-dark.svg" | relative_url }}" alt="Drones illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Drone Lights Look Stranger Than Aircraft Lights
@@ -527,11 +527,11 @@ Several features make drones especially good at producing ambiguous impressions:
 
 **Sudden changes in direction.** Multirotor drones do not need a long turning circle. They can slide sideways, rotate in place, reverse, or climb nearly vertically. Seen as a distant light, these normal manoeuvres can be reported as “impossible turns” unless the object’s true size and distance are known.
 
-**Blinking, coloured and anti-collision lights.** Drone lighting is designed for visibility, orientation and safety, not for making the aircraft easy for a distant observer to identify. In the United States, FAA Remote ID guidance explains that compliant drones broadcast identifying and location information, while FAA night-operation rules and guidance have long emphasised anti-collision visibility for safety. In the UK, the CAA now says that drones operated at night in the Open Category must have a green flashing light activated, specifically to support visibility and help distinguish a drone from a manned aircraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">dhs fbi faa dod joint statement ongoing response reported drone sightings</span><span class="citation-popover-snippet">dhs fbi faa dod joint statement ongoing response reported drone sightings</span></span></span>
+**Blinking, coloured and anti-collision lights.** Drone lighting is designed for visibility, orientation and safety, not for making the aircraft easy for a distant observer to identify. In the United States, FAA Remote ID guidance explains that compliant drones broadcast identifying and location information, while FAA night-operation rules and guidance have long emphasised anti-collision visibility for safety. In the UK, the CAA now says that drones operated at night in the Open Category must have a green flashing light activated, specifically to support visibility and help distinguish a drone from a manned aircraft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">dhs fbi faa dod joint statement ongoing response reported drone sightings</span><span class="citation-popover-snippet">dhs fbi faa dod joint statement ongoing response reported drone sightings</span></span></span>
 
 **Sound that appears and disappears.** Nearby drones often have a distinctive buzzing or whining sound, but wind, traffic, buildings and distance can mask it. A witness may hear a faint mechanical hum at one moment and nothing the next, making the sighting seem more mysterious than a conventional aircraft with a steady engine note.
 
-**Ambiguous altitude.** Most casual witnesses are poor at judging altitude without a known object for comparison. A drone at low height over a nearby field can be described as a large object at aircraft altitude; a distant aircraft approaching head-on can be described as a hovering drone. The New Jersey episode showed how easily this confusion can run in both directions: some real drones were likely in the mix, but officials also said manned aircraft and stars were being reported as drones. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">dhs fbi faa dod joint statement ongoing response reported drone sightings</span><span class="citation-popover-snippet">dhs fbi faa dod joint statement ongoing response reported drone sightings</span></span></span>
+**Ambiguous altitude.** Most casual witnesses are poor at judging altitude without a known object for comparison. A drone at low height over a nearby field can be described as a large object at aircraft altitude; a distant aircraft approaching head-on can be described as a hovering drone. The New Jersey episode showed how easily this confusion can run in both directions: some real drones were likely in the mix, but officials also said manned aircraft and stars were being reported as drones.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">dhs fbi faa dod joint statement ongoing response reported drone sightings</span><span class="citation-popover-snippet">dhs fbi faa dod joint statement ongoing response reported drone sightings</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/o5j95rxsZwI" title="Mysterious drones flying in the sky" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=o5j95rxsZwI" target="_blank" rel="noopener noreferrer">Mysterious drones flying in the sky</a></p><p class="youtube-embed-meta">Channel: WUSA9 &middot; Views: 135.2K &middot; Uploaded: April 2023 &middot; Length: 4 minutes 28 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=o5j95rxsZwI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=o5j95rxsZwI">Open on YouTube</a></p></div></div></div>
 
@@ -543,14 +543,14 @@ For example, a light hovering over a railway line, bridge, roof, event venue, co
 
 The opposite is also true. Some details weaken a drone explanation. Very long duration without landing, extremely high altitude, movement across a large part of the sky at constant speed, or no plausible launch area may point instead to aircraft, satellites, balloons, planets or other IFO categories. Battery life varies by platform and operation, but small consumer drones are not usually hour-after-hour hovering machines; reports of “drones hovering all night” often need checking against aircraft tracks, planets, stars, clouds and repeated sightings of different objects.
 
-This is where modern UFO analysis benefits from ordinary aviation context. [AARO]({{ 'aaro/' | relative_url }}) has said it has resolved many cases in its holdings to commonplace objects such as balloons, birds, drones, satellites and aircraft, while hundreds of other reports remain unresolved because they lack enough scientific data for analysis. That distinction is important: “unresolved” does not automatically mean “extraordinary”; often it means the available video, time, location, range or sensor data is too poor to test a drone explanation properly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defensescoop.com">[DefenseScoop]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defensescoop.com</span><span class="citation-popover-title">Defense Scoop&#x27;The truly anomalous&#x27;: New AARO chief unveils Pentagon&#x27;s</span><span class="citation-popover-snippet">Defense Scoop&#x27;The truly anomalous&#x27;: New AARO chief unveils Pentagon&#x27;s</span></span></span>
+This is where modern UFO analysis benefits from ordinary aviation context. [AARO]({{ 'aaro/' | relative_url }}) has said it has resolved many cases in its holdings to commonplace objects such as balloons, birds, drones, satellites and aircraft, while hundreds of other reports remain unresolved because they lack enough scientific data for analysis. That distinction is important: “unresolved” does not automatically mean “extraordinary”; often it means the available video, time, location, range or sensor data is too poor to test a drone explanation properly.<span class="citation-chip-wrap"><a class="citation-chip" href="https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defensescoop.com">[DefenseScoop]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defensescoop.com</span><span class="citation-popover-title">Defense Scoop&#x27;The truly anomalous&#x27;: New AARO chief unveils Pentagon&#x27;s</span><span class="citation-popover-snippet">Defense Scoop&#x27;The truly anomalous&#x27;: New AARO chief unveils Pentagon&#x27;s</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c-Illustration-2-dark.svg" | relative_url }}" alt="Drones illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The New Jersey Lesson: Drone Reports Can Snowball
 
 The New Jersey and wider U.S. East Coast sightings of late 2024 are useful because they were not simply a story about drones. They were a story about how drone expectations, genuine aerial activity, social attention and misidentification can reinforce one another.
 
-Residents reported bright lights, low-flying objects and apparent hovering. Officials investigated reports from the public and deployed technical resources. At the same time, federal agencies repeatedly stated that they had not found evidence of a national-security threat, a foreign nexus or anomalous activity. A joint DHS, FBI, FAA and DoD statement said the sightings reviewed included lawful commercial drones, hobbyist drones and law-enforcement drones, but also manned aircraft, helicopters and stars mistakenly reported as drones. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">dhs fbi faa dod joint statement ongoing response reported drone sightings</span><span class="citation-popover-snippet">dhs fbi faa dod joint statement ongoing response reported drone sightings</span></span></span>
+Residents reported bright lights, low-flying objects and apparent hovering. Officials investigated reports from the public and deployed technical resources. At the same time, federal agencies repeatedly stated that they had not found evidence of a national-security threat, a foreign nexus or anomalous activity. A joint DHS, FBI, FAA and DoD statement said the sightings reviewed included lawful commercial drones, hobbyist drones and law-enforcement drones, but also manned aircraft, helicopters and stars mistakenly reported as drones.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">dhs fbi faa dod joint statement ongoing response reported drone sightings</span><span class="citation-popover-snippet">dhs fbi faa dod joint statement ongoing response reported drone sightings</span></span></span>
 
 The episode matters for UFO reporting because it shows how “drone” can become both an explanation and a rumour engine. Once a community expects drones, ordinary lights become easier to interpret as drones. Once some drone reports are plausible, unrelated aircraft can be folded into the same story. Once videos circulate online, [short clips]({{ 'short-clips/' | relative_url }}) with no horizon, no sound context and no reliable scale can make routine objects look more coordinated or mysterious than they were.
 
@@ -564,7 +564,7 @@ Single drones are not the only trigger. Drone light shows and coordinated multi-
 
 This is especially relevant because the spectacle is designed to be seen at night. Drone displays use many small illuminated aircraft to create images and movement in the sky. When everything works, the result can be obviously choreographed to people at the event but puzzling to someone several miles away who sees only part of the formation. When something goes wrong, the result can look even stranger: drones may stop, scatter, descend or fail in groups.
 
-Recent drone-show incidents underline that these are real aircraft operating under technical constraints, not just pixels in the sky. In May 2026, Vivid Sydney cancelled remaining drone shows after dozens of drones fell into Darling Harbour during a performance; reports attributed the problem to technical difficulties and a changed radio-frequency environment after take-off. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/us-news/2024/dec/17/drones-new-jersey-fbi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That kind of incident belongs mainly to aviation safety, but it also explains why grouped lights can behave in ways a casual observer does not expect.
+Recent drone-show incidents underline that these are real aircraft operating under technical constraints, not just pixels in the sky. In May 2026, Vivid Sydney cancelled remaining drone shows after dozens of drones fell into Darling Harbour during a performance; reports attributed the problem to technical difficulties and a changed radio-frequency environment after take-off.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/us-news/2024/dec/17/drones-new-jersey-fbi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That kind of incident belongs mainly to aviation safety, but it also explains why grouped lights can behave in ways a casual observer does not expect.
 
 For UFO investigators, the practical question is simple: was there a scheduled display, test, filming operation, emergency exercise or commercial drone job in the area? Local event listings, council notices, harbour or stadium announcements, aviation restrictions and local news can often resolve a spectacular “formation” report quickly.
 
@@ -579,10 +579,10 @@ Then test the drone-specific clues:
 
 * **Look for a launch or recovery pattern.** Many small drones return towards an operator, car park, open field, beach, rooftop or event site. A light that descends behind nearby trees after a short flight is more drone-like than one that steadily crosses the whole sky from horizon to horizon.
 * **Check for local reasons to fly.** Filming, roof inspection, police search, fire-service work, agricultural mapping, estate photography, construction surveys and public events all create plausible drone activity.
-* **Compare with aircraft and sky apps.** The New Jersey case showed that aircraft, helicopters, stars and planets can be reported as drones. Flight-tracking, satellite-tracking and sky-map apps cannot explain everything, but they can quickly eliminate many false leads. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/us-news/2024/dec/17/drones-new-jersey-fbi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+* **Compare with aircraft and sky apps.** The New Jersey case showed that aircraft, helicopters, stars and planets can be reported as drones. Flight-tracking, satellite-tracking and sky-map apps cannot explain everything, but they can quickly eliminate many false leads.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/us-news/2024/dec/17/drones-new-jersey-fbi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 * **Listen, but do not rely on sound alone.** A nearby drone may buzz; a distant one may be masked by wind or traffic. Silence is not proof of something exotic.
-* **Check the lighting rule environment.** In the UK, a night-flying Open Category drone should show a green flashing light under current CAA guidance. In the U.S., Remote ID and anti-collision requirements shape how compliant drones identify and display themselves, although a casual observer may not have the equipment or proximity to read Remote ID broadcasts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/get-an-operator-id/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">Civil Aviation Authority Get an Operator ID</span><span class="citation-popover-snippet">Civil Aviation Authority Get an Operator ID</span></span></span>
-* **Avoid unsafe reactions.** Authorities have warned during drone-sighting waves that suspected drones may actually be crewed aircraft; shining lasers or attempting to interfere with them can endanger pilots and people on the ground. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/us-news/2024/dec/17/drones-new-jersey-fbi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+* **Check the lighting rule environment.** In the UK, a night-flying Open Category drone should show a green flashing light under current CAA guidance. In the U.S., Remote ID and anti-collision requirements shape how compliant drones identify and display themselves, although a casual observer may not have the equipment or proximity to read Remote ID broadcasts.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/get-an-operator-id/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">Civil Aviation Authority Get an Operator ID</span><span class="citation-popover-snippet">Civil Aviation Authority Get an Operator ID</span></span></span>
+* **Avoid unsafe reactions.** Authorities have warned during drone-sighting waves that suspected drones may actually be crewed aircraft; shining lasers or attempting to interfere with them can endanger pilots and people on the ground.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/us-news/2024/dec/17/drones-new-jersey-fbi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 These checks do not require assuming the witness is wrong. They treat the sighting as a real observation that needs context. That is exactly how the IFO category is most useful: not as a dismissal, but as a method for finding the ordinary object behind an extraordinary first impression.
 
@@ -592,199 +592,199 @@ These checks do not require assuming the witness is wrong. They treat the sighti
 
 Drones are now a major modern UFO trigger, but they should not become a lazy universal answer. A careful drone explanation needs fit. If the reported object was visible for hours without interruption, moved at high altitude across a large arc of sky, matched a known satellite path, appeared close to a bright planet, drifted with wind, or was captured only as a sensor artefact, another IFO category may be stronger.
 
-Nor does “drone” automatically mean “harmless” or “imaginary”. Some drone flights are lawful and routine; some are careless; some may be unauthorised near airports, prisons, military sites or emergency scenes. Aviation regulators’ growing focus on registration, Remote ID, night lighting and operational categories reflects real airspace-management concerns. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">dhs fbi faa dod joint statement ongoing response reported drone sightings</span><span class="citation-popover-snippet">dhs fbi faa dod joint statement ongoing response reported drone sightings</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/get-an-operator-id/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">Civil Aviation Authority Get an Operator ID</span><span class="citation-popover-snippet">Civil Aviation Authority Get an Operator ID</span></span></span>
+Nor does “drone” automatically mean “harmless” or “imaginary”. Some drone flights are lawful and routine; some are careless; some may be unauthorised near airports, prisons, military sites or emergency scenes. Aviation regulators’ growing focus on registration, Remote ID, night lighting and operational categories reflects real airspace-management concerns.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">dhs fbi faa dod joint statement ongoing response reported drone sightings</span><span class="citation-popover-snippet">dhs fbi faa dod joint statement ongoing response reported drone sightings</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/get-an-operator-id/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">Civil Aviation Authority Get an Operator ID</span><span class="citation-popover-snippet">Civil Aviation Authority Get an Operator ID</span></span></span>
 
 The best conclusion is therefore balanced. Drones have made the sky more confusing, especially at night, because they combine real manoeuvrability with poor visual context. They explain some modern UFO reports directly, distort other reports by giving witnesses a new expectation, and complicate investigation because actual drones, aircraft, stars and rumours can appear together in the same sighting wave. A drone becomes a UFO not when it is impossible, but when the observer lacks the local clues needed to recognise a very modern flying object.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When a Drone Becomes a UFO. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When a Drone Becomes a UFO. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides the broader IFO framework for evaluating new aerial technologies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides the broader IFO framework for evaluating new aerial technologies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Gives readers official-report context for modern aerial mysteries.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Gives readers official-report context for modern aerial mysteries.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Helps readers weigh ordinary explanations before adopting extraordinary interpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers weigh ordinary explanations before adopting extraordinary interpretations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Drones+for+Dummies+Mark+Lafay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Drones for Dummies on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Drones+for+Dummies+Mark+Lafay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drones for Dummies">Drones for Dummies</a>
-        </h4>
-        <p class="fr-book-author">By Mark Lafay</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Drones+for+Dummies+Mark+Lafay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Drones for Dummies on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Drones+for+Dummies+Mark+Lafay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drones for Dummies">Drones for Dummies</a>
+</h4>
+<p class="fr-book-author">By Mark Lafay</p>
         
-        <p class="fr-book-desc">First published 2015. Subjects: Remotely piloted Vehicles, Drone aircraft, Aeronautics, Vehicles, remotely piloted, Ug1242.d7 l34 2015.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Drones+for+Dummies+Mark+Lafay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2015. Subjects: Remotely piloted Vehicles, Drone aircraft, Aeronautics, Vehicles, remotely piloted, Ug1242.d7 l34 2015.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Drones+for+Dummies+Mark+Lafay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-drone-becomes-a-ufo-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="when-a-drone-becomes-a-ufo-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Star Wars Propel Drone T-65 X-Wing Model Only (Spares) No other parts!"><img src="https://i.ebayimg.com/images/g/EpQAAeSwyuRqG1Xp/s-l225.jpg" alt="Listing image for Star Wars Propel Drone T-65 X-Wing Model Only (Spares) No other parts!" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-drone-becomes-a-ufo-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="when-a-drone-becomes-a-ufo-drone-model" target="_blank" rel="sponsored noopener noreferrer">Star Wars Propel Drone T-65 X-Wing Model Only (Spares) No other parts!</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-drone-becomes-a-ufo-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="when-a-drone-becomes-a-ufo-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone model">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-drone-becomes-a-ufo-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="when-a-drone-becomes-a-ufo-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-drone-becomes-a-ufo-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="when-a-drone-becomes-a-ufo-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Star Wars Propel Drone T-65 X-Wing Model Only (Spares) No other parts!"><img src="https://i.ebayimg.com/images/g/EpQAAeSwyuRqG1Xp/s-l225.jpg" alt="Listing image for Star Wars Propel Drone T-65 X-Wing Model Only (Spares) No other parts!" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-drone-becomes-a-ufo-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="when-a-drone-becomes-a-ufo-drone-model" target="_blank" rel="sponsored noopener noreferrer">Star Wars Propel Drone T-65 X-Wing Model Only (Spares) No other parts!</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-drone-becomes-a-ufo-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="when-a-drone-becomes-a-ufo-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone model">Search<span data-ebay-domain-label>eBay.co.uk</span>: drone model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-drone-becomes-a-ufo-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="when-a-drone-becomes-a-ufo-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-drone-becomes-a-ufo-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="when-a-drone-becomes-a-ufo-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Six-axis Gyroscope Remote Control Black Drone Model 2.4GHZ 14+ Ages"><img src="https://i.ebayimg.com/images/g/l2QAAeSw~LZpZqUT/s-l225.jpg" alt="Listing image for Six-axis Gyroscope Remote Control Black Drone Model 2.4GHZ 14+ Ages" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-drone-becomes-a-ufo-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="when-a-drone-becomes-a-ufo-drone-model" target="_blank" rel="sponsored noopener noreferrer">Six-axis Gyroscope Remote Control Black Drone Model 2.4GHZ 14+ Ages</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-drone-becomes-a-ufo-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="when-a-drone-becomes-a-ufo-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone model">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-drone-becomes-a-ufo-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="when-a-drone-becomes-a-ufo-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-drone-becomes-a-ufo-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="when-a-drone-becomes-a-ufo-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Six-axis Gyroscope Remote Control Black Drone Model 2.4GHZ 14+ Ages"><img src="https://i.ebayimg.com/images/g/l2QAAeSw~LZpZqUT/s-l225.jpg" alt="Listing image for Six-axis Gyroscope Remote Control Black Drone Model 2.4GHZ 14+ Ages" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-drone-becomes-a-ufo-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="when-a-drone-becomes-a-ufo-drone-model" target="_blank" rel="sponsored noopener noreferrer">Six-axis Gyroscope Remote Control Black Drone Model 2.4GHZ 14+ Ages</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-drone-becomes-a-ufo-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="when-a-drone-becomes-a-ufo-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone model">Search<span data-ebay-domain-label>eBay.co.uk</span>: drone model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-drone-becomes-a-ufo-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="when-a-drone-becomes-a-ufo-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-drone-becomes-a-ufo-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="when-a-drone-becomes-a-ufo-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for STROBON v2 Drone and RC Model Aircraft Navigation - Anti-Collision Light"><img src="https://i.ebayimg.com/images/g/LnwAAOSwU-RjPVep/s-l225.jpg" alt="Listing image for STROBON v2 Drone and RC Model Aircraft Navigation - Anti-Collision Light" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-drone-becomes-a-ufo-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="when-a-drone-becomes-a-ufo-drone-model" target="_blank" rel="sponsored noopener noreferrer">STROBON v2 Drone and RC Model Aircraft Navigation - Anti-Collision Light</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-drone-becomes-a-ufo-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="when-a-drone-becomes-a-ufo-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone model">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-drone-becomes-a-ufo-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="when-a-drone-becomes-a-ufo-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-drone-becomes-a-ufo-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="when-a-drone-becomes-a-ufo-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for STROBON v2 Drone and RC Model Aircraft Navigation - Anti-Collision Light"><img src="https://i.ebayimg.com/images/g/LnwAAOSwU-RjPVep/s-l225.jpg" alt="Listing image for STROBON v2 Drone and RC Model Aircraft Navigation - Anti-Collision Light" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-drone-becomes-a-ufo-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="when-a-drone-becomes-a-ufo-drone-model" target="_blank" rel="sponsored noopener noreferrer">STROBON v2 Drone and RC Model Aircraft Navigation - Anti-Collision Light</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-drone-becomes-a-ufo-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="when-a-drone-becomes-a-ufo-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone model">Search<span data-ebay-domain-label>eBay.co.uk</span>: drone model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-drone-becomes-a-ufo-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="when-a-drone-becomes-a-ufo-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-drone-becomes-a-ufo-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="when-a-drone-becomes-a-ufo-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DJI Mini 2/3/3 Pro Drone Operator ID Stickers-CAA UK 2021 Drone Laws(Pack of 4)"><img src="https://i.ebayimg.com/images/g/u9AAAOSwYj9kDyTm/s-l225.jpg" alt="Listing image for DJI Mini 2/3/3 Pro Drone Operator ID Stickers-CAA UK 2021 Drone Laws(Pack of 4)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-drone-becomes-a-ufo-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="when-a-drone-becomes-a-ufo-drone-model" target="_blank" rel="sponsored noopener noreferrer">DJI Mini 2/3/3 Pro Drone Operator ID Stickers-CAA UK 2021 Drone Laws(Pack of 4)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-drone-becomes-a-ufo-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="when-a-drone-becomes-a-ufo-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone model">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-drone-becomes-a-ufo-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="when-a-drone-becomes-a-ufo-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-drone-becomes-a-ufo-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="when-a-drone-becomes-a-ufo-drone-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-drone-becomes-a-ufo-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="when-a-drone-becomes-a-ufo-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DJI Mini 2/3/3 Pro Drone Operator ID Stickers-CAA UK 2021 Drone Laws(Pack of 4)"><img src="https://i.ebayimg.com/images/g/u9AAAOSwYj9kDyTm/s-l225.jpg" alt="Listing image for DJI Mini 2/3/3 Pro Drone Operator ID Stickers-CAA UK 2021 Drone Laws(Pack of 4)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-drone-becomes-a-ufo-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="when-a-drone-becomes-a-ufo-drone-model" target="_blank" rel="sponsored noopener noreferrer">DJI Mini 2/3/3 Pro Drone Operator ID Stickers-CAA UK 2021 Drone Laws(Pack of 4)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-drone-becomes-a-ufo-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="when-a-drone-becomes-a-ufo-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone model">Search<span data-ebay-domain-label>eBay.co.uk</span>: drone model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-drone-becomes-a-ufo-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="when-a-drone-becomes-a-ufo-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-drone-becomes-a-ufo-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="when-a-drone-becomes-a-ufo-drone-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -800,7 +800,7 @@ The best conclusion is therefore balanced. Drones have made the sky more confusi
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -820,7 +820,7 @@ The best conclusion is therefore balanced. Drones have made the sky more confusi
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -852,7 +852,7 @@ The best conclusion is therefore balanced. Drones have made the sky more confusi
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -904,7 +904,7 @@ The best conclusion is therefore balanced. Drones have made the sky more confusi
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -949,7 +949,7 @@ The best conclusion is therefore balanced. Drones have made the sky more confusi
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -990,149 +990,149 @@ The best conclusion is therefore balanced. Drones have made the sky more confusi
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: defensescoop.com  
    Title: Defense Scoop'The truly anomalous': New AARO chief unveils Pentagon's  
-   Link: <a href="https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/</a>  
+   Link:<a href="https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: faa.gov  
    Title: dhs fbi faa dod joint statement ongoing response reported drone sightings  
-   Link: <a href="https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings</a>  
+   Link:<a href="https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: faa.gov  
    Title: remote id  
-   Link: <a href="https://www.faa.gov/uas/getting_started/remote_id" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/uas/getting_started/remote_id</a>  
+   Link:<a href="https://www.faa.gov/uas/getting_started/remote_id" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/uas/getting_started/remote_id</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/node/26" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/node/26</a>  
+   Link:<a href="https://www.faa.gov/node/26" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/node/26</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/media/106066" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/media/106066</a>  
+   Link:<a href="https://www.faa.gov/media/106066" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/media/106066</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: fbi.gov  
    Title: joint dhs fbi statement on reports of drones in new jersey  
-   Link: <a href="https://www.fbi.gov/news/press-releases/joint-dhs-fbi-statement-on-reports-of-drones-in-new-jersey" target="_blank" rel="noopener noreferrer nofollow">https://www.fbi.gov/news/press-releases/joint-dhs-fbi-statement-on-reports-of-drones-in-new-jersey</a>  
+   Link:<a href="https://www.fbi.gov/news/press-releases/joint-dhs-fbi-statement-on-reports-of-drones-in-new-jersey" target="_blank" rel="noopener noreferrer nofollow">https://www.fbi.gov/news/press-releases/joint-dhs-fbi-statement-on-reports-of-drones-in-new-jersey</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: people.com  
-   Link: <a href="https://people.com/89-drones-plummet-into-harbor-light-show-technical-difficulties-11983485" target="_blank" rel="noopener noreferrer nofollow">https://people.com/89-drones-plummet-into-harbor-light-show-technical-difficulties-11983485</a>  
+   Link:<a href="https://people.com/89-drones-plummet-into-harbor-light-show-technical-difficulties-11983485" target="_blank" rel="noopener noreferrer nofollow">https://people.com/89-drones-plummet-into-harbor-light-show-technical-difficulties-11983485</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/faq/beyond-visual-line-sight-bvlos-operations-are-anti-collision-lights-required" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/faq/beyond-visual-line-sight-bvlos-operations-are-anti-collision-lights-required</a>  
+   Link:<a href="https://www.faa.gov/faq/beyond-visual-line-sight-bvlos-operations-are-anti-collision-lights-required" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/faq/beyond-visual-line-sight-bvlos-operations-are-anti-collision-lights-required</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/uas/getting_started/remote_id/2-RID-Industry_and_Standards_Bodies" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/uas/getting_started/remote_id/2-RID-Industry_and_Standards_Bodies</a>  
+   Link:<a href="https://www.faa.gov/uas/getting_started/remote_id/2-RID-Industry_and_Standards_Bodies" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/uas/getting_started/remote_id/2-RID-Industry_and_Standards_Bodies</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/data_research/aviation/aerospace_forecasts/2025-uas-and-aam-summary.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/data_research/aviation/aerospace_forecasts/2025-uas-and-aam-summary.pdf</a>  
+   Link:<a href="https://www.faa.gov/data_research/aviation/aerospace_forecasts/2025-uas-and-aam-summary.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/data_research/aviation/aerospace_forecasts/2025-uas-and-aam-summary.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: dhs.gov  
-   Link: <a href="https://www.dhs.gov/archive/news/2024/12/12/joint-dhsfbi-statement-reports-drones-new-jersey" target="_blank" rel="noopener noreferrer nofollow">https://www.dhs.gov/archive/news/2024/12/12/joint-dhsfbi-statement-reports-drones-new-jersey</a>  
+   Link:<a href="https://www.dhs.gov/archive/news/2024/12/12/joint-dhsfbi-statement-reports-drones-new-jersey" target="_blank" rel="noopener noreferrer nofollow">https://www.dhs.gov/archive/news/2024/12/12/joint-dhsfbi-statement-reports-drones-new-jersey</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: caa.co.uk  
    Title: Civil Aviation Authority Get an Operator ID  
-   Link: <a href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/get-an-operator-id/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/get-an-operator-id/</a>  
+   Link:<a href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/get-an-operator-id/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/get-an-operator-id/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: caa.co.uk  
    Title: Civil Aviation Authority Get a Flyer ID  
-   Link: <a href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/get-a-flyer-id/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/get-a-flyer-id/</a>  
+   Link:<a href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/get-a-flyer-id/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/get-a-flyer-id/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: caa.co.uk  
    Title: flying at night in the open category  
-   Link: <a href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/</a>  
+   Link:<a href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/us-news/2024/dec/17/drones-new-jersey-fbi" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/dec/17/drones-new-jersey-fbi</a>  
+   Link:<a href="https://www.theguardian.com/us-news/2024/dec/17/drones-new-jersey-fbi" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/dec/17/drones-new-jersey-fbi</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/culture/2026/may/30/vivid-sydney-cancels-all-drone-shows-after-83-drones-plunged-into-darling-harbour" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/culture/2026/may/30/vivid-sydney-cancels-all-drone-shows-after-83-drones-plunged-into-darling-harbour</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The UK-based drone operator, Skymagic, attributed the incident to a sudden change in the radio frequency environment after takeoff, which...</p></details>
+   Link:<a href="https://www.theguardian.com/culture/2026/may/30/vivid-sydney-cancels-all-drone-shows-after-83-drones-plunged-into-darling-harbour" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/culture/2026/may/30/vivid-sydney-cancels-all-drone-shows-after-83-drones-plunged-into-darling-harbour</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UK-based drone operator, Skymagic, attributed the incident to a sudden change in the radio frequency environment after takeoff, which...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: Wikipedia  
    Title: Remote ID  
-   Link: <a href="https://en.wikipedia.org/wiki/Remote_ID" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Remote_ID</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Remote_ID" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Remote_ID</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: luftfartstilsynet.no  
    Title: open category  
-   Link: <a href="https://www.luftfartstilsynet.no/en/drones/veiledning/open-category/" target="_blank" rel="noopener noreferrer nofollow">https://www.luftfartstilsynet.no/en/drones/veiledning/open-category/</a>  
+   Link:<a href="https://www.luftfartstilsynet.no/en/drones/veiledning/open-category/" target="_blank" rel="noopener noreferrer nofollow">https://www.luftfartstilsynet.no/en/drones/veiledning/open-category/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: abcnews.com  
-   Link: <a href="https://abcnews.com/US/east-coast-drones-latest-fbi-dod-statement/story?id=116855247" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/US/east-coast-drones-latest-fbi-dod-statement/story?id=116855247</a>  
+   Link:<a href="https://abcnews.com/US/east-coast-drones-latest-fbi-dod-statement/story?id=116855247" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/US/east-coast-drones-latest-fbi-dod-statement/story?id=116855247</a>  
 
 ### Additional References
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/wcti12/posts/after-mysterious-drone-sightings-over-several-us-states-caused-widespread-concer/1030890442403662/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wcti12/posts/after-mysterious-drone-sightings-over-several-us-states-caused-widespread-concer/1030890442403662/</a>  
+   Link:<a href="https://www.facebook.com/wcti12/posts/after-mysterious-drone-sightings-over-several-us-states-caused-widespread-concer/1030890442403662/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wcti12/posts/after-mysterious-drone-sightings-over-several-us-states-caused-widespread-concer/1030890442403662/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/elizabethwhitenews/posts/dhs-fbi-faa-dod-joint-statement-on-ongoing-response-to-reported-drone-sightingsr/1142735097211129/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/elizabethwhitenews/posts/dhs-fbi-faa-dod-joint-statement-on-ongoing-response-to-reported-drone-sightingsr/1142735097211129/</a>  
+   Link:<a href="https://www.facebook.com/elizabethwhitenews/posts/dhs-fbi-faa-dod-joint-statement-on-ongoing-response-to-reported-drone-sightingsr/1142735097211129/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/elizabethwhitenews/posts/dhs-fbi-faa-dod-joint-statement-on-ongoing-response-to-reported-drone-sightingsr/1142735097211129/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Inside.Edition/posts/the-dni-released-an-official-report-in-response-to-years-of-reports-of-unidentif/10157836076755723/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Inside.Edition/posts/the-dni-released-an-official-report-in-response-to-years-of-reports-of-unidentif/10157836076755723/</a>  
+   Link:<a href="https://www.facebook.com/Inside.Edition/posts/the-dni-released-an-official-report-in-response-to-years-of-reports-of-unidentif/10157836076755723/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Inside.Edition/posts/the-dni-released-an-official-report-in-response-to-years-of-reports-of-unidentif/10157836076755723/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40omarvferro/drone-or-ufo-613aebf7aca9" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40omarvferro/drone-or-ufo-613aebf7aca9</a>  
+   Link:<a href="https://medium.com/%40omarvferro/drone-or-ufo-613aebf7aca9" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40omarvferro/drone-or-ufo-613aebf7aca9</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/903879063054302/posts/24624123967269812/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/903879063054302/posts/24624123967269812/</a>  
+   Link:<a href="https://www.facebook.com/groups/903879063054302/posts/24624123967269812/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/903879063054302/posts/24624123967269812/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: citydronez.com  
-   Link: <a href="https://citydronez.com/faa-by-the-numbers/" target="_blank" rel="noopener noreferrer nofollow">https://citydronez.com/faa-by-the-numbers/</a>  
+   Link:<a href="https://citydronez.com/faa-by-the-numbers/" target="_blank" rel="noopener noreferrer nofollow">https://citydronez.com/faa-by-the-numbers/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/flyer-ids-and-operator-ids/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/flyer-ids-and-operator-ids/</a>  
+   Link:<a href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/flyer-ids-and-operator-ids/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/flyer-ids-and-operator-ids/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ancientwhispers/posts/glowing-circular-shaped-like-object-was-captured-hovering-in-the-night-sky-its-b/972255295793892/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ancientwhispers/posts/glowing-circular-shaped-like-object-was-captured-hovering-in-the-night-sky-its-b/972255295793892/</a>  
+   Link:<a href="https://www.facebook.com/ancientwhispers/posts/glowing-circular-shaped-like-object-was-captured-hovering-in-the-night-sky-its-b/972255295793892/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ancientwhispers/posts/glowing-circular-shaped-like-object-was-captured-hovering-in-the-night-sky-its-b/972255295793892/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/srilanka/comments/w13d2b/has_anyone_else_noticed_drones_that_hover_for/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/srilanka/comments/w13d2b/has_anyone_else_noticed_drones_that_hover_for/</a>
+   Link:<a href="https://www.reddit.com/r/srilanka/comments/w13d2b/has_anyone_else_noticed_drones_that_hover_for/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/srilanka/comments/w13d2b/has_anyone_else_noticed_drones_that_hover_for/</a>

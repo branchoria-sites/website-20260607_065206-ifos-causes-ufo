@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ifos-causes-of-ufo-3ed238-satellites/
 description: Focused pages that expand on Satellites.
-date: '2026-06-12'
+date: '2026'
 layout: default
 parent_basename: ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b
 parent_title: Satellites
@@ -16,7 +16,7 @@ parent_permalink: /satellites/
 
 # Explore Topics in Satellites
 
-The following pages expand on the main **[Satellites]({{ '/satellites/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Satellites]({{ '/satellites/' | relative_url }})** page and cover its key branches in.
 
 - [Gallup case]({{ '/gallup-case/' | relative_url }})
 - [Satellite clues]({{ '/satellite-clues/' | relative_url }})

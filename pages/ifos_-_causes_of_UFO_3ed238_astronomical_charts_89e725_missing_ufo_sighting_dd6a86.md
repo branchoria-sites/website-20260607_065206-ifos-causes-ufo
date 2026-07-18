@@ -277,7 +277,7 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725_mis
 Astronomical charts can often test whether a reported UFO was actually a bright planet, star, meteor, or other known object. However, many older UFO reports cannot be checked reliably because the original records lack the details needed to reconstruct the sky. In such cases, even the most accurate planetarium software cannot provide a decisive answer. The problem is not usually the quality of the charts; it is the quality of the historical data.
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725_missing_ufo_sighting_dd6a86-Illustration-1-dark.svg" | relative_url }}" alt="Missing Details illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725_missing_ufo_sighting_dd6a86-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725_missing_ufo_sighting_dd6a86-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This limitation is important because astronomical objects account for a large share of identified UFO reports. Studies of UFO case files have repeatedly found that bright planets, [stars]({{ 'stars/' | relative_url }}), [meteors]({{ 'meteors/' | relative_url }}), and related phenomena explain many sightings once their positions are compared with witness descriptions. Yet a significant number of reports remain unresolved simply because the observation details are incomplete or contradictory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Identification studies of UFOs</span><span class="citation-popover-snippet">Identification studies of UFOs</span></span></span>
+This limitation is important because astronomical objects account for a large share of identified UFO reports. Studies of UFO case files have repeatedly found that bright planets, [stars]({{ 'stars/' | relative_url }}), [meteors]({{ 'meteors/' | relative_url }}), and related phenomena explain many sightings once their positions are compared with witness descriptions. Yet a significant number of reports remain unresolved simply because the observation details are incomplete or contradictory.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Identification studies of UFOs</span><span class="citation-popover-snippet">Identification studies of UFOs</span></span></span>
 
 ## Which Missing Details Matter Most
 
@@ -293,11 +293,11 @@ When investigators attempt to compare an old UFO report with astronomical record
 
 If any one of these is missing, confidence drops. If two or more are absent, a chart comparison may become little more than speculation.
 
-A report stating that a bright object was seen "one evening in autumn" provides very little to work with. [Venus]({{ 'venus/' | relative_url }}), Jupiter, bright stars, aircraft, and atmospheric effects can occupy dramatically different positions depending on the date and time. Even a difference of one hour can move a planet noticeably across the sky, while a difference of several weeks may place it in an entirely different region. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in the United Kingdom</span><span class="citation-popover-snippet">UFO sightings in the United KingdomThis is a list of notable alleged sightings of unidentified flying objects (UFOs) in the United Kin...</span></span></span>
+A report stating that a bright object was seen "one evening in autumn" provides very little to work with. [Venus]({{ 'venus/' | relative_url }}), Jupiter, bright stars, aircraft, and atmospheric effects can occupy dramatically different positions depending on the date and time. Even a difference of one hour can move a planet noticeably across the sky, while a difference of several weeks may place it in an entirely different region.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in the United Kingdom</span><span class="citation-popover-snippet">UFO sightings in the United KingdomThis is a list of notable alleged sightings of unidentified flying objects (UFOs) in the United Kin...</span></span></span>
 
-Direction is equally important. A witness who remembers only that an object was "over there" or "towards the hills" leaves investigators unable to test whether a bright planet occupied the reported position. Many successful astronomical identifications depend on matching a celestial object's location to a specific compass bearing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://vocal.media/futurism/how-can-venus-be-a-ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vocal.media">[Vocal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vocal.media</span><span class="citation-popover-title">How Can Venus Be a UFO?</span><span class="citation-popover-snippet">Futurism - Vocal MediaDespite the wavering accuracy of these reports, the phenomena were easily identified as Venus because of their re...</span></span></span>
+Direction is equally important. A witness who remembers only that an object was "over there" or "towards the hills" leaves investigators unable to test whether a bright planet occupied the reported position. Many successful astronomical identifications depend on matching a celestial object's location to a specific compass bearing.<span class="citation-chip-wrap"><a class="citation-chip" href="https://vocal.media/futurism/how-can-venus-be-a-ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vocal.media">[Vocal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vocal.media</span><span class="citation-popover-title">How Can Venus Be a UFO?</span><span class="citation-popover-snippet">Futurism - Vocal MediaDespite the wavering accuracy of these reports, the phenomena were easily identified as Venus because of their re...</span></span></span>
 
-Elevation is often overlooked. A bright object low on the horizon behaves differently from one high overhead. Atmospheric distortion near the horizon can make planets appear larger, coloured, shimmering, or apparently mobile. Without an estimate of height above the horizon, investigators lose another critical comparison point. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://theness.com/neurologicablog/264/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theness.com">[The NESS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theness.com</span><span class="citation-popover-title">The NESSUFO&#x27; and the Argument from Ignorance</span><span class="citation-popover-snippet">Astronomical objects seem to be the most commonly mistaken for UFOs;...Read more...</span></span></span>
+Elevation is often overlooked. A bright object low on the horizon behaves differently from one high overhead. Atmospheric distortion near the horizon can make planets appear larger, coloured, shimmering, or apparently mobile. Without an estimate of height above the horizon, investigators lose another critical comparison point.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://theness.com/neurologicablog/264/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theness.com">[The NESS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theness.com</span><span class="citation-popover-title">The NESSUFO&#x27; and the Argument from Ignorance</span><span class="citation-popover-snippet">Astronomical objects seem to be the most commonly mistaken for UFOs;...Read more...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1zRWi_r3HRM" title="&quot;100,000 UFOs Are Surrounding Earth!&quot; ft. Top Astronomer Beatriz Villarroel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1zRWi_r3HRM" target="_blank" rel="noopener noreferrer">&quot;100,000 UFOs Are Surrounding Earth!&quot; ft. Top Astronomer Beatriz Villarroel</a></p><p class="youtube-embed-meta">Channel: Jesse Michels &middot; Views: 882.8K &middot; Uploaded: October 2025 &middot; Length: 1 hour 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1zRWi_r3HRM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1zRWi_r3HRM">Open on YouTube</a></p></div></div></div>
 
@@ -309,7 +309,7 @@ Research in psychology has long shown that memory is reconstructive rather than 
 
 For example, a witness who originally reported seeing a light "after sunset" may later recall it as occurring "around 9 p.m." A change like this can move the reconstructed sky by many degrees. A planet that fit the original description may no longer fit the revised one, or vice versa.
 
-Some well-known UFO cases have accumulated additional details decades after the event. In certain instances, investigators have argued that later recollections may reflect memory reconstruction rather than information present in the original reports. The continuing debates surrounding witness recollections in cases such as the Rendlesham Forest incident illustrate how evolving memories can complicate efforts to compare reports with known astronomical conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The most notable encounter involved U.S. Air Force personnel Jim Penniston, John Burroughs, and Charles Halt, who reported strange lights...</span></span></span>
+Some well-known UFO cases have accumulated additional details decades after the event. In certain instances, investigators have argued that later recollections may reflect memory reconstruction rather than information present in the original reports. The continuing debates surrounding witness recollections in cases such as the Rendlesham Forest incident illustrate how evolving memories can complicate efforts to compare reports with known astronomical conditions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The most notable encounter involved U.S. Air Force personnel Jim Penniston, John Burroughs, and Charles Halt, who reported strange lights...</span></span></span>
 
 The result is a paradox: the more dramatic a story becomes over time, the less certain investigators may be that the later version reflects the original observation.
 
@@ -322,7 +322,7 @@ If a witness recalls only a bright stationary light but cannot remember the time
 
 This creates a category of cases that remain permanently ambiguous. They are not necessarily unexplained because of extraordinary evidence. Rather, they remain unresolved because the available information is insufficient.
 
-The problem is visible in several large UFO catalogues. Investigator Allan Hendry's analysis of more than 1,300 UFO reports found that a small proportion of cases could not be classified because the information was contradictory, unreliable, or too incomplete for proper evaluation. Such reports do not demonstrate an unknown phenomenon; they demonstrate the limits of the evidence available. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Unidentified flying object</span><span class="citation-popover-snippet">Unidentified flying objectAn unidentified flying object (UFO) is an object or phenomenon seen in the sky but not yet identified or exp...</span></span></span>
+The problem is visible in several large UFO catalogues. Investigator Allan Hendry's analysis of more than 1,300 UFO reports found that a small proportion of cases could not be classified because the information was contradictory, unreliable, or too incomplete for proper evaluation. Such reports do not demonstrate an unknown phenomenon; they demonstrate the limits of the evidence available.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Unidentified flying object</span><span class="citation-popover-snippet">Unidentified flying objectAn unidentified flying object (UFO) is an object or phenomenon seen in the sky but not yet identified or exp...</span></span></span>
 
 For astronomical checking, an incomplete report is often less useful than a detailed report that ultimately proves to be a misidentified planet. The latter can be tested; the former cannot.
 
@@ -349,7 +349,7 @@ The strongest records typically include:
 
 Even simple details can be surprisingly valuable. A witness who notes that an object appeared above a church tower, treeline, or mountain ridge provides a fixed reference that can later be compared against astronomical software.
 
-Independent contemporary records are especially important. Newspaper reports, police logs, air traffic records, diaries, and original witness statements often preserve information before memory drift occurs. Investigators generally place more weight on these contemporaneous records than on recollections recorded many years later. <span class="citation-chip-wrap"><a class="citation-chip" href="https://books.google.com/books/about/The_UFO_Experience.html?id=joJTAAAAMAAJ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: books.google.com">[Google Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">books.google.com</span><span class="citation-popover-snippet">Google BooksThe UFO Experience: A Scientific InquiryDrawing from his experience as a scientific consultant to the US Air Force regarding...</span></span></span>
+Independent contemporary records are especially important. Newspaper reports, police logs, air traffic records, diaries, and original witness statements often preserve information before memory drift occurs. Investigators generally place more weight on these contemporaneous records than on recollections recorded many years later.<span class="citation-chip-wrap"><a class="citation-chip" href="https://books.google.com/books/about/The_UFO_Experience.html?id=joJTAAAAMAAJ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: books.google.com">[Google Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">books.google.com</span><span class="citation-popover-snippet">Google BooksThe UFO Experience: A Scientific InquiryDrawing from his experience as a scientific consultant to the US Air Force regarding...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725_missing_ufo_sighting_dd6a86-Illustration-3-dark.svg" | relative_url }}" alt="Missing Details illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725_missing_ufo_sighting_dd6a86-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725_missing_ufo_sighting_dd6a86-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Some UFO Charts Cannot Decide
@@ -361,194 +361,194 @@ As a result, some historical UFO cases remain disputed not because they resist e
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/itxr6VGyQrs" title="How to Find Stars, Planets, Constellations and Other Objects in the Night Sky?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=itxr6VGyQrs" target="_blank" rel="noopener noreferrer">How to Find Stars, Planets, Constellations and Other Objects in the Night Sky?</a></p><p class="youtube-embed-meta">Channel: Star Walk &middot; Views: 18.0K &middot; Uploaded: May 2020 &middot; Length: 43 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=itxr6VGyQrs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=itxr6VGyQrs">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Some UFO Charts Cannot Decide. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Some UFO Charts Cannot Decide. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains why reports need enough data to classify and evaluate properly.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why reports need enough data to classify and evaluate properly.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Shows how missing details affected official UFO investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how missing details affected official UFO investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
-        </h4>
-        <p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
+</h4>
+<p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
         
-        <p class="fr-book-desc">Supports the astronomy-checking lane when UFO reports include enough time and direction detail.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports the astronomy-checking lane when UFO reports include enough time and direction detail.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Shows what information is needed to reconstruct sky conditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows what information is needed to reconstruct sky conditions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-ufo-charts-cannot-decide-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="why-some-ufo-charts-cannot-decide-star-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A3/A4 SIZE - Star Chart Educational Map of the sky cosmos PANORAMA POSTER # 4"><img src="https://i.ebayimg.com/images/g/csEAAOSwQjNW97sw/s-l225.jpg" alt="Listing image for A3/A4 SIZE - Star Chart Educational Map of the sky cosmos PANORAMA POSTER # 4" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-ufo-charts-cannot-decide-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="why-some-ufo-charts-cannot-decide-star-chart-poster" target="_blank" rel="sponsored noopener noreferrer">A3/A4 SIZE - Star Chart Educational Map of the sky cosmos PANORAMA POSTER # 4</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-ufo-charts-cannot-decide-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="why-some-ufo-charts-cannot-decide-star-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: star chart poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-ufo-charts-cannot-decide-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="why-some-ufo-charts-cannot-decide-star-chart-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-ufo-charts-cannot-decide-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="why-some-ufo-charts-cannot-decide-star-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A3/A4 SIZE - Star Chart Educational Map of the sky cosmos PANORAMA POSTER # 4"><img src="https://i.ebayimg.com/images/g/csEAAOSwQjNW97sw/s-l225.jpg" alt="Listing image for A3/A4 SIZE - Star Chart Educational Map of the sky cosmos PANORAMA POSTER # 4" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-ufo-charts-cannot-decide-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="why-some-ufo-charts-cannot-decide-star-chart-poster" target="_blank" rel="sponsored noopener noreferrer">A3/A4 SIZE - Star Chart Educational Map of the sky cosmos PANORAMA POSTER # 4</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-ufo-charts-cannot-decide-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="why-some-ufo-charts-cannot-decide-star-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: star chart poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-ufo-charts-cannot-decide-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="why-some-ufo-charts-cannot-decide-star-chart-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-ufo-charts-cannot-decide-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="why-some-ufo-charts-cannot-decide-star-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Star Chart Sky Cosmos Space Educational Map Wall Picture Poster"><img src="https://i.ebayimg.com/images/g/uGoAAOSwIaxhi8tJ/s-l225.jpg" alt="Listing image for Star Chart Sky Cosmos Space Educational Map Wall Picture Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-ufo-charts-cannot-decide-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="why-some-ufo-charts-cannot-decide-star-chart-poster" target="_blank" rel="sponsored noopener noreferrer">Star Chart Sky Cosmos Space Educational Map Wall Picture Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-ufo-charts-cannot-decide-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="why-some-ufo-charts-cannot-decide-star-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: star chart poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-ufo-charts-cannot-decide-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="why-some-ufo-charts-cannot-decide-star-chart-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-ufo-charts-cannot-decide-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="why-some-ufo-charts-cannot-decide-star-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Star Chart Sky Cosmos Space Educational Map Wall Picture Poster"><img src="https://i.ebayimg.com/images/g/uGoAAOSwIaxhi8tJ/s-l225.jpg" alt="Listing image for Star Chart Sky Cosmos Space Educational Map Wall Picture Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-ufo-charts-cannot-decide-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="why-some-ufo-charts-cannot-decide-star-chart-poster" target="_blank" rel="sponsored noopener noreferrer">Star Chart Sky Cosmos Space Educational Map Wall Picture Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-ufo-charts-cannot-decide-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="why-some-ufo-charts-cannot-decide-star-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: star chart poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-ufo-charts-cannot-decide-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="why-some-ufo-charts-cannot-decide-star-chart-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-ufo-charts-cannot-decide-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="why-some-ufo-charts-cannot-decide-star-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Star Chart Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/PVQAAeSw7pFp2SKq/s-l225.jpg" alt="Listing image for Star Chart Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-ufo-charts-cannot-decide-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="why-some-ufo-charts-cannot-decide-star-chart-poster" target="_blank" rel="sponsored noopener noreferrer">Star Chart Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-ufo-charts-cannot-decide-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="why-some-ufo-charts-cannot-decide-star-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: star chart poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-ufo-charts-cannot-decide-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="why-some-ufo-charts-cannot-decide-star-chart-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-ufo-charts-cannot-decide-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="why-some-ufo-charts-cannot-decide-star-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Star Chart Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/PVQAAeSw7pFp2SKq/s-l225.jpg" alt="Listing image for Star Chart Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-ufo-charts-cannot-decide-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="why-some-ufo-charts-cannot-decide-star-chart-poster" target="_blank" rel="sponsored noopener noreferrer">Star Chart Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-ufo-charts-cannot-decide-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="why-some-ufo-charts-cannot-decide-star-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: star chart poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-ufo-charts-cannot-decide-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="why-some-ufo-charts-cannot-decide-star-chart-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-ufo-charts-cannot-decide-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="why-some-ufo-charts-cannot-decide-star-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Star Chart Sky Space Cosmos Educational Map Print Poster Wall Art Picture A4 +"><img src="https://i.ebayimg.com/images/g/fk0AAOSwcYRj0kh~/s-l225.jpg" alt="Listing image for Star Chart Sky Space Cosmos Educational Map Print Poster Wall Art Picture A4 +" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-ufo-charts-cannot-decide-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="why-some-ufo-charts-cannot-decide-star-chart-poster" target="_blank" rel="sponsored noopener noreferrer">Star Chart Sky Space Cosmos Educational Map Print Poster Wall Art Picture A4 +</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-ufo-charts-cannot-decide-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="why-some-ufo-charts-cannot-decide-star-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: star chart poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-ufo-charts-cannot-decide-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="why-some-ufo-charts-cannot-decide-star-chart-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-ufo-charts-cannot-decide-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="why-some-ufo-charts-cannot-decide-star-chart-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-ufo-charts-cannot-decide-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="why-some-ufo-charts-cannot-decide-star-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Star Chart Sky Space Cosmos Educational Map Print Poster Wall Art Picture A4 +"><img src="https://i.ebayimg.com/images/g/fk0AAOSwcYRj0kh~/s-l225.jpg" alt="Listing image for Star Chart Sky Space Cosmos Educational Map Print Poster Wall Art Picture A4 +" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-ufo-charts-cannot-decide-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="why-some-ufo-charts-cannot-decide-star-chart-poster" target="_blank" rel="sponsored noopener noreferrer">Star Chart Sky Space Cosmos Educational Map Print Poster Wall Art Picture A4 +</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-ufo-charts-cannot-decide-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="why-some-ufo-charts-cannot-decide-star-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: star chart poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-ufo-charts-cannot-decide-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="why-some-ufo-charts-cannot-decide-star-chart-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-ufo-charts-cannot-decide-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="why-some-ufo-charts-cannot-decide-star-chart-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -564,7 +564,7 @@ As a result, some historical UFO cases remain disputed not because they resist e
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -584,7 +584,7 @@ As a result, some historical UFO cases remain disputed not because they resist e
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -616,7 +616,7 @@ As a result, some historical UFO cases remain disputed not because they resist e
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -668,7 +668,7 @@ As a result, some historical UFO cases remain disputed not because they resist e
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -713,7 +713,7 @@ As a result, some historical UFO cases remain disputed not because they resist e
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -754,101 +754,101 @@ As a result, some historical UFO cases remain disputed not because they resist e
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Identification studies of UFOs  
-   Link: <a href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Identification_studies_of_UFOs</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Identification_studies_of_UFOs</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: vocal.media  
    Title: How Can Venus Be a UFO?  
-   Link: <a href="https://vocal.media/futurism/how-can-venus-be-a-ufo" target="_blank" rel="noopener noreferrer nofollow">https://vocal.media/futurism/how-can-venus-be-a-ufo</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Futurism - Vocal MediaDespite the wavering accuracy of these reports, the phenomena were easily identified as Venus because of their re...</p></details>
+   Link:<a href="https://vocal.media/futurism/how-can-venus-be-a-ufo" target="_blank" rel="noopener noreferrer nofollow">https://vocal.media/futurism/how-can-venus-be-a-ufo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Futurism - Vocal MediaDespite the wavering accuracy of these reports, the phenomena were easily identified as Venus because of their re...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: books.google.com  
-   Link: <a href="https://books.google.com/books/about/The_UFO_Experience.html?id=joJTAAAAMAAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/The_UFO_Experience.html?id=joJTAAAAMAAJ</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google BooksThe UFO Experience: A Scientific InquiryDrawing from his experience as a scientific consultant to the US Air Force regarding...</p></details>
+   Link:<a href="https://books.google.com/books/about/The_UFO_Experience.html?id=joJTAAAAMAAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/The_UFO_Experience.html?id=joJTAAAAMAAJ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google BooksThe UFO Experience: A Scientific InquiryDrawing from his experience as a scientific consultant to the US Air Force regarding...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: UFO sightings in the United Kingdom  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in the United KingdomThis is a list of notable alleged sightings of unidentified flying objects (UFOs) in the United Kin...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in the United KingdomThis is a list of notable alleged sightings of unidentified flying objects (UFOs) in the United Kin...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Unidentified flying object  
-   Link: <a href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unidentified_flying_object</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified flying objectAn unidentified flying object (UFO) is an object or phenomenon seen in the sky but not yet identified or exp...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unidentified_flying_object</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified flying objectAn unidentified flying object (UFO) is an object or phenomenon seen in the sky but not yet identified or exp...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: theness.com  
    Title: The NESSUFO' and the Argument from Ignorance  
-   Link: <a href="https://theness.com/neurologicablog/264/" target="_blank" rel="noopener noreferrer nofollow">https://theness.com/neurologicablog/264/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Astronomical objects seem to be the most commonly mistaken for UFOs;...Read more...</p></details>
+   Link:<a href="https://theness.com/neurologicablog/264/" target="_blank" rel="noopener noreferrer nofollow">https://theness.com/neurologicablog/264/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Astronomical objects seem to be the most commonly mistaken for UFOs;...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The most notable encounter involved U.S. Air Force personnel Jim Penniston, John Burroughs, and Charles Halt, who reported strange lights...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The most notable encounter involved U.S. Air Force personnel Jim Penniston, John Burroughs, and Charles Halt, who reported strange lights...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: theness.com  
    Title: Some UFO Logical Fallacies  
-   Link: <a href="https://theness.com/neurologicablog/some-ufo-logical-fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://theness.com/neurologicablog/some-ufo-logical-fallacies/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NeuroLogica Blog25 Mar 2009 — People report sighting UFOs all the time in unequivocal terms and they are not “unknowns” as if ambiguous o...</p></details>
+   Link:<a href="https://theness.com/neurologicablog/some-ufo-logical-fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://theness.com/neurologicablog/some-ufo-logical-fallacies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NeuroLogica Blog25 Mar 2009 — People report sighting UFOs all the time in unequivocal terms and they are not “unknowns” as if ambiguous o...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FLYING SAUCERS UFO REPORTSAstronomers could be found in both camps, those who at- tributed the sighting to Venus, or other planets, and t...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FLYING SAUCERS UFO REPORTSAstronomers could be found in both camps, those who at- tributed the sighting to Venus, or other planets, and t...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/story/unidentified-flying-objects-what-we-know" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/story/unidentified-flying-objects-what-we-know</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaUnidentified Flying Objects: What We KnowThere are numerous natural phenomena that have been employed to explain U...</p></details>
+   Link:<a href="https://www.britannica.com/story/unidentified-flying-objects-what-we-know" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/story/unidentified-flying-objects-what-we-know</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaUnidentified Flying Objects: What We KnowThere are numerous natural phenomena that have been employed to explain U...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/resonant-archive/close-encounters-and-information-theory-why-ufo-reports-read-like-corrupted-data-2fe7709828ed" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/resonant-archive/close-encounters-and-information-theory-why-ufo-reports-read-like-corrupted-data-2fe7709828ed</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why UFO Reports Read Like Corrupted DataOne: The reports are wrong. Perceptual errors, misidentification, hallucination. Two: The physics...</p></details>
+   Link:<a href="https://medium.com/resonant-archive/close-encounters-and-information-theory-why-ufo-reports-read-like-corrupted-data-2fe7709828ed" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/resonant-archive/close-encounters-and-information-theory-why-ufo-reports-read-like-corrupted-data-2fe7709828ed</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why UFO Reports Read Like Corrupted DataOne: The reports are wrong. Perceptual errors, misidentification, hallucination. Two: The physics...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cnes-[geipan](&#123;&#123; 'geipan/' | relative_url &#125;&#125;). fr  
-   Link: <a href="https://www.cnes-geipan.fr/sites/default/files/Aids_to_identification_of_flying_objects_0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/Aids_to_identification_of_flying_objects_0.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>aids to identification of flying objectsUnidentified Flying Objects (UFOs), or flying saucers as they are known to many persons, have bee...</p></details>
+   Link:<a href="https://www.cnes-geipan.fr/sites/default/files/Aids_to_identification_of_flying_objects_0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/Aids_to_identification_of_flying_objects_0.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>aids to identification of flying objectsUnidentified Flying Objects (UFOs), or flying saucers as they are known to many persons, have bee...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: goodreads.com  
-   Link: <a href="https://www.goodreads.com/shelf/show/ufos-and-the-paranormal" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/shelf/show/ufos-and-the-paranormal</a>  
+   Link:<a href="https://www.goodreads.com/shelf/show/ufos-and-the-paranormal" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/shelf/show/ufos-and-the-paranormal</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ebay.co.uk  
-   Link: <a href="https://www.ebay.co.uk/b/bn_7022533140" target="_blank" rel="noopener noreferrer nofollow">https://www.ebay.co.uk/b/bn_7022533140</a>  
+   Link:<a href="https://www.ebay.co.uk/b/bn_7022533140" target="_blank" rel="noopener noreferrer nofollow">https://www.ebay.co.uk/b/bn_7022533140</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
    Title: i do not believe these reports are misidentifications of venus jupiter aircraft  
-   Link: <a href="https://www.facebook.com/wirralglobe/posts/i-do-not-believe-these-reports-are-misidentifications-of-venus-jupiter-aircraft-/1499950764979200/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wirralglobe/posts/i-do-not-believe-these-reports-are-misidentifications-of-venus-jupiter-aircraft-/1499950764979200/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;I do not believe these reports are misidentifications of...In 1986 me and my mates saw a UFO and neighbours from the next street we all...</p></details>
+   Link:<a href="https://www.facebook.com/wirralglobe/posts/i-do-not-believe-these-reports-are-misidentifications-of-venus-jupiter-aircraft-/1499950764979200/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wirralglobe/posts/i-do-not-believe-these-reports-are-misidentifications-of-venus-jupiter-aircraft-/1499950764979200/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;I do not believe these reports are misidentifications of...In 1986 me and my mates saw a UFO and neighbours from the next street we all...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: port.ac.uk  
    Title: ufos what well learn from the nasa panel investigating sightings  
-   Link: <a href="https://www.port.ac.uk/news-events-and-blogs/blogs/developing-enhanced-technologies/ufos-what-well-learn-from-the-nasa-panel-investigating-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.port.ac.uk/news-events-and-blogs/blogs/developing-enhanced-technologies/ufos-what-well-learn-from-the-nasa-panel-investigating-sightings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>what we&#x27;ll learn from the Nasa panel investigating sightings13 Jun 2023 — A committee set up by Nasa has examined about 800 reports of un...</p></details>
+   Link:<a href="https://www.port.ac.uk/news-events-and-blogs/blogs/developing-enhanced-technologies/ufos-what-well-learn-from-the-nasa-panel-investigating-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.port.ac.uk/news-events-and-blogs/blogs/developing-enhanced-technologies/ufos-what-well-learn-from-the-nasa-panel-investigating-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>what we&#x27;ll learn from the Nasa panel investigating sightings13 Jun 2023 — A committee set up by Nasa has examined about 800 reports of un...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: "100,000 UFOs Are Surrounding Earth!" ft. Top Astronomer Beatriz Villarroel  
-   Link: <a href="https://www.youtube.com/watch?v=1zRWi_r3HRM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1zRWi_r3HRM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating UFO reports astronomical identification challenges Investigating UFOs: International research &amp; Ross Coulthart&#x27;s personal s...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=1zRWi_r3HRM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1zRWi_r3HRM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating UFO reports astronomical identification challenges Investigating UFOs: International research &amp; Ross Coulthart&#x27;s personal s...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
    Title: Evidence Isn't Proof of Aliens Here's what happens when  
-   Link: <a href="https://www.facebook.com/academicavengers/posts/the-shocking-truth-about-ufos-evidence-isnt-proof-of-aliensheres-what-happens-wh/873435215680225/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/academicavengers/posts/the-shocking-truth-about-ufos-evidence-isnt-proof-of-aliensheres-what-happens-wh/873435215680225/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings cannot be easily explained by weather or human technology. A physicist argues that there&#x27;s compelling evidence to justify...</p></details>
+   Link:<a href="https://www.facebook.com/academicavengers/posts/the-shocking-truth-about-ufos-evidence-isnt-proof-of-aliensheres-what-happens-wh/873435215680225/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/academicavengers/posts/the-shocking-truth-about-ufos-evidence-isnt-proof-of-aliensheres-what-happens-wh/873435215680225/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings cannot be easily explained by weather or human technology. A physicist argues that there&#x27;s compelling evidence to justify...</p></details>

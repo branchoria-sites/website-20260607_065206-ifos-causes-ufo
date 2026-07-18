@@ -508,11 +508,11 @@ This matters because aircraft are among the common conventional causes of UFO re
 
 ## What flight data can show
 
-The most useful public flight-tracking source is usually ADS-B, short for Automatic Dependent Surveillance-Broadcast. In plain terms, many aircraft determine their own position from satellite navigation and broadcast data such as location, altitude, ground speed and identification. The U.S. Federal Aviation Administration says ADS-B Out broadcasts GPS location, altitude, ground speed and other data once per second, which is more frequent than traditional [radar]({{ 'radar/' | relative_url }}) sweeps that may update every several seconds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/technology/equipadsb/capabilities/ins_outs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">ins outs</span><span class="citation-popover-snippet">ins outs</span></span></span>
+The most useful public flight-tracking source is usually ADS-B, short for Automatic Dependent Surveillance-Broadcast. In plain terms, many aircraft determine their own position from satellite navigation and broadcast data such as location, altitude, ground speed and identification. The U.S. Federal Aviation Administration says ADS-B Out broadcasts GPS location, altitude, ground speed and other data once per second, which is more frequent than traditional [radar]({{ 'radar/' | relative_url }}) sweeps that may update every several seconds.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/technology/equipadsb/capabilities/ins_outs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">ins outs</span><span class="citation-popover-snippet">ins outs</span></span></span>
 
 For a UFO report, that stream of data can answer several concrete questions. Was an aircraft in the right part of the sky? Was it moving in the direction the witness described? Was it climbing, descending, turning or lining up with a runway? Was it close enough to show navigation lights, [landing lights]({{ 'landing-lights/' | relative_url }}) or engine glow? Was it far enough away that its motion would look slow, stationary or oddly silent? These are not abstract checks; they directly test whether the report fits a known aircraft rather than an unknown object.
 
-Flight-tracking sites do not all show the same data. Flightradar24 says its tracking comes primarily from ADS-B signals, but it also uses multilateration, or MLAT, to estimate the position of aircraft that transmit Mode S data without full ADS-B position information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flightradar24.com/how-it-works" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightradar24.com">[Flightradar24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightradar24.com</span><span class="citation-popover-snippet">Open source on flightradar24.com.</span></span></span> ADS-B Exchange describes itself as a global independent receiver network showing aircraft broadcasts as received, including live and historical aircraft activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.adsbexchange.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsbexchange.com">[ADS-B Exchange]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsbexchange.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> OpenSky Network, used widely in aviation research, collects ADS-B, Mode S, ADS-C, FLARM and VHF data, making it useful not just for hobby tracking but for reproducible research into flight [trajectories]({{ 'trajectories/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://opensky-network.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: opensky-network.org">[OpenSky Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">opensky-network.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Flight-tracking sites do not all show the same data. Flightradar24 says its tracking comes primarily from ADS-B signals, but it also uses multilateration, or MLAT, to estimate the position of aircraft that transmit Mode S data without full ADS-B position information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flightradar24.com/how-it-works" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightradar24.com">[Flightradar24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightradar24.com</span><span class="citation-popover-snippet">Open source on flightradar24.com.</span></span></span> ADS-B Exchange describes itself as a global independent receiver network showing aircraft broadcasts as received, including live and historical aircraft activity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.adsbexchange.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsbexchange.com">[ADS-B Exchange]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsbexchange.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> OpenSky Network, used widely in aviation research, collects ADS-B, Mode S, ADS-C, FLARM and VHF data, making it useful not just for hobby tracking but for reproducible research into flight [trajectories]({{ 'trajectories/' | relative_url }}).<span class="citation-chip-wrap"><a class="citation-chip" href="https://opensky-network.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: opensky-network.org">[OpenSky Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">opensky-network.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The key point for UFO analysis is that flight data changes the problem from “what did this look like?” to “what aircraft could have occupied this line of sight at this time?” That is a stronger question. It allows investigators to compare witness perception with measurable aircraft position, altitude, heading and timing.
 
@@ -532,7 +532,7 @@ A good match usually asks four questions:
 
 </div>
 
-The Chilean Navy infrared case from 2014 is a useful example because it shows both the strength and the controversy of flight correlation. The video was initially presented as a serious unresolved case after official review, with media reports describing a military helicopter crew, infrared footage and an object that appeared to emit a plume. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2017/01/09/chilean-navy-admits-it-cant-explain-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-title">New York Post Chilean navy admits it can&#x27;t explain &#x27;UFO</span><span class="citation-popover-snippet">New York Post Chilean navy admits it can&#x27;t explain &#x27;UFO</span></span></span> Subsequent open-source analysis compared the video with flight records and identified Iberia flight IB6830 as a strong match. Metabunk’s analysis argued that the airliner was in the right place at the right time, moving in the right direction, banking when the object appeared to bank, producing a thermal signature of the right apparent size, and leaving contrails consistent with the plume. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/explained-chilean-navy-ufo-video-aerodynamic-contrails-flight-ib6830.8306/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">Chilean Navy &quot;UFO&quot; video</span><span class="citation-popover-snippet">Chilean Navy &quot;UFO&quot; video</span></span></span> A Skeptical Inquirer account of the same investigation described the case as solved in five days once frame-by-frame motion, timestamped positions and aircraft data were compared. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/newsletter/curated-crowdsourcing-in-ufo-investigations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer Curated Crowdsourcing in UFO Investigations</span><span class="citation-popover-snippet">Skeptical Inquirer Curated Crowdsourcing in UFO Investigations</span></span></span>
+The Chilean Navy infrared case from 2014 is a useful example because it shows both the strength and the controversy of flight correlation. The video was initially presented as a serious unresolved case after official review, with media reports describing a military helicopter crew, infrared footage and an object that appeared to emit a plume.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2017/01/09/chilean-navy-admits-it-cant-explain-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-title">New York Post Chilean navy admits it can&#x27;t explain &#x27;UFO</span><span class="citation-popover-snippet">New York Post Chilean navy admits it can&#x27;t explain &#x27;UFO</span></span></span> Subsequent open-source analysis compared the video with flight records and identified Iberia flight IB6830 as a strong match. Metabunk’s analysis argued that the airliner was in the right place at the right time, moving in the right direction, banking when the object appeared to bank, producing a thermal signature of the right apparent size, and leaving contrails consistent with the plume.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/explained-chilean-navy-ufo-video-aerodynamic-contrails-flight-ib6830.8306/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">Chilean Navy &quot;UFO&quot; video</span><span class="citation-popover-snippet">Chilean Navy &quot;UFO&quot; video</span></span></span> A Skeptical Inquirer account of the same investigation described the case as solved in five days once frame-by-frame motion, timestamped positions and aircraft data were compared.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/newsletter/curated-crowdsourcing-in-ufo-investigations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer Curated Crowdsourcing in UFO Investigations</span><span class="citation-popover-snippet">Skeptical Inquirer Curated Crowdsourcing in UFO Investigations</span></span></span>
 
 That case illustrates why flight tracking is more powerful than simply saying “it was probably a plane”. The identification depended on geometry: the helicopter’s position, the camera view, the aircraft’s track, the apparent motion and the infrared behaviour all had to line up. If only one element matched, the case would remain weak. When several independent features match, the aircraft explanation becomes much stronger.
 
@@ -542,7 +542,7 @@ That case illustrates why flight tracking is more powerful than simply saying �
 
 Aircraft are familiar objects, but they are not always perceived under familiar conditions. A distant airliner seen head-on can appear to hover because its angular motion is small. Landing lights can look like a single brilliant orb. A banked aircraft can briefly change shape or brightness as its lights, wings and engine glare rotate relative to the observer. A high aircraft seen in infrared may appear as a featureless hot blob rather than a recognisable plane.
 
-This is especially important in video cases. A camera zoomed in on a distant object strips away normal cues: horizon context, sound, binocular depth, surrounding traffic and the witness’s sense of scale. In thermal or infrared footage, the aircraft body may be less important than engine heat, glare, sensor processing and contrast against a cold sky. Public discussion of the Chilean Navy case turned on exactly this point: what looked like a strange emitting object could be read as a distant airliner and contrails once the flight track and imaging conditions were considered together. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.universetoday.com/articles/chilean-government-releases-declassified-ufo-video" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universetoday.com">[Universe Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universetoday.com</span><span class="citation-popover-title">Universe Today Chilean Government Releases Declassified UFO Video</span><span class="citation-popover-snippet">Universe Today Chilean Government Releases Declassified UFO Video</span></span></span>
+This is especially important in video cases. A camera zoomed in on a distant object strips away normal cues: horizon context, sound, binocular depth, surrounding traffic and the witness’s sense of scale. In thermal or infrared footage, the aircraft body may be less important than engine heat, glare, sensor processing and contrast against a cold sky. Public discussion of the Chilean Navy case turned on exactly this point: what looked like a strange emitting object could be read as a distant airliner and contrails once the flight track and imaging conditions were considered together.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.universetoday.com/articles/chilean-government-releases-declassified-ufo-video" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universetoday.com">[Universe Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universetoday.com</span><span class="citation-popover-title">Universe Today Chilean Government Releases Declassified UFO Video</span><span class="citation-popover-snippet">Universe Today Chilean Government Releases Declassified UFO Video</span></span></span>
 
 The same logic applies to night reports. A light that seems to accelerate may simply be turning so that its landing lights brighten or dim. A light that appears to vanish may have turned away, entered cloud, passed behind haze, or switched from landing lights to less conspicuous navigation lights. A line of lights may be several aircraft on an approach path rather than one structured object. Flight tracks let investigators test those possibilities instead of relying only on impression.
 
@@ -569,17 +569,17 @@ A weak match has the opposite features: vague time, no direction, no elevation, 
 
 A flight-track search can still improve a UFO investigation even when it fails to identify the object. It can remove obvious aircraft candidates, show that the report was looking away from major approach paths, or reveal that the witness time is probably wrong. It can also distinguish between a truly missing data point and a normal gap in public tracking.
 
-NASA’s 2023 independent UAP study emphasised that many UAP cases suffer from poor-quality or inconsistent data, and called for more rigorous data acquisition and analysis rather than relying on anecdote alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span> AARO, the U.S. All-domain Anomaly Resolution Office, has made a similar practical point in its public reporting: many cases remain unresolved because they lack sufficient scientific data, while many resolved cases turn out to be ordinary objects including balloons, birds, drones, satellites and aircraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">dr jon kosloski director aaro media roundtable on the fy24 consolidated annual</span><span class="citation-popover-snippet">dr jon kosloski director aaro media roundtable on the fy24 consolidated annual</span></span></span>
+NASA’s 2023 independent UAP study emphasised that many UAP cases suffer from poor-quality or inconsistent data, and called for more rigorous data acquisition and analysis rather than relying on anecdote alone.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span> AARO, the U.S. All-domain Anomaly Resolution Office, has made a similar practical point in its public reporting: many cases remain unresolved because they lack sufficient scientific data, while many resolved cases turn out to be ordinary objects including balloons, birds, drones, satellites and aircraft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">dr jon kosloski director aaro media roundtable on the fy24 consolidated annual</span><span class="citation-popover-snippet">dr jon kosloski director aaro media roundtable on the fy24 consolidated annual</span></span></span>
 
 This is why the absence of a flight-track match should be handled carefully. It may mean there was no aircraft. It may also mean the aircraft was not broadcasting ADS-B, was filtered from one website, was tracked only by radar, was too low for receivers, was military, was outside coverage, or was present under a different timestamp than the witness supplied. A non-match is evidence, but it is not automatically a mystery.
 
 ## Gaps and military limitations
 
-Public flight tracking is a powerful tool, but it is not the same as a complete air-defence picture. Coverage depends on receiver networks, terrain, altitude and the type of signal an aircraft transmits. OpenSky researchers note that ground-based ADS-B coverage has natural gaps over oceans, sparsely populated regions and areas with limited receiver density. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lenders.ch/publications/conferences/icns25.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lenders.ch">[lenders.ch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lenders.ch</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Flightradar24 also notes that some aircraft information may be limited or blocked at the request of owners or operators through programmes such as the FAA’s Limiting Aircraft Data Displayed system. <span class="citation-chip-wrap"><a class="citation-chip" href="https://support.fr24.com/support/solutions/articles/3000117426-why-is-some-aircraft-information-limited-or-not-visible-" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.fr24.com">[Flightradar24 Support center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.fr24.com</span><span class="citation-popover-title">3000117426 why is some aircraft information limited or not visible</span><span class="citation-popover-snippet">3000117426 why is some aircraft information limited or not visible</span></span></span>
+Public flight tracking is a powerful tool, but it is not the same as a complete air-defence picture. Coverage depends on receiver networks, terrain, altitude and the type of signal an aircraft transmits. OpenSky researchers note that ground-based ADS-B coverage has natural gaps over oceans, sparsely populated regions and areas with limited receiver density.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lenders.ch/publications/conferences/icns25.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lenders.ch">[lenders.ch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lenders.ch</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Flightradar24 also notes that some aircraft information may be limited or blocked at the request of owners or operators through programmes such as the FAA’s Limiting Aircraft Data Displayed system.<span class="citation-chip-wrap"><a class="citation-chip" href="https://support.fr24.com/support/solutions/articles/3000117426-why-is-some-aircraft-information-limited-or-not-visible-" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.fr24.com">[Flightradar24 Support center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.fr24.com</span><span class="citation-popover-title">3000117426 why is some aircraft information limited or not visible</span><span class="citation-popover-snippet">3000117426 why is some aircraft information limited or not visible</span></span></span>
 
 Military aircraft add another layer of difficulty. Some military flights broadcast ADS-B; some use Mode S only; some may not be visible on public sites; and some public platforms filter or handle sensitive aircraft differently. This is why an investigator should compare multiple sources where possible rather than treating one app as authoritative. A missing aircraft on one tracker is not the same thing as a missing aircraft in the sky.
 
-There are also technical errors. Flightradar24’s own explanation of common errors notes that aircraft positions, paths or details can sometimes look wrong because of how tracking data is collected and processed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flightradar24.com/blog/inside-flightradar24/common-errors-on-flightradar24/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightradar24.com">[Flightradar24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightradar24.com</span><span class="citation-popover-title">common errors on flightradar24</span><span class="citation-popover-snippet">common errors on flightradar24</span></span></span> GPS interference can also affect flight-tracking data: Flightradar24 warns that in areas affected by GPS jamming, transponder data may be erroneous or ADS-B data may stop entirely. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flightradar24.com/data/gps-jamming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightradar24.com">[Flightradar24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightradar24.com</span><span class="citation-popover-snippet">Open source on flightradar24.com.</span></span></span> Academic work on ADS-B data has similarly identified issues such as dropouts, missing payloads, data jumps and altitude discrepancies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2306-5729/3/2/19" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Open source on mdpi.com.</span></span></span>
+There are also technical errors. Flightradar24’s own explanation of common errors notes that aircraft positions, paths or details can sometimes look wrong because of how tracking data is collected and processed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flightradar24.com/blog/inside-flightradar24/common-errors-on-flightradar24/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightradar24.com">[Flightradar24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightradar24.com</span><span class="citation-popover-title">common errors on flightradar24</span><span class="citation-popover-snippet">common errors on flightradar24</span></span></span> GPS interference can also affect flight-tracking data: Flightradar24 warns that in areas affected by GPS jamming, transponder data may be erroneous or ADS-B data may stop entirely.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flightradar24.com/data/gps-jamming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightradar24.com">[Flightradar24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightradar24.com</span><span class="citation-popover-snippet">Open source on flightradar24.com.</span></span></span> Academic work on ADS-B data has similarly identified issues such as dropouts, missing payloads, data jumps and altitude discrepancies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2306-5729/3/2/19" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Open source on mdpi.com.</span></span></span>
 
 These limitations do not make flight tracking useless. They define its proper use. Flight data is strongest when it confirms a positive match; it is weaker when used only to argue from absence. A careful report should say “no matching public ADS-B track was found” rather than “there was no aircraft”.
 
@@ -587,7 +587,7 @@ These limitations do not make flight tracking useless. They define its proper us
 
 ## The best practical workflow for a UFO report
 
-For investigators, journalists, local groups or curious witnesses, the most useful flight-correlation workflow is simple but disciplined. First, preserve the original sighting details before interpretation hardens: exact local time, time zone, location, camera direction, phone compass heading if available, elevation angle, duration and whether the object crossed landmarks. Then check several flight-tracking sources, using archived playback if the sighting is no longer live. Flightradar24, ADS-B Exchange and OpenSky may show different details because their data sources, filtering, access levels and historical tools differ. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flightradar24.com/how-it-works/ads-b" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightradar24.com">[Flightradar24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightradar24.com</span><span class="citation-popover-title">Automatic Dependent Surveillance</span><span class="citation-popover-snippet">Automatic Dependent Surveillance</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.adsbexchange.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsbexchange.com">[ADS-B Exchange]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsbexchange.com</span><span class="citation-popover-snippet">Open source on adsbexchange.com.</span></span></span>
+For investigators, journalists, local groups or curious witnesses, the most useful flight-correlation workflow is simple but disciplined. First, preserve the original sighting details before interpretation hardens: exact local time, time zone, location, camera direction, phone compass heading if available, elevation angle, duration and whether the object crossed landmarks. Then check several flight-tracking sources, using archived playback if the sighting is no longer live. Flightradar24, ADS-B Exchange and OpenSky may show different details because their data sources, filtering, access levels and historical tools differ.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flightradar24.com/how-it-works/ads-b" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightradar24.com">[Flightradar24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightradar24.com</span><span class="citation-popover-title">Automatic Dependent Surveillance</span><span class="citation-popover-snippet">Automatic Dependent Surveillance</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.adsbexchange.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsbexchange.com">[ADS-B Exchange]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsbexchange.com</span><span class="citation-popover-snippet">Open source on adsbexchange.com.</span></span></span>
 
 Next, test geometry rather than proximity. A flight ten kilometres away in the wrong direction is less useful than a flight much farther away exactly along the sighting line. If there is video, compare the aircraft’s predicted motion with the object’s motion frame by frame: direction of travel, apparent turn rate, changes in brightness, disappearance point and relation to clouds or horizon. If the object appears in infrared, consider whether engine heat, glare, contrails or sensor artefacts could dominate the image.
 
@@ -604,194 +604,194 @@ The broader lesson is modest but important: many UFO reports are not solved by d
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590-Illustration-3-dark.svg" | relative_url }}" alt="Flight Tracking illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Flight Data Solves UFO Sightings. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Flight Data Solves UFO Sightings. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Shows why precise time and location data are crucial for identifying reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows why precise time and location data are crucial for identifying reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides official and pilot-report context for flight-track comparisons.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides official and pilot-report context for flight-track comparisons.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Stick+and+Rudder%3A+An+Explanation+of+the+Art+of+Flying+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stick and Rudder: An Explanation of the Art of Flying on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NlFaMKzeuWMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Stick and Rudder: An Explanation of the Art of Flying" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Stick+and+Rudder%3A+An+Explanation+of+the+Art+of+Flying+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stick and Rudder: An Explanation of the Art of Flying">Stick and Rudder: An Explanation of the Art of Flying</a>
-        </h4>
-        <p class="fr-book-author">By Wolfgang Langewiesche, Leighton Holden Collins</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Stick+and+Rudder%3A+An+Explanation+of+the+Art+of+Flying+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stick and Rudder: An Explanation of the Art of Flying on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NlFaMKzeuWMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Stick and Rudder: An Explanation of the Art of Flying" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Stick+and+Rudder%3A+An+Explanation+of+the+Art+of+Flying+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stick and Rudder: An Explanation of the Art of Flying">Stick and Rudder: An Explanation of the Art of Flying</a>
+</h4>
+<p class="fr-book-author">By Wolfgang Langewiesche, Leighton Holden Collins</p>
         
-        <p class="fr-book-desc">Helps readers understand aircraft motion and approach geometry behind many UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Stick+and+Rudder%3A+An+Explanation+of+the+Art+of+Flying+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand aircraft motion and approach geometry behind many UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Stick+and+Rudder%3A+An+Explanation+of+the+Art+of+Flying+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+1090+Megahertz+Riddle+by+Junzi+Sun&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The 1090 Megahertz Riddle on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=j4tjEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The 1090 Megahertz Riddle" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+1090+Megahertz+Riddle+by+Junzi+Sun&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The 1090 Megahertz Riddle">The 1090 Megahertz Riddle</a>
-        </h4>
-        <p class="fr-book-author">By Junzi Sun</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+1090+Megahertz+Riddle+by+Junzi+Sun&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The 1090 Megahertz Riddle on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=j4tjEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The 1090 Megahertz Riddle" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+1090+Megahertz+Riddle+by+Junzi+Sun&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The 1090 Megahertz Riddle">The 1090 Megahertz Riddle</a>
+</h4>
+<p class="fr-book-author">By Junzi Sun</p>
         
-        <p class="fr-book-desc">Directly explains Mode S and ADS-B signals used in flight tracking.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+1090+Megahertz+Riddle+by+Junzi+Sun&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly explains Mode S and ADS-B signals used in flight tracking.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+1090+Megahertz+Riddle+by+Junzi+Sun&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Stick+and+Rudder%3A+An+Explanation+of+the+Art+of+Flying&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Stick and Rudder: An Explanation of the Art of Flying</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Stick+and+Rudder%3A+An+Explanation+of+the+Art+of+Flying&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Stick and Rudder: An Explanation of the Art of Flying</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-tracking-how-flight-data-solves-ufo-sightings-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="flight-tracking-how-flight-data-solves-ufo-sightings-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO, Sticker Vinyl Version v6"><img src="{{ '/assets/images/marketplace-covers/b2a8befcf874884cb729.jpg' | relative_url }}" alt="Listing image for UFO, Sticker Vinyl Version v6" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-tracking-how-flight-data-solves-ufo-sightings-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="flight-tracking-how-flight-data-solves-ufo-sightings-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">UFO, Sticker Vinyl Version v6</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-tracking-how-flight-data-solves-ufo-sightings-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="flight-tracking-how-flight-data-solves-ufo-sightings-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-tracking-how-flight-data-solves-ufo-sightings-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="flight-tracking-how-flight-data-solves-ufo-sightings-ifos-causes-of-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-tracking-how-flight-data-solves-ufo-sightings-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="flight-tracking-how-flight-data-solves-ufo-sightings-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO, Sticker Vinyl Version v6"><img src="{{ '/assets/images/marketplace-covers/b2a8befcf874884cb729.jpg' | relative_url }}" alt="Listing image for UFO, Sticker Vinyl Version v6" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-tracking-how-flight-data-solves-ufo-sightings-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="flight-tracking-how-flight-data-solves-ufo-sightings-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">UFO, Sticker Vinyl Version v6</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-tracking-how-flight-data-solves-ufo-sightings-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="flight-tracking-how-flight-data-solves-ufo-sightings-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-tracking-how-flight-data-solves-ufo-sightings-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="flight-tracking-how-flight-data-solves-ufo-sightings-ifos-causes-of-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-tracking-how-flight-data-solves-ufo-sightings-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="flight-tracking-how-flight-data-solves-ufo-sightings-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A4 Sticker Sheet Aliens Vinyl Stickers - UFO Believe Space Planet Hobby #78893"><img src="{{ '/assets/images/marketplace-covers/5521e38509112f04ae4c.jpg' | relative_url }}" alt="Listing image for A4 Sticker Sheet Aliens Vinyl Stickers - UFO Believe Space Planet Hobby #78893" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-tracking-how-flight-data-solves-ufo-sightings-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="flight-tracking-how-flight-data-solves-ufo-sightings-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">A4 Sticker Sheet Aliens Vinyl Stickers - UFO Believe Space Planet Hobby #78893</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-tracking-how-flight-data-solves-ufo-sightings-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="flight-tracking-how-flight-data-solves-ufo-sightings-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-tracking-how-flight-data-solves-ufo-sightings-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="flight-tracking-how-flight-data-solves-ufo-sightings-ifos-causes-of-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-tracking-how-flight-data-solves-ufo-sightings-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="flight-tracking-how-flight-data-solves-ufo-sightings-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A4 Sticker Sheet Aliens Vinyl Stickers - UFO Believe Space Planet Hobby #78893"><img src="{{ '/assets/images/marketplace-covers/5521e38509112f04ae4c.jpg' | relative_url }}" alt="Listing image for A4 Sticker Sheet Aliens Vinyl Stickers - UFO Believe Space Planet Hobby #78893" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-tracking-how-flight-data-solves-ufo-sightings-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="flight-tracking-how-flight-data-solves-ufo-sightings-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">A4 Sticker Sheet Aliens Vinyl Stickers - UFO Believe Space Planet Hobby #78893</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-tracking-how-flight-data-solves-ufo-sightings-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="flight-tracking-how-flight-data-solves-ufo-sightings-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-tracking-how-flight-data-solves-ufo-sightings-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="flight-tracking-how-flight-data-solves-ufo-sightings-ifos-causes-of-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-tracking-how-flight-data-solves-ufo-sightings-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="flight-tracking-how-flight-data-solves-ufo-sightings-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIENS 4 Vinyl Sticker Set: get in loser cute UFO stars space spaceman fun gift"><img src="{{ '/assets/images/marketplace-covers/8e52910332b2b757e6a7.jpg' | relative_url }}" alt="Listing image for ALIENS 4 Vinyl Sticker Set: get in loser cute UFO stars space spaceman fun gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-tracking-how-flight-data-solves-ufo-sightings-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="flight-tracking-how-flight-data-solves-ufo-sightings-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">ALIENS 4 Vinyl Sticker Set: get in loser cute UFO stars space spaceman fun gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-tracking-how-flight-data-solves-ufo-sightings-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="flight-tracking-how-flight-data-solves-ufo-sightings-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-tracking-how-flight-data-solves-ufo-sightings-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="flight-tracking-how-flight-data-solves-ufo-sightings-ifos-causes-of-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-tracking-how-flight-data-solves-ufo-sightings-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="flight-tracking-how-flight-data-solves-ufo-sightings-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIENS 4 Vinyl Sticker Set: get in loser cute UFO stars space spaceman fun gift"><img src="{{ '/assets/images/marketplace-covers/8e52910332b2b757e6a7.jpg' | relative_url }}" alt="Listing image for ALIENS 4 Vinyl Sticker Set: get in loser cute UFO stars space spaceman fun gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-tracking-how-flight-data-solves-ufo-sightings-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="flight-tracking-how-flight-data-solves-ufo-sightings-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">ALIENS 4 Vinyl Sticker Set: get in loser cute UFO stars space spaceman fun gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-tracking-how-flight-data-solves-ufo-sightings-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="flight-tracking-how-flight-data-solves-ufo-sightings-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-tracking-how-flight-data-solves-ufo-sightings-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="flight-tracking-how-flight-data-solves-ufo-sightings-ifos-causes-of-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-tracking-how-flight-data-solves-ufo-sightings-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="flight-tracking-how-flight-data-solves-ufo-sightings-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker"><img src="{{ '/assets/images/marketplace-covers/eb968c20f3ed6c11e2af.jpg' | relative_url }}" alt="Listing image for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-tracking-how-flight-data-solves-ufo-sightings-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="flight-tracking-how-flight-data-solves-ufo-sightings-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-tracking-how-flight-data-solves-ufo-sightings-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="flight-tracking-how-flight-data-solves-ufo-sightings-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-tracking-how-flight-data-solves-ufo-sightings-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="flight-tracking-how-flight-data-solves-ufo-sightings-ifos-causes-of-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-tracking-how-flight-data-solves-ufo-sightings-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="flight-tracking-how-flight-data-solves-ufo-sightings-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-tracking-how-flight-data-solves-ufo-sightings-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="flight-tracking-how-flight-data-solves-ufo-sightings-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker"><img src="{{ '/assets/images/marketplace-covers/eb968c20f3ed6c11e2af.jpg' | relative_url }}" alt="Listing image for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-tracking-how-flight-data-solves-ufo-sightings-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="flight-tracking-how-flight-data-solves-ufo-sightings-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-tracking-how-flight-data-solves-ufo-sightings-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="flight-tracking-how-flight-data-solves-ufo-sightings-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-tracking-how-flight-data-solves-ufo-sightings-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="flight-tracking-how-flight-data-solves-ufo-sightings-ifos-causes-of-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-tracking-how-flight-data-solves-ufo-sightings-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="flight-tracking-how-flight-data-solves-ufo-sightings-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -807,7 +807,7 @@ The broader lesson is modest but important: many UFO reports are not solved by d
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -827,7 +827,7 @@ The broader lesson is modest but important: many UFO reports are not solved by d
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -859,7 +859,7 @@ The broader lesson is modest but important: many UFO reports are not solved by d
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -911,7 +911,7 @@ The broader lesson is modest but important: many UFO reports are not solved by d
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -956,7 +956,7 @@ The broader lesson is modest but important: many UFO reports are not solved by d
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -997,284 +997,284 @@ The broader lesson is modest but important: many UFO reports are not solved by d
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: faa.gov  
    Title: ins outs  
-   Link: <a href="https://www.faa.gov/air_traffic/technology/equipadsb/capabilities/ins_outs" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/technology/equipadsb/capabilities/ins_outs</a>  
+   Link:<a href="https://www.faa.gov/air_traffic/technology/equipadsb/capabilities/ins_outs" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/technology/equipadsb/capabilities/ins_outs</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: flightradar24.com  
-   Link: <a href="https://www.flightradar24.com/how-it-works" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/how-it-works</a>  
+   Link:<a href="https://www.flightradar24.com/how-it-works" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/how-it-works</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: opensky-network.org  
-   Link: <a href="https://opensky-network.org/" target="_blank" rel="noopener noreferrer nofollow">https://opensky-network.org/</a>  
+   Link:<a href="https://opensky-network.org/" target="_blank" rel="noopener noreferrer nofollow">https://opensky-network.org/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: metabunk.org  
    Title: Chilean Navy "UFO" video  
-   Link: <a href="https://www.metabunk.org/threads/explained-chilean-navy-ufo-video-aerodynamic-contrails-flight-ib6830.8306/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/explained-chilean-navy-ufo-video-aerodynamic-contrails-flight-ib6830.8306/</a>  
+   Link:<a href="https://www.metabunk.org/threads/explained-chilean-navy-ufo-video-aerodynamic-contrails-flight-ib6830.8306/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/explained-chilean-navy-ufo-video-aerodynamic-contrails-flight-ib6830.8306/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: war.gov  
    Title: dr jon kosloski director [aaro](&#123;&#123; 'aaro/' | relative_url &#125;&#125;) media roundtable on the fy24 consolidated annual  
-   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
+   Link:<a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: lenders.ch  
-   Link: <a href="https://www.lenders.ch/publications/conferences/icns25.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lenders.ch/publications/conferences/icns25.pdf</a>  
+   Link:<a href="https://www.lenders.ch/publications/conferences/icns25.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lenders.ch/publications/conferences/icns25.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: flightradar24.com  
    Title: common errors on flightradar24  
-   Link: <a href="https://www.flightradar24.com/blog/inside-flightradar24/common-errors-on-flightradar24/" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/blog/inside-flightradar24/common-errors-on-flightradar24/</a>  
+   Link:<a href="https://www.flightradar24.com/blog/inside-flightradar24/common-errors-on-flightradar24/" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/blog/inside-flightradar24/common-errors-on-flightradar24/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: flightradar24.com  
-   Link: <a href="https://www.flightradar24.com/data/gps-jamming" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/data/gps-jamming</a>  
+   Link:<a href="https://www.flightradar24.com/data/gps-jamming" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/data/gps-jamming</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/2306-5729/3/2/19" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2306-5729/3/2/19</a>  
+   Link:<a href="https://www.mdpi.com/2306-5729/3/2/19" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2306-5729/3/2/19</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: metabunk.org  
    Title: lakenheath nov 22 2024 drone filmed from helicopter.14583  
-   Link: <a href="https://www.metabunk.org/threads/lakenheath-nov-22-2024-drone-filmed-from-helicopter.14583/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/lakenheath-nov-22-2024-drone-filmed-from-helicopter.14583/</a>  
+   Link:<a href="https://www.metabunk.org/threads/lakenheath-nov-22-2024-drone-filmed-from-helicopter.14583/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/lakenheath-nov-22-2024-drone-filmed-from-helicopter.14583/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: metabunk.org  
    Title: flight tracking.12066  
-   Link: <a href="https://www.metabunk.org/threads/flight-tracking.12066/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/flight-tracking.12066/</a>  
+   Link:<a href="https://www.metabunk.org/threads/flight-tracking.12066/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/flight-tracking.12066/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: metabunk.org  
    Title: does the beginning part of gimbal debunk the claim that the object rotates.12068  
-   Link: <a href="https://www.metabunk.org/threads/does-the-beginning-part-of-gimbal-debunk-the-claim-that-the-object-rotates.12068/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/does-the-beginning-part-of-gimbal-debunk-the-claim-that-the-object-rotates.12068/</a>  
+   Link:<a href="https://www.metabunk.org/threads/does-the-beginning-part-of-gimbal-debunk-the-claim-that-the-object-rotates.12068/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/does-the-beginning-part-of-gimbal-debunk-the-claim-that-the-object-rotates.12068/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: metabunk.org  
    Title: oregon ufo lights seen by pilots [starlink](&#123;&#123; 'starlink/' | relative_url &#125;&#125;). 13825  
-   Link: <a href="https://www.metabunk.org/threads/oregon-ufo-lights-seen-by-pilots-starlink.13825/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/oregon-ufo-lights-seen-by-pilots-starlink.13825/</a>  
+   Link:<a href="https://www.metabunk.org/threads/oregon-ufo-lights-seen-by-pilots-starlink.13825/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/oregon-ufo-lights-seen-by-pilots-starlink.13825/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: metabunk.org  
    Title: Oregon UFO Lights seen by pilots [Starlink]"UFO" filmed  
-   Link: <a href="https://www.metabunk.org/home/page-3" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/home/page-3</a>  
+   Link:<a href="https://www.metabunk.org/home/page-3" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/home/page-3</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: metabunk.org  
    Title: a cruise missile type of thing spotted by aa2292.11626  
-   Link: <a href="https://www.metabunk.org/threads/a-cruise-missile-type-of-thing-spotted-by-aa2292.11626/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/a-cruise-missile-type-of-thing-spotted-by-aa2292.11626/</a>  
+   Link:<a href="https://www.metabunk.org/threads/a-cruise-missile-type-of-thing-spotted-by-aa2292.11626/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/a-cruise-missile-type-of-thing-spotted-by-aa2292.11626/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: metabunk.org  
    Title: page 5  
-   Link: <a href="https://www.metabunk.org/threads/pr055-corbells-u-s-military-films-huge-disc-hiding-in-the-clouds-new-video-06-17-25.14289/page-5" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/pr055-corbells-u-s-military-films-huge-disc-hiding-in-the-clouds-new-video-06-17-25.14289/page-5</a>  
+   Link:<a href="https://www.metabunk.org/threads/pr055-corbells-u-s-military-films-huge-disc-hiding-in-the-clouds-new-video-06-17-25.14289/page-5" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/pr055-corbells-u-s-military-films-huge-disc-hiding-in-the-clouds-new-video-06-17-25.14289/page-5</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: metabunk.org  
    Title: fox5 new york zip by orb.13779  
-   Link: <a href="https://www.metabunk.org/threads/fox5-new-york-zip-by-orb.13779/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/fox5-new-york-zip-by-orb.13779/</a>  
+   Link:<a href="https://www.metabunk.org/threads/fox5-new-york-zip-by-orb.13779/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/fox5-new-york-zip-by-orb.13779/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: metabunk.org  
-   Link: <a href="https://www.metabunk.org/tags/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/tags/ufos/</a>  
+   Link:<a href="https://www.metabunk.org/tags/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/tags/ufos/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: metabunk.org  
    Title: some refinements to the gimbal sim.12590  
-   Link: <a href="https://www.metabunk.org/threads/some-refinements-to-the-gimbal-sim.12590/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/some-refinements-to-the-gimbal-sim.12590/</a>  
+   Link:<a href="https://www.metabunk.org/threads/some-refinements-to-the-gimbal-sim.12590/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/some-refinements-to-the-gimbal-sim.12590/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: metabunk.org  
    Title: why does the gimbal shape change.12574  
-   Link: <a href="https://www.metabunk.org/threads/why-does-the-gimbal-shape-change.12574/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/why-does-the-gimbal-shape-change.12574/</a>  
+   Link:<a href="https://www.metabunk.org/threads/why-does-the-gimbal-shape-change.12574/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/why-does-the-gimbal-shape-change.12574/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: metabunk.org  
    Title: meta materials from ufos.12995  
-   Link: <a href="https://www.metabunk.org/threads/meta-materials-from-ufos.12995/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/meta-materials-from-ufos.12995/</a>  
+   Link:<a href="https://www.metabunk.org/threads/meta-materials-from-ufos.12995/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/meta-materials-from-ufos.12995/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: metabunk.org  
-   Link: <a href="https://www.metabunk.org/forums/ufo-reports-from-the-us-military-and-government.60/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/forums/ufo-reports-from-the-us-military-and-government.60/</a>  
+   Link:<a href="https://www.metabunk.org/forums/ufo-reports-from-the-us-military-and-government.60/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/forums/ufo-reports-from-the-us-military-and-government.60/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: metabunk.org  
-   Link: <a href="https://www.metabunk.org/home/authors/mick-west.1/page-6" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/home/authors/mick-west.1/page-6</a>  
+   Link:<a href="https://www.metabunk.org/home/authors/mick-west.1/page-6" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/home/authors/mick-west.1/page-6</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: metabunk.org  
    Title: aaro 2024 annual report on uap.13762  
-   Link: <a href="https://www.metabunk.org/threads/aaro-2024-annual-report-on-uap.13762/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/aaro-2024-annual-report-on-uap.13762/</a>  
+   Link:<a href="https://www.metabunk.org/threads/aaro-2024-annual-report-on-uap.13762/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/aaro-2024-annual-report-on-uap.13762/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: flightradar24.com  
    Title: Automatic Dependent Surveillance  
-   Link: <a href="https://www.flightradar24.com/how-it-works/ads-b" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/how-it-works/ads-b</a>  
+   Link:<a href="https://www.flightradar24.com/how-it-works/ads-b" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/how-it-works/ads-b</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: forum.flightradar24.com  
    Title: 11793 ufo sighting  
-   Link: <a href="https://forum.flightradar24.com/forum/aviation-forums/planespotting/11793-ufo-sighting" target="_blank" rel="noopener noreferrer nofollow">https://forum.flightradar24.com/forum/aviation-forums/planespotting/11793-ufo-sighting</a>  
+   Link:<a href="https://forum.flightradar24.com/forum/aviation-forums/planespotting/11793-ufo-sighting" target="_blank" rel="noopener noreferrer nofollow">https://forum.flightradar24.com/forum/aviation-forums/planespotting/11793-ufo-sighting</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: flightradar24.com  
    Title: playback is now available in the flightradar24 app  
-   Link: <a href="https://www.flightradar24.com/blog/inside-flightradar24/playback-is-now-available-in-the-flightradar24-app/" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/blog/inside-flightradar24/playback-is-now-available-in-the-flightradar24-app/</a>  
+   Link:<a href="https://www.flightradar24.com/blog/inside-flightradar24/playback-is-now-available-in-the-flightradar24-app/" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/blog/inside-flightradar24/playback-is-now-available-in-the-flightradar24-app/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Western_United_States_Uap_508-02262024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Western_United_States_Uap_508-02262024.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Western_United_States_Uap_508-02262024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Western_United_States_Uap_508-02262024.pdf</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: opensky-network.org  
-   Link: <a href="https://opensky-network.org/about/faq" target="_blank" rel="noopener noreferrer nofollow">https://opensky-network.org/about/faq</a>  
+   Link:<a href="https://opensky-network.org/about/faq" target="_blank" rel="noopener noreferrer nofollow">https://opensky-network.org/about/faq</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: s3.opensky-network.org  
-   Link: <a href="https://s3.opensky-network.org/website-public-files/publications/dasc2016.pdf" target="_blank" rel="noopener noreferrer nofollow">https://s3.opensky-network.org/website-public-files/publications/dasc2016.pdf</a>  
+   Link:<a href="https://s3.opensky-network.org/website-public-files/publications/dasc2016.pdf" target="_blank" rel="noopener noreferrer nofollow">https://s3.opensky-network.org/website-public-files/publications/dasc2016.pdf</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/</a>  
+   Link:<a href="https://www.war.gov/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: faa.gov  
    Title: Automatic Dependent Surveillance  
-   Link: <a href="https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afx/afs/afs400/afs410/ads-b" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afx/afs/afs400/afs410/ads-b</a>  
+   Link:<a href="https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afx/afs/afs400/afs410/ads-b" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afx/afs/afs400/afs410/ads-b</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/2226-4310/4/3/49" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2226-4310/4/3/49</a>  
+   Link:<a href="https://www.mdpi.com/2226-4310/4/3/49" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2226-4310/4/3/49</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/2673-4591/13/1/11" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2673-4591/13/1/11</a>  
+   Link:<a href="https://www.mdpi.com/2673-4591/13/1/11" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2673-4591/13/1/11</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: adsbexchange.com  
-   Link: <a href="https://www.adsbexchange.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.adsbexchange.com/</a>  
+   Link:<a href="https://www.adsbexchange.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.adsbexchange.com/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: adsbexchange.com  
-   Link: <a href="https://www.adsbexchange.com/data-products/" target="_blank" rel="noopener noreferrer nofollow">https://www.adsbexchange.com/data-products/</a>  
+   Link:<a href="https://www.adsbexchange.com/data-products/" target="_blank" rel="noopener noreferrer nofollow">https://www.adsbexchange.com/data-products/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: nypost.com  
    Title: New York Post Chilean navy admits it can't explain 'UFO'  
-   Link: <a href="https://nypost.com/2017/01/09/chilean-navy-admits-it-cant-explain-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2017/01/09/chilean-navy-admits-it-cant-explain-ufo/</a>  
+   Link:<a href="https://nypost.com/2017/01/09/chilean-navy-admits-it-cant-explain-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2017/01/09/chilean-navy-admits-it-cant-explain-ufo/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: skepticalinquirer.org  
    Title: Skeptical Inquirer Curated Crowdsourcing in UFO Investigations  
-   Link: <a href="https://skepticalinquirer.org/newsletter/curated-crowdsourcing-in-ufo-investigations/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/newsletter/curated-crowdsourcing-in-ufo-investigations/</a>  
+   Link:<a href="https://skepticalinquirer.org/newsletter/curated-crowdsourcing-in-ufo-investigations/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/newsletter/curated-crowdsourcing-in-ufo-investigations/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: universetoday.com  
    Title: Universe Today Chilean Government Releases Declassified UFO Video  
-   Link: <a href="https://www.universetoday.com/articles/chilean-government-releases-declassified-ufo-video" target="_blank" rel="noopener noreferrer nofollow">https://www.universetoday.com/articles/chilean-government-releases-declassified-ufo-video</a>  
+   Link:<a href="https://www.universetoday.com/articles/chilean-government-releases-declassified-ufo-video" target="_blank" rel="noopener noreferrer nofollow">https://www.universetoday.com/articles/chilean-government-releases-declassified-ufo-video</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: media.defense.gov  
    Title: FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508  
-   Link: <a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: support.fr24.com  
    Title: 3000117426 why is some aircraft information limited or not visible  
-   Link: <a href="https://support.fr24.com/support/solutions/articles/3000117426-why-is-some-aircraft-information-limited-or-not-visible-" target="_blank" rel="noopener noreferrer nofollow">https://support.fr24.com/support/solutions/articles/3000117426-why-is-some-aircraft-information-limited-or-not-visible-</a>  
+   Link:<a href="https://support.fr24.com/support/solutions/articles/3000117426-why-is-some-aircraft-information-limited-or-not-visible-" target="_blank" rel="noopener noreferrer nofollow">https://support.fr24.com/support/solutions/articles/3000117426-why-is-some-aircraft-information-limited-or-not-visible-</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1lmhbxa/metabunk_users_identifying_a_ufo_that_the_people/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1lmhbxa/metabunk_users_identifying_a_ufo_that_the_people/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1lmhbxa/metabunk_users_identifying_a_ufo_that_the_people/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1lmhbxa/metabunk_users_identifying_a_ufo_that_the_people/</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: facebook.com  
    Title: Automatic Dependent Surveillance  
-   Link: <a href="https://www.facebook.com/groups/Aviationstudys/posts/2033716507065686/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/Aviationstudys/posts/2033716507065686/</a>  
+   Link:<a href="https://www.facebook.com/groups/Aviationstudys/posts/2033716507065686/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/Aviationstudys/posts/2033716507065686/</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: globe.adsbexchange.com  
-   Link: <a href="https://globe.adsbexchange.com/" target="_blank" rel="noopener noreferrer nofollow">https://globe.adsbexchange.com/</a>  
+   Link:<a href="https://globe.adsbexchange.com/" target="_blank" rel="noopener noreferrer nofollow">https://globe.adsbexchange.com/</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: adsbexchange.com  
-   Link: <a href="https://www.adsbexchange.com/about/" target="_blank" rel="noopener noreferrer nofollow">https://www.adsbexchange.com/about/</a>  
+   Link:<a href="https://www.adsbexchange.com/about/" target="_blank" rel="noopener noreferrer nofollow">https://www.adsbexchange.com/about/</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: journals.open.tudelft.nl  
-   Link: <a href="https://journals.open.tudelft.nl/joas/article/view/7895/6437" target="_blank" rel="noopener noreferrer nofollow">https://journals.open.tudelft.nl/joas/article/view/7895/6437</a>  
+   Link:<a href="https://journals.open.tudelft.nl/joas/article/view/7895/6437" target="_blank" rel="noopener noreferrer nofollow">https://journals.open.tudelft.nl/joas/article/view/7895/6437</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/2024/12/quick-guide-to-modern-video-analysis-techniques-for-uap-and-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2024/12/quick-guide-to-modern-video-analysis-techniques-for-uap-and-ufos/</a>  
+   Link:<a href="https://skepticalinquirer.org/2024/12/quick-guide-to-modern-video-analysis-techniques-for-uap-and-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2024/12/quick-guide-to-modern-video-analysis-techniques-for-uap-and-ufos/</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: play.google.com  
-   Link: <a href="https://play.google.com/store/apps/details?hl=en&amp;id=appinventor.ai_ondraaudy.ADSBFT" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en&amp;id=appinventor.ai_ondraaudy.ADSBFT</a>  
+   Link:<a href="https://play.google.com/store/apps/details?hl=en&amp;id=appinventor.ai_ondraaudy.ADSBFT" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en&amp;id=appinventor.ai_ondraaudy.ADSBFT</a>  
 
 ### Additional References
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: ntsb.gov  
-   Link: <a href="https://www.ntsb.gov/news/events/Documents/2017_ia_ss_BobRossADSB%20Presentation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ntsb.gov/news/events/Documents/2017_ia_ss_BobRossADSB%20Presentation.pdf</a>  
+   Link:<a href="https://www.ntsb.gov/news/events/Documents/2017_ia_ss_BobRossADSB%20Presentation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ntsb.gov/news/events/Documents/2017_ia_ss_BobRossADSB%20Presentation.pdf</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/325659005_UAT_ADS-B_Data_Anomalies_and_the_Effect_of_Flight_Parameters_on_Dropout_Occurrences" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/325659005_UAT_ADS-B_Data_Anomalies_and_the_Effect_of_Flight_Parameters_on_Dropout_Occurrences</a>  
+   Link:<a href="https://www.researchgate.net/publication/325659005_UAT_ADS-B_Data_Anomalies_and_the_Effect_of_Flight_Parameters_on_Dropout_Occurrences" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/325659005_UAT_ADS-B_Data_Anomalies_and_the_Effect_of_Flight_Parameters_on_Dropout_Occurrences</a>  
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DZLbNi0nSPO/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DZLbNi0nSPO/</a>  
+   Link:<a href="https://www.instagram.com/p/DZLbNi0nSPO/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DZLbNi0nSPO/</a>  
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DURpQL7iYrd/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DURpQL7iYrd/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/p/DURpQL7iYrd/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DURpQL7iYrd/?hl=en</a>  
 
-59. <a id="endnote-59"></a>
+59.<a id="endnote-59"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DZOq6NyCGhU/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DZOq6NyCGhU/</a>  
+   Link:<a href="https://www.instagram.com/p/DZOq6NyCGhU/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DZOq6NyCGhU/</a>  
 
-60. <a id="endnote-60"></a>
+60.<a id="endnote-60"></a>
    Source: txtav.com  
-   Link: <a href="https://txtav.com/en/journey/articles/articles/adsb-out-explained" target="_blank" rel="noopener noreferrer nofollow">https://txtav.com/en/journey/articles/articles/adsb-out-explained</a>  
+   Link:<a href="https://txtav.com/en/journey/articles/articles/adsb-out-explained" target="_blank" rel="noopener noreferrer nofollow">https://txtav.com/en/journey/articles/articles/adsb-out-explained</a>  
 
-61. <a id="endnote-61"></a>
+61.<a id="endnote-61"></a>
    Source: mitre.org  
-   Link: <a href="https://www.mitre.org/sites/default/files/2021-08/16-4497-AIAA-2017-ADS-B.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.mitre.org/sites/default/files/2021-08/16-4497-AIAA-2017-ADS-B.pdf</a>  
+   Link:<a href="https://www.mitre.org/sites/default/files/2021-08/16-4497-AIAA-2017-ADS-B.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.mitre.org/sites/default/files/2021-08/16-4497-AIAA-2017-ADS-B.pdf</a>  
 
-62. <a id="endnote-62"></a>
+62.<a id="endnote-62"></a>
    Source: aopa.org  
-   Link: <a href="https://www.aopa.org/go-fly/aircraft-and-ownership/ads-b" target="_blank" rel="noopener noreferrer nofollow">https://www.aopa.org/go-fly/aircraft-and-ownership/ads-b</a>  
+   Link:<a href="https://www.aopa.org/go-fly/aircraft-and-ownership/ads-b" target="_blank" rel="noopener noreferrer nofollow">https://www.aopa.org/go-fly/aircraft-and-ownership/ads-b</a>  
 
-63. <a id="endnote-63"></a>
+63.<a id="endnote-63"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ADSBexchange/comments/nnrp2w/adsb_flight_track_dumps/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ADSBexchange/comments/nnrp2w/adsb_flight_track_dumps/</a>
+   Link:<a href="https://www.reddit.com/r/ADSBexchange/comments/nnrp2w/adsb_flight_track_dumps/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ADSBexchange/comments/nnrp2w/adsb_flight_track_dumps/</a>

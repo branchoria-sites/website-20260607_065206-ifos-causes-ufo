@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ifos-causes-of-ufo-3ed238-stronger-ufo/
 description: Focused pages that expand on Strong Cases.
-date: '2026-06-12'
+date: '2026'
 layout: default
 parent_basename: ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d
 parent_title: Strong Cases
@@ -16,7 +16,7 @@ parent_permalink: /strong-cases/
 
 # Explore Topics in Strong Cases
 
-The following pages expand on the main **[Strong Cases]({{ '/strong-cases/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Strong Cases]({{ '/strong-cases/' | relative_url }})** page and cover its key branches in.
 
 - [GEIPAN]({{ '/geipan/' | relative_url }})
 - [Lakenheath]({{ '/lakenheath/' | relative_url }})

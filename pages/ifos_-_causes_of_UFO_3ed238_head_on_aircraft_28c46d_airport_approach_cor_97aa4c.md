@@ -268,14 +268,14 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d_airpor
 
 ## Introduction
 
-One of the most common reasons a “hovering UFO” appears repeatedly in the same part of the sky is not an unusual object at all, but an airport approach corridor. A light that seems fixed night after night can be an aircraft flying directly towards the observer along a standard arrival route. Because the aircraft’s bearing changes very little, it may appear stationary even while covering many kilometres. When dozens of aircraft use the same approach path each evening, residents can see what looks like the same mysterious light returning again and again. The pattern becomes especially convincing when the light appears at similar times, in the same location, and remains visible for several minutes before fading, turning, or revealing itself as an aircraft. Aviation procedures, runway usage, and wind conditions help explain why these sightings are often remarkably repeatable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_3.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration Section 3</span><span class="citation-popover-snippet">Airport OperationsThe wind direction indicator. A wind cone, wind sock, or wind tee installed near the operational runway to indicate win...</span></span></span>
+One of the most common reasons a “hovering UFO” appears repeatedly in the same part of the sky is not an unusual object at all, but an airport approach corridor. A light that seems fixed night after night can be an aircraft flying directly towards the observer along a standard arrival route. Because the aircraft’s bearing changes very little, it may appear stationary even while covering many kilometres. When dozens of aircraft use the same approach path each evening, residents can see what looks like the same mysterious light returning again and again. The pattern becomes especially convincing when the light appears at similar times, in the same location, and remains visible for several minutes before fading, turning, or revealing itself as an aircraft. Aviation procedures, runway usage, and wind conditions help explain why these sightings are often remarkably repeatable.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_3.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration Section 3</span><span class="citation-popover-snippet">Airport OperationsThe wind direction indicator. A wind cone, wind sock, or wind tee installed near the operational runway to indicate win...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d_airport_approach_cor_97aa4c-Illustration-1-dark.svg" | relative_url }}" alt="Approach paths illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d_airport_approach_cor_97aa4c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d_airport_approach_cor_97aa4c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Approach Paths Create Repeatable Sightings
 
-Aircraft approaching a runway are normally funnelled into relatively narrow corridors. Air traffic control systems are designed to organise traffic safely and efficiently, so arriving aircraft often follow similar tracks over the same towns, valleys, coastlines, or suburban areas. <span class="citation-chip-wrap"><a class="citation-chip" href="https://recursosdeaviacion.com/wp-content/uploads/2021/01/icao-doc-4444-air-traffic-management.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: recursosdeaviacion.com">[Recursos de Aviación]</a><span class="citation-popover" role="note"><span class="citation-popover-source">recursosdeaviacion.com</span><span class="citation-popover-title">icao doc 4444 air traffic management</span><span class="citation-popover-snippet">July 31, 2020 — 4.1 Responsibility for the provision of air traffic control service...</span><span class="citation-popover-meta">Published: July 31, 2020</span></span></span>
+Aircraft approaching a runway are normally funnelled into relatively narrow corridors. Air traffic control systems are designed to organise traffic safely and efficiently, so arriving aircraft often follow similar tracks over the same towns, valleys, coastlines, or suburban areas.<span class="citation-chip-wrap"><a class="citation-chip" href="https://recursosdeaviacion.com/wp-content/uploads/2021/01/icao-doc-4444-air-traffic-management.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: recursosdeaviacion.com">[Recursos de Aviación]</a><span class="citation-popover" role="note"><span class="citation-popover-source">recursosdeaviacion.com</span><span class="citation-popover-title">icao doc 4444 air traffic management</span><span class="citation-popover-snippet">July 31, 2020 — 4.1 Responsibility for the provision of air traffic control service...</span><span class="citation-popover-meta">Published: July 31, 2020</span></span></span>
 
-For an observer located beneath or near one of these corridors, the geometry can produce a striking illusion. The aircraft's [landing lights]({{ 'landing-lights/' | relative_url }}) are directed forward and can be visible from great distances. When the aircraft is flying almost directly towards the observer, sideways motion is minimal, making the light appear to hover in one place. As the aircraft gets closer, it becomes brighter rather than obviously moving. Only near the end of the approach does its position begin to shift noticeably, or the aircraft turns and reveals its full shape and navigation lights. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pilotinstitute.com/airplane-lights/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pilotinstitute.com">[Pilot Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pilotinstitute.com</span><span class="citation-popover-snippet">Pilot InstituteAirplane Lights: What Each Light Does (Red/Green, Strobe...26 Dec 2024 — Navigation lights show an aircraft&#x27;s position a...</span></span></span>
+For an observer located beneath or near one of these corridors, the geometry can produce a striking illusion. The aircraft's [landing lights]({{ 'landing-lights/' | relative_url }}) are directed forward and can be visible from great distances. When the aircraft is flying almost directly towards the observer, sideways motion is minimal, making the light appear to hover in one place. As the aircraft gets closer, it becomes brighter rather than obviously moving. Only near the end of the approach does its position begin to shift noticeably, or the aircraft turns and reveals its full shape and navigation lights.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pilotinstitute.com/airplane-lights/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pilotinstitute.com">[Pilot Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pilotinstitute.com</span><span class="citation-popover-snippet">Pilot InstituteAirplane Lights: What Each Light Does (Red/Green, Strobe...26 Dec 2024 — Navigation lights show an aircraft&#x27;s position a...</span></span></span>
 
 This explains a common UFO-report pattern:
 
@@ -289,11 +289,11 @@ This explains a common UFO-report pattern:
 
 </div>
 
-In busy airspace, multiple arrivals can follow one another at regular intervals, creating a sequence of apparently [hovering lights]({{ 'hovering-lights/' | relative_url }}) that seem too orderly to be random. In reality, they are often aircraft spaced along the same approach route. <span class="citation-chip-wrap"><a class="citation-chip" href="https://recursosdeaviacion.com/wp-content/uploads/2021/01/icao-doc-4444-air-traffic-management.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: recursosdeaviacion.com">[Recursos de Aviación]</a><span class="citation-popover" role="note"><span class="citation-popover-source">recursosdeaviacion.com</span><span class="citation-popover-title">icao doc 4444 air traffic management</span><span class="citation-popover-snippet">July 31, 2020 — 4.1 Responsibility for the provision of air traffic control service...</span><span class="citation-popover-meta">Published: July 31, 2020</span></span></span>
+In busy airspace, multiple arrivals can follow one another at regular intervals, creating a sequence of apparently [hovering lights]({{ 'hovering-lights/' | relative_url }}) that seem too orderly to be random. In reality, they are often aircraft spaced along the same approach route.<span class="citation-chip-wrap"><a class="citation-chip" href="https://recursosdeaviacion.com/wp-content/uploads/2021/01/icao-doc-4444-air-traffic-management.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: recursosdeaviacion.com">[Recursos de Aviación]</a><span class="citation-popover" role="note"><span class="citation-popover-source">recursosdeaviacion.com</span><span class="citation-popover-title">icao doc 4444 air traffic management</span><span class="citation-popover-snippet">July 31, 2020 — 4.1 Responsibility for the provision of air traffic control service...</span><span class="citation-popover-meta">Published: July 31, 2020</span></span></span>
 
 ### Why the Light Can Look More Impressive Than the Aircraft
 
-Landing lights are intended to make aircraft conspicuous. Viewed nearly head-on, these lights can dominate the observer's perception while the fuselage and wings remain invisible against the night sky. The result is a bright white point with little visible structure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pilotinstitute.com/airplane-lights/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pilotinstitute.com">[Pilot Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pilotinstitute.com</span><span class="citation-popover-snippet">Pilot InstituteAirplane Lights: What Each Light Does (Red/Green, Strobe...26 Dec 2024 — Navigation lights show an aircraft&#x27;s position a...</span></span></span>
+Landing lights are intended to make aircraft conspicuous. Viewed nearly head-on, these lights can dominate the observer's perception while the fuselage and wings remain invisible against the night sky. The result is a bright white point with little visible structure.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pilotinstitute.com/airplane-lights/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pilotinstitute.com">[Pilot Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pilotinstitute.com</span><span class="citation-popover-snippet">Pilot InstituteAirplane Lights: What Each Light Does (Red/Green, Strobe...26 Dec 2024 — Navigation lights show an aircraft&#x27;s position a...</span></span></span>
 
 Atmospheric conditions can strengthen the effect. Haze, moisture, and thin cloud layers may scatter light, making it appear larger or more diffuse than the aircraft itself. Observers may report a glowing orb, a brilliant star-like object, or a stationary beacon rather than recognising an approaching aircraft.
 
@@ -301,7 +301,7 @@ Atmospheric conditions can strengthen the effect. Haze, moisture, and thin cloud
 
 ## How Wind and Runway Direction Change the Pattern
 
-A useful clue is that the phenomenon often changes with weather conditions. Aircraft generally prefer to take off and land into the wind because headwinds improve performance and safety. As [wind direction]({{ 'wind-direction/' | relative_url }}) changes, airports may switch the runways they use and consequently alter their approach corridors. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tarmacview.com/glossary/runway-orientation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tarmacview.com">[Tarmac View]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tarmacview.com</span><span class="citation-popover-title">Tarmac View Runway Orientation</span><span class="citation-popover-snippet">Aircraft need less runway and achieve safer operations when taking off or landing into a headwind. To...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://inspire.eaa.org/2020/01/09/more-than-just-wind-factors-in-choosing-the-best-runway/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inspire.eaa.org">[Hangar Flying]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inspire.eaa.org</span><span class="citation-popover-title">more than just wind factors in choosing the best runway</span><span class="citation-popover-snippet">Hangar FlyingMore Than Just Wind — Factors in Choosing the Best RunwayJan 9, 2020 — Choosing the best runway for departure or landing is...</span></span></span>
+A useful clue is that the phenomenon often changes with weather conditions. Aircraft generally prefer to take off and land into the wind because headwinds improve performance and safety. As [wind direction]({{ 'wind-direction/' | relative_url }}) changes, airports may switch the runways they use and consequently alter their approach corridors.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tarmacview.com/glossary/runway-orientation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tarmacview.com">[Tarmac View]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tarmacview.com</span><span class="citation-popover-title">Tarmac View Runway Orientation</span><span class="citation-popover-snippet">Aircraft need less runway and achieve safer operations when taking off or landing into a headwind. To...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://inspire.eaa.org/2020/01/09/more-than-just-wind-factors-in-choosing-the-best-runway/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inspire.eaa.org">[Hangar Flying]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inspire.eaa.org</span><span class="citation-popover-title">more than just wind factors in choosing the best runway</span><span class="citation-popover-snippet">Hangar FlyingMore Than Just Wind — Factors in Choosing the Best RunwayJan 9, 2020 — Choosing the best runway for departure or landing is...</span></span></span>
 
 For local observers, this can create puzzling patterns:
 
@@ -314,7 +314,7 @@ For local observers, this can create puzzling patterns:
 
 </div>
 
-Air traffic authorities note that significant wind shifts can require immediate runway and flight-path changes, causing aircraft to use areas that normally see little traffic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.airservicesaustralia.com/about-us/about-our-operations/runway-selection/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airservicesaustralia.com">[Airservices]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airservicesaustralia.com</span><span class="citation-popover-snippet">AirservicesRunway selectionA sudden change of wind direction when the wind is strong may mean aircraft planning to arrive on one runway n...</span></span></span>
+Air traffic authorities note that significant wind shifts can require immediate runway and flight-path changes, causing aircraft to use areas that normally see little traffic.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.airservicesaustralia.com/about-us/about-our-operations/runway-selection/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airservicesaustralia.com">[Airservices]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airservicesaustralia.com</span><span class="citation-popover-snippet">AirservicesRunway selectionA sudden change of wind direction when the wind is strong may mean aircraft planning to arrive on one runway n...</span></span></span>
 
 This behaviour is often mistaken for a changing UFO phenomenon when it is actually a predictable consequence of runway operations. A witness who only observes from one location may not realise that the airport has effectively reversed its traffic flow.
 
@@ -359,207 +359,207 @@ Particularly persuasive cases occur when:
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d_airport_approach_cor_97aa4c-Illustration-3-dark.svg" | relative_url }}" alt="Approach paths illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d_airport_approach_cor_97aa4c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d_airport_approach_cor_97aa4c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Observe What Happens at the End
 
-A true approach-path sighting often changes character near the end of the observation. The bright white light may separate into multiple lights, reveal red and green navigation lights, begin moving sideways, or produce audible engine noise. These are all expected consequences of changing viewing geometry as the aircraft closes [range]({{ 'range/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://pilotinstitute.com/airplane-lights/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pilotinstitute.com">[Pilot Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pilotinstitute.com</span><span class="citation-popover-snippet">Pilot InstituteAirplane Lights: What Each Light Does (Red/Green, Strobe...26 Dec 2024 — Navigation lights show an aircraft&#x27;s position a...</span></span></span>
+A true approach-path sighting often changes character near the end of the observation. The bright white light may separate into multiple lights, reveal red and green navigation lights, begin moving sideways, or produce audible engine noise. These are all expected consequences of changing viewing geometry as the aircraft closes [range]({{ 'range/' | relative_url }}).<span class="citation-chip-wrap"><a class="citation-chip" href="https://pilotinstitute.com/airplane-lights/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pilotinstitute.com">[Pilot Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pilotinstitute.com</span><span class="citation-popover-snippet">Pilot InstituteAirplane Lights: What Each Light Does (Red/Green, Strobe...26 Dec 2024 — Navigation lights show an aircraft&#x27;s position a...</span></span></span>
 
 ## Why This Explanation Is Often Overlooked
 
 People naturally expect moving aircraft to cross the sky. A light that remains apparently fixed for several minutes does not fit that expectation, so it can feel anomalous. The repetition reinforces the impression that something unusual occupies a particular point in the sky.
 
-Yet repeatability is often exactly what would be expected from an airport approach corridor. Air traffic systems are designed around consistency. Aircraft use the same runways, the same procedures, and many of the same arrival routes day after day. What appears to be a recurring hovering object can therefore be a recurring consequence of the same geometry, repeated by different aircraft following the same path. <span class="citation-chip-wrap"><a class="citation-chip" href="https://recursosdeaviacion.com/wp-content/uploads/2021/01/icao-doc-4444-air-traffic-management.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: recursosdeaviacion.com">[Recursos de Aviación]</a><span class="citation-popover" role="note"><span class="citation-popover-source">recursosdeaviacion.com</span><span class="citation-popover-title">icao doc 4444 air traffic management</span><span class="citation-popover-snippet">July 31, 2020 — 4.1 Responsibility for the provision of air traffic control service...</span><span class="citation-popover-meta">Published: July 31, 2020</span></span></span>
+Yet repeatability is often exactly what would be expected from an airport approach corridor. Air traffic systems are designed around consistency. Aircraft use the same runways, the same procedures, and many of the same arrival routes day after day. What appears to be a recurring hovering object can therefore be a recurring consequence of the same geometry, repeated by different aircraft following the same path.<span class="citation-chip-wrap"><a class="citation-chip" href="https://recursosdeaviacion.com/wp-content/uploads/2021/01/icao-doc-4444-air-traffic-management.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: recursosdeaviacion.com">[Recursos de Aviación]</a><span class="citation-popover" role="note"><span class="citation-popover-source">recursosdeaviacion.com</span><span class="citation-popover-title">icao doc 4444 air traffic management</span><span class="citation-popover-snippet">July 31, 2020 — 4.1 Responsibility for the provision of air traffic control service...</span><span class="citation-popover-meta">Published: July 31, 2020</span></span></span>
 
-Within the broader category of UFO reports caused by head-on aircraft that seem stationary, the strongest clue is often not a single observation but the pattern itself: the same bright light appearing from the same direction on multiple evenings, especially near an airport and especially when flight-tracking data places arriving aircraft along that exact line of sight. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.airservicesaustralia.com/about-us/about-our-operations/runway-selection/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airservicesaustralia.com">[Airservices]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airservicesaustralia.com</span><span class="citation-popover-snippet">AirservicesRunway selectionA sudden change of wind direction when the wind is strong may mean aircraft planning to arrive on one runway n...</span></span></span>
+Within the broader category of UFO reports caused by head-on aircraft that seem stationary, the strongest clue is often not a single observation but the pattern itself: the same bright light appearing from the same direction on multiple evenings, especially near an airport and especially when flight-tracking data places arriving aircraft along that exact line of sight.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.airservicesaustralia.com/about-us/about-our-operations/runway-selection/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airservicesaustralia.com">[Airservices]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airservicesaustralia.com</span><span class="citation-popover-snippet">AirservicesRunway selectionA sudden change of wind direction when the wind is strong may mean aircraft planning to arrive on one runway n...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9gSkrH00OjQ" title="Follow the lights to the runway! New York JFK 13L approach and landing! @frontrow-view" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9gSkrH00OjQ" target="_blank" rel="noopener noreferrer">Follow the lights to the runway! New York JFK 13L approach and landing! @frontrow-view</a></p><p class="youtube-embed-meta">Channel: Front Row &middot; Views: 891.3K &middot; Uploaded: August 2021 &middot; Length: 2 minutes 36 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9gSkrH00OjQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9gSkrH00OjQ">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When the same hovering light keeps coming back. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When the same hovering light keeps coming back. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ATZGAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Handbook">The UFO Handbook</a>
-        </h4>
-        <p class="fr-book-author">By Allan Hendry</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ATZGAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Handbook">The UFO Handbook</a>
+</h4>
+<p class="fr-book-author">By Allan Hendry</p>
         
-        <p class="fr-book-desc">Directly relevant to recurring aircraft-related UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relevant to recurring aircraft-related UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Pilot%27s+Handbook+of+Aeronautical+Knowledge+by+Federal+Aviation+Administration&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Pilot&#x27;s Handbook of Aeronautical Knowledge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qlqCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Pilot&#x27;s Handbook of Aeronautical Knowledge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Pilot%27s+Handbook+of+Aeronautical+Knowledge+by+Federal+Aviation+Administration&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Pilot&#x27;s Handbook of Aeronautical Knowledge">Pilot&#x27;s Handbook of Aeronautical Knowledge</a>
-        </h4>
-        <p class="fr-book-author">By Federal Aviation Administration</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Pilot%27s+Handbook+of+Aeronautical+Knowledge+by+Federal+Aviation+Administration&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Pilot&#x27;s Handbook of Aeronautical Knowledge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qlqCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Pilot&#x27;s Handbook of Aeronautical Knowledge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Pilot%27s+Handbook+of+Aeronautical+Knowledge+by+Federal+Aviation+Administration&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Pilot&#x27;s Handbook of Aeronautical Knowledge">Pilot&#x27;s Handbook of Aeronautical Knowledge</a>
+</h4>
+<p class="fr-book-author">By Federal Aviation Administration</p>
         
-        <p class="fr-book-desc">Explains airport approaches and navigation procedures.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Pilot%27s+Handbook+of+Aeronautical+Knowledge+by+Federal+Aviation+Administration&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains airport approaches and navigation procedures.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Pilot%27s+Handbook+of+Aeronautical+Knowledge+by+Federal+Aviation+Administration&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fate+is+the+Hunter+by+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fate is the Hunter on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cVdUGsMup_cC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Fate is the Hunter" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fate+is+the+Hunter+by+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fate is the Hunter">Fate is the Hunter</a>
-        </h4>
-        <p class="fr-book-author">By Ernest K Gann</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fate+is+the+Hunter+by+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fate is the Hunter on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cVdUGsMup_cC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Fate is the Hunter" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Fate+is+the+Hunter+by+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fate is the Hunter">Fate is the Hunter</a>
+</h4>
+<p class="fr-book-author">By Ernest K Gann</p>
         
-        <p class="fr-book-desc">Illustrates real-world airline operations and approach patterns.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fate+is+the+Hunter+by+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Illustrates real-world airline operations and approach patterns.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Fate+is+the+Hunter+by+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Broadens understanding of aviation-related mysteries.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Broadens understanding of aviation-related mysteries.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Pilot%27s+of+Aeronautical+Knowledge+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Pilot&#x27;s of Aeronautical Knowledge books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fate+is+the+Hunter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fate is the Hunter</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Pilot%27s+of+Aeronautical+Knowledge+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Pilot&#x27;s of Aeronautical Knowledge books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Fate+is+the+Hunter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fate is the Hunter</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-same-hovering-light-keeps-coming-back-airport-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport poster" data-ebay-reference="when-the-same-hovering-light-keeps-coming-back-airport-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AIRPORT FOLDED US ONE SHEET POSTER BURT LANCASTER DEAN MARTIN 1970"><img src="https://i.ebayimg.com/images/g/VgkAAOSw91hleD3m/s-l225.jpg" alt="Listing image for AIRPORT FOLDED US ONE SHEET POSTER BURT LANCASTER DEAN MARTIN 1970" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-same-hovering-light-keeps-coming-back-airport-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport poster" data-ebay-reference="when-the-same-hovering-light-keeps-coming-back-airport-poster" target="_blank" rel="sponsored noopener noreferrer">AIRPORT FOLDED US ONE SHEET POSTER BURT LANCASTER DEAN MARTIN 1970</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-same-hovering-light-keeps-coming-back-airport-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport poster" data-ebay-reference="when-the-same-hovering-light-keeps-coming-back-airport-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airport poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: airport poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-same-hovering-light-keeps-coming-back-airport-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport poster" data-ebay-reference="when-the-same-hovering-light-keeps-coming-back-airport-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-same-hovering-light-keeps-coming-back-airport-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport poster" data-ebay-reference="when-the-same-hovering-light-keeps-coming-back-airport-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AIRPORT FOLDED US ONE SHEET POSTER BURT LANCASTER DEAN MARTIN 1970"><img src="https://i.ebayimg.com/images/g/VgkAAOSw91hleD3m/s-l225.jpg" alt="Listing image for AIRPORT FOLDED US ONE SHEET POSTER BURT LANCASTER DEAN MARTIN 1970" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-same-hovering-light-keeps-coming-back-airport-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport poster" data-ebay-reference="when-the-same-hovering-light-keeps-coming-back-airport-poster" target="_blank" rel="sponsored noopener noreferrer">AIRPORT FOLDED US ONE SHEET POSTER BURT LANCASTER DEAN MARTIN 1970</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-same-hovering-light-keeps-coming-back-airport-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport poster" data-ebay-reference="when-the-same-hovering-light-keeps-coming-back-airport-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airport poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: airport poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-same-hovering-light-keeps-coming-back-airport-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport poster" data-ebay-reference="when-the-same-hovering-light-keeps-coming-back-airport-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-same-hovering-light-keeps-coming-back-airport-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport poster" data-ebay-reference="when-the-same-hovering-light-keeps-coming-back-airport-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Madrid Airport Layout Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/pCkAAeSwwkppwX~a/s-l225.jpg" alt="Listing image for Madrid Airport Layout Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-same-hovering-light-keeps-coming-back-airport-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport poster" data-ebay-reference="when-the-same-hovering-light-keeps-coming-back-airport-poster" target="_blank" rel="sponsored noopener noreferrer">Madrid Airport Layout Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-same-hovering-light-keeps-coming-back-airport-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport poster" data-ebay-reference="when-the-same-hovering-light-keeps-coming-back-airport-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airport poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: airport poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-same-hovering-light-keeps-coming-back-airport-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport poster" data-ebay-reference="when-the-same-hovering-light-keeps-coming-back-airport-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-same-hovering-light-keeps-coming-back-airport-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport poster" data-ebay-reference="when-the-same-hovering-light-keeps-coming-back-airport-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Madrid Airport Layout Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/pCkAAeSwwkppwX~a/s-l225.jpg" alt="Listing image for Madrid Airport Layout Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-same-hovering-light-keeps-coming-back-airport-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport poster" data-ebay-reference="when-the-same-hovering-light-keeps-coming-back-airport-poster" target="_blank" rel="sponsored noopener noreferrer">Madrid Airport Layout Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-same-hovering-light-keeps-coming-back-airport-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport poster" data-ebay-reference="when-the-same-hovering-light-keeps-coming-back-airport-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airport poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: airport poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-same-hovering-light-keeps-coming-back-airport-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport poster" data-ebay-reference="when-the-same-hovering-light-keeps-coming-back-airport-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-same-hovering-light-keeps-coming-back-airport-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport poster" data-ebay-reference="when-the-same-hovering-light-keeps-coming-back-airport-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AEROPLANE POSTER ART JET AIRCRAFT AVIATION AIRPORT PRINT SIZE A3 A4 A2 A1"><img src="https://i.ebayimg.com/images/g/WL0AAOSw~CNn5bMF/s-l225.jpg" alt="Listing image for AEROPLANE POSTER ART JET AIRCRAFT AVIATION AIRPORT PRINT SIZE A3 A4 A2 A1" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-same-hovering-light-keeps-coming-back-airport-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport poster" data-ebay-reference="when-the-same-hovering-light-keeps-coming-back-airport-poster" target="_blank" rel="sponsored noopener noreferrer">AEROPLANE POSTER ART JET AIRCRAFT AVIATION AIRPORT PRINT SIZE A3 A4 A2 A1</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-same-hovering-light-keeps-coming-back-airport-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport poster" data-ebay-reference="when-the-same-hovering-light-keeps-coming-back-airport-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airport poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: airport poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-same-hovering-light-keeps-coming-back-airport-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport poster" data-ebay-reference="when-the-same-hovering-light-keeps-coming-back-airport-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-same-hovering-light-keeps-coming-back-airport-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport poster" data-ebay-reference="when-the-same-hovering-light-keeps-coming-back-airport-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AEROPLANE POSTER ART JET AIRCRAFT AVIATION AIRPORT PRINT SIZE A3 A4 A2 A1"><img src="https://i.ebayimg.com/images/g/WL0AAOSw~CNn5bMF/s-l225.jpg" alt="Listing image for AEROPLANE POSTER ART JET AIRCRAFT AVIATION AIRPORT PRINT SIZE A3 A4 A2 A1" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-same-hovering-light-keeps-coming-back-airport-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport poster" data-ebay-reference="when-the-same-hovering-light-keeps-coming-back-airport-poster" target="_blank" rel="sponsored noopener noreferrer">AEROPLANE POSTER ART JET AIRCRAFT AVIATION AIRPORT PRINT SIZE A3 A4 A2 A1</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-same-hovering-light-keeps-coming-back-airport-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport poster" data-ebay-reference="when-the-same-hovering-light-keeps-coming-back-airport-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airport poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: airport poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-same-hovering-light-keeps-coming-back-airport-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport poster" data-ebay-reference="when-the-same-hovering-light-keeps-coming-back-airport-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-same-hovering-light-keeps-coming-back-airport-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport poster" data-ebay-reference="when-the-same-hovering-light-keeps-coming-back-airport-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Tempelhof Airport, Berlin from the Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/cAYAAeSwP0hp1Tfe/s-l225.jpg" alt="Listing image for Tempelhof Airport, Berlin from the Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-same-hovering-light-keeps-coming-back-airport-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport poster" data-ebay-reference="when-the-same-hovering-light-keeps-coming-back-airport-poster" target="_blank" rel="sponsored noopener noreferrer">Tempelhof Airport, Berlin from the Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-same-hovering-light-keeps-coming-back-airport-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport poster" data-ebay-reference="when-the-same-hovering-light-keeps-coming-back-airport-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airport poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: airport poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-same-hovering-light-keeps-coming-back-airport-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport poster" data-ebay-reference="when-the-same-hovering-light-keeps-coming-back-airport-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-same-hovering-light-keeps-coming-back-airport-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport poster" data-ebay-reference="when-the-same-hovering-light-keeps-coming-back-airport-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-same-hovering-light-keeps-coming-back-airport-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport poster" data-ebay-reference="when-the-same-hovering-light-keeps-coming-back-airport-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Tempelhof Airport, Berlin from the Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/cAYAAeSwP0hp1Tfe/s-l225.jpg" alt="Listing image for Tempelhof Airport, Berlin from the Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-same-hovering-light-keeps-coming-back-airport-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport poster" data-ebay-reference="when-the-same-hovering-light-keeps-coming-back-airport-poster" target="_blank" rel="sponsored noopener noreferrer">Tempelhof Airport, Berlin from the Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-same-hovering-light-keeps-coming-back-airport-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport poster" data-ebay-reference="when-the-same-hovering-light-keeps-coming-back-airport-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airport poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: airport poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-same-hovering-light-keeps-coming-back-airport-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport poster" data-ebay-reference="when-the-same-hovering-light-keeps-coming-back-airport-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-same-hovering-light-keeps-coming-back-airport-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport poster" data-ebay-reference="when-the-same-hovering-light-keeps-coming-back-airport-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -575,7 +575,7 @@ Within the broader category of UFO reports caused by head-on aircraft that seem 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -595,7 +595,7 @@ Within the broader category of UFO reports caused by head-on aircraft that seem 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -627,7 +627,7 @@ Within the broader category of UFO reports caused by head-on aircraft that seem 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -679,7 +679,7 @@ Within the broader category of UFO reports caused by head-on aircraft that seem 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -724,7 +724,7 @@ Within the broader category of UFO reports caused by head-on aircraft that seem 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -765,94 +765,94 @@ Within the broader category of UFO reports caused by head-on aircraft that seem 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: faa.gov  
    Title: Federal Aviation Administration Section 3  
-   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_3.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_3.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Airport OperationsThe wind direction indicator. A wind cone, wind sock, or wind tee installed near the operational runway to indicate win...</p></details>
+   Link:<a href="https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_3.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_3.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Airport OperationsThe wind direction indicator. A wind cone, wind sock, or wind tee installed near the operational runway to indicate win...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: airservicesaustralia.com  
-   Link: <a href="https://www.airservicesaustralia.com/about-us/about-our-operations/runway-selection/" target="_blank" rel="noopener noreferrer nofollow">https://www.airservicesaustralia.com/about-us/about-our-operations/runway-selection/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AirservicesRunway selectionA sudden change of wind direction when the wind is strong may mean aircraft planning to arrive on one runway n...</p></details>
+   Link:<a href="https://www.airservicesaustralia.com/about-us/about-our-operations/runway-selection/" target="_blank" rel="noopener noreferrer nofollow">https://www.airservicesaustralia.com/about-us/about-our-operations/runway-selection/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AirservicesRunway selectionA sudden change of wind direction when the wind is strong may mean aircraft planning to arrive on one runway n...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: recursosdeaviacion.com  
    Title: icao doc 4444 air traffic management  
-   Link: <a href="https://recursosdeaviacion.com/wp-content/uploads/2021/01/icao-doc-4444-air-traffic-management.pdf" target="_blank" rel="noopener noreferrer nofollow">https://recursosdeaviacion.com/wp-content/uploads/2021/01/icao-doc-4444-air-traffic-management.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>July 31, 2020 — 4.1 Responsibility for the provision of air traffic control service...</p></details>
+   Link:<a href="https://recursosdeaviacion.com/wp-content/uploads/2021/01/icao-doc-4444-air-traffic-management.pdf" target="_blank" rel="noopener noreferrer nofollow">https://recursosdeaviacion.com/wp-content/uploads/2021/01/icao-doc-4444-air-traffic-management.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>July 31, 2020 — 4.1 Responsibility for the provision of air traffic control service...</p></details>
    Published: July 31, 2020  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pilotinstitute.com  
-   Link: <a href="https://pilotinstitute.com/airplane-lights/" target="_blank" rel="noopener noreferrer nofollow">https://pilotinstitute.com/airplane-lights/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pilot InstituteAirplane Lights: What Each Light Does (Red/Green, Strobe...26 Dec 2024 — Navigation lights show an aircraft&#x27;s position a...</p></details>
+   Link:<a href="https://pilotinstitute.com/airplane-lights/" target="_blank" rel="noopener noreferrer nofollow">https://pilotinstitute.com/airplane-lights/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pilot InstituteAirplane Lights: What Each Light Does (Red/Green, Strobe...26 Dec 2024 — Navigation lights show an aircraft&#x27;s position a...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: tarmacview.com  
    Title: Tarmac View Runway Orientation  
-   Link: <a href="https://www.tarmacview.com/glossary/runway-orientation/" target="_blank" rel="noopener noreferrer nofollow">https://www.tarmacview.com/glossary/runway-orientation/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Aircraft need less runway and achieve safer operations when taking off or landing into a headwind. To...Read more...</p></details>
+   Link:<a href="https://www.tarmacview.com/glossary/runway-orientation/" target="_blank" rel="noopener noreferrer nofollow">https://www.tarmacview.com/glossary/runway-orientation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aircraft need less runway and achieve safer operations when taking off or landing into a headwind. To...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: inspire.eaa.org  
    Title: more than just wind factors in choosing the best runway  
-   Link: <a href="https://inspire.eaa.org/2020/01/09/more-than-just-wind-factors-in-choosing-the-best-runway/" target="_blank" rel="noopener noreferrer nofollow">https://inspire.eaa.org/2020/01/09/more-than-just-wind-factors-in-choosing-the-best-runway/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hangar FlyingMore Than Just Wind — Factors in Choosing the Best RunwayJan 9, 2020 — Choosing the best runway for departure or landing is...</p></details>
+   Link:<a href="https://inspire.eaa.org/2020/01/09/more-than-just-wind-factors-in-choosing-the-best-runway/" target="_blank" rel="noopener noreferrer nofollow">https://inspire.eaa.org/2020/01/09/more-than-just-wind-factors-in-choosing-the-best-runway/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hangar FlyingMore Than Just Wind — Factors in Choosing the Best RunwayJan 9, 2020 — Choosing the best runway for departure or landing is...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: tarmacview.com  
-   Link: <a href="https://www.tarmacview.com/glossary/" target="_blank" rel="noopener noreferrer nofollow">https://www.tarmacview.com/glossary/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Glossary | Airport Lights InspectionExplore aviation terminology and concepts related to airport light inspections, drone-based airport t...</p></details>
+   Link:<a href="https://www.tarmacview.com/glossary/" target="_blank" rel="noopener noreferrer nofollow">https://www.tarmacview.com/glossary/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Glossary | Airport Lights InspectionExplore aviation terminology and concepts related to airport light inspections, drone-based airport t...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap3_section_5.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap3_section_5.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Section 5. Runway SelectionWhen authorizing use of runways and a tailwind component exists, always state both wind direction and velocity...</p></details>
+   Link:<a href="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap3_section_5.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap3_section_5.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Section 5. Runway SelectionWhen authorizing use of runways and a tailwind component exists, always state both wind direction and velocity...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/aip_html/part2_enr_section_1.1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/aip_html/part2_enr_section_1.1.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ENR 1.1: General RulesWhen approaching for landing, all turns must be made to the left unless a traffic pattern indicator indicates that...</p></details>
+   Link:<a href="https://www.faa.gov/air_traffic/publications/atpubs/aip_html/part2_enr_section_1.1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/aip_html/part2_enr_section_1.1.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ENR 1.1: General RulesWhen approaching for landing, all turns must be made to the left unless a traffic pattern indicator indicates that...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/395861540_RUNWAY_CONFIGURATION_ANALYSIS_BASED_ON_WIND_DATA_A_CASE_STUDY_OF_WARSAW_CHOPIN_AIRPORT" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/395861540_RUNWAY_CONFIGURATION_ANALYSIS_BASED_ON_WIND_DATA_A_CASE_STUDY_OF_WARSAW_CHOPIN_AIRPORT</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A CASE STUDY OF WARSAW CHOPIN AIRPORTSep 28, 2025 — Runway configuration at airports is determined based on the prevailing wind direction...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/395861540_RUNWAY_CONFIGURATION_ANALYSIS_BASED_ON_WIND_DATA_A_CASE_STUDY_OF_WARSAW_CHOPIN_AIRPORT" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/395861540_RUNWAY_CONFIGURATION_ANALYSIS_BASED_ON_WIND_DATA_A_CASE_STUDY_OF_WARSAW_CHOPIN_AIRPORT</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A CASE STUDY OF WARSAW CHOPIN AIRPORTSep 28, 2025 — Runway configuration at airports is determined based on the prevailing wind direction...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/flying/comments/13xw1kh/how_to_determine_runway_in_use_with_the_winds/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/flying/comments/13xw1kh/how_to_determine_runway_in_use_with_the_winds/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to determine runway in use with the winds given: r/flyingIf winds are calm or 90 degrees perpendicular to the runway, you&#x27;ll have to...</p></details>
+   Link:<a href="https://www.reddit.com/r/flying/comments/13xw1kh/how_to_determine_runway_in_use_with_the_winds/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/flying/comments/13xw1kh/how_to_determine_runway_in_use_with_the_winds/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to determine runway in use with the winds given: r/flyingIf winds are calm or 90 degrees perpendicular to the runway, you&#x27;ll have to...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/faa/mitigating-the-hazard-of-visual-illusions-fb3c35009471" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/faa/mitigating-the-hazard-of-visual-illusions-fb3c35009471</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mitigating the Hazard of Visual IllusionsA review of aircraft mishaps quickly reveals that visual illusions and/or poor visibility have b...</p></details>
+   Link:<a href="https://medium.com/faa/mitigating-the-hazard-of-visual-illusions-fb3c35009471" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/faa/mitigating-the-hazard-of-visual-illusions-fb3c35009471</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mitigating the Hazard of Visual IllusionsA review of aircraft mishaps quickly reveals that visual illusions and/or poor visibility have b...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: aopa.org  
-   Link: <a href="https://www.aopa.org/training-and-safety/students/crosscountry/skills/night-flying" target="_blank" rel="noopener noreferrer nofollow">https://www.aopa.org/training-and-safety/students/crosscountry/skills/night-flying</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Night FlyingFor VFR [pilots](&amp;#123;&amp;#123; &#x27;pilots/&#x27; | relative_url &amp;#125;&amp;#125;), the best way to avoid night illusions is to fly to and from airports equipped with VASI or PAPI approach ligh...</p></details>
+   Link:<a href="https://www.aopa.org/training-and-safety/students/crosscountry/skills/night-flying" target="_blank" rel="noopener noreferrer nofollow">https://www.aopa.org/training-and-safety/students/crosscountry/skills/night-flying</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Night FlyingFor VFR [pilots](&amp;#123;&amp;#123; &#x27;pilots/&#x27; | relative_url &amp;#125;&amp;#125;), the best way to avoid night illusions is to fly to and from airports equipped with VASI or PAPI approach ligh...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: skybrary.aero  
-   Link: <a href="https://skybrary.aero/articles/night-visual-approaches" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/night-visual-approaches</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Night Visual Approaches | SKYbrary Aviation SafetyNight visual approaches pose an increased risk of CFIT due to visual illusions caused b...</p></details>
+   Link:<a href="https://skybrary.aero/articles/night-visual-approaches" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/night-visual-approaches</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Night Visual Approaches | SKYbrary Aviation SafetyNight visual approaches pose an increased risk of CFIT due to visual illusions caused b...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: wiki.ivao.aero  
-   Link: <a href="https://wiki.ivao.aero/en/home/training/documentation/Select_the_runway_for_take-off_and_landing" target="_blank" rel="noopener noreferrer nofollow">https://wiki.ivao.aero/en/home/training/documentation/Select_the_runway_for_take-off_and_landing</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the runway for take-off and landingThis documentation is made to help air traffic controllers and pilots in non-controlled areas to selec...</p></details>
+   Link:<a href="https://wiki.ivao.aero/en/home/training/documentation/Select_the_runway_for_take-off_and_landing" target="_blank" rel="noopener noreferrer nofollow">https://wiki.ivao.aero/en/home/training/documentation/Select_the_runway_for_take-off_and_landing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the runway for take-off and landingThis documentation is made to help air traffic controllers and pilots in non-controlled areas to selec...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: tc.canada.ca  
-   Link: <a href="https://tc.canada.ca/sites/default/files/2020-07/AC-100-001_Issue07.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/sites/default/files/2020-07/AC-100-001_Issue07.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CircularThe purpose of this AC is to provide the entire Canadian aviation community with a glossary of aeronautical terms and definitions...</p></details>
+   Link:<a href="https://tc.canada.ca/sites/default/files/2020-07/AC-100-001_Issue07.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/sites/default/files/2020-07/AC-100-001_Issue07.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CircularThe purpose of this AC is to provide the entire Canadian aviation community with a glossary of aeronautical terms and definitions...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: news.ncac.mn  
-   Link: <a href="https://news.ncac.mn/uploads/bookSubject/2022-10/633b891f7da2b.pdf" target="_blank" rel="noopener noreferrer nofollow">https://news.ncac.mn/uploads/bookSubject/2022-10/633b891f7da2b.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>on the final approach to land the aircraft was observed by the Aero- drome Operator on duty at the Control Tower, Both the aircraft landi...</p></details>
+   Link:<a href="https://news.ncac.mn/uploads/bookSubject/2022-10/633b891f7da2b.pdf" target="_blank" rel="noopener noreferrer nofollow">https://news.ncac.mn/uploads/bookSubject/2022-10/633b891f7da2b.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>on the final approach to land the aircraft was observed by the Aero- drome Operator on duty at the Control Tower, Both the aircraft landi...</p></details>

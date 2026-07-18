@@ -504,28 +504,28 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5-overview-s
 Slow orange lights are one of the simplest ways an ordinary object becomes a UFO report. A sky lantern is a small paper hot-air balloon: a flame heats the air inside, the lantern rises, then it drifts with the wind until the fuel weakens and the glow fades. At night, especially when several are released together, that can look like a silent formation of orange orbs moving in deliberate order.
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5-overview.webp" | relative_url }}" alt="Overview image for Lanterns" loading="eager" decoding="sync" fetchpriority="high">
-This matters because many witnesses report exactly what they saw: glowing lights, no engine noise, odd spacing, apparent hovering, and sudden disappearance. The mistake often comes later, when distance, size and control are inferred from a dark sky with few reference points. British Ministry of Defence files from 2008–09 show how strongly this pattern can affect UFO reporting: many accounts described formations of orange lights moving slowly across the sky, and the National Archives linked a large number of them to Chinese lanterns seen by people who did not recognise them at the time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">ufo highlights guide 2013</span><span class="citation-popover-snippet">ufo highlights guide 2013</span></span></span>
+This matters because many witnesses report exactly what they saw: glowing lights, no engine noise, odd spacing, apparent hovering, and sudden disappearance. The mistake often comes later, when distance, size and control are inferred from a dark sky with few reference points. British Ministry of Defence files from 2008–09 show how strongly this pattern can affect UFO reporting: many accounts described formations of orange lights moving slowly across the sky, and the National Archives linked a large number of them to Chinese lanterns seen by people who did not recognise them at the time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">ufo highlights guide 2013</span><span class="citation-popover-snippet">ufo highlights guide 2013</span></span></span>
 
 ## What lanterns look like
 
-Sky lanterns are not just “lights”. They have a particular visual signature that explains why they can feel more impressive than an aircraft or satellite. The National Park Service describes them as paper lanterns with a candle or flame inside; when lit, the flame heats the air and the lantern rises like a small hot-air balloon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nps.gov/articles/fire-prevention-52-sky-lanterns.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.gov">[National Park Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.gov</span><span class="citation-popover-title">fire prevention 52 sky lanterns</span><span class="citation-popover-snippet">fire prevention 52 sky lanterns</span></span></span> That heat source is also what gives many sightings their warm amber, orange, red-orange or “fireball” colour.
+Sky lanterns are not just “lights”. They have a particular visual signature that explains why they can feel more impressive than an aircraft or satellite. The National Park Service describes them as paper lanterns with a candle or flame inside; when lit, the flame heats the air and the lantern rises like a small hot-air balloon.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nps.gov/articles/fire-prevention-52-sky-lanterns.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.gov">[National Park Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.gov</span><span class="citation-popover-title">fire prevention 52 sky lanterns</span><span class="citation-popover-snippet">fire prevention 52 sky lanterns</span></span></span> That heat source is also what gives many sightings their warm amber, orange, red-orange or “fireball” colour.
 
 From the ground, the lantern may look like a bright sphere rather than a paper object. The flame can flicker through the shell, making it appear to pulse or shimmer. As the fuel weakens, the light can dim, vanish, reappear briefly, or seem to “climb into the [atmosphere]({{ 'atmosphere/' | relative_url }})” before going dark. This is why reports often mention lights fading one by one rather than turning off in a crisp aircraft-like pattern.
 
-The MoD’s 2009 UFO report log contains many examples of this visual language. In early February 2009 alone, witnesses reported “six red or orange lights in a large oval shape moving slowly” with no noise, “ten orange orbs” with slightly pulsating lights, a “bright orange” object with “intensity of fire”, and an orange-yellow object followed by three more, again with no navigation lights and no sound. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">ufo highlights guide 2013</span><span class="citation-popover-snippet">ufo highlights guide 2013</span></span></span> These descriptions do not prove that every case was a lantern, but they show the recurring pattern investigators look for.
+The MoD’s 2009 UFO report log contains many examples of this visual language. In early February 2009 alone, witnesses reported “six red or orange lights in a large oval shape moving slowly” with no noise, “ten orange orbs” with slightly pulsating lights, a “bright orange” object with “intensity of fire”, and an orange-yellow object followed by three more, again with no navigation lights and no sound.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">ufo highlights guide 2013</span><span class="citation-popover-snippet">ufo highlights guide 2013</span></span></span> These descriptions do not prove that every case was a lantern, but they show the recurring pattern investigators look for.
 
-The formation effect is especially important. Several lanterns released from the same garden, wedding venue, festival field or memorial event can keep similar spacing for a while because they are carried by the same air mass. To a witness, that can look like a structured craft, a fleet, or lights “communicating” with each other. The National Archives highlights one typical report from South Wales in which two clusters of amber, orange and white lights moved in triangular formation, silently and oddly enough that a family pulled over to watch. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">ufo highlights guide 2013</span><span class="citation-popover-snippet">ufo highlights guide 2013</span></span></span>
+The formation effect is especially important. Several lanterns released from the same garden, wedding venue, festival field or memorial event can keep similar spacing for a while because they are carried by the same air mass. To a witness, that can look like a structured craft, a fleet, or lights “communicating” with each other. The National Archives highlights one typical report from South Wales in which two clusters of amber, orange and white lights moved in triangular formation, silently and oddly enough that a family pulled over to watch.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">ufo highlights guide 2013</span><span class="citation-popover-snippet">ufo highlights guide 2013</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5-Illustration-1-dark.svg" | relative_url }}" alt="Lanterns illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Wind, distance and silence
 
 The most misleading thing about a sky lantern is not its shape but its lack of context. At night, a glowing object with no visible body gives the eye very little to measure. Without a known size, distance is guessed. Without distance, speed is guessed. A small lantern nearby can be interpreted as a large object far away; a slow drift can become a fast traverse if the witness assumes it is much farther than it is.
 
-Wind then adds behaviour that looks intentional. Lanterns drift with local air currents, which may not match the wind felt by a person at ground level. This can make them appear to move “against the wind” or to change direction. The National Archives notes that some witnesses in the 2008–09 files were convinced lanterns were moving under control, even when the wider pattern pointed to floating lights. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">ufo highlights guide 2013</span><span class="citation-popover-snippet">ufo highlights guide 2013</span></span></span>
+Wind then adds behaviour that looks intentional. Lanterns drift with local air currents, which may not match the wind felt by a person at ground level. This can make them appear to move “against the wind” or to change direction. The National Archives notes that some witnesses in the 2008–09 files were convinced lanterns were moving under control, even when the wider pattern pointed to floating lights.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">ufo highlights guide 2013</span><span class="citation-popover-snippet">ufo highlights guide 2013</span></span></span>
 
 Silence reinforces the puzzle. [Aircraft lights]({{ 'aircraft-lights/' | relative_url }}) are usually accompanied by engine sound when they are nearby, but a lantern has no motor. If the light seems low or close yet makes no sound, witnesses may rule out aircraft and helicopters correctly, but then leap too far: “not a plane” becomes “not ordinary”. The more accurate conclusion is narrower: a silent orange light is not behaving like a nearby powered aircraft, but it may be a drifting, unpowered object.
 
-Distance can also hide the launch site. A lantern may have been released from a private event, a beach, a park, a village hall or a celebration miles away. Fire and aviation authorities warn that lanterns are uncontrollable once released and can travel significant distances depending on [wind direction]({{ 'wind-direction/' | relative_url }}) and speed. St Johns County Fire Rescue, for example, says they may travel over a mile, while Stroud District Council notes that they can float for miles before falling back to earth. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sjcfl.us/fire-prevention-sky-lanterns/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sjcfl.us">[St. Johns County]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sjcfl.us</span><span class="citation-popover-title">St. Johns County Fire Prevention</span><span class="citation-popover-snippet">St. Johns County Fire Prevention</span></span></span>
+Distance can also hide the launch site. A lantern may have been released from a private event, a beach, a park, a village hall or a celebration miles away. Fire and aviation authorities warn that lanterns are uncontrollable once released and can travel significant distances depending on [wind direction]({{ 'wind-direction/' | relative_url }}) and speed. St Johns County Fire Rescue, for example, says they may travel over a mile, while Stroud District Council notes that they can float for miles before falling back to earth.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sjcfl.us/fire-prevention-sky-lanterns/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sjcfl.us">[St. Johns County]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sjcfl.us</span><span class="citation-popover-title">St. Johns County Fire Prevention</span><span class="citation-popover-snippet">St. Johns County Fire Prevention</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/G_qz9ZCacQw" title="How We Staged a UFO Hoax | Fakes, Frauds and Scammers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=G_qz9ZCacQw" target="_blank" rel="noopener noreferrer">How We Staged a UFO Hoax | Fakes, Frauds and Scammers</a></p><p class="youtube-embed-meta">Channel: VICE Asia &middot; Views: 21.7K &middot; Uploaded: September 2021 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=G_qz9ZCacQw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=G_qz9ZCacQw">Open on YouTube</a></p></div></div></div>
 
@@ -533,16 +533,16 @@ Distance can also hide the launch site. A lantern may have been released from a 
 
 A single orange light may be dismissed as a balloon, lantern, aircraft or distant firework. A cluster is harder for witnesses to set aside, because human perception naturally looks for structure. Three lights become a triangle. Four become a rectangle. A loose line becomes a procession. A staggered release becomes a sequence.
 
-This is one reason lantern waves generate local UFO flaps. The National Archives’ 2013 guide says MoD UFO reports averaged about 150 a year from 2000 to 2007, doubled in 2008, and reached 643 by 30 November 2009; it then identifies the Chinese lantern craze as a major contributor to the surge, with many first-time observers filming orange formations and reporting them as UFOs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">ufo highlights guide 2013</span><span class="citation-popover-snippet">ufo highlights guide 2013</span></span></span>
+This is one reason lantern waves generate local UFO flaps. The National Archives’ 2013 guide says MoD UFO reports averaged about 150 a year from 2000 to 2007, doubled in 2008, and reached 643 by 30 November 2009; it then identifies the Chinese lantern craze as a major contributor to the surge, with many first-time observers filming orange formations and reporting them as UFOs.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">ufo highlights guide 2013</span><span class="citation-popover-snippet">ufo highlights guide 2013</span></span></span>
 
 The social setting matters too. Lanterns are often released when people are already outside at night: weddings, summer gatherings, festivals, public holidays, barbecues and memorials. Those are exactly the conditions under which multiple independent witnesses may see the same lights. Multiple witnesses make a report feel stronger, but they do not by themselves rule out a shared ordinary stimulus.
 
-The same mechanism can trigger emergency calls as well as UFO reports. The National Archives records that in summer 2009, maritime authorities dealt with false alarms after people mistook Chinese lanterns for distress flares, with coastguards in Cumbria and the North West receiving dozens of 999 calls. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">ufo highlights guide 2013</span><span class="citation-popover-snippet">ufo highlights guide 2013</span></span></span> That overlap is revealing: a lantern can look like a UFO, a flare, a fireball or an aircraft hazard depending on what the observer is primed to notice.
+The same mechanism can trigger emergency calls as well as UFO reports. The National Archives records that in summer 2009, maritime authorities dealt with false alarms after people mistook Chinese lanterns for distress flares, with coastguards in Cumbria and the North West receiving dozens of 999 calls.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">ufo highlights guide 2013</span><span class="citation-popover-snippet">ufo highlights guide 2013</span></span></span> That overlap is revealing: a lantern can look like a UFO, a flare, a fireball or an aircraft hazard depending on what the observer is primed to notice.
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5-Illustration-2-dark.svg" | relative_url }}" alt="Lanterns illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Separating lanterns from aircraft
 
-The most useful first question is not “Could it be a UFO?” but “What visible features would an aircraft normally show that a lantern would not?” Aircraft seen at night often display navigation or position lights: red on the left wing, green on the right, and white lights to help indicate orientation. The FAA’s Airplane Flying Handbook explains how red and green aircraft lights allow [pilots]({{ 'pilots/' | relative_url }}) to infer another aircraft’s direction of travel. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">12 afh ch11</span><span class="citation-popover-snippet">12 afh ch11</span></span></span>
+The most useful first question is not “Could it be a UFO?” but “What visible features would an aircraft normally show that a lantern would not?” Aircraft seen at night often display navigation or position lights: red on the left wing, green on the right, and white lights to help indicate orientation. The FAA’s Airplane Flying Handbook explains how red and green aircraft lights allow [pilots]({{ 'pilots/' | relative_url }}) to infer another aircraft’s direction of travel.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">12 afh ch11</span><span class="citation-popover-snippet">12 afh ch11</span></span></span>
 
 Lanterns usually do not show that structured red-green-white pattern. They tend to be one warm colour, often orange, yellow-orange or red-orange, with an uneven flame-like glow. They may flicker rather than flash in a regular anti-collision rhythm. They also lack the steady engine noise, predictable flight path and altitude discipline associated with powered aircraft.
 
@@ -558,18 +558,18 @@ None of these signs works alone. A distant aircraft may seem silent. A helicopte
 
 Many lantern reports contain accurate negative observations. The witness is often right that the object did not sound like a plane, did not have standard navigation lights, did not move like a helicopter, and did not leave a trail like a firework. The error is treating those exclusions as enough to establish something exotic.
 
-The MoD’s 2009 report log shows this transition in ordinary language. Witnesses repeatedly wrote that lights were “not aircraft”, “not like navigation lights”, “made no noise”, or were “too large and bright to be a plane”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">ufo video transcript</span><span class="citation-popover-snippet">ufo video transcript</span></span></span> Those judgements are understandable from the ground, but lanterns sit precisely in the gap they create: not aircraft, not [stars]({{ 'stars/' | relative_url }}), not [satellites]({{ 'satellites/' | relative_url }}), not necessarily flares, yet still ordinary.
+The MoD’s 2009 report log shows this transition in ordinary language. Witnesses repeatedly wrote that lights were “not aircraft”, “not like navigation lights”, “made no noise”, or were “too large and bright to be a plane”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">ufo video transcript</span><span class="citation-popover-snippet">ufo video transcript</span></span></span> Those judgements are understandable from the ground, but lanterns sit precisely in the gap they create: not aircraft, not [stars]({{ 'stars/' | relative_url }}), not [satellites]({{ 'satellites/' | relative_url }}), not necessarily flares, yet still ordinary.
 
 A good lantern explanation should be positive, not dismissive. It should account for the colour, motion, silence, duration, fading and grouping. It should also fit the weather and wind direction at the estimated altitude, not just the breeze felt on the witness’s face. Where possible, investigators can compare the sighting time with local events, wedding venues, festival schedules, firework displays, social media posts, emergency-call clusters and other witnesses’ bearings.
 
-The Morristown, [New Jersey]({{ 'new-jersey/' | relative_url }}) case shows how simple floating lights can outrun public interpretation, even when they were not commercial sky lanterns. In 2009, two men released flare lights attached to helium balloons, generating repeated UFO reports and 911 calls; they later admitted the hoax, and local reporting described the lights as flares tied to balloons rather than aircraft or extraterrestrial objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://abc7ny.com/archive/6742325/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc7ny.com">[ABC7 New York]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc7ny.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> The lesson is not that witnesses are foolish. It is that dark-sky lights with no scale cues can produce confident but wrong interpretations.
+The Morristown, [New Jersey]({{ 'new-jersey/' | relative_url }}) case shows how simple floating lights can outrun public interpretation, even when they were not commercial sky lanterns. In 2009, two men released flare lights attached to helium balloons, generating repeated UFO reports and 911 calls; they later admitted the hoax, and local reporting described the lights as flares tied to balloons rather than aircraft or extraterrestrial objects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://abc7ny.com/archive/6742325/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc7ny.com">[ABC7 New York]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc7ny.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> The lesson is not that witnesses are foolish. It is that dark-sky lights with no scale cues can produce confident but wrong interpretations.
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5-Illustration-3-dark.svg" | relative_url }}" alt="Lanterns illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why authorities care about lanterns beyond UFO reports
 
-Sky lanterns matter to UFO investigation because they explain a distinctive class of reports, but authorities also care about them for more practical reasons. The UK Civil Aviation Authority includes sky lantern releases in its guidance for outdoor events because such activities can distract or confuse aircrews or damage aircraft during flight operations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/commercial-industry/airspace/event-and-obstacle-notification/commercial-displays-and-events/outdoor-laser-lights-and-fireworks/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">Civil Aviation Authority Outdoor laser lights and fireworks</span><span class="citation-popover-snippet">Civil Aviation Authority Outdoor laser lights and fireworks</span></span></span> Its public guidance says organisers should contact the CAA for major firework, laser or sky lantern events, especially near airfields or areas where aircraft regularly fly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/commercial-industry/airspace/event-and-obstacle-notification/commercial-displays-and-events/outdoor-laser-lights-and-fireworks/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">Civil Aviation Authority Outdoor laser lights and fireworks</span><span class="citation-popover-snippet">Civil Aviation Authority Outdoor laser lights and fireworks</span></span></span>
+Sky lanterns matter to UFO investigation because they explain a distinctive class of reports, but authorities also care about them for more practical reasons. The UK Civil Aviation Authority includes sky lantern releases in its guidance for outdoor events because such activities can distract or confuse aircrews or damage aircraft during flight operations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/commercial-industry/airspace/event-and-obstacle-notification/commercial-displays-and-events/outdoor-laser-lights-and-fireworks/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">Civil Aviation Authority Outdoor laser lights and fireworks</span><span class="citation-popover-snippet">Civil Aviation Authority Outdoor laser lights and fireworks</span></span></span> Its public guidance says organisers should contact the CAA for major firework, laser or sky lantern events, especially near airfields or areas where aircraft regularly fly.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/commercial-industry/airspace/event-and-obstacle-notification/commercial-displays-and-events/outdoor-laser-lights-and-fireworks/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">Civil Aviation Authority Outdoor laser lights and fireworks</span><span class="citation-popover-snippet">Civil Aviation Authority Outdoor laser lights and fireworks</span></span></span>
 
-Aviation risk is not only about the light. CAA material on lighting near aerodromes notes that helium balloons and sky lanterns can present engine-ingestion risks, and that lantern debris can become foreign object debris if remnants land on an airfield. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/commercial-industry/airspace/event-and-obstacle-notification/commercial-displays-and-events/outdoor-laser-lights-and-fireworks/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">Civil Aviation Authority Outdoor laser lights and fireworks</span><span class="citation-popover-snippet">Civil Aviation Authority Outdoor laser lights and fireworks</span></span></span> Fire authorities make a parallel point on the ground: the National Fire Protection Association says sky lanterns pose a serious fire safety hazard and are prohibited by its code requirements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nfpa.org/downloadable-resources/safety-tip-sheets/sky-lanterns-safety-tip-sheet" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nfpa.org">[NFPA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nfpa.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Aviation risk is not only about the light. CAA material on lighting near aerodromes notes that helium balloons and sky lanterns can present engine-ingestion risks, and that lantern debris can become foreign object debris if remnants land on an airfield.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/commercial-industry/airspace/event-and-obstacle-notification/commercial-displays-and-events/outdoor-laser-lights-and-fireworks/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">Civil Aviation Authority Outdoor laser lights and fireworks</span><span class="citation-popover-snippet">Civil Aviation Authority Outdoor laser lights and fireworks</span></span></span> Fire authorities make a parallel point on the ground: the National Fire Protection Association says sky lanterns pose a serious fire safety hazard and are prohibited by its code requirements.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nfpa.org/downloadable-resources/safety-tip-sheets/sky-lanterns-safety-tip-sheet" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nfpa.org">[NFPA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nfpa.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 This safety context helps explain why some lantern sightings generate official attention even when the object is mundane. A drifting flame can be a fire risk, an aviation concern, a false distress-flare report, a police-call cluster and a UFO sighting all at once. Its cause may be simple; its consequences are not always trivial.
 
@@ -589,194 +589,194 @@ The fairest conclusion is usually conditional: “This has the visual pattern of
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/g42iMvgTB6U" title="Top 5 Unexplained SKY LIGHTS That Really Looks Unreal ‼️" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=g42iMvgTB6U" target="_blank" rel="noopener noreferrer">Top 5 Unexplained SKY LIGHTS That Really Looks Unreal ‼️</a></p><p class="youtube-embed-meta">Channel: BosTALJIA &middot; Views: 14.9M &middot; Uploaded: July 2025 &middot; Length: 58 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=g42iMvgTB6U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=g42iMvgTB6U">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Orange Lights That Start UFO Reports. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Orange Lights That Start UFO Reports. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on classifying and evaluating UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on classifying and evaluating UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides broader context for witness reports and unidentified cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader context for witness reports and unidentified cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Helps readers evaluate ordinary explanations for extraordinary reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers evaluate ordinary explanations for extraordinary reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
-        </h4>
-        <p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
+</h4>
+<p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
         
-        <p class="fr-book-desc">Explains why sincere observers can misinterpret visible events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why sincere observers can misinterpret visible events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-orange-lights-that-start-ufo-reports-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="the-orange-lights-that-start-ufo-reports-sky-lantern" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aluminium Roof Lantern Sky pod Self Cleaning 2000 x 1000"><img src="https://i.ebayimg.com/images/g/~3kAAeSweR9qJ7FB/s-l225.jpg" alt="Listing image for Aluminium Roof Lantern Sky pod Self Cleaning 2000 x 1000" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-orange-lights-that-start-ufo-reports-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="the-orange-lights-that-start-ufo-reports-sky-lantern" target="_blank" rel="sponsored noopener noreferrer">Aluminium Roof Lantern Sky pod Self Cleaning 2000 x 1000</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-orange-lights-that-start-ufo-reports-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="the-orange-lights-that-start-ufo-reports-sky-lantern" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sky lantern">Search <span data-ebay-domain-label>eBay.co.uk</span>: sky lantern</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-orange-lights-that-start-ufo-reports-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="the-orange-lights-that-start-ufo-reports-sky-lantern" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-orange-lights-that-start-ufo-reports-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="the-orange-lights-that-start-ufo-reports-sky-lantern" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aluminium Roof Lantern Sky pod Self Cleaning 2000 x 1000"><img src="https://i.ebayimg.com/images/g/~3kAAeSweR9qJ7FB/s-l225.jpg" alt="Listing image for Aluminium Roof Lantern Sky pod Self Cleaning 2000 x 1000" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-orange-lights-that-start-ufo-reports-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="the-orange-lights-that-start-ufo-reports-sky-lantern" target="_blank" rel="sponsored noopener noreferrer">Aluminium Roof Lantern Sky pod Self Cleaning 2000 x 1000</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-orange-lights-that-start-ufo-reports-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="the-orange-lights-that-start-ufo-reports-sky-lantern" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sky lantern">Search<span data-ebay-domain-label>eBay.co.uk</span>: sky lantern</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-orange-lights-that-start-ufo-reports-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="the-orange-lights-that-start-ufo-reports-sky-lantern" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-orange-lights-that-start-ufo-reports-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="the-orange-lights-that-start-ufo-reports-sky-lantern" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lantern window skylight roof window Lantern Window Sky Light Upstand"><img src="https://i.ebayimg.com/images/g/GycAAeSw6lZo8KHu/s-l225.jpg" alt="Listing image for Lantern window skylight roof window Lantern Window Sky Light Upstand" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-orange-lights-that-start-ufo-reports-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="the-orange-lights-that-start-ufo-reports-sky-lantern" target="_blank" rel="sponsored noopener noreferrer">Lantern window skylight roof window Lantern Window Sky Light Upstand</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-orange-lights-that-start-ufo-reports-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="the-orange-lights-that-start-ufo-reports-sky-lantern" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sky lantern">Search <span data-ebay-domain-label>eBay.co.uk</span>: sky lantern</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-orange-lights-that-start-ufo-reports-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="the-orange-lights-that-start-ufo-reports-sky-lantern" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-orange-lights-that-start-ufo-reports-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="the-orange-lights-that-start-ufo-reports-sky-lantern" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lantern window skylight roof window Lantern Window Sky Light Upstand"><img src="https://i.ebayimg.com/images/g/GycAAeSw6lZo8KHu/s-l225.jpg" alt="Listing image for Lantern window skylight roof window Lantern Window Sky Light Upstand" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-orange-lights-that-start-ufo-reports-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="the-orange-lights-that-start-ufo-reports-sky-lantern" target="_blank" rel="sponsored noopener noreferrer">Lantern window skylight roof window Lantern Window Sky Light Upstand</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-orange-lights-that-start-ufo-reports-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="the-orange-lights-that-start-ufo-reports-sky-lantern" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sky lantern">Search<span data-ebay-domain-label>eBay.co.uk</span>: sky lantern</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-orange-lights-that-start-ufo-reports-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="the-orange-lights-that-start-ufo-reports-sky-lantern" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-orange-lights-that-start-ufo-reports-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="the-orange-lights-that-start-ufo-reports-sky-lantern" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Triple Glazed Rooflight Window Glass Skylight Flat Roof Sky Light Lantern"><img src="https://i.ebayimg.com/images/g/wwsAAeSwrZJqJmes/s-l225.jpg" alt="Listing image for Triple Glazed Rooflight Window Glass Skylight Flat Roof Sky Light Lantern" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-orange-lights-that-start-ufo-reports-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="the-orange-lights-that-start-ufo-reports-sky-lantern" target="_blank" rel="sponsored noopener noreferrer">Triple Glazed Rooflight Window Glass Skylight Flat Roof Sky Light Lantern</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-orange-lights-that-start-ufo-reports-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="the-orange-lights-that-start-ufo-reports-sky-lantern" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sky lantern">Search <span data-ebay-domain-label>eBay.co.uk</span>: sky lantern</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-orange-lights-that-start-ufo-reports-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="the-orange-lights-that-start-ufo-reports-sky-lantern" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-orange-lights-that-start-ufo-reports-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="the-orange-lights-that-start-ufo-reports-sky-lantern" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Triple Glazed Rooflight Window Glass Skylight Flat Roof Sky Light Lantern"><img src="https://i.ebayimg.com/images/g/wwsAAeSwrZJqJmes/s-l225.jpg" alt="Listing image for Triple Glazed Rooflight Window Glass Skylight Flat Roof Sky Light Lantern" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-orange-lights-that-start-ufo-reports-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="the-orange-lights-that-start-ufo-reports-sky-lantern" target="_blank" rel="sponsored noopener noreferrer">Triple Glazed Rooflight Window Glass Skylight Flat Roof Sky Light Lantern</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-orange-lights-that-start-ufo-reports-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="the-orange-lights-that-start-ufo-reports-sky-lantern" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sky lantern">Search<span data-ebay-domain-label>eBay.co.uk</span>: sky lantern</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-orange-lights-that-start-ufo-reports-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="the-orange-lights-that-start-ufo-reports-sky-lantern" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-orange-lights-that-start-ufo-reports-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="the-orange-lights-that-start-ufo-reports-sky-lantern" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Double Glazed Rooflight Window Glass Skylight Flat Roof Sky Light Lantern"><img src="https://i.ebayimg.com/images/g/9BkAAeSwvLVqJmdM/s-l225.jpg" alt="Listing image for Double Glazed Rooflight Window Glass Skylight Flat Roof Sky Light Lantern" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-orange-lights-that-start-ufo-reports-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="the-orange-lights-that-start-ufo-reports-sky-lantern" target="_blank" rel="sponsored noopener noreferrer">Double Glazed Rooflight Window Glass Skylight Flat Roof Sky Light Lantern</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-orange-lights-that-start-ufo-reports-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="the-orange-lights-that-start-ufo-reports-sky-lantern" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sky lantern">Search <span data-ebay-domain-label>eBay.co.uk</span>: sky lantern</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-orange-lights-that-start-ufo-reports-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="the-orange-lights-that-start-ufo-reports-sky-lantern" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-orange-lights-that-start-ufo-reports-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="the-orange-lights-that-start-ufo-reports-sky-lantern" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-orange-lights-that-start-ufo-reports-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="the-orange-lights-that-start-ufo-reports-sky-lantern" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Double Glazed Rooflight Window Glass Skylight Flat Roof Sky Light Lantern"><img src="https://i.ebayimg.com/images/g/9BkAAeSwvLVqJmdM/s-l225.jpg" alt="Listing image for Double Glazed Rooflight Window Glass Skylight Flat Roof Sky Light Lantern" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-orange-lights-that-start-ufo-reports-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="the-orange-lights-that-start-ufo-reports-sky-lantern" target="_blank" rel="sponsored noopener noreferrer">Double Glazed Rooflight Window Glass Skylight Flat Roof Sky Light Lantern</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-orange-lights-that-start-ufo-reports-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="the-orange-lights-that-start-ufo-reports-sky-lantern" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sky lantern">Search<span data-ebay-domain-label>eBay.co.uk</span>: sky lantern</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-orange-lights-that-start-ufo-reports-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="the-orange-lights-that-start-ufo-reports-sky-lantern" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-orange-lights-that-start-ufo-reports-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="the-orange-lights-that-start-ufo-reports-sky-lantern" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -792,7 +792,7 @@ The fairest conclusion is usually conditional: “This has the visual pattern of
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -812,7 +812,7 @@ The fairest conclusion is usually conditional: “This has the visual pattern of
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -844,7 +844,7 @@ The fairest conclusion is usually conditional: “This has the visual pattern of
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -896,7 +896,7 @@ The fairest conclusion is usually conditional: “This has the visual pattern of
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -941,7 +941,7 @@ The fairest conclusion is usually conditional: “This has the visual pattern of
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -982,216 +982,216 @@ The fairest conclusion is usually conditional: “This has the visual pattern of
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo highlights guide 2013  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo video transcript  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: stroud.gov.uk  
-   Link: <a href="https://www.stroud.gov.uk/environment/environmental-health/pollution-and-nuisance/sky-lanterns-and-balloons/" target="_blank" rel="noopener noreferrer nofollow">https://www.stroud.gov.uk/environment/environmental-health/pollution-and-nuisance/sky-lanterns-and-balloons/</a>  
+   Link:<a href="https://www.stroud.gov.uk/environment/environmental-health/pollution-and-nuisance/sky-lanterns-and-balloons/" target="_blank" rel="noopener noreferrer nofollow">https://www.stroud.gov.uk/environment/environmental-health/pollution-and-nuisance/sky-lanterns-and-balloons/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: faa.gov  
    Title: 12 afh ch11  
-   Link: <a href="https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf</a>  
+   Link:<a href="https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nfpa.org  
-   Link: <a href="https://www.nfpa.org/downloadable-resources/safety-tip-sheets/sky-lanterns-safety-tip-sheet" target="_blank" rel="noopener noreferrer nofollow">https://www.nfpa.org/downloadable-resources/safety-tip-sheets/sky-lanterns-safety-tip-sheet</a>  
+   Link:<a href="https://www.nfpa.org/downloadable-resources/safety-tip-sheets/sky-lanterns-safety-tip-sheet" target="_blank" rel="noopener noreferrer nofollow">https://www.nfpa.org/downloadable-resources/safety-tip-sheets/sky-lanterns-safety-tip-sheet</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/media/33721" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/media/33721</a>  
+   Link:<a href="https://www.faa.gov/media/33721" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/media/33721</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap2_section_2.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap2_section_2.html</a>  
+   Link:<a href="https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap2_section_2.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap2_section_2.html</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap2_section_1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap2_section_1.html</a>  
+   Link:<a href="https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap2_section_1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap2_section_1.html</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2007  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2008  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: essex.police.uk  
    Title: ufo reports 2014 to 2024  
-   Link: <a href="https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/</a>  
+   Link:<a href="https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: cheshirefire.gov.uk  
    Title: lantern safety  
-   Link: <a href="https://www.cheshirefire.gov.uk/your-safety/outdoor-safety/lantern-safety/" target="_blank" rel="noopener noreferrer nofollow">https://www.cheshirefire.gov.uk/your-safety/outdoor-safety/lantern-safety/</a>  
+   Link:<a href="https://www.cheshirefire.gov.uk/your-safety/outdoor-safety/lantern-safety/" target="_blank" rel="noopener noreferrer nofollow">https://www.cheshirefire.gov.uk/your-safety/outdoor-safety/lantern-safety/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: democracy.havering.gov.uk  
-   Link: <a href="https://democracy.havering.gov.uk/documents/s68687/8.1%20Appendix%20A%20-%20POLICY%20BRIEFING%20-Sky%20Lanterns%201.2.2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://democracy.havering.gov.uk/documents/s68687/8.1%20Appendix%20A%20-%20POLICY%20BRIEFING%20-Sky%20Lanterns%201.2.2023.pdf</a>  
+   Link:<a href="https://democracy.havering.gov.uk/documents/s68687/8.1%20Appendix%20A%20-%20POLICY%20BRIEFING%20-Sky%20Lanterns%201.2.2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://democracy.havering.gov.uk/documents/s68687/8.1%20Appendix%20A%20-%20POLICY%20BRIEFING%20-Sky%20Lanterns%201.2.2023.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: radiocayman.gov.ky  
-   Link: <a href="https://www.radiocayman.gov.ky/news/hazards-to-aviation" target="_blank" rel="noopener noreferrer nofollow">https://www.radiocayman.gov.ky/news/hazards-to-aviation</a>  
+   Link:<a href="https://www.radiocayman.gov.ky/news/hazards-to-aviation" target="_blank" rel="noopener noreferrer nofollow">https://www.radiocayman.gov.ky/news/hazards-to-aviation</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: caa.gov.tw  
-   Link: <a href="https://www.caa.gov.tw/FileAtt.ashx?id=32841&amp;lang=1" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.gov.tw/FileAtt.ashx?id=32841&amp;lang=1</a>  
+   Link:<a href="https://www.caa.gov.tw/FileAtt.ashx?id=32841&amp;lang=1" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.gov.tw/FileAtt.ashx?id=32841&amp;lang=1</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: democracy.brent.gov.uk  
-   Link: <a href="https://democracy.brent.gov.uk/documents/s88072/08ii.%20Appendix%209.1%20Lead%20Cllr%20Briefing%2016%20March%202018.pdf" target="_blank" rel="noopener noreferrer nofollow">https://democracy.brent.gov.uk/documents/s88072/08ii.%20Appendix%209.1%20Lead%20Cllr%20Briefing%2016%20March%202018.pdf</a>  
+   Link:<a href="https://democracy.brent.gov.uk/documents/s88072/08ii.%20Appendix%209.1%20Lead%20Cllr%20Briefing%2016%20March%202018.pdf" target="_blank" rel="noopener noreferrer nofollow">https://democracy.brent.gov.uk/documents/s88072/08ii.%20Appendix%209.1%20Lead%20Cllr%20Briefing%2016%20March%202018.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: northantsfire.gov.uk  
    Title: warnings about sky lantern fire risk  
-   Link: <a href="https://www.northantsfire.gov.uk/2020/02/03/warnings-about-sky-lantern-fire-risk/" target="_blank" rel="noopener noreferrer nofollow">https://www.northantsfire.gov.uk/2020/02/03/warnings-about-sky-lantern-fire-risk/</a>  
+   Link:<a href="https://www.northantsfire.gov.uk/2020/02/03/warnings-about-sky-lantern-fire-risk/" target="_blank" rel="noopener noreferrer nofollow">https://www.northantsfire.gov.uk/2020/02/03/warnings-about-sky-lantern-fire-risk/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: gov.im  
-   Link: <a href="https://www.gov.im/categories/business-and-industries/civil-aviation-administration-caa/lights-fireworks-toy-balloons/" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.im/categories/business-and-industries/civil-aviation-administration-caa/lights-fireworks-toy-balloons/</a>  
+   Link:<a href="https://www.gov.im/categories/business-and-industries/civil-aviation-administration-caa/lights-fireworks-toy-balloons/" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.im/categories/business-and-industries/civil-aviation-administration-caa/lights-fireworks-toy-balloons/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: merseyfire.gov.uk  
-   Link: <a href="https://www.merseyfire.gov.uk/safety-advice/community-safety/sky-lanterns/" target="_blank" rel="noopener noreferrer nofollow">https://www.merseyfire.gov.uk/safety-advice/community-safety/sky-lanterns/</a>  
+   Link:<a href="https://www.merseyfire.gov.uk/safety-advice/community-safety/sky-lanterns/" target="_blank" rel="noopener noreferrer nofollow">https://www.merseyfire.gov.uk/safety-advice/community-safety/sky-lanterns/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: gcaa.gov.ae  
-   Link: <a href="https://www.gcaa.gov.ae/en/epublication/NPADocuments/NPA%2009-2012%20AIRSPACE%20USER%20REQUIREMENTS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gcaa.gov.ae/en/epublication/NPADocuments/NPA%2009-2012%20AIRSPACE%20USER%20REQUIREMENTS.pdf</a>  
+   Link:<a href="https://www.gcaa.gov.ae/en/epublication/NPADocuments/NPA%2009-2012%20AIRSPACE%20USER%20REQUIREMENTS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gcaa.gov.ae/en/epublication/NPADocuments/NPA%2009-2012%20AIRSPACE%20USER%20REQUIREMENTS.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: nps.gov  
    Title: fire prevention 52 sky lanterns  
-   Link: <a href="https://www.nps.gov/articles/fire-prevention-52-sky-lanterns.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/articles/fire-prevention-52-sky-lanterns.htm</a>  
+   Link:<a href="https://www.nps.gov/articles/fire-prevention-52-sky-lanterns.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/articles/fire-prevention-52-sky-lanterns.htm</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: sjcfl.us  
    Title: St. Johns County Fire Prevention  
-   Link: <a href="https://www.sjcfl.us/fire-prevention-sky-lanterns/" target="_blank" rel="noopener noreferrer nofollow">https://www.sjcfl.us/fire-prevention-sky-lanterns/</a>  
+   Link:<a href="https://www.sjcfl.us/fire-prevention-sky-lanterns/" target="_blank" rel="noopener noreferrer nofollow">https://www.sjcfl.us/fire-prevention-sky-lanterns/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: abc7ny.com  
-   Link: <a href="https://abc7ny.com/archive/6742325/" target="_blank" rel="noopener noreferrer nofollow">https://abc7ny.com/archive/6742325/</a>  
+   Link:<a href="https://abc7ny.com/archive/6742325/" target="_blank" rel="noopener noreferrer nofollow">https://abc7ny.com/archive/6742325/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: caa.co.uk  
    Title: Civil Aviation Authority Outdoor laser lights and fireworks  
-   Link: <a href="https://www.caa.co.uk/commercial-industry/airspace/event-and-obstacle-notification/commercial-displays-and-events/outdoor-laser-lights-and-fireworks/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/commercial-industry/airspace/event-and-obstacle-notification/commercial-displays-and-events/outdoor-laser-lights-and-fireworks/</a>  
+   Link:<a href="https://www.caa.co.uk/commercial-industry/airspace/event-and-obstacle-notification/commercial-displays-and-events/outdoor-laser-lights-and-fireworks/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/commercial-industry/airspace/event-and-obstacle-notification/commercial-displays-and-events/outdoor-laser-lights-and-fireworks/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/air-passengers/displays-and-events/displays-and-events-guidance/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/air-passengers/displays-and-events/displays-and-events-guidance/</a>  
+   Link:<a href="https://www.caa.co.uk/air-passengers/displays-and-events/displays-and-events-guidance/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/air-passengers/displays-and-events/displays-and-events-guidance/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: caa.co.uk  
    Title: Civil Aviation Authoritycast-advice-note-2-lighting-near-aerodromes  
-   Link: <a href="https://www.caa.co.uk/media/cjxn2a3r/cast-advice-note-2-lighting-near-aerodromes-apr-24.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/media/cjxn2a3r/cast-advice-note-2-lighting-near-aerodromes-apr-24.pdf</a>  
+   Link:<a href="https://www.caa.co.uk/media/cjxn2a3r/cast-advice-note-2-lighting-near-aerodromes-apr-24.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/media/cjxn2a3r/cast-advice-note-2-lighting-near-aerodromes-apr-24.pdf</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: Wikipedia  
    Title: Sky lantern  
-   Link: <a href="https://en.wikipedia.org/wiki/Sky_lantern" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sky_lantern</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Sky_lantern" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sky_lantern</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: epicflightacademy.com  
    Title: aircraft lights  
-   Link: <a href="https://epicflightacademy.com/aircraft-lights/" target="_blank" rel="noopener noreferrer nofollow">https://epicflightacademy.com/aircraft-lights/</a>  
+   Link:<a href="https://epicflightacademy.com/aircraft-lights/" target="_blank" rel="noopener noreferrer nofollow">https://epicflightacademy.com/aircraft-lights/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=G_qz9ZCacQw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=G_qz9ZCacQw</a>  
+   Link:<a href="https://www.youtube.com/watch?v=G_qz9ZCacQw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=G_qz9ZCacQw</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: dsps.wi.gov  
    Title: Sky Lanterns  
-   Link: <a href="https://dsps.wi.gov/Documents/Programs/FirePrevention/SkyLanterns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dsps.wi.gov/Documents/Programs/FirePrevention/SkyLanterns.pdf</a>  
+   Link:<a href="https://dsps.wi.gov/Documents/Programs/FirePrevention/SkyLanterns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dsps.wi.gov/Documents/Programs/FirePrevention/SkyLanterns.pdf</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: bellevuewa.gov  
    Title: sky lanterns  
-   Link: <a href="https://bellevuewa.gov/sites/default/files/media/pdf_document/m11077-1_Sky_Lanterns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bellevuewa.gov/sites/default/files/media/pdf_document/m11077-1_Sky_Lanterns.pdf</a>  
+   Link:<a href="https://bellevuewa.gov/sites/default/files/media/pdf_document/m11077-1_Sky_Lanterns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bellevuewa.gov/sites/default/files/media/pdf_document/m11077-1_Sky_Lanterns.pdf</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: exeter-airport.co.uk  
    Title: chinese lanterns  
-   Link: <a href="https://exeter-airport.co.uk/chinese-lanterns/" target="_blank" rel="noopener noreferrer nofollow">https://exeter-airport.co.uk/chinese-lanterns/</a>  
+   Link:<a href="https://exeter-airport.co.uk/chinese-lanterns/" target="_blank" rel="noopener noreferrer nofollow">https://exeter-airport.co.uk/chinese-lanterns/</a>  
 
 ### Additional References
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: youtube.com  
    Title: Top 5 Unexplained SKY LIGHTS That Really Looks Unreal ‼️  
-   Link: <a href="https://www.youtube.com/watch?v=g42iMvgTB6U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=g42iMvgTB6U</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky lanterns in the sky night visual appearance UFO report What do drones look like? Are lights in the night UFOs, planes? Here&#x27;s what to...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=g42iMvgTB6U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=g42iMvgTB6U</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sky lanterns in the sky night visual appearance UFO report What do drones look like? Are lights in the night UFOs, planes? Here&#x27;s what to...</p></details>
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=RCiXL2ntQbw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RCiXL2ntQbw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What do drones look like? Are lights in the night UFOs, planes? Here&#x27;s what to know...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=RCiXL2ntQbw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RCiXL2ntQbw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What do drones look like? Are lights in the night UFOs, planes? Here&#x27;s what to know...</p></details>
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=pqkxYbVEvAU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pqkxYbVEvAU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Top 5 Unexplained SKY LIGHTS That Really Looks Unreal ‼️...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=pqkxYbVEvAU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pqkxYbVEvAU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Top 5 Unexplained SKY LIGHTS That Really Looks Unreal ‼️...</p></details>
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: redwingmn.gov  
-   Link: <a href="https://www.redwingmn.gov/DocumentCenter/View/2812/Sky-Lanterns-Safety-PDF" target="_blank" rel="noopener noreferrer nofollow">https://www.redwingmn.gov/DocumentCenter/View/2812/Sky-Lanterns-Safety-PDF</a>  
+   Link:<a href="https://www.redwingmn.gov/DocumentCenter/View/2812/Sky-Lanterns-Safety-PDF" target="_blank" rel="noopener noreferrer nofollow">https://www.redwingmn.gov/DocumentCenter/View/2812/Sky-Lanterns-Safety-PDF</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: youtube.com  
    Title: Special!!! UFO Orange Pulsar Orb Encounter  
-   Link: <a href="https://www.youtube.com/watch?v=U9jwD5qeuxE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=U9jwD5qeuxE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO, SKY LANTERN OR HUGE LIGHT ORB FOOTAGE OVER RUSSIAN URAL MOUNTAINS 12-7-2011...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=U9jwD5qeuxE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=U9jwD5qeuxE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO, SKY LANTERN OR HUGE LIGHT ORB FOOTAGE OVER RUSSIAN URAL MOUNTAINS 12-7-2011...</p></details>
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: flywat.com  
-   Link: <a href="https://flywat.com/pages/aircraft-lighting-regulations" target="_blank" rel="noopener noreferrer nofollow">https://flywat.com/pages/aircraft-lighting-regulations</a>  
+   Link:<a href="https://flywat.com/pages/aircraft-lighting-regulations" target="_blank" rel="noopener noreferrer nofollow">https://flywat.com/pages/aircraft-lighting-regulations</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DN4Ak8Akr53/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DN4Ak8Akr53/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/reel/DN4Ak8Akr53/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DN4Ak8Akr53/?hl=en</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/aircraftengineerings/posts/aircraft-navigation-lights-the-pilots-guide-to-visibility-safety-%EF%B8%8F-modern-aircra/1142672944568508/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/aircraftengineerings/posts/aircraft-navigation-lights-the-pilots-guide-to-visibility-safety-%EF%B8%8F-modern-aircra/1142672944568508/</a>  
+   Link:<a href="https://www.facebook.com/aircraftengineerings/posts/aircraft-navigation-lights-the-pilots-guide-to-visibility-safety-%EF%B8%8F-modern-aircra/1142672944568508/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/aircraftengineerings/posts/aircraft-navigation-lights-the-pilots-guide-to-visibility-safety-%EF%B8%8F-modern-aircra/1142672944568508/</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/CaptAbdullahAviator/posts/aircraft-navigation-lights-are-red-green-and-white-and-each-color-has-a-specific/568821259035004/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CaptAbdullahAviator/posts/aircraft-navigation-lights-are-red-green-and-white-and-each-color-has-a-specific/568821259035004/</a>  
+   Link:<a href="https://www.facebook.com/CaptAbdullahAviator/posts/aircraft-navigation-lights-are-red-green-and-white-and-each-color-has-a-specific/568821259035004/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CaptAbdullahAviator/posts/aircraft-navigation-lights-are-red-green-and-white-and-each-color-has-a-specific/568821259035004/</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: aviation.govt.nz  
-   Link: <a href="https://www.aviation.govt.nz/airspace-and-aerodromes/airspace/airspace-hazards/" target="_blank" rel="noopener noreferrer nofollow">https://www.aviation.govt.nz/airspace-and-aerodromes/airspace/airspace-hazards/</a>
+   Link:<a href="https://www.aviation.govt.nz/airspace-and-aerodromes/airspace/airspace-hazards/" target="_blank" rel="noopener noreferrer nofollow">https://www.aviation.govt.nz/airspace-and-aerodromes/airspace/airspace-hazards/</a>

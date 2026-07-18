@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ifos-causes-of-ufo-3ed238-index/
 description: Focused pages that expand on ifos causes of UFO 3 ed 238.
-date: '2026-06-12'
+date: '2026'
 layout: default
 parent_basename: ifos_-_causes_of_UFO_3ed238
 parent_title: ifos causes of UFO 3 ed 238
@@ -16,7 +16,7 @@ parent_permalink: /ifos-causes-of-ufo-3-ed-238/
 
 # Explore Topics in ifos causes of UFO 3 ed 238
 
-The following pages expand on the main **[ifos causes of UFO 3 ed 238]({{ '/ifos-causes-of-ufo-3-ed-238/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[ifos causes of UFO 3 ed 238]({{ '/ifos-causes-of-ufo-3-ed-238/' | relative_url }})** page and cover its key branches in.
 
 - [AARO]({{ '/aaro/' | relative_url }})
 - [Aircraft Lights]({{ '/aircraft-lights/' | relative_url }})

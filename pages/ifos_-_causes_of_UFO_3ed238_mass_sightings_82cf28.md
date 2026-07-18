@@ -504,7 +504,7 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28-overview
 Mass sightings can make a UFO report feel stronger, but they do not automatically make the interpretation stronger. A group may genuinely see the same light, shape, plume or [radar]({{ 'radar/' | relative_url }}) return, yet still share the same mistake because they are looking from the same area, under the same sky conditions, with the same expectations and often after hearing the same rumours. In IFO cases, the key question is not simply “How many people saw it?” but “How independent were their observations?”
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28-overview.webp" | relative_url }}" alt="Overview image for Mass Sightings" loading="eager" decoding="sync" fetchpriority="high">
-This matters because some of the most memorable UFO waves are not single-witness errors. They involve families, crowds, police officers, pilots, newsrooms, local authorities and online communities. Multiple witnesses can help confirm that something was really visible. They can also turn a confusing ordinary stimulus — a planet, aircraft, satellite train, rocket plume, balloon, drone or radar artefact — into a socially amplified event. Modern UAP investigators therefore place more value on [independent records]({{ 'independent-records/' | relative_url }}), precise timing, sensor metadata and reconstructable sightlines than on witness numbers alone. NASA’s UAP study stressed that many cases suffer from limited high-quality observations rather than from a lack of public interest, while AARO has resolved many reported cases as balloons, birds, drones, [satellites]({{ 'satellites/' | relative_url }}) and aircraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
+This matters because some of the most memorable UFO waves are not single-witness errors. They involve families, crowds, police officers, pilots, newsrooms, local authorities and online communities. Multiple witnesses can help confirm that something was really visible. They can also turn a confusing ordinary stimulus — a planet, aircraft, satellite train, rocket plume, balloon, drone or radar artefact — into a socially amplified event. Modern UAP investigators therefore place more value on [independent records]({{ 'independent-records/' | relative_url }}), precise timing, sensor metadata and reconstructable sightlines than on witness numbers alone. NASA’s UAP study stressed that many cases suffer from limited high-quality observations rather than from a lack of public interest, while AARO has resolved many reported cases as balloons, birds, drones, [satellites]({{ 'satellites/' | relative_url }}) and aircraft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
 
 ## Why many witnesses can still share one mistake
 
@@ -514,18 +514,18 @@ Group viewing adds a second layer. Once one person labels the sight as “a UFO�
 
 That is why mass sightings are strongest when the accounts are separated before discussion, recorded quickly and tied to independent information such as photographs, radar, flight data, satellite ephemerides, [weather records]({{ 'weather-records/' | relative_url }}) or astronomical positions. They are weaker when later accounts appear after publicity, when witnesses have compared stories, or when the report depends on a single community narrative.
 
-The same principle appears outside UFO cases. The 1954 Seattle windshield pitting episode was not a sky sighting, but it is a useful warning about social amplification. Residents began noticing tiny marks on car windscreens and reports spread rapidly through news coverage and public concern; HistoryLink describes the panic reaching a “fever pitch” on 15 April 1954, with explanations ranging from vandals to cosmic rays and H-bomb fallout. The lesson for UFO analysis is not that every mass sighting is “hysteria”, but that attention can make people notice, report and interpret ambiguous stimuli in a newly shared way. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historylink.org/File/5136" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historylink.org">[HistoryLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historylink.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The same principle appears outside UFO cases. The 1954 Seattle windshield pitting episode was not a sky sighting, but it is a useful warning about social amplification. Residents began noticing tiny marks on car windscreens and reports spread rapidly through news coverage and public concern; HistoryLink describes the panic reaching a “fever pitch” on 15 April 1954, with explanations ranging from vandals to cosmic rays and H-bomb fallout. The lesson for UFO analysis is not that every mass sighting is “hysteria”, but that attention can make people notice, report and interpret ambiguous stimuli in a newly shared way.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historylink.org/File/5136" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historylink.org">[HistoryLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historylink.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28-Illustration-1-dark.svg" | relative_url }}" alt="Mass Sightings illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Shared sky conditions create shared reports
 
 The simplest reason groups report the same unusual object is that they are all exposed to the same viewing geometry. A bright astronomical object low on the horizon can be seen by thousands of people across a region. A rocket plume can be visible over several countries. A satellite train can cross many towns in minutes. A weather balloon can drift slowly across a wide area. The witnesses are independent people, but the cause is not independent.
 
-This is especially important for modern satellite and launch-related IFOs. Starlink satellite trains have repeatedly produced UFO reports because newly deployed satellites can appear as a striking line of lights moving across the sky. Space.com explains that these trains are most visible shortly after launch, especially after sunset or before sunrise, when satellites reflect sunlight while the ground below is dark. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">Best viewing occurs just after sunset or before sunrise when satellites reflect sunlight while Earth’s surface is dark. Starlink orbits E...</span></span></span> The effect is unfamiliar enough that local newsrooms and police forces often receive clusters of calls, even though the cause is predictable from orbital data.
+This is especially important for modern satellite and launch-related IFOs. Starlink satellite trains have repeatedly produced UFO reports because newly deployed satellites can appear as a striking line of lights moving across the sky. Space.com explains that these trains are most visible shortly after launch, especially after sunset or before sunrise, when satellites reflect sunlight while the ground below is dark.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">Best viewing occurs just after sunset or before sunrise when satellites reflect sunlight while Earth’s surface is dark. Starlink orbits E...</span></span></span> The effect is unfamiliar enough that local newsrooms and police forces often receive clusters of calls, even though the cause is predictable from orbital data.
 
-Aviation cases show the same pattern at higher stakes. A 2024 technical case study reconstructed an August 2022 event in which five pilots on two commercial flights over the Pacific reported a UAP; the authors used Starlink orbital data and flight-tracking information to show how a recently launched satellite train could generate multiple corroborating reports from trained observers. Their point was not that pilots are unreliable, but that unusual illumination and poor space-situational awareness can make ordinary satellites look anomalous even to professionals. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Aviation cases show the same pattern at higher stakes. A 2024 technical case study reconstructed an August 2022 event in which five pilots on two commercial flights over the Pacific reported a UAP; the authors used Starlink orbital data and flight-tracking information to show how a recently launched satellite train could generate multiple corroborating reports from trained observers. Their point was not that pilots are unreliable, but that unusual illumination and poor space-situational awareness can make ordinary satellites look anomalous even to professionals.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Rocket plumes and fuel dumps can be even more dramatic because they change shape. In March 2025, a glowing spiral seen across the UK and parts of Europe prompted speculation online before being traced to a SpaceX Falcon 9 rocket effect: frozen or vaporised exhaust material reflecting sunlight high above a darkened ground. The Guardian reported that the display was visible for several minutes across Britain and Europe; the Washington Post described the same broad European sighting pattern and the physics of vented fuel forming a luminous spiral. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2025/mar/25/alien-hopes-crash-to-earth-glowing-spiral-uk-spacex-rocket" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Rocket plumes and fuel dumps can be even more dramatic because they change shape. In March 2025, a glowing spiral seen across the UK and parts of Europe prompted speculation online before being traced to a SpaceX Falcon 9 rocket effect: frozen or vaporised exhaust material reflecting sunlight high above a darkened ground. The Guardian reported that the display was visible for several minutes across Britain and Europe; the Washington Post described the same broad European sighting pattern and the physics of vented fuel forming a luminous spiral.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2025/mar/25/alien-hopes-crash-to-earth-glowing-spiral-uk-spacex-rocket" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 In all these cases, the number of witnesses confirms that something was visible. It does not, by itself, confirm that the object was close, huge, intelligently controlled or exotic.
 
@@ -535,11 +535,11 @@ In all these cases, the number of witnesses confirms that something was visible.
 
 Mass UFO reports often grow after a first story enters circulation. The first witnesses may describe a puzzling light; the local paper reports “mysterious objects”; social media repeats the most dramatic clips; later observers go outside expecting to see something unusual. That expectation changes the reporting environment.
 
-The Belgian UFO wave of 1989–1990 is a classic example because it contains both valuable and problematic evidence. There were many [civilian reports]({{ 'civilian-reports/' | relative_url }}), some police observations and a well-known F-16 scramble. Yet the case also shows how waves can accumulate reports after the fact. Accounts of the major 30 March 1990 night reportedly grew in the following days and weeks, and a famous triangular photograph associated with the wave was later admitted by Patrick Maréchal to have been a hoax. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Belgian_UFO_wave" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Belgian UFO wave</span><span class="citation-popover-snippet">Belgian UFO wave</span></span></span>
+The Belgian UFO wave of 1989–1990 is a classic example because it contains both valuable and problematic evidence. There were many [civilian reports]({{ 'civilian-reports/' | relative_url }}), some police observations and a well-known F-16 scramble. Yet the case also shows how waves can accumulate reports after the fact. Accounts of the major 30 March 1990 night reportedly grew in the following days and weeks, and a famous triangular photograph associated with the wave was later admitted by Patrick Maréchal to have been a hoax.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Belgian_UFO_wave" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Belgian UFO wave</span><span class="citation-popover-snippet">Belgian UFO wave</span></span></span>
 
 This does not reduce the entire Belgian wave to a single fake photograph. It shows why mass cases need careful sorting. Some witnesses may have seen aircraft, stars, helicopters, balloons, unusual atmospheric effects, or genuine unknowns. Others may have retrospectively fitted later details into earlier memories. A wave is not one case; it is a bundle of reports produced under shared public attention.
 
-Social amplification also explains why reports cluster around cultural moments. During periods of intense UFO coverage, people are more likely to interpret ambiguous lights as UFOs and more likely to report them. Project Blue Book’s own historical material recognised that many UFO reports were eventually identified as ordinary things, including aircraft, astronomical bodies, meteorological phenomena and satellites; it also noted that satellite reports rose with both public interest and the increasing number of satellites in the sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[Defense Security Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">Defense Security Service Project Blue Book</span><span class="citation-popover-snippet">Defense Security Service Project Blue Book</span></span></span>
+Social amplification also explains why reports cluster around cultural moments. During periods of intense UFO coverage, people are more likely to interpret ambiguous lights as UFOs and more likely to report them. Project Blue Book’s own historical material recognised that many UFO reports were eventually identified as ordinary things, including aircraft, astronomical bodies, meteorological phenomena and satellites; it also noted that satellite reports rose with both public interest and the increasing number of satellites in the sky.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[Defense Security Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">Defense Security Service Project Blue Book</span><span class="citation-popover-snippet">Defense Security Service Project Blue Book</span></span></span>
 
 The pattern is not “people imagine everything”. It is subtler: people see real things, but rumour supplies the frame. Once a community expects mystery in the sky, more ordinary sky events are collected under that label.
 
@@ -552,9 +552,9 @@ A useful investigation separates different kinds of “many witnesses” instead
 
 **A regional wave of reports** can be stronger if the reports are time-stamped and geographically separated. But it can also be weaker if the wave lasts weeks, receives heavy publicity and contains many vague sightings with different descriptions. A wave may be a mixture of causes, not one object seen repeatedly.
 
-**Professional witnesses** can add useful observational discipline, especially when they record time, direction, altitude estimate and instrument data. But pilots, police officers and military personnel still face the same geometric limits as everyone else when looking at distant lights without range. The Starlink aviation case shows that trained observers can give sincere, corroborating accounts of an unfamiliar but conventional satellite configuration. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Professional witnesses** can add useful observational discipline, especially when they record time, direction, altitude estimate and instrument data. But pilots, police officers and military personnel still face the same geometric limits as everyone else when looking at distant lights without range. The Starlink aviation case shows that trained observers can give sincere, corroborating accounts of an unfamiliar but conventional satellite configuration.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-**Sensor-linked sightings** are potentially stronger, but only if the sensor record is interpretable. Radar returns, infrared video and camera footage need metadata: range, angle, calibration, platform movement, weather and possible artefacts. NASA’s UAP report emphasised that analysis is hampered when observations are not consistent, detailed and curated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
+**Sensor-linked sightings** are potentially stronger, but only if the sensor record is interpretable. Radar returns, infrared video and camera footage need metadata: range, angle, calibration, platform movement, weather and possible artefacts. NASA’s UAP report emphasised that analysis is hampered when observations are not consistent, detailed and curated.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
 
 The strongest mass-sighting evidence therefore comes from convergence without contamination: separate observers, separate locations, rapid recording, matching times, and independent records that point to the same physical stimulus.
 
@@ -578,7 +578,7 @@ The practical test for a mass sighting is whether it can be reconstructed. A rep
 
 This is why “twenty people saw it” can be less useful than “three people in different places recorded it at 21:14, looking west-north-west, while a known rocket plume was sunlit at altitude”. Numbers are persuasive to readers, but geometry and timing are persuasive to investigators.
 
-[AARO]({{ 'aaro/' | relative_url }})’s recent public case material illustrates the same approach. Its official imagery page lists cases resolved as balloons, migratory birds or not anomalous alongside unresolved or still-analysed cases, showing that modern UAP work depends on matching reports to mundane candidates where the data allow it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span> Its 2024 public messaging likewise says that hundreds of cases have been resolved as commonplace objects, while a small percentage remain potentially anomalous and require more focused inquiry. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">dod examining unidentified anomalous phenomena</span><span class="citation-popover-snippet">dod examining unidentified anomalous phenomena</span></span></span>
+[AARO]({{ 'aaro/' | relative_url }})’s recent public case material illustrates the same approach. Its official imagery page lists cases resolved as balloons, migratory birds or not anomalous alongside unresolved or still-analysed cases, showing that modern UAP work depends on matching reports to mundane candidates where the data allow it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span> Its 2024 public messaging likewise says that hundreds of cases have been resolved as commonplace objects, while a small percentage remain potentially anomalous and require more focused inquiry.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">dod examining unidentified anomalous phenomena</span><span class="citation-popover-snippet">dod examining unidentified anomalous phenomena</span></span></span>
 
 That distinction is important. Social amplification does not prove a case false. It explains why witness numbers alone cannot carry the weight often placed on them.
 
@@ -615,194 +615,194 @@ Mass sightings sit at the boundary between evidence and amplification. They can 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_W7SqS6UhE4" title="The Condon Report | NASA&#x27;s Unexplained Files" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_W7SqS6UhE4" target="_blank" rel="noopener noreferrer">The Condon Report | NASA&#x27;s Unexplained Files</a></p><p class="youtube-embed-meta">Channel: Science Channel &middot; Views: 17.4K &middot; Uploaded: April 2012 &middot; Length: 1 minute 56 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_W7SqS6UhE4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_W7SqS6UhE4">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Groups Can Share One Mistake. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Groups Can Share One Mistake. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Addresses patterns in UFO reports and witness testimony.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses patterns in UFO reports and witness testimony.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides case studies involving multiple witnesses.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides case studies involving multiple witnesses.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
-        </h4>
-        <p class="fr-book-author">By Charles Mackay</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
-        <p class="fr-book-desc">Explores how beliefs can spread through groups.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
+</h4>
+<p class="fr-book-author">By Charles Mackay</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
+<p class="fr-book-desc">Explores how beliefs can spread through groups.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">Explains confirmation and memory effects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains confirmation and memory effects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-sightings-why-groups-can-share-one-mistake-ifos-causes-of-radar-display-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display print" data-ebay-reference="mass-sightings-why-groups-can-share-one-mistake-ifos-causes-of-radar-display-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Photo:Radio Radar Materials Display 1940s Exhibits Electronics"><img src="{{ '/assets/images/marketplace-covers/a1abf39f8976f27ec67f.jpg' | relative_url }}" alt="Listing image for Photo:Radio Radar Materials Display 1940s Exhibits Electronics" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-sightings-why-groups-can-share-one-mistake-ifos-causes-of-radar-display-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display print" data-ebay-reference="mass-sightings-why-groups-can-share-one-mistake-ifos-causes-of-radar-display-print" target="_blank" rel="sponsored noopener noreferrer">Photo:Radio Radar Materials Display 1940s Exhibits Electronics</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-sightings-why-groups-can-share-one-mistake-ifos-causes-of-radar-display-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display print" data-ebay-reference="mass-sightings-why-groups-can-share-one-mistake-ifos-causes-of-radar-display-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radar display print">Search <span data-ebay-domain-label>eBay.co.uk</span>: radar display print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-sightings-why-groups-can-share-one-mistake-ifos-causes-of-radar-display-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display print" data-ebay-reference="mass-sightings-why-groups-can-share-one-mistake-ifos-causes-of-radar-display-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-sightings-why-groups-can-share-one-mistake-ifos-causes-of-radar-display-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display print" data-ebay-reference="mass-sightings-why-groups-can-share-one-mistake-ifos-causes-of-radar-display-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Photo:Radio Radar Materials Display 1940s Exhibits Electronics"><img src="{{ '/assets/images/marketplace-covers/a1abf39f8976f27ec67f.jpg' | relative_url }}" alt="Listing image for Photo:Radio Radar Materials Display 1940s Exhibits Electronics" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-sightings-why-groups-can-share-one-mistake-ifos-causes-of-radar-display-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display print" data-ebay-reference="mass-sightings-why-groups-can-share-one-mistake-ifos-causes-of-radar-display-print" target="_blank" rel="sponsored noopener noreferrer">Photo:Radio Radar Materials Display 1940s Exhibits Electronics</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-sightings-why-groups-can-share-one-mistake-ifos-causes-of-radar-display-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display print" data-ebay-reference="mass-sightings-why-groups-can-share-one-mistake-ifos-causes-of-radar-display-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radar display print">Search<span data-ebay-domain-label>eBay.co.uk</span>: radar display print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-sightings-why-groups-can-share-one-mistake-ifos-causes-of-radar-display-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display print" data-ebay-reference="mass-sightings-why-groups-can-share-one-mistake-ifos-causes-of-radar-display-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-sightings-why-groups-can-share-one-mistake-ifos-causes-of-radar-display-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display print" data-ebay-reference="mass-sightings-why-groups-can-share-one-mistake-ifos-causes-of-radar-display-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SDC Vintage 1984 U.S. Air Force TM-1B Radar Display Simulator Print Ad"><img src="{{ '/assets/images/marketplace-covers/8d08851ef6333ed05a69.jpg' | relative_url }}" alt="Listing image for SDC Vintage 1984 U.S. Air Force TM-1B Radar Display Simulator Print Ad" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-sightings-why-groups-can-share-one-mistake-ifos-causes-of-radar-display-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display print" data-ebay-reference="mass-sightings-why-groups-can-share-one-mistake-ifos-causes-of-radar-display-print" target="_blank" rel="sponsored noopener noreferrer">SDC Vintage 1984 U.S. Air Force TM-1B Radar Display Simulator Print Ad</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-sightings-why-groups-can-share-one-mistake-ifos-causes-of-radar-display-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display print" data-ebay-reference="mass-sightings-why-groups-can-share-one-mistake-ifos-causes-of-radar-display-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radar display print">Search <span data-ebay-domain-label>eBay.co.uk</span>: radar display print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-sightings-why-groups-can-share-one-mistake-ifos-causes-of-radar-display-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display print" data-ebay-reference="mass-sightings-why-groups-can-share-one-mistake-ifos-causes-of-radar-display-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-sightings-why-groups-can-share-one-mistake-ifos-causes-of-radar-display-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display print" data-ebay-reference="mass-sightings-why-groups-can-share-one-mistake-ifos-causes-of-radar-display-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SDC Vintage 1984 U.S. Air Force TM-1B Radar Display Simulator Print Ad"><img src="{{ '/assets/images/marketplace-covers/8d08851ef6333ed05a69.jpg' | relative_url }}" alt="Listing image for SDC Vintage 1984 U.S. Air Force TM-1B Radar Display Simulator Print Ad" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-sightings-why-groups-can-share-one-mistake-ifos-causes-of-radar-display-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display print" data-ebay-reference="mass-sightings-why-groups-can-share-one-mistake-ifos-causes-of-radar-display-print" target="_blank" rel="sponsored noopener noreferrer">SDC Vintage 1984 U.S. Air Force TM-1B Radar Display Simulator Print Ad</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-sightings-why-groups-can-share-one-mistake-ifos-causes-of-radar-display-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display print" data-ebay-reference="mass-sightings-why-groups-can-share-one-mistake-ifos-causes-of-radar-display-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radar display print">Search<span data-ebay-domain-label>eBay.co.uk</span>: radar display print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-sightings-why-groups-can-share-one-mistake-ifos-causes-of-radar-display-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display print" data-ebay-reference="mass-sightings-why-groups-can-share-one-mistake-ifos-causes-of-radar-display-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-sightings-why-groups-can-share-one-mistake-ifos-causes-of-radar-display-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display print" data-ebay-reference="mass-sightings-why-groups-can-share-one-mistake-ifos-causes-of-radar-display-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motorola Vintage Print Ad Totalscope Radar Display 1972 Electronics"><img src="{{ '/assets/images/marketplace-covers/1ea5fff3b185f0e8fcaa.jpg' | relative_url }}" alt="Listing image for Motorola Vintage Print Ad Totalscope Radar Display 1972 Electronics" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-sightings-why-groups-can-share-one-mistake-ifos-causes-of-radar-display-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display print" data-ebay-reference="mass-sightings-why-groups-can-share-one-mistake-ifos-causes-of-radar-display-print" target="_blank" rel="sponsored noopener noreferrer">Motorola Vintage Print Ad Totalscope Radar Display 1972 Electronics</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-sightings-why-groups-can-share-one-mistake-ifos-causes-of-radar-display-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display print" data-ebay-reference="mass-sightings-why-groups-can-share-one-mistake-ifos-causes-of-radar-display-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radar display print">Search <span data-ebay-domain-label>eBay.co.uk</span>: radar display print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-sightings-why-groups-can-share-one-mistake-ifos-causes-of-radar-display-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display print" data-ebay-reference="mass-sightings-why-groups-can-share-one-mistake-ifos-causes-of-radar-display-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-sightings-why-groups-can-share-one-mistake-ifos-causes-of-radar-display-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display print" data-ebay-reference="mass-sightings-why-groups-can-share-one-mistake-ifos-causes-of-radar-display-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motorola Vintage Print Ad Totalscope Radar Display 1972 Electronics"><img src="{{ '/assets/images/marketplace-covers/1ea5fff3b185f0e8fcaa.jpg' | relative_url }}" alt="Listing image for Motorola Vintage Print Ad Totalscope Radar Display 1972 Electronics" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-sightings-why-groups-can-share-one-mistake-ifos-causes-of-radar-display-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display print" data-ebay-reference="mass-sightings-why-groups-can-share-one-mistake-ifos-causes-of-radar-display-print" target="_blank" rel="sponsored noopener noreferrer">Motorola Vintage Print Ad Totalscope Radar Display 1972 Electronics</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-sightings-why-groups-can-share-one-mistake-ifos-causes-of-radar-display-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display print" data-ebay-reference="mass-sightings-why-groups-can-share-one-mistake-ifos-causes-of-radar-display-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radar display print">Search<span data-ebay-domain-label>eBay.co.uk</span>: radar display print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-sightings-why-groups-can-share-one-mistake-ifos-causes-of-radar-display-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display print" data-ebay-reference="mass-sightings-why-groups-can-share-one-mistake-ifos-causes-of-radar-display-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-sightings-why-groups-can-share-one-mistake-ifos-causes-of-radar-display-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display print" data-ebay-reference="mass-sightings-why-groups-can-share-one-mistake-ifos-causes-of-radar-display-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Signaal 1980 Vintage 2pg Print Ad 2 Four-Colour Radar Display"><img src="{{ '/assets/images/marketplace-covers/b85bf3186a55e545beb3.jpg' | relative_url }}" alt="Listing image for Signaal 1980 Vintage 2pg Print Ad 2 Four-Colour Radar Display" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-sightings-why-groups-can-share-one-mistake-ifos-causes-of-radar-display-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display print" data-ebay-reference="mass-sightings-why-groups-can-share-one-mistake-ifos-causes-of-radar-display-print" target="_blank" rel="sponsored noopener noreferrer">Signaal 1980 Vintage 2pg Print Ad 2 Four-Colour Radar Display</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-sightings-why-groups-can-share-one-mistake-ifos-causes-of-radar-display-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display print" data-ebay-reference="mass-sightings-why-groups-can-share-one-mistake-ifos-causes-of-radar-display-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radar display print">Search <span data-ebay-domain-label>eBay.co.uk</span>: radar display print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-sightings-why-groups-can-share-one-mistake-ifos-causes-of-radar-display-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display print" data-ebay-reference="mass-sightings-why-groups-can-share-one-mistake-ifos-causes-of-radar-display-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-sightings-why-groups-can-share-one-mistake-ifos-causes-of-radar-display-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display print" data-ebay-reference="mass-sightings-why-groups-can-share-one-mistake-ifos-causes-of-radar-display-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-sightings-why-groups-can-share-one-mistake-ifos-causes-of-radar-display-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display print" data-ebay-reference="mass-sightings-why-groups-can-share-one-mistake-ifos-causes-of-radar-display-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Signaal 1980 Vintage 2pg Print Ad 2 Four-Colour Radar Display"><img src="{{ '/assets/images/marketplace-covers/b85bf3186a55e545beb3.jpg' | relative_url }}" alt="Listing image for Signaal 1980 Vintage 2pg Print Ad 2 Four-Colour Radar Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-sightings-why-groups-can-share-one-mistake-ifos-causes-of-radar-display-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display print" data-ebay-reference="mass-sightings-why-groups-can-share-one-mistake-ifos-causes-of-radar-display-print" target="_blank" rel="sponsored noopener noreferrer">Signaal 1980 Vintage 2pg Print Ad 2 Four-Colour Radar Display</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-sightings-why-groups-can-share-one-mistake-ifos-causes-of-radar-display-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display print" data-ebay-reference="mass-sightings-why-groups-can-share-one-mistake-ifos-causes-of-radar-display-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radar display print">Search<span data-ebay-domain-label>eBay.co.uk</span>: radar display print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-sightings-why-groups-can-share-one-mistake-ifos-causes-of-radar-display-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display print" data-ebay-reference="mass-sightings-why-groups-can-share-one-mistake-ifos-causes-of-radar-display-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-sightings-why-groups-can-share-one-mistake-ifos-causes-of-radar-display-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display print" data-ebay-reference="mass-sightings-why-groups-can-share-one-mistake-ifos-causes-of-radar-display-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -818,7 +818,7 @@ Mass sightings sit at the boundary between evidence and amplification. They can 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -838,7 +838,7 @@ Mass sightings sit at the boundary between evidence and amplification. They can 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -870,7 +870,7 @@ Mass sightings sit at the boundary between evidence and amplification. They can 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -922,7 +922,7 @@ Mass sightings sit at the boundary between evidence and amplification. They can 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -967,7 +967,7 @@ Mass sightings sit at the boundary between evidence and amplification. They can 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1008,167 +1008,167 @@ Mass sightings sit at the boundary between evidence and amplification. They can 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: historylink.org  
-   Link: <a href="https://www.historylink.org/File/5136" target="_blank" rel="noopener noreferrer nofollow">https://www.historylink.org/File/5136</a>  
+   Link:<a href="https://www.historylink.org/File/5136" target="_blank" rel="noopener noreferrer nofollow">https://www.historylink.org/File/5136</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: space.com  
    Title: Starlink satellite train: how to see and track it in the night sky  
-   Link: <a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Best viewing occurs just after sunset or before sunrise when satellites reflect sunlight while Earth’s surface is dark. Starlink orbits E...</p></details>
+   Link:<a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Best viewing occurs just after sunset or before sunrise when satellites reflect sunlight while Earth’s surface is dark. Starlink orbits E...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
+   Link:<a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Belgian UFO wave  
-   Link: <a href="https://en.wikipedia.org/wiki/Belgian_UFO_wave" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Belgian_UFO_wave</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Belgian_UFO_wave" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Belgian_UFO_wave</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Psychosocial UFO hypothesis  
-   Link: <a href="https://en.wikipedia.org/wiki/Psychosocial_UFO_hypothesis" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Psychosocial_UFO_hypothesis</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Psychosocial_UFO_hypothesis" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Psychosocial_UFO_hypothesis</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Psychological perspectives on UFO claims  
-   Link: <a href="https://en.wikipedia.org/wiki/Psychological_perspectives_on_UFO_claims" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Psychological_perspectives_on_UFO_claims</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Psychological_perspectives_on_UFO_claims" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Psychological_perspectives_on_UFO_claims</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Seattle windshield pitting epidemic  
-   Link: <a href="https://en.wikipedia.org/wiki/Seattle_windshield_pitting_epidemic" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Seattle_windshield_pitting_epidemic</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Seattle_windshield_pitting_epidemic" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Seattle_windshield_pitting_epidemic</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
    Title: List of mass panic cases  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_mass_panic_cases" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_mass_panic_cases</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_mass_panic_cases" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_mass_panic_cases</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
    Title: Condon Committee  
-   Link: <a href="https://en.wikipedia.org/wiki/Condon_Committee" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Condon_Committee</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Condon_Committee" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Condon_Committee</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Mass psychogenic illness  
-   Link: <a href="https://en.wikipedia.org/wiki/Mass_psychogenic_illness" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mass_psychogenic_illness</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Mass_psychogenic_illness" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mass_psychogenic_illness</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: media.defense.gov  
    Title: FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508  
-   Link: <a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: content.time.com  
-   Link: <a href="https://content.time.com/time/specials/packages/article/0%2C28804%2C2072479_2072478_2072515%2C00.html" target="_blank" rel="noopener noreferrer nofollow">https://content.time.com/time/specials/packages/article/0%2C28804%2C2072479_2072478_2072515%2C00.html</a>  
+   Link:<a href="https://content.time.com/time/specials/packages/article/0%2C28804%2C2072479_2072478_2072515%2C00.html" target="_blank" rel="noopener noreferrer nofollow">https://content.time.com/time/specials/packages/article/0%2C28804%2C2072479_2072478_2072515%2C00.html</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2025/mar/25/alien-hopes-crash-to-earth-glowing-spiral-uk-spacex-rocket" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2025/mar/25/alien-hopes-crash-to-earth-glowing-spiral-uk-spacex-rocket</a>  
+   Link:<a href="https://www.theguardian.com/world/2025/mar/25/alien-hopes-crash-to-earth-glowing-spiral-uk-spacex-rocket" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2025/mar/25/alien-hopes-crash-to-earth-glowing-spiral-uk-spacex-rocket</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: esd.whs.mil  
    Title: Defense Security Service Project Blue Book  
-   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837</a>  
+   Link:<a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: syfy.com  
    Title: spacex satellites are now being mistaken for ufos and making astronomers rage  
-   Link: <a href="https://www.syfy.com/syfy-wire/spacex-satellites-are-now-being-mistaken-for-ufos-and-making-astronomers-rage" target="_blank" rel="noopener noreferrer nofollow">https://www.syfy.com/syfy-wire/spacex-satellites-are-now-being-mistaken-for-ufos-and-making-astronomers-rage</a>  
+   Link:<a href="https://www.syfy.com/syfy-wire/spacex-satellites-are-now-being-mistaken-for-ufos-and-making-astronomers-rage" target="_blank" rel="noopener noreferrer nofollow">https://www.syfy.com/syfy-wire/spacex-satellites-are-now-being-mistaken-for-ufos-and-making-astronomers-rage</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: futurism.com  
    Title: spacex starlink satellites ufos  
-   Link: <a href="https://futurism.com/the-byte/spacex-starlink-satellites-ufos" target="_blank" rel="noopener noreferrer nofollow">https://futurism.com/the-byte/spacex-starlink-satellites-ufos</a>  
+   Link:<a href="https://futurism.com/the-byte/spacex-starlink-satellites-ufos" target="_blank" rel="noopener noreferrer nofollow">https://futurism.com/the-byte/spacex-starlink-satellites-ufos</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: history.com  
    Title: mysterious illnesses mass hysteria  
-   Link: <a href="https://www.history.com/articles/mysterious-illnesses-mass-hysteria" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/mysterious-illnesses-mass-hysteria</a>  
+   Link:<a href="https://www.history.com/articles/mysterious-illnesses-mass-hysteria" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/mysterious-illnesses-mass-hysteria</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: independent.co.uk  
-   Link: <a href="https://www.independent.co.uk/tech/spacex-satellite-ufo-internet-elon-musk-starlink-a9473896.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/tech/spacex-satellite-ufo-internet-elon-musk-starlink-a9473896.html</a>  
+   Link:<a href="https://www.independent.co.uk/tech/spacex-satellite-ufo-internet-elon-musk-starlink-a9473896.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/tech/spacex-satellite-ufo-internet-elon-musk-starlink-a9473896.html</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
+   Link:<a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: unsolved.com  
    Title: Belgian UFO  
-   Link: <a href="https://unsolved.com/gallery/belgian-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/belgian-ufo/</a>  
+   Link:<a href="https://unsolved.com/gallery/belgian-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/belgian-ufo/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: foxnews.com  
-   Link: <a href="https://www.foxnews.com/science/spacex-starlink-satellites-not-ufos-spotted-in-night-sky-over-washington-state-report" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/science/spacex-starlink-satellites-not-ufos-spotted-in-night-sky-over-washington-state-report</a>  
+   Link:<a href="https://www.foxnews.com/science/spacex-starlink-satellites-not-ufos-spotted-in-night-sky-over-washington-state-report" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/science/spacex-starlink-satellites-not-ufos-spotted-in-night-sky-over-washington-state-report</a>  
 
 ### Additional References
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP90-00552R000303250001-9.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP90-00552R000303250001-9.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/CIA-RDP90-00552R000303250001-9.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP90-00552R000303250001-9.pdf</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/376441474_Psychological_aspects_in_unidentified_anomalous_phenomena_UAP_witnesses" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376441474_Psychological_aspects_in_unidentified_anomalous_phenomena_UAP_witnesses</a>  
+   Link:<a href="https://www.researchgate.net/publication/376441474_Psychological_aspects_in_unidentified_anomalous_phenomena_UAP_witnesses" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376441474_Psychological_aspects_in_unidentified_anomalous_phenomena_UAP_witnesses</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/download/aliensinskies00unit/aliensinskies00unit.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/aliensinskies00unit/aliensinskies00unit.pdf</a>  
+   Link:<a href="https://archive.org/download/aliensinskies00unit/aliensinskies00unit.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/aliensinskies00unit/aliensinskies00unit.pdf</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/WiltshireBBC/posts/do-you-remember-the-warminster-thing-the-sightings-well-known-among-locals-and-u/1350532837072946/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WiltshireBBC/posts/do-you-remember-the-warminster-thing-the-sightings-well-known-among-locals-and-u/1350532837072946/</a>  
+   Link:<a href="https://www.facebook.com/WiltshireBBC/posts/do-you-remember-the-warminster-thing-the-sightings-well-known-among-locals-and-u/1350532837072946/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WiltshireBBC/posts/do-you-remember-the-warminster-thing-the-sightings-well-known-among-locals-and-u/1350532837072946/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: cobeps.org  
-   Link: <a href="https://www.cobeps.org/pdf/belgian_wave_130310.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cobeps.org/pdf/belgian_wave_130310.pdf</a>  
+   Link:<a href="https://www.cobeps.org/pdf/belgian_wave_130310.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cobeps.org/pdf/belgian_wave_130310.pdf</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/2365809903441367/posts/27187048340890846/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/27187048340890846/</a>  
+   Link:<a href="https://www.facebook.com/groups/2365809903441367/posts/27187048340890846/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/27187048340890846/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/space/comments/15n15b1/its_starlink/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/15n15b1/its_starlink/</a>  
+   Link:<a href="https://www.reddit.com/r/space/comments/15n15b1/its_starlink/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/15n15b1/its_starlink/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/social-sciences-and-humanities/mass-hysteria" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/social-sciences-and-humanities/mass-hysteria</a>  
+   Link:<a href="https://www.ebsco.com/research-starters/social-sciences-and-humanities/mass-hysteria" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/social-sciences-and-humanities/mass-hysteria</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ThaiPBSWorld/posts/members-of-an-independent-nasa-panel-studying-ufos-or-what-the-us-government-now/6692013127510627/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ThaiPBSWorld/posts/members-of-an-independent-nasa-panel-studying-ufos-or-what-the-us-government-now/6692013127510627/</a>  
+   Link:<a href="https://www.facebook.com/ThaiPBSWorld/posts/members-of-an-independent-nasa-panel-studying-ufos-or-what-the-us-government-now/6692013127510627/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ThaiPBSWorld/posts/members-of-an-independent-nasa-panel-studying-ufos-or-what-the-us-government-now/6692013127510627/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NewsNationNow/posts/mysterious-sightings-in-the-sky-are-likely-[drones" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/mysterious-sightings-in-the-sky-are-likely-[drones</a>
+   Link:<a href="https://www.facebook.com/NewsNationNow/posts/mysterious-sightings-in-the-sky-are-likely-[drones" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/mysterious-sightings-in-the-sky-are-likely-[drones</a>

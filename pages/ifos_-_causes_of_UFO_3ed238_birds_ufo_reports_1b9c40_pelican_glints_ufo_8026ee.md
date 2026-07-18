@@ -268,14 +268,14 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40_pelic
 
 ## Introduction
 
-Large white pelicans can, under the right viewing conditions, resemble the classic “silver disc” descriptions found in some UFO reports. At long [range]({{ 'range/' | relative_url }}), observers lose reliable cues to size, shape and distance. A pelican banking in bright sunlight may appear first as a brilliant metallic flash, then as a dark sliver, and then disappear altogether as its broad wings turn edge-on to the observer. This sequence can create the impression of a reflective object that changes shape, accelerates, or vanishes suddenly. Such effects have made pelicans a recurring candidate explanation in discussions of certain historical UFO sightings, particularly those involving bright flashes and apparently disc-like objects seen against clear skies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://lurch2.blogspot.com/2013/08/kenneth-arnold-ufo-sighting.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lurch2.blogspot.com">[Lurch2]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lurch2.blogspot.com</span><span class="citation-popover-title">kenneth arnold ufo sighting</span><span class="citation-popover-snippet">Kenneth Arnold UFO sighting25 Aug 2013 — James Easton was the first of several skeptics to suggest that Arnold may have misidentifi...</span></span></span>
+Large white pelicans can, under the right viewing conditions, resemble the classic “silver disc” descriptions found in some UFO reports. At long [range]({{ 'range/' | relative_url }}), observers lose reliable cues to size, shape and distance. A pelican banking in bright sunlight may appear first as a brilliant metallic flash, then as a dark sliver, and then disappear altogether as its broad wings turn edge-on to the observer. This sequence can create the impression of a reflective object that changes shape, accelerates, or vanishes suddenly. Such effects have made pelicans a recurring candidate explanation in discussions of certain historical UFO sightings, particularly those involving bright flashes and apparently disc-like objects seen against clear skies.<span class="citation-chip-wrap"><a class="citation-chip" href="https://lurch2.blogspot.com/2013/08/kenneth-arnold-ufo-sighting.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lurch2.blogspot.com">[Lurch2]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lurch2.blogspot.com</span><span class="citation-popover-title">kenneth arnold ufo sighting</span><span class="citation-popover-snippet">Kenneth Arnold UFO sighting25 Aug 2013 — James Easton was the first of several skeptics to suggest that Arnold may have misidentifi...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40_pelican_glints_ufo_8026ee-Illustration-1-dark.svg" | relative_url }}" alt="Pelican glints illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40_pelican_glints_ufo_8026ee-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40_pelican_glints_ufo_8026ee-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Can Pelicans Look Like Silver Discs?
 
-The answer is yes—at least from a distance and under favourable lighting conditions. American white pelicans are among the largest flying birds in North America, with broad pale wings and dark outer flight feathers. When sunlight strikes the white surfaces at the correct angle, the bird can produce intense flashes that resemble [reflections]({{ 'reflections/' | relative_url }}) from polished metal. As the bird changes orientation, those reflections can disappear almost instantly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://lurch2.blogspot.com/2013/08/kenneth-arnold-ufo-sighting.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lurch2.blogspot.com">[Lurch2]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lurch2.blogspot.com</span><span class="citation-popover-title">kenneth arnold ufo sighting</span><span class="citation-popover-snippet">Kenneth Arnold UFO sighting25 Aug 2013 — James Easton was the first of several skeptics to suggest that Arnold may have misidentifi...</span></span></span>
+The answer is yes—at least from a distance and under favourable lighting conditions. American white pelicans are among the largest flying birds in North America, with broad pale wings and dark outer flight feathers. When sunlight strikes the white surfaces at the correct angle, the bird can produce intense flashes that resemble [reflections]({{ 'reflections/' | relative_url }}) from polished metal. As the bird changes orientation, those reflections can disappear almost instantly.<span class="citation-chip-wrap"><a class="citation-chip" href="https://lurch2.blogspot.com/2013/08/kenneth-arnold-ufo-sighting.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lurch2.blogspot.com">[Lurch2]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lurch2.blogspot.com</span><span class="citation-popover-title">kenneth arnold ufo sighting</span><span class="citation-popover-snippet">Kenneth Arnold UFO sighting25 Aug 2013 — James Easton was the first of several skeptics to suggest that Arnold may have misidentifi...</span></span></span>
 
-Unlike an aircraft, a soaring pelican often spends long periods gliding without visible wingbeats. When viewed at great distance, its body and wings may merge into a single bright shape. The observer may perceive only the reflected sunlight rather than a recognisable bird outline. A flock can amplify the effect, producing a sequence of flashes that seem to come from multiple structured objects rather than individual animals. <span class="citation-chip-wrap"><a class="citation-chip" href="https://lurch2.blogspot.com/2013/08/kenneth-arnold-ufo-sighting.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lurch2.blogspot.com">[Lurch2]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lurch2.blogspot.com</span><span class="citation-popover-title">kenneth arnold ufo sighting</span><span class="citation-popover-snippet">Kenneth Arnold UFO sighting25 Aug 2013 — James Easton was the first of several skeptics to suggest that Arnold may have misidentifi...</span></span></span>
+Unlike an aircraft, a soaring pelican often spends long periods gliding without visible wingbeats. When viewed at great distance, its body and wings may merge into a single bright shape. The observer may perceive only the reflected sunlight rather than a recognisable bird outline. A flock can amplify the effect, producing a sequence of flashes that seem to come from multiple structured objects rather than individual animals.<span class="citation-chip-wrap"><a class="citation-chip" href="https://lurch2.blogspot.com/2013/08/kenneth-arnold-ufo-sighting.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lurch2.blogspot.com">[Lurch2]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lurch2.blogspot.com</span><span class="citation-popover-title">kenneth arnold ufo sighting</span><span class="citation-popover-snippet">Kenneth Arnold UFO sighting25 Aug 2013 — James Easton was the first of several skeptics to suggest that Arnold may have misidentifi...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uPOjpabUZSQ" title="Pelican-American white Pelican with relaxing music 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uPOjpabUZSQ" target="_blank" rel="noopener noreferrer">Pelican-American white Pelican with relaxing music 2022</a></p><p class="youtube-embed-meta">Channel: Landscape Universe &middot; Views: 29 &middot; Uploaded: March 2022 &middot; Length: 3 minutes 49 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uPOjpabUZSQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uPOjpabUZSQ">Open on YouTube</a></p></div></div></div>
 
@@ -292,7 +292,7 @@ The visual characteristics of pelicans create several opportunities for misident
 
 </div>
 
-These factors become particularly important when the observer is many kilometres away. Human vision is excellent at detecting contrast and movement but poor at judging the size of distant objects without reference points. A large bird can therefore be interpreted as a much larger object located far away. <span class="citation-chip-wrap"><a class="citation-chip" href="https://lurch2.blogspot.com/2013/08/kenneth-arnold-ufo-sighting.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lurch2.blogspot.com">[Lurch2]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lurch2.blogspot.com</span><span class="citation-popover-title">kenneth arnold ufo sighting</span><span class="citation-popover-snippet">Kenneth Arnold UFO sighting25 Aug 2013 — James Easton was the first of several skeptics to suggest that Arnold may have misidentifi...</span></span></span>
+These factors become particularly important when the observer is many kilometres away. Human vision is excellent at detecting contrast and movement but poor at judging the size of distant objects without reference points. A large bird can therefore be interpreted as a much larger object located far away.<span class="citation-chip-wrap"><a class="citation-chip" href="https://lurch2.blogspot.com/2013/08/kenneth-arnold-ufo-sighting.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lurch2.blogspot.com">[Lurch2]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lurch2.blogspot.com</span><span class="citation-popover-title">kenneth arnold ufo sighting</span><span class="citation-popover-snippet">Kenneth Arnold UFO sighting25 Aug 2013 — James Easton was the first of several skeptics to suggest that Arnold may have misidentifi...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xLuHgsXGpqc" title="Kenneth Arnold UFO Sighting The First UFOs - Jimmy Akin&#x27;s Mysterious World" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xLuHgsXGpqc" target="_blank" rel="noopener noreferrer">Kenneth Arnold UFO Sighting The First UFOs - Jimmy Akin&#x27;s Mysterious World</a></p><p class="youtube-embed-meta">Channel: Jimmy Akin &middot; Views: 10.0K &middot; Uploaded: October 2025 &middot; Length: 1 hour 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xLuHgsXGpqc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xLuHgsXGpqc">Open on YouTube</a></p></div></div></div>
 
@@ -300,18 +300,18 @@ These factors become particularly important when the observer is many kilometres
 
 One of the most puzzling features in many metallic-disc reports is the claim that an object suddenly vanished. Pelicans provide a straightforward optical mechanism for this effect.
 
-When a large bird banks, the visible area presented to the observer can change dramatically. A broad white wing seen face-on may create a bright flash. Moments later, the same wing viewed edge-on reflects little light and occupies only a tiny angular size. Against a bright sky, the bird can become effectively invisible. As it banks again, it reappears. To a witness unfamiliar with the geometry of the situation, the object seems to blink in and out of existence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kenneth Arnold UFO sighting</span><span class="citation-popover-snippet">Kenneth Arnold UFO sighting</span></span></span>
+When a large bird banks, the visible area presented to the observer can change dramatically. A broad white wing seen face-on may create a bright flash. Moments later, the same wing viewed edge-on reflects little light and occupies only a tiny angular size. Against a bright sky, the bird can become effectively invisible. As it banks again, it reappears. To a witness unfamiliar with the geometry of the situation, the object seems to blink in and out of existence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kenneth Arnold UFO sighting</span><span class="citation-popover-snippet">Kenneth Arnold UFO sighting</span></span></span>
 
-Distance compounds the illusion. At [ranges]({{ 'ranges/' | relative_url }}) where the bird itself cannot be resolved, the observer is effectively tracking a moving reflection rather than a recognisable animal. The result is a sighting dominated by flashes, shape changes and apparent disappearances—features commonly reported in metallic UFO accounts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1947 flying disc craze</span><span class="citation-popover-snippet">1947 flying disc crazeIn 1947, from June to July, a rash of reported sightings of unidentified flying objects (UFOs) in the United Sta...</span></span></span>
+Distance compounds the illusion. At [ranges]({{ 'ranges/' | relative_url }}) where the bird itself cannot be resolved, the observer is effectively tracking a moving reflection rather than a recognisable animal. The result is a sighting dominated by flashes, shape changes and apparent disappearances—features commonly reported in metallic UFO accounts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1947 flying disc craze</span><span class="citation-popover-snippet">1947 flying disc crazeIn 1947, from June to July, a rash of reported sightings of unidentified flying objects (UFOs) in the United Sta...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40_pelican_glints_ufo_8026ee-Illustration-2-dark.svg" | relative_url }}" alt="Pelican glints illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40_pelican_glints_ufo_8026ee-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40_pelican_glints_ufo_8026ee-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Kenneth Arnold and the Contested Pelican Comparison
 
-The most famous pelican-related UFO debate concerns the 24 June 1947 sighting by pilot Kenneth Arnold near Mount Rainier, the event that helped launch the modern “flying saucer” era. Arnold reported seeing nine highly reflective objects that produced bright flashes and appeared to move in an unusual formation. He described moments when the objects seemed extremely thin, nearly vanished from view, and then emitted mirror-like flashes as they turned. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kenneth_Arnold" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kenneth Arnold</span><span class="citation-popover-snippet">Kenneth Arnold</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Flight_105_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Flight 105 UFO sighting</span><span class="citation-popover-snippet">Flight 105 UFO sighting</span></span></span>
+The most famous pelican-related UFO debate concerns the 24 June 1947 sighting by pilot Kenneth Arnold near Mount Rainier, the event that helped launch the modern “flying saucer” era. Arnold reported seeing nine highly reflective objects that produced bright flashes and appeared to move in an unusual formation. He described moments when the objects seemed extremely thin, nearly vanished from view, and then emitted mirror-like flashes as they turned.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kenneth_Arnold" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kenneth Arnold</span><span class="citation-popover-snippet">Kenneth Arnold</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Flight_105_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Flight 105 UFO sighting</span><span class="citation-popover-snippet">Flight 105 UFO sighting</span></span></span>
 
-Decades later, some sceptical researchers proposed that pelicans could account for aspects of Arnold’s observation. James Easton and other proponents of the idea argued that pelicans are large, pale birds capable of producing bright reflections, and that their crescent-like profile during certain phases of flight resembles some of Arnold’s later sketches. They also noted that pelicans occur in the Pacific Northwest and can fly at considerable altitudes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://lurch2.blogspot.com/2013/08/kenneth-arnold-ufo-sighting.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lurch2.blogspot.com">[Lurch2]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lurch2.blogspot.com</span><span class="citation-popover-title">kenneth arnold ufo sighting</span><span class="citation-popover-snippet">Kenneth Arnold UFO sighting25 Aug 2013 — James Easton was the first of several skeptics to suggest that Arnold may have misidentifi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://martinshough.com/aerialphenomena/Arnold%20analysis2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: martinshough.com">[2martinshough.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">martinshough.com</span><span class="citation-popover-title">The Singular Adventure of Mr Kenneth Arnold</span><span class="citation-popover-snippet">Nickell is incorrect. There are no such...Read more...</span></span></span>
+Decades later, some sceptical researchers proposed that pelicans could account for aspects of Arnold’s observation. James Easton and other proponents of the idea argued that pelicans are large, pale birds capable of producing bright reflections, and that their crescent-like profile during certain phases of flight resembles some of Arnold’s later sketches. They also noted that pelicans occur in the Pacific Northwest and can fly at considerable altitudes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://lurch2.blogspot.com/2013/08/kenneth-arnold-ufo-sighting.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lurch2.blogspot.com">[Lurch2]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lurch2.blogspot.com</span><span class="citation-popover-title">kenneth arnold ufo sighting</span><span class="citation-popover-snippet">Kenneth Arnold UFO sighting25 Aug 2013 — James Easton was the first of several skeptics to suggest that Arnold may have misidentifi...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://martinshough.com/aerialphenomena/Arnold%20analysis2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: martinshough.com">[2martinshough.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">martinshough.com</span><span class="citation-popover-title">The Singular Adventure of Mr Kenneth Arnold</span><span class="citation-popover-snippet">Nickell is incorrect. There are no such...Read more...</span></span></span>
 
-The comparison remains controversial. Critics point out that Arnold was an experienced pilot who specifically considered and rejected the possibility that he was looking at birds. They also argue that the reported formation length, estimated speed and duration of the sighting are difficult to reconcile with a flock of pelicans. Arnold himself stated that he initially wondered whether the flashes might come from birds before dismissing the idea. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/kenneth-arnold" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[History As a result]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">Kenneth Arnold</span><span class="citation-popover-snippet">UFO, 1947 &amp; Flying Saucer22 Feb 2010 — Regarding the June 1947 sighting over Mount Rainier, Air Force investigators deemed both Arnold an...</span><span class="citation-popover-meta">Published: June 1947</span></span></span>, the pelican hypothesis has never become a consensus explanation for the Arnold sighting. Instead, it is best understood as a demonstration of how closely some bird-flight effects overlap with classic UFO descriptions. Even if pelicans do not explain that particular case, the comparison highlights the optical mechanisms by which bright birds can generate reports of reflective discs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://martinshough.com/aerialphenomena/Arnold%20analysis2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: martinshough.com">[martinshough.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">martinshough.com</span><span class="citation-popover-title">The Singular Adventure of Mr Kenneth Arnold</span><span class="citation-popover-snippet">Nickell is incorrect. There are no such...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">1947 year flying saucer</span><span class="citation-popover-snippet">National Air and Space Museum1947: Year of the Flying Saucer24 Jun 2022 — Whatever Kenneth Arnold saw remains unexplained but subsequent...</span></span></span>
+The comparison remains controversial. Critics point out that Arnold was an experienced pilot who specifically considered and rejected the possibility that he was looking at birds. They also argue that the reported formation length, estimated speed and duration of the sighting are difficult to reconcile with a flock of pelicans. Arnold himself stated that he initially wondered whether the flashes might come from birds before dismissing the idea.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/kenneth-arnold" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[History As a result]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">Kenneth Arnold</span><span class="citation-popover-snippet">UFO, 1947 &amp; Flying Saucer22 Feb 2010 — Regarding the June 1947 sighting over Mount Rainier, Air Force investigators deemed both Arnold an...</span><span class="citation-popover-meta">Published: June 1947</span></span></span>, the pelican hypothesis has never become a consensus explanation for the Arnold sighting. Instead, it is best understood as a demonstration of how closely some bird-flight effects overlap with classic UFO descriptions. Even if pelicans do not explain that particular case, the comparison highlights the optical mechanisms by which bright birds can generate reports of reflective discs.<span class="citation-chip-wrap"><a class="citation-chip" href="https://martinshough.com/aerialphenomena/Arnold%20analysis2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: martinshough.com">[martinshough.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">martinshough.com</span><span class="citation-popover-title">The Singular Adventure of Mr Kenneth Arnold</span><span class="citation-popover-snippet">Nickell is incorrect. There are no such...Read more...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">1947 year flying saucer</span><span class="citation-popover-snippet">National Air and Space Museum1947: Year of the Flying Saucer24 Jun 2022 — Whatever Kenneth Arnold saw remains unexplained but subsequent...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JWQNHJL90v4" title="Hundreds of Birds ‘Free Fall’ Out of the Sky" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JWQNHJL90v4" target="_blank" rel="noopener noreferrer">Hundreds of Birds ‘Free Fall’ Out of the Sky</a></p><p class="youtube-embed-meta">Channel: Inside Edition &middot; Views: 6.4M &middot; Uploaded: February 2022 &middot; Length: 1 minute 1 second</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JWQNHJL90v4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JWQNHJL90v4">Open on YouTube</a></p></div></div></div>
 
@@ -329,199 +329,199 @@ The importance of the pelican comparison lies less in any single case than in th
 
 </div>
 
-These characteristics overlap strikingly with recurring descriptions of silver discs, shining craft and flashing aerial objects. In investigations of UFO reports, pelicans therefore serve as a useful reminder that unusual appearance does not necessarily require unusual objects. Sometimes the combination of distance, lighting and bird flight is enough to transform a familiar animal into something that looks remarkably like a metallic flying saucer. <span class="citation-chip-wrap"><a class="citation-chip" href="https://lurch2.blogspot.com/2013/08/kenneth-arnold-ufo-sighting.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lurch2.blogspot.com">[Lurch2]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lurch2.blogspot.com</span><span class="citation-popover-title">kenneth arnold ufo sighting</span><span class="citation-popover-snippet">Kenneth Arnold UFO sighting25 Aug 2013 — James Easton was the first of several skeptics to suggest that Arnold may have misidentifi...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kenneth Arnold UFO sighting</span><span class="citation-popover-snippet">Kenneth Arnold UFO sighting</span></span></span>
+These characteristics overlap strikingly with recurring descriptions of silver discs, shining craft and flashing aerial objects. In investigations of UFO reports, pelicans therefore serve as a useful reminder that unusual appearance does not necessarily require unusual objects. Sometimes the combination of distance, lighting and bird flight is enough to transform a familiar animal into something that looks remarkably like a metallic flying saucer.<span class="citation-chip-wrap"><a class="citation-chip" href="https://lurch2.blogspot.com/2013/08/kenneth-arnold-ufo-sighting.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lurch2.blogspot.com">[Lurch2]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lurch2.blogspot.com</span><span class="citation-popover-title">kenneth arnold ufo sighting</span><span class="citation-popover-snippet">Kenneth Arnold UFO sighting25 Aug 2013 — James Easton was the first of several skeptics to suggest that Arnold may have misidentifi...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kenneth Arnold UFO sighting</span><span class="citation-popover-snippet">Kenneth Arnold UFO sighting</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40_pelican_glints_ufo_8026ee-Illustration-3-dark.svg" | relative_url }}" alt="Pelican glints illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40_pelican_glints_ufo_8026ee-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40_pelican_glints_ufo_8026ee-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can Pelicans Look Like Silver Discs?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can Pelicans Look Like Silver Discs?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Covers how ordinary objects and observation limits can produce UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers how ordinary objects and observation limits can produce UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+We+Know+What+Isn%27t+So+by+Thomas+Gilovich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How We Know What Isn&#x27;t So on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LURGkHCPAJEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How We Know What Isn&#x27;t So" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+We+Know+What+Isn%27t+So+by+Thomas+Gilovich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How We Know What Isn&#x27;t So">How We Know What Isn&#x27;t So</a>
-        </h4>
-        <p class="fr-book-author">By Thomas Gilovich</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 6 Google Books ratings</p>
-        <p class="fr-book-desc">Explains misperception and pattern interpretation relevant to fast-looking bird videos.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+We+Know+What+Isn%27t+So+by+Thomas+Gilovich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+We+Know+What+Isn%27t+So+by+Thomas+Gilovich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How We Know What Isn&#x27;t So on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LURGkHCPAJEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How We Know What Isn&#x27;t So" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+We+Know+What+Isn%27t+So+by+Thomas+Gilovich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How We Know What Isn&#x27;t So">How We Know What Isn&#x27;t So</a>
+</h4>
+<p class="fr-book-author">By Thomas Gilovich</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 6 Google Books ratings</p>
+<p class="fr-book-desc">Explains misperception and pattern interpretation relevant to fast-looking bird videos.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+We+Know+What+Isn%27t+So+by+Thomas+Gilovich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides contrast between unexplained reports and conventional explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides contrast between unexplained reports and conventional explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=National+Geographic+field+guide+to+the+birds+of+North+America+Jon+Dunn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open National Geographic field guide to the birds of North America on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/557180-M.jpg" alt="Cover for National Geographic field guide to the birds of North America" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=National+Geographic+field+guide+to+the+birds+of+North+America+Jon+Dunn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="National Geographic field guide to the birds of North America">National Geographic field guide to the birds of North America</a>
-        </h4>
-        <p class="fr-book-author">By Jon Dunn, Jon L. Dunn et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=National+Geographic+field+guide+to+the+birds+of+North+America+Jon+Dunn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open National Geographic field guide to the birds of North America on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/557180-M.jpg" alt="Cover for National Geographic field guide to the birds of North America" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=National+Geographic+field+guide+to+the+birds+of+North+America+Jon+Dunn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="National Geographic field guide to the birds of North America">National Geographic field guide to the birds of North America</a>
+</h4>
+<p class="fr-book-author">By Jon Dunn, Jon L. Dunn et al.</p>
         
-        <p class="fr-book-desc">First published 2006. Subjects: Identification, Birds, Birds &amp; birdwatching, Birds (ornithology), Bird Watching.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=National+Geographic+field+guide+to+the+birds+of+North+America+Jon+Dunn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2006. Subjects: Identification, Birds, Birds &amp; birdwatching, Birds (ornithology), Bird Watching.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=National+Geographic+field+guide+to+the+birds+of+North+America+Jon+Dunn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+We+Know+What+Isn%27t+So&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How We Know What Isn&#x27;t So</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+We+Know+What+Isn%27t+So&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How We Know What Isn&#x27;t So</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=pelican+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-pelicans-look-like-silver-discs-pelican-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pelican art print" data-ebay-reference="can-pelicans-look-like-silver-discs-pelican-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for American White Pelican Wall Art, Vintage Bird Illustration Print by John James"><img src="https://i.ebayimg.com/images/g/tZYAAOSwBvBlldpz/s-l225.jpg" alt="Listing image for American White Pelican Wall Art, Vintage Bird Illustration Print by John James" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pelican+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-pelicans-look-like-silver-discs-pelican-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pelican art print" data-ebay-reference="can-pelicans-look-like-silver-discs-pelican-art-print" target="_blank" rel="sponsored noopener noreferrer">American White Pelican Wall Art, Vintage Bird Illustration Print by John James</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=pelican+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-pelicans-look-like-silver-discs-pelican-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pelican art print" data-ebay-reference="can-pelicans-look-like-silver-discs-pelican-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for pelican art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: pelican art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pelican+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-pelicans-look-like-silver-discs-pelican-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pelican art print" data-ebay-reference="can-pelicans-look-like-silver-discs-pelican-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=pelican+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-pelicans-look-like-silver-discs-pelican-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pelican art print" data-ebay-reference="can-pelicans-look-like-silver-discs-pelican-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for American White Pelican Wall Art, Vintage Bird Illustration Print by John James"><img src="https://i.ebayimg.com/images/g/tZYAAOSwBvBlldpz/s-l225.jpg" alt="Listing image for American White Pelican Wall Art, Vintage Bird Illustration Print by John James" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=pelican+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-pelicans-look-like-silver-discs-pelican-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pelican art print" data-ebay-reference="can-pelicans-look-like-silver-discs-pelican-art-print" target="_blank" rel="sponsored noopener noreferrer">American White Pelican Wall Art, Vintage Bird Illustration Print by John James</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=pelican+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-pelicans-look-like-silver-discs-pelican-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pelican art print" data-ebay-reference="can-pelicans-look-like-silver-discs-pelican-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for pelican art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: pelican art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=pelican+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-pelicans-look-like-silver-discs-pelican-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pelican art print" data-ebay-reference="can-pelicans-look-like-silver-discs-pelican-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=pelican+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-pelicans-look-like-silver-discs-pelican-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pelican art print" data-ebay-reference="can-pelicans-look-like-silver-discs-pelican-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Framed Brown Pelican by John James Audubon Nature Art Poster Print Wall Art"><img src="https://i.ebayimg.com/images/g/8igAAOSwS0Rlw1mT/s-l225.jpg" alt="Listing image for Framed Brown Pelican by John James Audubon Nature Art Poster Print Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pelican+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-pelicans-look-like-silver-discs-pelican-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pelican art print" data-ebay-reference="can-pelicans-look-like-silver-discs-pelican-art-print" target="_blank" rel="sponsored noopener noreferrer">Framed Brown Pelican by John James Audubon Nature Art Poster Print Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=pelican+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-pelicans-look-like-silver-discs-pelican-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pelican art print" data-ebay-reference="can-pelicans-look-like-silver-discs-pelican-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for pelican art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: pelican art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pelican+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-pelicans-look-like-silver-discs-pelican-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pelican art print" data-ebay-reference="can-pelicans-look-like-silver-discs-pelican-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=pelican+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-pelicans-look-like-silver-discs-pelican-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pelican art print" data-ebay-reference="can-pelicans-look-like-silver-discs-pelican-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Framed Brown Pelican by John James Audubon Nature Art Poster Print Wall Art"><img src="https://i.ebayimg.com/images/g/8igAAOSwS0Rlw1mT/s-l225.jpg" alt="Listing image for Framed Brown Pelican by John James Audubon Nature Art Poster Print Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=pelican+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-pelicans-look-like-silver-discs-pelican-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pelican art print" data-ebay-reference="can-pelicans-look-like-silver-discs-pelican-art-print" target="_blank" rel="sponsored noopener noreferrer">Framed Brown Pelican by John James Audubon Nature Art Poster Print Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=pelican+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-pelicans-look-like-silver-discs-pelican-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pelican art print" data-ebay-reference="can-pelicans-look-like-silver-discs-pelican-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for pelican art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: pelican art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=pelican+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-pelicans-look-like-silver-discs-pelican-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pelican art print" data-ebay-reference="can-pelicans-look-like-silver-discs-pelican-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=pelican+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-pelicans-look-like-silver-discs-pelican-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pelican art print" data-ebay-reference="can-pelicans-look-like-silver-discs-pelican-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for American White Pelican by John James Audubon - Canvas Wall Art Framed Print"><img src="https://i.ebayimg.com/images/g/W5UAAOSwGxpiM1Gz/s-l225.jpg" alt="Listing image for American White Pelican by John James Audubon - Canvas Wall Art Framed Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pelican+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-pelicans-look-like-silver-discs-pelican-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pelican art print" data-ebay-reference="can-pelicans-look-like-silver-discs-pelican-art-print" target="_blank" rel="sponsored noopener noreferrer">American White Pelican by John James Audubon - Canvas Wall Art Framed Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=pelican+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-pelicans-look-like-silver-discs-pelican-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pelican art print" data-ebay-reference="can-pelicans-look-like-silver-discs-pelican-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for pelican art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: pelican art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pelican+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-pelicans-look-like-silver-discs-pelican-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pelican art print" data-ebay-reference="can-pelicans-look-like-silver-discs-pelican-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=pelican+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-pelicans-look-like-silver-discs-pelican-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pelican art print" data-ebay-reference="can-pelicans-look-like-silver-discs-pelican-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for American White Pelican by John James Audubon - Canvas Wall Art Framed Print"><img src="https://i.ebayimg.com/images/g/W5UAAOSwGxpiM1Gz/s-l225.jpg" alt="Listing image for American White Pelican by John James Audubon - Canvas Wall Art Framed Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=pelican+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-pelicans-look-like-silver-discs-pelican-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pelican art print" data-ebay-reference="can-pelicans-look-like-silver-discs-pelican-art-print" target="_blank" rel="sponsored noopener noreferrer">American White Pelican by John James Audubon - Canvas Wall Art Framed Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=pelican+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-pelicans-look-like-silver-discs-pelican-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pelican art print" data-ebay-reference="can-pelicans-look-like-silver-discs-pelican-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for pelican art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: pelican art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=pelican+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-pelicans-look-like-silver-discs-pelican-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pelican art print" data-ebay-reference="can-pelicans-look-like-silver-discs-pelican-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=pelican+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-pelicans-look-like-silver-discs-pelican-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pelican art print" data-ebay-reference="can-pelicans-look-like-silver-discs-pelican-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage American White Pelican Art Original Framed Wall Art Print Large Picture"><img src="https://i.ebayimg.com/images/g/JywAAeSwgHhpv~KO/s-l225.jpg" alt="Listing image for Vintage American White Pelican Art Original Framed Wall Art Print Large Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pelican+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-pelicans-look-like-silver-discs-pelican-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pelican art print" data-ebay-reference="can-pelicans-look-like-silver-discs-pelican-art-print" target="_blank" rel="sponsored noopener noreferrer">Vintage American White Pelican Art Original Framed Wall Art Print Large Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=pelican+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-pelicans-look-like-silver-discs-pelican-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pelican art print" data-ebay-reference="can-pelicans-look-like-silver-discs-pelican-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for pelican art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: pelican art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pelican+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-pelicans-look-like-silver-discs-pelican-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pelican art print" data-ebay-reference="can-pelicans-look-like-silver-discs-pelican-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=pelican+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-pelicans-look-like-silver-discs-pelican-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pelican art print" data-ebay-reference="can-pelicans-look-like-silver-discs-pelican-art-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=pelican+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-pelicans-look-like-silver-discs-pelican-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pelican art print" data-ebay-reference="can-pelicans-look-like-silver-discs-pelican-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage American White Pelican Art Original Framed Wall Art Print Large Picture"><img src="https://i.ebayimg.com/images/g/JywAAeSwgHhpv~KO/s-l225.jpg" alt="Listing image for Vintage American White Pelican Art Original Framed Wall Art Print Large Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=pelican+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-pelicans-look-like-silver-discs-pelican-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pelican art print" data-ebay-reference="can-pelicans-look-like-silver-discs-pelican-art-print" target="_blank" rel="sponsored noopener noreferrer">Vintage American White Pelican Art Original Framed Wall Art Print Large Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=pelican+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-pelicans-look-like-silver-discs-pelican-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pelican art print" data-ebay-reference="can-pelicans-look-like-silver-discs-pelican-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for pelican art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: pelican art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=pelican+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-pelicans-look-like-silver-discs-pelican-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pelican art print" data-ebay-reference="can-pelicans-look-like-silver-discs-pelican-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=pelican+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-pelicans-look-like-silver-discs-pelican-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pelican art print" data-ebay-reference="can-pelicans-look-like-silver-discs-pelican-art-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -537,7 +537,7 @@ These characteristics overlap strikingly with recurring descriptions of silver d
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -557,7 +557,7 @@ These characteristics overlap strikingly with recurring descriptions of silver d
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -589,7 +589,7 @@ These characteristics overlap strikingly with recurring descriptions of silver d
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -641,7 +641,7 @@ These characteristics overlap strikingly with recurring descriptions of silver d
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -686,7 +686,7 @@ These characteristics overlap strikingly with recurring descriptions of silver d
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -727,108 +727,108 @@ These characteristics overlap strikingly with recurring descriptions of silver d
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Kenneth Arnold UFO sighting  
-   Link: <a href="https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: 1947 flying disc craze  
-   Link: <a href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1947_flying_disc_craze</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1947 flying disc crazeIn 1947, from June to July, a rash of reported sightings of unidentified flying objects (UFOs) in the United Sta...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1947_flying_disc_craze</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1947 flying disc crazeIn 1947, from June to July, a rash of reported sightings of unidentified flying objects (UFOs) in the United Sta...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Kenneth Arnold  
-   Link: <a href="https://en.wikipedia.org/wiki/Kenneth_Arnold" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kenneth_Arnold</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Kenneth_Arnold" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kenneth_Arnold</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: martinshough.com  
    Title: The Singular Adventure of Mr Kenneth Arnold  
-   Link: <a href="https://martinshough.com/aerialphenomena/Arnold%20analysis2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://martinshough.com/aerialphenomena/Arnold%20analysis2.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Nickell is incorrect. There are no such...Read more...</p></details>
+   Link:<a href="https://martinshough.com/aerialphenomena/Arnold%20analysis2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://martinshough.com/aerialphenomena/Arnold%20analysis2.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nickell is incorrect. There are no such...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: space.com  
    Title: Flying Saucers Turn 64!  
-   Link: <a href="https://www.space.com/amp/12066-flying-saucers-turn-64-ufos-origins.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/amp/12066-flying-saucers-turn-64-ufos-origins.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Look Back at the Origin of UFOs23 Jun 2011 — Arnold did see UFOs, but they were probably just pelicans... A crescent-shaped UFO seen a...</p></details>
+   Link:<a href="https://www.space.com/amp/12066-flying-saucers-turn-64-ufos-origins.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/amp/12066-flying-saucers-turn-64-ufos-origins.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Look Back at the Origin of UFOs23 Jun 2011 — Arnold did see UFOs, but they were probably just pelicans... A crescent-shaped UFO seen a...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: history.com  
    Title: Kenneth Arnold  
-   Link: <a href="https://www.history.com/articles/kenneth-arnold" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/kenneth-arnold</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO, 1947 &amp; Flying Saucer22 Feb 2010 — Regarding the June 1947 sighting over Mount Rainier, Air Force investigators deemed both Arnold an...</p></details>
+   Link:<a href="https://www.history.com/articles/kenneth-arnold" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/kenneth-arnold</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO, 1947 &amp; Flying Saucer22 Feb 2010 — Regarding the June 1947 sighting over Mount Rainier, Air Force investigators deemed both Arnold an...</p></details>
    Published: June 1947  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Flight 105 UFO sighting  
-   Link: <a href="https://en.wikipedia.org/wiki/Flight_105_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flight_105_UFO_sighting</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Flight_105_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flight_105_UFO_sighting</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: lurch2.blogspot.com  
    Title: kenneth arnold ufo sighting  
-   Link: <a href="https://lurch2.blogspot.com/2013/08/kenneth-arnold-ufo-sighting.html" target="_blank" rel="noopener noreferrer nofollow">https://lurch2.blogspot.com/2013/08/kenneth-arnold-ufo-sighting.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kenneth Arnold UFO sighting25 Aug 2013 — James Easton was the first of several skeptics to suggest that Arnold may have misidentifi...</p></details>
+   Link:<a href="https://lurch2.blogspot.com/2013/08/kenneth-arnold-ufo-sighting.html" target="_blank" rel="noopener noreferrer nofollow">https://lurch2.blogspot.com/2013/08/kenneth-arnold-ufo-sighting.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kenneth Arnold UFO sighting25 Aug 2013 — James Easton was the first of several skeptics to suggest that Arnold may have misidentifi...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: airandspace.si.edu  
    Title: 1947 year flying saucer  
-   Link: <a href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Air and Space Museum1947: Year of the Flying Saucer24 Jun 2022 — Whatever Kenneth Arnold saw remains unexplained but subsequent...</p></details>
+   Link:<a href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Air and Space Museum1947: Year of the Flying Saucer24 Jun 2022 — Whatever Kenneth Arnold saw remains unexplained but subsequent...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: gutenberg.org  
-   Link: <a href="https://www.gutenberg.org/cache/epub/66639/pg66639-images.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/cache/epub/66639/pg66639-images.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project GutenbergThe World of Flying SaucersArnold&#x27;s Nine Disks. The first man to report a flying saucer was a veteran pilot named Kennet...</p></details>
+   Link:<a href="https://www.gutenberg.org/cache/epub/66639/pg66639-images.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/cache/epub/66639/pg66639-images.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project GutenbergThe World of Flying SaucersArnold&#x27;s Nine Disks. The first man to report a flying saucer was a veteran pilot named Kennet...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/libraryofcongress/posts/on-this-day-in-1947-what-many-consider-to-be-the-first-modern-ufo-sighting-took-/1150298620475987/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/libraryofcongress/posts/on-this-day-in-1947-what-many-consider-to-be-the-first-modern-ufo-sighting-took-/1150298620475987/</a>  
+   Link:<a href="https://www.facebook.com/libraryofcongress/posts/on-this-day-in-1947-what-many-consider-to-be-the-first-modern-ufo-sighting-took-/1150298620475987/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/libraryofcongress/posts/on-this-day-in-1947-what-many-consider-to-be-the-first-modern-ufo-sighting-took-/1150298620475987/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: thedebrief.org  
-   Link: <a href="https://thedebrief.org/after-kenneth-arnold-saw-flying-discs-this-is-the-journalist-who-tracked-one-down/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/after-kenneth-arnold-saw-flying-discs-this-is-the-journalist-who-tracked-one-down/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>After Kenneth Arnold Saw &quot;Flying Discs&quot;, This is...1 Apr 2022 — Recognized as the first UFO sighting of the modern era, there are two li...</p></details>
+   Link:<a href="https://thedebrief.org/after-kenneth-arnold-saw-flying-discs-this-is-the-journalist-who-tracked-one-down/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/after-kenneth-arnold-saw-flying-discs-this-is-the-journalist-who-tracked-one-down/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>After Kenneth Arnold Saw &quot;Flying Discs&quot;, This is...1 Apr 2022 — Recognized as the first UFO sighting of the modern era, there are two li...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/HISTORY/posts/a-pilot-reports-sight-of-a-number-of-flying-discs-near-mount-rainier-historysgre/1536344454725192/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/a-pilot-reports-sight-of-a-number-of-flying-discs-near-mount-rainier-historysgre/1536344454725192/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>mountain in 1947, when pilot Kenneth Arnold reported “nine shining...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/HISTORY/posts/a-pilot-reports-sight-of-a-number-of-flying-discs-near-mount-rainier-historysgre/1536344454725192/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/a-pilot-reports-sight-of-a-number-of-flying-discs-near-mount-rainier-historysgre/1536344454725192/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>mountain in 1947, when pilot Kenneth Arnold reported “nine shining...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: discoveryuk.com  
    Title: legendary flying saucer re examining the kenneth arnold ufo sighting  
-   Link: <a href="https://www.discoveryuk.com/mysteries/legendary-flying-saucer-re-examining-the-kenneth-arnold-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/legendary-flying-saucer-re-examining-the-kenneth-arnold-ufo-sighting/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Arnold&#x27;s account continues to puzzle aviation experts, historians, and UFO researchers alike. Could...Read more...</p></details>
+   Link:<a href="https://www.discoveryuk.com/mysteries/legendary-flying-saucer-re-examining-the-kenneth-arnold-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/legendary-flying-saucer-re-examining-the-kenneth-arnold-ufo-sighting/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Arnold&#x27;s account continues to puzzle aviation experts, historians, and UFO researchers alike. Could...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: dailygrail.com  
    Title: return of the flying saucers re evaluating the kenneth arnold ufo sighting  
-   Link: <a href="https://www.dailygrail.com/2018/07/return-of-the-flying-saucers-re-evaluating-the-kenneth-arnold-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://www.dailygrail.com/2018/07/return-of-the-flying-saucers-re-evaluating-the-kenneth-arnold-ufo-sighting/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It is unique inasmuch as his initial sighting report was born naked, as it were. By...Read more...</p></details>
+   Link:<a href="https://www.dailygrail.com/2018/07/return-of-the-flying-saucers-re-evaluating-the-kenneth-arnold-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://www.dailygrail.com/2018/07/return-of-the-flying-saucers-re-evaluating-the-kenneth-arnold-ufo-sighting/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It is unique inasmuch as his initial sighting report was born naked, as it were. By...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1ffvc1r/the_only_recorded_interview_of_kenneth_arnold/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ffvc1r/the_only_recorded_interview_of_kenneth_arnold/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>re being truly skeptical, we should assume that memory fades over time...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1ffvc1r/the_only_recorded_interview_of_kenneth_arnold/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ffvc1r/the_only_recorded_interview_of_kenneth_arnold/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>re being truly skeptical, we should assume that memory fades over time...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/397526214154529/posts/1264748560765619/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/397526214154529/posts/1264748560765619/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of disc-shaped lenticular clouds, which often form over...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/397526214154529/posts/1264748560765619/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/397526214154529/posts/1264748560765619/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of disc-shaped lenticular clouds, which often form over...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: dn721804.ca.archive.org  
    Title: Bad UFOs critical thinking about UFO claims  
-   Link: <a href="https://dn721804.ca.archive.org/0/items/bad-ufos/Bad%20UFOs%20-%20critical%20thinking%20about%20UFO%20claims.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dn721804.ca.archive.org/0/items/bad-ufos/Bad%20UFOs%20-%20critical%20thinking%20about%20UFO%20claims.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs_ Critical Thinking About UFO Claims14 Jan 2016 — For at least twenty years after Kenneth Arnold&#x27;s sighting, believers expected that...</p></details>
+   Link:<a href="https://dn721804.ca.archive.org/0/items/bad-ufos/Bad%20UFOs%20-%20critical%20thinking%20about%20UFO%20claims.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dn721804.ca.archive.org/0/items/bad-ufos/Bad%20UFOs%20-%20critical%20thinking%20about%20UFO%20claims.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs_ Critical Thinking About UFO Claims14 Jan 2016 — For at least twenty years after Kenneth Arnold&#x27;s sighting, believers expected that...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/vhee5w/kenneth_arnold_most_likely_did_see_flying_discs/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/vhee5w/kenneth_arnold_most_likely_did_see_flying_discs/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>t matter anyway because flying discs go back into history way too...</p></details>
+   Link:<a href="https://www.reddit.com/r/ufo/comments/vhee5w/kenneth_arnold_most_likely_did_see_flying_discs/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/vhee5w/kenneth_arnold_most_likely_did_see_flying_discs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>t matter anyway because flying discs go back into history way too...</p></details>

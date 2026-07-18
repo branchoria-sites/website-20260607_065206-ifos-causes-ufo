@@ -274,12 +274,12 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b_histor
 
 ## Introduction
 
-Many of the most famous [radar]({{ 'radar/' | relative_url }})-visual UFO cases remain unresolved for a surprisingly mundane reason: the original evidence often no longer exists. Investigators reviewing incidents from the 1940s, 1950s and 1960s frequently inherit witness statements, military summaries, newspaper accounts and case files, but not the raw radar plots, equipment logs, weather measurements or recording media that would allow a modern reconstruction. As a result, some historical cases sit in a permanent grey area. They cannot be confidently identified, yet they also cannot be fully reanalysed using modern techniques. This archival problem is especially important when considering UFO reports that involved both human observers and [sensor operators]({{ 'sensor-operators/' | relative_url }}), because radar data can appear highly persuasive while still depending on contextual records that may have been lost decades ago. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">The project closed in 1969 and we have no...Read more...</span></span></span>
+Many of the most famous [radar]({{ 'radar/' | relative_url }})-visual UFO cases remain unresolved for a surprisingly mundane reason: the original evidence often no longer exists. Investigators reviewing incidents from the 1940s, 1950s and 1960s frequently inherit witness statements, military summaries, newspaper accounts and case files, but not the raw radar plots, equipment logs, weather measurements or recording media that would allow a modern reconstruction. As a result, some historical cases sit in a permanent grey area. They cannot be confidently identified, yet they also cannot be fully reanalysed using modern techniques. This archival problem is especially important when considering UFO reports that involved both human observers and [sensor operators]({{ 'sensor-operators/' | relative_url }}), because radar data can appear highly persuasive while still depending on contextual records that may have been lost decades ago.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">The project closed in 1969 and we have no...Read more...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b_historical_radar_vis_05677e-Illustration-1-dark.svg" | relative_url }}" alt="Old records illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b_historical_radar_vis_05677e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b_historical_radar_vis_05677e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Historical Files Often Preserved
 
-Large UFO investigation programmes such as Project Blue Book generated extensive paperwork. Many of those records survive in archives and contain witness interviews, investigator notes, correspondence, sketches, photographs and official conclusions. The U.S. National Archives preserves substantial portions of the Blue Book collection, allowing researchers to revisit many famous incidents. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">The project closed in 1969 and we have no...Read more...</span></span></span>
+Large UFO investigation programmes such as Project Blue Book generated extensive paperwork. Many of those records survive in archives and contain witness interviews, investigator notes, correspondence, sketches, photographs and official conclusions. The U.S. National Archives preserves substantial portions of the Blue Book collection, allowing researchers to revisit many famous incidents.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">The project closed in 1969 and we have no...Read more...</span></span></span>
 
 For radar-visual cases, preserved material often includes:
 
@@ -294,13 +294,13 @@ For radar-visual cases, preserved material often includes:
 
 </div>
 
-These documents are valuable, but they are usually interpretive records rather than the original sensor output. A summary may report that an object appeared to accelerate, change direction or disappear from radar, yet the actual display data that produced that conclusion may no longer be available. Once the raw information is gone, later analysts must rely on how earlier observers described it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case05.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Case 5: B-47 Crew, Radar/Visual SightingThe two other crew members, each of whom had operated a radar monitoring unit in t...</span></span></span>
+These documents are valuable, but they are usually interpretive records rather than the original sensor output. A summary may report that an object appeared to accelerate, change direction or disappear from radar, yet the actual display data that produced that conclusion may no longer be available. Once the raw information is gone, later analysts must rely on how earlier observers described it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case05.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Case 5: B-47 Crew, Radar/Visual SightingThe two other crew members, each of whom had operated a radar monitoring unit in t...</span></span></span>
 
 ## What Raw Records Are Usually Missing
 
 The missing pieces are often the most important ones for modern analysis.
 
-In contemporary aviation investigations, analysts can frequently access digital radar tracks, precise [timestamps]({{ 'timestamps/' | relative_url }}), weather databases, aircraft telemetry and system-health records. Many classic UFO incidents occurred before such information was routinely archived in durable digital form. Radar displays were often observed directly by operators rather than continuously recorded. Magnetic tapes, plotting boards and temporary operational records might be reused, discarded or never preserved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">The project closed in 1969 and we have no...Read more...</span></span></span>
+In contemporary aviation investigations, analysts can frequently access digital radar tracks, precise [timestamps]({{ 'timestamps/' | relative_url }}), weather databases, aircraft telemetry and system-health records. Many classic UFO incidents occurred before such information was routinely archived in durable digital form. Radar displays were often observed directly by operators rather than continuously recorded. Magnetic tapes, plotting boards and temporary operational records might be reused, discarded or never preserved.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">The project closed in 1969 and we have no...Read more...</span></span></span>
 
 Commonly missing materials include:
 
@@ -318,22 +318,22 @@ Commonly missing materials include:
 
 Without these materials, it becomes difficult to test alternative explanations. A modern analyst may suspect anomalous propagation, temperature inversions, clutter, multiple [reflections]({{ 'reflections/' | relative_url }}) or track-processing errors, but proving or disproving those possibilities requires records that no longer exist.
 
-The contrast with modern sensor datasets is striking. Contemporary radar research often preserves enormous quantities of raw measurement data specifically so later investigators can reconstruct events and evaluate competing interpretations. Historical UFO cases rarely provide that level of detail. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1909.01300" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The Oxford Radar RobotCar Dataset: A Radar Extension to the Oxford RobotCar DatasetSeptember 3, 2019...</span><span class="citation-popover-meta">Published: September 3, 2019</span></span></span>
+The contrast with modern sensor datasets is striking. Contemporary radar research often preserves enormous quantities of raw measurement data specifically so later investigators can reconstruct events and evaluate competing interpretations. Historical UFO cases rarely provide that level of detail.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1909.01300" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The Oxford Radar RobotCar Dataset: A Radar Extension to the Oxford RobotCar DatasetSeptember 3, 2019...</span><span class="citation-popover-meta">Published: September 3, 2019</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b_historical_radar_vis_05677e-Illustration-2-dark.svg" | relative_url }}" alt="Old records illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b_historical_radar_vis_05677e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b_historical_radar_vis_05677e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Washington 1952 Cases Still Generate Debate
 
-The Washington, D.C., sightings of July 1952 remain one of the best-known radar-visual UFO episodes. Radar operators at Washington National Airport and Andrews Air Force Base reported unusual targets, while some observers also reported visual sightings. Interceptor aircraft were scrambled, and the events attracted national attention. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufo-archives.com/en/cases/washington-1952/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-archives.com">[UFO ARCHIVES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-archives.com</span><span class="citation-popover-title">washington 1952</span><span class="citation-popover-snippet">UFO ARCHIVESThe Washington 1952 radar visual wave &#124; UFO ARCHIVESOver two July weekends in 1952, radar operators and visual witnesses arou...</span></span></span>
+The Washington, D.C., sightings of July 1952 remain one of the best-known radar-visual UFO episodes. Radar operators at Washington National Airport and Andrews Air Force Base reported unusual targets, while some observers also reported visual sightings. Interceptor aircraft were scrambled, and the events attracted national attention.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufo-archives.com/en/cases/washington-1952/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-archives.com">[UFO ARCHIVES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-archives.com</span><span class="citation-popover-title">washington 1952</span><span class="citation-popover-snippet">UFO ARCHIVESThe Washington 1952 radar visual wave &#124; UFO ARCHIVESOver two July weekends in 1952, radar operators and visual witnesses arou...</span></span></span>
 
-The historical debate is not simply about what the radar showed. It is also about what evidence survives. Researchers possess reports, testimony and official explanations, including discussions of atmospheric conditions that may have affected radar performance. However, later analysts cannot revisit the incident with the same level of technical scrutiny that would be possible if complete raw radar recordings and associated environmental datasets still existed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1952 Washington, D.C. UFO incident</span><span class="citation-popover-snippet">UFO incidentMay 9, 2026 — From July 12 to 29, 1952, a series of unidentified flying object (UFO) sightings were reported in Washington, D...</span><span class="citation-popover-meta">Published: May 9, 2026</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
+The historical debate is not simply about what the radar showed. It is also about what evidence survives. Researchers possess reports, testimony and official explanations, including discussions of atmospheric conditions that may have affected radar performance. However, later analysts cannot revisit the incident with the same level of technical scrutiny that would be possible if complete raw radar recordings and associated environmental datasets still existed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1952 Washington, D.C. UFO incident</span><span class="citation-popover-snippet">UFO incidentMay 9, 2026 — From July 12 to 29, 1952, a series of unidentified flying object (UFO) sightings were reported in Washington, D...</span><span class="citation-popover-meta">Published: May 9, 2026</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
 
 This limitation helps explain why the case remains contested. Different interpretations can be built from the same surviving summaries because the underlying sensor record is incomplete.
 
 ## The RB-47 Incident and the Limits of Reconstruction
 
-The 1957 RB-47 case is often cited as one of the strongest historical radar-visual incidents because it reportedly involved multiple forms of detection, including visual observations, airborne electronic monitoring and radar reports. The incident later received attention from Project Blue Book investigators, independent researchers and the University of Colorado study that produced the Condon Report. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case05.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Case 5: B-47 Crew, Radar/Visual SightingThe two other crew members, each of whom had operated a radar monitoring unit in t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_fsr_16_3_2_70.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirkmcd.princeton.edu">[2kirkmcd.princeton.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirkmcd.princeton.edu</span><span class="citation-popover-title">mcdonald fsr 16 3 2 70</span><span class="citation-popover-snippet">the 1957 gulf coast rb-47 - incidentThis incident is an especially good example of a UFO case in which observer credibility and reli- abi...</span></span></span>
+The 1957 RB-47 case is often cited as one of the strongest historical radar-visual incidents because it reportedly involved multiple forms of detection, including visual observations, airborne electronic monitoring and radar reports. The incident later received attention from Project Blue Book investigators, independent researchers and the University of Colorado study that produced the Condon Report.<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case05.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Case 5: B-47 Crew, Radar/Visual SightingThe two other crew members, each of whom had operated a radar monitoring unit in t...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_fsr_16_3_2_70.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirkmcd.princeton.edu">[2kirkmcd.princeton.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirkmcd.princeton.edu</span><span class="citation-popover-title">mcdonald fsr</span><span class="citation-popover-snippet">the 1957 gulf coast rb-47 - incidentThis incident is an especially good example of a UFO case in which observer credibility and reli- abi...</span></span></span>
 
-Yet even here, where documentation is unusually extensive, later investigators have disagreed sharply about what happened. Competing explanations have included aircraft misidentification, radar-related effects and genuinely unidentified phenomena. The persistence of disagreement reflects a broader historical problem: surviving reports describe the sensor observations, but modern reviewers do not possess a complete sensor archive comparable to what would be expected in a contemporary aviation investigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case05.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Case 5: B-47 Crew, Radar/Visual SightingThe two other crew members, each of whom had operated a radar monitoring unit in t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents2.theblackvault.com/documents/projectbluebook/ProjectBlueBook-RB47-July17-1957.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[2documents2.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-snippet">By Philip J. Klass. This is an... t~at the UFO was not detected on the RB-47 navigation radar. Another example...Read more...</span></span></span>
+Yet even here, where documentation is unusually extensive, later investigators have disagreed sharply about what happened. Competing explanations have included aircraft misidentification, radar-related effects and genuinely unidentified phenomena. The persistence of disagreement reflects a broader historical problem: surviving reports describe the sensor observations, but modern reviewers do not possess a complete sensor archive comparable to what would be expected in a contemporary aviation investigation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case05.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Case 5: B-47 Crew, Radar/Visual SightingThe two other crew members, each of whom had operated a radar monitoring unit in t...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://documents2.theblackvault.com/documents/projectbluebook/ProjectBlueBook-RB47-July17-1957.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[2documents2.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-snippet">By Philip J. Klass. This is an... t~at the UFO was not detected on the RB-47 navigation radar. Another example...Read more...</span></span></span>
 
 The RB-47 case therefore illustrates an important lesson. A well-documented historical case is not necessarily a fully reconstructable case.
 
@@ -344,7 +344,7 @@ When raw records disappear, uncertainty grows in several specific ways.
 
 ### Alternative explanations become harder to test
 
-Many ordinary causes of unusual radar tracks depend on environmental and technical details. Temperature inversions, anomalous propagation, clutter and multipath reflections can all create confusing displays. Modern researchers can evaluate such possibilities only if sufficient operational data survive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1909.01300" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The Oxford Radar RobotCar Dataset: A Radar Extension to the Oxford RobotCar DatasetSeptember 3, 2019...</span><span class="citation-popover-meta">Published: September 3, 2019</span></span></span>
+Many ordinary causes of unusual radar tracks depend on environmental and technical details. Temperature inversions, anomalous propagation, clutter and multipath reflections can all create confusing displays. Modern researchers can evaluate such possibilities only if sufficient operational data survive.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1909.01300" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The Oxford Radar RobotCar Dataset: A Radar Extension to the Oxford RobotCar DatasetSeptember 3, 2019...</span><span class="citation-popover-meta">Published: September 3, 2019</span></span></span>
 
 ### Witness accounts gain disproportionate importance
 
@@ -352,201 +352,201 @@ As sensor evidence becomes less complete, investigations increasingly depend on 
 
 ### Confidence can decrease in both directions
 
-Missing records do not prove that an extraordinary event occurred. Equally, they do not prove that a conventional explanation is correct. The loss of evidence often prevents either conclusion from reaching a high level of confidence. This is one reason some historical UFO cases remain classified as unidentified decades later. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">unidentified flying objects and air force project blue book</span><span class="citation-popover-snippet">Air ForceUnidentified Flying Objects and Air Force Project Blue BookWith the termination of Project Blue Book, the Air Force regulation e...</span></span></span>
+Missing records do not prove that an extraordinary event occurred. Equally, they do not prove that a conventional explanation is correct. The loss of evidence often prevents either conclusion from reaching a high level of confidence. This is one reason some historical UFO cases remain classified as unidentified decades later.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">unidentified flying objects and air force project blue book</span><span class="citation-popover-snippet">Air ForceUnidentified Flying Objects and Air Force Project Blue BookWith the termination of Project Blue Book, the Air Force regulation e...</span></span></span>
 
 ## Why Old Radar Cases Stay Mysterious
 
 The enduring mystery of many classic radar-visual UFO reports is often less about exotic technology than about historical record-keeping. Investigators today can examine archives, compare witness statements and review official conclusions, but they frequently lack the underlying sensor data needed to perform a definitive reconstruction. In the context of UFO reports and ambiguous tracking data, that absence matters enormously. A radar operator may have seen something real on a scope, and a witness may have observed something unusual in the sky, yet decades later the most decisive evidence—the raw tracks, calibration records and environmental measurements—may no longer exist. The result is a category of cases that remain unresolved not because they resist every explanation, but because the evidence needed to choose confidently between explanations has been lost.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why old radar cases stay mysterious. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why old radar cases stay mysterious. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Covers classic investigations and historical evidence problems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers classic investigations and historical evidence problems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Discusses radar-visual cases and historical investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses radar-visual cases and historical investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Examines archival records and historical cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines archival records and historical cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides modern perspectives on official case files.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides modern perspectives on official case files.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-radar-cases-stay-mysterious-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="why-old-radar-cases-stay-mysterious-radar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Radar Optimum Home Entertainment Catalogue #8, The Tourist Fold Out Poster #W734"><img src="https://i.ebayimg.com/images/g/HgoAAOSw6lRi6~Aj/s-l225.jpg" alt="Listing image for Radar Optimum Home Entertainment Catalogue #8, The Tourist Fold Out Poster #W734" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-radar-cases-stay-mysterious-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="why-old-radar-cases-stay-mysterious-radar-poster" target="_blank" rel="sponsored noopener noreferrer">Radar Optimum Home Entertainment Catalogue #8, The Tourist Fold Out Poster #W734</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-radar-cases-stay-mysterious-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="why-old-radar-cases-stay-mysterious-radar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: radar poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-radar-cases-stay-mysterious-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="why-old-radar-cases-stay-mysterious-radar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-radar-cases-stay-mysterious-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="why-old-radar-cases-stay-mysterious-radar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Radar Optimum Home Entertainment Catalogue #8, The Tourist Fold Out Poster #W734"><img src="https://i.ebayimg.com/images/g/HgoAAOSw6lRi6~Aj/s-l225.jpg" alt="Listing image for Radar Optimum Home Entertainment Catalogue #8, The Tourist Fold Out Poster #W734" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-radar-cases-stay-mysterious-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="why-old-radar-cases-stay-mysterious-radar-poster" target="_blank" rel="sponsored noopener noreferrer">Radar Optimum Home Entertainment Catalogue #8, The Tourist Fold Out Poster #W734</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-radar-cases-stay-mysterious-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="why-old-radar-cases-stay-mysterious-radar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radar poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: radar poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-radar-cases-stay-mysterious-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="why-old-radar-cases-stay-mysterious-radar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-radar-cases-stay-mysterious-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="why-old-radar-cases-stay-mysterious-radar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for YACHTS WITHOUT RADAR POSTER SIZED original music press advert from 1980 (aged)"><img src="https://i.ebayimg.com/images/g/8ocAAeSwWtdpzlUu/s-l225.jpg" alt="Listing image for YACHTS WITHOUT RADAR POSTER SIZED original music press advert from 1980 (aged)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-radar-cases-stay-mysterious-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="why-old-radar-cases-stay-mysterious-radar-poster" target="_blank" rel="sponsored noopener noreferrer">YACHTS WITHOUT RADAR POSTER SIZED original music press advert from 1980 (aged)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-radar-cases-stay-mysterious-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="why-old-radar-cases-stay-mysterious-radar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: radar poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-radar-cases-stay-mysterious-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="why-old-radar-cases-stay-mysterious-radar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-radar-cases-stay-mysterious-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="why-old-radar-cases-stay-mysterious-radar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for YACHTS WITHOUT RADAR POSTER SIZED original music press advert from 1980 (aged)"><img src="https://i.ebayimg.com/images/g/8ocAAeSwWtdpzlUu/s-l225.jpg" alt="Listing image for YACHTS WITHOUT RADAR POSTER SIZED original music press advert from 1980 (aged)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-radar-cases-stay-mysterious-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="why-old-radar-cases-stay-mysterious-radar-poster" target="_blank" rel="sponsored noopener noreferrer">YACHTS WITHOUT RADAR POSTER SIZED original music press advert from 1980 (aged)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-radar-cases-stay-mysterious-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="why-old-radar-cases-stay-mysterious-radar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radar poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: radar poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-radar-cases-stay-mysterious-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="why-old-radar-cases-stay-mysterious-radar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-radar-cases-stay-mysterious-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="why-old-radar-cases-stay-mysterious-radar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Matt the Radar Technician Framed Ar Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/NXsAAeSwph5p2SLq/s-l225.jpg" alt="Listing image for Matt the Radar Technician Framed Ar Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-radar-cases-stay-mysterious-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="why-old-radar-cases-stay-mysterious-radar-poster" target="_blank" rel="sponsored noopener noreferrer">Matt the Radar Technician Framed Ar Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-radar-cases-stay-mysterious-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="why-old-radar-cases-stay-mysterious-radar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: radar poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-radar-cases-stay-mysterious-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="why-old-radar-cases-stay-mysterious-radar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-radar-cases-stay-mysterious-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="why-old-radar-cases-stay-mysterious-radar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Matt the Radar Technician Framed Ar Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/NXsAAeSwph5p2SLq/s-l225.jpg" alt="Listing image for Matt the Radar Technician Framed Ar Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-radar-cases-stay-mysterious-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="why-old-radar-cases-stay-mysterious-radar-poster" target="_blank" rel="sponsored noopener noreferrer">Matt the Radar Technician Framed Ar Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-radar-cases-stay-mysterious-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="why-old-radar-cases-stay-mysterious-radar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radar poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: radar poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-radar-cases-stay-mysterious-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="why-old-radar-cases-stay-mysterious-radar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-radar-cases-stay-mysterious-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="why-old-radar-cases-stay-mysterious-radar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Radar Technician Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/9MIAAeSwPIZp2SJf/s-l225.jpg" alt="Listing image for Radar Technician Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-radar-cases-stay-mysterious-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="why-old-radar-cases-stay-mysterious-radar-poster" target="_blank" rel="sponsored noopener noreferrer">Radar Technician Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-radar-cases-stay-mysterious-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="why-old-radar-cases-stay-mysterious-radar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: radar poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-radar-cases-stay-mysterious-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="why-old-radar-cases-stay-mysterious-radar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-radar-cases-stay-mysterious-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="why-old-radar-cases-stay-mysterious-radar-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-radar-cases-stay-mysterious-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="why-old-radar-cases-stay-mysterious-radar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Radar Technician Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/9MIAAeSwPIZp2SJf/s-l225.jpg" alt="Listing image for Radar Technician Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-radar-cases-stay-mysterious-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="why-old-radar-cases-stay-mysterious-radar-poster" target="_blank" rel="sponsored noopener noreferrer">Radar Technician Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-radar-cases-stay-mysterious-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="why-old-radar-cases-stay-mysterious-radar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radar poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: radar poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-radar-cases-stay-mysterious-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="why-old-radar-cases-stay-mysterious-radar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-radar-cases-stay-mysterious-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="why-old-radar-cases-stay-mysterious-radar-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -562,7 +562,7 @@ The enduring mystery of many classic radar-visual UFO reports is often less abou
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -582,7 +582,7 @@ The enduring mystery of many classic radar-visual UFO reports is often less abou
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -614,7 +614,7 @@ The enduring mystery of many classic radar-visual UFO reports is often less abou
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -666,7 +666,7 @@ The enduring mystery of many classic radar-visual UFO reports is often less abou
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -711,7 +711,7 @@ The enduring mystery of many classic radar-visual UFO reports is often less abou
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -752,123 +752,123 @@ The enduring mystery of many classic radar-visual UFO reports is often less abou
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The project closed in 1969 and we have no...Read more...</p></details>
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The project closed in 1969 and we have no...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: af.mil  
    Title: unidentified flying objects and air force project blue book  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceUnidentified Flying Objects and Air Force Project Blue BookWith the termination of Project Blue Book, the Air Force regulation e...</p></details>
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceUnidentified Flying Objects and Air Force Project Blue BookWith the termination of Project Blue Book, the Air Force regulation e...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: files.ncas.org  
-   Link: <a href="https://files.ncas.org/condon/text/case05.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/case05.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Condon Report, Case 5: B-47 Crew, Radar/Visual SightingThe two other crew members, each of whom had operated a radar monitoring unit in t...</p></details>
+   Link:<a href="https://files.ncas.org/condon/text/case05.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/case05.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Condon Report, Case 5: B-47 Crew, Radar/Visual SightingThe two other crew members, each of whom had operated a radar monitoring unit in t...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1909.01300" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1909.01300</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Oxford Radar RobotCar Dataset: A Radar Extension to the Oxford RobotCar DatasetSeptember 3, 2019...</p></details>
+   Link:<a href="https://arxiv.org/abs/1909.01300" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1909.01300</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Oxford Radar RobotCar Dataset: A Radar Extension to the Oxford RobotCar DatasetSeptember 3, 2019...</p></details>
    Published: September 3, 2019  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
    Title: arXiv Colo Radar: The Direct 3D Millimeter Wave Radar Dataset  
-   Link: <a href="https://arxiv.org/abs/2103.04510" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2103.04510</a>  
+   Link:<a href="https://arxiv.org/abs/2103.04510" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2103.04510</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2104.02493" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2104.02493</a>  
+   Link:<a href="https://arxiv.org/abs/2104.02493" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2104.02493</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: 1952 Washington, D.C. UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO incidentMay 9, 2026 — From July 12 to 29, 1952, a series of unidentified flying object (UFO) sightings were reported in Washington, D...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO incidentMay 9, 2026 — From July 12 to 29, 1952, a series of unidentified flying object (UFO) sightings were reported in Washington, D...</p></details>
    Published: May 9, 2026  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ufo-archives.com  
    Title: washington 1952  
-   Link: <a href="https://ufo-archives.com/en/cases/washington-1952/" target="_blank" rel="noopener noreferrer nofollow">https://ufo-archives.com/en/cases/washington-1952/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO ARCHIVESThe Washington 1952 radar visual wave | UFO ARCHIVESOver two July weekends in 1952, radar operators and visual witnesses arou...</p></details>
+   Link:<a href="https://ufo-archives.com/en/cases/washington-1952/" target="_blank" rel="noopener noreferrer nofollow">https://ufo-archives.com/en/cases/washington-1952/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO ARCHIVESThe Washington 1952 radar visual wave | UFO ARCHIVESOver two July weekends in 1952, radar operators and visual witnesses arou...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: kirkmcd.princeton.edu  
    Title: mcdonald fsr 16 3 2 70  
-   Link: <a href="https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_fsr_16_3_2_70.pdf" target="_blank" rel="noopener noreferrer nofollow">https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_fsr_16_3_2_70.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the 1957 gulf coast rb-47 - incidentThis incident is an especially good example of a UFO case in which observer credibility and reli- abi...</p></details>
+   Link:<a href="https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_fsr_16_3_2_70.pdf" target="_blank" rel="noopener noreferrer nofollow">https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_fsr_16_3_2_70.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the 1957 gulf coast rb-47 - incidentThis incident is an especially good example of a UFO case in which observer credibility and reli- abi...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: documents2.theblackvault.com  
-   Link: <a href="https://documents2.theblackvault.com/documents/projectbluebook/ProjectBlueBook-RB47-July17-1957.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/projectbluebook/ProjectBlueBook-RB47-July17-1957.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>By Philip J. Klass. This is an... t~at the UFO was not detected on the RB-47 navigation radar. Another example...Read more...</p></details>
+   Link:<a href="https://documents2.theblackvault.com/documents/projectbluebook/ProjectBlueBook-RB47-July17-1957.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/projectbluebook/ProjectBlueBook-RB47-July17-1957.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>By Philip J. Klass. This is an... t~at the UFO was not detected on the RB-47 navigation radar. Another example...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2404.01437" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2404.01437</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Radar Ghost Dataset -- An Evaluation of Ghost Objects in Automotive Radar DataApril 1, 2024...</p></details>
+   Link:<a href="https://arxiv.org/abs/2404.01437" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2404.01437</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Radar Ghost Dataset -- An Evaluation of Ghost Objects in Automotive Radar DataApril 1, 2024...</p></details>
    Published: April 1, 2024  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Project Blue Book: The History of the Air Force UFO Investigation  
-   Link: <a href="https://www.youtube.com/watch?v=R3VnJ57a2t4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=R3VnJ57a2t4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Archives: Declassified UFO Records and Investigations...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=R3VnJ57a2t4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=R3VnJ57a2t4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Archives: Declassified UFO Records and Investigations...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: National Archives: Declassified UFO Records and Investigations  
-   Link: <a href="https://www.youtube.com/watch?v=d_k8y08V6S8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=d_k8y08V6S8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Condon Report and the Scientific Study of UFOs...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=d_k8y08V6S8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=d_k8y08V6S8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Condon Report and the Scientific Study of UFOs...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: thehistoryreader.com  
    Title: The History Reader Two Critical UFO Events in History The RB-47 UFO Incident–  
-   Link: <a href="https://www.thehistoryreader.com/military-history/ufo-events/" target="_blank" rel="noopener noreferrer nofollow">https://www.thehistoryreader.com/military-history/ufo-events/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The History ReaderTwo Critical UFO Events in HistoryThe RB-47 UFO Incident–July 17, 1957: Unlike the Aztec incident above, this encounter...</p></details>
+   Link:<a href="https://www.thehistoryreader.com/military-history/ufo-events/" target="_blank" rel="noopener noreferrer nofollow">https://www.thehistoryreader.com/military-history/ufo-events/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The History ReaderTwo Critical UFO Events in HistoryThe RB-47 UFO Incident–July 17, 1957: Unlike the Aztec incident above, this encounter...</p></details>
    Published: July 17, 1957  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: wral.com  
-   Link: <a href="https://www.wral.com/story/a-radar-blip-a-flash-of-light-how-ufos-exploded-into-public-view/17744754/" target="_blank" rel="noopener noreferrer nofollow">https://www.wral.com/story/a-radar-blip-a-flash-of-light-how-ufos-exploded-into-public-view/17744754/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>WRAL NewsA Radar Blip, a Flash of Light: How UFOs &#x27;Exploded&#x27; Into...3 Aug 2018 — The Washington sightings centered on events that starte...</p></details>
+   Link:<a href="https://www.wral.com/story/a-radar-blip-a-flash-of-light-how-ufos-exploded-into-public-view/17744754/" target="_blank" rel="noopener noreferrer nofollow">https://www.wral.com/story/a-radar-blip-a-flash-of-light-how-ufos-exploded-into-public-view/17744754/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WRAL NewsA Radar Blip, a Flash of Light: How UFOs &#x27;Exploded&#x27; Into...3 Aug 2018 — The Washington sightings centered on events that starte...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: thedebrief.org  
    Title: the rb 47 incident mystery at 2800 megacycles  
-   Link: <a href="https://thedebrief.org/the-rb-47-incident-mystery-at-2800-megacycles/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/the-rb-47-incident-mystery-at-2800-megacycles/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The DebriefThe RB-47 Incident: Mystery at 2800 Megacycles1 Jun 2023 — This week we examine the RB-47 UFO incident, and how this 1957 case...</p></details>
+   Link:<a href="https://thedebrief.org/the-rb-47-incident-mystery-at-2800-megacycles/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/the-rb-47-incident-mystery-at-2800-megacycles/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The DebriefThe RB-47 Incident: Mystery at 2800 Megacycles1 Jun 2023 — This week we examine the RB-47 UFO incident, and how this 1957 case...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: moneycontrol.com  
-   Link: <a href="https://www.moneycontrol.com/world/when-washington-chased-ufos-the-1952-sightings-that-still-have-no-answer-article-13746719.html" target="_blank" rel="noopener noreferrer nofollow">https://www.moneycontrol.com/world/when-washington-chased-ufos-the-1952-sightings-that-still-have-no-answer-article-13746719.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When Washington chased UFOs: The 1952 sightings that...29 Dec 2025 — The 1952 Washington sightings sit at the intersection o...</p></details>
+   Link:<a href="https://www.moneycontrol.com/world/when-washington-chased-ufos-the-1952-sightings-that-still-have-no-answer-article-13746719.html" target="_blank" rel="noopener noreferrer nofollow">https://www.moneycontrol.com/world/when-washington-chased-ufos-the-1952-sightings-that-still-have-no-answer-article-13746719.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When Washington chased UFOs: The 1952 sightings that...29 Dec 2025 — The 1952 Washington sightings sit at the intersection o...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: Analyzing Historical UAP Cases with Modern Perspectives  
-   Link: <a href="https://www.youtube.com/watch?v=x7nS-fQcT8w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=x7nS-fQcT8w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Challenges of Investigating Cold War Era Radar Reports...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=x7nS-fQcT8w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=x7nS-fQcT8w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Challenges of Investigating Cold War Era Radar Reports...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: The Condon Report and the Scientific Study of UFOs  
-   Link: <a href="https://www.youtube.com/watch?v=17X21g3R7Jk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=17X21g3R7Jk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Analyzing Historical UAP Cases with Modern Perspectives...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=17X21g3R7Jk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=17X21g3R7Jk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Analyzing Historical UAP Cases with Modern Perspectives...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: Challenges of Investigating Cold War Era Radar Reports  
-   Link: <a href="https://www.youtube.com/watch?v=oV85gK5bM2s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oV85gK5bM2s</a>
+   Link:<a href="https://www.youtube.com/watch?v=oV85gK5bM2s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oV85gK5bM2s</a>

@@ -268,26 +268,26 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c_drone
 
 ## Introduction
 
-Yes, drone rules can sometimes help explain UFO sightings, but not in the simple sense of proving that a light in the sky was a drone. Instead, regulations from the United States Federal Aviation Administration (FAA) and the United Kingdom Civil Aviation Authority (CAA) provide useful clues about why certain [drones]({{ 'drones/' | relative_url }}) are visible, how some can be identified, and what lawful operators are expected to do. Modern aviation regulators treat drones as ordinary airspace users rather than mysterious objects. As a result, many features that witnesses describe as unusual—bright flashing lights, hovering illuminated objects, or visible aircraft operating after dark—are often linked to requirements built into drone operations. Federal Aviation Administration <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/registering-to-fly-drones-and-model-aircraft/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Civil Aviation AuthorityRegistering to fly drones and model aircraftIf your drone or model aircraft weighs from 250g to less than 25kg, y...</span></span></span>
+Yes, drone rules can sometimes help explain UFO sightings, but not in the simple sense of proving that a light in the sky was a drone. Instead, regulations from the United States Federal Aviation Administration (FAA) and the United Kingdom Civil Aviation Authority (CAA) provide useful clues about why certain [drones]({{ 'drones/' | relative_url }}) are visible, how some can be identified, and what lawful operators are expected to do. Modern aviation regulators treat drones as ordinary airspace users rather than mysterious objects. As a result, many features that witnesses describe as unusual—bright flashing lights, hovering illuminated objects, or visible aircraft operating after dark—are often linked to requirements built into drone operations. Federal Aviation Administration<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/registering-to-fly-drones-and-model-aircraft/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Civil Aviation AuthorityRegistering to fly drones and model aircraftIf your drone or model aircraft weighs from 250g to less than 25kg, y...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c_drone_rules_sighting_e7f6b9-Illustration-1-dark.svg" | relative_url }}" alt="Drone Rules illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c_drone_rules_sighting_e7f6b9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c_drone_rules_sighting_e7f6b9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For UFO investigators and witnesses, the value of these rules is practical rather than definitive. Registration systems, Remote ID requirements and night-flying lighting rules can support an ordinary explanation in some cases, while also highlighting the limits of what regulations can reveal about a particular sighting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/uas/commercial_operators/operations_over_people" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">operations over people</span><span class="citation-popover-snippet">Federal Aviation AdministrationOperations Over People General Overview10 Nov 2022 — The small unmanned aircraft must have lighted anti-co...</span></span></span>
+For UFO investigators and witnesses, the value of these rules is practical rather than definitive. Registration systems, Remote ID requirements and night-flying lighting rules can support an ordinary explanation in some cases, while also highlighting the limits of what regulations can reveal about a particular sighting.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/uas/commercial_operators/operations_over_people" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">operations over people</span><span class="citation-popover-snippet">Federal Aviation AdministrationOperations Over People General Overview10 Nov 2022 — The small unmanned aircraft must have lighted anti-co...</span></span></span>
 
 ## Registration and pilot context
 
-One reason drones have become a common explanation for modern UFO reports is simple: there are many of them in the air. Both the FAA and CAA operate systems that treat drone flying as a regulated activity involving registered aircraft, identified operators and basic knowledge requirements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/registering-to-fly-drones-and-model-aircraft/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Civil Aviation AuthorityRegistering to fly drones and model aircraftIf your drone or model aircraft weighs from 250g to less than 25kg, y...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/registering-to-fly-drones-and-model-aircraft/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Civil Aviation AuthorityRegistering to fly drones and model aircraftIf your drone or model aircraft weighs from 250g to less than 25kg, y...</span></span></span>
+One reason drones have become a common explanation for modern UFO reports is simple: there are many of them in the air. Both the FAA and CAA operate systems that treat drone flying as a regulated activity involving registered aircraft, identified operators and basic knowledge requirements.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/registering-to-fly-drones-and-model-aircraft/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Civil Aviation AuthorityRegistering to fly drones and model aircraftIf your drone or model aircraft weighs from 250g to less than 25kg, y...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/registering-to-fly-drones-and-model-aircraft/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Civil Aviation AuthorityRegistering to fly drones and model aircraftIf your drone or model aircraft weighs from 250g to less than 25kg, y...</span></span></span>
 
-In the United States, recreational flyers generally must register drones weighing 250 grams or more and complete the TRUST safety test, while commercial operators must comply with additional FAA requirements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/uas/commercial_operators/operations_over_people" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">operations over people</span><span class="citation-popover-snippet">Federal Aviation AdministrationOperations Over People General Overview10 Nov 2022 — The small unmanned aircraft must have lighted anti-co...</span></span></span>
+In the United States, recreational flyers generally must register drones weighing 250 grams or more and complete the TRUST safety test, while commercial operators must comply with additional FAA requirements.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/uas/commercial_operators/operations_over_people" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">operations over people</span><span class="citation-popover-snippet">Federal Aviation AdministrationOperations Over People General Overview10 Nov 2022 — The small unmanned aircraft must have lighted anti-co...</span></span></span>
 
-In the United Kingdom, drones above specified weight thresholds require Flyer IDs, Operator IDs or both, depending on the aircraft and its equipment. The CAA's system is designed to link drones to responsible operators and to demonstrate that [pilots]({{ 'pilots/' | relative_url }}) understand basic safety rules. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/registering-to-fly-drones-and-model-aircraft/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Civil Aviation AuthorityRegistering to fly drones and model aircraftIf your drone or model aircraft weighs from 250g to less than 25kg, y...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/registering-to-fly-drones-and-model-aircraft/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Civil Aviation AuthorityRegistering to fly drones and model aircraftIf your drone or model aircraft weighs from 250g to less than 25kg, y...</span></span></span>
+In the United Kingdom, drones above specified weight thresholds require Flyer IDs, Operator IDs or both, depending on the aircraft and its equipment. The CAA's system is designed to link drones to responsible operators and to demonstrate that [pilots]({{ 'pilots/' | relative_url }}) understand basic safety rules.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/registering-to-fly-drones-and-model-aircraft/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Civil Aviation AuthorityRegistering to fly drones and model aircraftIf your drone or model aircraft weighs from 250g to less than 25kg, y...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/registering-to-fly-drones-and-model-aircraft/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Civil Aviation AuthorityRegistering to fly drones and model aircraftIf your drone or model aircraft weighs from 250g to less than 25kg, y...</span></span></span>
 
-For sighting analysis, this matters because it changes the starting assumption. A bright hovering light is no longer competing only with aircraft, helicopters and astronomical objects. It is also competing with a large population of legally operated drones flown by hobbyists, photographers, surveyors, emergency services and commercial operators. Registration systems do not identify a specific sighting by themselves, but they make the presence of legitimate drone activity far more plausible than it would have been twenty years ago. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/registering-to-fly-drones-and-model-aircraft/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Civil Aviation AuthorityRegistering to fly drones and model aircraftIf your drone or model aircraft weighs from 250g to less than 25kg, y...</span></span></span>
+For sighting analysis, this matters because it changes the starting assumption. A bright hovering light is no longer competing only with aircraft, helicopters and astronomical objects. It is also competing with a large population of legally operated drones flown by hobbyists, photographers, surveyors, emergency services and commercial operators. Registration systems do not identify a specific sighting by themselves, but they make the presence of legitimate drone activity far more plausible than it would have been twenty years ago.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/registering-to-fly-drones-and-model-aircraft/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Civil Aviation AuthorityRegistering to fly drones and model aircraftIf your drone or model aircraft weighs from 250g to less than 25kg, y...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/midPbqaDnyw" title="2026 UK Drone Rules - The Complete Guide" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=midPbqaDnyw" target="_blank" rel="noopener noreferrer">2026 UK Drone Rules - The Complete Guide</a></p><p class="youtube-embed-meta">Channel: Geeksvana &middot; Views: 37.3K &middot; Uploaded: January 2026 &middot; Length: 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=midPbqaDnyw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=midPbqaDnyw">Open on YouTube</a></p></div></div></div>
 
 ## Why Remote ID helps—and why it does not solve every mystery
 
-Remote ID is often described as a digital licence plate for drones. Under FAA rules, many drones must broadcast identification and location information that can be received by compatible equipment. The system was introduced to improve accountability and airspace awareness rather than to investigate UFO reports, but it has obvious relevance when unusual aerial objects are reported. Federal Aviation Administration <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/2019/12/31/faa-drone-regulations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios In principle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-snippet">The draft rule aims to help authorities monitor drones, detect unauthorized usage, and alleviate security concerns, especially in light o...</span></span></span>, a drone transmitting Remote ID can provide information about:
+Remote ID is often described as a digital licence plate for drones. Under FAA rules, many drones must broadcast identification and location information that can be received by compatible equipment. The system was introduced to improve accountability and airspace awareness rather than to investigate UFO reports, but it has obvious relevance when unusual aerial objects are reported. Federal Aviation Administration<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/2019/12/31/faa-drone-regulations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios In principle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-snippet">The draft rule aims to help authorities monitor drones, detect unauthorized usage, and alleviate security concerns, especially in light o...</span></span></span>, a drone transmitting Remote ID can provide information about:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -299,13 +299,13 @@ Remote ID is often described as a digital licence plate for drones. Under FAA ru
 
 </div>
 
-These features can help investigators distinguish a drone from a more mysterious interpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/uas/commercial_operators/operations_over_people" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">operations over people</span><span class="citation-popover-snippet">Federal Aviation AdministrationOperations Over People General Overview10 Nov 2022 — The small unmanned aircraft must have lighted anti-co...</span></span></span>
+These features can help investigators distinguish a drone from a more mysterious interpretation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/uas/commercial_operators/operations_over_people" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">operations over people</span><span class="citation-popover-snippet">Federal Aviation AdministrationOperations Over People General Overview10 Nov 2022 — The small unmanned aircraft must have lighted anti-co...</span></span></span>
 
 However, Remote ID has important limits that are often misunderstood.
 
-First, not every drone is required to broadcast in every circumstance. Requirements depend on aircraft type, weight and operating category. Second, ordinary witnesses usually do not have specialised equipment available when they see an unusual light. Third, a sighting may involve an aircraft too distant to identify reliably even if it is transmitting. Finally, a witness who mistakes a star, helicopter or conventional aircraft for a drone gains no benefit from drone-identification technology because the original identification was wrong. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/uas/commercial_operators/operations_over_people" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">operations over people</span><span class="citation-popover-snippet">Federal Aviation AdministrationOperations Over People General Overview10 Nov 2022 — The small unmanned aircraft must have lighted anti-co...</span></span></span>
+First, not every drone is required to broadcast in every circumstance. Requirements depend on aircraft type, weight and operating category. Second, ordinary witnesses usually do not have specialised equipment available when they see an unusual light. Third, a sighting may involve an aircraft too distant to identify reliably even if it is transmitting. Finally, a witness who mistakes a star, helicopter or conventional aircraft for a drone gains no benefit from drone-identification technology because the original identification was wrong.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/uas/commercial_operators/operations_over_people" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">operations over people</span><span class="citation-popover-snippet">Federal Aviation AdministrationOperations Over People General Overview10 Nov 2022 — The small unmanned aircraft must have lighted anti-co...</span></span></span>
 
-The public debate surrounding the [New Jersey]({{ 'new-jersey/' | relative_url }}) drone reports of 2024 illustrated this limitation. Although Remote ID was frequently discussed as a possible solution, investigators still had to separate actual drones from aircraft, helicopters and other ordinary objects before identification systems could become useful. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2024/12/23/us-news/mystery-drones-could-be-identified-faster-using-new-detection-tool-but-faa-lacks-resources/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">Although the FAA now requires Remote ID technology on drones, allowing them to be uniquely identifiable through a &quot;digital license plate...</span></span></span>
+The public debate surrounding the [New Jersey]({{ 'new-jersey/' | relative_url }}) drone reports of 2024 illustrated this limitation. Although Remote ID was frequently discussed as a possible solution, investigators still had to separate actual drones from aircraft, helicopters and other ordinary objects before identification systems could become useful.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2024/12/23/us-news/mystery-drones-could-be-identified-faster-using-new-detection-tool-but-faa-lacks-resources/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">Although the FAA now requires Remote ID technology on drones, allowing them to be uniquely identifiable through a &quot;digital license plate...</span></span></span>
 
 For UFO investigations, Remote ID is therefore best viewed as supporting evidence rather than a universal answer. A positive identification can be valuable, but the absence of one does not automatically turn a sighting into an unexplained phenomenon.
 
@@ -314,7 +314,7 @@ For UFO investigations, Remote ID is therefore best viewed as supporting evidenc
 
 The most immediately useful regulations for UFO analysis are often the least dramatic. Night-flying rules directly affect what people see.
 
-FAA regulations allow routine night operations provided that pilots meet training requirements and that the drone carries anti-collision lighting visible for at least three statute miles. The lighting must flash at a rate sufficient to reduce collision risk. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/uas/commercial_operators/operations_over_people" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">operations over people</span><span class="citation-popover-snippet">Federal Aviation AdministrationOperations Over People General Overview10 Nov 2022 — The small unmanned aircraft must have lighted anti-co...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/uas/commercial_operators/operations_over_people" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">operations over people</span><span class="citation-popover-snippet">Federal Aviation AdministrationOperations Over People General Overview10 Nov 2022 — The small unmanned aircraft must have lighted anti-co...</span></span></span>
+FAA regulations allow routine night operations provided that pilots meet training requirements and that the drone carries anti-collision lighting visible for at least three statute miles. The lighting must flash at a rate sufficient to reduce collision risk.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/uas/commercial_operators/operations_over_people" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">operations over people</span><span class="citation-popover-snippet">Federal Aviation AdministrationOperations Over People General Overview10 Nov 2022 — The small unmanned aircraft must have lighted anti-co...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/uas/commercial_operators/operations_over_people" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">operations over people</span><span class="citation-popover-snippet">Federal Aviation AdministrationOperations Over People General Overview10 Nov 2022 — The small unmanned aircraft must have lighted anti-co...</span></span></span>
 
 This requirement explains several recurring features of modern UFO reports:
 
@@ -328,11 +328,11 @@ This requirement explains several recurring features of modern UFO reports:
 
 </div>
 
-A witness may believe they are observing an unusually luminous object when they are actually seeing a safety feature designed to attract attention. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/uas/commercial_operators/operations_over_people" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">operations over people</span><span class="citation-popover-snippet">Federal Aviation AdministrationOperations Over People General Overview10 Nov 2022 — The small unmanned aircraft must have lighted anti-co...</span></span></span>
+A witness may believe they are observing an unusually luminous object when they are actually seeing a safety feature designed to attract attention.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/uas/commercial_operators/operations_over_people" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">operations over people</span><span class="citation-popover-snippet">Federal Aviation AdministrationOperations Over People General Overview10 Nov 2022 — The small unmanned aircraft must have lighted anti-co...</span></span></span>
 
-The distinction between navigation lights and anti-collision lights is also important. Navigation lights help indicate orientation, while anti-collision lights are intended to maximise visibility. Seen from a distance, these systems can blend together into patterns that appear strange or unfamiliar. <span class="citation-chip-wrap"><a class="citation-chip" href="https://jrupprechtlaw.com/drone-anti-collision-lights/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jrupprechtlaw.com">[Rupprecht Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jrupprechtlaw.com</span><span class="citation-popover-snippet">Rupprecht LawUltimate Guide to Drone Anti-Collision LightsAnti-collision lights are (1) red or white and (2) blinking/strobing. Navigatio...</span></span></span>
+The distinction between navigation lights and anti-collision lights is also important. Navigation lights help indicate orientation, while anti-collision lights are intended to maximise visibility. Seen from a distance, these systems can blend together into patterns that appear strange or unfamiliar.<span class="citation-chip-wrap"><a class="citation-chip" href="https://jrupprechtlaw.com/drone-anti-collision-lights/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jrupprechtlaw.com">[Rupprecht Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jrupprechtlaw.com</span><span class="citation-popover-snippet">Rupprecht LawUltimate Guide to Drone Anti-Collision LightsAnti-collision lights are (1) red or white and (2) blinking/strobing. Navigatio...</span></span></span>
 
-In the UK, CAA guidance similarly recognises night operations and requires pilots to maintain safe control and visibility of their aircraft. Recent UK regulatory developments have also increased emphasis on lighting and identification features that make drones more conspicuous to other airspace users. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/registering-to-fly-drones-and-model-aircraft/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Civil Aviation AuthorityRegistering to fly drones and model aircraftIf your drone or model aircraft weighs from 250g to less than 25kg, y...</span></span></span> [2T3]
+In the UK, CAA guidance similarly recognises night operations and requires pilots to maintain safe control and visibility of their aircraft. Recent UK regulatory developments have also increased emphasis on lighting and identification features that make drones more conspicuous to other airspace users.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/registering-to-fly-drones-and-model-aircraft/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Civil Aviation AuthorityRegistering to fly drones and model aircraftIf your drone or model aircraft weighs from 250g to less than 25kg, y...</span></span></span> [2T3]
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c_drone_rules_sighting_e7f6b9-Illustration-3-dark.svg" | relative_url }}" alt="Drone Rules illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c_drone_rules_sighting_e7f6b9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c_drone_rules_sighting_e7f6b9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What rules can tell investigators at a sighting scene
@@ -343,7 +343,7 @@ If witnesses report a stationary or slowly moving flashing light after dark, inv
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
-* Does the light resemble an anti-collision strobe? <span class="citation-chip-wrap"><a class="citation-chip" href="https://betalight-tactical.com/product/anti-collision-drone-lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: betalight-tactical.com">[betalight-tactical.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">betalight-tactical.com</span><span class="citation-popover-snippet">Drone Anti-Collision Lights &#124; Red, White &amp; IR LightingExplore high-intensity drone anti-collision lights engineered for UAVs, military ai...</span></span></span>
+* Does the light resemble an anti-collision strobe?<span class="citation-chip-wrap"><a class="citation-chip" href="https://betalight-tactical.com/product/anti-collision-drone-lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: betalight-tactical.com">[betalight-tactical.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">betalight-tactical.com</span><span class="citation-popover-snippet">Drone Anti-Collision Lights &#124; Red, White &amp; IR LightingExplore high-intensity drone anti-collision lights engineered for UAVs, military ai...</span></span></span>
 * Is the object operating in a way consistent with a drone conducting photography, inspection or surveying work?
 * Is the location one where lawful drone activity would be common?
 * Are there indications that the object is maintaining a controlled hover?
@@ -351,7 +351,7 @@ If witnesses report a stationary or slowly moving flashing light after dark, inv
 
 </div>
 
-None of these questions proves that a sighting was a drone. They simply test whether the observation fits a regulated and commonplace airspace user before more exotic explanations are considered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/uas/commercial_operators/operations_over_people" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">operations over people</span><span class="citation-popover-snippet">Federal Aviation AdministrationOperations Over People General Overview10 Nov 2022 — The small unmanned aircraft must have lighted anti-co...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/uas/commercial_operators/operations_over_people" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">operations over people</span><span class="citation-popover-snippet">Federal Aviation AdministrationOperations Over People General Overview10 Nov 2022 — The small unmanned aircraft must have lighted anti-co...</span></span></span>
+None of these questions proves that a sighting was a drone. They simply test whether the observation fits a regulated and commonplace airspace user before more exotic explanations are considered.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/uas/commercial_operators/operations_over_people" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">operations over people</span><span class="citation-popover-snippet">Federal Aviation AdministrationOperations Over People General Overview10 Nov 2022 — The small unmanned aircraft must have lighted anti-co...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/uas/commercial_operators/operations_over_people" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">operations over people</span><span class="citation-popover-snippet">Federal Aviation AdministrationOperations Over People General Overview10 Nov 2022 — The small unmanned aircraft must have lighted anti-co...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6P-bOpUvX28" title="Night Flying Rules for Part 107 Pilots (PLUS 13 Night Questions &amp; My Favorite Beacon!)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6P-bOpUvX28" target="_blank" rel="noopener noreferrer">Night Flying Rules for Part 107 Pilots (PLUS 13 Night Questions &amp; My Favorite Beacon!)</a></p><p class="youtube-embed-meta">Channel: John Peltier &middot; Views: 2.6K &middot; Uploaded: July 2025 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6P-bOpUvX28" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6P-bOpUvX28">Open on YouTube</a></p></div></div></div>
 
@@ -362,194 +362,194 @@ FAA and CAA drone rules do not solve every aerial mystery. Registration records 
 They explain why bright flashing lights may be deliberately visible at long [range]({{ 'range/' | relative_url }}), why hovering illuminated objects have become more common, and why many apparently unusual aerial observations now occur within a regulated ecosystem of identifiable operators and aircraft. In a field where witnesses often see only a light rather than a recognisable machine, those regulatory clues can sometimes be the difference between a mystery and an ordinary drone flight. [Federal Aviation Administration+3Federal Aviation Administration+3Civil Aviation Authority]
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can drone rules help explain UFO sightings?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can drone rules help explain UFO sightings?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Places official reporting and aviation-related sightings in a wider context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places official reporting and aviation-related sightings in a wider context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides a historical framework for evaluating identified and unidentified cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a historical framework for evaluating identified and unidentified cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Supports careful reasoning when regulatory clues are suggestive but not conclusive.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports careful reasoning when regulatory clues are suggestive but not conclusive.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Drones+for+Dummies+Mark+Lafay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Drones for Dummies on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Drones+for+Dummies+Mark+Lafay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drones for Dummies">Drones for Dummies</a>
-        </h4>
-        <p class="fr-book-author">By Mark Lafay</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Drones+for+Dummies+Mark+Lafay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Drones for Dummies on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Drones+for+Dummies+Mark+Lafay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drones for Dummies">Drones for Dummies</a>
+</h4>
+<p class="fr-book-author">By Mark Lafay</p>
         
-        <p class="fr-book-desc">First published 2015. Subjects: Remotely piloted Vehicles, Drone aircraft, Aeronautics, Vehicles, remotely piloted, Ug1242.d7 l34 2015.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Drones+for+Dummies+Mark+Lafay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2015. Subjects: Remotely piloted Vehicles, Drone aircraft, Aeronautics, Vehicles, remotely piloted, Ug1242.d7 l34 2015.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Drones+for+Dummies+Mark+Lafay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-drone-rules-help-explain-ufo-sightings-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="can-drone-rules-help-explain-ufo-sightings-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2x Zeee Short 7.4V 2200mAh 2S Lipo Battery XT60 50C for Car Boat UAV Drone Model"><img src="https://i.ebayimg.com/images/g/~iMAAOSwDfplJlf9/s-l225.jpg" alt="Listing image for 2x Zeee Short 7.4V 2200mAh 2S Lipo Battery XT60 50C for Car Boat UAV Drone Model" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-drone-rules-help-explain-ufo-sightings-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="can-drone-rules-help-explain-ufo-sightings-drone-model" target="_blank" rel="sponsored noopener noreferrer">2x Zeee Short 7.4V 2200mAh 2S Lipo Battery XT60 50C for Car Boat UAV Drone Model</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-drone-rules-help-explain-ufo-sightings-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="can-drone-rules-help-explain-ufo-sightings-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone model">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-drone-rules-help-explain-ufo-sightings-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="can-drone-rules-help-explain-ufo-sightings-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-drone-rules-help-explain-ufo-sightings-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="can-drone-rules-help-explain-ufo-sightings-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2x Zeee Short 7.4V 2200mAh 2S Lipo Battery XT60 50C for Car Boat UAV Drone Model"><img src="https://i.ebayimg.com/images/g/~iMAAOSwDfplJlf9/s-l225.jpg" alt="Listing image for 2x Zeee Short 7.4V 2200mAh 2S Lipo Battery XT60 50C for Car Boat UAV Drone Model" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-drone-rules-help-explain-ufo-sightings-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="can-drone-rules-help-explain-ufo-sightings-drone-model" target="_blank" rel="sponsored noopener noreferrer">2x Zeee Short 7.4V 2200mAh 2S Lipo Battery XT60 50C for Car Boat UAV Drone Model</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-drone-rules-help-explain-ufo-sightings-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="can-drone-rules-help-explain-ufo-sightings-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone model">Search<span data-ebay-domain-label>eBay.co.uk</span>: drone model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-drone-rules-help-explain-ufo-sightings-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="can-drone-rules-help-explain-ufo-sightings-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-drone-rules-help-explain-ufo-sightings-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="can-drone-rules-help-explain-ufo-sightings-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kinetic 1/72 MQ-9 Reaper UAV Drone Unmanned Aerial Vehicle USAF RAF Model Kit"><img src="https://i.ebayimg.com/images/g/lVMAAOSwIGdnzlCD/s-l225.jpg" alt="Listing image for Kinetic 1/72 MQ-9 Reaper UAV Drone Unmanned Aerial Vehicle USAF RAF Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-drone-rules-help-explain-ufo-sightings-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="can-drone-rules-help-explain-ufo-sightings-drone-model" target="_blank" rel="sponsored noopener noreferrer">Kinetic 1/72 MQ-9 Reaper UAV Drone Unmanned Aerial Vehicle USAF RAF Model Kit</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-drone-rules-help-explain-ufo-sightings-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="can-drone-rules-help-explain-ufo-sightings-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone model">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-drone-rules-help-explain-ufo-sightings-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="can-drone-rules-help-explain-ufo-sightings-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-drone-rules-help-explain-ufo-sightings-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="can-drone-rules-help-explain-ufo-sightings-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kinetic 1/72 MQ-9 Reaper UAV Drone Unmanned Aerial Vehicle USAF RAF Model Kit"><img src="https://i.ebayimg.com/images/g/lVMAAOSwIGdnzlCD/s-l225.jpg" alt="Listing image for Kinetic 1/72 MQ-9 Reaper UAV Drone Unmanned Aerial Vehicle USAF RAF Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-drone-rules-help-explain-ufo-sightings-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="can-drone-rules-help-explain-ufo-sightings-drone-model" target="_blank" rel="sponsored noopener noreferrer">Kinetic 1/72 MQ-9 Reaper UAV Drone Unmanned Aerial Vehicle USAF RAF Model Kit</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-drone-rules-help-explain-ufo-sightings-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="can-drone-rules-help-explain-ufo-sightings-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone model">Search<span data-ebay-domain-label>eBay.co.uk</span>: drone model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-drone-rules-help-explain-ufo-sightings-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="can-drone-rules-help-explain-ufo-sightings-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-drone-rules-help-explain-ufo-sightings-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="can-drone-rules-help-explain-ufo-sightings-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Silent Running Drone Robot Dewey Huey Louie Model Kits Sci-Fi"><img src="https://i.ebayimg.com/images/g/MJcAAeSwICVqAEqj/s-l225.jpg" alt="Listing image for Silent Running Drone Robot Dewey Huey Louie Model Kits Sci-Fi" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-drone-rules-help-explain-ufo-sightings-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="can-drone-rules-help-explain-ufo-sightings-drone-model" target="_blank" rel="sponsored noopener noreferrer">Silent Running Drone Robot Dewey Huey Louie Model Kits Sci-Fi</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-drone-rules-help-explain-ufo-sightings-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="can-drone-rules-help-explain-ufo-sightings-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone model">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-drone-rules-help-explain-ufo-sightings-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="can-drone-rules-help-explain-ufo-sightings-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-drone-rules-help-explain-ufo-sightings-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="can-drone-rules-help-explain-ufo-sightings-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Silent Running Drone Robot Dewey Huey Louie Model Kits Sci-Fi"><img src="https://i.ebayimg.com/images/g/MJcAAeSwICVqAEqj/s-l225.jpg" alt="Listing image for Silent Running Drone Robot Dewey Huey Louie Model Kits Sci-Fi" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-drone-rules-help-explain-ufo-sightings-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="can-drone-rules-help-explain-ufo-sightings-drone-model" target="_blank" rel="sponsored noopener noreferrer">Silent Running Drone Robot Dewey Huey Louie Model Kits Sci-Fi</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-drone-rules-help-explain-ufo-sightings-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="can-drone-rules-help-explain-ufo-sightings-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone model">Search<span data-ebay-domain-label>eBay.co.uk</span>: drone model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-drone-rules-help-explain-ufo-sightings-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="can-drone-rules-help-explain-ufo-sightings-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-drone-rules-help-explain-ufo-sightings-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="can-drone-rules-help-explain-ufo-sightings-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Star Wars Propel Drone 74-Z Speeder Bike Model Only (Spares) No other parts!"><img src="https://i.ebayimg.com/images/g/3MYAAeSweFVp-57F/s-l225.jpg" alt="Listing image for Star Wars Propel Drone 74-Z Speeder Bike Model Only (Spares) No other parts!" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-drone-rules-help-explain-ufo-sightings-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="can-drone-rules-help-explain-ufo-sightings-drone-model" target="_blank" rel="sponsored noopener noreferrer">Star Wars Propel Drone 74-Z Speeder Bike Model Only (Spares) No other parts!</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-drone-rules-help-explain-ufo-sightings-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="can-drone-rules-help-explain-ufo-sightings-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone model">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-drone-rules-help-explain-ufo-sightings-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="can-drone-rules-help-explain-ufo-sightings-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-drone-rules-help-explain-ufo-sightings-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="can-drone-rules-help-explain-ufo-sightings-drone-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-drone-rules-help-explain-ufo-sightings-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="can-drone-rules-help-explain-ufo-sightings-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Star Wars Propel Drone 74-Z Speeder Bike Model Only (Spares) No other parts!"><img src="https://i.ebayimg.com/images/g/3MYAAeSweFVp-57F/s-l225.jpg" alt="Listing image for Star Wars Propel Drone 74-Z Speeder Bike Model Only (Spares) No other parts!" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-drone-rules-help-explain-ufo-sightings-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="can-drone-rules-help-explain-ufo-sightings-drone-model" target="_blank" rel="sponsored noopener noreferrer">Star Wars Propel Drone 74-Z Speeder Bike Model Only (Spares) No other parts!</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-drone-rules-help-explain-ufo-sightings-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="can-drone-rules-help-explain-ufo-sightings-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone model">Search<span data-ebay-domain-label>eBay.co.uk</span>: drone model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-drone-rules-help-explain-ufo-sightings-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="can-drone-rules-help-explain-ufo-sightings-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-drone-rules-help-explain-ufo-sightings-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="can-drone-rules-help-explain-ufo-sightings-drone-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -565,7 +565,7 @@ They explain why bright flashing lights may be deliberately visible at long [ran
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -585,7 +585,7 @@ They explain why bright flashing lights may be deliberately visible at long [ran
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -617,7 +617,7 @@ They explain why bright flashing lights may be deliberately visible at long [ran
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -669,7 +669,7 @@ They explain why bright flashing lights may be deliberately visible at long [ran
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -714,7 +714,7 @@ They explain why bright flashing lights may be deliberately visible at long [ran
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -755,162 +755,162 @@ They explain why bright flashing lights may be deliberately visible at long [ran
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: faa.gov  
    Title: operations over people  
-   Link: <a href="https://www.faa.gov/uas/commercial_operators/operations_over_people" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/uas/commercial_operators/operations_over_people</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationOperations Over People General Overview10 Nov 2022 — The small unmanned aircraft must have lighted anti-co...</p></details>
+   Link:<a href="https://www.faa.gov/uas/commercial_operators/operations_over_people" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/uas/commercial_operators/operations_over_people</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationOperations Over People General Overview10 Nov 2022 — The small unmanned aircraft must have lighted anti-co...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: faa.gov  
    Title: getting started  
-   Link: <a href="https://www.faa.gov/uas/getting_started" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/uas/getting_started</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Drone pilots must also continue to follow all rules such as keeping their drone...Read more...</p></details>
+   Link:<a href="https://www.faa.gov/uas/getting_started" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/uas/getting_started</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Drone pilots must also continue to follow all rules such as keeping their drone...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: faa.gov  
    Title: remote id  
-   Link: <a href="https://www.faa.gov/uas/getting_started/remote_id" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/uas/getting_started/remote_id</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationRemote Identification of DronesMar 19, 2025 — Remote ID is the ability of a drone in flight to provide ide...</p></details>
+   Link:<a href="https://www.faa.gov/uas/getting_started/remote_id" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/uas/getting_started/remote_id</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationRemote Identification of DronesMar 19, 2025 — Remote ID is the ability of a drone in flight to provide ide...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: faa.gov  
    Title: recreational flyers  
-   Link: <a href="https://www.faa.gov/uas/recreational_flyers" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/uas/recreational_flyers</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>M — Make it legal (Take TRUST). You are required by law to take TRUST and...Read more...</p></details>
+   Link:<a href="https://www.faa.gov/uas/recreational_flyers" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/uas/recreational_flyers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>M — Make it legal (Take TRUST). You are required by law to take TRUST and...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: faa.gov  
    Title: register drone  
-   Link: <a href="https://www.faa.gov/uas/getting_started/register_drone" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/uas/getting_started/register_drone</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Register Your Drone18 Mar 2024 — Part 107 registration costs $5 per drone and is valid for three (3) years. The Exception for Limi...</p></details>
+   Link:<a href="https://www.faa.gov/uas/getting_started/register_drone" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/uas/getting_started/register_drone</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Register Your Drone18 Mar 2024 — Part 107 registration costs $5 per drone and is valid for three (3) years. The Exception for Limi...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: axios.com  
-   Link: <a href="https://www.axios.com/2019/12/31/faa-drone-regulations" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2019/12/31/faa-drone-regulations</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The draft rule aims to help authorities monitor drones, detect unauthorized usage, and alleviate security concerns, especially in light o...</p></details>
+   Link:<a href="https://www.axios.com/2019/12/31/faa-drone-regulations" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2019/12/31/faa-drone-regulations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The draft rule aims to help authorities monitor drones, detect unauthorized usage, and alleviate security concerns, especially in light o...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/uas/commercial_operators/part_107_waivers" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/uas/commercial_operators/part_107_waivers</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Part 107 Waivers | Federal Aviation AdministrationFly a small UAS at night or during periods of civil twilight without anti-collision lig...</p></details>
+   Link:<a href="https://www.faa.gov/uas/commercial_operators/part_107_waivers" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/uas/commercial_operators/part_107_waivers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Part 107 Waivers | Federal Aviation AdministrationFly a small UAS at night or during periods of civil twilight without anti-collision lig...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: faadronezone-access.faa.gov  
-   Link: <a href="https://faadronezone-access.faa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://faadronezone-access.faa.gov/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Drone Zone - Federal Aviation AdministrationYou must use the paper (N-number) registration process if: · Your unmanned aircraft is 55 pou...</p></details>
+   Link:<a href="https://faadronezone-access.faa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://faadronezone-access.faa.gov/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Drone Zone - Federal Aviation AdministrationYou must use the paper (N-number) registration process if: · Your unmanned aircraft is 55 pou...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/registering-to-fly-drones-and-model-aircraft/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/registering-to-fly-drones-and-model-aircraft/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Civil Aviation AuthorityRegistering to fly drones and model aircraftIf your drone or model aircraft weighs from 250g to less than 25kg, y...</p></details>
+   Link:<a href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/registering-to-fly-drones-and-model-aircraft/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/registering-to-fly-drones-and-model-aircraft/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Civil Aviation AuthorityRegistering to fly drones and model aircraftIf your drone or model aircraft weighs from 250g to less than 25kg, y...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: caa.co.uk  
    Title: Civil Aviation Authority Get an Operator ID  
-   Link: <a href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/get-an-operator-id/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/get-an-operator-id/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Civil Aviation AuthorityGet an Operator ID - DronesAn Operator ID does not give you authorisation to fly. If you want to fly, you must al...</p></details>
+   Link:<a href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/get-an-operator-id/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/get-an-operator-id/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Civil Aviation AuthorityGet an Operator ID - DronesAn Operator ID does not give you authorisation to fly. If you want to fly, you must al...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/flyer-ids-and-operator-ids/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/flyer-ids-and-operator-ids/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Civil Aviation AuthorityFlyer IDs and Operator IDsPassing the Flyer ID test shows you understand how to fly safely and legally. It allows...</p></details>
+   Link:<a href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/flyer-ids-and-operator-ids/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/flyer-ids-and-operator-ids/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Civil Aviation AuthorityFlyer IDs and Operator IDsPassing the Flyer ID test shows you understand how to fly safely and legally. It allows...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: dronepilotgroundschool.com  
    Title: remote id  
-   Link: <a href="https://www.dronepilotgroundschool.com/remote-id/" target="_blank" rel="noopener noreferrer nofollow">https://www.dronepilotgroundschool.com/remote-id/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Drone Pilot Ground SchoolUnderstanding Remote ID: A Comprehensive GuideThe Remote ID rule applies to all drone operations for any drone t...</p></details>
+   Link:<a href="https://www.dronepilotgroundschool.com/remote-id/" target="_blank" rel="noopener noreferrer nofollow">https://www.dronepilotgroundschool.com/remote-id/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Drone Pilot Ground SchoolUnderstanding Remote ID: A Comprehensive GuideThe Remote ID rule applies to all drone operations for any drone t...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nypost.com  
-   Link: <a href="https://nypost.com/2024/12/23/us-news/mystery-drones-could-be-identified-faster-using-new-detection-tool-but-faa-lacks-resources/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/12/23/us-news/mystery-drones-could-be-identified-faster-using-new-detection-tool-but-faa-lacks-resources/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Although the FAA now requires Remote ID technology on drones, allowing them to be uniquely identifiable through a &quot;digital license plate...</p></details>
+   Link:<a href="https://nypost.com/2024/12/23/us-news/mystery-drones-could-be-identified-faster-using-new-detection-tool-but-faa-lacks-resources/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/12/23/us-news/mystery-drones-could-be-identified-faster-using-new-detection-tool-but-faa-lacks-resources/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Although the FAA now requires Remote ID technology on drones, allowing them to be uniquely identifiable through a &quot;digital license plate...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: jrupprechtlaw.com  
-   Link: <a href="https://jrupprechtlaw.com/drone-anti-collision-lights/" target="_blank" rel="noopener noreferrer nofollow">https://jrupprechtlaw.com/drone-anti-collision-lights/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rupprecht LawUltimate Guide to Drone Anti-Collision LightsAnti-collision lights are (1) red or white and (2) blinking/strobing. Navigatio...</p></details>
+   Link:<a href="https://jrupprechtlaw.com/drone-anti-collision-lights/" target="_blank" rel="noopener noreferrer nofollow">https://jrupprechtlaw.com/drone-anti-collision-lights/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rupprecht LawUltimate Guide to Drone Anti-Collision LightsAnti-collision lights are (1) red or white and (2) blinking/strobing. Navigatio...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Civil Aviation AuthorityFlying at night in the Open CategoryGet a Flyer ID for a child under 13 · Labelling your drone or model aircraft...</p></details>
+   Link:<a href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Civil Aviation AuthorityFlying at night in the Open CategoryGet a Flyer ID for a child under 13 · Labelling your drone or model aircraft...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: t3.com  
-   Link: <a href="https://www.t3.com/active/outdoors/caa-drone-regulation-changes-2026" target="_blank" rel="noopener noreferrer nofollow">https://www.t3.com/active/outdoors/caa-drone-regulation-changes-2026</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Key updates include lowering the registration threshold, requiring anyone flying drones over 100g (previously 250g) to obtain a free Flye...</p></details>
+   Link:<a href="https://www.t3.com/active/outdoors/caa-drone-regulation-changes-2026" target="_blank" rel="noopener noreferrer nofollow">https://www.t3.com/active/outdoors/caa-drone-regulation-changes-2026</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Key updates include lowering the registration threshold, requiring anyone flying drones over 100g (previously 250g) to obtain a free Flye...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: betalight-tactical.com  
-   Link: <a href="https://betalight-tactical.com/product/anti-collision-drone-lights" target="_blank" rel="noopener noreferrer nofollow">https://betalight-tactical.com/product/anti-collision-drone-lights</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Drone Anti-Collision Lights | Red, White &amp; IR LightingExplore high-intensity drone anti-collision lights engineered for UAVs, military ai...</p></details>
+   Link:<a href="https://betalight-tactical.com/product/anti-collision-drone-lights" target="_blank" rel="noopener noreferrer nofollow">https://betalight-tactical.com/product/anti-collision-drone-lights</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Drone Anti-Collision Lights | Red, White &amp; IR LightingExplore high-intensity drone anti-collision lights engineered for UAVs, military ai...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: Wikipedia  
    Title: Remote ID  
-   Link: <a href="https://en.wikipedia.org/wiki/Remote_ID" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Remote_ID</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Remote IDRemote ID is a regulation of the US Federal Aviation Administration (FAA) that requires registered drones—unmanned aircraft s...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Remote_ID" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Remote_ID</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Remote IDRemote ID is a regulation of the US Federal Aviation Administration (FAA) that requires registered drones—unmanned aircraft s...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: uavcoach.com  
    Title: remote id  
-   Link: <a href="https://uavcoach.com/remote-id/" target="_blank" rel="noopener noreferrer nofollow">https://uavcoach.com/remote-id/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Has Arrived—Here&#x27;s Everything You Need to...4 Apr 2026 — The FAA&#x27;s Remote ID rule is in effect for all drone operations for any drone th...</p></details>
+   Link:<a href="https://uavcoach.com/remote-id/" target="_blank" rel="noopener noreferrer nofollow">https://uavcoach.com/remote-id/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Has Arrived—Here&#x27;s Everything You Need to...4 Apr 2026 — The FAA&#x27;s Remote ID rule is in effect for all drone operations for any drone th...</p></details>
 
 ### Additional References
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: help.dronedeploy.com  
-   Link: <a href="https://help.dronedeploy.com/hc/en-us/articles/12612048936599-What-You-Need-to-Know-About-the-FAA-s-Remote-Identification-ID-Requirements" target="_blank" rel="noopener noreferrer nofollow">https://help.dronedeploy.com/hc/en-us/articles/12612048936599-What-You-Need-to-Know-About-the-FAA-s-Remote-Identification-ID-Requirements</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>You Need to Know About the FAA&#x27;s Remote...Jan 21, 2026 — Remote ID compliance is mandatory for all drones registered with the FAA, inclu...</p></details>
+   Link:<a href="https://help.dronedeploy.com/hc/en-us/articles/12612048936599-What-You-Need-to-Know-About-the-FAA-s-Remote-Identification-ID-Requirements" target="_blank" rel="noopener noreferrer nofollow">https://help.dronedeploy.com/hc/en-us/articles/12612048936599-What-You-Need-to-Know-About-the-FAA-s-Remote-Identification-ID-Requirements</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>You Need to Know About the FAA&#x27;s Remote...Jan 21, 2026 — Remote ID compliance is mandatory for all drones registered with the FAA, inclu...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/drones/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Flying remotely piloted aircraft | UK Civil Aviation AuthorityGet an Operator ID · PDRA01 Operational Authorisation · UK SORA-based Opera...</p></details>
+   Link:<a href="https://www.caa.co.uk/drones/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Flying remotely piloted aircraft | UK Civil Aviation AuthorityGet an Operator ID · PDRA01 Operational Authorisation · UK SORA-based Opera...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: thedroneidcard.com  
-   Link: <a href="https://thedroneidcard.com/get-to-know-the-uk-drone-rules.html" target="_blank" rel="noopener noreferrer nofollow">https://thedroneidcard.com/get-to-know-the-uk-drone-rules.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Know the Drone Rules | TheDroneIDCardTo operate a drone or model aircraft legally in the UK, registration with the CAA is mandatory. This...</p></details>
+   Link:<a href="https://thedroneidcard.com/get-to-know-the-uk-drone-rules.html" target="_blank" rel="noopener noreferrer nofollow">https://thedroneidcard.com/get-to-know-the-uk-drone-rules.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Know the Drone Rules | TheDroneIDCardTo operate a drone or model aircraft legally in the UK, registration with the CAA is mandatory. This...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: hiredronepilot.uk  
-   Link: <a href="https://hiredronepilot.uk/blog/what-is-a-drone-operator-id/" target="_blank" rel="noopener noreferrer nofollow">https://hiredronepilot.uk/blog/what-is-a-drone-operator-id/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What Is A Drone Operator ID: The UK Registration ExplainedThe Operator ID is the CAA annual registration for the person or organisation l...</p></details>
+   Link:<a href="https://hiredronepilot.uk/blog/what-is-a-drone-operator-id/" target="_blank" rel="noopener noreferrer nofollow">https://hiredronepilot.uk/blog/what-is-a-drone-operator-id/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Is A Drone Operator ID: The UK Registration ExplainedThe Operator ID is the CAA annual registration for the person or organisation l...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: zenatech.com  
-   Link: <a href="https://www.zenatech.com/essential-guide-for-drone-registration/" target="_blank" rel="noopener noreferrer nofollow">https://www.zenatech.com/essential-guide-for-drone-registration/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Your Essential Guide for Drone RegistrationRegardless of the drone&#x27;s weight, an operator ID is required, and a General Visual Line of Sig...</p></details>
+   Link:<a href="https://www.zenatech.com/essential-guide-for-drone-registration/" target="_blank" rel="noopener noreferrer nofollow">https://www.zenatech.com/essential-guide-for-drone-registration/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Your Essential Guide for Drone RegistrationRegardless of the drone&#x27;s weight, an operator ID is required, and a General Visual Line of Sig...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: lboro.ac.uk  
-   Link: <a href="https://www.lboro.ac.uk/services/health-safety/documents/drone-code/" target="_blank" rel="noopener noreferrer nofollow">https://www.lboro.ac.uk/services/health-safety/documents/drone-code/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Operator ID covers all of an operators SUA/Drones/Model Aircraft. All these requirements become law on 30...Read more...</p></details>
+   Link:<a href="https://www.lboro.ac.uk/services/health-safety/documents/drone-code/" target="_blank" rel="noopener noreferrer nofollow">https://www.lboro.ac.uk/services/health-safety/documents/drone-code/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Operator ID covers all of an operators SUA/Drones/Model Aircraft. All these requirements become law on 30...Read more...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NorthWestLeicsPolice/posts/-key-uk-drone-laws-rules-%EF%B8%8Fflyer-id-from-the-1st-of-january-2026-anyone-flying-a-/1305645221603916/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NorthWestLeicsPolice/posts/-key-uk-drone-laws-rules-%EF%B8%8Fflyer-id-from-the-1st-of-january-2026-anyone-flying-a-/1305645221603916/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Key UK Drone Laws &amp; Rules 🛸 ▪️Flyer ID: From the 1st of🛸 Key UK Drone Laws &amp; Rules 🛸 ▪️Flyer ID: From the 1st of January 2026, anyone f...</p></details>
+   Link:<a href="https://www.facebook.com/NorthWestLeicsPolice/posts/-key-uk-drone-laws-rules-%EF%B8%8Fflyer-id-from-the-1st-of-january-2026-anyone-flying-a-/1305645221603916/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NorthWestLeicsPolice/posts/-key-uk-drone-laws-rules-%EF%B8%8Fflyer-id-from-the-1st-of-january-2026-anyone-flying-a-/1305645221603916/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Key UK Drone Laws &amp; Rules 🛸 ▪️Flyer ID: From the 1st of🛸 Key UK Drone Laws &amp; Rules 🛸 ▪️Flyer ID: From the 1st of January 2026, anyone f...</p></details>
    Published: january 2026  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: hiredronepilot.uk  
    Title: Anyone flying a drone of 250g or more, or any drone with a camera that  
-   Link: <a href="https://hiredronepilot.uk/blog/drone-laws-uk/" target="_blank" rel="noopener noreferrer nofollow">https://hiredronepilot.uk/blog/drone-laws-uk/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Drone Laws: The 2026 Guide For Drone PilotsA Flyer ID is a free, five-year pass that proves you have passed the online theory test...</p></details>
+   Link:<a href="https://hiredronepilot.uk/blog/drone-laws-uk/" target="_blank" rel="noopener noreferrer nofollow">https://hiredronepilot.uk/blog/drone-laws-uk/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK Drone Laws: The 2026 Guide For Drone PilotsA Flyer ID is a free, five-year pass that proves you have passed the online theory test...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: dronelife.com  
    Title: uk drone rules overhaul mandatory theory tests and ids from 2026  
-   Link: <a href="https://dronelife.com/2025/12/29/uk-drone-rules-overhaul-mandatory-theory-tests-and-ids-from-2026/" target="_blank" rel="noopener noreferrer nofollow">https://dronelife.com/2025/12/29/uk-drone-rules-overhaul-mandatory-theory-tests-and-ids-from-2026/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK drone theory test Flyer ID regulations 202629 Dec 2025 — New UK drone regs take effect January 1, 2026. Most outdoor pilots must pass...</p></details>
+   Link:<a href="https://dronelife.com/2025/12/29/uk-drone-rules-overhaul-mandatory-theory-tests-and-ids-from-2026/" target="_blank" rel="noopener noreferrer nofollow">https://dronelife.com/2025/12/29/uk-drone-rules-overhaul-mandatory-theory-tests-and-ids-from-2026/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK drone theory test Flyer ID regulations 202629 Dec 2025 — New UK drone regs take effect January 1, 2026. Most outdoor pilots must pass...</p></details>
    Published: January 1, 2026  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: coastaldrone.co  
-   Link: <a href="https://coastaldrone.co/recreational-and-commercial-drone-operation-faa-part-107/" target="_blank" rel="noopener noreferrer nofollow">https://coastaldrone.co/recreational-and-commercial-drone-operation-faa-part-107/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FAA registration number it will be also required to broadcast Remote ID information.Read more...</p></details>
+   Link:<a href="https://coastaldrone.co/recreational-and-commercial-drone-operation-faa-part-107/" target="_blank" rel="noopener noreferrer nofollow">https://coastaldrone.co/recreational-and-commercial-drone-operation-faa-part-107/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FAA registration number it will be also required to broadcast Remote ID information.Read more...</p></details>

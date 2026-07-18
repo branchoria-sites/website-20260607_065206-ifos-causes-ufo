@@ -271,13 +271,13 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c_not_a
 [Drones]({{ 'drones/' | relative_url }}) have become a common explanation for unusual lights in the sky, and often for good reason. Small unmanned aircraft can hover, change direction abruptly, and display bright LEDs that look strange at night. However, a drone explanation has limits. Calling every unidentified light a drone can be as misleading as assuming every unidentified light is something extraordinary.
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c_not_a_drone_clues_cedb4f-Illustration-1-dark.svg" | relative_url }}" alt="Not a Drone illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c_not_a_drone_clues_cedb4f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c_not_a_drone_clues_cedb4f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-When investigators assess UFO or UAP reports, one useful question is not “Could it be a drone?” but “Does the observed behaviour still fit what a drone can realistically do?” Long duration, apparent altitude, extended travel across the sky, and the absence of a plausible operating area can all push a sighting beyond the [range]({{ 'range/' | relative_url }}) where a small consumer drone is the most likely explanation. In those cases, aircraft, [satellites]({{ 'satellites/' | relative_url }}), planets, balloons, or other ordinary causes often become stronger candidates than drones. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.droneuniversities.com/drone-battery-management/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: droneuniversities.com">[Drone Universities]</a><span class="citation-popover" role="note"><span class="citation-popover-source">droneuniversities.com</span><span class="citation-popover-snippet">Drone UniversitiesMax Flight Time and Battery LifespanWith flight times typically ranging from 20-30 minutes for consumer models, effecti...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://hiredronepilot.uk/blog/drone-battery-life" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hiredronepilot.uk">[Hire Drone Pilot]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hiredronepilot.uk</span><span class="citation-popover-title">drone battery life</span><span class="citation-popover-snippet">How Long They Last &amp; Tips to Extend ItSep 12, 2025 — Most consumer drones offer an average flight time of 20–40 minutes per battery; Larg...</span></span></span>
+When investigators assess UFO or UAP reports, one useful question is not “Could it be a drone?” but “Does the observed behaviour still fit what a drone can realistically do?” Long duration, apparent altitude, extended travel across the sky, and the absence of a plausible operating area can all push a sighting beyond the [range]({{ 'range/' | relative_url }}) where a small consumer drone is the most likely explanation. In those cases, aircraft, [satellites]({{ 'satellites/' | relative_url }}), planets, balloons, or other ordinary causes often become stronger candidates than drones.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.droneuniversities.com/drone-battery-management/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: droneuniversities.com">[Drone Universities]</a><span class="citation-popover" role="note"><span class="citation-popover-source">droneuniversities.com</span><span class="citation-popover-snippet">Drone UniversitiesMax Flight Time and Battery LifespanWith flight times typically ranging from 20-30 minutes for consumer models, effecti...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://hiredronepilot.uk/blog/drone-battery-life" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hiredronepilot.uk">[Hire Drone Pilot]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hiredronepilot.uk</span><span class="citation-popover-title">drone battery life</span><span class="citation-popover-snippet">How Long They Last &amp; Tips to Extend ItSep 12, 2025 — Most consumer drones offer an average flight time of 20–40 minutes per battery; Larg...</span></span></span>
 
 ## Duration and Battery-Life Red Flags
 
 One of the quickest ways to test a drone hypothesis is to examine how long the object remained visible.
 
-Most consumer drones stay airborne for roughly 20 to 40 minutes per battery under favourable conditions, with many common recreational models clustering around the lower end of that range. Even higher-end consumer drones generally remain measured in tens of minutes rather than hours. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.grepow.com/blog/what-is-the-longest-lasting-drone-battery.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: grepow.com">[Grepow]</a><span class="citation-popover" role="note"><span class="citation-popover-source">grepow.com</span><span class="citation-popover-title">What Is The Longest Lasting Drone Battery</span><span class="citation-popover-snippet">May 17, 2024 — Flight Time: Consumer drones typically offer flight times ranging from 15 to 30 minutes. High-end consumer and professiona...</span><span class="citation-popover-meta">Published: May 17, 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.droneuniversities.com/drone-battery-management/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: droneuniversities.com">[Drone Universities]</a><span class="citation-popover" role="note"><span class="citation-popover-source">droneuniversities.com</span><span class="citation-popover-snippet">Drone UniversitiesMax Flight Time and Battery LifespanWith flight times typically ranging from 20-30 minutes for consumer models, effecti...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://hiredronepilot.uk/blog/drone-battery-life" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hiredronepilot.uk">[Hire Drone Pilot]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hiredronepilot.uk</span><span class="citation-popover-title">drone battery life</span><span class="citation-popover-snippet">How Long They Last &amp; Tips to Extend ItSep 12, 2025 — Most consumer drones offer an average flight time of 20–40 minutes per battery; Larg...</span></span></span>
+Most consumer drones stay airborne for roughly 20 to 40 minutes per battery under favourable conditions, with many common recreational models clustering around the lower end of that range. Even higher-end consumer drones generally remain measured in tens of minutes rather than hours.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.grepow.com/blog/what-is-the-longest-lasting-drone-battery.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: grepow.com">[Grepow]</a><span class="citation-popover" role="note"><span class="citation-popover-source">grepow.com</span><span class="citation-popover-title">What Is The Longest Lasting Drone Battery</span><span class="citation-popover-snippet">May 17, 2024 — Flight Time: Consumer drones typically offer flight times ranging from 15 to 30 minutes. High-end consumer and professiona...</span><span class="citation-popover-meta">Published: May 17, 2024</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.droneuniversities.com/drone-battery-management/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: droneuniversities.com">[Drone Universities]</a><span class="citation-popover" role="note"><span class="citation-popover-source">droneuniversities.com</span><span class="citation-popover-snippet">Drone UniversitiesMax Flight Time and Battery LifespanWith flight times typically ranging from 20-30 minutes for consumer models, effecti...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://hiredronepilot.uk/blog/drone-battery-life" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hiredronepilot.uk">[Hire Drone Pilot]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hiredronepilot.uk</span><span class="citation-popover-title">drone battery life</span><span class="citation-popover-snippet">How Long They Last &amp; Tips to Extend ItSep 12, 2025 — Most consumer drones offer an average flight time of 20–40 minutes per battery; Larg...</span></span></span>
 
 That does not mean a drone cannot be seen for a long period. A pilot could swap batteries, launch multiple drones, or operate a professional system with greater endurance. Nevertheless, duration remains an important clue.
 
@@ -292,7 +292,7 @@ A drone explanation becomes increasingly strained when a witness reports:
 
 </div>
 
-These observations do not automatically rule out drones, but they weaken the fit. A bright object visible for a long period is often better explained by an aircraft on a distant route, a planet, a star low on the horizon, or a satellite pass than by a small quadcopter. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popastro.com/predicting-the-iss-and-other-satellites/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popastro.com">[Popular Astronomy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popastro.com</span><span class="citation-popover-title">Popular Astronomy Predicting the ISS and other satellites (including Starlink</span><span class="citation-popover-snippet">Popular AstronomyPredicting the ISS and other satellites (including Starlink)July 12, 2023 — In winter, most satellites are only visible...</span><span class="citation-popover-meta">Published: July 12, 2023</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">These satellites initially travel in a tight, bright line resembling a &quot;train,&quot; captivating skywatchers and often being mistaken for UFOs...</span></span></span> Another warning sign is the absence of any operational logic. Drones are usually flown for a purpose: photography, inspection, surveying, recreation, emergency work, or commercial activity. If a light appears to remain high overhead for an unusually long period with no evident mission and no nearby launch area, the drone explanation deserves closer scrutiny.
+These observations do not automatically rule out drones, but they weaken the fit. A bright object visible for a long period is often better explained by an aircraft on a distant route, a planet, a star low on the horizon, or a satellite pass than by a small quadcopter.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popastro.com/predicting-the-iss-and-other-satellites/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popastro.com">[Popular Astronomy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popastro.com</span><span class="citation-popover-title">Popular Astronomy Predicting the ISS and other satellites (including Starlink</span><span class="citation-popover-snippet">Popular AstronomyPredicting the ISS and other satellites (including Starlink)July 12, 2023 — In winter, most satellites are only visible...</span><span class="citation-popover-meta">Published: July 12, 2023</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">These satellites initially travel in a tight, bright line resembling a &quot;train,&quot; captivating skywatchers and often being mistaken for UFOs...</span></span></span> Another warning sign is the absence of any operational logic. Drones are usually flown for a purpose: photography, inspection, surveying, recreation, emergency work, or commercial activity. If a light appears to remain high overhead for an unusually long period with no evident mission and no nearby launch area, the drone explanation deserves closer scrutiny.
 
 ## Altitude and Sky-Crossing Movement
 
@@ -304,11 +304,11 @@ People often underestimate how difficult it is to judge altitude at night. A nea
 
 Many UFO reports describe a light moving steadily from one horizon to another without obvious manoeuvres. That behaviour often points away from a small hovering drone and toward a satellite or aircraft.
 
-Satellites, including the International Space Station and large satellite constellations, commonly appear as star-like lights that travel smoothly across the sky without flashing. They may remain visible for several minutes before fading as lighting conditions change. Satellite passes are frequently mistaken for unusual craft because observers see movement but cannot hear engines or identify navigation lights. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popastro.com/predicting-the-iss-and-other-satellites/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popastro.com">[Popular Astronomy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popastro.com</span><span class="citation-popover-title">Popular Astronomy Predicting the ISS and other satellites (including Starlink</span><span class="citation-popover-snippet">Popular AstronomyPredicting the ISS and other satellites (including Starlink)July 12, 2023 — In winter, most satellites are only visible...</span><span class="citation-popover-meta">Published: July 12, 2023</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">These satellites initially travel in a tight, bright line resembling a &quot;train,&quot; captivating skywatchers and often being mistaken for UFOs...</span></span></span> A key distinction is consistency. A satellite typically follows a smooth, uninterrupted path. A drone, by contrast, is usually associated with local operations and tends to show more limited movement relative to the observer's location.
+Satellites, including the International Space Station and large satellite constellations, commonly appear as star-like lights that travel smoothly across the sky without flashing. They may remain visible for several minutes before fading as lighting conditions change. Satellite passes are frequently mistaken for unusual craft because observers see movement but cannot hear engines or identify navigation lights.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popastro.com/predicting-the-iss-and-other-satellites/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popastro.com">[Popular Astronomy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popastro.com</span><span class="citation-popover-title">Popular Astronomy Predicting the ISS and other satellites (including Starlink</span><span class="citation-popover-snippet">Popular AstronomyPredicting the ISS and other satellites (including Starlink)July 12, 2023 — In winter, most satellites are only visible...</span><span class="citation-popover-meta">Published: July 12, 2023</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">These satellites initially travel in a tight, bright line resembling a &quot;train,&quot; captivating skywatchers and often being mistaken for UFOs...</span></span></span> A key distinction is consistency. A satellite typically follows a smooth, uninterrupted path. A drone, by contrast, is usually associated with local operations and tends to show more limited movement relative to the observer's location.
 
 ### When the apparent altitude seems extreme
 
-Small drones are generally operated relatively close to the ground compared with aircraft and satellites. In many jurisdictions, routine drone operations are subject to altitude restrictions, and operators must maintain practical control of the aircraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/newsroom/small-unmanned-aircraft-systems-uas-regulations-part-107" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">small unmanned aircraft systems uas regulations part 107</span><span class="citation-popover-snippet">Federal Aviation AdministrationSmall Unmanned Aircraft Systems (UAS) Regulations (Part...Oct 6, 2020 — You can fly during daylight (30 m...</span></span></span>
+Small drones are generally operated relatively close to the ground compared with aircraft and satellites. In many jurisdictions, routine drone operations are subject to altitude restrictions, and operators must maintain practical control of the aircraft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/newsroom/small-unmanned-aircraft-systems-uas-regulations-part-107" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">small unmanned aircraft systems uas regulations part 107</span><span class="citation-popover-snippet">Federal Aviation AdministrationSmall Unmanned Aircraft Systems (UAS) Regulations (Part...Oct 6, 2020 — You can fly during daylight (30 m...</span></span></span>
 
 If witnesses describe an object apparently cruising at the altitude of airliners, crossing enormous distances, and remaining visible for extended periods, alternative explanations become increasingly plausible.
 
@@ -323,7 +323,7 @@ This is especially true when the object:
 
 </div>
 
-Those characteristics are more consistent with conventional aircraft or satellites than with a hobby drone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popastro.com/predicting-the-iss-and-other-satellites/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popastro.com">[Popular Astronomy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popastro.com</span><span class="citation-popover-title">Popular Astronomy Predicting the ISS and other satellites (including Starlink</span><span class="citation-popover-snippet">Popular AstronomyPredicting the ISS and other satellites (including Starlink)July 12, 2023 — In winter, most satellites are only visible...</span><span class="citation-popover-meta">Published: July 12, 2023</span></span></span>
+Those characteristics are more consistent with conventional aircraft or satellites than with a hobby drone.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popastro.com/predicting-the-iss-and-other-satellites/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popastro.com">[Popular Astronomy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popastro.com</span><span class="citation-popover-title">Popular Astronomy Predicting the ISS and other satellites (including Starlink</span><span class="citation-popover-snippet">Popular AstronomyPredicting the ISS and other satellites (including Starlink)July 12, 2023 — In winter, most satellites are only visible...</span><span class="citation-popover-meta">Published: July 12, 2023</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c_not_a_drone_clues_cedb4f-Illustration-2-dark.svg" | relative_url }}" alt="Not a Drone illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c_not_a_drone_clues_cedb4f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c_not_a_drone_clues_cedb4f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The sound problem
@@ -351,9 +351,9 @@ A light that remains fixed relative to the landscape for long periods is often m
 
 ### Satellites and Starlink
 
-Satellite sightings have become increasingly important in the modern UFO landscape. Newly launched [Starlink]({{ 'starlink/' | relative_url }}) satellites can appear as moving chains of lights, while individual satellites often resemble silent [stars]({{ 'stars/' | relative_url }}) crossing the sky. These sightings are documented sources of public confusion and have generated numerous UFO and UAP reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">These satellites initially travel in a tight, bright line resembling a &quot;train,&quot; captivating skywatchers and often being mistaken for UFOs...</span></span></span>
+Satellite sightings have become increasingly important in the modern UFO landscape. Newly launched [Starlink]({{ 'starlink/' | relative_url }}) satellites can appear as moving chains of lights, while individual satellites often resemble silent [stars]({{ 'stars/' | relative_url }}) crossing the sky. These sightings are documented sources of public confusion and have generated numerous UFO and UAP reports.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">These satellites initially travel in a tight, bright line resembling a &quot;train,&quot; captivating skywatchers and often being mistaken for UFOs...</span></span></span>
 
-Unlike drones, satellites do not hover locally. They move steadily across large sections of the sky and eventually disappear when they enter Earth's shadow or cease reflecting sunlight. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popastro.com/predicting-the-iss-and-other-satellites/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popastro.com">[Popular Astronomy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popastro.com</span><span class="citation-popover-title">Popular Astronomy Predicting the ISS and other satellites (including Starlink</span><span class="citation-popover-snippet">Popular AstronomyPredicting the ISS and other satellites (including Starlink)July 12, 2023 — In winter, most satellites are only visible...</span><span class="citation-popover-meta">Published: July 12, 2023</span></span></span>
+Unlike drones, satellites do not hover locally. They move steadily across large sections of the sky and eventually disappear when they enter Earth's shadow or cease reflecting sunlight.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popastro.com/predicting-the-iss-and-other-satellites/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popastro.com">[Popular Astronomy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popastro.com</span><span class="citation-popover-title">Popular Astronomy Predicting the ISS and other satellites (including Starlink</span><span class="citation-popover-snippet">Popular AstronomyPredicting the ISS and other satellites (including Starlink)July 12, 2023 — In winter, most satellites are only visible...</span><span class="citation-popover-meta">Published: July 12, 2023</span></span></span>
 
 ### Balloons
 
@@ -374,194 +374,194 @@ A careful assessment asks whether the reported duration, altitude, movement patt
 In UFO investigations, the goal is not to force every sighting into a drone category. It is to identify the explanation that best matches the evidence. Sometimes that explanation is a drone. Sometimes the evidence points somewhere else entirely.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When a UFO probably is not a drone. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When a UFO probably is not a drone. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Supports careful classification when a proposed identification does not fit.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports careful classification when a proposed identification does not fit.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides a broader official-investigation lane for reports that resist simple drone explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a broader official-investigation lane for reports that resist simple drone explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Useful when drone explanations weaken and planets or stars become stronger candidates.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful when drone explanations weaken and planets or stars become stronger candidates.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Drones+for+Dummies+Mark+Lafay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Drones for Dummies on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Drones+for+Dummies+Mark+Lafay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drones for Dummies">Drones for Dummies</a>
-        </h4>
-        <p class="fr-book-author">By Mark Lafay</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Drones+for+Dummies+Mark+Lafay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Drones for Dummies on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Drones+for+Dummies+Mark+Lafay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drones for Dummies">Drones for Dummies</a>
+</h4>
+<p class="fr-book-author">By Mark Lafay</p>
         
-        <p class="fr-book-desc">First published 2015. Subjects: Remotely piloted Vehicles, Drone aircraft, Aeronautics, Vehicles, remotely piloted, Ug1242.d7 l34 2015.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Drones+for+Dummies+Mark+Lafay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2015. Subjects: Remotely piloted Vehicles, Drone aircraft, Aeronautics, Vehicles, remotely piloted, Ug1242.d7 l34 2015.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Drones+for+Dummies+Mark+Lafay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-ufo-probably-is-not-a-drone-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="when-a-ufo-probably-is-not-a-drone-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DJI Drone/ Or model Vinyl WP HQ Decals, Free PnP Easy To Apply"><img src="https://i.ebayimg.com/images/g/3WIAAeSw4sRqIXno/s-l225.jpg" alt="Listing image for DJI Drone/ Or model Vinyl WP HQ Decals, Free PnP Easy To Apply" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-ufo-probably-is-not-a-drone-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="when-a-ufo-probably-is-not-a-drone-drone-model" target="_blank" rel="sponsored noopener noreferrer">DJI Drone/ Or model Vinyl WP HQ Decals, Free PnP Easy To Apply</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-ufo-probably-is-not-a-drone-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="when-a-ufo-probably-is-not-a-drone-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone model">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-ufo-probably-is-not-a-drone-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="when-a-ufo-probably-is-not-a-drone-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-ufo-probably-is-not-a-drone-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="when-a-ufo-probably-is-not-a-drone-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DJI Drone/ Or model Vinyl WP HQ Decals, Free PnP Easy To Apply"><img src="https://i.ebayimg.com/images/g/3WIAAeSw4sRqIXno/s-l225.jpg" alt="Listing image for DJI Drone/ Or model Vinyl WP HQ Decals, Free PnP Easy To Apply" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-ufo-probably-is-not-a-drone-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="when-a-ufo-probably-is-not-a-drone-drone-model" target="_blank" rel="sponsored noopener noreferrer">DJI Drone/ Or model Vinyl WP HQ Decals, Free PnP Easy To Apply</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-ufo-probably-is-not-a-drone-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="when-a-ufo-probably-is-not-a-drone-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone model">Search<span data-ebay-domain-label>eBay.co.uk</span>: drone model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-ufo-probably-is-not-a-drone-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="when-a-ufo-probably-is-not-a-drone-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-ufo-probably-is-not-a-drone-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="when-a-ufo-probably-is-not-a-drone-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Six-axis Gyroscope Remote Control Black Drone Model 2.4GHZ 14+ Ages"><img src="https://i.ebayimg.com/images/g/l2QAAeSw~LZpZqUT/s-l225.jpg" alt="Listing image for Six-axis Gyroscope Remote Control Black Drone Model 2.4GHZ 14+ Ages" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-ufo-probably-is-not-a-drone-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="when-a-ufo-probably-is-not-a-drone-drone-model" target="_blank" rel="sponsored noopener noreferrer">Six-axis Gyroscope Remote Control Black Drone Model 2.4GHZ 14+ Ages</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-ufo-probably-is-not-a-drone-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="when-a-ufo-probably-is-not-a-drone-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone model">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-ufo-probably-is-not-a-drone-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="when-a-ufo-probably-is-not-a-drone-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-ufo-probably-is-not-a-drone-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="when-a-ufo-probably-is-not-a-drone-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Six-axis Gyroscope Remote Control Black Drone Model 2.4GHZ 14+ Ages"><img src="https://i.ebayimg.com/images/g/l2QAAeSw~LZpZqUT/s-l225.jpg" alt="Listing image for Six-axis Gyroscope Remote Control Black Drone Model 2.4GHZ 14+ Ages" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-ufo-probably-is-not-a-drone-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="when-a-ufo-probably-is-not-a-drone-drone-model" target="_blank" rel="sponsored noopener noreferrer">Six-axis Gyroscope Remote Control Black Drone Model 2.4GHZ 14+ Ages</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-ufo-probably-is-not-a-drone-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="when-a-ufo-probably-is-not-a-drone-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone model">Search<span data-ebay-domain-label>eBay.co.uk</span>: drone model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-ufo-probably-is-not-a-drone-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="when-a-ufo-probably-is-not-a-drone-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-ufo-probably-is-not-a-drone-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="when-a-ufo-probably-is-not-a-drone-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for STROBON v2 Drone and RC Model Aircraft Navigation - Anti-Collision Light"><img src="https://i.ebayimg.com/images/g/LnwAAOSwU-RjPVep/s-l225.jpg" alt="Listing image for STROBON v2 Drone and RC Model Aircraft Navigation - Anti-Collision Light" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-ufo-probably-is-not-a-drone-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="when-a-ufo-probably-is-not-a-drone-drone-model" target="_blank" rel="sponsored noopener noreferrer">STROBON v2 Drone and RC Model Aircraft Navigation - Anti-Collision Light</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-ufo-probably-is-not-a-drone-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="when-a-ufo-probably-is-not-a-drone-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone model">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-ufo-probably-is-not-a-drone-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="when-a-ufo-probably-is-not-a-drone-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-ufo-probably-is-not-a-drone-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="when-a-ufo-probably-is-not-a-drone-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for STROBON v2 Drone and RC Model Aircraft Navigation - Anti-Collision Light"><img src="https://i.ebayimg.com/images/g/LnwAAOSwU-RjPVep/s-l225.jpg" alt="Listing image for STROBON v2 Drone and RC Model Aircraft Navigation - Anti-Collision Light" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-ufo-probably-is-not-a-drone-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="when-a-ufo-probably-is-not-a-drone-drone-model" target="_blank" rel="sponsored noopener noreferrer">STROBON v2 Drone and RC Model Aircraft Navigation - Anti-Collision Light</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-ufo-probably-is-not-a-drone-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="when-a-ufo-probably-is-not-a-drone-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone model">Search<span data-ebay-domain-label>eBay.co.uk</span>: drone model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-ufo-probably-is-not-a-drone-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="when-a-ufo-probably-is-not-a-drone-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-ufo-probably-is-not-a-drone-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="when-a-ufo-probably-is-not-a-drone-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Silent Running Drone Robot Dewey Huey Louie Fully Painted Models Sci-Fi"><img src="https://i.ebayimg.com/images/g/ES0AAeSwxNdqAE1S/s-l225.jpg" alt="Listing image for Silent Running Drone Robot Dewey Huey Louie Fully Painted Models Sci-Fi" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-ufo-probably-is-not-a-drone-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="when-a-ufo-probably-is-not-a-drone-drone-model" target="_blank" rel="sponsored noopener noreferrer">Silent Running Drone Robot Dewey Huey Louie Fully Painted Models Sci-Fi</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-ufo-probably-is-not-a-drone-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="when-a-ufo-probably-is-not-a-drone-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone model">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-ufo-probably-is-not-a-drone-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="when-a-ufo-probably-is-not-a-drone-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-ufo-probably-is-not-a-drone-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="when-a-ufo-probably-is-not-a-drone-drone-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-ufo-probably-is-not-a-drone-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="when-a-ufo-probably-is-not-a-drone-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Silent Running Drone Robot Dewey Huey Louie Fully Painted Models Sci-Fi"><img src="https://i.ebayimg.com/images/g/ES0AAeSwxNdqAE1S/s-l225.jpg" alt="Listing image for Silent Running Drone Robot Dewey Huey Louie Fully Painted Models Sci-Fi" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-ufo-probably-is-not-a-drone-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="when-a-ufo-probably-is-not-a-drone-drone-model" target="_blank" rel="sponsored noopener noreferrer">Silent Running Drone Robot Dewey Huey Louie Fully Painted Models Sci-Fi</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-ufo-probably-is-not-a-drone-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="when-a-ufo-probably-is-not-a-drone-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone model">Search<span data-ebay-domain-label>eBay.co.uk</span>: drone model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-ufo-probably-is-not-a-drone-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="when-a-ufo-probably-is-not-a-drone-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-ufo-probably-is-not-a-drone-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="when-a-ufo-probably-is-not-a-drone-drone-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -577,7 +577,7 @@ In UFO investigations, the goal is not to force every sighting into a drone cate
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -597,7 +597,7 @@ In UFO investigations, the goal is not to force every sighting into a drone cate
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -629,7 +629,7 @@ In UFO investigations, the goal is not to force every sighting into a drone cate
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -681,7 +681,7 @@ In UFO investigations, the goal is not to force every sighting into a drone cate
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -726,7 +726,7 @@ In UFO investigations, the goal is not to force every sighting into a drone cate
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -767,98 +767,98 @@ In UFO investigations, the goal is not to force every sighting into a drone cate
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: grepow.com  
    Title: What Is The Longest Lasting Drone Battery  
-   Link: <a href="https://www.grepow.com/blog/what-is-the-longest-lasting-drone-battery.html" target="_blank" rel="noopener noreferrer nofollow">https://www.grepow.com/blog/what-is-the-longest-lasting-drone-battery.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>May 17, 2024 — Flight Time: Consumer drones typically offer flight times ranging from 15 to 30 minutes. High-end consumer and professiona...</p></details>
+   Link:<a href="https://www.grepow.com/blog/what-is-the-longest-lasting-drone-battery.html" target="_blank" rel="noopener noreferrer nofollow">https://www.grepow.com/blog/what-is-the-longest-lasting-drone-battery.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 17, 2024 — Flight Time: Consumer drones typically offer flight times ranging from 15 to 30 minutes. High-end consumer and professiona...</p></details>
    Published: May 17, 2024  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: space.com  
-   Link: <a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>These satellites initially travel in a tight, bright line resembling a &quot;train,&quot; captivating skywatchers and often being mistaken for UFOs...</p></details>
+   Link:<a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These satellites initially travel in a tight, bright line resembling a &quot;train,&quot; captivating skywatchers and often being mistaken for UFOs...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: astronomy.com  
    Title: new satellite constellations could ruin the night sky astronomers warn  
-   Link: <a href="https://www.astronomy.com/science/new-satellite-constellations-could-ruin-the-night-sky-astronomers-warn/" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomy.com/science/new-satellite-constellations-could-ruin-the-night-sky-astronomers-warn/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>New satellite constellations could ruin the night sky...20 Mar 2026 — Astronomy advocacy groups are ringing alarm bells about two propo...</p></details>
+   Link:<a href="https://www.astronomy.com/science/new-satellite-constellations-could-ruin-the-night-sky-astronomers-warn/" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomy.com/science/new-satellite-constellations-could-ruin-the-night-sky-astronomers-warn/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New satellite constellations could ruin the night sky...20 Mar 2026 — Astronomy advocacy groups are ringing alarm bells about two propo...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: droneuniversities.com  
-   Link: <a href="https://www.droneuniversities.com/drone-battery-management/" target="_blank" rel="noopener noreferrer nofollow">https://www.droneuniversities.com/drone-battery-management/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Drone UniversitiesMax Flight Time and Battery LifespanWith flight times typically ranging from 20-30 minutes for consumer models, effecti...</p></details>
+   Link:<a href="https://www.droneuniversities.com/drone-battery-management/" target="_blank" rel="noopener noreferrer nofollow">https://www.droneuniversities.com/drone-battery-management/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Drone UniversitiesMax Flight Time and Battery LifespanWith flight times typically ranging from 20-30 minutes for consumer models, effecti...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: hiredronepilot.uk  
    Title: drone battery life  
-   Link: <a href="https://hiredronepilot.uk/blog/drone-battery-life" target="_blank" rel="noopener noreferrer nofollow">https://hiredronepilot.uk/blog/drone-battery-life</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How Long They Last &amp; Tips to Extend ItSep 12, 2025 — Most consumer drones offer an average flight time of 20–40 minutes per battery; Larg...</p></details>
+   Link:<a href="https://hiredronepilot.uk/blog/drone-battery-life" target="_blank" rel="noopener noreferrer nofollow">https://hiredronepilot.uk/blog/drone-battery-life</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Long They Last &amp; Tips to Extend ItSep 12, 2025 — Most consumer drones offer an average flight time of 20–40 minutes per battery; Larg...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: faa.gov  
    Title: small unmanned aircraft systems uas regulations part 107  
-   Link: <a href="https://www.faa.gov/newsroom/small-unmanned-aircraft-systems-uas-regulations-part-107" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/newsroom/small-unmanned-aircraft-systems-uas-regulations-part-107</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationSmall Unmanned Aircraft Systems (UAS) Regulations (Part...Oct 6, 2020 — You can fly during daylight (30 m...</p></details>
+   Link:<a href="https://www.faa.gov/newsroom/small-unmanned-aircraft-systems-uas-regulations-part-107" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/newsroom/small-unmanned-aircraft-systems-uas-regulations-part-107</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationSmall Unmanned Aircraft Systems (UAS) Regulations (Part...Oct 6, 2020 — You can fly during daylight (30 m...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: popastro.com  
    Title: Popular Astronomy Predicting the ISS and other satellites (including Starlink)  
-   Link: <a href="https://www.popastro.com/predicting-the-iss-and-other-satellites/" target="_blank" rel="noopener noreferrer nofollow">https://www.popastro.com/predicting-the-iss-and-other-satellites/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Popular AstronomyPredicting the ISS and other satellites (including Starlink)July 12, 2023 — In winter, most satellites are only visible...</p></details>
+   Link:<a href="https://www.popastro.com/predicting-the-iss-and-other-satellites/" target="_blank" rel="noopener noreferrer nofollow">https://www.popastro.com/predicting-the-iss-and-other-satellites/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Popular AstronomyPredicting the ISS and other satellites (including Starlink)July 12, 2023 — In winter, most satellites are only visible...</p></details>
    Published: July 12, 2023  
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Astronomy/comments/1m6xyz4/can_anybody_help_me_figure_out_what_this_was/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Astronomy/comments/1m6xyz4/can_anybody_help_me_figure_out_what_this_was/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Can anybody help me figure out what this was?: r/AstronomyI first noticed this out of the western sky. I checked both SkyView and Flight...</p></details>
+   Link:<a href="https://www.reddit.com/r/Astronomy/comments/1m6xyz4/can_anybody_help_me_figure_out_what_this_was/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Astronomy/comments/1m6xyz4/can_anybody_help_me_figure_out_what_this_was/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Can anybody help me figure out what this was?: r/AstronomyI first noticed this out of the western sky. I checked both SkyView and Flight...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: zenatech.com  
-   Link: <a href="https://www.zenatech.com/how-far-can-drones-fly-guide/" target="_blank" rel="noopener noreferrer nofollow">https://www.zenatech.com/how-far-can-drones-fly-guide/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How Far Can Drones Fly? Full GuideMost consumer drones can fly between 0.5 to 7 miles, depending on battery life, signal strength, and en...</p></details>
+   Link:<a href="https://www.zenatech.com/how-far-can-drones-fly-guide/" target="_blank" rel="noopener noreferrer nofollow">https://www.zenatech.com/how-far-can-drones-fly-guide/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Far Can Drones Fly? Full GuideMost consumer drones can fly between 0.5 to 7 miles, depending on battery life, signal strength, and en...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=5q40Xx12nYI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5q40Xx12nYI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotting Satellites and the International Space StationIn this video we take a look at satellites! They are a part of the sky I haven&#x27;t r...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=5q40Xx12nYI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5q40Xx12nYI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotting Satellites and the International Space StationIn this video we take a look at satellites! They are a part of the sky I haven&#x27;t r...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: sopowers.com  
-   Link: <a href="https://www.sopowers.com/drone-battery-care-101-how-to-maximize-flight-time-and-lifespan/" target="_blank" rel="noopener noreferrer nofollow">https://www.sopowers.com/drone-battery-care-101-how-to-maximize-flight-time-and-lifespan/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DoD, temperature, and charging discipline, then reinforcing that with consistent...Read more...</p></details>
+   Link:<a href="https://www.sopowers.com/drone-battery-care-101-how-to-maximize-flight-time-and-lifespan/" target="_blank" rel="noopener noreferrer nofollow">https://www.sopowers.com/drone-battery-care-101-how-to-maximize-flight-time-and-lifespan/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DoD, temperature, and charging discipline, then reinforcing that with consistent...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: abjacademy.global  
    Title: ABJ Drone Academy Key FAA Drone Regulations Every U.S  
-   Link: <a href="https://abjacademy.global/drone-blog/key-faa-drone-regulations-every-us-pilot-should-know/" target="_blank" rel="noopener noreferrer nofollow">https://abjacademy.global/drone-blog/key-faa-drone-regulations-every-us-pilot-should-know/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pilot Should KnowDec 3, 2024 — Timing and Line-of-Sight Guidelines. Drone flights are restricted to daylight or civil twilight hours (30...</p></details>
+   Link:<a href="https://abjacademy.global/drone-blog/key-faa-drone-regulations-every-us-pilot-should-know/" target="_blank" rel="noopener noreferrer nofollow">https://abjacademy.global/drone-blog/key-faa-drone-regulations-every-us-pilot-should-know/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pilot Should KnowDec 3, 2024 — Timing and Line-of-Sight Guidelines. Drone flights are restricted to daylight or civil twilight hours (30...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/2365809903441367/posts/26043243231938035/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/26043243231938035/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>with the second one suddenly becoming visible after passing the...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/2365809903441367/posts/26043243231938035/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/26043243231938035/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>with the second one suddenly becoming visible after passing the...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/askastronomy/comments/1i7inn7/can_someone_explain_why_im_seeing_these/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askastronomy/comments/1i7inn7/can_someone_explain_why_im_seeing_these/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>re much more reflective than others) and the satellites&#x27; orbits...</p></details>
+   Link:<a href="https://www.reddit.com/r/askastronomy/comments/1i7inn7/can_someone_explain_why_im_seeing_these/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askastronomy/comments/1i7inn7/can_someone_explain_why_im_seeing_these/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>re much more reflective than others) and the satellites&#x27; orbits...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: ecoflow.com  
    Title: Why UAVs Rely on Batteries: Power vs  
-   Link: <a href="https://www.ecoflow.com/us/blog/small-multirotor-uav-battery-power" target="_blank" rel="noopener noreferrer nofollow">https://www.ecoflow.com/us/blog/small-multirotor-uav-battery-power</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Flight Time29 Oct 2025 — Current lithium-ion battery packs have a capacity of ~150–250 Wh/kg at cell level, with typical LiPo drone packs...</p></details>
+   Link:<a href="https://www.ecoflow.com/us/blog/small-multirotor-uav-battery-power" target="_blank" rel="noopener noreferrer nofollow">https://www.ecoflow.com/us/blog/small-multirotor-uav-battery-power</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Flight Time29 Oct 2025 — Current lithium-ion battery packs have a capacity of ~150–250 Wh/kg at cell level, with typical LiPo drone packs...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: droneasaservice.com  
-   Link: <a href="https://www.droneasaservice.com/blog/drone-flight-range/" target="_blank" rel="noopener noreferrer nofollow">https://www.droneasaservice.com/blog/drone-flight-range/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Drone Flight Range Explained: Distance, Limits &amp; TipsFor example, the 2,590 mAh battery in a DJI Mini 4 Pro provides it with roughly 34 m...</p></details>
+   Link:<a href="https://www.droneasaservice.com/blog/drone-flight-range/" target="_blank" rel="noopener noreferrer nofollow">https://www.droneasaservice.com/blog/drone-flight-range/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Drone Flight Range Explained: Distance, Limits &amp; TipsFor example, the 2,590 mAh battery in a DJI Mini 4 Pro provides it with roughly 34 m...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: oreateai.com  
-   Link: <a href="https://www.oreateai.com/blog/understanding-drone-battery-life-what-you-need-to-know/03bb52983653515b6484143561796192" target="_blank" rel="noopener noreferrer nofollow">https://www.oreateai.com/blog/understanding-drone-battery-life-what-you-need-to-know/03bb52983653515b6484143561796192</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Drone Battery Life: What You Need to Know24 Dec 2025 — For instance, if you&#x27;re piloting a compact quadcopter with a 3000 mA...</p></details>
+   Link:<a href="https://www.oreateai.com/blog/understanding-drone-battery-life-what-you-need-to-know/03bb52983653515b6484143561796192" target="_blank" rel="noopener noreferrer nofollow">https://www.oreateai.com/blog/understanding-drone-battery-life-what-you-need-to-know/03bb52983653515b6484143561796192</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Drone Battery Life: What You Need to Know24 Dec 2025 — For instance, if you&#x27;re piloting a compact quadcopter with a 3000 mA...</p></details>

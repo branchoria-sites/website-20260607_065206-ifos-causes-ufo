@@ -285,7 +285,7 @@ The strongest reflection tests rely on geometry rather than appearance.
 
 A genuine distant object remains fixed within the outside scene when the observer shifts position slightly. A reflection, by contrast, is linked to the glass surface and viewing angle. If the camera moves left, right, up or down and the apparent UFO shifts relative to distant clouds, [stars]({{ 'stars/' | relative_url }}), buildings or the horizon, reflection becomes a strong possibility.
 
-In video, this can be particularly revealing. [Reflections]({{ 'reflections/' | relative_url }}) often appear to “follow” the camera. The object may seem stationary at first, but frame-by-frame review shows that it drifts in ways that match camera movement rather than the motion of the outside environment. Research on reflection separation in video relies heavily on these differing motion cues because reflected and transmitted scenes often move differently across successive frames. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2009.03281" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv User-assisted Video Reflection Removal</span><span class="citation-popover-snippet">User-assisted Video Reflection RemovalSeptember 7, 2020...</span><span class="citation-popover-meta">Published: September 7, 2020</span></span></span>
+In video, this can be particularly revealing. [Reflections]({{ 'reflections/' | relative_url }}) often appear to “follow” the camera. The object may seem stationary at first, but frame-by-frame review shows that it drifts in ways that match camera movement rather than the motion of the outside environment. Research on reflection separation in video relies heavily on these differing motion cues because reflected and transmitted scenes often move differently across successive frames.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2009.03281" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv User-assisted Video Reflection Removal</span><span class="citation-popover-snippet">User-assisted Video Reflection RemovalSeptember 7, 2020...</span><span class="citation-popover-meta">Published: September 7, 2020</span></span></span>
 
 ## Several practical checks are useful
 
@@ -297,7 +297,7 @@ Open-window test: If circumstances allow, opening the window or moving outside s
 
 Multiple-viewpoint check: Images taken from different positions often relocate a reflection but preserve the position of a genuine distant object.
 
-Another clue is the appearance of slight duplicate images. Ordinary glass reflects from both its front and rear surfaces. This can produce a faint secondary image offset from the primary one, creating a characteristic “ghost” effect. Optical studies of window reflections show that even a single pane can generate shifted double reflections from its two surfaces. <span class="citation-chip-wrap"><a class="citation-chip" href="https://people.csail.mit.edu/yichangshih/mywebsite/reflection.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: people.csail.mit.edu">[MIT CSAIL People]</a><span class="citation-popover" role="note"><span class="citation-popover-source">people.csail.mit.edu</span><span class="citation-popover-title">For single-pane windows,</span><span class="citation-popover-snippet">MIT CSAIL PeopleReflection Removal using Ghosting Cues - People &#124; MIT CSAILApril 13, 2015 — In double-pane windows, each pane reflects sh...</span><span class="citation-popover-meta">Published: April 13, 2015</span></span></span>
+Another clue is the appearance of slight duplicate images. Ordinary glass reflects from both its front and rear surfaces. This can produce a faint secondary image offset from the primary one, creating a characteristic “ghost” effect. Optical studies of window reflections show that even a single pane can generate shifted double reflections from its two surfaces.<span class="citation-chip-wrap"><a class="citation-chip" href="https://people.csail.mit.edu/yichangshih/mywebsite/reflection.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: people.csail.mit.edu">[MIT CSAIL People]</a><span class="citation-popover" role="note"><span class="citation-popover-source">people.csail.mit.edu</span><span class="citation-popover-title">For single-pane windows,</span><span class="citation-popover-snippet">MIT CSAIL PeopleReflection Removal using Ghosting Cues - People &#124; MIT CSAILApril 13, 2015 — In double-pane windows, each pane reflects sh...</span><span class="citation-popover-meta">Published: April 13, 2015</span></span></span>
 
 ## Lighting Clues from Duplicates, Glare and Brightness
 
@@ -305,7 +305,7 @@ Lighting behaviour often reveals the source of an apparent UFO.
 
 ## Look for Double Images and Ghosting
 
-A reflected indoor light may appear as two closely spaced copies rather than a single point. This happens because glass commonly produces multiple reflections from separate surfaces. In photography and optical engineering, such duplicate reflections are known as ghost images. <span class="citation-chip-wrap"><a class="citation-chip" href="https://people.csail.mit.edu/yichangshih/mywebsite/reflection.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: people.csail.mit.edu">[MIT CSAIL People]</a><span class="citation-popover" role="note"><span class="citation-popover-source">people.csail.mit.edu</span><span class="citation-popover-title">For single-pane windows,</span><span class="citation-popover-snippet">MIT CSAIL PeopleReflection Removal using Ghosting Cues - People &#124; MIT CSAILApril 13, 2015 — In double-pane windows, each pane reflects sh...</span><span class="citation-popover-meta">Published: April 13, 2015</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://lenspire.zeiss.com/cine/en/article/taking-care-of-the-unwanted-light" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lenspire.zeiss.com">[Lenspire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lenspire.zeiss.com</span><span class="citation-popover-title">taking care of the unwanted light</span><span class="citation-popover-snippet">care of the unwanted light2 Jul 2020 — A ghost is a reflection between two optical surfaces. It&#x27;s seen as a double image. You can reduce...</span></span></span>
+A reflected indoor light may appear as two closely spaced copies rather than a single point. This happens because glass commonly produces multiple reflections from separate surfaces. In photography and optical engineering, such duplicate reflections are known as ghost images.<span class="citation-chip-wrap"><a class="citation-chip" href="https://people.csail.mit.edu/yichangshih/mywebsite/reflection.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: people.csail.mit.edu">[MIT CSAIL People]</a><span class="citation-popover" role="note"><span class="citation-popover-source">people.csail.mit.edu</span><span class="citation-popover-title">For single-pane windows,</span><span class="citation-popover-snippet">MIT CSAIL PeopleReflection Removal using Ghosting Cues - People &#124; MIT CSAILApril 13, 2015 — In double-pane windows, each pane reflects sh...</span><span class="citation-popover-meta">Published: April 13, 2015</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://lenspire.zeiss.com/cine/en/article/taking-care-of-the-unwanted-light" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lenspire.zeiss.com">[Lenspire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lenspire.zeiss.com</span><span class="citation-popover-title">taking care of the unwanted light</span><span class="citation-popover-snippet">care of the unwanted light2 Jul 2020 — A ghost is a reflection between two optical surfaces. It&#x27;s seen as a double image. You can reduce...</span></span></span>
 
 In UFO imagery, ghosting may appear as:
 
@@ -360,7 +360,7 @@ A useful test is to identify whether the UFO's shape matches a known light sourc
 
 Reflections depend on the brightness balance between the two sides of the glass.
 
-If an apparent UFO weakens or disappears when an interior light is switched off, a screen is dimmed, or the camera is pressed closer to the glass, the reflection explanation gains strength. Photographers routinely use these techniques to reduce unwanted window reflections. <span class="citation-chip-wrap"><a class="citation-chip" href="https://digital-photography-school.com/tips-for-minimizing-reflections-when-photographing-through-windows/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digital-photography-school.com">[Digital Photography School]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digital-photography-school.com</span><span class="citation-popover-title">Digital Photography School How to Prevent Reflections When Photographing Through</span><span class="citation-popover-snippet">Use a polarizing filter. A circular polarizer is generally used by landscape photographers to reduce reflections in water and waxy leaves...</span></span></span>
+If an apparent UFO weakens or disappears when an interior light is switched off, a screen is dimmed, or the camera is pressed closer to the glass, the reflection explanation gains strength. Photographers routinely use these techniques to reduce unwanted window reflections.<span class="citation-chip-wrap"><a class="citation-chip" href="https://digital-photography-school.com/tips-for-minimizing-reflections-when-photographing-through-windows/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digital-photography-school.com">[Digital Photography School]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digital-photography-school.com</span><span class="citation-popover-title">Digital Photography School How to Prevent Reflections When Photographing Through</span><span class="citation-popover-snippet">Use a polarizing filter. A circular polarizer is generally used by landscape photographers to reduce reflections in water and waxy leaves...</span></span></span>
 
 What Independent Evidence Would Make Reflection Less Likely?
 
@@ -406,194 +406,194 @@ Look for independent witnesses, cameras or sensors.
 In many cases, no single clue is decisive. However, when several of these indicators appear together—camera-linked motion, duplicate images, matching interior lighting and disappearance with angle changes—the evidence often points to a reflection rather than an object physically present in the sky. Optical reflections are real recorded light paths, but careful testing helps determine whether the apparent UFO exists outside the glass or only within the image created by it.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How to Test a UFO Reflection. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How to Test a UFO Reflection. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jKCyEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jKCyEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Encourages systematic evaluation of sightings and evidence rather than relying on first impressions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages systematic evaluation of sightings and evidence rather than relying on first impressions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RSqGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RSqGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Explores perception, evidence evaluation, and mistaken conclusions, all relevant to assessing reflection-based UFO photographs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores perception, evidence evaluation, and mistaken conclusions, all relevant to assessing reflection-based UFO photographs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Camera+Clues+by+Joe+Nickell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Camera Clues on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=r2twpqtZOd0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Camera Clues" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Camera+Clues+by+Joe+Nickell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Camera Clues">Camera Clues</a>
-        </h4>
-        <p class="fr-book-author">By Joe Nickell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Camera+Clues+by+Joe+Nickell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Camera Clues on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=r2twpqtZOd0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Camera Clues" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Camera+Clues+by+Joe+Nickell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Camera Clues">Camera Clues</a>
+</h4>
+<p class="fr-book-author">By Joe Nickell</p>
         
-        <p class="fr-book-desc">Directly relevant to testing whether unusual images result from reflections, optical effects, or genuine external subjects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Camera+Clues+by+Joe+Nickell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relevant to testing whether unusual images result from reflections, optical effects, or genuine external subjects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Camera+Clues+by+Joe+Nickell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Investigations+Manual+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Investigations Manual on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Investigations Manual">UFO Investigations Manual</a>
-        </h4>
-        <p class="fr-book-author">By Nigel Watson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Investigations+Manual+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Investigations Manual on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Investigations Manual">UFO Investigations Manual</a>
+</h4>
+<p class="fr-book-author">By Nigel Watson</p>
         
-        <p class="fr-book-desc">First published 2018.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2018.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Camera+Clues&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Camera Clues</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Camera+Clues&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Camera Clues</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-test-a-ufo-reflection-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-to-test-a-ufo-reflection-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-test-a-ufo-reflection-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-to-test-a-ufo-reflection-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-test-a-ufo-reflection-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-to-test-a-ufo-reflection-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-test-a-ufo-reflection-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-to-test-a-ufo-reflection-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-test-a-ufo-reflection-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-to-test-a-ufo-reflection-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-test-a-ufo-reflection-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-to-test-a-ufo-reflection-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-test-a-ufo-reflection-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-to-test-a-ufo-reflection-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-test-a-ufo-reflection-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-to-test-a-ufo-reflection-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-test-a-ufo-reflection-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-to-test-a-ufo-reflection-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-test-a-ufo-reflection-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-to-test-a-ufo-reflection-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-test-a-ufo-reflection-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-to-test-a-ufo-reflection-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-test-a-ufo-reflection-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-to-test-a-ufo-reflection-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-test-a-ufo-reflection-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-to-test-a-ufo-reflection-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-test-a-ufo-reflection-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-to-test-a-ufo-reflection-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-test-a-ufo-reflection-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-to-test-a-ufo-reflection-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-test-a-ufo-reflection-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-to-test-a-ufo-reflection-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-test-a-ufo-reflection-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-to-test-a-ufo-reflection-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-test-a-ufo-reflection-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-to-test-a-ufo-reflection-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-test-a-ufo-reflection-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-to-test-a-ufo-reflection-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-test-a-ufo-reflection-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-to-test-a-ufo-reflection-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-test-a-ufo-reflection-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-to-test-a-ufo-reflection-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-test-a-ufo-reflection-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-to-test-a-ufo-reflection-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-test-a-ufo-reflection-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-to-test-a-ufo-reflection-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-test-a-ufo-reflection-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-to-test-a-ufo-reflection-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-test-a-ufo-reflection-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-to-test-a-ufo-reflection-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-test-a-ufo-reflection-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-to-test-a-ufo-reflection-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-test-a-ufo-reflection-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-to-test-a-ufo-reflection-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-test-a-ufo-reflection-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-to-test-a-ufo-reflection-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-test-a-ufo-reflection-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-to-test-a-ufo-reflection-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-test-a-ufo-reflection-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-to-test-a-ufo-reflection-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-test-a-ufo-reflection-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-to-test-a-ufo-reflection-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-test-a-ufo-reflection-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-to-test-a-ufo-reflection-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-test-a-ufo-reflection-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-to-test-a-ufo-reflection-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-test-a-ufo-reflection-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-to-test-a-ufo-reflection-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -609,7 +609,7 @@ In many cases, no single clue is decisive. However, when several of these indica
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -629,7 +629,7 @@ In many cases, no single clue is decisive. However, when several of these indica
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -661,7 +661,7 @@ In many cases, no single clue is decisive. However, when several of these indica
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -713,7 +713,7 @@ In many cases, no single clue is decisive. However, when several of these indica
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -758,7 +758,7 @@ In many cases, no single clue is decisive. However, when several of these indica
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -799,111 +799,111 @@ In many cases, no single clue is decisive. However, when several of these indica
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: arxiv.org  
    Title: arXiv User-assisted Video Reflection Removal  
-   Link: <a href="https://arxiv.org/abs/2009.03281" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2009.03281</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>User-assisted Video Reflection RemovalSeptember 7, 2020...</p></details>
+   Link:<a href="https://arxiv.org/abs/2009.03281" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2009.03281</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>User-assisted Video Reflection RemovalSeptember 7, 2020...</p></details>
    Published: September 7, 2020  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
    Title: arXiv Separating Reflection and Transmission Images in the Wild  
-   Link: <a href="https://arxiv.org/abs/1712.02099" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1712.02099</a>  
+   Link:<a href="https://arxiv.org/abs/1712.02099" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1712.02099</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: people.csail.mit.edu  
    Title: For single-pane windows,  
-   Link: <a href="https://people.csail.mit.edu/yichangshih/mywebsite/reflection.pdf" target="_blank" rel="noopener noreferrer nofollow">https://people.csail.mit.edu/yichangshih/mywebsite/reflection.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MIT CSAIL PeopleReflection Removal using Ghosting Cues - People | MIT CSAILApril 13, 2015 — In double-pane windows, each pane reflects sh...</p></details>
+   Link:<a href="https://people.csail.mit.edu/yichangshih/mywebsite/reflection.pdf" target="_blank" rel="noopener noreferrer nofollow">https://people.csail.mit.edu/yichangshih/mywebsite/reflection.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MIT CSAIL PeopleReflection Removal using Ghosting Cues - People | MIT CSAILApril 13, 2015 — In double-pane windows, each pane reflects sh...</p></details>
    Published: April 13, 2015  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/pennsylvaniaphotos/posts/3618927958377580/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/pennsylvaniaphotos/posts/3618927958377580/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Creative UFO Illusion Photography from Living Room...I took this picture from my living room window and I had the kitchen light...</p></details>
+   Link:<a href="https://www.facebook.com/groups/pennsylvaniaphotos/posts/3618927958377580/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/pennsylvaniaphotos/posts/3618927958377580/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Creative UFO Illusion Photography from Living Room...I took this picture from my living room window and I had the kitchen light...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: digital-photography-school.com  
    Title: Digital Photography School How to Prevent Reflections When Photographing Through  
-   Link: <a href="https://digital-photography-school.com/tips-for-minimizing-reflections-when-photographing-through-windows/" target="_blank" rel="noopener noreferrer nofollow">https://digital-photography-school.com/tips-for-minimizing-reflections-when-photographing-through-windows/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Use a polarizing filter. A circular polarizer is generally used by landscape photographers to reduce reflections in water and waxy leaves...</p></details>
+   Link:<a href="https://digital-photography-school.com/tips-for-minimizing-reflections-when-photographing-through-windows/" target="_blank" rel="noopener noreferrer nofollow">https://digital-photography-school.com/tips-for-minimizing-reflections-when-photographing-through-windows/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Use a polarizing filter. A circular polarizer is generally used by landscape photographers to reduce reflections in water and waxy leaves...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arizona.openrepository.com  
    Title: azu etd 10622 sip1 m  
-   Link: <a href="https://arizona.openrepository.com/bitstream/handle/10150/195492/azu_etd_10622_sip1_m.pdf?sequence=1" target="_blank" rel="noopener noreferrer nofollow">https://arizona.openrepository.com/bitstream/handle/10150/195492/azu_etd_10622_sip1_m.pdf?sequence=1</a>  
+   Link:<a href="https://arizona.openrepository.com/bitstream/handle/10150/195492/azu_etd_10622_sip1_m.pdf?sequence=1" target="_blank" rel="noopener noreferrer nofollow">https://arizona.openrepository.com/bitstream/handle/10150/195492/azu_etd_10622_sip1_m.pdf?sequence=1</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/462980690536435/posts/491484194352751/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/462980690536435/posts/491484194352751/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Window reflection photography techniquesA black and white photograph of a window with reflections feels both serene and evocative, blendi...</p></details>
+   Link:<a href="https://www.facebook.com/groups/462980690536435/posts/491484194352751/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/462980690536435/posts/491484194352751/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Window reflection photography techniquesA black and white photograph of a window with reflections feels both serene and evocative, blendi...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: lenspire.zeiss.com  
    Title: taking care of the unwanted light  
-   Link: <a href="https://lenspire.zeiss.com/cine/en/article/taking-care-of-the-unwanted-light" target="_blank" rel="noopener noreferrer nofollow">https://lenspire.zeiss.com/cine/en/article/taking-care-of-the-unwanted-light</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>care of the unwanted light2 Jul 2020 — A ghost is a reflection between two optical surfaces. It&#x27;s seen as a double image. You can reduce...</p></details>
+   Link:<a href="https://lenspire.zeiss.com/cine/en/article/taking-care-of-the-unwanted-light" target="_blank" rel="noopener noreferrer nofollow">https://lenspire.zeiss.com/cine/en/article/taking-care-of-the-unwanted-light</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>care of the unwanted light2 Jul 2020 — A ghost is a reflection between two optical surfaces. It&#x27;s seen as a double image. You can reduce...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: lenspire.zeiss.com  
    Title: technical article about the reduction of reflections for camera lenses  
-   Link: <a href="https://lenspire.zeiss.com/photo/app/uploads/2022/02/technical-article-about-the-reduction-of-reflections-for-camera-lenses.pdf" target="_blank" rel="noopener noreferrer nofollow">https://lenspire.zeiss.com/photo/app/uploads/2022/02/technical-article-about-the-reduction-of-reflections-for-camera-lenses.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>the reduction of reflections for camera lenses How TReflection at the air-glass interface may be reduced by destructive interference, whe...</p></details>
+   Link:<a href="https://lenspire.zeiss.com/photo/app/uploads/2022/02/technical-article-about-the-reduction-of-reflections-for-camera-lenses.pdf" target="_blank" rel="noopener noreferrer nofollow">https://lenspire.zeiss.com/photo/app/uploads/2022/02/technical-article-about-the-reduction-of-reflections-for-camera-lenses.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the reduction of reflections for camera lenses How TReflection at the air-glass interface may be reduced by destructive interference, whe...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: avantierinc.com  
-   Link: <a href="https://avantierinc.com/resources/technical-article/ar-bbar-coatings/" target="_blank" rel="noopener noreferrer nofollow">https://avantierinc.com/resources/technical-article/ar-bbar-coatings/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AR Coatings and BBAR CoatingsAR Coating, including BBAR Coating, optimizes light transmission across a wide wavelength [range](&amp;#123;&amp;#123; &#x27;range/&#x27; | relative_url &amp;#125;&amp;#125;) by minimizin...</p></details>
+   Link:<a href="https://avantierinc.com/resources/technical-article/ar-bbar-coatings/" target="_blank" rel="noopener noreferrer nofollow">https://avantierinc.com/resources/technical-article/ar-bbar-coatings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AR Coatings and BBAR CoatingsAR Coating, including BBAR Coating, optimizes light transmission across a wide wavelength [range](&amp;#123;&amp;#123; &#x27;range/&#x27; | relative_url &amp;#125;&amp;#125;) by minimizin...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ephotonics.com  
-   Link: <a href="https://ephotonics.com/calculators/fresnel-reflection/" target="_blank" rel="noopener noreferrer nofollow">https://ephotonics.com/calculators/fresnel-reflection/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fresnel Reflection CalculatorPower Loss: Up to 4% is lost at every single glass/air surface. Ghost Images: Reflections cause flare and ar...</p></details>
+   Link:<a href="https://ephotonics.com/calculators/fresnel-reflection/" target="_blank" rel="noopener noreferrer nofollow">https://ephotonics.com/calculators/fresnel-reflection/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fresnel Reflection CalculatorPower Loss: Up to 4% is lost at every single glass/air surface. Ghost Images: Reflections cause flare and ar...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: rp-photonics.com  
-   Link: <a href="https://www.rp-photonics.com/fresnel_reflections.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rp-photonics.com/fresnel_reflections.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fresnel Reflections – impedance matching, suppression...Fresnel reflections occur at material interfaces due to impedance mismatch, wit...</p></details>
+   Link:<a href="https://www.rp-photonics.com/fresnel_reflections.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rp-photonics.com/fresnel_reflections.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fresnel Reflections – impedance matching, suppression...Fresnel reflections occur at material interfaces due to impedance mismatch, wit...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: adobe.com  
-   Link: <a href="https://www.adobe.com/creativecloud/photography/type/reflection-photography.html" target="_blank" rel="noopener noreferrer nofollow">https://www.adobe.com/creativecloud/photography/type/reflection-photography.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reflection photography: A beginner&#x27;s guideTry reflection photography to find unique perspectives. From bodies of water to mirrors, reflec...</p></details>
+   Link:<a href="https://www.adobe.com/creativecloud/photography/type/reflection-photography.html" target="_blank" rel="noopener noreferrer nofollow">https://www.adobe.com/creativecloud/photography/type/reflection-photography.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reflection photography: A beginner&#x27;s guideTry reflection photography to find unique perspectives. From bodies of water to mirrors, reflec...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: imatest.com  
-   Link: <a href="https://www.imatest.com/docs/veilingglare/" target="_blank" rel="noopener noreferrer nofollow">https://www.imatest.com/docs/veilingglare/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Veiling GlareVeiling glare is measured by photographing one or more perfectly black regions inside a uniform white field that extends wel...</p></details>
+   Link:<a href="https://www.imatest.com/docs/veilingglare/" target="_blank" rel="noopener noreferrer nofollow">https://www.imatest.com/docs/veilingglare/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Veiling GlareVeiling glare is measured by photographing one or more perfectly black regions inside a uniform white field that extends wel...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: photo.stackexchange.com  
    Title: why do these reflections appear in some photos and how can i stop it from happen  
-   Link: <a href="https://photo.stackexchange.com/questions/92660/why-do-these-reflections-appear-in-some-photos-and-how-can-i-stop-it-from-happen" target="_blank" rel="noopener noreferrer nofollow">https://photo.stackexchange.com/questions/92660/why-do-these-reflections-appear-in-some-photos-and-how-can-i-stop-it-from-happen</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>do these reflections appear in some photos and how...14 Sept 2017 — This question already has answers here: What could cause this visibl...</p></details>
+   Link:<a href="https://photo.stackexchange.com/questions/92660/why-do-these-reflections-appear-in-some-photos-and-how-can-i-stop-it-from-happen" target="_blank" rel="noopener noreferrer nofollow">https://photo.stackexchange.com/questions/92660/why-do-these-reflections-appear-in-some-photos-and-how-can-i-stop-it-from-happen</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>do these reflections appear in some photos and how...14 Sept 2017 — This question already has answers here: What could cause this visibl...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: dpreview.com  
    Title: mit algorithm aims to eradicate reflections from photos taken through windows  
-   Link: <a href="https://www.dpreview.com/articles/2914705706/mit-algorithm-aims-to-eradicate-reflections-from-photos-taken-through-windows" target="_blank" rel="noopener noreferrer nofollow">https://www.dpreview.com/articles/2914705706/mit-algorithm-aims-to-eradicate-reflections-from-photos-taken-through-windows</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MIT algorithm aims to eradicate reflections from photos...14 May 2015 — Researchers at the Massachusetts Institute of Technology claim t...</p></details>
+   Link:<a href="https://www.dpreview.com/articles/2914705706/mit-algorithm-aims-to-eradicate-reflections-from-photos-taken-through-windows" target="_blank" rel="noopener noreferrer nofollow">https://www.dpreview.com/articles/2914705706/mit-algorithm-aims-to-eradicate-reflections-from-photos-taken-through-windows</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MIT algorithm aims to eradicate reflections from photos...14 May 2015 — Researchers at the Massachusetts Institute of Technology claim t...</p></details>
    Published: May 2015  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: cloudynights.com  
    Title: The window has BBAR coating on both surfaces. I've read that such coatings  
-   Link: <a href="https://www.cloudynights.com/forums/topic/902763-tilt-optical-window-to-eliminate-ghost-reflections-how-much/" target="_blank" rel="noopener noreferrer nofollow">https://www.cloudynights.com/forums/topic/902763-tilt-optical-window-to-eliminate-ghost-reflections-how-much/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tilt optical window to eliminate ghost reflections; how much?9 Dec 2023 — Dimensional constraints limit tilt angle to about 1.5 degrees...</p></details>
+   Link:<a href="https://www.cloudynights.com/forums/topic/902763-tilt-optical-window-to-eliminate-ghost-reflections-how-much/" target="_blank" rel="noopener noreferrer nofollow">https://www.cloudynights.com/forums/topic/902763-tilt-optical-window-to-eliminate-ghost-reflections-how-much/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tilt optical window to eliminate ghost reflections; how much?9 Dec 2023 — Dimensional constraints limit tilt angle to about 1.5 degrees...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: physics.stackexchange.com  
    Title: reflection on glass angle of incidence and ghost image  
-   Link: <a href="https://physics.stackexchange.com/questions/599528/reflection-on-glass-angle-of-incidence-and-ghost-image" target="_blank" rel="noopener noreferrer nofollow">https://physics.stackexchange.com/questions/599528/reflection-on-glass-angle-of-incidence-and-ghost-image</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>on glass, angle of incidence and ghost imageDec 9, 2020 — As I rotate the glass and increase the angle of incidence there appears to be a...</p></details>
+   Link:<a href="https://physics.stackexchange.com/questions/599528/reflection-on-glass-angle-of-incidence-and-ghost-image" target="_blank" rel="noopener noreferrer nofollow">https://physics.stackexchange.com/questions/599528/reflection-on-glass-angle-of-incidence-and-ghost-image</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>on glass, angle of incidence and ghost imageDec 9, 2020 — As I rotate the glass and increase the angle of incidence there appears to be a...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/figure/Fresnel-reflection-at-glass-to-absorbing-medium-interface-for-three-k-values_fig3_243574131" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Fresnel-reflection-at-glass-to-absorbing-medium-interface-for-three-k-values_fig3_243574131</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ing analyte-containing medium by means of the evanescent wave at the fiber boundary...</p></details>
+   Link:<a href="https://www.researchgate.net/figure/Fresnel-reflection-at-glass-to-absorbing-medium-interface-for-three-k-values_fig3_243574131" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Fresnel-reflection-at-glass-to-absorbing-medium-interface-for-three-k-values_fig3_243574131</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ing analyte-containing medium by means of the evanescent wave at the fiber boundary...</p></details>

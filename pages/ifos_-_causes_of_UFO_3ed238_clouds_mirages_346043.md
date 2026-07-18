@@ -501,7 +501,7 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043-overview
 
 ## Introduction
 
-Clouds, mirages and atmospheric distortion can turn ordinary lights, aircraft, [stars]({{ 'stars/' | relative_url }}), planets and landscapes into convincing UFO reports. The object may be real, but the atmosphere changes how it looks: haze spreads a point of light into a glow, low cloud hides shape and distance, moving cloud edges create false motion, and temperature layers bend light so that distant objects appear stretched, lifted, doubled or displaced. This matters because many IFOs are not “nothing there” cases. They are real observations made through a visually unreliable medium. Project Blue Book explicitly noted that planets seen through haze, light fog, moving clouds or other obscurations had been reported as UFOs, and that stellar mirages were also a source of reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[whs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">Enterprise Services Dashboard</span><span class="citation-popover-snippet">Enterprise Services Dashboard</span></span></span>
+Clouds, mirages and atmospheric distortion can turn ordinary lights, aircraft, [stars]({{ 'stars/' | relative_url }}), planets and landscapes into convincing UFO reports. The object may be real, but the atmosphere changes how it looks: haze spreads a point of light into a glow, low cloud hides shape and distance, moving cloud edges create false motion, and temperature layers bend light so that distant objects appear stretched, lifted, doubled or displaced. This matters because many IFOs are not “nothing there” cases. They are real observations made through a visually unreliable medium. Project Blue Book explicitly noted that planets seen through haze, light fog, moving clouds or other obscurations had been reported as UFOs, and that stellar mirages were also a source of reports.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[whs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">Enterprise Services Dashboard</span><span class="citation-popover-snippet">Enterprise Services Dashboard</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043-overview.webp" | relative_url }}" alt="Overview image for Atmosphere" loading="eager" decoding="sync" fetchpriority="high">
 Atmospheric explanations are strongest when they fit the whole setting: weather, viewing angle, horizon position, cloud type, visibility, wind, temperature structure, and whether the supposed object changes with the sky around it. They are weakest when investigators use “weather” as a vague dismissal without matching the sighting to a specific mechanism.
@@ -510,7 +510,7 @@ Atmospheric explanations are strongest when they fit the whole setting: weather,
 
 A bright light in clear air is usually easy to place. A bright light in haze, fog, smoke, thin cloud or humid air can become a different visual problem. Small droplets and particles scatter light, softening edges and making a point source look larger than it is. At night this can turn aircraft [landing lights]({{ 'landing-lights/' | relative_url }}), planets, stars, [searchlights]({{ 'searchlights/' | relative_url }}), tower lights or ground lights into glowing blobs with no obvious outline or distance cue.
 
-Aviation guidance is useful here because [pilots]({{ 'pilots/' | relative_url }}) are trained to notice the same visual traps that affect UFO witnesses. The FAA’s Airplane Flying Handbook warns that clouds and visibility restrictions are hard to see at night, especially on dark nights or under overcast, and that lights can gradually disappear or acquire a halo-like glow when fog is present. It also notes that horizontal visibility through clouds, smoke or haze can be much worse than visibility looking down through the same layer from above. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">12 afh ch11</span><span class="citation-popover-snippet">12 afh ch11</span></span></span>
+Aviation guidance is useful here because [pilots]({{ 'pilots/' | relative_url }}) are trained to notice the same visual traps that affect UFO witnesses. The FAA’s Airplane Flying Handbook warns that clouds and visibility restrictions are hard to see at night, especially on dark nights or under overcast, and that lights can gradually disappear or acquire a halo-like glow when fog is present. It also notes that horizontal visibility through clouds, smoke or haze can be much worse than visibility looking down through the same layer from above.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">12 afh ch11</span><span class="citation-popover-snippet">12 afh ch11</span></span></span>
 
 For UFO reports, the key point is not simply “haze reduces visibility”. It changes interpretation. A witness may report a large luminous object because the light has bloomed in moisture. They may report a silent hovering craft because the actual aircraft is far away, hidden by cloud, or flying almost directly towards the observer. They may report shape-changing because broken cloud repeatedly masks and reveals parts of the light.
 
@@ -521,13 +521,13 @@ This is why investigators look for the relationship between the “object” and
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043-Illustration-1-dark.svg" | relative_url }}" alt="Atmosphere illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Lenticular clouds are the classic “flying saucer” weather trap
 
-The most visually famous cloud-based IFO is the lenticular cloud. These smooth, lens-like clouds can look artificial because they have clean curves, layered rims and a stationary appearance. The UK Met Office describes lenticular clouds as strange, unnatural-looking clouds that sometimes form downwind of hills or mountains, noting that they resemble the traditional flying saucer shape and are believed to be one of the common explanations for UFO sightings worldwide. <span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-title">Met Office Unusual cloud formations</span><span class="citation-popover-snippet">Met Office Unusual cloud formations</span></span></span>
+The most visually famous cloud-based IFO is the lenticular cloud. These smooth, lens-like clouds can look artificial because they have clean curves, layered rims and a stationary appearance. The UK Met Office describes lenticular clouds as strange, unnatural-looking clouds that sometimes form downwind of hills or mountains, noting that they resemble the traditional flying saucer shape and are believed to be one of the common explanations for UFO sightings worldwide.<span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-title">Met Office Unusual cloud formations</span><span class="citation-popover-snippet">Met Office Unusual cloud formations</span></span></span>
 
-Their mechanism is straightforward but visually deceptive. When stable air flows over a mountain [range]({{ 'range/' | relative_url }}) or high ground, it can set up standing waves downstream, like ripples in a river after water passes an obstruction. If there is enough moisture, air rising in the wave cools and condenses, forming the cloud; where the air sinks again, the cloud evaporates. The cloud can therefore appear to hover even though air is continually flowing through it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-title">Met Office Unusual cloud formations</span><span class="citation-popover-snippet">Met Office Unusual cloud formations</span></span></span>
+Their mechanism is straightforward but visually deceptive. When stable air flows over a mountain [range]({{ 'range/' | relative_url }}) or high ground, it can set up standing waves downstream, like ripples in a river after water passes an obstruction. If there is enough moisture, air rising in the wave cools and condenses, forming the cloud; where the air sinks again, the cloud evaporates. The cloud can therefore appear to hover even though air is continually flowing through it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-title">Met Office Unusual cloud formations</span><span class="citation-popover-snippet">Met Office Unusual cloud formations</span></span></span>
 
 That hovering quality is the source of many reports. A witness may see a smooth, bright, saucer-shaped form that remains fixed relative to the landscape while other clouds move. At sunrise or sunset, the cloud may be lit from below or from the side, taking on metallic, orange, pink or pearly tones. If several lenticular layers stack above one another, the result can look like a structured craft with decks or rims.
 
-The weather clue is terrain and wind. Lenticular clouds are most likely near hills, mountains, ridges or other features that produce wave flow. The Met Office notes that they are visible signs of mountain waves, that those waves may extend beyond the visible clouds, and that pilots often avoid flying near them because of associated turbulence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-title">Met Office Unusual cloud formations</span><span class="citation-popover-snippet">Met Office Unusual cloud formations</span></span></span> NOAA’s National Weather Service similarly describes lenticular clouds as smooth, saucer-like formations produced when strong winds blow over and around rough terrain, and notes that people have mistaken them for UFOs because of that shape. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weather.gov/hfo/lenticular" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[National Weather Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The weather clue is terrain and wind. Lenticular clouds are most likely near hills, mountains, ridges or other features that produce wave flow. The Met Office notes that they are visible signs of mountain waves, that those waves may extend beyond the visible clouds, and that pilots often avoid flying near them because of associated turbulence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-title">Met Office Unusual cloud formations</span><span class="citation-popover-snippet">Met Office Unusual cloud formations</span></span></span> NOAA’s National Weather Service similarly describes lenticular clouds as smooth, saucer-like formations produced when strong winds blow over and around rough terrain, and notes that people have mistaken them for UFOs because of that shape.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weather.gov/hfo/lenticular" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[National Weather Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Lenticular clouds do not explain reports of small points of light darting across the sky, close encounters, radar tracks or objects seen below a low cloud base. They do explain a narrower but important class of sightings: large, smooth, stationary or slow-changing “craft” near mountainous terrain, especially around dawn, dusk or rapidly changing weather.
 
@@ -537,9 +537,9 @@ Lenticular clouds do not explain reports of small points of light darting across
 
 A mirage is not just a desert puddle illusion. It is a general optical effect caused by atmospheric refraction: light bends as it passes through layers of air with different density, often because the layers have different temperatures. In a UFO context, mirages matter because they can shift, stretch, duplicate or lift the apparent position of a real distant object.
 
-The World Meteorological Organization’s International Cloud Atlas describes a mirage as an atmospheric optical phenomenon caused by refraction, with inferior mirages displacing a distant object below its true position. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cloudatlas.wmo.int/mirage.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cloudatlas.wmo.int">[International Cloud Atlas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cloudatlas.wmo.int</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Superior mirages work the other way: under a temperature inversion, colder air lies below warmer air, light rays bend downwards, and the image can appear above the true object. SKYbrary, an aviation safety resource, notes that superior mirages can make objects below the horizon visible, make objects appear bigger, closer or suspended in air, and produce upright, inverted or mixed distorted images. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skybrary.aero/articles/fata-morgana" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-title">Fata Morgana &#124; SKYbrary Aviation Safety</span><span class="citation-popover-snippet">Fata Morgana &#124; SKYbrary Aviation Safety</span></span></span>
+The World Meteorological Organization’s International Cloud Atlas describes a mirage as an atmospheric optical phenomenon caused by refraction, with inferior mirages displacing a distant object below its true position.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cloudatlas.wmo.int/mirage.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cloudatlas.wmo.int">[International Cloud Atlas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cloudatlas.wmo.int</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Superior mirages work the other way: under a temperature inversion, colder air lies below warmer air, light rays bend downwards, and the image can appear above the true object. SKYbrary, an aviation safety resource, notes that superior mirages can make objects below the horizon visible, make objects appear bigger, closer or suspended in air, and produce upright, inverted or mixed distorted images.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skybrary.aero/articles/fata-morgana" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-title">Fata Morgana &#124; SKYbrary Aviation Safety</span><span class="citation-popover-snippet">Fata Morgana &#124; SKYbrary Aviation Safety</span></span></span>
 
-This is directly relevant to horizon UFO reports. A ship, coastline, island, aircraft, vehicle lights or astronomical object near the horizon can appear in the wrong place or in the wrong shape. A distant light may seem to hover above the sea. A line of lights may appear separated from the ground. A real object below the normal horizon may be optically lifted into view. In more complex cases, a Fata Morgana can stack upright and inverted images, with compressed and stretched zones that change quickly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skybrary.aero/articles/fog" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Open source on skybrary.aero.</span></span></span>
+This is directly relevant to horizon UFO reports. A ship, coastline, island, aircraft, vehicle lights or astronomical object near the horizon can appear in the wrong place or in the wrong shape. A distant light may seem to hover above the sea. A line of lights may appear separated from the ground. A real object below the normal horizon may be optically lifted into view. In more complex cases, a Fata Morgana can stack upright and inverted images, with compressed and stretched zones that change quickly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skybrary.aero/articles/fog" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Open source on skybrary.aero.</span></span></span>
 
 The mechanism also explains why some atmospheric UFO reports feel so uncanny. The witness is not imagining the light. The light is arriving from a real source, but along a bent path. Human vision assumes light travels in straight lines, so the brain places the object along the apparent line of sight rather than at its true position. The result can look like something floating, hovering or standing above the horizon.
 
@@ -548,11 +548,11 @@ Mirage explanations need caution. They are not a magic answer for every strange 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043-Illustration-2-dark.svg" | relative_url }}" alt="Atmosphere illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Twinkling, colour flashes and “moving stars”
 
-Some reports begin with a bright point of light that seems to flash red, green, blue or white, wobble in place, or drift slightly. This can happen when stars or planets are low in the sky and their light passes through a long, turbulent path through the atmosphere. NASA explains that stars twinkle because moving air slightly bends starlight on its way to the ground, causing brightness changes, and that stars near the horizon twinkle more because there is more atmosphere between the observer and the star. <span class="citation-chip-wrap"><a class="citation-chip" href="https://starchild.gsfc.nasa.gov/docs/StarChild/questions/question26.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: starchild.gsfc.nasa.gov">[StarChild]</a><span class="citation-popover" role="note"><span class="citation-popover-source">starchild.gsfc.nasa.gov</span><span class="citation-popover-title">Star Child Why do stars twinkle?</span><span class="citation-popover-snippet">Star Child Why do stars twinkle?</span></span></span>
+Some reports begin with a bright point of light that seems to flash red, green, blue or white, wobble in place, or drift slightly. This can happen when stars or planets are low in the sky and their light passes through a long, turbulent path through the atmosphere. NASA explains that stars twinkle because moving air slightly bends starlight on its way to the ground, causing brightness changes, and that stars near the horizon twinkle more because there is more atmosphere between the observer and the star.<span class="citation-chip-wrap"><a class="citation-chip" href="https://starchild.gsfc.nasa.gov/docs/StarChild/questions/question26.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: starchild.gsfc.nasa.gov">[StarChild]</a><span class="citation-popover" role="note"><span class="citation-popover-source">starchild.gsfc.nasa.gov</span><span class="citation-popover-title">Star Child Why do stars twinkle?</span><span class="citation-popover-snippet">Star Child Why do stars twinkle?</span></span></span>
 
 For UFO reports, the most important effect is that a steady astronomical source can appear active. Near the horizon, atmospheric turbulence and refraction can make a star or planet brighten, dim, change colour, smear, jump or seem to move. If the observer has no foreground reference, small involuntary eye movements can add to the impression of motion. A camera zoomed in on the source can make the effect look even stranger, because autofocus, digital zoom, exposure shifts and sensor noise enlarge the distorted point into a pulsing disc.
 
-Project Blue Book singled out [Venus]({{ 'venus/' | relative_url }}), Jupiter and Mars as planets that had been reported as UFOs when seen through haze, light fog, moving clouds or unusual conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[whs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">Enterprise Services Dashboard</span><span class="citation-popover-snippet">Enterprise Services Dashboard</span></span></span> Enterprise Services Dashboard This is not because witnesses cannot recognise planets under normal conditions. It is because an unusually bright planet low in a murky sky can lose the simple context that makes it recognisable. It may appear too bright, too colourful, too low, or too “responsive” to be a normal celestial object.
+Project Blue Book singled out [Venus]({{ 'venus/' | relative_url }}), Jupiter and Mars as planets that had been reported as UFOs when seen through haze, light fog, moving clouds or unusual conditions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[whs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">Enterprise Services Dashboard</span><span class="citation-popover-snippet">Enterprise Services Dashboard</span></span></span> Enterprise Services Dashboard This is not because witnesses cannot recognise planets under normal conditions. It is because an unusually bright planet low in a murky sky can lose the simple context that makes it recognisable. It may appear too bright, too colourful, too low, or too “responsive” to be a normal celestial object.
 
 The check is usually simple: record the exact time, direction and elevation, then compare it with a sky chart. If the light remains fixed relative to the stars, sets with the sky, or appears night after night in the same celestial position, an astronomical source plus atmospheric distortion becomes far more likely than a structured craft.
 
@@ -564,10 +564,10 @@ Atmospheric IFO analysis works best when it treats the sky as a scene, not just 
 
 Useful clues include:
 
-* **Visibility and obscuration.** Fog, mist, haze, smoke, drizzle and dust can enlarge lights, hide outlines and remove distance cues. Aviation weather reporting treats these as operationally important because they affect what pilots can see and how they judge the horizon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">12 afh ch11</span><span class="citation-popover-snippet">12 afh ch11</span></span></span>
-* **Cloud base and cloud type.** Low cloud can hide aircraft bodies while leaving lights visible, or reflect beams and city glow. Lenticular clouds point towards mountain-wave conditions and can mimic smooth hovering saucers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-title">Met Office Unusual cloud formations</span><span class="citation-popover-snippet">Met Office Unusual cloud formations</span></span></span>
+* **Visibility and obscuration.** Fog, mist, haze, smoke, drizzle and dust can enlarge lights, hide outlines and remove distance cues. Aviation weather reporting treats these as operationally important because they affect what pilots can see and how they judge the horizon.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">12 afh ch11</span><span class="citation-popover-snippet">12 afh ch11</span></span></span>
+* **Cloud base and cloud type.** Low cloud can hide aircraft bodies while leaving lights visible, or reflect beams and city glow. Lenticular clouds point towards mountain-wave conditions and can mimic smooth hovering saucers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-title">Met Office Unusual cloud formations</span><span class="citation-popover-snippet">Met Office Unusual cloud formations</span></span></span>
 * **Horizon angle.** Mirages and strong scintillation are most relevant near the horizon, where light travels through more atmosphere and temperature layering can bend the apparent path.
-* **Temperature inversions.** Inversions can trap haze and pollutants, form fog or low cloud, and produce superior mirages. The FAA’s pilot guidance notes that high relative humidity in an inversion can contribute to clouds, fog, haze or smoke and diminished visibility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://data.ntsb.gov/Docket/Document/docBLOB?FileExtension=.PDF&amp;FileName=FAA+Pilot%27s+Handbook+of+Aeronautical+Knowledge-Master.PDF&amp;ID=40398161" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: data.ntsb.gov">[NTSB Data]</a><span class="citation-popover" role="note"><span class="citation-popover-source">data.ntsb.gov</span><span class="citation-popover-title">Data Pilot&#x27;s Handbook of Aeronautical Knowledge</span><span class="citation-popover-snippet">Data Pilot&#x27;s Handbook of Aeronautical Knowledge</span></span></span>
+* **Temperature inversions.** Inversions can trap haze and pollutants, form fog or low cloud, and produce superior mirages. The FAA’s pilot guidance notes that high relative humidity in an inversion can contribute to clouds, fog, haze or smoke and diminished visibility.<span class="citation-chip-wrap"><a class="citation-chip" href="https://data.ntsb.gov/Docket/Document/docBLOB?FileExtension=.PDF&amp;FileName=FAA+Pilot%27s+Handbook+of+Aeronautical+Knowledge-Master.PDF&amp;ID=40398161" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: data.ntsb.gov">[NTSB Data]</a><span class="citation-popover" role="note"><span class="citation-popover-source">data.ntsb.gov</span><span class="citation-popover-title">Data Pilot&#x27;s Handbook of Aeronautical Knowledge</span><span class="citation-popover-snippet">Data Pilot&#x27;s Handbook of Aeronautical Knowledge</span></span></span>
 
 <div class="content-enhancement content-enhancement--benefit" markdown="1">
 
@@ -577,7 +577,7 @@ Useful clues include:
 
 </div>
 
-Modern UAP analysis increasingly emphasises this kind of contextual data. NASA’s independent UAP study argued that Earth-observing assets can help determine the local atmospheric and environmental conditions coincident with reported UAP, while also warning that many existing reports lack the sensor metadata and baseline data needed for firm conclusions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That point applies directly to cloud and mirage cases: without time, direction, elevation, weather, camera settings and comparison data, a strange-looking light may remain unresolved even when a natural mechanism is plausible.
+Modern UAP analysis increasingly emphasises this kind of contextual data. NASA’s independent UAP study argued that Earth-observing assets can help determine the local atmospheric and environmental conditions coincident with reported UAP, while also warning that many existing reports lack the sensor metadata and baseline data needed for firm conclusions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That point applies directly to cloud and mirage cases: without time, direction, elevation, weather, camera settings and comparison data, a strange-looking light may remain unresolved even when a natural mechanism is plausible.
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043-Illustration-3-dark.svg" | relative_url }}" alt="Atmosphere illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why atmospheric explanations can be both convincing and incomplete
@@ -591,194 +591,194 @@ The strongest lesson is that the atmosphere is an active optical system. It can 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bQo08JRY0iM" title="Public Meeting on Unidentified Anomalous Phenomena (Official NASA Broadcast)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bQo08JRY0iM" target="_blank" rel="noopener noreferrer">Public Meeting on Unidentified Anomalous Phenomena (Official NASA Broadcast)</a></p><p class="youtube-embed-meta">Channel: NASA Video &middot; Views: 358.7K &middot; Uploaded: May 2023 &middot; Length: 4 hours</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bQo08JRY0iM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bQo08JRY0iM">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Weather Makes Shapes in the Sky. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Weather Makes Shapes in the Sky. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+AMS+Weather+Book+by+Jack+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The AMS Weather Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NWtHAAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The AMS Weather Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+AMS+Weather+Book+by+Jack+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The AMS Weather Book">The AMS Weather Book</a>
-        </h4>
-        <p class="fr-book-author">By Jack Williams</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+AMS+Weather+Book+by+Jack+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The AMS Weather Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NWtHAAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The AMS Weather Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+AMS+Weather+Book+by+Jack+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The AMS Weather Book">The AMS Weather Book</a>
+</h4>
+<p class="fr-book-author">By Jack Williams</p>
         
-        <p class="fr-book-desc">Explains atmospheric effects behind many UFO misidentifications.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+AMS+Weather+Book+by+Jack+Williams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains atmospheric effects behind many UFO misidentifications.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+AMS+Weather+Book+by+Jack+Williams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weather For Dummies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LtoPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Weather For Dummies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weather For Dummies">Weather For Dummies</a>
-        </h4>
-        <p class="fr-book-author">By John D. Cox</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weather For Dummies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LtoPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Weather For Dummies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weather For Dummies">Weather For Dummies</a>
+</h4>
+<p class="fr-book-author">By John D. Cox</p>
         
-        <p class="fr-book-desc">Accessible coverage of clouds, visibility and atmospheric optics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Accessible coverage of clouds, visibility and atmospheric optics.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteorology+Today+by+C.+Donald+Ahrens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteorology Today on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ypwsAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Meteorology Today" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Meteorology+Today+by+C.+Donald+Ahrens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteorology Today">Meteorology Today</a>
-        </h4>
-        <p class="fr-book-author">By C. Donald Ahrens</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteorology+Today+by+C.+Donald+Ahrens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteorology Today on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ypwsAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Meteorology Today" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Meteorology+Today+by+C.+Donald+Ahrens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteorology Today">Meteorology Today</a>
+</h4>
+<p class="fr-book-author">By C. Donald Ahrens</p>
         
-        <p class="fr-book-desc">Detailed treatment of atmospheric visibility and optical effects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Meteorology+Today+by+C.+Donald+Ahrens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Detailed treatment of atmospheric visibility and optical effects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Meteorology+Today+by+C.+Donald+Ahrens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=AMS+Weather+Book+Jack+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open AMS Weather Book on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=AMS+Weather+Book+Jack+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="AMS Weather Book">AMS Weather Book</a>
-        </h4>
-        <p class="fr-book-author">By Jack Williams</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=AMS+Weather+Book+Jack+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open AMS Weather Book on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=AMS+Weather+Book+Jack+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="AMS Weather Book">AMS Weather Book</a>
+</h4>
+<p class="fr-book-author">By Jack Williams</p>
         
-        <p class="fr-book-desc">First published 2013. Subjects: Geography, Life sciences, Earth Sciences, Atmospheric Sciences, Popular Science in Nature and Environment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=AMS+Weather+Book+Jack+Williams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2013. Subjects: Geography, Life sciences, Earth Sciences, Atmospheric Sciences, Popular Science in Nature and Environment.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=AMS+Weather+Book+Jack+Williams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+AMS+Weather+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The AMS Weather Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Weather+For+Dummies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Weather For Dummies</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Meteorology+Today&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meteorology Today</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+AMS+Weather+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The AMS Weather Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Weather+For+Dummies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Weather For Dummies</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Meteorology+Today&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meteorology Today</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atmosphere-when-weather-makes-shapes-in-the-sky-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="atmosphere-when-weather-makes-shapes-in-the-sky-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Beautiful astro starry night sky. F Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2d7db700ef91db184218.jpg' | relative_url }}" alt="Listing image for Beautiful astro starry night sky. F Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atmosphere-when-weather-makes-shapes-in-the-sky-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="atmosphere-when-weather-makes-shapes-in-the-sky-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">Beautiful astro starry night sky. F Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atmosphere-when-weather-makes-shapes-in-the-sky-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="atmosphere-when-weather-makes-shapes-in-the-sky-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atmosphere-when-weather-makes-shapes-in-the-sky-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="atmosphere-when-weather-makes-shapes-in-the-sky-ifos-causes-of-night-sky-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atmosphere-when-weather-makes-shapes-in-the-sky-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="atmosphere-when-weather-makes-shapes-in-the-sky-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Beautiful astro starry night sky. F Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2d7db700ef91db184218.jpg' | relative_url }}" alt="Listing image for Beautiful astro starry night sky. F Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atmosphere-when-weather-makes-shapes-in-the-sky-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="atmosphere-when-weather-makes-shapes-in-the-sky-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">Beautiful astro starry night sky. F Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atmosphere-when-weather-makes-shapes-in-the-sky-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="atmosphere-when-weather-makes-shapes-in-the-sky-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: night sky poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atmosphere-when-weather-makes-shapes-in-the-sky-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="atmosphere-when-weather-makes-shapes-in-the-sky-ifos-causes-of-night-sky-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atmosphere-when-weather-makes-shapes-in-the-sky-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="atmosphere-when-weather-makes-shapes-in-the-sky-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Starry Night Sky Clouds Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7e32f4b1666eef6514d0.jpg' | relative_url }}" alt="Listing image for Starry Night Sky Clouds Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atmosphere-when-weather-makes-shapes-in-the-sky-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="atmosphere-when-weather-makes-shapes-in-the-sky-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">Starry Night Sky Clouds Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atmosphere-when-weather-makes-shapes-in-the-sky-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="atmosphere-when-weather-makes-shapes-in-the-sky-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atmosphere-when-weather-makes-shapes-in-the-sky-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="atmosphere-when-weather-makes-shapes-in-the-sky-ifos-causes-of-night-sky-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atmosphere-when-weather-makes-shapes-in-the-sky-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="atmosphere-when-weather-makes-shapes-in-the-sky-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Starry Night Sky Clouds Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7e32f4b1666eef6514d0.jpg' | relative_url }}" alt="Listing image for Starry Night Sky Clouds Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atmosphere-when-weather-makes-shapes-in-the-sky-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="atmosphere-when-weather-makes-shapes-in-the-sky-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">Starry Night Sky Clouds Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atmosphere-when-weather-makes-shapes-in-the-sky-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="atmosphere-when-weather-makes-shapes-in-the-sky-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: night sky poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atmosphere-when-weather-makes-shapes-in-the-sky-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="atmosphere-when-weather-makes-shapes-in-the-sky-ifos-causes-of-night-sky-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atmosphere-when-weather-makes-shapes-in-the-sky-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="atmosphere-when-weather-makes-shapes-in-the-sky-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Crescent Moon Night Sky Art Starry Forest Wall Print Midnight Landscape Poster"><img src="{{ '/assets/images/marketplace-covers/6d8c08fb07037584328c.jpg' | relative_url }}" alt="Listing image for Crescent Moon Night Sky Art Starry Forest Wall Print Midnight Landscape Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atmosphere-when-weather-makes-shapes-in-the-sky-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="atmosphere-when-weather-makes-shapes-in-the-sky-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">Crescent Moon Night Sky Art Starry Forest Wall Print Midnight Landscape Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atmosphere-when-weather-makes-shapes-in-the-sky-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="atmosphere-when-weather-makes-shapes-in-the-sky-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atmosphere-when-weather-makes-shapes-in-the-sky-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="atmosphere-when-weather-makes-shapes-in-the-sky-ifos-causes-of-night-sky-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atmosphere-when-weather-makes-shapes-in-the-sky-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="atmosphere-when-weather-makes-shapes-in-the-sky-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Crescent Moon Night Sky Art Starry Forest Wall Print Midnight Landscape Poster"><img src="{{ '/assets/images/marketplace-covers/6d8c08fb07037584328c.jpg' | relative_url }}" alt="Listing image for Crescent Moon Night Sky Art Starry Forest Wall Print Midnight Landscape Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atmosphere-when-weather-makes-shapes-in-the-sky-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="atmosphere-when-weather-makes-shapes-in-the-sky-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">Crescent Moon Night Sky Art Starry Forest Wall Print Midnight Landscape Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atmosphere-when-weather-makes-shapes-in-the-sky-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="atmosphere-when-weather-makes-shapes-in-the-sky-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: night sky poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atmosphere-when-weather-makes-shapes-in-the-sky-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="atmosphere-when-weather-makes-shapes-in-the-sky-ifos-causes-of-night-sky-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atmosphere-when-weather-makes-shapes-in-the-sky-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="atmosphere-when-weather-makes-shapes-in-the-sky-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Airship in Starry Night Sky Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/fdb67fcc50900ab468b6.jpg' | relative_url }}" alt="Listing image for Airship in Starry Night Sky Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atmosphere-when-weather-makes-shapes-in-the-sky-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="atmosphere-when-weather-makes-shapes-in-the-sky-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">Airship in Starry Night Sky Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atmosphere-when-weather-makes-shapes-in-the-sky-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="atmosphere-when-weather-makes-shapes-in-the-sky-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atmosphere-when-weather-makes-shapes-in-the-sky-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="atmosphere-when-weather-makes-shapes-in-the-sky-ifos-causes-of-night-sky-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atmosphere-when-weather-makes-shapes-in-the-sky-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="atmosphere-when-weather-makes-shapes-in-the-sky-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atmosphere-when-weather-makes-shapes-in-the-sky-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="atmosphere-when-weather-makes-shapes-in-the-sky-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Airship in Starry Night Sky Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/fdb67fcc50900ab468b6.jpg' | relative_url }}" alt="Listing image for Airship in Starry Night Sky Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atmosphere-when-weather-makes-shapes-in-the-sky-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="atmosphere-when-weather-makes-shapes-in-the-sky-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">Airship in Starry Night Sky Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atmosphere-when-weather-makes-shapes-in-the-sky-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="atmosphere-when-weather-makes-shapes-in-the-sky-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: night sky poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atmosphere-when-weather-makes-shapes-in-the-sky-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="atmosphere-when-weather-makes-shapes-in-the-sky-ifos-causes-of-night-sky-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atmosphere-when-weather-makes-shapes-in-the-sky-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="atmosphere-when-weather-makes-shapes-in-the-sky-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -794,7 +794,7 @@ The strongest lesson is that the atmosphere is an active optical system. It can 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -814,7 +814,7 @@ The strongest lesson is that the atmosphere is an active optical system. It can 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -846,7 +846,7 @@ The strongest lesson is that the atmosphere is an active optical system. It can 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -898,7 +898,7 @@ The strongest lesson is that the atmosphere is an active optical system. It can 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -943,7 +943,7 @@ The strongest lesson is that the atmosphere is an active optical system. It can 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -984,194 +984,194 @@ The strongest lesson is that the atmosphere is an active optical system. It can 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: esd.whs.mil  
    Title: Enterprise Services Dashboard  
-   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837</a>  
+   Link:<a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: faa.gov  
    Title: 12 afh ch11  
-   Link: <a href="https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf</a>  
+   Link:<a href="https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/hfo/lenticular" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/hfo/lenticular</a>  
+   Link:<a href="https://www.weather.gov/hfo/lenticular" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/hfo/lenticular</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: skybrary.aero  
    Title: Fata Morgana | SKYbrary Aviation Safety  
-   Link: <a href="https://skybrary.aero/articles/fata-morgana" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/fata-morgana</a>  
+   Link:<a href="https://skybrary.aero/articles/fata-morgana" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/fata-morgana</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: starchild.gsfc.nasa.gov  
    Title: Star Child Why do stars twinkle?  
-   Link: <a href="https://starchild.gsfc.nasa.gov/docs/StarChild/questions/question26.html" target="_blank" rel="noopener noreferrer nofollow">https://starchild.gsfc.nasa.gov/docs/StarChild/questions/question26.html</a>  
+   Link:<a href="https://starchild.gsfc.nasa.gov/docs/StarChild/questions/question26.html" target="_blank" rel="noopener noreferrer nofollow">https://starchild.gsfc.nasa.gov/docs/StarChild/questions/question26.html</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/air_traffic/publications/ATpubs/AIM_html/chap7_section_1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/ATpubs/AIM_html/chap7_section_1.html</a>  
+   Link:<a href="https://www.faa.gov/air_traffic/publications/ATpubs/AIM_html/chap7_section_1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/ATpubs/AIM_html/chap7_section_1.html</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: data.ntsb.gov  
    Title: Data Pilot's Handbook of Aeronautical Knowledge  
-   Link: <a href="https://data.ntsb.gov/Docket/Document/docBLOB?FileExtension=.PDF&amp;FileName=FAA+Pilot%27s+Handbook+of+Aeronautical+Knowledge-Master.PDF&amp;ID=40398161" target="_blank" rel="noopener noreferrer nofollow">https://data.ntsb.gov/Docket/Document/docBLOB?FileExtension=.PDF&amp;FileName=FAA+Pilot%27s+Handbook+of+Aeronautical+Knowledge-Master.PDF&amp;ID=40398161</a>  
+   Link:<a href="https://data.ntsb.gov/Docket/Document/docBLOB?FileExtension=.PDF&amp;FileName=FAA+Pilot%27s+Handbook+of+Aeronautical+Knowledge-Master.PDF&amp;ID=40398161" target="_blank" rel="noopener noreferrer nofollow">https://data.ntsb.gov/Docket/Document/docBLOB?FileExtension=.PDF&amp;FileName=FAA+Pilot%27s+Handbook+of+Aeronautical+Knowledge-Master.PDF&amp;ID=40398161</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/abq/features_acsl" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/abq/features_acsl</a>  
+   Link:<a href="https://www.weather.gov/abq/features_acsl" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/abq/features_acsl</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/media/zhu/ZHU_Training_Page/fog_stuff/fog_definitions/fog.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/media/zhu/ZHU_Training_Page/fog_stuff/fog_definitions/fog.pdf</a>  
+   Link:<a href="https://www.weather.gov/media/zhu/ZHU_Training_Page/fog_stuff/fog_definitions/fog.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/media/zhu/ZHU_Training_Page/fog_stuff/fog_definitions/fog.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: faa.gov  
    Title: FAA H 8083 28A FAA Web  
-   Link: <a href="https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-28A_FAA_Web.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-28A_FAA_Web.pdf</a>  
+   Link:<a href="https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-28A_FAA_Web.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-28A_FAA_Web.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/Balloon_Flying_Handbook_FAA-H-8083-11B/bfh_chapter_4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/Balloon_Flying_Handbook_FAA-H-8083-11B/bfh_chapter_4.pdf</a>  
+   Link:<a href="https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/Balloon_Flying_Handbook_FAA-H-8083-11B/bfh_chapter_4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/Balloon_Flying_Handbook_FAA-H-8083-11B/bfh_chapter_4.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nightsky.jpl.nasa.gov  
-   Link: <a href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow">https://nightsky.jpl.nasa.gov/news/39/</a>  
+   Link:<a href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow">https://nightsky.jpl.nasa.gov/news/39/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/faa/mitigating-the-hazard-of-visual-illusions-fb3c35009471" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/faa/mitigating-the-hazard-of-visual-illusions-fb3c35009471</a>  
+   Link:<a href="https://medium.com/faa/mitigating-the-hazard-of-visual-illusions-fb3c35009471" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/faa/mitigating-the-hazard-of-visual-illusions-fb3c35009471</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40omarvferro/when-the-sky-tricked-us-the-most-famous-ufos-that-turned-out-to-be-nothing-but-nature-showing-5359c8ff815a" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40omarvferro/when-the-sky-tricked-us-the-most-famous-ufos-that-turned-out-to-be-nothing-but-nature-showing-5359c8ff815a</a>  
+   Link:<a href="https://medium.com/%40omarvferro/when-the-sky-tricked-us-the-most-famous-ufos-that-turned-out-to-be-nothing-but-nature-showing-5359c8ff815a" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40omarvferro/when-the-sky-tricked-us-the-most-famous-ufos-that-turned-out-to-be-nothing-but-nature-showing-5359c8ff815a</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: skybrary.aero  
-   Link: <a href="https://skybrary.aero/articles/fog" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/fog</a>  
+   Link:<a href="https://skybrary.aero/articles/fog" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/fog</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: nesdis.noaa.gov  
    Title: types of clouds  
-   Link: <a href="https://www.nesdis.noaa.gov/about/k-12-education/atmosphere/types-of-clouds" target="_blank" rel="noopener noreferrer nofollow">https://www.nesdis.noaa.gov/about/k-12-education/atmosphere/types-of-clouds</a>  
+   Link:<a href="https://www.nesdis.noaa.gov/about/k-12-education/atmosphere/types-of-clouds" target="_blank" rel="noopener noreferrer nofollow">https://www.nesdis.noaa.gov/about/k-12-education/atmosphere/types-of-clouds</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: repository.library.noaa.gov  
    Title: noaa 18895 DS1  
-   Link: <a href="https://repository.library.noaa.gov/view/noaa/18895/noaa_18895_DS1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://repository.library.noaa.gov/view/noaa/18895/noaa_18895_DS1.pdf</a>  
+   Link:<a href="https://repository.library.noaa.gov/view/noaa/18895/noaa_18895_DS1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://repository.library.noaa.gov/view/noaa/18895/noaa_18895_DS1.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: weather.metoffice.gov.uk  
    Title: Met Office Unusual cloud formations  
-   Link: <a href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations</a>  
+   Link:<a href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: cloudatlas.wmo.int  
-   Link: <a href="https://cloudatlas.wmo.int/mirage.html" target="_blank" rel="noopener noreferrer nofollow">https://cloudatlas.wmo.int/mirage.html</a>  
+   Link:<a href="https://cloudatlas.wmo.int/mirage.html" target="_blank" rel="noopener noreferrer nofollow">https://cloudatlas.wmo.int/mirage.html</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: Wikipedia  
    Title: Lenticular cloud  
-   Link: <a href="https://en.wikipedia.org/wiki/Lenticular_cloud" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lenticular_cloud</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Lenticular_cloud" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lenticular_cloud</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Twinkling" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Twinkling</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Twinkling" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Twinkling</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: metoffice.gov.uk  
    Title: whats the difference between mist fog and haze  
-   Link: <a href="https://www.metoffice.gov.uk/blog/2025/whats-the-difference-between-mist-fog-and-haze" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/blog/2025/whats-the-difference-between-mist-fog-and-haze</a>  
+   Link:<a href="https://www.metoffice.gov.uk/blog/2025/whats-the-difference-between-mist-fog-and-haze" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/blog/2025/whats-the-difference-between-mist-fog-and-haze</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: hyperphysics.phy-astr.gsu.edu  
-   Link: <a href="https://hyperphysics.phy-astr.gsu.edu/hbase/atmos/mirage.html" target="_blank" rel="noopener noreferrer nofollow">https://hyperphysics.phy-astr.gsu.edu/hbase/atmos/mirage.html</a>  
+   Link:<a href="https://hyperphysics.phy-astr.gsu.edu/hbase/atmos/mirage.html" target="_blank" rel="noopener noreferrer nofollow">https://hyperphysics.phy-astr.gsu.edu/hbase/atmos/mirage.html</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: tarmacview.com  
-   Link: <a href="https://www.tarmacview.com/glossary/fog/" target="_blank" rel="noopener noreferrer nofollow">https://www.tarmacview.com/glossary/fog/</a>  
+   Link:<a href="https://www.tarmacview.com/glossary/fog/" target="_blank" rel="noopener noreferrer nofollow">https://www.tarmacview.com/glossary/fog/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: dailyrecord.co.uk  
    Title: met office ufo shaped clouds 32355770  
-   Link: <a href="https://www.dailyrecord.co.uk/news/scottish-news/met-office-ufo-shaped-clouds-32355770" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/news/scottish-news/met-office-ufo-shaped-clouds-32355770</a>  
+   Link:<a href="https://www.dailyrecord.co.uk/news/scottish-news/met-office-ufo-shaped-clouds-32355770" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/news/scottish-news/met-office-ufo-shaped-clouds-32355770</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/science/mirage" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/science/mirage</a>  
+   Link:<a href="https://www.ebsco.com/research-starters/science/mirage" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/science/mirage</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: weather.gov.hk  
-   Link: <a href="https://www.weather.gov.hk/en/Observatorys-Blog/104520/Mirage" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov.hk/en/Observatorys-Blog/104520/Mirage</a>  
+   Link:<a href="https://www.weather.gov.hk/en/Observatorys-Blog/104520/Mirage" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov.hk/en/Observatorys-Blog/104520/Mirage</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
+   Link:<a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: history.com  
    Title: Project Blue Book  
-   Link: <a href="https://www.history.com/articles/project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/project-blue-book</a>  
+   Link:<a href="https://www.history.com/articles/project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/project-blue-book</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: journalofscientificexploration.org  
-   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/view/124/62" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/124/62</a>  
+   Link:<a href="https://journalofscientificexploration.org/index.php/jse/article/view/124/62" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/124/62</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: ghostarchive.org  
    Title: Lenticular clouds  
-   Link: <a href="https://ghostarchive.org/archive/N4HKO" target="_blank" rel="noopener noreferrer nofollow">https://ghostarchive.org/archive/N4HKO</a>  
+   Link:<a href="https://ghostarchive.org/archive/N4HKO" target="_blank" rel="noopener noreferrer nofollow">https://ghostarchive.org/archive/N4HKO</a>  
 
 ### Additional References
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: aviationweather.gov  
-   Link: <a href="https://aviationweather.gov/help/data/" target="_blank" rel="noopener noreferrer nofollow">https://aviationweather.gov/help/data/</a>  
+   Link:<a href="https://aviationweather.gov/help/data/" target="_blank" rel="noopener noreferrer nofollow">https://aviationweather.gov/help/data/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: youtube.com  
    Title: The Science of Optical Illusions in the Sky  
-   Link: <a href="https://www.youtube.com/watch?v=9_i1tN063-I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9_i1tN063-I</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Stars Twinkle and Planets Don&#x27;t (Atmospheric Distortion)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=9_i1tN063-I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9_i1tN063-I</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why Stars Twinkle and Planets Don&#x27;t (Atmospheric Distortion)...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/DiscoveryChannelIndiaOfficial/posts/a-conspiracy-theory-we-have-could-these-be-ufos-disguised-as-clouds-to-fool-huma/4966295620096980/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/DiscoveryChannelIndiaOfficial/posts/a-conspiracy-theory-we-have-could-these-be-ufos-disguised-as-clouds-to-fool-huma/4966295620096980/</a>  
+   Link:<a href="https://www.facebook.com/DiscoveryChannelIndiaOfficial/posts/a-conspiracy-theory-we-have-could-these-be-ufos-disguised-as-clouds-to-fool-huma/4966295620096980/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/DiscoveryChannelIndiaOfficial/posts/a-conspiracy-theory-we-have-could-these-be-ufos-disguised-as-clouds-to-fool-huma/4966295620096980/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DZH-30jRSzM/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DZH-30jRSzM/</a>  
+   Link:<a href="https://www.instagram.com/p/DZH-30jRSzM/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DZH-30jRSzM/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: primitiveproton.com  
-   Link: <a href="https://primitiveproton.com/atmospheric-scintillation-why-stars-twinkle-and-planets-dont/" target="_blank" rel="noopener noreferrer nofollow">https://primitiveproton.com/atmospheric-scintillation-why-stars-twinkle-and-planets-dont/</a>  
+   Link:<a href="https://primitiveproton.com/atmospheric-scintillation-why-stars-twinkle-and-planets-dont/" target="_blank" rel="noopener noreferrer nofollow">https://primitiveproton.com/atmospheric-scintillation-why-stars-twinkle-and-planets-dont/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/AstronomyNo1/posts/5192188810826159/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/AstronomyNo1/posts/5192188810826159/</a>  
+   Link:<a href="https://www.facebook.com/groups/AstronomyNo1/posts/5192188810826159/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/AstronomyNo1/posts/5192188810826159/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/KDRV12/posts/check-out-the-flying-saucer-above-mount-shasta-this-afternoon-captured-on-our-ne/1532716598860595/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KDRV12/posts/check-out-the-flying-saucer-above-mount-shasta-this-afternoon-captured-on-our-ne/1532716598860595/</a>  
+   Link:<a href="https://www.facebook.com/KDRV12/posts/check-out-the-flying-saucer-above-mount-shasta-this-afternoon-captured-on-our-ne/1532716598860595/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KDRV12/posts/check-out-the-flying-saucer-above-mount-shasta-this-afternoon-captured-on-our-ne/1532716598860595/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/HiddenFactsss/posts/disc-shaped-ufo-seen-floating-above-a-us-town-with-fiery-lights-circling-its-edg/1664336935692939/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HiddenFactsss/posts/disc-shaped-ufo-seen-floating-above-a-us-town-with-fiery-lights-circling-its-edg/1664336935692939/</a>  
+   Link:<a href="https://www.facebook.com/HiddenFactsss/posts/disc-shaped-ufo-seen-floating-above-a-us-town-with-fiery-lights-circling-its-edg/1664336935692939/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HiddenFactsss/posts/disc-shaped-ufo-seen-floating-above-a-us-town-with-fiery-lights-circling-its-edg/1664336935692939/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: etlaviation.com  
-   Link: <a href="https://www.etlaviation.com/wp-content/uploads/_resources/FAA_Aviation_Weather_for_Pilots_and_Flight_Operations_Personnel_AC_00_6A_1975.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.etlaviation.com/wp-content/uploads/_resources/FAA_Aviation_Weather_for_Pilots_and_Flight_Operations_Personnel_AC_00_6A_1975.pdf</a>  
+   Link:<a href="https://www.etlaviation.com/wp-content/uploads/_resources/FAA_Aviation_Weather_for_Pilots_and_Flight_Operations_Personnel_AC_00_6A_1975.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.etlaviation.com/wp-content/uploads/_resources/FAA_Aviation_Weather_for_Pilots_and_Flight_Operations_Personnel_AC_00_6A_1975.pdf</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: [geipan](&#123;&#123; 'geipan/' | relative_url &#125;&#125;). fr  
-   Link: <a href="https://www.geipan.fr/en/faq-page" target="_blank" rel="noopener noreferrer nofollow">https://www.geipan.fr/en/faq-page</a>
+   Link:<a href="https://www.geipan.fr/en/faq-page" target="_blank" rel="noopener noreferrer nofollow">https://www.geipan.fr/en/faq-page</a>

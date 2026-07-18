@@ -504,24 +504,24 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080-ov
 Venus is one of the most reliable sources of sincere UFO reports because it can look startlingly bright, fixed in place and oddly close when it is seen low over a clear horizon. Jupiter, Mars and Mercury can cause similar confusion, especially when several bright planets line up in twilight and appear as a formation of lights. The important point is not that witnesses are “just seeing a planet” in a dismissive sense. It is that a real, bright astronomical object can be transformed by [atmosphere]({{ 'atmosphere/' | relative_url }}), haze, moving cloud, poor [distance cues]({{ 'distance-cues/' | relative_url }}) and expectation into a report of a hovering or colour-changing object.
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080-overview.webp" | relative_url }}" alt="Overview image for Venus" loading="eager" decoding="sync" fetchpriority="high">
-NASA’s Night Sky Network puts the issue plainly: Venus shining bright and low has been reported many times as a UFO, and Venus, Jupiter, [Sirius]({{ 'sirius/' | relative_url }}) and Mercury are among the [sky objects]({{ 'sky-objects/' | relative_url }}) most often confused for unexplained lights. The same source recommends checking the date, time, direction, brightness, duration and path of a sighting against planetarium software before treating the object as unknown. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nightsky.jpl.nasa.gov">[Night Sky Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nightsky.jpl.nasa.gov</span><span class="citation-popover-snippet">News &amp; Resources &#124; Night Sky Network...</span></span></span>
+NASA’s Night Sky Network puts the issue plainly: Venus shining bright and low has been reported many times as a UFO, and Venus, Jupiter, [Sirius]({{ 'sirius/' | relative_url }}) and Mercury are among the [sky objects]({{ 'sky-objects/' | relative_url }}) most often confused for unexplained lights. The same source recommends checking the date, time, direction, brightness, duration and path of a sighting against planetarium software before treating the object as unknown.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nightsky.jpl.nasa.gov">[Night Sky Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nightsky.jpl.nasa.gov</span><span class="citation-popover-snippet">News &amp; Resources &#124; Night Sky Network...</span></span></span>
 
 ## Why Venus looks unnaturally bright
 
-Venus is not just “a bright star”. It is often the brightest natural point-like object in the sky, outshone only by the Sun and Moon. NASA describes Venus as Earth’s closest planetary neighbour and the third brightest object in the sky after the Sun and Moon. Its brilliance comes from several factors working together: it is relatively near Earth, it is close enough to the Sun to receive strong sunlight, and it is wrapped in dense, reflective clouds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/venus/venus-facts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Venus: Facts</span><span class="citation-popover-snippet">Science Venus: Facts</span></span></span>
+Venus is not just “a bright star”. It is often the brightest natural point-like object in the sky, outshone only by the Sun and Moon. NASA describes Venus as Earth’s closest planetary neighbour and the third brightest object in the sky after the Sun and Moon. Its brilliance comes from several factors working together: it is relatively near Earth, it is close enough to the Sun to receive strong sunlight, and it is wrapped in dense, reflective clouds.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/venus/venus-facts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Venus: Facts</span><span class="citation-popover-snippet">Science Venus: Facts</span></span></span>
 
 That brightness matters for UFO reports because the eye has few scale cues in the sky. A bright object on a dark or twilight background can feel nearer than it is. If the observer is driving, walking, or looking between buildings or trees, the planet may seem to “follow” them or hold position against the landscape. In reality, Venus is effectively fixed at celestial distance while the foreground moves.
 
-Venus is also restricted by geometry. Because its orbit lies inside Earth’s orbit, it never appears far from the Sun in our sky. That is why it is usually seen as the “evening star” after sunset or the “morning star” before sunrise rather than high overhead at midnight. NASA notes that Venus appears in morning and evening guises from Earth because it stays on one side or the other of the Sun from our viewpoint. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/venus/venus-facts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Venus: Facts</span><span class="citation-popover-snippet">Science Venus: Facts</span></span></span> This low twilight setting is exactly where UFO reports are most likely to become confusing: the object is bright, isolated, near the horizon, and visible when aircraft, clouds, streetlights and fading daylight all compete for interpretation.
+Venus is also restricted by geometry. Because its orbit lies inside Earth’s orbit, it never appears far from the Sun in our sky. That is why it is usually seen as the “evening star” after sunset or the “morning star” before sunrise rather than high overhead at midnight. NASA notes that Venus appears in morning and evening guises from Earth because it stays on one side or the other of the Sun from our viewpoint.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/venus/venus-facts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Venus: Facts</span><span class="citation-popover-snippet">Science Venus: Facts</span></span></span> This low twilight setting is exactly where UFO reports are most likely to become confusing: the object is bright, isolated, near the horizon, and visible when aircraft, clouds, streetlights and fading daylight all compete for interpretation.
 
-Jupiter can play the same role, although usually less dramatically. NASA’s Jet Propulsion Laboratory described Jupiter as a bright planet standing low in the western sky after sunset in February 2022, while Venus was visible low in the south-east before sunrise and was the brightest planet because of its reflective cloud cover. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jpl.nasa.gov/videos/whats-up-february-2022/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jpl.nasa.gov">[NASA Jet Propulsion Laboratory (JPL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jpl.nasa.gov</span><span class="citation-popover-title">Jet Propulsion Laboratory (JPL)What&#x27;s Up</span><span class="citation-popover-snippet">Jet Propulsion Laboratory (JPL)What&#x27;s Up</span></span></span> A low Jupiter may be reported as a stationary light, an aircraft that never arrives, or a distant object hovering over a road, hill or coastline.
+Jupiter can play the same role, although usually less dramatically. NASA’s Jet Propulsion Laboratory described Jupiter as a bright planet standing low in the western sky after sunset in February 2022, while Venus was visible low in the south-east before sunrise and was the brightest planet because of its reflective cloud cover.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jpl.nasa.gov/videos/whats-up-february-2022/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jpl.nasa.gov">[NASA Jet Propulsion Laboratory (JPL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jpl.nasa.gov</span><span class="citation-popover-title">Jet Propulsion Laboratory (JPL)What&#x27;s Up</span><span class="citation-popover-snippet">Jet Propulsion Laboratory (JPL)What&#x27;s Up</span></span></span> A low Jupiter may be reported as a stationary light, an aircraft that never arrives, or a distant object hovering over a road, hill or coastline.
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080-Illustration-1-dark.svg" | relative_url }}" alt="Venus illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why low planets pulse, shimmer and change colour
 
 A planet near the horizon is viewed through a much longer path of atmosphere than the same planet higher in the sky. That extra air is not uniform. It contains layers of different temperature and density, plus haze, moisture, dust and turbulence. As light passes through these layers, it is refracted, scattered and sometimes briefly split or dimmed. The result can be a light that seems to pulse, wobble, flare or change colour.
 
-The general effect is known as scintillation. Britannica explains that twinkling is caused by turbulence in Earth’s atmosphere bending incoming light, and that objects near the horizon pass through more air than objects overhead. It also notes that planets normally twinkle less than [stars]({{ 'stars/' | relative_url }}) because they present a tiny disk rather than a perfect point, but even a planet close to the horizon can show a small twinkle. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/science/Why-Do-Stars-Twinkle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> For UFO interpretation, “small” is enough: a brilliant low Venus seen through unsteady air can look far more active than a steady astronomical chart would suggest.
+The general effect is known as scintillation. Britannica explains that twinkling is caused by turbulence in Earth’s atmosphere bending incoming light, and that objects near the horizon pass through more air than objects overhead. It also notes that planets normally twinkle less than [stars]({{ 'stars/' | relative_url }}) because they present a tiny disk rather than a perfect point, but even a planet close to the horizon can show a small twinkle.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/science/Why-Do-Stars-Twinkle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> For UFO interpretation, “small” is enough: a brilliant low Venus seen through unsteady air can look far more active than a steady astronomical chart would suggest.
 
 This is why colour-change reports are not automatically exotic. Near the horizon, atmospheric refraction and scattering can reduce blue light, redden the object, and make turbulent colour flashes more noticeable. Thin cloud can add another layer of apparent behaviour: the planet may brighten and fade as cloud filaments pass across it, giving the impression of a pulsing light source. If the cloud itself is moving, the fixed planet can appear to drift in the opposite direction, even though the motion belongs to the foreground.
 
@@ -539,7 +539,7 @@ Several mechanisms can stack together:
 * **Expectation:** once a light is interpreted as an aircraft or unknown object, the brain may keep looking for aircraft-like motion, size and distance even when the stimulus is astronomical.
 * **Earth’s rotation:** over many minutes, a planet does move slowly across the sky, but not in the quick, purposeful way associated with aircraft or [drones]({{ 'drones/' | relative_url }}).
 
-The most useful clue is duration. [Aircraft lights]({{ 'aircraft-lights/' | relative_url }}) change position noticeably against stars, buildings or the horizon. Satellites usually cross a large arc of sky within minutes. Meteors are over in seconds. A planet can remain in the same general place for much longer, then gradually set. NASA’s Night Sky Network recommends recording how long the object was seen, whether it drifted, which direction it moved, and how its brightness compared with stars, because those simple details often separate planets from aircraft, satellites or other IFO causes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nightsky.jpl.nasa.gov">[Night Sky Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nightsky.jpl.nasa.gov</span><span class="citation-popover-snippet">News &amp; Resources &#124; Night Sky Network...</span></span></span>
+The most useful clue is duration. [Aircraft lights]({{ 'aircraft-lights/' | relative_url }}) change position noticeably against stars, buildings or the horizon. Satellites usually cross a large arc of sky within minutes. Meteors are over in seconds. A planet can remain in the same general place for much longer, then gradually set. NASA’s Night Sky Network recommends recording how long the object was seen, whether it drifted, which direction it moved, and how its brightness compared with stars, because those simple details often separate planets from aircraft, satellites or other IFO causes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nightsky.jpl.nasa.gov">[Night Sky Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nightsky.jpl.nasa.gov</span><span class="citation-popover-snippet">News &amp; Resources &#124; Night Sky Network...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Gh-d3A7ezRM" title="The Night Sky | June 2023 | Venus Shines Bright | Globular Clusters | Astronomy | Astrophotography" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Gh-d3A7ezRM" target="_blank" rel="noopener noreferrer">The Night Sky | June 2023 | Venus Shines Bright | Globular Clusters | Astronomy | Astrophotography</a></p><p class="youtube-embed-meta">Channel: Late Night Astronomy &middot; Views: 7.6K &middot; Uploaded: May 2023 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Gh-d3A7ezRM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Gh-d3A7ezRM">Open on YouTube</a></p></div></div></div>
 
@@ -547,9 +547,9 @@ The most useful clue is duration. [Aircraft lights]({{ 'aircraft-lights/' | rela
 
 One bright planet can be confusing; several bright planets near the horizon can be more dramatic. Venus and Jupiter close together in twilight can look like a pair of structured lights. Add Mercury lower down, Mars nearby, or the Moon along the same line, and the scene may be described as a formation, a triangle, or a set of hovering lights over a town.
 
-This happens because planets follow the ecliptic, the apparent path of the Sun, Moon and planets across the sky. To a skywatcher, that line is expected. To someone not thinking astronomically, a row of bright objects low in the west after sunset can look artificial. NASA’s Night Sky Network specifically warns that bright planets aligned near the horizon can appear to be a formation of “strange lights”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nightsky.jpl.nasa.gov">[Night Sky Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nightsky.jpl.nasa.gov</span><span class="citation-popover-snippet">News &amp; Resources &#124; Night Sky Network...</span></span></span>
+This happens because planets follow the ecliptic, the apparent path of the Sun, Moon and planets across the sky. To a skywatcher, that line is expected. To someone not thinking astronomically, a row of bright objects low in the west after sunset can look artificial. NASA’s Night Sky Network specifically warns that bright planets aligned near the horizon can appear to be a formation of “strange lights”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nightsky.jpl.nasa.gov">[Night Sky Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nightsky.jpl.nasa.gov</span><span class="citation-popover-snippet">News &amp; Resources &#124; Night Sky Network...</span></span></span>
 
-A current example shows how ordinary this setup can be. The Center for Astrophysics at Harvard and Smithsonian notes that in June 2026 Venus is the brightest and easiest planet to spot, with Jupiter nearby and Mercury lower toward the western horizon, requiring a clear view in twilight. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cfa.harvard.edu/current-night-sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cfa.harvard.edu">[Center for Astrophysics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cfa.harvard.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That is exactly the kind of sky geometry that can produce multiple independent UFO calls: the objects are bright, low, grouped, and visible during the transitional period when the sky is not fully dark.
+A current example shows how ordinary this setup can be. The Center for Astrophysics at Harvard and Smithsonian notes that in June 2026 Venus is the brightest and easiest planet to spot, with Jupiter nearby and Mercury lower toward the western horizon, requiring a clear view in twilight.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cfa.harvard.edu/current-night-sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cfa.harvard.edu">[Center for Astrophysics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cfa.harvard.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That is exactly the kind of sky geometry that can produce multiple independent UFO calls: the objects are bright, low, grouped, and visible during the transitional period when the sky is not fully dark.
 
 Mars adds a different kind of confusion. It is usually less bright than Venus or Jupiter, but when prominent it can appear distinctly reddish or orange. Low through haze, that colour can be exaggerated, making Mars sound in witness language like a “red orb”, “fireball” or “glowing craft”. Unlike a meteor or aircraft, however, Mars will not streak, flare out, or cross the sky quickly.
 
@@ -558,7 +558,7 @@ Mars adds a different kind of confusion. It is usually less bright than Venus or
 
 A planet explanation is strongest when the sighting data match the sky. It is weak when the timing, direction, elevation or behaviour do not match. Serious IFO work therefore does not identify every bright light as Venus by habit; it tests the candidate.
 
-The practical check begins with four questions: where was the observer, what was the exact date and time, which direction were they facing, and how high above the horizon was the object? With those details, a sky chart can show whether Venus, Jupiter, Mars or Mercury was actually in that part of the sky. NASA’s Night Sky Network specifically recommends tools such as Stellarium to plot the sky for the date and time of the report. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nightsky.jpl.nasa.gov">[Night Sky Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nightsky.jpl.nasa.gov</span><span class="citation-popover-snippet">News &amp; Resources &#124; Night Sky Network...</span></span></span> Stellarium describes its software as a realistic 3D sky map showing what is visible to the naked eye, binoculars or a telescope, while Timeanddate’s night-sky pages provide planet visibility, rise and set times, directions and azimuth angles for a chosen location. <span class="citation-chip-wrap"><a class="citation-chip" href="https://stellarium.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stellarium.org">[Stellarium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stellarium.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The practical check begins with four questions: where was the observer, what was the exact date and time, which direction were they facing, and how high above the horizon was the object? With those details, a sky chart can show whether Venus, Jupiter, Mars or Mercury was actually in that part of the sky. NASA’s Night Sky Network specifically recommends tools such as Stellarium to plot the sky for the date and time of the report.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nightsky.jpl.nasa.gov">[Night Sky Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nightsky.jpl.nasa.gov</span><span class="citation-popover-snippet">News &amp; Resources &#124; Night Sky Network...</span></span></span> Stellarium describes its software as a realistic 3D sky map showing what is visible to the naked eye, binoculars or a telescope, while Timeanddate’s night-sky pages provide planet visibility, rise and set times, directions and azimuth angles for a chosen location.<span class="citation-chip-wrap"><a class="citation-chip" href="https://stellarium.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stellarium.org">[Stellarium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stellarium.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 A good planet check also compares behaviour:
 
@@ -590,7 +590,7 @@ Still, the planet category deserves a prominent place in IFO analysis because it
 
 For a quick first pass, a sky map is usually enough. Enter the observing location, date and time, then look toward the reported direction. If Venus, Jupiter, Mars or Mercury appears in the same place, the planet hypothesis is strong enough to test further.
 
-The most useful tools are the ones that let the observer change time and location, not just read a general “tonight’s sky” article. Stellarium is a free planetarium program that shows a realistic sky in 3D, while Stellarium Web provides a browser-based star map. In-The-Sky.org offers an online planetarium and rising-and-setting information, and Timeanddate’s night-sky pages give planet visibility and direction data for a selected place. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.timeanddate.com/astronomy/night/help" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timeanddate.com">[Time and Date]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timeanddate.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://stellarium.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stellarium.org">[Stellarium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stellarium.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://stellarium-web.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stellarium-web.org">[Stellarium Web]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stellarium-web.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The most useful tools are the ones that let the observer change time and location, not just read a general “tonight’s sky” article. Stellarium is a free planetarium program that shows a realistic sky in 3D, while Stellarium Web provides a browser-based star map. In-The-Sky.org offers an online planetarium and rising-and-setting information, and Timeanddate’s night-sky pages give planet visibility and direction data for a selected place.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.timeanddate.com/astronomy/night/help" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timeanddate.com">[Time and Date]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timeanddate.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://stellarium.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stellarium.org">[Stellarium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stellarium.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://stellarium-web.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stellarium-web.org">[Stellarium Web]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stellarium-web.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 A simple field method can also help before any app is opened. Hold a fist at arm’s length: it spans roughly ten degrees of sky. Note whether the object is one fist, two fists or more above the horizon; whether it is in the west, south-west, east or south-east; and whether it stays fixed against nearby stars over several minutes. Those rough notes are often enough to make a later planetarium check meaningful.
 
@@ -603,194 +603,194 @@ Venus and bright planets near the horizon are not a catch-all explanation, but t
 That is why the best response to a suspected Venus UFO is neither ridicule nor automatic acceptance. Record the time, place, direction, elevation, duration and visible motion. Check a planetarium tool. Look again the next night. If the same bright “object” is in the predicted place and moves with the sky, it has probably crossed the boundary from UFO to IFO: not imaginary, not foolish, but identified.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Is That UFO Really Venus?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Is That UFO Really Venus?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Backyard Astronomer&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hdvYKwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Backyard Astronomer&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Backyard Astronomer&#x27;s Guide">The Backyard Astronomer&#x27;s Guide</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson, Alan Dyer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Backyard Astronomer&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hdvYKwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Backyard Astronomer&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Backyard Astronomer&#x27;s Guide">The Backyard Astronomer&#x27;s Guide</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson, Alan Dyer</p>
         
-        <p class="fr-book-desc">Gives broader night-sky context for planet sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Gives broader night-sky context for planet sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Astronomy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eInnwg77gbkC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Astronomy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Astronomy">Bad Astronomy</a>
-        </h4>
-        <p class="fr-book-author">By Philip C. Plait</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Astronomy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eInnwg77gbkC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Astronomy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Astronomy">Bad Astronomy</a>
+</h4>
+<p class="fr-book-author">By Philip C. Plait</p>
         
-        <p class="fr-book-desc">Directly addresses sky misunderstandings and bright-object confusion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses sky misunderstandings and bright-object confusion.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Helps readers identify Venus, planets and bright stars.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers identify Venus, planets and bright stars.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
-        </h4>
-        <p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
+</h4>
+<p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
         
-        <p class="fr-book-desc">Supports practical planet and sky-object identification.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports practical planet and sky-object identification.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Backyard Astronomer&#x27;s books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Astronomy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Astronomy</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Backyard Astronomer&#x27;s books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Astronomy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Astronomy</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-ufo-really-venus-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="is-that-ufo-really-venus-planet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Our Solar System Planets Earth Science Home School Learning Educational Posters"><img src="https://i.ebayimg.com/images/g/2CwAAeSwpQ9oH0dh/s-l225.jpg" alt="Listing image for Our Solar System Planets Earth Science Home School Learning Educational Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-ufo-really-venus-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="is-that-ufo-really-venus-planet-poster" target="_blank" rel="sponsored noopener noreferrer">Our Solar System Planets Earth Science Home School Learning Educational Posters</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-ufo-really-venus-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="is-that-ufo-really-venus-planet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planet poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: planet poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-ufo-really-venus-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="is-that-ufo-really-venus-planet-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-ufo-really-venus-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="is-that-ufo-really-venus-planet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Our Solar System Planets Earth Science Home School Learning Educational Posters"><img src="https://i.ebayimg.com/images/g/2CwAAeSwpQ9oH0dh/s-l225.jpg" alt="Listing image for Our Solar System Planets Earth Science Home School Learning Educational Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-ufo-really-venus-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="is-that-ufo-really-venus-planet-poster" target="_blank" rel="sponsored noopener noreferrer">Our Solar System Planets Earth Science Home School Learning Educational Posters</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-ufo-really-venus-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="is-that-ufo-really-venus-planet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planet poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: planet poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-ufo-really-venus-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="is-that-ufo-really-venus-planet-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-ufo-really-venus-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="is-that-ufo-really-venus-planet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Home Wall Art Print - Vintage Space Poster - SOLAR SYSTEM PLANETS-A4,A3,A2,A1,A0"><img src="https://i.ebayimg.com/images/g/EI4AAOSw6oNjeHDc/s-l225.jpg" alt="Listing image for Home Wall Art Print - Vintage Space Poster - SOLAR SYSTEM PLANETS-A4,A3,A2,A1,A0" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-ufo-really-venus-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="is-that-ufo-really-venus-planet-poster" target="_blank" rel="sponsored noopener noreferrer">Home Wall Art Print - Vintage Space Poster - SOLAR SYSTEM PLANETS-A4,A3,A2,A1,A0</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-ufo-really-venus-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="is-that-ufo-really-venus-planet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planet poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: planet poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-ufo-really-venus-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="is-that-ufo-really-venus-planet-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-ufo-really-venus-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="is-that-ufo-really-venus-planet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Home Wall Art Print - Vintage Space Poster - SOLAR SYSTEM PLANETS-A4,A3,A2,A1,A0"><img src="https://i.ebayimg.com/images/g/EI4AAOSw6oNjeHDc/s-l225.jpg" alt="Listing image for Home Wall Art Print - Vintage Space Poster - SOLAR SYSTEM PLANETS-A4,A3,A2,A1,A0" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-ufo-really-venus-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="is-that-ufo-really-venus-planet-poster" target="_blank" rel="sponsored noopener noreferrer">Home Wall Art Print - Vintage Space Poster - SOLAR SYSTEM PLANETS-A4,A3,A2,A1,A0</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-ufo-really-venus-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="is-that-ufo-really-venus-planet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planet poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: planet poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-ufo-really-venus-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="is-that-ufo-really-venus-planet-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-ufo-really-venus-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="is-that-ufo-really-venus-planet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Forbidden Planet Minimal Movie Art Print |Film Poster | Canvas &amp; Framed 05"><img src="https://i.ebayimg.com/images/g/i2MAAeSwwetpw9UY/s-l225.jpg" alt="Listing image for Forbidden Planet Minimal Movie Art Print |Film Poster | Canvas &amp; Framed 05" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-ufo-really-venus-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="is-that-ufo-really-venus-planet-poster" target="_blank" rel="sponsored noopener noreferrer">Forbidden Planet Minimal Movie Art Print |Film Poster | Canvas &amp; Framed 05</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-ufo-really-venus-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="is-that-ufo-really-venus-planet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planet poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: planet poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-ufo-really-venus-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="is-that-ufo-really-venus-planet-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-ufo-really-venus-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="is-that-ufo-really-venus-planet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Forbidden Planet Minimal Movie Art Print |Film Poster | Canvas &amp; Framed 05"><img src="https://i.ebayimg.com/images/g/i2MAAeSwwetpw9UY/s-l225.jpg" alt="Listing image for Forbidden Planet Minimal Movie Art Print |Film Poster | Canvas &amp; Framed 05" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-ufo-really-venus-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="is-that-ufo-really-venus-planet-poster" target="_blank" rel="sponsored noopener noreferrer">Forbidden Planet Minimal Movie Art Print |Film Poster | Canvas &amp; Framed 05</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-ufo-really-venus-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="is-that-ufo-really-venus-planet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planet poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: planet poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-ufo-really-venus-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="is-that-ufo-really-venus-planet-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-ufo-really-venus-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="is-that-ufo-really-venus-planet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PLANETS SPACE POSTER ART PRINT GALAXY ORBIT STARS SOLAR SYSTEM A3 A4 SIZE"><img src="https://i.ebayimg.com/images/g/lasAAOSwrVZkvcoz/s-l225.jpg" alt="Listing image for PLANETS SPACE POSTER ART PRINT GALAXY ORBIT STARS SOLAR SYSTEM A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-ufo-really-venus-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="is-that-ufo-really-venus-planet-poster" target="_blank" rel="sponsored noopener noreferrer">PLANETS SPACE POSTER ART PRINT GALAXY ORBIT STARS SOLAR SYSTEM A3 A4 SIZE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-ufo-really-venus-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="is-that-ufo-really-venus-planet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planet poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: planet poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-ufo-really-venus-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="is-that-ufo-really-venus-planet-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-ufo-really-venus-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="is-that-ufo-really-venus-planet-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-ufo-really-venus-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="is-that-ufo-really-venus-planet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PLANETS SPACE POSTER ART PRINT GALAXY ORBIT STARS SOLAR SYSTEM A3 A4 SIZE"><img src="https://i.ebayimg.com/images/g/lasAAOSwrVZkvcoz/s-l225.jpg" alt="Listing image for PLANETS SPACE POSTER ART PRINT GALAXY ORBIT STARS SOLAR SYSTEM A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-ufo-really-venus-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="is-that-ufo-really-venus-planet-poster" target="_blank" rel="sponsored noopener noreferrer">PLANETS SPACE POSTER ART PRINT GALAXY ORBIT STARS SOLAR SYSTEM A3 A4 SIZE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-ufo-really-venus-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="is-that-ufo-really-venus-planet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planet poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: planet poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-ufo-really-venus-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="is-that-ufo-really-venus-planet-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-ufo-really-venus-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="is-that-ufo-really-venus-planet-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -806,7 +806,7 @@ That is why the best response to a suspected Venus UFO is neither ridicule nor a
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -826,7 +826,7 @@ That is why the best response to a suspected Venus UFO is neither ridicule nor a
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -858,7 +858,7 @@ That is why the best response to a suspected Venus UFO is neither ridicule nor a
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -910,7 +910,7 @@ That is why the best response to a suspected Venus UFO is neither ridicule nor a
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -955,7 +955,7 @@ That is why the best response to a suspected Venus UFO is neither ridicule nor a
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -996,155 +996,155 @@ That is why the best response to a suspected Venus UFO is neither ridicule nor a
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nightsky.jpl.nasa.gov  
    Title: Night Sky Network  
-   Link: <a href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow">https://nightsky.jpl.nasa.gov/news/39/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>News &amp; Resources | Night Sky Network...</p></details>
+   Link:<a href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow">https://nightsky.jpl.nasa.gov/news/39/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>News &amp; Resources | Night Sky Network...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: science.nasa.gov  
    Title: Science Venus: Facts  
-   Link: <a href="https://science.nasa.gov/venus/venus-facts/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/venus/venus-facts/</a>  
+   Link:<a href="https://science.nasa.gov/venus/venus-facts/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/venus/venus-facts/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: jpl.nasa.gov  
    Title: Jet Propulsion Laboratory (JPL)What's Up  
-   Link: <a href="https://www.jpl.nasa.gov/videos/whats-up-february-2022/" target="_blank" rel="noopener noreferrer nofollow">https://www.jpl.nasa.gov/videos/whats-up-february-2022/</a>  
+   Link:<a href="https://www.jpl.nasa.gov/videos/whats-up-february-2022/" target="_blank" rel="noopener noreferrer nofollow">https://www.jpl.nasa.gov/videos/whats-up-february-2022/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/science/Why-Do-Stars-Twinkle" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/science/Why-Do-Stars-Twinkle</a>  
+   Link:<a href="https://www.britannica.com/science/Why-Do-Stars-Twinkle" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/science/Why-Do-Stars-Twinkle</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cfa.harvard.edu  
-   Link: <a href="https://www.cfa.harvard.edu/current-night-sky" target="_blank" rel="noopener noreferrer nofollow">https://www.cfa.harvard.edu/current-night-sky</a>  
+   Link:<a href="https://www.cfa.harvard.edu/current-night-sky" target="_blank" rel="noopener noreferrer nofollow">https://www.cfa.harvard.edu/current-night-sky</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: stellarium.org  
-   Link: <a href="https://stellarium.org/" target="_blank" rel="noopener noreferrer nofollow">https://stellarium.org/</a>  
+   Link:<a href="https://stellarium.org/" target="_blank" rel="noopener noreferrer nofollow">https://stellarium.org/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: timeanddate.com  
-   Link: <a href="https://www.timeanddate.com/astronomy/night/help" target="_blank" rel="noopener noreferrer nofollow">https://www.timeanddate.com/astronomy/night/help</a>  
+   Link:<a href="https://www.timeanddate.com/astronomy/night/help" target="_blank" rel="noopener noreferrer nofollow">https://www.timeanddate.com/astronomy/night/help</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: stellarium-web.org  
-   Link: <a href="https://stellarium-web.org/" target="_blank" rel="noopener noreferrer nofollow">https://stellarium-web.org/</a>  
+   Link:<a href="https://stellarium-web.org/" target="_blank" rel="noopener noreferrer nofollow">https://stellarium-web.org/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: in-the-sky.org  
-   Link: <a href="https://in-the-sky.org/skymap.php" target="_blank" rel="noopener noreferrer nofollow">https://in-the-sky.org/skymap.php</a>  
+   Link:<a href="https://in-the-sky.org/skymap.php" target="_blank" rel="noopener noreferrer nofollow">https://in-the-sky.org/skymap.php</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: timeanddate.com  
-   Link: <a href="https://www.timeanddate.com/astronomy/night/" target="_blank" rel="noopener noreferrer nofollow">https://www.timeanddate.com/astronomy/night/</a>  
+   Link:<a href="https://www.timeanddate.com/astronomy/night/" target="_blank" rel="noopener noreferrer nofollow">https://www.timeanddate.com/astronomy/night/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: timeanddate.com  
    Title: Night Sky Tonight: Visible Planets in Berlin  
-   Link: <a href="https://www.timeanddate.com/astronomy/night/germany/berlin" target="_blank" rel="noopener noreferrer nofollow">https://www.timeanddate.com/astronomy/night/germany/berlin</a>  
+   Link:<a href="https://www.timeanddate.com/astronomy/night/germany/berlin" target="_blank" rel="noopener noreferrer nofollow">https://www.timeanddate.com/astronomy/night/germany/berlin</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: timeanddate.com  
-   Link: <a href="https://www.timeanddate.com/astronomy/night/germany/itzehoe" target="_blank" rel="noopener noreferrer nofollow">https://www.timeanddate.com/astronomy/night/germany/itzehoe</a>  
+   Link:<a href="https://www.timeanddate.com/astronomy/night/germany/itzehoe" target="_blank" rel="noopener noreferrer nofollow">https://www.timeanddate.com/astronomy/night/germany/itzehoe</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nightsky.jpl.nasa.gov  
-   Link: <a href="https://nightsky.jpl.nasa.gov/planner/" target="_blank" rel="noopener noreferrer nofollow">https://nightsky.jpl.nasa.gov/planner/</a>  
+   Link:<a href="https://nightsky.jpl.nasa.gov/planner/" target="_blank" rel="noopener noreferrer nofollow">https://nightsky.jpl.nasa.gov/planner/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: jpl.nasa.gov  
    Title: find planets in the sky  
-   Link: <a href="https://www.jpl.nasa.gov/edu/resources/project/find-planets-in-the-sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.jpl.nasa.gov/edu/resources/project/find-planets-in-the-sky/</a>  
+   Link:<a href="https://www.jpl.nasa.gov/edu/resources/project/find-planets-in-the-sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.jpl.nasa.gov/edu/resources/project/find-planets-in-the-sky/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: in-the-sky.org  
-   Link: <a href="https://in-the-sky.org/" target="_blank" rel="noopener noreferrer nofollow">https://in-the-sky.org/</a>  
+   Link:<a href="https://in-the-sky.org/" target="_blank" rel="noopener noreferrer nofollow">https://in-the-sky.org/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: in-the-sky.org  
-   Link: <a href="https://in-the-sky.org/skymap2.php" target="_blank" rel="noopener noreferrer nofollow">https://in-the-sky.org/skymap2.php</a>  
+   Link:<a href="https://in-the-sky.org/skymap2.php" target="_blank" rel="noopener noreferrer nofollow">https://in-the-sky.org/skymap2.php</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: in-the-sky.org  
-   Link: <a href="https://in-the-sky.org/location.php" target="_blank" rel="noopener noreferrer nofollow">https://in-the-sky.org/location.php</a>  
+   Link:<a href="https://in-the-sky.org/location.php" target="_blank" rel="noopener noreferrer nofollow">https://in-the-sky.org/location.php</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: in-the-sky.org  
-   Link: <a href="https://in-the-sky.org/whatsup_times.php" target="_blank" rel="noopener noreferrer nofollow">https://in-the-sky.org/whatsup_times.php</a>  
+   Link:<a href="https://in-the-sky.org/whatsup_times.php" target="_blank" rel="noopener noreferrer nofollow">https://in-the-sky.org/whatsup_times.php</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
+   Link:<a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/story/unidentified-flying-objects-what-we-know" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/story/unidentified-flying-objects-what-we-know</a>  
+   Link:<a href="https://www.britannica.com/story/unidentified-flying-objects-what-we-know" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/story/unidentified-flying-objects-what-we-know</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: adsabs.harvard.edu  
-   Link: <a href="https://adsabs.harvard.edu/full/1975JRASC..69..175M" target="_blank" rel="noopener noreferrer nofollow">https://adsabs.harvard.edu/full/1975JRASC..69..175M</a>  
+   Link:<a href="https://adsabs.harvard.edu/full/1975JRASC..69..175M" target="_blank" rel="noopener noreferrer nofollow">https://adsabs.harvard.edu/full/1975JRASC..69..175M</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Twinkling" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Twinkling</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Twinkling" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Twinkling</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: play.google.com  
-   Link: <a href="https://play.google.com/store/apps/details?hl=en&amp;id=com.noctuasoftware.stellarium_free" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en&amp;id=com.noctuasoftware.stellarium_free</a>  
+   Link:<a href="https://play.google.com/store/apps/details?hl=en&amp;id=com.noctuasoftware.stellarium_free" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en&amp;id=com.noctuasoftware.stellarium_free</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: home.ifa.hawaii.edu  
-   Link: <a href="https://home.ifa.hawaii.edu/users/meech/a281/oldlectures/UFO.pdf" target="_blank" rel="noopener noreferrer nofollow">https://home.ifa.hawaii.edu/users/meech/a281/oldlectures/UFO.pdf</a>  
+   Link:<a href="https://home.ifa.hawaii.edu/users/meech/a281/oldlectures/UFO.pdf" target="_blank" rel="noopener noreferrer nofollow">https://home.ifa.hawaii.edu/users/meech/a281/oldlectures/UFO.pdf</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: stellarium-labs.com  
-   Link: <a href="https://stellarium-labs.com/stellarium-mobile-plus/" target="_blank" rel="noopener noreferrer nofollow">https://stellarium-labs.com/stellarium-mobile-plus/</a>  
+   Link:<a href="https://stellarium-labs.com/stellarium-mobile-plus/" target="_blank" rel="noopener noreferrer nofollow">https://stellarium-labs.com/stellarium-mobile-plus/</a>  
 
 ### Additional References
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
    Title: Identifying Bright Planets and Stars Near the Horizon  
-   Link: <a href="https://www.youtube.com/watch?v=uT35Yw-6k9Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uT35Yw-6k9Y</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Use Planetarium Apps to Identify Night Sky Objects...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=uT35Yw-6k9Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uT35Yw-6k9Y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Use Planetarium Apps to Identify Night Sky Objects...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: How to Use Planetarium Apps to Identify Night Sky Objects  
-   Link: <a href="https://www.youtube.com/watch?v=q6e02D4Fv80" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=q6e02D4Fv80</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Venus and Jupiter Conjunctions and UFO Reports...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=q6e02D4Fv80" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=q6e02D4Fv80</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Venus and Jupiter Conjunctions and UFO Reports...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: primitiveproton.com  
-   Link: <a href="https://primitiveproton.com/atmospheric-scintillation-why-stars-twinkle-and-planets-dont/" target="_blank" rel="noopener noreferrer nofollow">https://primitiveproton.com/atmospheric-scintillation-why-stars-twinkle-and-planets-dont/</a>  
+   Link:<a href="https://primitiveproton.com/atmospheric-scintillation-why-stars-twinkle-and-planets-dont/" target="_blank" rel="noopener noreferrer nofollow">https://primitiveproton.com/atmospheric-scintillation-why-stars-twinkle-and-planets-dont/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: cufos.org  
-   Link: <a href="https://cufos.org/resources/classic-ufo-cases/" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/resources/classic-ufo-cases/</a>  
+   Link:<a href="https://cufos.org/resources/classic-ufo-cases/" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/resources/classic-ufo-cases/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/</a>  
+   Link:<a href="https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/wxzachary/posts/go-outside-and-look-to-the-bottom-right-of-the-moon-thats-venus-show-the-kiddos-/1163303332034974/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wxzachary/posts/go-outside-and-look-to-the-bottom-right-of-the-moon-thats-venus-show-the-kiddos-/1163303332034974/</a>  
+   Link:<a href="https://www.facebook.com/wxzachary/posts/go-outside-and-look-to-the-bottom-right-of-the-moon-thats-venus-show-the-kiddos-/1163303332034974/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wxzachary/posts/go-outside-and-look-to-the-bottom-right-of-the-moon-thats-venus-show-the-kiddos-/1163303332034974/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1764709940280136/posts/9393778887373165/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1764709940280136/posts/9393778887373165/</a>  
+   Link:<a href="https://www.facebook.com/groups/1764709940280136/posts/9393778887373165/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1764709940280136/posts/9393778887373165/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/1hctekx/i_recorded_a_flickering_light_in_the_sky_using_my/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1hctekx/i_recorded_a_flickering_light_in_the_sky_using_my/</a>  
+   Link:<a href="https://www.reddit.com/r/aliens/comments/1hctekx/i_recorded_a_flickering_light_in_the_sky_using_my/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1hctekx/i_recorded_a_flickering_light_in_the_sky_using_my/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: prl.res.in  
-   Link: <a href="https://www.prl.res.in/~rajiv/planexnews/oldarticles/Volume%20-1%2C%20Issue-4.11-15.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.prl.res.in/~rajiv/planexnews/oldarticles/Volume%20-1%2C%20Issue-4.11-15.pdf</a>  
+   Link:<a href="https://www.prl.res.in/~rajiv/planexnews/oldarticles/Volume%20-1%2C%20Issue-4.11-15.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.prl.res.in/~rajiv/planexnews/oldarticles/Volume%20-1%2C%20Issue-4.11-15.pdf</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: theskylive.com  
-   Link: <a href="https://theskylive.com/planets-visible-tonight" target="_blank" rel="noopener noreferrer nofollow">https://theskylive.com/planets-visible-tonight</a>
+   Link:<a href="https://theskylive.com/planets-visible-tonight" target="_blank" rel="noopener noreferrer nofollow">https://theskylive.com/planets-visible-tonight</a>

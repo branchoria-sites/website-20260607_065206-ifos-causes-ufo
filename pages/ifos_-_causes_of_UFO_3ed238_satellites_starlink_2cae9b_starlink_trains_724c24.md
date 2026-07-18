@@ -274,16 +274,16 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b_sta
 
 ## Introduction
 
-One reason [Starlink]({{ 'starlink/' | relative_url }}) satellite sightings generate so many UFO reports is that they look unusually organised. Shortly after launch, dozens of [satellites]({{ 'satellites/' | relative_url }}) can appear as a perfectly ordered line of bright points moving together across the sky. To an observer unfamiliar with satellite deployments, the formation can resemble a coordinated fleet rather than separate spacecraft. The effect is real, but it is a temporary stage in how the satellites are deployed and moved into their operational positions. Once the satellites spread out and reach their working orbits, the striking “train” largely disappears. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">These satellites initially travel in a tight, bright line resembling a &quot;train,&quot; captivating skywatchers and often being mistaken for UFOs...</span></span></span>
+One reason [Starlink]({{ 'starlink/' | relative_url }}) satellite sightings generate so many UFO reports is that they look unusually organised. Shortly after launch, dozens of [satellites]({{ 'satellites/' | relative_url }}) can appear as a perfectly ordered line of bright points moving together across the sky. To an observer unfamiliar with satellite deployments, the formation can resemble a coordinated fleet rather than separate spacecraft. The effect is real, but it is a temporary stage in how the satellites are deployed and moved into their operational positions. Once the satellites spread out and reach their working orbits, the striking “train” largely disappears.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">These satellites initially travel in a tight, bright line resembling a &quot;train,&quot; captivating skywatchers and often being mistaken for UFOs...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b_starlink_trains_724c24-Illustration-1-dark.svg" | relative_url }}" alt="Starlink trains illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b_starlink_trains_724c24-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b_starlink_trains_724c24-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What creates the train effect after launch?
 
 A Starlink train is not a deliberate sky display. It is a consequence of how SpaceX deploys satellites from a single launch vehicle.
 
-When a Falcon 9 rocket releases a batch of Starlink satellites, they begin their journey in very similar orbits and at relatively small distances from one another. Because they have just separated from the same rocket stage, they initially travel along nearly the same path around Earth. To an observer on the ground, this appears as a row of lights following one another in a straight line. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/spacex-starlink-satellites.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">aunch and deployment then become progressively harder to spot as they climb to...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/Starlink/comments/od4x3a/what_purpose_do_the_starlink_trains_serve/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">is the purpose of the actual long 50+ satellite trains...</span></span></span>
+When a Falcon 9 rocket releases a batch of Starlink satellites, they begin their journey in very similar orbits and at relatively small distances from one another. Because they have just separated from the same rocket stage, they initially travel along nearly the same path around Earth. To an observer on the ground, this appears as a row of lights following one another in a straight line.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/spacex-starlink-satellites.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">aunch and deployment then become progressively harder to spot as they climb to...Read more...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/Starlink/comments/od4x3a/what_purpose_do_the_starlink_trains_serve/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">is the purpose of the actual long 50+ satellite trains...</span></span></span>
 
-The satellites are also often brighter during this early period. They are lower than their final operating altitude and their orientation can make sunlight [reflections]({{ 'reflections/' | relative_url }}) more noticeable. The result is a chain of visible points that can stretch across a significant portion of the sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Correlations of Starlink Satellite Flaring with UAP</span><span class="citation-popover-snippet">During this phase, the satellites navigate from their initial low orbit to their final orbital...</span></span></span> Reddit This phase is relatively short-lived. As the satellites begin orbital-raising manoeuvres using their onboard propulsion systems <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/Starlink/comments/od4x3a/what_purpose_do_the_starlink_trains_serve/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">is the purpose of the actual long 50+ satellite trains...</span></span></span>, they gradually move apart and become less conspicuous. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Correlations of Starlink Satellite Flaring with UAP</span><span class="citation-popover-snippet">During this phase, the satellites navigate from their initial low orbit to their final orbital...</span></span></span>
+The satellites are also often brighter during this early period. They are lower than their final operating altitude and their orientation can make sunlight [reflections]({{ 'reflections/' | relative_url }}) more noticeable. The result is a chain of visible points that can stretch across a significant portion of the sky.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Correlations of Starlink Satellite Flaring with UAP</span><span class="citation-popover-snippet">During this phase, the satellites navigate from their initial low orbit to their final orbital...</span></span></span> Reddit This phase is relatively short-lived. As the satellites begin orbital-raising manoeuvres using their onboard propulsion systems<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/Starlink/comments/od4x3a/what_purpose_do_the_starlink_trains_serve/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">is the purpose of the actual long 50+ satellite trains...</span></span></span>, they gradually move apart and become less conspicuous.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Correlations of Starlink Satellite Flaring with UAP</span><span class="citation-popover-snippet">During this phase, the satellites navigate from their initial low orbit to their final orbital...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VIQr1UyhwWk" title="How Do Starlink Satellites Navigate To Their Final Operational Orbits" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VIQr1UyhwWk" target="_blank" rel="noopener noreferrer">How Do Starlink Satellites Navigate To Their Final Operational Orbits</a></p><p class="youtube-embed-meta">Channel: Scott Manley &middot; Views: 472.8K &middot; Uploaded: August 2021 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VIQr1UyhwWk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VIQr1UyhwWk">Open on YouTube</a></p></div></div></div>
 
@@ -293,10 +293,10 @@ The human brain is highly sensitive to patterns. A row of evenly spaced lights m
 
 Several factors contribute to the impression of organisation:
 
-* **Uniform spacing:** Newly deployed satellites often appear separated by similar distances, creating the visual impression of a planned formation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://starwalk.space/en/news/spacex-starlink-satellites-night-sky-visibility-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: starwalk.space">[Star Walk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">starwalk.space</span><span class="citation-popover-snippet">Star WalkStarlink Tracker: Find Starlink Satellites Tonight3 days ago — Starlink satellites appear as evenly spaced moving lights for onl...</span></span></span>
-* **Shared motion:** Every satellite follows the same orbital track, so the entire line moves at the same apparent speed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://space.stackexchange.com/questions/44467/how-do-starlink-trains-spread-into-separate-orbits-with-equidistant-orbital-slot" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.stackexchange.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.stackexchange.com</span><span class="citation-popover-snippet">Space Exploration Stack ExchangeHow do Starlink trains spread into separate orbits with...May 31, 2020 — They are released from the laun...</span><span class="citation-popover-meta">Published: May 31, 2020</span></span></span>
-* **Lack of aircraft cues:** There are no flashing navigation lights, [contrails]({{ 'contrails/' | relative_url }}), engine sounds or visible wings to identify them as conventional aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://space.stackexchange.com/questions/40055/why-is-one-starlink-satellite-not-following-the-adjacent-one-in-this-image" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.stackexchange.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.stackexchange.com</span><span class="citation-popover-title">why is one starlink satellite not following the adjacent one in this image</span><span class="citation-popover-snippet">is one Starlink satellite not following the adjacent...22 Nov 2019 — The following image shows trails of SpaceX’s Starlink satellites as...</span></span></span>
-* **Large numbers:** Seeing twenty, thirty or more lights in a single line is outside most people's everyday experience of the night sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.forbes.com/sites/jonathanocallaghan/2020/04/21/what-are-those-strange-moving-lights-in-the-night-sky-elon-musks-starlink-satellites-explained/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forbes.com">[Forbes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forbes.com</span><span class="citation-popover-snippet">What Are Those Strange Moving Lights In The Night Sky?...21 Apr 2020 — These lights are actually satellites, launched into space b...</span></span></span>
+* **Uniform spacing:** Newly deployed satellites often appear separated by similar distances, creating the visual impression of a planned formation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://starwalk.space/en/news/spacex-starlink-satellites-night-sky-visibility-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: starwalk.space">[Star Walk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">starwalk.space</span><span class="citation-popover-snippet">Star WalkStarlink Tracker: Find Starlink Satellites Tonight3 days ago — Starlink satellites appear as evenly spaced moving lights for onl...</span></span></span>
+* **Shared motion:** Every satellite follows the same orbital track, so the entire line moves at the same apparent speed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://space.stackexchange.com/questions/44467/how-do-starlink-trains-spread-into-separate-orbits-with-equidistant-orbital-slot" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.stackexchange.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.stackexchange.com</span><span class="citation-popover-snippet">Space Exploration Stack ExchangeHow do Starlink trains spread into separate orbits with...May 31, 2020 — They are released from the laun...</span><span class="citation-popover-meta">Published: May 31, 2020</span></span></span>
+* **Lack of aircraft cues:** There are no flashing navigation lights, [contrails]({{ 'contrails/' | relative_url }}), engine sounds or visible wings to identify them as conventional aircraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://space.stackexchange.com/questions/40055/why-is-one-starlink-satellite-not-following-the-adjacent-one-in-this-image" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.stackexchange.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.stackexchange.com</span><span class="citation-popover-title">why is one starlink satellite not following the adjacent one in this image</span><span class="citation-popover-snippet">is one Starlink satellite not following the adjacent...22 Nov 2019 — The following image shows trails of SpaceX’s Starlink satellites as...</span></span></span>
+* **Large numbers:** Seeing twenty, thirty or more lights in a single line is outside most people's everyday experience of the night sky.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.forbes.com/sites/jonathanocallaghan/2020/04/21/what-are-those-strange-moving-lights-in-the-night-sky-elon-musks-starlink-satellites-explained/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forbes.com">[Forbes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forbes.com</span><span class="citation-popover-snippet">What Are Those Strange Moving Lights In The Night Sky?...21 Apr 2020 — These lights are actually satellites, launched into space b...</span></span></span>
 
 These characteristics can make the formation seem more coordinated than it actually is. Witnesses often interpret the line as evidence of controlled formation flying, whereas the satellites are simply sharing a similar orbit after deployment.
 
@@ -307,206 +307,206 @@ Another psychological factor is scale. Because there are few distance references
 
 The organised appearance is temporary because the satellites are not meant to remain in a train.
 
-After deployment, Starlink spacecraft enter an orbital-raising phase. During this period they use onboard propulsion to climb from their initial insertion orbit toward their operational altitude, which is typically around 550 kilometres for current-generation satellites. As they do so, engineers intentionally allow the satellites to drift relative to one another so they can occupy different positions around their orbital plane. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Correlations of Starlink Satellite Flaring with UAP</span><span class="citation-popover-snippet">During this phase, the satellites navigate from their initial low orbit to their final orbital...</span></span></span> Reddit The process gradually breaks up the neat line. What began as a compact chain becomes a much longer <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/Starlink/comments/od4x3a/what_purpose_do_the_starlink_trains_serve/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">is the purpose of the actual long 50+ satellite trains...</span></span></span>, looser arrangement. Eventually the satellites are distributed around their designated orbital shell and no longer appear as a train when viewed from the ground. <span class="citation-chip-wrap"><a class="citation-chip" href="https://starwalk.space/en/news/spacex-starlink-satellites-night-sky-visibility-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: starwalk.space">[Star Walk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">starwalk.space</span><span class="citation-popover-snippet">Star WalkStarlink Tracker: Find Starlink Satellites Tonight3 days ago — Starlink satellites appear as evenly spaced moving lights for onl...</span></span></span> Reddit Observers who see Starlink only during the first few days after launch often assume the satellites always travel in that formation. In realit <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/Starlink/comments/od4x3a/what_purpose_do_the_starlink_trains_serve/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">is the purpose of the actual long 50+ satellite trains...</span></span></span> y, the train is a transitional stage between launch and full deployment. Reports from satellite trackers note that the most striking train appearances are usually associated with newly launched groups, while older satellites are seen individually or not noticed at all. <span class="citation-chip-wrap"><a class="citation-chip" href="https://starwalk.space/en/news/spacex-starlink-satellites-night-sky-visibility-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: starwalk.space">[Star Walk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">starwalk.space</span><span class="citation-popover-snippet">Star WalkStarlink Tracker: Find Starlink Satellites Tonight3 days ago — Starlink satellites appear as evenly spaced moving lights for onl...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://space.stackexchange.com/questions/64136/how-are-starlink-satellites-deployed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.stackexchange.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.stackexchange.com</span><span class="citation-popover-title">how are starlink satellites deployed</span><span class="citation-popover-snippet">are starlink satellites deployed?Aug 10, 2023 — When the stack is released, the satellites are spaced out precluding or minimizing any po...</span></span></span>
+After deployment, Starlink spacecraft enter an orbital-raising phase. During this period they use onboard propulsion to climb from their initial insertion orbit toward their operational altitude, which is typically around 550 kilometres for current-generation satellites. As they do so, engineers intentionally allow the satellites to drift relative to one another so they can occupy different positions around their orbital plane.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Correlations of Starlink Satellite Flaring with UAP</span><span class="citation-popover-snippet">During this phase, the satellites navigate from their initial low orbit to their final orbital...</span></span></span> Reddit The process gradually breaks up the neat line. What began as a compact chain becomes a much longer<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/Starlink/comments/od4x3a/what_purpose_do_the_starlink_trains_serve/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">is the purpose of the actual long 50+ satellite trains...</span></span></span>, looser arrangement. Eventually the satellites are distributed around their designated orbital shell and no longer appear as a train when viewed from the ground.<span class="citation-chip-wrap"><a class="citation-chip" href="https://starwalk.space/en/news/spacex-starlink-satellites-night-sky-visibility-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: starwalk.space">[Star Walk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">starwalk.space</span><span class="citation-popover-snippet">Star WalkStarlink Tracker: Find Starlink Satellites Tonight3 days ago — Starlink satellites appear as evenly spaced moving lights for onl...</span></span></span> Reddit Observers who see Starlink only during the first few days after launch often assume the satellites always travel in that formation. In realit<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/Starlink/comments/od4x3a/what_purpose_do_the_starlink_trains_serve/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">is the purpose of the actual long 50+ satellite trains...</span></span></span> y, the train is a transitional stage between launch and full deployment. Reports from satellite trackers note that the most striking train appearances are usually associated with newly launched groups, while older satellites are seen individually or not noticed at all.<span class="citation-chip-wrap"><a class="citation-chip" href="https://starwalk.space/en/news/spacex-starlink-satellites-night-sky-visibility-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: starwalk.space">[Star Walk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">starwalk.space</span><span class="citation-popover-snippet">Star WalkStarlink Tracker: Find Starlink Satellites Tonight3 days ago — Starlink satellites appear as evenly spaced moving lights for onl...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://space.stackexchange.com/questions/64136/how-are-starlink-satellites-deployed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.stackexchange.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.stackexchange.com</span><span class="citation-popover-title">how are starlink satellites deployed</span><span class="citation-popover-snippet">are starlink satellites deployed?Aug 10, 2023 — When the stack is released, the satellites are spaced out precluding or minimizing any po...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b_starlink_trains_724c24-Illustration-3-dark.svg" | relative_url }}" alt="Starlink trains illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b_starlink_trains_724c24-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b_starlink_trains_724c24-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Starlink trains became a major source of UFO reports
 
-Before large satellite constellations existed, it was rare for casual skywatchers to encounter dozens of bright spacecraft travelling together. Starlink changed that experience. A newly launched batch can produce exactly the kind of sighting that attracts attention: unusual, silent, orderly and unfamiliar. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">These satellites initially travel in a tight, bright line resembling a &quot;train,&quot; captivating skywatchers and often being mistaken for UFOs...</span></span></span>
+Before large satellite constellations existed, it was rare for casual skywatchers to encounter dozens of bright spacecraft travelling together. Starlink changed that experience. A newly launched batch can produce exactly the kind of sighting that attracts attention: unusual, silent, orderly and unfamiliar.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">These satellites initially travel in a tight, bright line resembling a &quot;train,&quot; captivating skywatchers and often being mistaken for UFOs...</span></span></span>
 
-In the context of UFO reports, the key point is that the organisation itself is not mysterious. The apparent precision comes from a recent launch, common orbital mechanics and a temporary deployment phase. What looks like a coordinated formation is often a newly released group of satellites that has not yet spread out into its final positions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Correlations of Starlink Satellite Flaring with UAP</span><span class="citation-popover-snippet">During this phase, the satellites navigate from their initial low orbit to their final orbital...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/SpaceXLounge/comments/erkk9j/astronomer_complains_about_starlink_satellites/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">ional altitude. That&#x27;s what astronomers are having issues with.Read more...</span></span></span>
+In the context of UFO reports, the key point is that the organisation itself is not mysterious. The apparent precision comes from a recent launch, common orbital mechanics and a temporary deployment phase. What looks like a coordinated formation is often a newly released group of satellites that has not yet spread out into its final positions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Correlations of Starlink Satellite Flaring with UAP</span><span class="citation-popover-snippet">During this phase, the satellites navigate from their initial low orbit to their final orbital...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/SpaceXLounge/comments/erkk9j/astronomer_complains_about_starlink_satellites/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">ional altitude. That&#x27;s what astronomers are having issues with.Read more...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/g42iMvgTB6U" title="Top 5 Unexplained SKY LIGHTS That Really Looks Unreal ‼️" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=g42iMvgTB6U" target="_blank" rel="noopener noreferrer">Top 5 Unexplained SKY LIGHTS That Really Looks Unreal ‼️</a></p><p class="youtube-embed-meta">Channel: BosTALJIA &middot; Views: 14.9M &middot; Uploaded: July 2025 &middot; Length: 58 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=g42iMvgTB6U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=g42iMvgTB6U">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why do Starlink trains look planned?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why do Starlink trains look planned?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Backyard Astronomer&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hdvYKwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Backyard Astronomer&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Backyard Astronomer&#x27;s Guide">The Backyard Astronomer&#x27;s Guide</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson, Alan Dyer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Backyard Astronomer&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hdvYKwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Backyard Astronomer&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Backyard Astronomer&#x27;s Guide">The Backyard Astronomer&#x27;s Guide</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson, Alan Dyer</p>
         
-        <p class="fr-book-desc">Best general guide for understanding visible satellite trains.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Best general guide for understanding visible satellite trains.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Teaches skywatching context useful for recognizing artificial satellites.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches skywatching context useful for recognizing artificial satellites.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Satellite+Basics+for+Everyone+by+C.+Robert+Welti&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Satellite Basics for Everyone on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8boMthqMAUMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Satellite Basics for Everyone" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Satellite+Basics+for+Everyone+by+C.+Robert+Welti&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Satellite Basics for Everyone">Satellite Basics for Everyone</a>
-        </h4>
-        <p class="fr-book-author">By C. Robert Welti</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Satellite+Basics+for+Everyone+by+C.+Robert+Welti&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Satellite Basics for Everyone on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8boMthqMAUMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Satellite Basics for Everyone" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Satellite+Basics+for+Everyone+by+C.+Robert+Welti&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Satellite Basics for Everyone">Satellite Basics for Everyone</a>
+</h4>
+<p class="fr-book-author">By C. Robert Welti</p>
         
-        <p class="fr-book-desc">Explains why satellites move together and then spread out.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Satellite+Basics+for+Everyone+by+C.+Robert+Welti&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why satellites move together and then spread out.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Satellite+Basics+for+Everyone+by+C.+Robert+Welti&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
-        </h4>
-        <p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
+</h4>
+<p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
         
-        <p class="fr-book-desc">Improves general ability to interpret unfamiliar night-sky sights.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Improves general ability to interpret unfamiliar night-sky sights.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Backyard Astronomer&#x27;s books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Satellite+Basics+for+Everyone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Satellite Basics for Everyone</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Backyard Astronomer&#x27;s books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Satellite+Basics+for+Everyone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Satellite Basics for Everyone</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-starlink-trains-look-planned-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="why-do-starlink-trains-look-planned-starlink-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Starlink V1.0 L19 Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/dQAAAeSwd9Zp1TiD/s-l225.jpg" alt="Listing image for Starlink V1.0 L19 Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-starlink-trains-look-planned-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="why-do-starlink-trains-look-planned-starlink-poster" target="_blank" rel="sponsored noopener noreferrer">Starlink V1.0 L19 Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-starlink-trains-look-planned-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="why-do-starlink-trains-look-planned-starlink-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Starlink poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Starlink poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-starlink-trains-look-planned-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="why-do-starlink-trains-look-planned-starlink-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-starlink-trains-look-planned-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="why-do-starlink-trains-look-planned-starlink-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Starlink V1.0 L19 Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/dQAAAeSwd9Zp1TiD/s-l225.jpg" alt="Listing image for Starlink V1.0 L19 Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-starlink-trains-look-planned-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="why-do-starlink-trains-look-planned-starlink-poster" target="_blank" rel="sponsored noopener noreferrer">Starlink V1.0 L19 Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-starlink-trains-look-planned-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="why-do-starlink-trains-look-planned-starlink-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Starlink poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Starlink poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-starlink-trains-look-planned-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="why-do-starlink-trains-look-planned-starlink-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-starlink-trains-look-planned-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="why-do-starlink-trains-look-planned-starlink-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Starlink Logo Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/fykAAeSwebNp1Sv2/s-l225.jpg" alt="Listing image for Starlink Logo Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-starlink-trains-look-planned-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="why-do-starlink-trains-look-planned-starlink-poster" target="_blank" rel="sponsored noopener noreferrer">Starlink Logo Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-starlink-trains-look-planned-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="why-do-starlink-trains-look-planned-starlink-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Starlink poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Starlink poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-starlink-trains-look-planned-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="why-do-starlink-trains-look-planned-starlink-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-starlink-trains-look-planned-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="why-do-starlink-trains-look-planned-starlink-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Starlink Logo Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/fykAAeSwebNp1Sv2/s-l225.jpg" alt="Listing image for Starlink Logo Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-starlink-trains-look-planned-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="why-do-starlink-trains-look-planned-starlink-poster" target="_blank" rel="sponsored noopener noreferrer">Starlink Logo Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-starlink-trains-look-planned-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="why-do-starlink-trains-look-planned-starlink-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Starlink poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Starlink poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-starlink-trains-look-planned-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="why-do-starlink-trains-look-planned-starlink-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-starlink-trains-look-planned-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="why-do-starlink-trains-look-planned-starlink-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Starlink: Battle For Atlas - Collection Poster (No Game) - Microsoft Xbox One"><img src="https://i.ebayimg.com/images/g/IYsAAOSwuutnhWif/s-l225.jpg" alt="Listing image for Starlink: Battle For Atlas - Collection Poster (No Game) - Microsoft Xbox One" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-starlink-trains-look-planned-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="why-do-starlink-trains-look-planned-starlink-poster" target="_blank" rel="sponsored noopener noreferrer">Starlink: Battle For Atlas - Collection Poster (No Game) - Microsoft Xbox One</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-starlink-trains-look-planned-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="why-do-starlink-trains-look-planned-starlink-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Starlink poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Starlink poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-starlink-trains-look-planned-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="why-do-starlink-trains-look-planned-starlink-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-starlink-trains-look-planned-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="why-do-starlink-trains-look-planned-starlink-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Starlink: Battle For Atlas - Collection Poster (No Game) - Microsoft Xbox One"><img src="https://i.ebayimg.com/images/g/IYsAAOSwuutnhWif/s-l225.jpg" alt="Listing image for Starlink: Battle For Atlas - Collection Poster (No Game) - Microsoft Xbox One" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-starlink-trains-look-planned-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="why-do-starlink-trains-look-planned-starlink-poster" target="_blank" rel="sponsored noopener noreferrer">Starlink: Battle For Atlas - Collection Poster (No Game) - Microsoft Xbox One</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-starlink-trains-look-planned-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="why-do-starlink-trains-look-planned-starlink-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Starlink poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Starlink poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-starlink-trains-look-planned-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="why-do-starlink-trains-look-planned-starlink-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-starlink-trains-look-planned-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="why-do-starlink-trains-look-planned-starlink-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Starlink Network Earth Framed Wall Art Poster Canvas Print Picture"><span>eBay</span></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-starlink-trains-look-planned-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="why-do-starlink-trains-look-planned-starlink-poster" target="_blank" rel="sponsored noopener noreferrer">Starlink Network Earth Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-starlink-trains-look-planned-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="why-do-starlink-trains-look-planned-starlink-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Starlink poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Starlink poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-starlink-trains-look-planned-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="why-do-starlink-trains-look-planned-starlink-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-starlink-trains-look-planned-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="why-do-starlink-trains-look-planned-starlink-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-starlink-trains-look-planned-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="why-do-starlink-trains-look-planned-starlink-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Starlink Network Earth Framed Wall Art Poster Canvas Print Picture"><span>eBay</span></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-starlink-trains-look-planned-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="why-do-starlink-trains-look-planned-starlink-poster" target="_blank" rel="sponsored noopener noreferrer">Starlink Network Earth Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-starlink-trains-look-planned-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="why-do-starlink-trains-look-planned-starlink-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Starlink poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Starlink poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-starlink-trains-look-planned-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="why-do-starlink-trains-look-planned-starlink-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-starlink-trains-look-planned-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="why-do-starlink-trains-look-planned-starlink-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -522,7 +522,7 @@ In the context of UFO reports, the key point is that the organisation itself is 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -542,7 +542,7 @@ In the context of UFO reports, the key point is that the organisation itself is 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -574,7 +574,7 @@ In the context of UFO reports, the key point is that the organisation itself is 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -626,7 +626,7 @@ In the context of UFO reports, the key point is that the organisation itself is 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -671,7 +671,7 @@ In the context of UFO reports, the key point is that the organisation itself is 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -712,162 +712,162 @@ In the context of UFO reports, the key point is that the organisation itself is 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: space.com  
    Title: Starlink satellite train: how to see and track it in the night sky  
-   Link: <a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>These satellites initially travel in a tight, bright line resembling a &quot;train,&quot; captivating skywatchers and often being mistaken for UFOs...</p></details>
+   Link:<a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These satellites initially travel in a tight, bright line resembling a &quot;train,&quot; captivating skywatchers and often being mistaken for UFOs...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Starlink/comments/od4x3a/what_purpose_do_the_starlink_trains_serve/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Starlink/comments/od4x3a/what_purpose_do_the_starlink_trains_serve/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>is the purpose of the actual long 50+ satellite trains...</p></details>
+   Link:<a href="https://www.reddit.com/r/Starlink/comments/od4x3a/what_purpose_do_the_starlink_trains_serve/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Starlink/comments/od4x3a/what_purpose_do_the_starlink_trains_serve/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>is the purpose of the actual long 50+ satellite trains...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: [aaro](&#123;&#123; 'aaro/' | relative_url &#125;&#125;). mil  
    Title: Correlations of Starlink Satellite Flaring with UAP  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>During this phase, the satellites navigate from their initial low orbit to their final orbital...</p></details>
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>During this phase, the satellites navigate from their initial low orbit to their final orbital...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/SpaceXLounge/comments/erkk9j/astronomer_complains_about_starlink_satellites/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/SpaceXLounge/comments/erkk9j/astronomer_complains_about_starlink_satellites/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ional altitude. That&#x27;s what astronomers are having issues with.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/SpaceXLounge/comments/erkk9j/astronomer_complains_about_starlink_satellites/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/SpaceXLounge/comments/erkk9j/astronomer_complains_about_starlink_satellites/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ional altitude. That&#x27;s what astronomers are having issues with.Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Starlink/comments/k8l6qv/why_do_the_starlink_trains_still_stay_in_such/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Starlink/comments/k8l6qv/why_do_the_starlink_trains_still_stay_in_such/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why do the Starlink trains still stay in such tight formations...With respect to phasing, SpaceX actually spreads them out as they...</p></details>
+   Link:<a href="https://www.reddit.com/r/Starlink/comments/k8l6qv/why_do_the_starlink_trains_still_stay_in_such/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Starlink/comments/k8l6qv/why_do_the_starlink_trains_still_stay_in_such/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why do the Starlink trains still stay in such tight formations...With respect to phasing, SpaceX actually spreads them out as they...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: forbes.com  
-   Link: <a href="https://www.forbes.com/sites/jonathanocallaghan/2020/04/21/what-are-those-strange-moving-lights-in-the-night-sky-elon-musks-starlink-satellites-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/jonathanocallaghan/2020/04/21/what-are-those-strange-moving-lights-in-the-night-sky-elon-musks-starlink-satellites-explained/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What Are Those Strange Moving Lights In The Night Sky?...21 Apr 2020 — These lights are actually satellites, launched into space b...</p></details>
+   Link:<a href="https://www.forbes.com/sites/jonathanocallaghan/2020/04/21/what-are-those-strange-moving-lights-in-the-night-sky-elon-musks-starlink-satellites-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/jonathanocallaghan/2020/04/21/what-are-those-strange-moving-lights-in-the-night-sky-elon-musks-starlink-satellites-explained/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Are Those Strange Moving Lights In The Night Sky?...21 Apr 2020 — These lights are actually satellites, launched into space b...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Starlink/comments/y4hspb/why_are_some_starlink_satellites_in_a_dense_line/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Starlink/comments/y4hspb/why_are_some_starlink_satellites_in_a_dense_line/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why are some Starlink satellites in a dense line, and others...Dense means newly launched. Starting to scatter themselves in its o...</p></details>
+   Link:<a href="https://www.reddit.com/r/Starlink/comments/y4hspb/why_are_some_starlink_satellites_in_a_dense_line/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Starlink/comments/y4hspb/why_are_some_starlink_satellites_in_a_dense_line/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why are some Starlink satellites in a dense line, and others...Dense means newly launched. Starting to scatter themselves in its o...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Starlink/comments/k6tzq8/question_do_the_satellites_spread_out/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Starlink/comments/k6tzq8/question_do_the_satellites_spread_out/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Question: Do the satellites spread out?: r/StarlinkI was wondering if the intent of the Skylink satellites is to slowly spread out on th...</p></details>
+   Link:<a href="https://www.reddit.com/r/Starlink/comments/k6tzq8/question_do_the_satellites_spread_out/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Starlink/comments/k6tzq8/question_do_the_satellites_spread_out/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Question: Do the satellites spread out?: r/StarlinkI was wondering if the intent of the Skylink satellites is to slowly spread out on th...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
    Title: spacex starlink objects train 24 may 2019  
-   Link: <a href="https://www.reddit.com/r/SpaceXLounge/comments/bsntty/spacex_starlink_objects_train_24_may_2019/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/SpaceXLounge/comments/bsntty/spacex_starlink_objects_train_24_may_2019/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>r/SpaceXLoungeStarlink looks like a great name choice after viewing this video!... The second-last one will then raise orbit, then the t...</p></details>
+   Link:<a href="https://www.reddit.com/r/SpaceXLounge/comments/bsntty/spacex_starlink_objects_train_24_may_2019/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/SpaceXLounge/comments/bsntty/spacex_starlink_objects_train_24_may_2019/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>r/SpaceXLoungeStarlink looks like a great name choice after viewing this video!... The second-last one will then raise orbit, then the t...</p></details>
    Published: may 2019  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Starlink/comments/1c3off2/long_line_of_satellites_starlink_need_help/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Starlink/comments/1c3off2/long_line_of_satellites_starlink_need_help/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>red was where they entered earth&#x27;s shadow.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/Starlink/comments/1c3off2/long_line_of_satellites_starlink_need_help/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Starlink/comments/1c3off2/long_line_of_satellites_starlink_need_help/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>red was where they entered earth&#x27;s shadow.Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Starlink/comments/16knevh/really_bizarre_straight_line_of_moving_lights/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Starlink/comments/16knevh/really_bizarre_straight_line_of_moving_lights/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The dispenser on the rocket releases them as a train. They will move apart and eventually make it...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/Starlink/comments/16knevh/really_bizarre_straight_line_of_moving_lights/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Starlink/comments/16knevh/really_bizarre_straight_line_of_moving_lights/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The dispenser on the rocket releases them as a train. They will move apart and eventually make it...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: space.com  
-   Link: <a href="https://www.space.com/spacex-starlink-satellites.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/spacex-starlink-satellites.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>aunch and deployment then become progressively harder to spot as they climb to...Read more...</p></details>
+   Link:<a href="https://www.space.com/spacex-starlink-satellites.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/spacex-starlink-satellites.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>aunch and deployment then become progressively harder to spot as they climb to...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: starwalk.space  
-   Link: <a href="https://starwalk.space/en/news/spacex-starlink-satellites-night-sky-visibility-guide" target="_blank" rel="noopener noreferrer nofollow">https://starwalk.space/en/news/spacex-starlink-satellites-night-sky-visibility-guide</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Star WalkStarlink Tracker: Find Starlink Satellites Tonight3 days ago — Starlink satellites appear as evenly spaced moving lights for onl...</p></details>
+   Link:<a href="https://starwalk.space/en/news/spacex-starlink-satellites-night-sky-visibility-guide" target="_blank" rel="noopener noreferrer nofollow">https://starwalk.space/en/news/spacex-starlink-satellites-night-sky-visibility-guide</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Star WalkStarlink Tracker: Find Starlink Satellites Tonight3 days ago — Starlink satellites appear as evenly spaced moving lights for onl...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: spaceref.com  
    Title: spacex publishes update on starlink satellite brightness issue  
-   Link: <a href="https://spaceref.com/science-and-exploration/spacex-publishes-update-on-starlink-satellite-brightness-issue/" target="_blank" rel="noopener noreferrer nofollow">https://spaceref.com/science-and-exploration/spacex-publishes-update-on-starlink-satellite-brightness-issue/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX Publishes Update on Starlink Satellite Brightness...Apr 29, 2020 — SpaceX posted a comprehensive update on its Startlink satellit...</p></details>
+   Link:<a href="https://spaceref.com/science-and-exploration/spacex-publishes-update-on-starlink-satellite-brightness-issue/" target="_blank" rel="noopener noreferrer nofollow">https://spaceref.com/science-and-exploration/spacex-publishes-update-on-starlink-satellite-brightness-issue/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX Publishes Update on Starlink Satellite Brightness...Apr 29, 2020 — SpaceX posted a comprehensive update on its Startlink satellit...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: space.stackexchange.com  
-   Link: <a href="https://space.stackexchange.com/questions/44467/how-do-starlink-trains-spread-into-separate-orbits-with-equidistant-orbital-slot" target="_blank" rel="noopener noreferrer nofollow">https://space.stackexchange.com/questions/44467/how-do-starlink-trains-spread-into-separate-orbits-with-equidistant-orbital-slot</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Space Exploration Stack ExchangeHow do Starlink trains spread into separate orbits with...May 31, 2020 — They are released from the laun...</p></details>
+   Link:<a href="https://space.stackexchange.com/questions/44467/how-do-starlink-trains-spread-into-separate-orbits-with-equidistant-orbital-slot" target="_blank" rel="noopener noreferrer nofollow">https://space.stackexchange.com/questions/44467/how-do-starlink-trains-spread-into-separate-orbits-with-equidistant-orbital-slot</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Space Exploration Stack ExchangeHow do Starlink trains spread into separate orbits with...May 31, 2020 — They are released from the laun...</p></details>
    Published: May 31, 2020  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: space.stackexchange.com  
    Title: why is one starlink satellite not following the adjacent one in this image  
-   Link: <a href="https://space.stackexchange.com/questions/40055/why-is-one-starlink-satellite-not-following-the-adjacent-one-in-this-image" target="_blank" rel="noopener noreferrer nofollow">https://space.stackexchange.com/questions/40055/why-is-one-starlink-satellite-not-following-the-adjacent-one-in-this-image</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>is one Starlink satellite not following the adjacent...22 Nov 2019 — The following image shows trails of SpaceX’s Starlink satellites as...</p></details>
+   Link:<a href="https://space.stackexchange.com/questions/40055/why-is-one-starlink-satellite-not-following-the-adjacent-one-in-this-image" target="_blank" rel="noopener noreferrer nofollow">https://space.stackexchange.com/questions/40055/why-is-one-starlink-satellite-not-following-the-adjacent-one-in-this-image</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>is one Starlink satellite not following the adjacent...22 Nov 2019 — The following image shows trails of SpaceX’s Starlink satellites as...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: space.stackexchange.com  
    Title: how are starlink satellites deployed  
-   Link: <a href="https://space.stackexchange.com/questions/64136/how-are-starlink-satellites-deployed" target="_blank" rel="noopener noreferrer nofollow">https://space.stackexchange.com/questions/64136/how-are-starlink-satellites-deployed</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>are starlink satellites deployed?Aug 10, 2023 — When the stack is released, the satellites are spaced out precluding or minimizing any po...</p></details>
+   Link:<a href="https://space.stackexchange.com/questions/64136/how-are-starlink-satellites-deployed" target="_blank" rel="noopener noreferrer nofollow">https://space.stackexchange.com/questions/64136/how-are-starlink-satellites-deployed</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>are starlink satellites deployed?Aug 10, 2023 — When the stack is released, the satellites are spaced out precluding or minimizing any po...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Starlink" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Starlink</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>StarlinkStarlink is a satellite internet constellation operated by Starlink Services, LLC, an international telecommunications provide...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Starlink" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Starlink</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>StarlinkStarlink is a satellite internet constellation operated by Starlink Services, LLC, an international telecommunications provide...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=GhLXCJ1Gyyc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GhLXCJ1Gyyc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the night sky...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=GhLXCJ1Gyyc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GhLXCJ1Gyyc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the night sky...</p></details>
 
 ### Additional References
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DPmQZ0_ksIm/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DPmQZ0_ksIm/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Example of SpaceX Starlink &quot;Trains&quot;: Low-Earth Orbit...After only about 5 years in orbit, they deliberately lower themselves and burn up...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DPmQZ0_ksIm/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DPmQZ0_ksIm/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Example of SpaceX Starlink &quot;Trains&quot;: Low-Earth Orbit...After only about 5 years in orbit, they deliberately lower themselves and burn up...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/2365809903441367/posts/25818643794397981/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/25818643794397981/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink satellite train observation guideYou can be up to 500 miles (800km) on any side of the trajectory and see a train rise to at lea...</p></details>
+   Link:<a href="https://www.facebook.com/groups/2365809903441367/posts/25818643794397981/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/25818643794397981/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink satellite train observation guideYou can be up to 500 miles (800km) on any side of the trajectory and see a train rise to at lea...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/2365809903441367/posts/25646903908238638/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/25646903908238638/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink satellites spread out over timeAfter deployment into orbit they gradually spread out in a linear fashion. Last night the train e...</p></details>
+   Link:<a href="https://www.facebook.com/groups/2365809903441367/posts/25646903908238638/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/25646903908238638/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink satellites spread out over timeAfter deployment into orbit they gradually spread out in a linear fashion. Last night the train e...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=VIQr1UyhwWk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VIQr1UyhwWk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Do Starlink Satellites Navigate To Their Final Operational...When SpaceX deploy batches of Starlink satellites they drop them off in...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=VIQr1UyhwWk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VIQr1UyhwWk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Do Starlink Satellites Navigate To Their Final Operational...When SpaceX deploy batches of Starlink satellites they drop them off in...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: astronomy.com  
    Title: how do spacexs starlink satellites actually work  
-   Link: <a href="https://www.astronomy.com/space-exploration/how-do-spacexs-starlink-satellites-actually-work/" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomy.com/space-exploration/how-do-spacexs-starlink-satellites-actually-work/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How do spaceX&#x27;s Starlink satellites actually work?Jun 24, 2021 — Once launched, a Falcon 9 launch vehicle deploys its batch of 60 Starlin...</p></details>
+   Link:<a href="https://www.astronomy.com/space-exploration/how-do-spacexs-starlink-satellites-actually-work/" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomy.com/space-exploration/how-do-spacexs-starlink-satellites-actually-work/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How do spaceX&#x27;s Starlink satellites actually work?Jun 24, 2021 — Once launched, a Falcon 9 launch vehicle deploys its batch of 60 Starlin...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: fox5atlanta.com  
    Title: FOX 5 Atlanta What are those lights in the sky?  
-   Link: <a href="https://www.fox5atlanta.com/news/what-those-lights-sky-starlink-satellites-explained" target="_blank" rel="noopener noreferrer nofollow">https://www.fox5atlanta.com/news/what-those-lights-sky-starlink-satellites-explained</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink satellites explainedApr 8, 2025 — Starlink satellites are especially noticeable shortly after deployment when they are closely g...</p></details>
+   Link:<a href="https://www.fox5atlanta.com/news/what-those-lights-sky-starlink-satellites-explained" target="_blank" rel="noopener noreferrer nofollow">https://www.fox5atlanta.com/news/what-those-lights-sky-starlink-satellites-explained</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink satellites explainedApr 8, 2025 — Starlink satellites are especially noticeable shortly after deployment when they are closely g...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: newspaceeconomy.ca  
    Title: Are We Chasing Aliens or Just Starlink?  
-   Link: <a href="https://newspaceeconomy.ca/2025/02/06/are-we-chasing-aliens-or-just-starlink-the-role-of-satellite-flares-in-uap-reports/" target="_blank" rel="noopener noreferrer nofollow">https://newspaceeconomy.ca/2025/02/06/are-we-chasing-aliens-or-just-starlink-the-role-of-satellite-flares-in-uap-reports/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Role of Satellite...6 Feb 2025 — The launch and orbital adjustment phases result in distinct patterns: Launch Phase: Satellites are...</p></details>
+   Link:<a href="https://newspaceeconomy.ca/2025/02/06/are-we-chasing-aliens-or-just-starlink-the-role-of-satellite-flares-in-uap-reports/" target="_blank" rel="noopener noreferrer nofollow">https://newspaceeconomy.ca/2025/02/06/are-we-chasing-aliens-or-just-starlink-the-role-of-satellite-flares-in-uap-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Role of Satellite...6 Feb 2025 — The launch and orbital adjustment phases result in distinct patterns: Launch Phase: Satellites are...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: earthsky.org  
    Title: They would move across the sky in a line like a train.Read more  
-   Link: <a href="https://earthsky.org/space/spacex-starlink-satellites-explained/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/space/spacex-starlink-satellites-explained/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink satellites can look like a plume or train of light12 Sept 2022 — This artist&#x27;s concept shows a trail of Starlink satellites, eac...</p></details>
+   Link:<a href="https://earthsky.org/space/spacex-starlink-satellites-explained/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/space/spacex-starlink-satellites-explained/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink satellites can look like a plume or train of light12 Sept 2022 — This artist&#x27;s concept shows a trail of Starlink satellites, eac...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: rocketryforum.com  
    Title: starlink satellite train.180454  
-   Link: <a href="https://www.rocketryforum.com/threads/starlink-satellite-train.180454/" target="_blank" rel="noopener noreferrer nofollow">https://www.rocketryforum.com/threads/starlink-satellite-train.180454/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink satellite train14 Jun 2023 — The key to making Starlink darker is to prevent sunlight from illuminating these white surfaces and...</p></details>
+   Link:<a href="https://www.rocketryforum.com/threads/starlink-satellite-train.180454/" target="_blank" rel="noopener noreferrer nofollow">https://www.rocketryforum.com/threads/starlink-satellite-train.180454/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink satellite train14 Jun 2023 — The key to making Starlink darker is to prevent sunlight from illuminating these white surfaces and...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: theardor.com.au  
-   Link: <a href="https://www.theardor.com.au/starlink-satellite-train/" target="_blank" rel="noopener noreferrer nofollow">https://www.theardor.com.au/starlink-satellite-train/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink Satellite Train: What It Is &amp; How to See It [2026]Apr 21, 2026 — For just one to three days following launch, Starlink satellite...</p></details>
+   Link:<a href="https://www.theardor.com.au/starlink-satellite-train/" target="_blank" rel="noopener noreferrer nofollow">https://www.theardor.com.au/starlink-satellite-train/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink Satellite Train: What It Is &amp; How to See It [2026]Apr 21, 2026 — For just one to three days following launch, Starlink satellite...</p></details>

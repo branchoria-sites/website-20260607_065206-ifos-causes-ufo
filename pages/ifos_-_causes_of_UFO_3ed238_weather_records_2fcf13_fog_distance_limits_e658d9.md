@@ -274,20 +274,20 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13_fog_dis
 
 ## Introduction
 
-Many UFO reports depend on a witness estimating how far away a light or shape was. Fog quietly attacks that estimate. Once visibility falls below familiar reference distances, ordinary lights can appear much farther away than they really are, while silhouettes lose the visual cues that normally reveal size and [range]({{ 'range/' | relative_url }}). A nearby aircraft light, tower beacon or vehicle can therefore be interpreted as a distant object of unusual size or behaviour. Meteorological visibility records are valuable because they provide a measurable limit on how much of the scene a witness could realistically see. When reported visibility drops into fog conditions, distance estimates often become one of the weakest parts of the report. <span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/fog" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Met OfficeWhat is fog?Fog is essentially a cloud at ground level that causes a reduction in visibility to less than 1000 metres. What cau...</span></span></span>
+Many UFO reports depend on a witness estimating how far away a light or shape was. Fog quietly attacks that estimate. Once visibility falls below familiar reference distances, ordinary lights can appear much farther away than they really are, while silhouettes lose the visual cues that normally reveal size and [range]({{ 'range/' | relative_url }}). A nearby aircraft light, tower beacon or vehicle can therefore be interpreted as a distant object of unusual size or behaviour. Meteorological visibility records are valuable because they provide a measurable limit on how much of the scene a witness could realistically see. When reported visibility drops into fog conditions, distance estimates often become one of the weakest parts of the report.<span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/fog" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Met OfficeWhat is fog?Fog is essentially a cloud at ground level that causes a reduction in visibility to less than 1000 metres. What cau...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13_fog_distance_limits_e658d9-Illustration-1-dark.svg" | relative_url }}" alt="Fog limits illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13_fog_distance_limits_e658d9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13_fog_distance_limits_e658d9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What meteorological fog reports actually measure
 
-Weather agencies do not define fog by appearance alone. The international standard used by meteorological services defines fog as water droplets suspended near the ground that reduce horizontal visibility below 1 kilometre. The UK Met Office uses the same threshold, while also distinguishing thicker categories that are more relevant to everyday experience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/fog" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Met OfficeWhat is fog?Fog is essentially a cloud at ground level that causes a reduction in visibility to less than 1000 metres. What cau...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cloudatlas.wmo.int/fog-compared-with-mist.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cloudatlas.wmo.int">[International Cloud Atlas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cloudatlas.wmo.int</span><span class="citation-popover-snippet">International Cloud AtlasFog compared with Mist“Fog” is used when microscopic droplets reduce horizontal visibility at the Earth&#x27;s surfac...</span></span></span>
+Weather agencies do not define fog by appearance alone. The international standard used by meteorological services defines fog as water droplets suspended near the ground that reduce horizontal visibility below 1 kilometre. The UK Met Office uses the same threshold, while also distinguishing thicker categories that are more relevant to everyday experience.<span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/fog" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Met OfficeWhat is fog?Fog is essentially a cloud at ground level that causes a reduction in visibility to less than 1000 metres. What cau...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://cloudatlas.wmo.int/fog-compared-with-mist.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cloudatlas.wmo.int">[International Cloud Atlas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cloudatlas.wmo.int</span><span class="citation-popover-snippet">International Cloud AtlasFog compared with Mist“Fog” is used when microscopic droplets reduce horizontal visibility at the Earth&#x27;s surfac...</span></span></span>
 
 For UFO analysis, several visibility thresholds matter:
 
 Reported visibilityPractical consequence for distance judgement1,000 m or lessOfficial fog conditions begin; distant landmarks and horizon references start disappearing.Around 200 m or lessThick fog; many familiar objects vanish from view, removing useful scale cues.Around 50 m or lessDense fog; even large nearby objects may be difficult to judge accurately.
 
-These thresholds are not arbitrary. Visibility measurements are based on the distance at which a standard object can still be distinguished against its background. Once fog reduces contrast below that level, observers lose information that the brain normally uses to estimate range. <span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/fog" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Met OfficeWhat is fog?Fog is essentially a cloud at ground level that causes a reduction in visibility to less than 1000 metres. What cau...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://museum.wales/blog/2479/What-is-fog/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: museum.wales">[Museum Wales]</a><span class="citation-popover" role="note"><span class="citation-popover-source">museum.wales</span><span class="citation-popover-title">What is fog</span><span class="citation-popover-snippet">?Feb 8, 2023 — The MET Office refers to thick fog when visibility is below 180m and dense fog when it&#x27;s below 50m (that&#x27;s the length of t...</span></span></span>
+These thresholds are not arbitrary. Visibility measurements are based on the distance at which a standard object can still be distinguished against its background. Once fog reduces contrast below that level, observers lose information that the brain normally uses to estimate range.<span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/fog" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Met OfficeWhat is fog?Fog is essentially a cloud at ground level that causes a reduction in visibility to less than 1000 metres. What cau...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://museum.wales/blog/2479/What-is-fog/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: museum.wales">[Museum Wales]</a><span class="citation-popover" role="note"><span class="citation-popover-source">museum.wales</span><span class="citation-popover-title">What is fog</span><span class="citation-popover-snippet">?Feb 8, 2023 — The MET Office refers to thick fog when visibility is below 180m and dense fog when it&#x27;s below 50m (that&#x27;s the length of t...</span></span></span>
 
-The important implication is that a witness can still see a bright light beyond the reported visibility distance even when they cannot accurately judge where that light is located. Visibility standards are largely based on contrast and recognition, not on whether a bright point source remains detectable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/10.1155/2021/5531706" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryVisibility Detection Algorithm of Single Fog Image Based...Jun 25, 2021 — Visibility, also known as meteorological o...</span></span></span>
+The important implication is that a witness can still see a bright light beyond the reported visibility distance even when they cannot accurately judge where that light is located. Visibility standards are largely based on contrast and recognition, not on whether a bright point source remains detectable.<span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/10.1155/2021/5531706" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryVisibility Detection Algorithm of Single Fog Image Based...Jun 25, 2021 — Visibility, also known as meteorological o...</span></span></span>
 
 ## Why point lights and silhouettes become hard to judge
 
@@ -297,7 +297,7 @@ Fog does more than hide objects. It changes the visual information available to 
 
 Under clear conditions, the eye unconsciously uses surrounding terrain, nearby objects, horizon features and the apparent sharpness of a light to estimate range. Fog removes many of those references. A single bright light may remain visible while everything around it disappears.
 
-The result is a classic ambiguity: a light that is actually a few hundred metres away can appear to be a much larger object several kilometres distant because the observer no longer has reliable background references. Scattering by fog droplets can also create halos or glows around lights, making them appear larger than their true size. Aviation guidance specifically notes that halos around lights are a common indication of fog conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap7_section_1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration Chapter 7</span><span class="citation-popover-snippet">Chapter 7. Safety of Flight... fog, haze or smoke increases the amount of scattered light reaching the receiver. The resulting measuremen...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://museum.wales/blog/2479/What-is-fog/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: museum.wales">[Museum Wales]</a><span class="citation-popover" role="note"><span class="citation-popover-source">museum.wales</span><span class="citation-popover-title">What is fog</span><span class="citation-popover-snippet">?Feb 8, 2023 — The MET Office refers to thick fog when visibility is below 180m and dense fog when it&#x27;s below 50m (that&#x27;s the length of t...</span></span></span>
+The result is a classic ambiguity: a light that is actually a few hundred metres away can appear to be a much larger object several kilometres distant because the observer no longer has reliable background references. Scattering by fog droplets can also create halos or glows around lights, making them appear larger than their true size. Aviation guidance specifically notes that halos around lights are a common indication of fog conditions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap7_section_1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration Chapter 7</span><span class="citation-popover-snippet">Chapter 7. Safety of Flight... fog, haze or smoke increases the amount of scattered light reaching the receiver. The resulting measuremen...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://museum.wales/blog/2479/What-is-fog/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: museum.wales">[Museum Wales]</a><span class="citation-popover" role="note"><span class="citation-popover-source">museum.wales</span><span class="citation-popover-title">What is fog</span><span class="citation-popover-snippet">?Feb 8, 2023 — The MET Office refers to thick fog when visibility is below 180m and dense fog when it&#x27;s below 50m (that&#x27;s the length of t...</span></span></span>
 
 In UFO reports, this can produce descriptions such as:
 
@@ -310,24 +310,24 @@ In UFO reports, this can produce descriptions such as:
 
 </div>
 
-Each description can arise naturally when fog obscures context while leaving a bright light visible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap7_section_1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration Chapter 7</span><span class="citation-popover-snippet">Chapter 7. Safety of Flight... fog, haze or smoke increases the amount of scattered light reaching the receiver. The resulting measuremen...</span></span></span>
+Each description can arise naturally when fog obscures context while leaving a bright light visible.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap7_section_1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration Chapter 7</span><span class="citation-popover-snippet">Chapter 7. Safety of Flight... fog, haze or smoke increases the amount of scattered light reaching the receiver. The resulting measuremen...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13_fog_distance_limits_e658d9-Illustration-2-dark.svg" | relative_url }}" alt="Fog limits illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13_fog_distance_limits_e658d9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13_fog_distance_limits_e658d9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Silhouettes lose scale information
 
-Dark objects suffer a different problem. Visibility measurements are fundamentally contrast measurements. As fog thickens, outlines become softer and details disappear. A witness may still see a shape but lose the features needed to judge whether it is small and nearby or large and distant. <span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/10.1155/2021/5531706" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryVisibility Detection Algorithm of Single Fog Image Based...Jun 25, 2021 — Visibility, also known as meteorological o...</span></span></span>
+Dark objects suffer a different problem. Visibility measurements are fundamentally contrast measurements. As fog thickens, outlines become softer and details disappear. A witness may still see a shape but lose the features needed to judge whether it is small and nearby or large and distant.<span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/10.1155/2021/5531706" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryVisibility Detection Algorithm of Single Fog Image Based...Jun 25, 2021 — Visibility, also known as meteorological o...</span></span></span>
 
-This effect is especially important near the fog threshold of 1 kilometre, where partial visibility can leave only fragments of an object's outline visible. A distant hilltop structure, aircraft or balloon may appear disconnected from its surroundings and therefore harder to identify correctly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rmets.onlinelibrary.wiley.com/doi/10.1002/qj.70056" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rmets.onlinelibrary.wiley.com">[Royal Meteorological Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rmets.onlinelibrary.wiley.com</span><span class="citation-popover-snippet">The first one, 1000 m, follows the international definition of fog occurrence (...Read more...</span></span></span>
+This effect is especially important near the fog threshold of 1 kilometre, where partial visibility can leave only fragments of an object's outline visible. A distant hilltop structure, aircraft or balloon may appear disconnected from its surroundings and therefore harder to identify correctly.<span class="citation-chip-wrap"><a class="citation-chip" href="https://rmets.onlinelibrary.wiley.com/doi/10.1002/qj.70056" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rmets.onlinelibrary.wiley.com">[Royal Meteorological Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rmets.onlinelibrary.wiley.com</span><span class="citation-popover-snippet">The first one, 1000 m, follows the international definition of fog occurrence (...Read more...</span></span></span>
 
 ## The critical range where UFO distance estimates collapse
 
 The most useful question is not simply whether fog existed, but whether the claimed object distance exceeded reported visibility.
 
-If a witness reports a structured object several kilometres away while official observations indicate visibility below 1 kilometre, the distance estimate deserves careful scrutiny. The witness may have seen a genuine light or object, but the reported range becomes difficult to support independently. <span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/fog" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Met OfficeWhat is fog?Fog is essentially a cloud at ground level that causes a reduction in visibility to less than 1000 metres. What cau...</span></span></span> DataHub Several warning signs are particularly relevant: <span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/travel/how-fog-affects-travel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[weather.metoffice.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Met OfficeHow fog affects travelHow thick is fog? The official definition of fog is a visibility of less than 1,000 m. This limit is appr...</span></span></span>
+If a witness reports a structured object several kilometres away while official observations indicate visibility below 1 kilometre, the distance estimate deserves careful scrutiny. The witness may have seen a genuine light or object, but the reported range becomes difficult to support independently.<span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/fog" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Met OfficeWhat is fog?Fog is essentially a cloud at ground level that causes a reduction in visibility to less than 1000 metres. What cau...</span></span></span> DataHub Several warning signs are particularly relevant:<span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/travel/how-fog-affects-travel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[weather.metoffice.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Met OfficeHow fog affects travelHow thick is fog? The official definition of fog is a visibility of less than 1,000 m. This limit is appr...</span></span></span>
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* The witness describes a precise distance despite poor visibility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://studyguides.com/study-methods/overview/cmmn8i342e92501aab33d3sv5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studyguides.com">[studyguides.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studyguides.com</span><span class="citation-popover-title">Visibility, Distance of (Meteorology</span><span class="citation-popover-snippet">Overview2 days ago — Visibility is also categorized by impairment type, such as fog (under 1000 meters), mist (1000-2000 meters), and haz...</span></span></span>
+* The witness describes a precise distance despite poor visibility.<span class="citation-chip-wrap"><a class="citation-chip" href="https://studyguides.com/study-methods/overview/cmmn8i342e92501aab33d3sv5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studyguides.com">[studyguides.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studyguides.com</span><span class="citation-popover-title">Visibility, Distance of (Meteorology</span><span class="citation-popover-snippet">Overview2 days ago — Visibility is also categorized by impairment type, such as fog (under 1000 meters), mist (1000-2000 meters), and haz...</span></span></span>
 * The object appeared and disappeared abruptly.
 * No intermediate landmarks were visible.
 * The object's size estimate depends entirely on the assumed distance.
@@ -343,212 +343,212 @@ These are exactly the kinds of conditions in which ordinary objects can acquire 
 
 [Weather records]({{ 'weather-records/' | relative_url }}) provide a straightforward reality check.
 
-First, obtain visibility observations from the nearest weather station or aviation METAR report at the relevant time. Aviation reports routinely include visibility measurements because low visibility is operationally important. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pilotinstitute.com/how-to-read-metar/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pilotinstitute.com">[Pilot Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pilotinstitute.com</span><span class="citation-popover-title">how to read metar</span><span class="citation-popover-snippet">Pilot InstituteHow to Read a METAR19 Mar 2025 — Decoding a METAR involves reading wind, visibility, cloud cover, and temperature. METARs...</span></span></span>
+First, obtain visibility observations from the nearest weather station or aviation METAR report at the relevant time. Aviation reports routinely include visibility measurements because low visibility is operationally important.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pilotinstitute.com/how-to-read-metar/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pilotinstitute.com">[Pilot Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pilotinstitute.com</span><span class="citation-popover-title">how to read metar</span><span class="citation-popover-snippet">Pilot InstituteHow to Read a METAR19 Mar 2025 — Decoding a METAR involves reading wind, visibility, cloud cover, and temperature. METARs...</span></span></span>
 
-Next, compare the claimed distance with the reported visibility: <span class="citation-chip-wrap"><a class="citation-chip" href="https://studyguides.com/study-methods/overview/cmmn8i342e92501aab33d3sv5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studyguides.com">[studyguides.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studyguides.com</span><span class="citation-popover-title">Visibility, Distance of (Meteorology</span><span class="citation-popover-snippet">Overview2 days ago — Visibility is also categorized by impairment type, such as fog (under 1000 meters), mist (1000-2000 meters), and haz...</span></span></span>
+Next, compare the claimed distance with the reported visibility:<span class="citation-chip-wrap"><a class="citation-chip" href="https://studyguides.com/study-methods/overview/cmmn8i342e92501aab33d3sv5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studyguides.com">[studyguides.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studyguides.com</span><span class="citation-popover-title">Visibility, Distance of (Meteorology</span><span class="citation-popover-snippet">Overview2 days ago — Visibility is also categorized by impairment type, such as fog (under 1000 meters), mist (1000-2000 meters), and haz...</span></span></span>
 
 * If visibility was 10 km or more, fog is unlikely to be the main explanation for a distance error.
 * If visibility was between 1 km and 5 km, caution is warranted, especially for lights seen near the horizon.
-* If visibility was below 1 km, distance estimates become substantially less reliable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://studyguides.com/study-methods/overview/cmmn8i342e92501aab33d3sv5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studyguides.com">[studyguides.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studyguides.com</span><span class="citation-popover-title">Visibility, Distance of (Meteorology</span><span class="citation-popover-snippet">Overview2 days ago — Visibility is also categorized by impairment type, such as fog (under 1000 meters), mist (1000-2000 meters), and haz...</span></span></span>
+* If visibility was below 1 km, distance estimates become substantially less reliable.<span class="citation-chip-wrap"><a class="citation-chip" href="https://studyguides.com/study-methods/overview/cmmn8i342e92501aab33d3sv5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studyguides.com">[studyguides.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studyguides.com</span><span class="citation-popover-title">Visibility, Distance of (Meteorology</span><span class="citation-popover-snippet">Overview2 days ago — Visibility is also categorized by impairment type, such as fog (under 1000 meters), mist (1000-2000 meters), and haz...</span></span></span>
 * If visibility approached 200 m or below, claims about precise range, size or structure become particularly difficult to verify.
-* If visibility fell near 50 m, almost any estimate of a distant object's dimensions should be treated with extreme caution. <span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/fog" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Met OfficeWhat is fog?Fog is essentially a cloud at ground level that causes a reduction in visibility to less than 1000 metres. What cau...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/fog" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Met OfficeWhat is fog?Fog is essentially a cloud at ground level that causes a reduction in visibility to less than 1000 metres. What cau...</span></span></span>
+* If visibility fell near 50 m, almost any estimate of a distant object's dimensions should be treated with extreme caution.<span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/fog" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Met OfficeWhat is fog?Fog is essentially a cloud at ground level that causes a reduction in visibility to less than 1000 metres. What cau...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/fog" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Met OfficeWhat is fog?Fog is essentially a cloud at ground level that causes a reduction in visibility to less than 1000 metres. What cau...</span></span></span>
 
-Investigators should also remember that fog can be patchy. Aviation weather reporting recognises shallow fog, partial fog and fog patches, meaning visibility may vary dramatically across short distances. A witness may therefore describe clear conditions overhead while a critical section of the line of sight is obscured. <span class="citation-chip-wrap"><a class="citation-chip" href="https://staysafe.aero/en/gastbeitrag-meteoschweiz-mit-dem-herbst-beginnt-auch-wieder-die-nebelsaison/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: staysafe.aero">[staysafe.aero]</a><span class="citation-popover" role="note"><span class="citation-popover-source">staysafe.aero</span><span class="citation-popover-snippet">With autumn comes the return of the foggy season - Stay Safe17 Oct 2025 — By definition, fog is when the meteorological visibility (Met V...</span></span></span>
+Investigators should also remember that fog can be patchy. Aviation weather reporting recognises shallow fog, partial fog and fog patches, meaning visibility may vary dramatically across short distances. A witness may therefore describe clear conditions overhead while a critical section of the line of sight is obscured.<span class="citation-chip-wrap"><a class="citation-chip" href="https://staysafe.aero/en/gastbeitrag-meteoschweiz-mit-dem-herbst-beginnt-auch-wieder-die-nebelsaison/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: staysafe.aero">[staysafe.aero]</a><span class="citation-popover" role="note"><span class="citation-popover-source">staysafe.aero</span><span class="citation-popover-snippet">With autumn comes the return of the foggy season - Stay Safe17 Oct 2025 — By definition, fog is when the meteorological visibility (Met V...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13_fog_distance_limits_e658d9-Illustration-3-dark.svg" | relative_url }}" alt="Fog limits illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13_fog_distance_limits_e658d9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13_fog_distance_limits_e658d9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The key takeaway for UFO investigations
 
-Fog does not merely conceal objects; it destroys the visual cues needed to judge distance. Once visibility drops below about 1 kilometre, witnesses can still see lights while losing confidence in where those lights actually are. As visibility falls toward a few hundred metres and then tens of metres, estimates of range, size and speed become increasingly dependent on assumption rather than observation. That is why visibility records are often more important than witness confidence when assessing whether a reported UFO was truly distant and unusual or simply an ordinary light seen through a layer of fog. Wiley Online Library <span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/fog" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Met OfficeWhat is fog?Fog is essentially a cloud at ground level that causes a reduction in visibility to less than 1000 metres. What cau...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cloudatlas.wmo.int/fog-compared-with-mist.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cloudatlas.wmo.int">[International Cloud Atlas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cloudatlas.wmo.int</span><span class="citation-popover-snippet">International Cloud AtlasFog compared with Mist“Fog” is used when microscopic droplets reduce horizontal visibility at the Earth&#x27;s surfac...</span></span></span>
+Fog does not merely conceal objects; it destroys the visual cues needed to judge distance. Once visibility drops below about 1 kilometre, witnesses can still see lights while losing confidence in where those lights actually are. As visibility falls toward a few hundred metres and then tens of metres, estimates of range, size and speed become increasingly dependent on assumption rather than observation. That is why visibility records are often more important than witness confidence when assessing whether a reported UFO was truly distant and unusual or simply an ordinary light seen through a layer of fog. Wiley Online Library<span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/fog" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Met OfficeWhat is fog?Fog is essentially a cloud at ground level that causes a reduction in visibility to less than 1000 metres. What cau...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://cloudatlas.wmo.int/fog-compared-with-mist.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cloudatlas.wmo.int">[International Cloud Atlas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cloudatlas.wmo.int</span><span class="citation-popover-snippet">International Cloud AtlasFog compared with Mist“Fog” is used when microscopic droplets reduce horizontal visibility at the Earth&#x27;s surfac...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When fog makes UFO distances fall apart. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When fog makes UFO distances fall apart. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Places weak visibility and witness-estimate problems inside formal UFO case evaluation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places weak visibility and witness-estimate problems inside formal UFO case evaluation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cloudspotter&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=gbDYPEiB0T0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Cloudspotter&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cloudspotter&#x27;s Guide">The Cloudspotter&#x27;s Guide</a>
-        </h4>
-        <p class="fr-book-author">By Gavin Pretor-Pinney</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cloudspotter&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=gbDYPEiB0T0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Cloudspotter&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cloudspotter&#x27;s Guide">The Cloudspotter&#x27;s Guide</a>
+</h4>
+<p class="fr-book-author">By Gavin Pretor-Pinney</p>
         
-        <p class="fr-book-desc">Explains cloud, fog and atmospheric visibility effects that can distort UFO distance estimates.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains cloud, fog and atmospheric visibility effects that can distort UFO distance estimates.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
-        </h4>
-        <p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
+</h4>
+<p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
         
-        <p class="fr-book-desc">Explains why sincere observers can misread ambiguous visual scenes such as foggy lights.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why sincere observers can misread ambiguous visual scenes such as foggy lights.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience, A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience, A Scientific Inquiry">The UFO Experience, A Scientific Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience, A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience, A Scientific Inquiry">The UFO Experience, A Scientific Inquiry</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">First published 1972.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1972.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cloudspotter%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cloudspotter&#x27;s books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Invisible+Gorilla&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Invisible Gorilla</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cloudspotter%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cloudspotter&#x27;s books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Invisible+Gorilla&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Invisible Gorilla</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fog-makes-ufo-distances-fall-apart-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="when-fog-makes-ufo-distances-fall-apart-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for meteorology Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/-w4AAeSwjjJo96eo/s-l225.jpg" alt="Listing image for meteorology Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fog-makes-ufo-distances-fall-apart-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="when-fog-makes-ufo-distances-fall-apart-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer">meteorology Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fog-makes-ufo-distances-fall-apart-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="when-fog-makes-ufo-distances-fall-apart-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorology poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteorology poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fog-makes-ufo-distances-fall-apart-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="when-fog-makes-ufo-distances-fall-apart-meteorology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fog-makes-ufo-distances-fall-apart-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="when-fog-makes-ufo-distances-fall-apart-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for meteorology Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/-w4AAeSwjjJo96eo/s-l225.jpg" alt="Listing image for meteorology Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fog-makes-ufo-distances-fall-apart-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="when-fog-makes-ufo-distances-fall-apart-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer">meteorology Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fog-makes-ufo-distances-fall-apart-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="when-fog-makes-ufo-distances-fall-apart-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorology poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: meteorology poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fog-makes-ufo-distances-fall-apart-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="when-fog-makes-ufo-distances-fall-apart-meteorology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fog-makes-ufo-distances-fall-apart-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="when-fog-makes-ufo-distances-fall-apart-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Talking About Meteorology Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/X8cAAeSwzU1pwX17/s-l225.jpg" alt="Listing image for Talking About Meteorology Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fog-makes-ufo-distances-fall-apart-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="when-fog-makes-ufo-distances-fall-apart-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer">Talking About Meteorology Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fog-makes-ufo-distances-fall-apart-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="when-fog-makes-ufo-distances-fall-apart-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorology poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteorology poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fog-makes-ufo-distances-fall-apart-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="when-fog-makes-ufo-distances-fall-apart-meteorology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fog-makes-ufo-distances-fall-apart-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="when-fog-makes-ufo-distances-fall-apart-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Talking About Meteorology Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/X8cAAeSwzU1pwX17/s-l225.jpg" alt="Listing image for Talking About Meteorology Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fog-makes-ufo-distances-fall-apart-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="when-fog-makes-ufo-distances-fall-apart-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer">Talking About Meteorology Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fog-makes-ufo-distances-fall-apart-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="when-fog-makes-ufo-distances-fall-apart-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorology poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: meteorology poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fog-makes-ufo-distances-fall-apart-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="when-fog-makes-ufo-distances-fall-apart-meteorology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fog-makes-ufo-distances-fall-apart-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="when-fog-makes-ufo-distances-fall-apart-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Diagram of meteorology Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/Db0AAeSwLH1o-Qkb/s-l225.jpg" alt="Listing image for Diagram of meteorology Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fog-makes-ufo-distances-fall-apart-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="when-fog-makes-ufo-distances-fall-apart-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer">Diagram of meteorology Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fog-makes-ufo-distances-fall-apart-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="when-fog-makes-ufo-distances-fall-apart-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorology poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteorology poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fog-makes-ufo-distances-fall-apart-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="when-fog-makes-ufo-distances-fall-apart-meteorology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fog-makes-ufo-distances-fall-apart-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="when-fog-makes-ufo-distances-fall-apart-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Diagram of meteorology Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/Db0AAeSwLH1o-Qkb/s-l225.jpg" alt="Listing image for Diagram of meteorology Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fog-makes-ufo-distances-fall-apart-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="when-fog-makes-ufo-distances-fall-apart-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer">Diagram of meteorology Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fog-makes-ufo-distances-fall-apart-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="when-fog-makes-ufo-distances-fall-apart-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorology poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: meteorology poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fog-makes-ufo-distances-fall-apart-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="when-fog-makes-ufo-distances-fall-apart-meteorology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fog-makes-ufo-distances-fall-apart-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="when-fog-makes-ufo-distances-fall-apart-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Meteorological Fusion Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/Z50AAeSwLgNpZShh/s-l225.jpg" alt="Listing image for Meteorological Fusion Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fog-makes-ufo-distances-fall-apart-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="when-fog-makes-ufo-distances-fall-apart-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer">Meteorological Fusion Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fog-makes-ufo-distances-fall-apart-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="when-fog-makes-ufo-distances-fall-apart-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorology poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteorology poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fog-makes-ufo-distances-fall-apart-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="when-fog-makes-ufo-distances-fall-apart-meteorology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fog-makes-ufo-distances-fall-apart-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="when-fog-makes-ufo-distances-fall-apart-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fog-makes-ufo-distances-fall-apart-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="when-fog-makes-ufo-distances-fall-apart-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Meteorological Fusion Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/Z50AAeSwLgNpZShh/s-l225.jpg" alt="Listing image for Meteorological Fusion Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fog-makes-ufo-distances-fall-apart-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="when-fog-makes-ufo-distances-fall-apart-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer">Meteorological Fusion Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fog-makes-ufo-distances-fall-apart-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="when-fog-makes-ufo-distances-fall-apart-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorology poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: meteorology poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fog-makes-ufo-distances-fall-apart-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="when-fog-makes-ufo-distances-fall-apart-meteorology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fog-makes-ufo-distances-fall-apart-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="when-fog-makes-ufo-distances-fall-apart-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -564,7 +564,7 @@ Fog does not merely conceal objects; it destroys the visual cues needed to judge
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -584,7 +584,7 @@ Fog does not merely conceal objects; it destroys the visual cues needed to judge
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -616,7 +616,7 @@ Fog does not merely conceal objects; it destroys the visual cues needed to judge
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -668,7 +668,7 @@ Fog does not merely conceal objects; it destroys the visual cues needed to judge
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -713,7 +713,7 @@ Fog does not merely conceal objects; it destroys the visual cues needed to judge
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -754,158 +754,158 @@ Fog does not merely conceal objects; it destroys the visual cues needed to judge
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: museum.wales  
    Title: What is fog  
-   Link: <a href="https://museum.wales/blog/2479/What-is-fog/" target="_blank" rel="noopener noreferrer nofollow">https://museum.wales/blog/2479/What-is-fog/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>?Feb 8, 2023 — The MET Office refers to thick fog when visibility is below 180m and dense fog when it&#x27;s below 50m (that&#x27;s the length of t...</p></details>
+   Link:<a href="https://museum.wales/blog/2479/What-is-fog/" target="_blank" rel="noopener noreferrer nofollow">https://museum.wales/blog/2479/What-is-fog/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>?Feb 8, 2023 — The MET Office refers to thick fog when visibility is below 180m and dense fog when it&#x27;s below 50m (that&#x27;s the length of t...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: onlinelibrary.wiley.com  
-   Link: <a href="https://onlinelibrary.wiley.com/doi/10.1155/2021/5531706" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/10.1155/2021/5531706</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryVisibility Detection Algorithm of Single Fog Image Based...Jun 25, 2021 — Visibility, also known as meteorological o...</p></details>
+   Link:<a href="https://onlinelibrary.wiley.com/doi/10.1155/2021/5531706" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/10.1155/2021/5531706</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryVisibility Detection Algorithm of Single Fog Image Based...Jun 25, 2021 — Visibility, also known as meteorological o...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: rmets.onlinelibrary.wiley.com  
-   Link: <a href="https://rmets.onlinelibrary.wiley.com/doi/10.1002/qj.70056" target="_blank" rel="noopener noreferrer nofollow">https://rmets.onlinelibrary.wiley.com/doi/10.1002/qj.70056</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The first one, 1000 m, follows the international definition of fog occurrence (...Read more...</p></details>
+   Link:<a href="https://rmets.onlinelibrary.wiley.com/doi/10.1002/qj.70056" target="_blank" rel="noopener noreferrer nofollow">https://rmets.onlinelibrary.wiley.com/doi/10.1002/qj.70056</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The first one, 1000 m, follows the international definition of fog occurrence (...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: staysafe.aero  
-   Link: <a href="https://staysafe.aero/en/gastbeitrag-meteoschweiz-mit-dem-herbst-beginnt-auch-wieder-die-nebelsaison/" target="_blank" rel="noopener noreferrer nofollow">https://staysafe.aero/en/gastbeitrag-meteoschweiz-mit-dem-herbst-beginnt-auch-wieder-die-nebelsaison/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>With autumn comes the return of the foggy season - Stay Safe17 Oct 2025 — By definition, fog is when the meteorological visibility (Met V...</p></details>
+   Link:<a href="https://staysafe.aero/en/gastbeitrag-meteoschweiz-mit-dem-herbst-beginnt-auch-wieder-die-nebelsaison/" target="_blank" rel="noopener noreferrer nofollow">https://staysafe.aero/en/gastbeitrag-meteoschweiz-mit-dem-herbst-beginnt-auch-wieder-die-nebelsaison/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>With autumn comes the return of the foggy season - Stay Safe17 Oct 2025 — By definition, fog is when the meteorological visibility (Met V...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: rmets.onlinelibrary.wiley.com  
-   Link: <a href="https://rmets.onlinelibrary.wiley.com/doi/10.1002/qj.70150" target="_blank" rel="noopener noreferrer nofollow">https://rmets.onlinelibrary.wiley.com/doi/10.1002/qj.70150</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>wiley.comFogCast: Probabilistic medium‐range fog forecasting using...6 Mar 2026 — The model shows high accuracy in detecting very dense...</p></details>
+   Link:<a href="https://rmets.onlinelibrary.wiley.com/doi/10.1002/qj.70150" target="_blank" rel="noopener noreferrer nofollow">https://rmets.onlinelibrary.wiley.com/doi/10.1002/qj.70150</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wiley.comFogCast: Probabilistic medium‐range fog forecasting using...6 Mar 2026 — The model shows high accuracy in detecting very dense...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: weather.metoffice.gov.uk  
-   Link: <a href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/fog" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/fog</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Met OfficeWhat is fog?Fog is essentially a cloud at ground level that causes a reduction in visibility to less than 1000 metres. What cau...</p></details>
+   Link:<a href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/fog" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/fog</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Met OfficeWhat is fog?Fog is essentially a cloud at ground level that causes a reduction in visibility to less than 1000 metres. What cau...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cloudatlas.wmo.int  
-   Link: <a href="https://cloudatlas.wmo.int/fog-compared-with-mist.html" target="_blank" rel="noopener noreferrer nofollow">https://cloudatlas.wmo.int/fog-compared-with-mist.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>International Cloud AtlasFog compared with Mist“Fog” is used when microscopic droplets reduce horizontal visibility at the Earth&#x27;s surfac...</p></details>
+   Link:<a href="https://cloudatlas.wmo.int/fog-compared-with-mist.html" target="_blank" rel="noopener noreferrer nofollow">https://cloudatlas.wmo.int/fog-compared-with-mist.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>International Cloud AtlasFog compared with Mist“Fog” is used when microscopic droplets reduce horizontal visibility at the Earth&#x27;s surfac...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: weather.metoffice.gov.uk  
-   Link: <a href="https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/travel/how-fog-affects-travel" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/travel/how-fog-affects-travel</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Met OfficeHow fog affects travelHow thick is fog? The official definition of fog is a visibility of less than 1,000 m. This limit is appr...</p></details>
+   Link:<a href="https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/travel/how-fog-affects-travel" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/travel/how-fog-affects-travel</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Met OfficeHow fog affects travelHow thick is fog? The official definition of fog is a visibility of less than 1,000 m. This limit is appr...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: faa.gov  
    Title: Federal Aviation Administration Chapter 7  
-   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap7_section_1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap7_section_1.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter 7. Safety of Flight... fog, haze or smoke increases the amount of scattered light reaching the receiver. The resulting measuremen...</p></details>
+   Link:<a href="https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap7_section_1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap7_section_1.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter 7. Safety of Flight... fog, haze or smoke increases the amount of scattered light reaching the receiver. The resulting measuremen...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>If a descent occurs through clouds, smoke, or haze in order to land, the horizontal...Read more...</p></details>
+   Link:<a href="https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>If a descent occurs through clouds, smoke, or haze in order to land, the horizontal...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pilotinstitute.com  
    Title: how to read metar  
-   Link: <a href="https://pilotinstitute.com/how-to-read-metar/" target="_blank" rel="noopener noreferrer nofollow">https://pilotinstitute.com/how-to-read-metar/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pilot InstituteHow to Read a METAR19 Mar 2025 — Decoding a METAR involves reading wind, visibility, cloud cover, and temperature. METARs...</p></details>
+   Link:<a href="https://pilotinstitute.com/how-to-read-metar/" target="_blank" rel="noopener noreferrer nofollow">https://pilotinstitute.com/how-to-read-metar/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pilot InstituteHow to Read a METAR19 Mar 2025 — Decoding a METAR involves reading wind, visibility, cloud cover, and temperature. METARs...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: weather.metoffice.gov.uk  
-   Link: <a href="https://weather.metoffice.gov.uk/guides/what-does-this-forecast-mean" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/guides/what-does-this-forecast-mean</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Met OfficeWhat does this forecast mean?Visibility; VP (Very Poor), Less than 1,000 metres; P (Poor), Between 1,001 and 4,000 metres; M...</p></details>
+   Link:<a href="https://weather.metoffice.gov.uk/guides/what-does-this-forecast-mean" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/guides/what-does-this-forecast-mean</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Met OfficeWhat does this forecast mean?Visibility; VP (Very Poor), Less than 1,000 metres; P (Poor), Between 1,001 and 4,000 metres; M...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: metoffice.gov.uk  
-   Link: <a href="https://www.metoffice.gov.uk/blog/2025/whats-the-difference-between-mist-fog-and-haze" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/blog/2025/whats-the-difference-between-mist-fog-and-haze</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mist, fog, and haze: What&#x27;s the difference?10 Sept 2025 — Fog is essentially a cloud at ground level that causes a reduction in visibilit...</p></details>
+   Link:<a href="https://www.metoffice.gov.uk/blog/2025/whats-the-difference-between-mist-fog-and-haze" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/blog/2025/whats-the-difference-between-mist-fog-and-haze</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mist, fog, and haze: What&#x27;s the difference?10 Sept 2025 — Fog is essentially a cloud at ground level that causes a reduction in visibilit...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: weather.metoffice.gov.uk  
-   Link: <a href="https://weather.metoffice.gov.uk/guides/coast-and-sea/glossary" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/guides/coast-and-sea/glossary</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>forecasts glossaryVisibility. Very poor. Visibility less than 1,000 metres. Poor. Visibility between 1,000 metres and 2 nautical miles. M...</p></details>
+   Link:<a href="https://weather.metoffice.gov.uk/guides/coast-and-sea/glossary" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/guides/coast-and-sea/glossary</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>forecasts glossaryVisibility. Very poor. Visibility less than 1,000 metres. Poor. Visibility between 1,000 metres and 2 nautical miles. M...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: metoffice.gov.uk  
    Title: what is anticyclonic gloom  
-   Link: <a href="https://www.metoffice.gov.uk/blog/2025/what-is-anticyclonic-gloom" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/blog/2025/what-is-anticyclonic-gloom</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>?13 Oct 2025 — Anticyclonic gloom occurs when a high-pressure system settles over the UK, creating a stable [atmosphere](&amp;#123;&amp;#123; &#x27;atmosphere/&#x27; | relative_url &amp;#125;&amp;#125;) that suppresses ve...</p></details>
+   Link:<a href="https://www.metoffice.gov.uk/blog/2025/what-is-anticyclonic-gloom" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/blog/2025/what-is-anticyclonic-gloom</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>?13 Oct 2025 — Anticyclonic gloom occurs when a high-pressure system settles over the UK, creating a stable [atmosphere](&amp;#123;&amp;#123; &#x27;atmosphere/&#x27; | relative_url &amp;#125;&amp;#125;) that suppresses ve...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/air_traffic/publications/ATpubs/AIM/aim0701.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/ATpubs/AIM/aim0701.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>t along with inputs from the runway light...Read more...</p></details>
+   Link:<a href="https://www.faa.gov/air_traffic/publications/ATpubs/AIM/aim0701.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/ATpubs/AIM/aim0701.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>t along with inputs from the runway light...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: pilotinstitute.com  
    Title: How Can [Pilots](&#123;&#123; 'pilots/' | relative_url &#125;&#125;) Fly at Night?  
-   Link: <a href="https://pilotinstitute.com/night-flying-airplanes/" target="_blank" rel="noopener noreferrer nofollow">https://pilotinstitute.com/night-flying-airplanes/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>See What&#x27;s Required31 Dec 2025 — Position lights: Also known as navigation lights (red, green, white), required for all night VFR. Source...</p></details>
+   Link:<a href="https://pilotinstitute.com/night-flying-airplanes/" target="_blank" rel="noopener noreferrer nofollow">https://pilotinstitute.com/night-flying-airplanes/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>See What&#x27;s Required31 Dec 2025 — Position lights: Also known as navigation lights (red, green, white), required for all night VFR. Source...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Visibility" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Visibility</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>VisibilityIn meteorology, visibility is the measure of the distance at which an object or light can be clearly discerned.Read more...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Visibility" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Visibility</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>VisibilityIn meteorology, visibility is the measure of the distance at which an object or light can be clearly discerned.Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: studyguides.com  
    Title: Visibility, Distance of (Meteorology)  
-   Link: <a href="https://studyguides.com/study-methods/overview/cmmn8i342e92501aab33d3sv5" target="_blank" rel="noopener noreferrer nofollow">https://studyguides.com/study-methods/overview/cmmn8i342e92501aab33d3sv5</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Overview2 days ago — Visibility is also categorized by impairment type, such as fog (under 1000 meters), mist (1000-2000 meters), and haz...</p></details>
+   Link:<a href="https://studyguides.com/study-methods/overview/cmmn8i342e92501aab33d3sv5" target="_blank" rel="noopener noreferrer nofollow">https://studyguides.com/study-methods/overview/cmmn8i342e92501aab33d3sv5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Overview2 days ago — Visibility is also categorized by impairment type, such as fog (under 1000 meters), mist (1000-2000 meters), and haz...</p></details>
 
 ### Additional References
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: aviationweather.gov  
    Title: CEILING S & VISIBILITYVisibility may be reduced to less than ¼ mile. Haze (HZ)  
-   Link: <a href="https://aviationweather.gov/outreach/AWC%20CV%20Flyer.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aviationweather.gov/outreach/AWC%20CV%20Flyer.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CEILINGS &amp; VISIBILITYVisibility may be reduced to less than ¼ mile. Haze (HZ) - Microscopic particles suspended in the air which scatter...</p></details>
+   Link:<a href="https://aviationweather.gov/outreach/AWC%20CV%20Flyer.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aviationweather.gov/outreach/AWC%20CV%20Flyer.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CEILINGS &amp; VISIBILITYVisibility may be reduced to less than ¼ mile. Haze (HZ) - Microscopic particles suspended in the air which scatter...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: cfinotebook.net  
-   Link: <a href="https://www.cfinotebook.net/notebook/weather-and-atmosphere/obstructions-to-visibility" target="_blank" rel="noopener noreferrer nofollow">https://www.cfinotebook.net/notebook/weather-and-atmosphere/obstructions-to-visibility</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Obstructions To VisibilityUnderstanding obstructions to visibility helps pilots recognize how phenomena such as fog, haze, smoke, and pre...</p></details>
+   Link:<a href="https://www.cfinotebook.net/notebook/weather-and-atmosphere/obstructions-to-visibility" target="_blank" rel="noopener noreferrer nofollow">https://www.cfinotebook.net/notebook/weather-and-atmosphere/obstructions-to-visibility</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Obstructions To VisibilityUnderstanding obstructions to visibility helps pilots recognize how phenomena such as fog, haze, smoke, and pre...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/faa/taking-the-fright-out-of-rotorcraft-night-flight-01ed87194c75" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/faa/taking-the-fright-out-of-rotorcraft-night-flight-01ed87194c75</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Taking the Fright Out of Rotorcraft Night FlightThreats such as reduced visibility, altered depth perception, and diminished spatial awar...</p></details>
+   Link:<a href="https://medium.com/faa/taking-the-fright-out-of-rotorcraft-night-flight-01ed87194c75" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/faa/taking-the-fright-out-of-rotorcraft-night-flight-01ed87194c75</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Taking the Fright Out of Rotorcraft Night FlightThreats such as reduced visibility, altered depth perception, and diminished spatial awar...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: climate.weather.gc.ca  
-   Link: <a href="https://climate.weather.gc.ca/glossary_e.html" target="_blank" rel="noopener noreferrer nofollow">https://climate.weather.gc.ca/glossary_e.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>weather.gc.caGlossaryFog. A visible aggregate of minute water droplets suspended in the air at or near the surface of the earth, reducing...</p></details>
+   Link:<a href="https://climate.weather.gc.ca/glossary_e.html" target="_blank" rel="noopener noreferrer nofollow">https://climate.weather.gc.ca/glossary_e.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>weather.gc.caGlossaryFog. A visible aggregate of minute water droplets suspended in the air at or near the surface of the earth, reducing...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: canada.ca  
-   Link: <a href="https://www.canada.ca/en/environment-climate-change/services/weather-manuals-documentation/manobs-surface-observations.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/environment-climate-change/services/weather-manuals-documentation/manobs-surface-observations.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Manual of Surface Weather Observation Standards...The apparent visibility in the fog patch shall be ½ mi. or less. BCFG should be...</p></details>
+   Link:<a href="https://www.canada.ca/en/environment-climate-change/services/weather-manuals-documentation/manobs-surface-observations.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/environment-climate-change/services/weather-manuals-documentation/manobs-surface-observations.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Manual of Surface Weather Observation Standards...The apparent visibility in the fog patch shall be ½ mi. or less. BCFG should be...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: cloudatlas.wmo.int  
-   Link: <a href="https://cloudatlas.wmo.int/fog.html" target="_blank" rel="noopener noreferrer nofollow">https://cloudatlas.wmo.int/fog.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wmo.intFogDefinition: Fog: A suspension of very small, usually microscopic water droplets in the air, reducing visibility at the Earth&#x27;s...</p></details>
+   Link:<a href="https://cloudatlas.wmo.int/fog.html" target="_blank" rel="noopener noreferrer nofollow">https://cloudatlas.wmo.int/fog.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wmo.intFogDefinition: Fog: A suspension of very small, usually microscopic water droplets in the air, reducing visibility at the Earth&#x27;s...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8918085/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8918085/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>review on factors influencing fog formation, classification...by K Lakra · 2022 · Cited by 105 — Lower visibility range &lt; 1 km is the pr...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8918085/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8918085/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>review on factors influencing fog formation, classification...by K Lakra · 2022 · Cited by 105 — Lower visibility range &lt; 1 km is the pr...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: haisenglobal.com  
    Title: transmissometer visibility meter key role in airport weather safety  
-   Link: <a href="https://www.haisenglobal.com/blog/transmissometer-visibility-meter-key-role-in-airport-weather-safety" target="_blank" rel="noopener noreferrer nofollow">https://www.haisenglobal.com/blog/transmissometer-visibility-meter-key-role-in-airport-weather-safety</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Transmissometer (Visibility Meter): Key Role in Airport...27 Aug 2025 — The Transmissometer, also known as a Visibility Meter, is an indi...</p></details>
+   Link:<a href="https://www.haisenglobal.com/blog/transmissometer-visibility-meter-key-role-in-airport-weather-safety" target="_blank" rel="noopener noreferrer nofollow">https://www.haisenglobal.com/blog/transmissometer-visibility-meter-key-role-in-airport-weather-safety</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Transmissometer (Visibility Meter): Key Role in Airport...27 Aug 2025 — The Transmissometer, also known as a Visibility Meter, is an indi...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/figure/Fog-type-proportions-using-a-the-1-000m-visibility-threshold-10-262-events-in-total_fig3_362691816" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Fog-type-proportions-using-a-the-1-000m-visibility-threshold-10-262-events-in-total_fig3_362691816</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>fog events remain less affected due to their broader meteorological threshold range.Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/figure/Fog-type-proportions-using-a-the-1-000m-visibility-threshold-10-262-events-in-total_fig3_362691816" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Fog-type-proportions-using-a-the-1-000m-visibility-threshold-10-262-events-in-total_fig3_362691816</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>fog events remain less affected due to their broader meteorological threshold range.Read more...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: community.wmo.int  
    Title: int Guide to Instruments and Methods of Observation (WMO-No  
-   Link: <a href="https://community.wmo.int/site/knowledge-hub/programmes-and-initiatives/instruments-and-methods-of-observation-programme-imop/guide-instruments-and-methods-of-observation-wmo-no-8" target="_blank" rel="noopener noreferrer nofollow">https://community.wmo.int/site/knowledge-hub/programmes-and-initiatives/instruments-and-methods-of-observation-programme-imop/guide-instruments-and-methods-of-observation-wmo-no-8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>8)VOLUME I, MEASUREMENT OF METEOROLOGICAL VARIABLES; Chapter 1, General; Chapter 2, Measurement of temperature; Chapter 3, Measurement...</p></details>
+   Link:<a href="https://community.wmo.int/site/knowledge-hub/programmes-and-initiatives/instruments-and-methods-of-observation-programme-imop/guide-instruments-and-methods-of-observation-wmo-no-8" target="_blank" rel="noopener noreferrer nofollow">https://community.wmo.int/site/knowledge-hub/programmes-and-initiatives/instruments-and-methods-of-observation-programme-imop/guide-instruments-and-methods-of-observation-wmo-no-8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>8)VOLUME I, MEASUREMENT OF METEOROLOGICAL VARIABLES; Chapter 1, General; Chapter 2, Measurement of temperature; Chapter 3, Measurement...</p></details>

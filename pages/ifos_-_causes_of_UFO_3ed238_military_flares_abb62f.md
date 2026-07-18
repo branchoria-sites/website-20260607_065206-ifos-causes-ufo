@@ -504,26 +504,26 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_military_flares_abb62f-overvie
 Illumination flares and military training lights are one of the most convincing night-time causes of UFO reports because they can look motionless, organised and unusually bright even while they are simply burning under parachutes or being released during exercises. A single flare can appear to “hover”; several dropped in sequence can seem to form a line, triangle or structured craft; and as they fall behind hills, cloud or haze they can appear to wink out one by one. The key is context: these lights are often real, bright, visible to many witnesses and captured on video, but their apparent behaviour can be misleading without [range]({{ 'range/' | relative_url }}), wind, timing and training-area information.
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_military_flares_abb62f-overview.webp" | relative_url }}" alt="Overview image for Flares" loading="eager" decoding="sync" fetchpriority="high">
-This makes flares a useful IFO category, not a dismissive one. They explain why sincere observers may report hovering craft, silent formations or lights that brighten and fade, while later evidence points to military or rescue-training activity. The best-known examples, including parts of the [Phoenix Lights]({{ 'phoenix-lights/' | relative_url }}) and repeated [San Diego]({{ 'san-diego/' | relative_url }}) sightings, show how ordinary training lights can become memorable UFO events when seen from a city at night. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.deseret.com/1997/7/26/19325702/flares-not-ufos-caused-light-show-military-says/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deseret.com">[Deseret News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deseret.com</span><span class="citation-popover-title">News Flares, not UFOs, caused light show, military says – Deseret News</span><span class="citation-popover-snippet">News Flares, not UFOs, caused light show, military says – Deseret News</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcnews.com/US/strange-lights-off-san-diego-coast-locals-taking/story?id=85849918" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-title">ABC News Strange lights off San Diego coast have locals taking to social media</span><span class="citation-popover-snippet">ABC News Strange lights off San Diego coast have locals taking to social media</span></span></span>
+This makes flares a useful IFO category, not a dismissive one. They explain why sincere observers may report hovering craft, silent formations or lights that brighten and fade, while later evidence points to military or rescue-training activity. The best-known examples, including parts of the [Phoenix Lights]({{ 'phoenix-lights/' | relative_url }}) and repeated [San Diego]({{ 'san-diego/' | relative_url }}) sightings, show how ordinary training lights can become memorable UFO events when seen from a city at night.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.deseret.com/1997/7/26/19325702/flares-not-ufos-caused-light-show-military-says/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deseret.com">[Deseret News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deseret.com</span><span class="citation-popover-title">News Flares, not UFOs, caused light show, military says – Deseret News</span><span class="citation-popover-snippet">News Flares, not UFOs, caused light show, military says – Deseret News</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcnews.com/US/strange-lights-off-san-diego-coast-locals-taking/story?id=85849918" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-title">ABC News Strange lights off San Diego coast have locals taking to social media</span><span class="citation-popover-snippet">ABC News Strange lights off San Diego coast have locals taking to social media</span></span></span>
 
 ## Why a falling flare can look like a hovering craft
 
-A military illumination flare is designed to do the opposite of what a normal aircraft light does. It is meant to hang in the sky long enough to light a target area below. Large aircraft parachute flares such as the LUU-2 are ejected from an aircraft or dispenser, ignite a magnesium candle, deploy under a parachute and produce an intense white light; technical descriptions give the LUU-2B a light output of about 1.8 million candlepower and a burn time of roughly five minutes while suspended under its parachute. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.globalsecurity.org/military/systems/munitions/luu2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalsecurity.org">[GlobalSecurity]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalsecurity.org</span><span class="citation-popover-title">Global Security LUU-2 Flare</span><span class="citation-popover-snippet">Global Security LUU-2 Flare</span></span></span>
+A military illumination flare is designed to do the opposite of what a normal aircraft light does. It is meant to hang in the sky long enough to light a target area below. Large aircraft parachute flares such as the LUU-2 are ejected from an aircraft or dispenser, ignite a magnesium candle, deploy under a parachute and produce an intense white light; technical descriptions give the LUU-2B a light output of about 1.8 million candlepower and a burn time of roughly five minutes while suspended under its parachute.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.globalsecurity.org/military/systems/munitions/luu2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalsecurity.org">[GlobalSecurity]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalsecurity.org</span><span class="citation-popover-title">Global Security LUU-2 Flare</span><span class="citation-popover-snippet">Global Security LUU-2 Flare</span></span></span>
 
 That slow, suspended burn is exactly what can fool the eye. At night, an observer may have no reliable sense of distance. A bright light ten or twenty miles away can look like a smaller object much closer. If the flare is descending slowly, the motion may be too subtle to notice, especially when the viewer is looking toward a dark horizon without visible landmarks. Wind drift can add sideways movement, and a sequence of releases can create the impression of lights maintaining formation.
 
-Flares also do not behave like steady lamps. The LUU-2 page at GlobalSecurity notes that the magnesium candle gives a bright white light, that the burning aluminium case can add an orange tint, and that flare brightness can fluctuate because the burn is uneven. That helps explain reports of orange, reddish, pulsing or shimmering lights that seem to brighten and fade rather than blink like normal aircraft navigation lights. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.globalsecurity.org/military/systems/munitions/luu2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalsecurity.org">[GlobalSecurity]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalsecurity.org</span><span class="citation-popover-title">Global Security LUU-2 Flare</span><span class="citation-popover-snippet">Global Security LUU-2 Flare</span></span></span>
+Flares also do not behave like steady lamps. The LUU-2 page at GlobalSecurity notes that the magnesium candle gives a bright white light, that the burning aluminium case can add an orange tint, and that flare brightness can fluctuate because the burn is uneven. That helps explain reports of orange, reddish, pulsing or shimmering lights that seem to brighten and fade rather than blink like normal aircraft navigation lights.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.globalsecurity.org/military/systems/munitions/luu2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalsecurity.org">[GlobalSecurity]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalsecurity.org</span><span class="citation-popover-title">Global Security LUU-2 Flare</span><span class="citation-popover-snippet">Global Security LUU-2 Flare</span></span></span>
 
 The final seconds can be especially deceptive. When a flare burns out, the light does not have to “fly away”; it can simply disappear. If several flares are falling behind a mountain ridge or marine cloud layer, they may vanish one after another, giving the impression that a row of lights is turning off in sequence on the underside of a large object. This is why witness descriptions such as “hovered, then faded out” are compatible with flares, provided the timing, direction and local training activity also fit.
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_military_flares_abb62f-Illustration-1-dark.svg" | relative_url }}" alt="Flares illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_military_flares_abb62f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_military_flares_abb62f-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Training ranges and timing are the strongest clues
 
-The most useful question is not only “does it look like a flare?” but “was there a plausible flare source at that place and time?” Military flare sightings cluster near training areas, coastlines, bombing [ranges]({{ 'ranges/' | relative_url }}) and air weapons ranges because those are the places where aircraft and ground forces practise night operations. The UK Ministry of Defence, for example, publishes information on low-flying military exercises and air weapons range activity; it lists air weapons ranges used for low-flying military aircraft and air-to-ground bombing, and separately publishes firing notices for military ranges. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/low-flying-in-your-area/where-and-when-low-flying-happens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Low flying military aircraft</span><span class="citation-popover-snippet">Low flying military aircraft</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/military-low-flying-mod-sponsored-air-exercises" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Military low flying: MOD sponsored air exercises</span><span class="citation-popover-snippet">Military low flying: MOD sponsored air exercises</span></span></span>
+The most useful question is not only “does it look like a flare?” but “was there a plausible flare source at that place and time?” Military flare sightings cluster near training areas, coastlines, bombing [ranges]({{ 'ranges/' | relative_url }}) and air weapons ranges because those are the places where aircraft and ground forces practise night operations. The UK Ministry of Defence, for example, publishes information on low-flying military exercises and air weapons range activity; it lists air weapons ranges used for low-flying military aircraft and air-to-ground bombing, and separately publishes firing notices for military ranges.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/low-flying-in-your-area/where-and-when-low-flying-happens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Low flying military aircraft</span><span class="citation-popover-snippet">Low flying military aircraft</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/military-low-flying-mod-sponsored-air-exercises" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Military low flying: MOD sponsored air exercises</span><span class="citation-popover-snippet">Military low flying: MOD sponsored air exercises</span></span></span>
 
 That matters for UFO investigation because military exercise schedules can turn a vague report into a testable claim. A line of lights seen over open water near a naval air station is not the same evidential situation as the same lights seen over a city with no relevant airspace, range or training notice nearby. The former has a built-in conventional hypothesis; the latter may require broader checking.
 
-Modern UAP reporting also shows why training areas produce both real observations and confusing interpretations. The 2021 U.S. intelligence community preliminary assessment said UAP observations tended to cluster around U.S. training and testing grounds, while warning that this may reflect collection bias: more sensors, more trained observers, expectations to report anomalies and concentrated military activity in those areas. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[ODNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Modern UAP reporting also shows why training areas produce both real observations and confusing interpretations. The 2021 U.S. intelligence community preliminary assessment said UAP observations tended to cluster around U.S. training and testing grounds, while warning that this may reflect collection bias: more sensors, more trained observers, expectations to report anomalies and concentrated military activity in those areas.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[ODNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 For flares specifically, the pattern is familiar:
 
@@ -545,19 +545,19 @@ A careful identification therefore needs time, compass direction, elevation, [wi
 
 The Phoenix Lights of 13 March 1997 remain one of the clearest examples of why flare explanations are both useful and contested. The event is often discussed as a single mass sighting, but investigators commonly separate it into more than one episode: earlier reports of a moving V-shaped formation across Arizona, and later reports of bright lights over the Phoenix area. The later light display is the part most strongly associated with military flares.
 
-In July 1997, military officials said visiting Maryland Air National Guard A-10 jets had been flying training missions over the Barry M. Goldwater Air Force Range, about 60 miles southwest of Phoenix. According to Associated Press reporting at the time, the aircraft were using high-intensity flares dropped from 15,000 feet to illuminate the target area, and the flares fell slowly by parachute while lighting a wide area. The same report noted that aircraft dumped remaining flares at high altitude before returning to Davis-Monthan Air Force Base. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.deseret.com/1997/7/26/19325702/flares-not-ufos-caused-light-show-military-says/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deseret.com">[Deseret News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deseret.com</span><span class="citation-popover-title">News Flares, not UFOs, caused light show, military says – Deseret News</span><span class="citation-popover-snippet">News Flares, not UFOs, caused light show, military says – Deseret News</span></span></span>
+In July 1997, military officials said visiting Maryland Air National Guard A-10 jets had been flying training missions over the Barry M. Goldwater Air Force Range, about 60 miles southwest of Phoenix. According to Associated Press reporting at the time, the aircraft were using high-intensity flares dropped from 15,000 feet to illuminate the target area, and the flares fell slowly by parachute while lighting a wide area. The same report noted that aircraft dumped remaining flares at high altitude before returning to Davis-Monthan Air Force Base.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.deseret.com/1997/7/26/19325702/flares-not-ufos-caused-light-show-military-says/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deseret.com">[Deseret News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deseret.com</span><span class="citation-popover-title">News Flares, not UFOs, caused light show, military says – Deseret News</span><span class="citation-popover-snippet">News Flares, not UFOs, caused light show, military says – Deseret News</span></span></span>
 
-That explanation fits several features of the later Phoenix reports: brilliant lights, slow apparent motion, a location consistent with a military range, and lights that seemed to hang and then disappear. It also fits the way parachute flares can produce a row of separated points rather than the outline of a physical craft. Technical flare characteristics make this plausible: a multi-minute burn, intense light output and slow descent are precisely the ingredients needed for a display visible over a large area. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.globalsecurity.org/military/systems/munitions/luu2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalsecurity.org">[GlobalSecurity]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalsecurity.org</span><span class="citation-popover-title">Global Security LUU-2 Flare</span><span class="citation-popover-snippet">Global Security LUU-2 Flare</span></span></span>
+That explanation fits several features of the later Phoenix reports: brilliant lights, slow apparent motion, a location consistent with a military range, and lights that seemed to hang and then disappear. It also fits the way parachute flares can produce a row of separated points rather than the outline of a physical craft. Technical flare characteristics make this plausible: a multi-minute burn, intense light output and slow descent are precisely the ingredients needed for a display visible over a large area.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.globalsecurity.org/military/systems/munitions/luu2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalsecurity.org">[GlobalSecurity]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalsecurity.org</span><span class="citation-popover-title">Global Security LUU-2 Flare</span><span class="citation-popover-snippet">Global Security LUU-2 Flare</span></span></span>
 
-The limits are equally important. The same 1997 Associated Press account noted that the flare explanation did not necessarily explain reports from north-western Arizona up to 200 miles away, and some witnesses and local officials remained unconvinced. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.deseret.com/1997/7/26/19325702/flares-not-ufos-caused-light-show-military-says/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deseret.com">[Deseret News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deseret.com</span><span class="citation-popover-title">News Flares, not UFOs, caused light show, military says – Deseret News</span><span class="citation-popover-snippet">News Flares, not UFOs, caused light show, military says – Deseret News</span></span></span> That does not make the flare explanation weak for the later Phoenix light display; it shows why investigators should avoid collapsing every witness statement into one event. A flare can explain one phase of a famous UFO case while other reports from the same night need separate treatment.
+The limits are equally important. The same 1997 Associated Press account noted that the flare explanation did not necessarily explain reports from north-western Arizona up to 200 miles away, and some witnesses and local officials remained unconvinced.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.deseret.com/1997/7/26/19325702/flares-not-ufos-caused-light-show-military-says/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deseret.com">[Deseret News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deseret.com</span><span class="citation-popover-title">News Flares, not UFOs, caused light show, military says – Deseret News</span><span class="citation-popover-snippet">News Flares, not UFOs, caused light show, military says – Deseret News</span></span></span> That does not make the flare explanation weak for the later Phoenix light display; it shows why investigators should avoid collapsing every witness statement into one event. A flare can explain one phase of a famous UFO case while other reports from the same night need separate treatment.
 
 ## San Diego shows how flares become social-media UFOs
 
-San Diego provides a modern, repeatable version of the same problem. In August 2018, residents across San Diego County reported strange lights in the western sky between about 8 p.m. and 8.30 p.m. A local ABC affiliate reported calls from Blossom Valley, La Jolla, Del Mar, Chula Vista and El Cajon, with viewer photographs showing yellow lights floating together. Naval Air Station North Island confirmed that the lights were flares used during training exercises. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.10news.com/news/san-diego-county-residents-report-seeing-strange-lights-hovering-in-the-sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 10news.com">[ABC 10 News San Diego KGTV]</a><span class="citation-popover" role="note"><span class="citation-popover-source">10news.com</span><span class="citation-popover-title">ABC 10 News San Diego KGTVNavy: Mystery lights were from training exercise</span><span class="citation-popover-snippet">ABC 10 News San Diego KGTVNavy: Mystery lights were from training exercise</span></span></span>
+San Diego provides a modern, repeatable version of the same problem. In August 2018, residents across San Diego County reported strange lights in the western sky between about 8 p.m. and 8.30 p.m. A local ABC affiliate reported calls from Blossom Valley, La Jolla, Del Mar, Chula Vista and El Cajon, with viewer photographs showing yellow lights floating together. Naval Air Station North Island confirmed that the lights were flares used during training exercises.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.10news.com/news/san-diego-county-residents-report-seeing-strange-lights-hovering-in-the-sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 10news.com">[ABC 10 News San Diego KGTV]</a><span class="citation-popover" role="note"><span class="citation-popover-source">10news.com</span><span class="citation-popover-title">ABC 10 News San Diego KGTVNavy: Mystery lights were from training exercise</span><span class="citation-popover-snippet">ABC 10 News San Diego KGTVNavy: Mystery lights were from training exercise</span></span></span>
 
-The same event was reported by Times of San Diego as a Navy training mission off the coast of Imperial Beach, with a Navy spokeswoman confirming that the exercise was taking place about 30 miles off the San Diego coast. The lights were visible as far away as La Mesa, and the drills were expected to continue the following evening. <span class="citation-chip-wrap"><a class="citation-chip" href="https://timesofsandiego.com/military/2018/08/30/mysterious-lights-seen-over-san-diego-were-flares-from-navy-exercise/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesofsandiego.com">[Times of San Diego]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesofsandiego.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The same event was reported by Times of San Diego as a Navy training mission off the coast of Imperial Beach, with a Navy spokeswoman confirming that the exercise was taking place about 30 miles off the San Diego coast. The lights were visible as far away as La Mesa, and the drills were expected to continue the following evening.<span class="citation-chip-wrap"><a class="citation-chip" href="https://timesofsandiego.com/military/2018/08/30/mysterious-lights-seen-over-san-diego-were-flares-from-navy-exercise/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesofsandiego.com">[Times of San Diego]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesofsandiego.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-A similar pattern appeared in June 2022, when orange lights off the San Diego coast triggered social-media speculation about UFOs, [drones]({{ 'drones/' | relative_url }}) and other possibilities. ABC News reported that the San Diego Police Department said the lights were flares being used for military exercises, and that military officials had confirmed this to police even though nearby installations initially did not provide a simple public answer. Witness video descriptions included “floating”, “very still”, “very bright” lights in changing patterns of two to six. <span class="citation-chip-wrap"><a class="citation-chip" href="https://abcnews.com/US/strange-lights-off-san-diego-coast-locals-taking/story?id=85849918" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-title">ABC News Strange lights off San Diego coast have locals taking to social media</span><span class="citation-popover-snippet">ABC News Strange lights off San Diego coast have locals taking to social media</span></span></span>
+A similar pattern appeared in June 2022, when orange lights off the San Diego coast triggered social-media speculation about UFOs, [drones]({{ 'drones/' | relative_url }}) and other possibilities. ABC News reported that the San Diego Police Department said the lights were flares being used for military exercises, and that military officials had confirmed this to police even though nearby installations initially did not provide a simple public answer. Witness video descriptions included “floating”, “very still”, “very bright” lights in changing patterns of two to six.<span class="citation-chip-wrap"><a class="citation-chip" href="https://abcnews.com/US/strange-lights-off-san-diego-coast-locals-taking/story?id=85849918" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-title">ABC News Strange lights off San Diego coast have locals taking to social media</span><span class="citation-popover-snippet">ABC News Strange lights off San Diego coast have locals taking to social media</span></span></span>
 
 These cases matter because they show how quickly flare sightings now spread. A witness posts a short video of bright, stationary-looking lights; others across a large area confirm they saw the same thing; the lack of immediate official clarity leaves room for speculation; and by the time confirmation arrives, the UFO interpretation may already be circulating. Flares are therefore not only an optical problem but an information-timing problem.
 
@@ -566,7 +566,7 @@ These cases matter because they show how quickly flare sightings now spread. A w
 
 The fading behaviour of flares is one of the main reasons they are mistaken for structured craft. A light that simply goes out can feel stranger than one that visibly flies away. In a flare event, several ordinary processes can create this effect.
 
-First, the pyrotechnic candle burns out. The LUU-2 description notes that after candle burnout an explosive bolt releases a parachute support cable, causing the parachute to collapse; Navy training material similarly describes the flare candle approaching the end of its burn, the heat activating an explosive bolt and the parachute collapsing as the flare falls. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.globalsecurity.org/military/systems/munitions/luu2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalsecurity.org">[GlobalSecurity]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalsecurity.org</span><span class="citation-popover-title">Global Security LUU-2 Flare</span><span class="citation-popover-snippet">Global Security LUU-2 Flare</span></span></span> From the ground, the visible result may be a sudden disappearance rather than a visible descent.
+First, the pyrotechnic candle burns out. The LUU-2 description notes that after candle burnout an explosive bolt releases a parachute support cable, causing the parachute to collapse; Navy training material similarly describes the flare candle approaching the end of its burn, the heat activating an explosive bolt and the parachute collapsing as the flare falls.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.globalsecurity.org/military/systems/munitions/luu2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalsecurity.org">[GlobalSecurity]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalsecurity.org</span><span class="citation-popover-title">Global Security LUU-2 Flare</span><span class="citation-popover-snippet">Global Security LUU-2 Flare</span></span></span> From the ground, the visible result may be a sudden disappearance rather than a visible descent.
 
 Second, terrain can hide the lower part of the fall. If a flare is over a range beyond a ridge, it may remain visible while high enough, then vanish as it drops behind the horizon line. At night, the ridge itself may be invisible, so the disappearance seems to happen in open sky. This is often more persuasive to a witness than a normal aircraft explanation because aircraft lights usually move, blink or continue along a track.
 
@@ -612,201 +612,201 @@ None of this means every orange light is a flare. It means flare identification 
 
 Because flares are a familiar UFO explanation, they are sometimes overused. A flare claim is weak when it is offered without a source, without matching geography, or without explaining the detailed timing of the lights. It is also weak when the reported object shows behaviour inconsistent with a descending pyrotechnic source, such as rapid acceleration from rest, repeated sharp turns, long-duration flight well beyond a flare’s burn time, or movement against measured wind with no aircraft or platform explanation.
 
-Official confirmation also needs careful reading. In San Diego, the 2022 reports became clearer when police said military officials had confirmed the lights as exercise flares, even though nearby installations did not initially provide the same direct public answer. <span class="citation-chip-wrap"><a class="citation-chip" href="https://abcnews.com/US/strange-lights-off-san-diego-coast-locals-taking/story?id=85849918" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-title">ABC News Strange lights off San Diego coast have locals taking to social media</span><span class="citation-popover-snippet">ABC News Strange lights off San Diego coast have locals taking to social media</span></span></span> In Phoenix, the flare explanation is strong for the later light display but does not automatically settle every earlier report from the same night. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.deseret.com/1997/7/26/19325702/flares-not-ufos-caused-light-show-military-says/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deseret.com">[Deseret News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deseret.com</span><span class="citation-popover-title">News Flares, not UFOs, caused light show, military says – Deseret News</span><span class="citation-popover-snippet">News Flares, not UFOs, caused light show, military says – Deseret News</span></span></span>
+Official confirmation also needs careful reading. In San Diego, the 2022 reports became clearer when police said military officials had confirmed the lights as exercise flares, even though nearby installations did not initially provide the same direct public answer.<span class="citation-chip-wrap"><a class="citation-chip" href="https://abcnews.com/US/strange-lights-off-san-diego-coast-locals-taking/story?id=85849918" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-title">ABC News Strange lights off San Diego coast have locals taking to social media</span><span class="citation-popover-snippet">ABC News Strange lights off San Diego coast have locals taking to social media</span></span></span> In Phoenix, the flare explanation is strong for the later light display but does not automatically settle every earlier report from the same night.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.deseret.com/1997/7/26/19325702/flares-not-ufos-caused-light-show-military-says/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deseret.com">[Deseret News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deseret.com</span><span class="citation-popover-title">News Flares, not UFOs, caused light show, military says – Deseret News</span><span class="citation-popover-snippet">News Flares, not UFOs, caused light show, military says – Deseret News</span></span></span>
 
 The fair conclusion is practical: flares are a high-priority hypothesis for bright night-time lights near training areas, but not a magic word that ends investigation. They become a robust IFO explanation only when the physical behaviour, location, timing and exercise evidence line up.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nbC6dFb35Jo" title="Former Military Radar Technician Reacts to Newly Declassified UAP Evidence" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nbC6dFb35Jo" target="_blank" rel="noopener noreferrer">Former Military Radar Technician Reacts to Newly Declassified UAP Evidence</a></p><p class="youtube-embed-meta">Channel: Wes O&#x27;Donnell &middot; Views: 12.1K &middot; Uploaded: May 2026 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nbC6dFb35Jo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nbC6dFb35Jo">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Flares Look Like Hovering Craft. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Flares Look Like Hovering Craft. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ATZGAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Handbook">The UFO Handbook</a>
-        </h4>
-        <p class="fr-book-author">By Allan Hendry</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ATZGAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Handbook">The UFO Handbook</a>
+</h4>
+<p class="fr-book-author">By Allan Hendry</p>
         
-        <p class="fr-book-desc">Covers ordinary causes and evaluation methods relevant to flare cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers ordinary causes and evaluation methods relevant to flare cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Phoenix+Lights+by+Lynne+D+Kitei+M+D&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Phoenix Lights on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h4lkAQAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Phoenix Lights" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Phoenix+Lights+by+Lynne+D+Kitei+M+D&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Phoenix Lights">The Phoenix Lights</a>
-        </h4>
-        <p class="fr-book-author">By Lynne D Kitei M D</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Phoenix+Lights+by+Lynne+D+Kitei+M+D&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Phoenix Lights on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h4lkAQAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Phoenix Lights" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Phoenix+Lights+by+Lynne+D+Kitei+M+D&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Phoenix Lights">The Phoenix Lights</a>
+</h4>
+<p class="fr-book-author">By Lynne D Kitei M D</p>
         
-        <p class="fr-book-desc">Directly relevant to public discussion of the Phoenix Lights and flare explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Phoenix+Lights+by+Lynne+D+Kitei+M+D&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relevant to public discussion of the Phoenix Lights and flare explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Phoenix+Lights+by+Lynne+D+Kitei+M+D&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides wider context for official and witness UFO claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides wider context for official and witness UFO claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Appeals to readers interested in military aviation contexts behind sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Appeals to readers interested in military aviation contexts behind sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Phoenix+Lights&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Phoenix Lights</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Phoenix+Lights&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Phoenix Lights</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flares-why-flares-look-like-hovering-craft-ifos-causes-of-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="flares-why-flares-look-like-hovering-craft-ifos-causes-of-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for INFLIGHT 200 WIZZAIR A321 NEO REG: HA-LVE"><img src="{{ '/assets/images/marketplace-covers/852199f853dc19bd98a5.jpg' | relative_url }}" alt="Listing image for INFLIGHT 200 WIZZAIR A321 NEO REG: HA-LVE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flares-why-flares-look-like-hovering-craft-ifos-causes-of-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="flares-why-flares-look-like-hovering-craft-ifos-causes-of-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">INFLIGHT 200 WIZZAIR A321 NEO REG: HA-LVE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flares-why-flares-look-like-hovering-craft-ifos-causes-of-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="flares-why-flares-look-like-hovering-craft-ifos-causes-of-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flares-why-flares-look-like-hovering-craft-ifos-causes-of-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="flares-why-flares-look-like-hovering-craft-ifos-causes-of-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flares-why-flares-look-like-hovering-craft-ifos-causes-of-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="flares-why-flares-look-like-hovering-craft-ifos-causes-of-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for INFLIGHT 200 WIZZAIR A321 NEO REG: HA-LVE"><img src="{{ '/assets/images/marketplace-covers/852199f853dc19bd98a5.jpg' | relative_url }}" alt="Listing image for INFLIGHT 200 WIZZAIR A321 NEO REG: HA-LVE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flares-why-flares-look-like-hovering-craft-ifos-causes-of-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="flares-why-flares-look-like-hovering-craft-ifos-causes-of-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">INFLIGHT 200 WIZZAIR A321 NEO REG: HA-LVE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flares-why-flares-look-like-hovering-craft-ifos-causes-of-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="flares-why-flares-look-like-hovering-craft-ifos-causes-of-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search<span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flares-why-flares-look-like-hovering-craft-ifos-causes-of-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="flares-why-flares-look-like-hovering-craft-ifos-causes-of-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flares-why-flares-look-like-hovering-craft-ifos-causes-of-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="flares-why-flares-look-like-hovering-craft-ifos-causes-of-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:72 YF-23 Black Widow II Stealth Fighter Jet Model Aircraft USAF Display"><img src="{{ '/assets/images/marketplace-covers/1d0767ae2714c1b8a296.jpg' | relative_url }}" alt="Listing image for 1:72 YF-23 Black Widow II Stealth Fighter Jet Model Aircraft USAF Display" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flares-why-flares-look-like-hovering-craft-ifos-causes-of-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="flares-why-flares-look-like-hovering-craft-ifos-causes-of-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">1:72 YF-23 Black Widow II Stealth Fighter Jet Model Aircraft USAF Display</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flares-why-flares-look-like-hovering-craft-ifos-causes-of-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="flares-why-flares-look-like-hovering-craft-ifos-causes-of-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flares-why-flares-look-like-hovering-craft-ifos-causes-of-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="flares-why-flares-look-like-hovering-craft-ifos-causes-of-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flares-why-flares-look-like-hovering-craft-ifos-causes-of-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="flares-why-flares-look-like-hovering-craft-ifos-causes-of-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:72 YF-23 Black Widow II Stealth Fighter Jet Model Aircraft USAF Display"><img src="{{ '/assets/images/marketplace-covers/1d0767ae2714c1b8a296.jpg' | relative_url }}" alt="Listing image for 1:72 YF-23 Black Widow II Stealth Fighter Jet Model Aircraft USAF Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flares-why-flares-look-like-hovering-craft-ifos-causes-of-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="flares-why-flares-look-like-hovering-craft-ifos-causes-of-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">1:72 YF-23 Black Widow II Stealth Fighter Jet Model Aircraft USAF Display</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flares-why-flares-look-like-hovering-craft-ifos-causes-of-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="flares-why-flares-look-like-hovering-craft-ifos-causes-of-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search<span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flares-why-flares-look-like-hovering-craft-ifos-causes-of-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="flares-why-flares-look-like-hovering-craft-ifos-causes-of-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flares-why-flares-look-like-hovering-craft-ifos-causes-of-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="flares-why-flares-look-like-hovering-craft-ifos-causes-of-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Diecast Metal Military Bomber Aircraft Model 4 Engines Red Star Silver"><img src="{{ '/assets/images/marketplace-covers/82e58d339e7f0c9303f6.jpg' | relative_url }}" alt="Listing image for Diecast Metal Military Bomber Aircraft Model 4 Engines Red Star Silver" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flares-why-flares-look-like-hovering-craft-ifos-causes-of-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="flares-why-flares-look-like-hovering-craft-ifos-causes-of-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">Diecast Metal Military Bomber Aircraft Model 4 Engines Red Star Silver</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flares-why-flares-look-like-hovering-craft-ifos-causes-of-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="flares-why-flares-look-like-hovering-craft-ifos-causes-of-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flares-why-flares-look-like-hovering-craft-ifos-causes-of-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="flares-why-flares-look-like-hovering-craft-ifos-causes-of-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flares-why-flares-look-like-hovering-craft-ifos-causes-of-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="flares-why-flares-look-like-hovering-craft-ifos-causes-of-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Diecast Metal Military Bomber Aircraft Model 4 Engines Red Star Silver"><img src="{{ '/assets/images/marketplace-covers/82e58d339e7f0c9303f6.jpg' | relative_url }}" alt="Listing image for Diecast Metal Military Bomber Aircraft Model 4 Engines Red Star Silver" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flares-why-flares-look-like-hovering-craft-ifos-causes-of-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="flares-why-flares-look-like-hovering-craft-ifos-causes-of-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">Diecast Metal Military Bomber Aircraft Model 4 Engines Red Star Silver</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flares-why-flares-look-like-hovering-craft-ifos-causes-of-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="flares-why-flares-look-like-hovering-craft-ifos-causes-of-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search<span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flares-why-flares-look-like-hovering-craft-ifos-causes-of-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="flares-why-flares-look-like-hovering-craft-ifos-causes-of-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flares-why-flares-look-like-hovering-craft-ifos-causes-of-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="flares-why-flares-look-like-hovering-craft-ifos-causes-of-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Harrier GR3 Pewter Jet Model Royal Hampshire 7.5&quot; In Length. Beautifully Made"><img src="{{ '/assets/images/marketplace-covers/823044ffaad25379db51.jpg' | relative_url }}" alt="Listing image for Harrier GR3 Pewter Jet Model Royal Hampshire 7.5&quot; In Length. Beautifully Made" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flares-why-flares-look-like-hovering-craft-ifos-causes-of-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="flares-why-flares-look-like-hovering-craft-ifos-causes-of-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">Harrier GR3 Pewter Jet Model Royal Hampshire 7.5&quot; In Length. Beautifully Made</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flares-why-flares-look-like-hovering-craft-ifos-causes-of-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="flares-why-flares-look-like-hovering-craft-ifos-causes-of-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flares-why-flares-look-like-hovering-craft-ifos-causes-of-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="flares-why-flares-look-like-hovering-craft-ifos-causes-of-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flares-why-flares-look-like-hovering-craft-ifos-causes-of-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="flares-why-flares-look-like-hovering-craft-ifos-causes-of-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flares-why-flares-look-like-hovering-craft-ifos-causes-of-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="flares-why-flares-look-like-hovering-craft-ifos-causes-of-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Harrier GR3 Pewter Jet Model Royal Hampshire 7.5&quot; In Length. Beautifully Made"><img src="{{ '/assets/images/marketplace-covers/823044ffaad25379db51.jpg' | relative_url }}" alt="Listing image for Harrier GR3 Pewter Jet Model Royal Hampshire 7.5&quot; In Length. Beautifully Made" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flares-why-flares-look-like-hovering-craft-ifos-causes-of-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="flares-why-flares-look-like-hovering-craft-ifos-causes-of-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">Harrier GR3 Pewter Jet Model Royal Hampshire 7.5&quot; In Length. Beautifully Made</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flares-why-flares-look-like-hovering-craft-ifos-causes-of-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="flares-why-flares-look-like-hovering-craft-ifos-causes-of-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search<span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flares-why-flares-look-like-hovering-craft-ifos-causes-of-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="flares-why-flares-look-like-hovering-craft-ifos-causes-of-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flares-why-flares-look-like-hovering-craft-ifos-causes-of-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="flares-why-flares-look-like-hovering-craft-ifos-causes-of-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -822,7 +822,7 @@ The fair conclusion is practical: flares are a high-priority hypothesis for brig
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -842,7 +842,7 @@ The fair conclusion is practical: flares are a high-priority hypothesis for brig
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -874,7 +874,7 @@ The fair conclusion is practical: flares are a high-priority hypothesis for brig
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -926,7 +926,7 @@ The fair conclusion is practical: flares are a high-priority hypothesis for brig
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -971,7 +971,7 @@ The fair conclusion is practical: flares are a high-priority hypothesis for brig
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1012,141 +1012,141 @@ The fair conclusion is practical: flares are a high-priority hypothesis for brig
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: deseret.com  
    Title: News Flares, not UFOs, caused light show, military says – Deseret News  
-   Link: <a href="https://www.deseret.com/1997/7/26/19325702/flares-not-ufos-caused-light-show-military-says/" target="_blank" rel="noopener noreferrer nofollow">https://www.deseret.com/1997/7/26/19325702/flares-not-ufos-caused-light-show-military-says/</a>  
+   Link:<a href="https://www.deseret.com/1997/7/26/19325702/flares-not-ufos-caused-light-show-military-says/" target="_blank" rel="noopener noreferrer nofollow">https://www.deseret.com/1997/7/26/19325702/flares-not-ufos-caused-light-show-military-says/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: 10news.com  
    Title: ABC 10 News San Diego KGTVNavy: Mystery lights were from training exercise  
-   Link: <a href="https://www.10news.com/news/san-diego-county-residents-report-seeing-strange-lights-hovering-in-the-sky" target="_blank" rel="noopener noreferrer nofollow">https://www.10news.com/news/san-diego-county-residents-report-seeing-strange-lights-hovering-in-the-sky</a>  
+   Link:<a href="https://www.10news.com/news/san-diego-county-residents-report-seeing-strange-lights-hovering-in-the-sky" target="_blank" rel="noopener noreferrer nofollow">https://www.10news.com/news/san-diego-county-residents-report-seeing-strange-lights-hovering-in-the-sky</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: globalsecurity.org  
    Title: Global Security LUU-2 Flare  
-   Link: <a href="https://www.globalsecurity.org/military/systems/munitions/luu2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.globalsecurity.org/military/systems/munitions/luu2.htm</a>  
+   Link:<a href="https://www.globalsecurity.org/military/systems/munitions/luu2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.globalsecurity.org/military/systems/munitions/luu2.htm</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: GOV.UK  
    Title: Low flying military aircraft  
-   Link: <a href="https://www.gov.uk/low-flying-in-your-area/where-and-when-low-flying-happens" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/low-flying-in-your-area/where-and-when-low-flying-happens</a>  
+   Link:<a href="https://www.gov.uk/low-flying-in-your-area/where-and-when-low-flying-happens" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/low-flying-in-your-area/where-and-when-low-flying-happens</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: GOV.UK  
    Title: Military low flying: MOD sponsored air exercises  
-   Link: <a href="https://www.gov.uk/government/publications/military-low-flying-mod-sponsored-air-exercises" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/military-low-flying-mod-sponsored-air-exercises</a>  
+   Link:<a href="https://www.gov.uk/government/publications/military-low-flying-mod-sponsored-air-exercises" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/military-low-flying-mod-sponsored-air-exercises</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: GOV.UK  
    Title: Military ranges firing notices  
-   Link: <a href="https://www.gov.uk/government/collections/firing-notice" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/collections/firing-notice</a>  
+   Link:<a href="https://www.gov.uk/government/collections/firing-notice" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/collections/firing-notice</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: dni.gov  
-   Link: <a href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf</a>  
+   Link:<a href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: globalsecurity.org  
-   Link: <a href="https://www.globalsecurity.org/military/systems/aircraft/systems/flares.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.globalsecurity.org/military/systems/aircraft/systems/flares.htm</a>  
+   Link:<a href="https://www.globalsecurity.org/military/systems/aircraft/systems/flares.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.globalsecurity.org/military/systems/aircraft/systems/flares.htm</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/6a0b1048fcae986635db90fd/fly2000seriesprint_2026_05_18.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/6a0b1048fcae986635db90fd/fly2000seriesprint_2026_05_18.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/6a0b1048fcae986635db90fd/fly2000seriesprint_2026_05_18.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/6a0b1048fcae986635db90fd/fly2000seriesprint_2026_05_18.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: legislation.gov.uk  
-   Link: <a href="https://www.legislation.gov.uk/uksi/2000/1562/made" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/uksi/2000/1562/made</a>  
+   Link:<a href="https://www.legislation.gov.uk/uksi/2000/1562/made" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/uksi/2000/1562/made</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: legislation.gov.uk  
-   Link: <a href="https://www.legislation.gov.uk/uksi/2007/3468/schedules/made" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/uksi/2007/3468/schedules/made</a>  
+   Link:<a href="https://www.legislation.gov.uk/uksi/2007/3468/schedules/made" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/uksi/2007/3468/schedules/made</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: legislation.gov.uk  
-   Link: <a href="https://www.legislation.gov.uk/uksi/2016/765/2017-12-14/data.xht?view=snippet&amp;wrap=true" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/uksi/2016/765/2017-12-14/data.xht?view=snippet&amp;wrap=true</a>  
+   Link:<a href="https://www.legislation.gov.uk/uksi/2016/765/2017-12-14/data.xht?view=snippet&amp;wrap=true" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/uksi/2016/765/2017-12-14/data.xht?view=snippet&amp;wrap=true</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: legislation.gov.uk  
-   Link: <a href="https://www.legislation.gov.uk/uksi/2005/1970/made?view=plain" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/uksi/2005/1970/made?view=plain</a>  
+   Link:<a href="https://www.legislation.gov.uk/uksi/2005/1970/made?view=plain" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/uksi/2005/1970/made?view=plain</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: legislation.gov.uk  
-   Link: <a href="https://www.legislation.gov.uk/uksi/2001/2128/made" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/uksi/2001/2128/made</a>  
+   Link:<a href="https://www.legislation.gov.uk/uksi/2001/2128/made" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/uksi/2001/2128/made</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: legislation.gov.uk  
-   Link: <a href="https://www.legislation.gov.uk/uksi/2016/765/schedules/data.html" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/uksi/2016/765/schedules/data.html</a>  
+   Link:<a href="https://www.legislation.gov.uk/uksi/2016/765/schedules/data.html" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/uksi/2016/765/schedules/data.html</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: abcnews.com  
    Title: ABC News Strange lights off San Diego coast have locals taking to social media  
-   Link: <a href="https://abcnews.com/US/strange-lights-off-san-diego-coast-locals-taking/story?id=85849918" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/US/strange-lights-off-san-diego-coast-locals-taking/story?id=85849918</a>  
+   Link:<a href="https://abcnews.com/US/strange-lights-off-san-diego-coast-locals-taking/story?id=85849918" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/US/strange-lights-off-san-diego-coast-locals-taking/story?id=85849918</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: timesofsandiego.com  
-   Link: <a href="https://timesofsandiego.com/military/2018/08/30/mysterious-lights-seen-over-san-diego-were-flares-from-navy-exercise/" target="_blank" rel="noopener noreferrer nofollow">https://timesofsandiego.com/military/2018/08/30/mysterious-lights-seen-over-san-diego-were-flares-from-navy-exercise/</a>  
+   Link:<a href="https://timesofsandiego.com/military/2018/08/30/mysterious-lights-seen-over-san-diego-were-flares-from-navy-exercise/" target="_blank" rel="noopener noreferrer nofollow">https://timesofsandiego.com/military/2018/08/30/mysterious-lights-seen-over-san-diego-were-flares-from-navy-exercise/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/149844915349213/posts/2853199748347036/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/149844915349213/posts/2853199748347036/</a>  
+   Link:<a href="https://www.facebook.com/groups/149844915349213/posts/2853199748347036/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/149844915349213/posts/2853199748347036/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: Wikipedia  
    Title: Phoenix Lights  
-   Link: <a href="https://en.wikipedia.org/wiki/Phoenix_Lights" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Phoenix_Lights</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Phoenix_Lights" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Phoenix_Lights</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: abcnews.com  
-   Link: <a href="https://abcnews.com/Technology/phoenix-ufo-mystery-solved-lights-high-school-football/story?id=14884994" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/phoenix-ufo-mystery-solved-lights-high-school-football/story?id=14884994</a>  
+   Link:<a href="https://abcnews.com/Technology/phoenix-ufo-mystery-solved-lights-high-school-football/story?id=14884994" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/phoenix-ufo-mystery-solved-lights-high-school-football/story?id=14884994</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: planeandpilotmag.com  
    Title: the phoenix lights  
-   Link: <a href="https://planeandpilotmag.com/the-phoenix-lights/" target="_blank" rel="noopener noreferrer nofollow">https://planeandpilotmag.com/the-phoenix-lights/</a>  
+   Link:<a href="https://planeandpilotmag.com/the-phoenix-lights/" target="_blank" rel="noopener noreferrer nofollow">https://planeandpilotmag.com/the-phoenix-lights/</a>  
 
 ### Additional References
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: What is Rocket Parachute Flare? Its use & requirements in SOLAS & LSA Code  
-   Link: <a href="https://www.youtube.com/watch?v=ath8mqbbBDY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ath8mqbbBDY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to use Rocket Parachute Flare | Pyrotechnics Operating procedure | Distress Emergency Signal...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ath8mqbbBDY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ath8mqbbBDY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to use Rocket Parachute Flare | Pyrotechnics Operating procedure | Distress Emergency Signal...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
    Title: Comet Parachute Illuminating Rocket  
-   Link: <a href="https://www.youtube.com/watch?v=5D1H_kGlbrY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5D1H_kGlbrY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What is Rocket Parachute Flare? Its use &amp; requirements in SOLAS &amp; LSA Code...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=5D1H_kGlbrY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5D1H_kGlbrY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is Rocket Parachute Flare? Its use &amp; requirements in SOLAS &amp; LSA Code...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ABC15/posts/28-years-ago-today-thousands-of-people-around-the-valley-saw-a-light-formation-i/1090165073155888/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABC15/posts/28-years-ago-today-thousands-of-people-around-the-valley-saw-a-light-formation-i/1090165073155888/</a>  
+   Link:<a href="https://www.facebook.com/ABC15/posts/28-years-ago-today-thousands-of-people-around-the-valley-saw-a-light-formation-i/1090165073155888/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABC15/posts/28-years-ago-today-thousands-of-people-around-the-valley-saw-a-light-formation-i/1090165073155888/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TorquayCoastguard/videos/para-illumination-flares/452879819909709/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TorquayCoastguard/videos/para-illumination-flares/452879819909709/</a>  
+   Link:<a href="https://www.facebook.com/TorquayCoastguard/videos/para-illumination-flares/452879819909709/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TorquayCoastguard/videos/para-illumination-flares/452879819909709/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/2015/03/alien-lights-at-phoenix-stephenville-and-elsewhere-a-postmortem/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2015/03/alien-lights-at-phoenix-stephenville-and-elsewhere-a-postmortem/</a>  
+   Link:<a href="https://skepticalinquirer.org/2015/03/alien-lights-at-phoenix-stephenville-and-elsewhere-a-postmortem/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2015/03/alien-lights-at-phoenix-stephenville-and-elsewhere-a-postmortem/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DXT4QFEDqid/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXT4QFEDqid/</a>  
+   Link:<a href="https://www.instagram.com/reel/DXT4QFEDqid/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXT4QFEDqid/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/News8/posts/cbs-8-viewers-have-sent-in-videos-showing-strange-mysterious-lights-appearing-ac/10160289578552552/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/News8/posts/cbs-8-viewers-have-sent-in-videos-showing-strange-mysterious-lights-appearing-ac/10160289578552552/</a>  
+   Link:<a href="https://www.facebook.com/News8/posts/cbs-8-viewers-have-sent-in-videos-showing-strange-mysterious-lights-appearing-ac/10160289578552552/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/News8/posts/cbs-8-viewers-have-sent-in-videos-showing-strange-mysterious-lights-appearing-ac/10160289578552552/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/thenorthernecho/posts/can-you-explain-these-strange-lights-in-the-sky-they-were-spotted-over-darlingto/1153832176753750/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thenorthernecho/posts/can-you-explain-these-strange-lights-in-the-sky-they-were-spotted-over-darlingto/1153832176753750/</a>
+   Link:<a href="https://www.facebook.com/thenorthernecho/posts/can-you-explain-these-strange-lights-in-the-sky-they-were-spotted-over-darlingto/1153832176753750/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thenorthernecho/posts/can-you-explain-these-strange-lights-in-the-sky-they-were-spotted-over-darlingto/1153832176753750/</a>

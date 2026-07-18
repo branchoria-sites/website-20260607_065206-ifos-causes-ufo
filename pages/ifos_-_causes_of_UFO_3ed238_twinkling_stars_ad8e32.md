@@ -504,17 +504,17 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32-overvie
 A bright star low in the sky can look surprisingly artificial. It may flash red, green, blue and white; pulse like an aircraft beacon; seem to jerk or hover; and then vanish when a patch of cloud, haze or a roofline crosses it. In UFO reporting, this is one of the simplest ways a real observation becomes a puzzling story: the witness is not inventing the light, but the [atmosphere]({{ 'atmosphere/' | relative_url }}) is making a distant star behave unlike the steady point they expected.
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32-overview.webp" | relative_url }}" alt="Overview image for Stars" loading="eager" decoding="sync" fetchpriority="high">
-The mechanism is called scintillation, or twinkling. Starlight passes through moving layers of air with different temperatures and densities, and those layers bend and scatter the light before it reaches the eye. The effect is strongest near the horizon, where the light has to travel through much more atmosphere than it would overhead. NASA’s StarChild education material makes the same practical point: stars near the horizon twinkle more because there is more atmosphere between the observer and the star. <span class="citation-chip-wrap"><a class="citation-chip" href="https://starchild.gsfc.nasa.gov/docs/StarChild/questions/question26.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: starchild.gsfc.nasa.gov">[StarChild]</a><span class="citation-popover" role="note"><span class="citation-popover-source">starchild.gsfc.nasa.gov</span><span class="citation-popover-title">Star Child Why do stars twinkle?</span><span class="citation-popover-snippet">Star Child Why do stars twinkle?</span></span></span>
+The mechanism is called scintillation, or twinkling. Starlight passes through moving layers of air with different temperatures and densities, and those layers bend and scatter the light before it reaches the eye. The effect is strongest near the horizon, where the light has to travel through much more atmosphere than it would overhead. NASA’s StarChild education material makes the same practical point: stars near the horizon twinkle more because there is more atmosphere between the observer and the star.<span class="citation-chip-wrap"><a class="citation-chip" href="https://starchild.gsfc.nasa.gov/docs/StarChild/questions/question26.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: starchild.gsfc.nasa.gov">[StarChild]</a><span class="citation-popover" role="note"><span class="citation-popover-source">starchild.gsfc.nasa.gov</span><span class="citation-popover-title">Star Child Why do stars twinkle?</span><span class="citation-popover-snippet">Star Child Why do stars twinkle?</span></span></span>
 
 ## Why Low Stars Flash Like Machines
 
-The key to this kind of IFO is that stars are effectively point sources of light. They are so distant that, to the naked eye, their light arrives from an extremely tiny apparent point. A small moving pocket of turbulent air can therefore bend much of that point’s light away from the eye, then back again, making the star brighten, dim, shift slightly or split into flashes of colour. The European Southern Observatory describes the same turbulence as the reason stars twinkle and as a serious problem for ground-based astronomy, because it blurs fine detail in telescope images. <span class="citation-chip-wrap"><a class="citation-chip" href="https://elt.eso.org/telescope/adaptiveoptics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elt.eso.org">[ELT ESO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elt.eso.org</span><span class="citation-popover-title">ELT ESOAdaptive Optics &#124; ELT</span><span class="citation-popover-snippet">ELT ESOAdaptive Optics &#124; ELT</span></span></span>
+The key to this kind of IFO is that stars are effectively point sources of light. They are so distant that, to the naked eye, their light arrives from an extremely tiny apparent point. A small moving pocket of turbulent air can therefore bend much of that point’s light away from the eye, then back again, making the star brighten, dim, shift slightly or split into flashes of colour. The European Southern Observatory describes the same turbulence as the reason stars twinkle and as a serious problem for ground-based astronomy, because it blurs fine detail in telescope images.<span class="citation-chip-wrap"><a class="citation-chip" href="https://elt.eso.org/telescope/adaptiveoptics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elt.eso.org">[ELT ESO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elt.eso.org</span><span class="citation-popover-title">ELT ESOAdaptive Optics &#124; ELT</span><span class="citation-popover-snippet">ELT ESOAdaptive Optics &#124; ELT</span></span></span>
 
-The colour-changing part is especially important for UFO reports. Starlight contains many colours. As it crosses uneven air, refraction can separate and redirect those colours by tiny amounts. Near the horizon, the light path is longer, lower and more disturbed, so the observer may see rapid red, green, blue and white flashes rather than a steady white point. EarthSky’s explanation of [Sirius]({{ 'sirius/' | relative_url }}) notes that this bright star often appears to flash different colours when low in the sky, because the atmosphere breaks starlight into its component colours and the effect is much more obvious when the star is seen through a thicker layer of air. <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/astronomy-essentials/flashing-star-autumn-capella-arcturus-sirius/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-title">Earth Sky Flashing star in autumn? Here are 3 candidates</span><span class="citation-popover-snippet">Earth Sky Flashing star in autumn? Here are 3 candidates</span></span></span>
+The colour-changing part is especially important for UFO reports. Starlight contains many colours. As it crosses uneven air, refraction can separate and redirect those colours by tiny amounts. Near the horizon, the light path is longer, lower and more disturbed, so the observer may see rapid red, green, blue and white flashes rather than a steady white point. EarthSky’s explanation of [Sirius]({{ 'sirius/' | relative_url }}) notes that this bright star often appears to flash different colours when low in the sky, because the atmosphere breaks starlight into its component colours and the effect is much more obvious when the star is seen through a thicker layer of air.<span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/astronomy-essentials/flashing-star-autumn-capella-arcturus-sirius/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-title">Earth Sky Flashing star in autumn? Here are 3 candidates</span><span class="citation-popover-snippet">Earth Sky Flashing star in autumn? Here are 3 candidates</span></span></span>
 
-This can look mechanical because human perception is good at turning irregular flashes into implied patterns. A star that alternates white-green-red-white may be interpreted as a craft with navigation lights. A very bright star seen through restless air may seem to “signal”, “pulse”, “rotate” or “change shape”. Atmospheric optics specialist Les Cowley’s Atmospheric Optics site gives a useful refinement: some of the changing brightness and colour in a scintillating star can come from moving caustic patterns, similar to the bright rippling lines seen on the bottom of a swimming pool. <span class="citation-chip-wrap"><a class="citation-chip" href="https://atoptics.co.uk/blog/opod-sirius-atmospheric-seeing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atoptics.co.uk">[At Optics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atoptics.co.uk</span><span class="citation-popover-title">At Optics OPOD</span><span class="citation-popover-snippet">At Optics OPOD</span></span></span>
+This can look mechanical because human perception is good at turning irregular flashes into implied patterns. A star that alternates white-green-red-white may be interpreted as a craft with navigation lights. A very bright star seen through restless air may seem to “signal”, “pulse”, “rotate” or “change shape”. Atmospheric optics specialist Les Cowley’s Atmospheric Optics site gives a useful refinement: some of the changing brightness and colour in a scintillating star can come from moving caustic patterns, similar to the bright rippling lines seen on the bottom of a swimming pool.<span class="citation-chip-wrap"><a class="citation-chip" href="https://atoptics.co.uk/blog/opod-sirius-atmospheric-seeing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atoptics.co.uk">[At Optics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atoptics.co.uk</span><span class="citation-popover-title">At Optics OPOD</span><span class="citation-popover-snippet">At Optics OPOD</span></span></span>
 
-Sirius is the classic culprit because it is the brightest star in the night sky and often sits low enough to shimmer violently from mid-northern latitudes. Universe Today has called Sirius a “UFO trickster” for exactly this reason: it is bright, low, slow-moving across the sky, and capable of throwing out different colours under poor seeing conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.universetoday.com/articles/sirius-ufo-trickster-extraordinaire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universetoday.com">[Universe Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universetoday.com</span><span class="citation-popover-title">Universe Today Sirius, UFO trickster extraordinaire</span><span class="citation-popover-snippet">Universe Today Sirius, UFO trickster extraordinaire</span></span></span> Capella can play the same role in northern autumn and winter evenings; EarthSky notes that Capella is a bright northeastern star that often flashes red, green and blue when low, prompting UFO questions from Northern Hemisphere observers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/astronomy-essentials/flashing-star-autumn-capella-arcturus-sirius/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-title">Earth Sky Flashing star in autumn? Here are 3 candidates</span><span class="citation-popover-snippet">Earth Sky Flashing star in autumn? Here are 3 candidates</span></span></span>
+Sirius is the classic culprit because it is the brightest star in the night sky and often sits low enough to shimmer violently from mid-northern latitudes. Universe Today has called Sirius a “UFO trickster” for exactly this reason: it is bright, low, slow-moving across the sky, and capable of throwing out different colours under poor seeing conditions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.universetoday.com/articles/sirius-ufo-trickster-extraordinaire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universetoday.com">[Universe Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universetoday.com</span><span class="citation-popover-title">Universe Today Sirius, UFO trickster extraordinaire</span><span class="citation-popover-snippet">Universe Today Sirius, UFO trickster extraordinaire</span></span></span> Capella can play the same role in northern autumn and winter evenings; EarthSky notes that Capella is a bright northeastern star that often flashes red, green and blue when low, prompting UFO questions from Northern Hemisphere observers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/astronomy-essentials/flashing-star-autumn-capella-arcturus-sirius/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-title">Earth Sky Flashing star in autumn? Here are 3 candidates</span><span class="citation-popover-snippet">Earth Sky Flashing star in autumn? Here are 3 candidates</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32-Illustration-1-dark.svg" | relative_url }}" alt="Stars illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Scintillation Near the Horizon
@@ -523,15 +523,15 @@ The horizon is where the illusion becomes most persuasive. A star overhead is se
 
 This matters for UFO interpretation because a low star also lacks obvious [distance cues]({{ 'distance-cues/' | relative_url }}). A bright point above a distant treeline might be a star, a drone, an aircraft, a mast light or something on a hillside. In darkness, without a known foreground reference, the brain may place the light much closer than it really is. Once the light is mentally placed nearby, its atmospheric flicker can be misread as the behaviour of an object: hovering, rotating, changing altitude or making abrupt movements.
 
-Astronomers separate two related observing conditions that witnesses often experience together. “Seeing” refers to atmospheric steadiness: poor seeing makes stars shimmer, dance and blur. “Transparency” refers to how clear the air is: poor transparency from haze, smoke, dust or thin cloud dims objects and reduces contrast. Astronomy Magazine describes transparency as the clarity of the atmosphere, affected by clouds, smoke, dust and haze, while seeing concerns steadiness rather than clarity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.astronomy.com/observing/what-are-transparency-and-seeing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astronomy.com">[Astronomy Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astronomy.com</span><span class="citation-popover-title">what are transparency and seeing</span><span class="citation-popover-snippet">what are transparency and seeing</span></span></span> A night can therefore be clear enough to show a bright star, but unstable enough to make it flash wildly.
+Astronomers separate two related observing conditions that witnesses often experience together. “Seeing” refers to atmospheric steadiness: poor seeing makes stars shimmer, dance and blur. “Transparency” refers to how clear the air is: poor transparency from haze, smoke, dust or thin cloud dims objects and reduces contrast. Astronomy Magazine describes transparency as the clarity of the atmosphere, affected by clouds, smoke, dust and haze, while seeing concerns steadiness rather than clarity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.astronomy.com/observing/what-are-transparency-and-seeing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astronomy.com">[Astronomy Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astronomy.com</span><span class="citation-popover-title">what are transparency and seeing</span><span class="citation-popover-snippet">what are transparency and seeing</span></span></span> A night can therefore be clear enough to show a bright star, but unstable enough to make it flash wildly.
 
-The planets provide a useful comparison, but not an absolute rule. Planets usually look steadier than stars because they show a small apparent disc rather than a true point, so atmospheric distortions are averaged across a wider patch of light. Britannica’s explanation of twinkling uses this distinction: stars appear as tiny points more easily disturbed by atmospheric turbulence, while planets generally twinkle less because their small discs average out the distortions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/science/Why-Do-Stars-Twinkle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Why Do Stars Twinkle? &#124; Stars, Astronomy, &amp; Facts</span><span class="citation-popover-snippet">Encyclopedia Britannica Why Do Stars Twinkle? &#124; Stars, Astronomy, &amp; Facts</span></span></span> However, a very bright planet low in the sky can also scintillate. EarthSky documents [Venus]({{ 'venus/' | relative_url }}) showing multiple colours when very low, even though planets normally shine more steadily. <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/astronomy-essentials/flashing-star-autumn-capella-arcturus-sirius/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-title">Earth Sky Flashing star in autumn? Here are 3 candidates</span><span class="citation-popover-snippet">Earth Sky Flashing star in autumn? Here are 3 candidates</span></span></span>
+The planets provide a useful comparison, but not an absolute rule. Planets usually look steadier than stars because they show a small apparent disc rather than a true point, so atmospheric distortions are averaged across a wider patch of light. Britannica’s explanation of twinkling uses this distinction: stars appear as tiny points more easily disturbed by atmospheric turbulence, while planets generally twinkle less because their small discs average out the distortions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/science/Why-Do-Stars-Twinkle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Why Do Stars Twinkle? &#124; Stars, Astronomy, &amp; Facts</span><span class="citation-popover-snippet">Encyclopedia Britannica Why Do Stars Twinkle? &#124; Stars, Astronomy, &amp; Facts</span></span></span> However, a very bright planet low in the sky can also scintillate. EarthSky documents [Venus]({{ 'venus/' | relative_url }}) showing multiple colours when very low, even though planets normally shine more steadily.<span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/astronomy-essentials/flashing-star-autumn-capella-arcturus-sirius/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-title">Earth Sky Flashing star in autumn? Here are 3 candidates</span><span class="citation-popover-snippet">Earth Sky Flashing star in autumn? Here are 3 candidates</span></span></span>
 
 ## Cloud Cover and Sudden Vanishing
 
 The “it vanished” part of a UFO report can be just as natural as the flashing. Thin cloud can be hard to notice at night, especially in light-polluted areas where the sky already looks grey. A bright star may shine through a veil of cirrus for a while, dim, flare again through a thinner patch, then disappear completely when a denser part of the cloud crosses the line of sight.
 
-This is different from a star physically going out. The light has simply been blocked or scattered before it reaches the observer. The National Radio Astronomy Observatory gives a direct answer to a common public question about stars repeatedly disappearing and reappearing: the Earth’s atmosphere can bend and block the light from point sources, and thin clouds can make a star fade in and out as they pass overhead. <span class="citation-chip-wrap"><a class="citation-chip" href="https://public.nrao.edu/ask/what-causes-stars-to-repeatedly-disappear-and-reappear/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: public.nrao.edu">[National Radio Astronomy Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">public.nrao.edu</span><span class="citation-popover-title">what causes stars to repeatedly disappear and reappear</span><span class="citation-popover-snippet">what causes stars to repeatedly disappear and reappear</span></span></span>
+This is different from a star physically going out. The light has simply been blocked or scattered before it reaches the observer. The National Radio Astronomy Observatory gives a direct answer to a common public question about stars repeatedly disappearing and reappearing: the Earth’s atmosphere can bend and block the light from point sources, and thin clouds can make a star fade in and out as they pass overhead.<span class="citation-chip-wrap"><a class="citation-chip" href="https://public.nrao.edu/ask/what-causes-stars-to-repeatedly-disappear-and-reappear/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: public.nrao.edu">[National Radio Astronomy Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">public.nrao.edu</span><span class="citation-popover-title">what causes stars to repeatedly disappear and reappear</span><span class="citation-popover-snippet">what causes stars to repeatedly disappear and reappear</span></span></span>
 
 Cloud-related [vanishing]({{ 'vanishing/' | relative_url }}) can make the sighting feel more anomalous because the observer may not register the cloud as the cause. The rest of the sky may still show stars. The cloud may be visible only as a faint loss of contrast. In a moving patchwork of cloud, one bright star can disappear while others remain visible, especially if they sit in clearer gaps or are higher in the sky.
 
@@ -578,7 +578,7 @@ These checks do not prove that every flashing light is a star. They help sort th
 
 Twinkling stars are a good reminder that UFO reports often begin with genuine observation. The witness really did see a light. It really did flash different colours. It may really have vanished. The identification changes because the context changes: once the star’s position, the horizon angle, atmospheric conditions and cloud cover are considered, the behaviour is no longer extraordinary.
 
-Official and scientific reviews of UFO and UAP reports repeatedly stress this distinction between unexplained at first sight and anomalous after investigation. Project Blue Book’s historical files included astronomical bodies among the ordinary causes of reports, and modern UAP reviews continue to find that many cases resolve into conventional objects or phenomena when better data are available. AARO’s public case-resolution material, for example, shows the same method in another category: apparent anomalies are assessed against ordinary candidates such as balloons, wind drift and performance characteristics. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
+Official and scientific reviews of UFO and UAP reports repeatedly stress this distinction between unexplained at first sight and anomalous after investigation. Project Blue Book’s historical files included astronomical bodies among the ordinary causes of reports, and modern UAP reviews continue to find that many cases resolve into conventional objects or phenomena when better data are available. AARO’s public case-resolution material, for example, shows the same method in another category: apparent anomalies are assessed against ordinary candidates such as balloons, wind drift and performance characteristics.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
 
 The star explanation is strongest when the report has a bright stationary or slow-drifting point low on the horizon, rapid colour flicker, no reliable distance cue, no close-range structure, and a time-direction match with Sirius, Capella, Arcturus, Vega, Jupiter or Venus. It is weaker when the report includes multiple independent viewing angles, radar correlation, resolved structure, nearby interaction, rapid angular travel across a large part of the sky, or behaviour inconsistent with the known sky at that time.
 
@@ -587,194 +587,194 @@ For everyday IFO work, the lesson is simple: before treating a colour-changing l
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32-Illustration-3-dark.svg" | relative_url }}" alt="Stars illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Stars Flash Like Machines. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Stars Flash Like Machines. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Explains stars, horizon effects and common sky misidentifications.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains stars, horizon effects and common sky misidentifications.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
-        </h4>
-        <p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
+</h4>
+<p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
         
-        <p class="fr-book-desc">Helps identify bright stars and understand their appearance.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps identify bright stars and understand their appearance.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cosmos on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VKjWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Cosmos" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cosmos">Cosmos</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cosmos on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VKjWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Cosmos" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cosmos">Cosmos</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Provides broad understanding of stars and the night sky.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broad understanding of stars and the night sky.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Discusses astronomical objects mistaken for UFOs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses astronomical objects mistaken for UFOs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Cosmos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cosmos</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Cosmos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cosmos</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stars-why-stars-flash-like-machines-ifos-causes-of-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="stars-why-stars-flash-like-machines-ifos-causes-of-star-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Custom Star Chart Poster Night We Met Anniversary Gift for Him or Her Birthday"><img src="{{ '/assets/images/marketplace-covers/cf1c070ccb7762b6fe60.jpg' | relative_url }}" alt="Listing image for Custom Star Chart Poster Night We Met Anniversary Gift for Him or Her Birthday" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stars-why-stars-flash-like-machines-ifos-causes-of-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="stars-why-stars-flash-like-machines-ifos-causes-of-star-chart-poster" target="_blank" rel="sponsored noopener noreferrer">Custom Star Chart Poster Night We Met Anniversary Gift for Him or Her Birthday</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stars-why-stars-flash-like-machines-ifos-causes-of-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="stars-why-stars-flash-like-machines-ifos-causes-of-star-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: star chart poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stars-why-stars-flash-like-machines-ifos-causes-of-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="stars-why-stars-flash-like-machines-ifos-causes-of-star-chart-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stars-why-stars-flash-like-machines-ifos-causes-of-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="stars-why-stars-flash-like-machines-ifos-causes-of-star-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Custom Star Chart Poster Night We Met Anniversary Gift for Him or Her Birthday"><img src="{{ '/assets/images/marketplace-covers/cf1c070ccb7762b6fe60.jpg' | relative_url }}" alt="Listing image for Custom Star Chart Poster Night We Met Anniversary Gift for Him or Her Birthday" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stars-why-stars-flash-like-machines-ifos-causes-of-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="stars-why-stars-flash-like-machines-ifos-causes-of-star-chart-poster" target="_blank" rel="sponsored noopener noreferrer">Custom Star Chart Poster Night We Met Anniversary Gift for Him or Her Birthday</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stars-why-stars-flash-like-machines-ifos-causes-of-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="stars-why-stars-flash-like-machines-ifos-causes-of-star-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: star chart poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stars-why-stars-flash-like-machines-ifos-causes-of-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="stars-why-stars-flash-like-machines-ifos-causes-of-star-chart-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stars-why-stars-flash-like-machines-ifos-causes-of-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="stars-why-stars-flash-like-machines-ifos-causes-of-star-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A3/A4 SIZE - Star Chart Educational Map of the sky cosmos PANORAMA POSTER # 4"><img src="{{ '/assets/images/marketplace-covers/548f54507ccd2172b05d.jpg' | relative_url }}" alt="Listing image for A3/A4 SIZE - Star Chart Educational Map of the sky cosmos PANORAMA POSTER # 4" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stars-why-stars-flash-like-machines-ifos-causes-of-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="stars-why-stars-flash-like-machines-ifos-causes-of-star-chart-poster" target="_blank" rel="sponsored noopener noreferrer">A3/A4 SIZE - Star Chart Educational Map of the sky cosmos PANORAMA POSTER # 4</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stars-why-stars-flash-like-machines-ifos-causes-of-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="stars-why-stars-flash-like-machines-ifos-causes-of-star-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: star chart poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stars-why-stars-flash-like-machines-ifos-causes-of-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="stars-why-stars-flash-like-machines-ifos-causes-of-star-chart-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stars-why-stars-flash-like-machines-ifos-causes-of-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="stars-why-stars-flash-like-machines-ifos-causes-of-star-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A3/A4 SIZE - Star Chart Educational Map of the sky cosmos PANORAMA POSTER # 4"><img src="{{ '/assets/images/marketplace-covers/548f54507ccd2172b05d.jpg' | relative_url }}" alt="Listing image for A3/A4 SIZE - Star Chart Educational Map of the sky cosmos PANORAMA POSTER # 4" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stars-why-stars-flash-like-machines-ifos-causes-of-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="stars-why-stars-flash-like-machines-ifos-causes-of-star-chart-poster" target="_blank" rel="sponsored noopener noreferrer">A3/A4 SIZE - Star Chart Educational Map of the sky cosmos PANORAMA POSTER # 4</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stars-why-stars-flash-like-machines-ifos-causes-of-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="stars-why-stars-flash-like-machines-ifos-causes-of-star-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: star chart poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stars-why-stars-flash-like-machines-ifos-causes-of-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="stars-why-stars-flash-like-machines-ifos-causes-of-star-chart-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stars-why-stars-flash-like-machines-ifos-causes-of-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="stars-why-stars-flash-like-machines-ifos-causes-of-star-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Star Chart Sky Cosmos Space Educational Map Wall Picture Poster"><img src="{{ '/assets/images/marketplace-covers/899f80862fb9d3c67011.jpg' | relative_url }}" alt="Listing image for Star Chart Sky Cosmos Space Educational Map Wall Picture Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stars-why-stars-flash-like-machines-ifos-causes-of-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="stars-why-stars-flash-like-machines-ifos-causes-of-star-chart-poster" target="_blank" rel="sponsored noopener noreferrer">Star Chart Sky Cosmos Space Educational Map Wall Picture Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stars-why-stars-flash-like-machines-ifos-causes-of-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="stars-why-stars-flash-like-machines-ifos-causes-of-star-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: star chart poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stars-why-stars-flash-like-machines-ifos-causes-of-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="stars-why-stars-flash-like-machines-ifos-causes-of-star-chart-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stars-why-stars-flash-like-machines-ifos-causes-of-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="stars-why-stars-flash-like-machines-ifos-causes-of-star-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Star Chart Sky Cosmos Space Educational Map Wall Picture Poster"><img src="{{ '/assets/images/marketplace-covers/899f80862fb9d3c67011.jpg' | relative_url }}" alt="Listing image for Star Chart Sky Cosmos Space Educational Map Wall Picture Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stars-why-stars-flash-like-machines-ifos-causes-of-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="stars-why-stars-flash-like-machines-ifos-causes-of-star-chart-poster" target="_blank" rel="sponsored noopener noreferrer">Star Chart Sky Cosmos Space Educational Map Wall Picture Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stars-why-stars-flash-like-machines-ifos-causes-of-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="stars-why-stars-flash-like-machines-ifos-causes-of-star-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: star chart poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stars-why-stars-flash-like-machines-ifos-causes-of-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="stars-why-stars-flash-like-machines-ifos-causes-of-star-chart-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stars-why-stars-flash-like-machines-ifos-causes-of-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="stars-why-stars-flash-like-machines-ifos-causes-of-star-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space CSM-TEC Apollo 11 Star Chart Map Galaxy Canvas Wall Art Print Poster"><img src="{{ '/assets/images/marketplace-covers/9ee10cc73ecd30aa2ef5.jpg' | relative_url }}" alt="Listing image for Space CSM-TEC Apollo 11 Star Chart Map Galaxy Canvas Wall Art Print Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stars-why-stars-flash-like-machines-ifos-causes-of-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="stars-why-stars-flash-like-machines-ifos-causes-of-star-chart-poster" target="_blank" rel="sponsored noopener noreferrer">Space CSM-TEC Apollo 11 Star Chart Map Galaxy Canvas Wall Art Print Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stars-why-stars-flash-like-machines-ifos-causes-of-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="stars-why-stars-flash-like-machines-ifos-causes-of-star-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: star chart poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stars-why-stars-flash-like-machines-ifos-causes-of-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="stars-why-stars-flash-like-machines-ifos-causes-of-star-chart-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stars-why-stars-flash-like-machines-ifos-causes-of-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="stars-why-stars-flash-like-machines-ifos-causes-of-star-chart-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stars-why-stars-flash-like-machines-ifos-causes-of-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="stars-why-stars-flash-like-machines-ifos-causes-of-star-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space CSM-TEC Apollo 11 Star Chart Map Galaxy Canvas Wall Art Print Poster"><img src="{{ '/assets/images/marketplace-covers/9ee10cc73ecd30aa2ef5.jpg' | relative_url }}" alt="Listing image for Space CSM-TEC Apollo 11 Star Chart Map Galaxy Canvas Wall Art Print Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stars-why-stars-flash-like-machines-ifos-causes-of-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="stars-why-stars-flash-like-machines-ifos-causes-of-star-chart-poster" target="_blank" rel="sponsored noopener noreferrer">Space CSM-TEC Apollo 11 Star Chart Map Galaxy Canvas Wall Art Print Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stars-why-stars-flash-like-machines-ifos-causes-of-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="stars-why-stars-flash-like-machines-ifos-causes-of-star-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: star chart poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stars-why-stars-flash-like-machines-ifos-causes-of-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="stars-why-stars-flash-like-machines-ifos-causes-of-star-chart-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stars-why-stars-flash-like-machines-ifos-causes-of-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="stars-why-stars-flash-like-machines-ifos-causes-of-star-chart-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -790,7 +790,7 @@ For everyday IFO work, the lesson is simple: before treating a colour-changing l
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -810,7 +810,7 @@ For everyday IFO work, the lesson is simple: before treating a colour-changing l
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -842,7 +842,7 @@ For everyday IFO work, the lesson is simple: before treating a colour-changing l
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -894,7 +894,7 @@ For everyday IFO work, the lesson is simple: before treating a colour-changing l
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -939,7 +939,7 @@ For everyday IFO work, the lesson is simple: before treating a colour-changing l
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -980,198 +980,198 @@ For everyday IFO work, the lesson is simple: before treating a colour-changing l
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: starchild.gsfc.nasa.gov  
    Title: Star Child Why do stars twinkle?  
-   Link: <a href="https://starchild.gsfc.nasa.gov/docs/StarChild/questions/question26.html" target="_blank" rel="noopener noreferrer nofollow">https://starchild.gsfc.nasa.gov/docs/StarChild/questions/question26.html</a>  
+   Link:<a href="https://starchild.gsfc.nasa.gov/docs/StarChild/questions/question26.html" target="_blank" rel="noopener noreferrer nofollow">https://starchild.gsfc.nasa.gov/docs/StarChild/questions/question26.html</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: elt.eso.org  
    Title: ELT ESOAdaptive Optics | ELT  
-   Link: <a href="https://elt.eso.org/telescope/adaptiveoptics/" target="_blank" rel="noopener noreferrer nofollow">https://elt.eso.org/telescope/adaptiveoptics/</a>  
+   Link:<a href="https://elt.eso.org/telescope/adaptiveoptics/" target="_blank" rel="noopener noreferrer nofollow">https://elt.eso.org/telescope/adaptiveoptics/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: earthsky.org  
    Title: Earth Sky Flashing star in autumn? Here are 3 candidates  
-   Link: <a href="https://earthsky.org/astronomy-essentials/flashing-star-autumn-capella-arcturus-sirius/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/astronomy-essentials/flashing-star-autumn-capella-arcturus-sirius/</a>  
+   Link:<a href="https://earthsky.org/astronomy-essentials/flashing-star-autumn-capella-arcturus-sirius/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/astronomy-essentials/flashing-star-autumn-capella-arcturus-sirius/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: earthsky.org  
    Title: Earth Sky What star in the northeast flashes colorfully? It's Capella!  
-   Link: <a href="https://earthsky.org/tonight/what-star-in-the-northeast-flashes-red-and-green/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/tonight/what-star-in-the-northeast-flashes-red-and-green/</a>  
+   Link:<a href="https://earthsky.org/tonight/what-star-in-the-northeast-flashes-red-and-green/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/tonight/what-star-in-the-northeast-flashes-red-and-green/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: astronomy.com  
    Title: what are transparency and seeing  
-   Link: <a href="https://www.astronomy.com/observing/what-are-transparency-and-seeing/" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomy.com/observing/what-are-transparency-and-seeing/</a>  
+   Link:<a href="https://www.astronomy.com/observing/what-are-transparency-and-seeing/" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomy.com/observing/what-are-transparency-and-seeing/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: britannica.com  
    Title: Encyclopedia Britannica Why Do Stars Twinkle? | Stars, Astronomy, & Facts  
-   Link: <a href="https://www.britannica.com/science/Why-Do-Stars-Twinkle" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/science/Why-Do-Stars-Twinkle</a>  
+   Link:<a href="https://www.britannica.com/science/Why-Do-Stars-Twinkle" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/science/Why-Do-Stars-Twinkle</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: earthsky.org  
    Title: Earth Sky Colors of scintillating Venus | Astronomy Essentials  
-   Link: <a href="https://earthsky.org/astronomy-essentials/colors-scintillating-venus-mar-2017-photos/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/astronomy-essentials/colors-scintillating-venus-mar-2017-photos/</a>  
+   Link:<a href="https://earthsky.org/astronomy-essentials/colors-scintillating-venus-mar-2017-photos/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/astronomy-essentials/colors-scintillating-venus-mar-2017-photos/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: eso.org  
-   Link: <a href="https://www.eso.org/public/spain/news/eso8908/?lang=" target="_blank" rel="noopener noreferrer nofollow">https://www.eso.org/public/spain/news/eso8908/?lang=</a>  
+   Link:<a href="https://www.eso.org/public/spain/news/eso8908/?lang=" target="_blank" rel="noopener noreferrer nofollow">https://www.eso.org/public/spain/news/eso8908/?lang=</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: eso.org  
-   Link: <a href="https://www.eso.org/public/teles-instr/technology/adaptive_optics/" target="_blank" rel="noopener noreferrer nofollow">https://www.eso.org/public/teles-instr/technology/adaptive_optics/</a>  
+   Link:<a href="https://www.eso.org/public/teles-instr/technology/adaptive_optics/" target="_blank" rel="noopener noreferrer nofollow">https://www.eso.org/public/teles-instr/technology/adaptive_optics/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: hq.eso.org  
-   Link: <a href="https://www.hq.eso.org/public/archives/videos/script/esocast34a.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.hq.eso.org/public/archives/videos/script/esocast34a.pdf</a>  
+   Link:<a href="https://www.hq.eso.org/public/archives/videos/script/esocast34a.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.hq.eso.org/public/archives/videos/script/esocast34a.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: eso.org  
    Title: ES Ocast 34: How To Stop a Star's Twinkle  
-   Link: <a href="https://www.eso.org/public/videos/esocast34a/" target="_blank" rel="noopener noreferrer nofollow">https://www.eso.org/public/videos/esocast34a/</a>  
+   Link:<a href="https://www.eso.org/public/videos/esocast34a/" target="_blank" rel="noopener noreferrer nofollow">https://www.eso.org/public/videos/esocast34a/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: eso.org  
-   Link: <a href="https://www.eso.org/projects/aot" target="_blank" rel="noopener noreferrer nofollow">https://www.eso.org/projects/aot</a>  
+   Link:<a href="https://www.eso.org/projects/aot" target="_blank" rel="noopener noreferrer nofollow">https://www.eso.org/projects/aot</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: eso.org  
-   Link: <a href="https://www.eso.org/public/switzerland-de/blog/twinkle-twinkle-little-star/?lang=" target="_blank" rel="noopener noreferrer nofollow">https://www.eso.org/public/switzerland-de/blog/twinkle-twinkle-little-star/?lang=</a>  
+   Link:<a href="https://www.eso.org/public/switzerland-de/blog/twinkle-twinkle-little-star/?lang=" target="_blank" rel="noopener noreferrer nofollow">https://www.eso.org/public/switzerland-de/blog/twinkle-twinkle-little-star/?lang=</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: eso.org  
-   Link: <a href="https://www.eso.org/public/videos/cs0018a/" target="_blank" rel="noopener noreferrer nofollow">https://www.eso.org/public/videos/cs0018a/</a>  
+   Link:<a href="https://www.eso.org/public/videos/cs0018a/" target="_blank" rel="noopener noreferrer nofollow">https://www.eso.org/public/videos/cs0018a/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: eso.org  
-   Link: <a href="https://www.eso.org/public/italy/news/eso9006/?lang=" target="_blank" rel="noopener noreferrer nofollow">https://www.eso.org/public/italy/news/eso9006/?lang=</a>  
+   Link:<a href="https://www.eso.org/public/italy/news/eso9006/?lang=" target="_blank" rel="noopener noreferrer nofollow">https://www.eso.org/public/italy/news/eso9006/?lang=</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: eso.org  
-   Link: <a href="https://www.eso.org/public/germany/news/eso8908/?lang=" target="_blank" rel="noopener noreferrer nofollow">https://www.eso.org/public/germany/news/eso8908/?lang=</a>  
+   Link:<a href="https://www.eso.org/public/germany/news/eso8908/?lang=" target="_blank" rel="noopener noreferrer nofollow">https://www.eso.org/public/germany/news/eso8908/?lang=</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: eso.org  
-   Link: <a href="https://www.eso.org/public/italy/teles-instr/paranal-observatory/vlt/vlt-instr/4lgsf/?lang=" target="_blank" rel="noopener noreferrer nofollow">https://www.eso.org/public/italy/teles-instr/paranal-observatory/vlt/vlt-instr/4lgsf/?lang=</a>  
+   Link:<a href="https://www.eso.org/public/italy/teles-instr/paranal-observatory/vlt/vlt-instr/4lgsf/?lang=" target="_blank" rel="noopener noreferrer nofollow">https://www.eso.org/public/italy/teles-instr/paranal-observatory/vlt/vlt-instr/4lgsf/?lang=</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: eso.org  
-   Link: <a href="https://www.eso.org/public/italy/news/eso0416/?lang=" target="_blank" rel="noopener noreferrer nofollow">https://www.eso.org/public/italy/news/eso0416/?lang=</a>  
+   Link:<a href="https://www.eso.org/public/italy/news/eso0416/?lang=" target="_blank" rel="noopener noreferrer nofollow">https://www.eso.org/public/italy/news/eso0416/?lang=</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: eso.org  
-   Link: <a href="https://www.eso.org/public/images/potw1820a/" target="_blank" rel="noopener noreferrer nofollow">https://www.eso.org/public/images/potw1820a/</a>  
+   Link:<a href="https://www.eso.org/public/images/potw1820a/" target="_blank" rel="noopener noreferrer nofollow">https://www.eso.org/public/images/potw1820a/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: eso.org  
    Title: ES Oblog  
-   Link: <a href="https://www.eso.org/public/italy/blog/climate-change/?lang=" target="_blank" rel="noopener noreferrer nofollow">https://www.eso.org/public/italy/blog/climate-change/?lang=</a>  
+   Link:<a href="https://www.eso.org/public/italy/blog/climate-change/?lang=" target="_blank" rel="noopener noreferrer nofollow">https://www.eso.org/public/italy/blog/climate-change/?lang=</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: eso.org  
-   Link: <a href="https://www.eso.org/public/italy/news/eso0719/?lang=" target="_blank" rel="noopener noreferrer nofollow">https://www.eso.org/public/italy/news/eso0719/?lang=</a>  
+   Link:<a href="https://www.eso.org/public/italy/news/eso0719/?lang=" target="_blank" rel="noopener noreferrer nofollow">https://www.eso.org/public/italy/news/eso0719/?lang=</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: aaro.mil  
    Title: Case Resolution of Eglin UAP 2 508  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: science.nasa.gov  
    Title: uap independent study team final report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: earthsky.org  
    Title: if its not a ufo what is it  
-   Link: <a href="https://earthsky.org/space/if-its-not-a-ufo-what-is-it/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/space/if-its-not-a-ufo-what-is-it/</a>  
+   Link:<a href="https://earthsky.org/space/if-its-not-a-ufo-what-is-it/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/space/if-its-not-a-ufo-what-is-it/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: atoptics.co.uk  
    Title: At Optics OPOD  
-   Link: <a href="https://atoptics.co.uk/blog/opod-sirius-atmospheric-seeing/" target="_blank" rel="noopener noreferrer nofollow">https://atoptics.co.uk/blog/opod-sirius-atmospheric-seeing/</a>  
+   Link:<a href="https://atoptics.co.uk/blog/opod-sirius-atmospheric-seeing/" target="_blank" rel="noopener noreferrer nofollow">https://atoptics.co.uk/blog/opod-sirius-atmospheric-seeing/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: universetoday.com  
    Title: Universe Today Sirius, UFO trickster extraordinaire  
-   Link: <a href="https://www.universetoday.com/articles/sirius-ufo-trickster-extraordinaire" target="_blank" rel="noopener noreferrer nofollow">https://www.universetoday.com/articles/sirius-ufo-trickster-extraordinaire</a>  
+   Link:<a href="https://www.universetoday.com/articles/sirius-ufo-trickster-extraordinaire" target="_blank" rel="noopener noreferrer nofollow">https://www.universetoday.com/articles/sirius-ufo-trickster-extraordinaire</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: public.nrao.edu  
    Title: what causes stars to repeatedly disappear and reappear  
-   Link: <a href="https://public.nrao.edu/ask/what-causes-stars-to-repeatedly-disappear-and-reappear/" target="_blank" rel="noopener noreferrer nofollow">https://public.nrao.edu/ask/what-causes-stars-to-repeatedly-disappear-and-reappear/</a>  
+   Link:<a href="https://public.nrao.edu/ask/what-causes-stars-to-repeatedly-disappear-and-reappear/" target="_blank" rel="noopener noreferrer nofollow">https://public.nrao.edu/ask/what-causes-stars-to-repeatedly-disappear-and-reappear/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Twinkling" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Twinkling</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Twinkling" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Twinkling</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: universetoday.com  
    Title: the mystery of the vanishing star  
-   Link: <a href="https://www.universetoday.com/articles/the-mystery-of-the-vanishing-star" target="_blank" rel="noopener noreferrer nofollow">https://www.universetoday.com/articles/the-mystery-of-the-vanishing-star</a>  
+   Link:<a href="https://www.universetoday.com/articles/the-mystery-of-the-vanishing-star" target="_blank" rel="noopener noreferrer nofollow">https://www.universetoday.com/articles/the-mystery-of-the-vanishing-star</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 ### Additional References
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf</a>  
+   Link:<a href="https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Abovethenormnews/videos/-a-star-was-nearly-erased-from-view-a-distant-sun-like-star-faded-to-a-fraction-/1453590676348966/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Abovethenormnews/videos/-a-star-was-nearly-erased-from-view-a-distant-sun-like-star-faded-to-a-fraction-/1453590676348966/</a>  
+   Link:<a href="https://www.facebook.com/Abovethenormnews/videos/-a-star-was-nearly-erased-from-view-a-distant-sun-like-star-faded-to-a-fraction-/1453590676348966/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Abovethenormnews/videos/-a-star-was-nearly-erased-from-view-a-distant-sun-like-star-faded-to-a-fraction-/1453590676348966/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DXsIuypDzPm/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DXsIuypDzPm/</a>  
+   Link:<a href="https://www.instagram.com/p/DXsIuypDzPm/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DXsIuypDzPm/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: aliensarerunningoperations.com  
-   Link: <a href="https://www.aliensarerunningoperations.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.aliensarerunningoperations.com/</a>  
+   Link:<a href="https://www.aliensarerunningoperations.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.aliensarerunningoperations.com/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: aavso.org  
-   Link: <a href="https://www.aavso.org/sites/default/files/publications_files/ccd_photometry_guide/CCDPhotometryGuide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aavso.org/sites/default/files/publications_files/ccd_photometry_guide/CCDPhotometryGuide.pdf</a>  
+   Link:<a href="https://www.aavso.org/sites/default/files/publications_files/ccd_photometry_guide/CCDPhotometryGuide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aavso.org/sites/default/files/publications_files/ccd_photometry_guide/CCDPhotometryGuide.pdf</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/zwoasiusers/posts/945897269102655/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/zwoasiusers/posts/945897269102655/</a>  
+   Link:<a href="https://www.facebook.com/groups/zwoasiusers/posts/945897269102655/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/zwoasiusers/posts/945897269102655/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: philarchive.org  
-   Link: <a href="https://philarchive.org/archive/GONAPN" target="_blank" rel="noopener noreferrer nofollow">https://philarchive.org/archive/GONAPN</a>  
+   Link:<a href="https://philarchive.org/archive/GONAPN" target="_blank" rel="noopener noreferrer nofollow">https://philarchive.org/archive/GONAPN</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/81273219287/posts/10161742531809288/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/81273219287/posts/10161742531809288/</a>  
+   Link:<a href="https://www.facebook.com/groups/81273219287/posts/10161742531809288/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/81273219287/posts/10161742531809288/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: milkywayforecast.com  
-   Link: <a href="https://milkywayforecast.com/guides/cloud-cover-stargazing" target="_blank" rel="noopener noreferrer nofollow">https://milkywayforecast.com/guides/cloud-cover-stargazing</a>  
+   Link:<a href="https://milkywayforecast.com/guides/cloud-cover-stargazing" target="_blank" rel="noopener noreferrer nofollow">https://milkywayforecast.com/guides/cloud-cover-stargazing</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ESOAstronomy/posts/reaching-for-the-stars-chilean-astrophotographer-alexis-trigo-captured-the-vlt-u/1348536203985643/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ESOAstronomy/posts/reaching-for-the-stars-chilean-astrophotographer-alexis-trigo-captured-the-vlt-u/1348536203985643/</a>
+   Link:<a href="https://www.facebook.com/ESOAstronomy/posts/reaching-for-the-stars-chilean-astrophotographer-alexis-trigo-captured-the-vlt-u/1348536203985643/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ESOAstronomy/posts/reaching-for-the-stars-chilean-astrophotographer-alexis-trigo-captured-the-vlt-u/1348536203985643/</a>

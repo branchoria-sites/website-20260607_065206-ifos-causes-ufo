@@ -271,15 +271,15 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32_thin_cl
 A light in the night sky does not need to move to appear as if it has departed. One of the most convincing details in many UFO reports is a bright star that seems to “switch off” instantly, leaving the impression that an object has accelerated away, cloaked itself, or vanished by unknown means. In reality, a thin patch of cloud, haze, mist or a foreground obstruction can remove a point source of light from view far more abruptly than most observers expect.
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32_thin_cloud_vanishing_121732-Illustration-1-dark.svg" | relative_url }}" alt="Vanishing illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32_thin_cloud_vanishing_121732-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32_thin_cloud_vanishing_121732-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within the broader category of [twinkling stars]({{ 'twinkling-stars/' | relative_url }}) and colour-changing lights, sudden disappearance is especially misleading because the observer sees a clear before-and-after event: the light was present, then it was gone. The brain naturally searches for an active cause. Yet [stars]({{ 'stars/' | relative_url }}) are point sources, and even slight changes in transparency along the line of sight can make them fade dramatically or disappear altogether. Astronomical organisations routinely note that atmospheric turbulence and thin cloud can cause stars to brighten, dim, appear intermittently, and even seem to vanish from sight. <span class="citation-chip-wrap"><a class="citation-chip" href="https://public.nrao.edu/ask/what-causes-stars-to-repeatedly-disappear-and-reappear/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: public.nrao.edu">[National Radio Astronomy Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">public.nrao.edu</span><span class="citation-popover-title">what causes stars to repeatedly disappear and reappear</span><span class="citation-popover-snippet">National Radio Astronomy ObservatoryWhat Causes Stars to Repeatedly Disappear and Reappear3 May 2020 — The Earth&#x27;s atmosphere bends and b...</span><span class="citation-popover-meta">Published: May 2020</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.astronomy.com/science/simply-scintillating/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astronomy.com">[Astronomy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astronomy.com</span><span class="citation-popover-title">simply scintillating</span><span class="citation-popover-snippet">Astronomy MagazineSimply Scintillating &#124; Astronomy.com18 May 2023 — Twinkling, the common term for stellar “scintillation,” refers to tin...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
+Within the broader category of [twinkling stars]({{ 'twinkling-stars/' | relative_url }}) and colour-changing lights, sudden disappearance is especially misleading because the observer sees a clear before-and-after event: the light was present, then it was gone. The brain naturally searches for an active cause. Yet [stars]({{ 'stars/' | relative_url }}) are point sources, and even slight changes in transparency along the line of sight can make them fade dramatically or disappear altogether. Astronomical organisations routinely note that atmospheric turbulence and thin cloud can cause stars to brighten, dim, appear intermittently, and even seem to vanish from sight.<span class="citation-chip-wrap"><a class="citation-chip" href="https://public.nrao.edu/ask/what-causes-stars-to-repeatedly-disappear-and-reappear/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: public.nrao.edu">[National Radio Astronomy Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">public.nrao.edu</span><span class="citation-popover-title">what causes stars to repeatedly disappear and reappear</span><span class="citation-popover-snippet">National Radio Astronomy ObservatoryWhat Causes Stars to Repeatedly Disappear and Reappear3 May 2020 — The Earth&#x27;s atmosphere bends and b...</span><span class="citation-popover-meta">Published: May 2020</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.astronomy.com/science/simply-scintillating/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astronomy.com">[Astronomy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astronomy.com</span><span class="citation-popover-title">simply scintillating</span><span class="citation-popover-snippet">Astronomy MagazineSimply Scintillating &#124; Astronomy.com18 May 2023 — Twinkling, the common term for stellar “scintillation,” refers to tin...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
 ## How Thin Cloud Hides Point Sources
 
 A star is effectively a pinpoint of light. Unlike a nearby illuminated object, it has no visible size to the naked eye and no extended surface that remains partly visible when conditions worsen.
 
-Thin cloud is often uneven rather than uniform. A drifting veil of moisture may be almost transparent in one area and substantially denser a few degrees away. As that veil moves across a star, the amount of light reaching the observer can fall rapidly. The process may look surprisingly abrupt because the star starts as a tiny bright point and has no visible structure to fade gradually. <span class="citation-chip-wrap"><a class="citation-chip" href="https://public.nrao.edu/ask/what-causes-stars-to-repeatedly-disappear-and-reappear/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: public.nrao.edu">[National Radio Astronomy Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">public.nrao.edu</span><span class="citation-popover-title">what causes stars to repeatedly disappear and reappear</span><span class="citation-popover-snippet">National Radio Astronomy ObservatoryWhat Causes Stars to Repeatedly Disappear and Reappear3 May 2020 — The Earth&#x27;s atmosphere bends and b...</span><span class="citation-popover-meta">Published: May 2020</span></span></span>
+Thin cloud is often uneven rather than uniform. A drifting veil of moisture may be almost transparent in one area and substantially denser a few degrees away. As that veil moves across a star, the amount of light reaching the observer can fall rapidly. The process may look surprisingly abrupt because the star starts as a tiny bright point and has no visible structure to fade gradually.<span class="citation-chip-wrap"><a class="citation-chip" href="https://public.nrao.edu/ask/what-causes-stars-to-repeatedly-disappear-and-reappear/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: public.nrao.edu">[National Radio Astronomy Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">public.nrao.edu</span><span class="citation-popover-title">what causes stars to repeatedly disappear and reappear</span><span class="citation-popover-snippet">National Radio Astronomy ObservatoryWhat Causes Stars to Repeatedly Disappear and Reappear3 May 2020 — The Earth&#x27;s atmosphere bends and b...</span><span class="citation-popover-meta">Published: May 2020</span></span></span>
 
-This effect becomes stronger when the star is already being weakened by atmospheric scintillation. Twinkling is not merely a change in appearance; it involves real fluctuations in apparent brightness caused by turbulence in the [atmosphere]({{ 'atmosphere/' | relative_url }}). A star that is already dimming and brightening from scintillation can drop below visibility altogether when a thin cloud layer passes through the same line of sight. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.astronomy.com/science/simply-scintillating/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astronomy.com">[Astronomy Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astronomy.com</span><span class="citation-popover-title">simply scintillating</span><span class="citation-popover-snippet">Astronomy MagazineSimply Scintillating &#124; Astronomy.com18 May 2023 — Twinkling, the common term for stellar “scintillation,” refers to tin...</span><span class="citation-popover-meta">Published: May 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Twinkling" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+This effect becomes stronger when the star is already being weakened by atmospheric scintillation. Twinkling is not merely a change in appearance; it involves real fluctuations in apparent brightness caused by turbulence in the [atmosphere]({{ 'atmosphere/' | relative_url }}). A star that is already dimming and brightening from scintillation can drop below visibility altogether when a thin cloud layer passes through the same line of sight.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.astronomy.com/science/simply-scintillating/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astronomy.com">[Astronomy Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astronomy.com</span><span class="citation-popover-title">simply scintillating</span><span class="citation-popover-snippet">Astronomy MagazineSimply Scintillating &#124; Astronomy.com18 May 2023 — Twinkling, the common term for stellar “scintillation,” refers to tin...</span><span class="citation-popover-meta">Published: May 2023</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Twinkling" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 To an observer who is not expecting such behaviour, the sequence can look purposeful:
 
@@ -301,7 +301,7 @@ That pattern can resemble an object retreating into the distance or turning off 
 
 Witnesses often regard the persistence of other stars as evidence that cloud cannot be responsible. This is understandable but frequently misleading.
 
-Thin cloud is rarely distributed evenly across the sky. A narrow filament of moisture may cover one star while leaving neighbouring stars unobscured. Because stars differ greatly in brightness, the dimmer object may disappear first while brighter stars remain visible. A cloud layer that reduces incoming light by a modest amount can completely hide a relatively faint star yet have little obvious effect on a brighter one. <span class="citation-chip-wrap"><a class="citation-chip" href="https://public.nrao.edu/ask/what-causes-stars-to-repeatedly-disappear-and-reappear/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: public.nrao.edu">[National Radio Astronomy Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">public.nrao.edu</span><span class="citation-popover-title">what causes stars to repeatedly disappear and reappear</span><span class="citation-popover-snippet">National Radio Astronomy ObservatoryWhat Causes Stars to Repeatedly Disappear and Reappear3 May 2020 — The Earth&#x27;s atmosphere bends and b...</span><span class="citation-popover-meta">Published: May 2020</span></span></span>
+Thin cloud is rarely distributed evenly across the sky. A narrow filament of moisture may cover one star while leaving neighbouring stars unobscured. Because stars differ greatly in brightness, the dimmer object may disappear first while brighter stars remain visible. A cloud layer that reduces incoming light by a modest amount can completely hide a relatively faint star yet have little obvious effect on a brighter one.<span class="citation-chip-wrap"><a class="citation-chip" href="https://public.nrao.edu/ask/what-causes-stars-to-repeatedly-disappear-and-reappear/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: public.nrao.edu">[National Radio Astronomy Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">public.nrao.edu</span><span class="citation-popover-title">what causes stars to repeatedly disappear and reappear</span><span class="citation-popover-snippet">National Radio Astronomy ObservatoryWhat Causes Stars to Repeatedly Disappear and Reappear3 May 2020 — The Earth&#x27;s atmosphere bends and b...</span><span class="citation-popover-meta">Published: May 2020</span></span></span>
 
 Perspective also matters. A cloud band that seems small from the ground can span a large distance in the atmosphere. It may intersect only one line of sight at a particular moment. The observer therefore sees a single light vanish while surrounding stars continue to shine.
 
@@ -325,7 +325,7 @@ This is particularly true at night, where depth cues are limited. A stationary s
 
 Yet the observer never actually sees motion. What is seen is a change in brightness ending at zero.
 
-Astronomers responding to reports of stars that repeatedly appear and disappear commonly point to atmospheric effects and thin cloud as the most likely explanation, especially when the object was otherwise stationary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://public.nrao.edu/ask/what-causes-stars-to-repeatedly-disappear-and-reappear/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: public.nrao.edu">[National Radio Astronomy Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">public.nrao.edu</span><span class="citation-popover-title">what causes stars to repeatedly disappear and reappear</span><span class="citation-popover-snippet">National Radio Astronomy ObservatoryWhat Causes Stars to Repeatedly Disappear and Reappear3 May 2020 — The Earth&#x27;s atmosphere bends and b...</span><span class="citation-popover-meta">Published: May 2020</span></span></span>
+Astronomers responding to reports of stars that repeatedly appear and disappear commonly point to atmospheric effects and thin cloud as the most likely explanation, especially when the object was otherwise stationary.<span class="citation-chip-wrap"><a class="citation-chip" href="https://public.nrao.edu/ask/what-causes-stars-to-repeatedly-disappear-and-reappear/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: public.nrao.edu">[National Radio Astronomy Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">public.nrao.edu</span><span class="citation-popover-title">what causes stars to repeatedly disappear and reappear</span><span class="citation-popover-snippet">National Radio Astronomy ObservatoryWhat Causes Stars to Repeatedly Disappear and Reappear3 May 2020 — The Earth&#x27;s atmosphere bends and b...</span><span class="citation-popover-meta">Published: May 2020</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZmP8dZ-iznc" title="The Hidden History of the Pleiades Star Cluster" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZmP8dZ-iznc" target="_blank" rel="noopener noreferrer">The Hidden History of the Pleiades Star Cluster</a></p><p class="youtube-embed-meta">Channel: Ian Lauer Astro &middot; Views: 781.2K &middot; Uploaded: December 2024 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZmP8dZ-iznc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZmP8dZ-iznc">Open on YouTube</a></p></div></div></div>
 
@@ -333,13 +333,13 @@ Astronomers responding to reports of stars that repeatedly appear and disappear 
 
 Cloud is not the only cause of apparent disappearance. Foreground objects can produce an even sharper effect.
 
-A star viewed close to a roofline, chimney, hillside, telephone wire or tree branch may seem stable until either the observer or the atmosphere shifts the apparent position slightly. Scintillation causes tiny changes in a star's apparent position as well as its brightness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.astronomy.com/science/simply-scintillating/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astronomy.com">[Astronomy Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astronomy.com</span><span class="citation-popover-title">simply scintillating</span><span class="citation-popover-snippet">Astronomy MagazineSimply Scintillating &#124; Astronomy.com18 May 2023 — Twinkling, the common term for stellar “scintillation,” refers to tin...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
+A star viewed close to a roofline, chimney, hillside, telephone wire or tree branch may seem stable until either the observer or the atmosphere shifts the apparent position slightly. Scintillation causes tiny changes in a star's apparent position as well as its brightness.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.astronomy.com/science/simply-scintillating/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astronomy.com">[Astronomy Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astronomy.com</span><span class="citation-popover-title">simply scintillating</span><span class="citation-popover-snippet">Astronomy MagazineSimply Scintillating &#124; Astronomy.com18 May 2023 — Twinkling, the common term for stellar “scintillation,” refers to tin...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
 Because the star is a point source, crossing a foreground edge requires only a minute change in geometry. The result can look instantaneous. One moment the light is visible; the next it is completely blocked.
 
 Tree branches are particularly deceptive. A gap between leaves may reveal a bright star for several seconds before a slight movement of foliage in the wind closes the opening. The star then disappears without any visible transition. To an observer focused on the light rather than the foreground, the event can resemble a craft abruptly leaving the scene.
 
-This is effectively a small-scale form of occultation, where a nearer object blocks a more distant one. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Occultation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+This is effectively a small-scale form of occultation, where a nearer object blocks a more distant one.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Occultation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32_thin_cloud_vanishing_121732-Illustration-3-dark.svg" | relative_url }}" alt="Vanishing illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32_thin_cloud_vanishing_121732-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32_thin_cloud_vanishing_121732-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A Useful Check When Evaluating a Report
@@ -358,199 +358,199 @@ Indicators that favour a cloud or obstruction explanation include:
 
 </div>
 
-These details do not prove the explanation in every case, but they fit a well-understood observational mechanism. The crucial point is that a star can cease to be visible without moving at all. Under thin cloud or behind a foreground edge, a distant point source may appear to switch off so suddenly that the observer experiences it as a departure rather than an obscuration. <span class="citation-chip-wrap"><a class="citation-chip" href="https://public.nrao.edu/ask/what-causes-stars-to-repeatedly-disappear-and-reappear/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: public.nrao.edu">[National Radio Astronomy Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">public.nrao.edu</span><span class="citation-popover-title">what causes stars to repeatedly disappear and reappear</span><span class="citation-popover-snippet">National Radio Astronomy ObservatoryWhat Causes Stars to Repeatedly Disappear and Reappear3 May 2020 — The Earth&#x27;s atmosphere bends and b...</span><span class="citation-popover-meta">Published: May 2020</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.astronomy.com/science/simply-scintillating/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astronomy.com">[Astronomy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astronomy.com</span><span class="citation-popover-title">simply scintillating</span><span class="citation-popover-snippet">Astronomy MagazineSimply Scintillating &#124; Astronomy.com18 May 2023 — Twinkling, the common term for stellar “scintillation,” refers to tin...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
+These details do not prove the explanation in every case, but they fit a well-understood observational mechanism. The crucial point is that a star can cease to be visible without moving at all. Under thin cloud or behind a foreground edge, a distant point source may appear to switch off so suddenly that the observer experiences it as a departure rather than an obscuration.<span class="citation-chip-wrap"><a class="citation-chip" href="https://public.nrao.edu/ask/what-causes-stars-to-repeatedly-disappear-and-reappear/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: public.nrao.edu">[National Radio Astronomy Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">public.nrao.edu</span><span class="citation-popover-title">what causes stars to repeatedly disappear and reappear</span><span class="citation-popover-snippet">National Radio Astronomy ObservatoryWhat Causes Stars to Repeatedly Disappear and Reappear3 May 2020 — The Earth&#x27;s atmosphere bends and b...</span><span class="citation-popover-meta">Published: May 2020</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.astronomy.com/science/simply-scintillating/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astronomy.com">[Astronomy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astronomy.com</span><span class="citation-popover-title">simply scintillating</span><span class="citation-popover-snippet">Astronomy MagazineSimply Scintillating &#124; Astronomy.com18 May 2023 — Twinkling, the common term for stellar “scintillation,” refers to tin...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/N3IgVidGjQk" title="Why Do Stars Twinkle?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=N3IgVidGjQk" target="_blank" rel="noopener noreferrer">Why Do Stars Twinkle?</a></p><p class="youtube-embed-meta">Channel: SciShow &middot; Views: 466.4K &middot; Uploaded: May 2014 &middot; Length: 2 minutes 33 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=N3IgVidGjQk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=N3IgVidGjQk">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When a Star Suddenly Switches Off. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When a Star Suddenly Switches Off. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Helps readers understand stars, visibility and apparent sky changes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand stars, visibility and apparent sky changes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
-        </h4>
-        <p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
+</h4>
+<p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
         
-        <p class="fr-book-desc">Supports practical identification of stars and sky positions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports practical identification of stars and sky positions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weather For Dummies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LtoPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Weather For Dummies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weather For Dummies">Weather For Dummies</a>
-        </h4>
-        <p class="fr-book-author">By John D. Cox</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weather For Dummies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LtoPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Weather For Dummies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weather For Dummies">Weather For Dummies</a>
+</h4>
+<p class="fr-book-author">By John D. Cox</p>
         
-        <p class="fr-book-desc">Explains clouds, haze and atmospheric effects that can hide lights.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains clouds, haze and atmospheric effects that can hide lights.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteorology+Today+by+C.+Donald+Ahrens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteorology Today on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ypwsAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Meteorology Today" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Meteorology+Today+by+C.+Donald+Ahrens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteorology Today">Meteorology Today</a>
-        </h4>
-        <p class="fr-book-author">By C. Donald Ahrens</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteorology+Today+by+C.+Donald+Ahrens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteorology Today on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ypwsAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Meteorology Today" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Meteorology+Today+by+C.+Donald+Ahrens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteorology Today">Meteorology Today</a>
+</h4>
+<p class="fr-book-author">By C. Donald Ahrens</p>
         
-        <p class="fr-book-desc">Covers cloud, visibility and atmospheric processes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Meteorology+Today+by+C.+Donald+Ahrens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers cloud, visibility and atmospheric processes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Meteorology+Today+by+C.+Donald+Ahrens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Weather+For+Dummies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Weather For Dummies</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Weather+For+Dummies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Weather For Dummies</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-star-suddenly-switches-off-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="when-a-star-suddenly-switches-off-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalised Good Behaviour Reward Chart Reusable Kids Children SPID"><img src="https://i.ebayimg.com/images/g/gbgAAOSw5S1lXTMY/s-l225.jpg" alt="Listing image for Personalised Good Behaviour Reward Chart Reusable Kids Children SPID" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-star-suddenly-switches-off-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="when-a-star-suddenly-switches-off-star-chart" target="_blank" rel="sponsored noopener noreferrer">Personalised Good Behaviour Reward Chart Reusable Kids Children SPID</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-star-suddenly-switches-off-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="when-a-star-suddenly-switches-off-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart">Search <span data-ebay-domain-label>eBay.co.uk</span>: star chart</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-star-suddenly-switches-off-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="when-a-star-suddenly-switches-off-star-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-star-suddenly-switches-off-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="when-a-star-suddenly-switches-off-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalised Good Behaviour Reward Chart Reusable Kids Children SPID"><img src="https://i.ebayimg.com/images/g/gbgAAOSw5S1lXTMY/s-l225.jpg" alt="Listing image for Personalised Good Behaviour Reward Chart Reusable Kids Children SPID" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-star-suddenly-switches-off-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="when-a-star-suddenly-switches-off-star-chart" target="_blank" rel="sponsored noopener noreferrer">Personalised Good Behaviour Reward Chart Reusable Kids Children SPID</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-star-suddenly-switches-off-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="when-a-star-suddenly-switches-off-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart">Search<span data-ebay-domain-label>eBay.co.uk</span>: star chart</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-star-suddenly-switches-off-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="when-a-star-suddenly-switches-off-star-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-star-suddenly-switches-off-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="when-a-star-suddenly-switches-off-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3-in-1 Reward Chart, Reusable Star Chart for Children&#x27;s Behaviour or Kids Chores"><img src="https://i.ebayimg.com/images/g/AL8AAOSw6y1hEU-I/s-l225.jpg" alt="Listing image for 3-in-1 Reward Chart, Reusable Star Chart for Children&#x27;s Behaviour or Kids Chores" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-star-suddenly-switches-off-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="when-a-star-suddenly-switches-off-star-chart" target="_blank" rel="sponsored noopener noreferrer">3-in-1 Reward Chart, Reusable Star Chart for Children&#x27;s Behaviour or Kids Chores</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-star-suddenly-switches-off-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="when-a-star-suddenly-switches-off-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart">Search <span data-ebay-domain-label>eBay.co.uk</span>: star chart</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-star-suddenly-switches-off-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="when-a-star-suddenly-switches-off-star-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-star-suddenly-switches-off-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="when-a-star-suddenly-switches-off-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3-in-1 Reward Chart, Reusable Star Chart for Children&#x27;s Behaviour or Kids Chores"><img src="https://i.ebayimg.com/images/g/AL8AAOSw6y1hEU-I/s-l225.jpg" alt="Listing image for 3-in-1 Reward Chart, Reusable Star Chart for Children&#x27;s Behaviour or Kids Chores" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-star-suddenly-switches-off-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="when-a-star-suddenly-switches-off-star-chart" target="_blank" rel="sponsored noopener noreferrer">3-in-1 Reward Chart, Reusable Star Chart for Children&#x27;s Behaviour or Kids Chores</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-star-suddenly-switches-off-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="when-a-star-suddenly-switches-off-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart">Search<span data-ebay-domain-label>eBay.co.uk</span>: star chart</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-star-suddenly-switches-off-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="when-a-star-suddenly-switches-off-star-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-star-suddenly-switches-off-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="when-a-star-suddenly-switches-off-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Unicorn Personalised Bedtime Night time Reward Star Chart Sleep Own Bed"><img src="https://i.ebayimg.com/images/g/0PcAAOSwQndgSP7S/s-l225.jpg" alt="Listing image for Unicorn Personalised Bedtime Night time Reward Star Chart Sleep Own Bed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-star-suddenly-switches-off-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="when-a-star-suddenly-switches-off-star-chart" target="_blank" rel="sponsored noopener noreferrer">Unicorn Personalised Bedtime Night time Reward Star Chart Sleep Own Bed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-star-suddenly-switches-off-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="when-a-star-suddenly-switches-off-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart">Search <span data-ebay-domain-label>eBay.co.uk</span>: star chart</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-star-suddenly-switches-off-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="when-a-star-suddenly-switches-off-star-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-star-suddenly-switches-off-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="when-a-star-suddenly-switches-off-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Unicorn Personalised Bedtime Night time Reward Star Chart Sleep Own Bed"><img src="https://i.ebayimg.com/images/g/0PcAAOSwQndgSP7S/s-l225.jpg" alt="Listing image for Unicorn Personalised Bedtime Night time Reward Star Chart Sleep Own Bed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-star-suddenly-switches-off-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="when-a-star-suddenly-switches-off-star-chart" target="_blank" rel="sponsored noopener noreferrer">Unicorn Personalised Bedtime Night time Reward Star Chart Sleep Own Bed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-star-suddenly-switches-off-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="when-a-star-suddenly-switches-off-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart">Search<span data-ebay-domain-label>eBay.co.uk</span>: star chart</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-star-suddenly-switches-off-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="when-a-star-suddenly-switches-off-star-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-star-suddenly-switches-off-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="when-a-star-suddenly-switches-off-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 6 x Childrens Jungle Behaviour Reward Chart Star Stickers Kids Preschool Nursery"><img src="https://i.ebayimg.com/images/g/24wAAOSwNVxdRD7W/s-l225.jpg" alt="Listing image for 6 x Childrens Jungle Behaviour Reward Chart Star Stickers Kids Preschool Nursery" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-star-suddenly-switches-off-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="when-a-star-suddenly-switches-off-star-chart" target="_blank" rel="sponsored noopener noreferrer">6 x Childrens Jungle Behaviour Reward Chart Star Stickers Kids Preschool Nursery</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-star-suddenly-switches-off-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="when-a-star-suddenly-switches-off-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart">Search <span data-ebay-domain-label>eBay.co.uk</span>: star chart</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-star-suddenly-switches-off-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="when-a-star-suddenly-switches-off-star-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-star-suddenly-switches-off-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="when-a-star-suddenly-switches-off-star-chart" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-star-suddenly-switches-off-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="when-a-star-suddenly-switches-off-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 6 x Childrens Jungle Behaviour Reward Chart Star Stickers Kids Preschool Nursery"><img src="https://i.ebayimg.com/images/g/24wAAOSwNVxdRD7W/s-l225.jpg" alt="Listing image for 6 x Childrens Jungle Behaviour Reward Chart Star Stickers Kids Preschool Nursery" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-star-suddenly-switches-off-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="when-a-star-suddenly-switches-off-star-chart" target="_blank" rel="sponsored noopener noreferrer">6 x Childrens Jungle Behaviour Reward Chart Star Stickers Kids Preschool Nursery</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-star-suddenly-switches-off-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="when-a-star-suddenly-switches-off-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart">Search<span data-ebay-domain-label>eBay.co.uk</span>: star chart</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-star-suddenly-switches-off-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="when-a-star-suddenly-switches-off-star-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-star-suddenly-switches-off-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="when-a-star-suddenly-switches-off-star-chart" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -566,7 +566,7 @@ These details do not prove the explanation in every case, but they fit a well-un
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -586,7 +586,7 @@ These details do not prove the explanation in every case, but they fit a well-un
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -618,7 +618,7 @@ These details do not prove the explanation in every case, but they fit a well-un
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -670,7 +670,7 @@ These details do not prove the explanation in every case, but they fit a well-un
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -715,7 +715,7 @@ These details do not prove the explanation in every case, but they fit a well-un
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -756,83 +756,83 @@ These details do not prove the explanation in every case, but they fit a well-un
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: astronomy.com  
    Title: simply scintillating  
-   Link: <a href="https://www.astronomy.com/science/simply-scintillating/" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomy.com/science/simply-scintillating/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Astronomy MagazineSimply Scintillating | Astronomy.com18 May 2023 — Twinkling, the common term for stellar “scintillation,” refers to tin...</p></details>
+   Link:<a href="https://www.astronomy.com/science/simply-scintillating/" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomy.com/science/simply-scintillating/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Astronomy MagazineSimply Scintillating | Astronomy.com18 May 2023 — Twinkling, the common term for stellar “scintillation,” refers to tin...</p></details>
    Published: May 2023  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Twinkling" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Twinkling</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Twinkling" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Twinkling</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Occultation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Occultation</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Occultation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Occultation</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: public.nrao.edu  
    Title: what causes stars to repeatedly disappear and reappear  
-   Link: <a href="https://public.nrao.edu/ask/what-causes-stars-to-repeatedly-disappear-and-reappear/" target="_blank" rel="noopener noreferrer nofollow">https://public.nrao.edu/ask/what-causes-stars-to-repeatedly-disappear-and-reappear/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Radio Astronomy ObservatoryWhat Causes Stars to Repeatedly Disappear and Reappear3 May 2020 — The Earth&#x27;s atmosphere bends and b...</p></details>
+   Link:<a href="https://public.nrao.edu/ask/what-causes-stars-to-repeatedly-disappear-and-reappear/" target="_blank" rel="noopener noreferrer nofollow">https://public.nrao.edu/ask/what-causes-stars-to-repeatedly-disappear-and-reappear/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Radio Astronomy ObservatoryWhat Causes Stars to Repeatedly Disappear and Reappear3 May 2020 — The Earth&#x27;s atmosphere bends and b...</p></details>
    Published: May 2020  
 
 ### Additional References
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=ZmP8dZ-iznc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZmP8dZ-iznc</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Hidden History of the Pleiades Star ClusterI photographed the Pleiades star cluster, zooming closer and closer with each image, to re...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ZmP8dZ-iznc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZmP8dZ-iznc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Hidden History of the Pleiades Star ClusterI photographed the Pleiades star cluster, zooming closer and closer with each image, to re...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=73c_0ZAqSU0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=73c_0ZAqSU0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why do stars twinkle atmospheric refraction explained Atmospheric Refraction - Why do stars twinkle? | #aumsum #kids #science #education...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=73c_0ZAqSU0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=73c_0ZAqSU0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why do stars twinkle atmospheric refraction explained Atmospheric Refraction - Why do stars twinkle? | #aumsum #kids #science #education...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: aries.res.in  
-   Link: <a href="https://www.aries.res.in/node/1054" target="_blank" rel="noopener noreferrer nofollow">https://www.aries.res.in/node/1054</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>l phenomena like gravitational lensing, fast radio bursts, or any variable star...Read more...</p></details>
+   Link:<a href="https://www.aries.res.in/node/1054" target="_blank" rel="noopener noreferrer nofollow">https://www.aries.res.in/node/1054</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>l phenomena like gravitational lensing, fast radio bursts, or any variable star...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: news.osu.edu  
    Title: dusty structure explains near vanishing of faraway star  
-   Link: <a href="https://news.osu.edu/dusty-structure-explains-near-vanishing-of-faraway-star/" target="_blank" rel="noopener noreferrer nofollow">https://news.osu.edu/dusty-structure-explains-near-vanishing-of-faraway-star/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>structure explains near vanishing of faraway star22 Aug 2025 — “Evidence suggests it is likely that there is a cloud of dust in the form...</p></details>
+   Link:<a href="https://news.osu.edu/dusty-structure-explains-near-vanishing-of-faraway-star/" target="_blank" rel="noopener noreferrer nofollow">https://news.osu.edu/dusty-structure-explains-near-vanishing-of-faraway-star/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>structure explains near vanishing of faraway star22 Aug 2025 — “Evidence suggests it is likely that there is a cloud of dust in the form...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: leeds.ac.uk  
    Title: astronomers explain dying stars beautiful dust clouds  
-   Link: <a href="https://www.leeds.ac.uk/news-science/news/article/4669/astronomers-explain-dying-stars-beautiful-dust-clouds" target="_blank" rel="noopener noreferrer nofollow">https://www.leeds.ac.uk/news-science/news/article/4669/astronomers-explain-dying-stars-beautiful-dust-clouds</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Astronomers explain dying stars&#x27; beautiful dust clouds18 Sept 2020 — Astronomers have discovered why dust clouds around fading stars form...</p></details>
+   Link:<a href="https://www.leeds.ac.uk/news-science/news/article/4669/astronomers-explain-dying-stars-beautiful-dust-clouds" target="_blank" rel="noopener noreferrer nofollow">https://www.leeds.ac.uk/news-science/news/article/4669/astronomers-explain-dying-stars-beautiful-dust-clouds</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Astronomers explain dying stars&#x27; beautiful dust clouds18 Sept 2020 — Astronomers have discovered why dust clouds around fading stars form...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: universemagazine.com  
    Title: 800 stars disappeared from the night sky without a trace in the last 70 years  
-   Link: <a href="https://universemagazine.com/en/800-stars-disappeared-from-the-night-sky-without-a-trace-in-the-last-70-years/?srsltid=AfmBOoo_kcvMvdKg6THfXV9lziOtRV7SX9dwon59MOXSzn9Rw9LxRKM3" target="_blank" rel="noopener noreferrer nofollow">https://universemagazine.com/en/800-stars-disappeared-from-the-night-sky-without-a-trace-in-the-last-70-years/?srsltid=AfmBOoo_kcvMvdKg6THfXV9lziOtRV7SX9dwon59MOXSzn9Rw9LxRKM3</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Many natural explanations have been proposed, such as a collection of comets passing...Read more...</p></details>
+   Link:<a href="https://universemagazine.com/en/800-stars-disappeared-from-the-night-sky-without-a-trace-in-the-last-70-years/?srsltid=AfmBOoo_kcvMvdKg6THfXV9lziOtRV7SX9dwon59MOXSzn9Rw9LxRKM3" target="_blank" rel="noopener noreferrer nofollow">https://universemagazine.com/en/800-stars-disappeared-from-the-night-sky-without-a-trace-in-the-last-70-years/?srsltid=AfmBOoo_kcvMvdKg6THfXV9lziOtRV7SX9dwon59MOXSzn9Rw9LxRKM3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Many natural explanations have been proposed, such as a collection of comets passing...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: iflscience.com  
    Title: Hundreds Of Stars Have Vanished Without A Trace  
-   Link: <a href="https://www.iflscience.com/hundreds-of-stars-have-vanished-without-a-trace-a-new-study-could-explain-why-74343" target="_blank" rel="noopener noreferrer nofollow">https://www.iflscience.com/hundreds-of-stars-have-vanished-without-a-trace-a-new-study-could-explain-why-74343</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A New...23 May 2024 — What The UFO? Inside The US&#x27;s Biggest &quot;Alien&quot; Sighting Database... star suddenly extinguish and disappear from th...</p></details>
+   Link:<a href="https://www.iflscience.com/hundreds-of-stars-have-vanished-without-a-trace-a-new-study-could-explain-why-74343" target="_blank" rel="noopener noreferrer nofollow">https://www.iflscience.com/hundreds-of-stars-have-vanished-without-a-trace-a-new-study-could-explain-why-74343</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A New...23 May 2024 — What The UFO? Inside The US&#x27;s Biggest &quot;Alien&quot; Sighting Database... star suddenly extinguish and disappear from th...</p></details>
    Published: May 2024  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: indico.unina.it  
    Title: 2004 Review of Astronomy Education Research  
-   Link: <a href="https://indico.unina.it/event/73/contributions/1042/attachments/359/632/2004_-_Review_of_Astronomy_Education_Research.pdf" target="_blank" rel="noopener noreferrer nofollow">https://indico.unina.it/event/73/contributions/1042/attachments/359/632/2004_-_Review_of_Astronomy_Education_Research.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Review of Astronomy Education Researchby JM Bailey · 2003 · Cited by 331 — Abstract. The field of astronomy education is rapidly growing...</p></details>
+   Link:<a href="https://indico.unina.it/event/73/contributions/1042/attachments/359/632/2004_-_Review_of_Astronomy_Education_Research.pdf" target="_blank" rel="noopener noreferrer nofollow">https://indico.unina.it/event/73/contributions/1042/attachments/359/632/2004_-_Review_of_Astronomy_Education_Research.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Review of Astronomy Education Researchby JM Bailey · 2003 · Cited by 331 — Abstract. The field of astronomy education is rapidly growing...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/TexasAstronomicalSociety/posts/10158722244467728/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/TexasAstronomicalSociety/posts/10158722244467728/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>passing in front of the star, that they&#x27;re the result of strong...</p></details>
+   Link:<a href="https://www.facebook.com/groups/TexasAstronomicalSociety/posts/10158722244467728/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/TexasAstronomicalSociety/posts/10158722244467728/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>passing in front of the star, that they&#x27;re the result of strong...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
    Title: Stars flying in the sky and disappearing  
-   Link: <a href="https://www.reddit.com/r/UFOB/comments/1iwslfb/stars_flying_in_the_sky_and_disappearing_whats/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1iwslfb/stars_flying_in_the_sky_and_disappearing_whats/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What&#x27;s this?: r/UFOBThey &quot;disappear&quot; beacause they are moving out of the sunlight into the penumbra and then into the shadow. Most of th...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOB/comments/1iwslfb/stars_flying_in_the_sky_and_disappearing_whats/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1iwslfb/stars_flying_in_the_sky_and_disappearing_whats/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What&#x27;s this?: r/UFOBThey &quot;disappear&quot; beacause they are moving out of the sunlight into the penumbra and then into the shadow. Most of th...</p></details>

@@ -504,7 +504,7 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253-overvie
 Distant aircraft are one of the most durable causes of UFO reports because they combine a real object, a real light and a misleading viewing geometry. A plane seen head-on may look motionless for several minutes; a landing light can outshine the red, green and white navigation lights that would normally give the game away; haze can erase the aircraft body; and a turn can make a steady light suddenly seem to accelerate, vanish or change direction. This is not a claim that every strange light is an aircraft. It is a specific mechanism: ordinary aircraft become convincing IFOs when distance, angle, lighting and expectation remove the cues people rely on to judge size, speed and identity.
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253-overview.webp" | relative_url }}" alt="Overview image for Aircraft Lights" loading="eager" decoding="sync" fetchpriority="high">
-The pattern is old enough to appear in official UFO-era records and current enough to matter in modern UAP analysis. The US Air Force’s Project Blue Book recorded 12,618 reports between 1947 and 1969, with 701 left unidentified, and the Air Force’s published conclusions did not find evidence that the unidentified residue represented extraterrestrial vehicles or technology beyond known science. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span> In the aircraft-lights subset, the key question is usually not “could a plane have lights?” but “could this particular viewing angle make a plane look unlike a plane?”
+The pattern is old enough to appear in official UFO-era records and current enough to matter in modern UAP analysis. The US Air Force’s Project Blue Book recorded 12,618 reports between 1947 and 1969, with 701 left unidentified, and the Air Force’s published conclusions did not find evidence that the unidentified residue represented extraterrestrial vehicles or technology beyond known science.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span> In the aircraft-lights subset, the key question is usually not “could a plane have lights?” but “could this particular viewing angle make a plane look unlike a plane?”
 
 ## Why planes can fool witnesses
 
@@ -512,16 +512,16 @@ A nearby aircraft is usually easy to recognise: you can see a fuselage, wings, e
 
 This is why aircraft reports often contain sincere but misleading phrases such as “silent”, “hovering”, “huge”, “shot away” or “moved impossibly fast”. Sound may not carry clearly from a high or distant aircraft, especially in wind, traffic noise or urban background sound. A plane flying roughly towards the observer has little sideways movement across the field of view, so it may appear suspended in one place until it turns. A later turn can reveal side-on motion and make the object seem to “take off” suddenly, even though its speed has not changed.
 
-Aviation safety material makes the same perceptual point from the opposite side: even trained [pilots]({{ 'pilots/' | relative_url }}) can misjudge lights at night. SKYbrary, an aviation safety knowledge base, notes that autokinesis can make a stationary light in the distance appear to move when watched against a dark background; it also warns that night approaches and poor visual cues distort judgements of position, distance and flight path. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skybrary.aero/articles/visual-illusions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-title">Visual Illusions &#124; SKYbrary Aviation Safety</span><span class="citation-popover-snippet">Visual Illusions &#124; SKYbrary Aviation Safety</span></span></span> That matters for UFO reports because ground witnesses face an even harder version of the problem: they usually lack instruments, altitude information, radio calls and runway context.
+Aviation safety material makes the same perceptual point from the opposite side: even trained [pilots]({{ 'pilots/' | relative_url }}) can misjudge lights at night. SKYbrary, an aviation safety knowledge base, notes that autokinesis can make a stationary light in the distance appear to move when watched against a dark background; it also warns that night approaches and poor visual cues distort judgements of position, distance and flight path.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skybrary.aero/articles/visual-illusions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-title">Visual Illusions &#124; SKYbrary Aviation Safety</span><span class="citation-popover-snippet">Visual Illusions &#124; SKYbrary Aviation Safety</span></span></span> That matters for UFO reports because ground witnesses face an even harder version of the problem: they usually lack instruments, altitude information, radio calls and runway context.
 
 The practical result is a common sighting sequence. A person notices a bright, silent light low in the sky. It seems fixed, or nearly fixed. Then it dims, splits into smaller lights, begins flashing, or moves away. The witness’s first interpretation — a hovering object — can feel confirmed by the minutes when the light barely moved. But the later change may simply be the aircraft turning, descending, changing landing-light angle, passing through haze, or revealing its navigation and anti-collision lights.
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253-Illustration-1-dark.svg" | relative_url }}" alt="Aircraft Lights illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The aircraft light pattern that looks least like an aircraft
 
-Aircraft lighting is designed for safety, not for making aircraft intuitive to distant observers. In US civil aviation rules, aircraft operating from sunset to sunrise must have lighted position lights, and aircraft equipped with anti-collision lights must generally use them unless the pilot decides that operating conditions make turning them off safer. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-C/section-91.209" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecfr.gov">[eCFR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecfr.gov</span><span class="citation-popover-snippet">14 CFR 91.209 -- Aircraft lights. (FAR 91.209)...</span></span></span> In UK and European rules, aircraft at night similarly display anti-collision lights and, except for balloons, navigation lights intended to show the aircraft’s relative path. <span class="citation-chip-wrap"><a class="citation-chip" href="https://regulatorylibrary.caa.co.uk/923-2012/Content/Regs/00880_SERA3215_Lights_to_be_displayed_by_aircraft.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: regulatorylibrary.caa.co.uk">[Regulatory Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">regulatorylibrary.caa.co.uk</span><span class="citation-popover-title">00880 SERA3215 Lights to be displayed by aircraft</span><span class="citation-popover-snippet">00880 SERA3215 Lights to be displayed by aircraft</span></span></span>
+Aircraft lighting is designed for safety, not for making aircraft intuitive to distant observers. In US civil aviation rules, aircraft operating from sunset to sunrise must have lighted position lights, and aircraft equipped with anti-collision lights must generally use them unless the pilot decides that operating conditions make turning them off safer.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-C/section-91.209" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecfr.gov">[eCFR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecfr.gov</span><span class="citation-popover-snippet">14 CFR 91.209 -- Aircraft lights. (FAR 91.209)...</span></span></span> In UK and European rules, aircraft at night similarly display anti-collision lights and, except for balloons, navigation lights intended to show the aircraft’s relative path.<span class="citation-chip-wrap"><a class="citation-chip" href="https://regulatorylibrary.caa.co.uk/923-2012/Content/Regs/00880_SERA3215_Lights_to_be_displayed_by_aircraft.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: regulatorylibrary.caa.co.uk">[Regulatory Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">regulatorylibrary.caa.co.uk</span><span class="citation-popover-title">00880 SERA3215 Lights to be displayed by aircraft</span><span class="citation-popover-snippet">00880 SERA3215 Lights to be displayed by aircraft</span></span></span>
 
-From the ground, however, those lights do not always read as a tidy “aircraft signature”. Position lights can be faint at range. Strobes may be hidden by angle, haze or cloud. [Landing lights]({{ 'landing-lights/' | relative_url }}) can dominate everything else. The FAA’s Aeronautical Information Publication says pilots are encouraged to use landing lights below 10,000 feet, day or night, especially within 10 miles of an airport, in reduced visibility, and in areas where birds may be expected. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Federal_Aviation_Administration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Federal Aviation Administration</span></span></span> That safety practice helps other pilots see the aircraft, but it also creates exactly the kind of intense single light that a ground observer may describe as a glowing orb.
+From the ground, however, those lights do not always read as a tidy “aircraft signature”. Position lights can be faint at range. Strobes may be hidden by angle, haze or cloud. [Landing lights]({{ 'landing-lights/' | relative_url }}) can dominate everything else. The FAA’s Aeronautical Information Publication says pilots are encouraged to use landing lights below 10,000 feet, day or night, especially within 10 miles of an airport, in reduced visibility, and in areas where birds may be expected.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Federal_Aviation_Administration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Federal Aviation Administration</span></span></span> That safety practice helps other pilots see the aircraft, but it also creates exactly the kind of intense single light that a ground observer may describe as a glowing orb.
 
 This is especially important near airports, approach corridors and coastal or urban areas where aircraft may be descending with lights on long before the witness recognises the path. A plane on final approach can appear as a single white or yellow-white light for a surprisingly long time. If the wings are nearly level and the aircraft is aligned with the viewer, the red and green position lights may be too dim or too close together to separate. Only as the angle changes do the familiar blinking strobes and coloured lights become obvious.
 
@@ -544,24 +544,24 @@ The important point is not that witnesses are careless. It is that the lighting 
 
 ## Sunlight glints and approach lights
 
-Some aircraft sightings happen before full darkness, when the confusing light is not a lamp but reflected sunlight. A polished fuselage, wing, canopy or high-altitude contrail can flare brightly while the rest of the aircraft remains invisible. Project Blue Book material explicitly noted that aircraft at high altitude and distance could appear in shapes ranging from discs to rockets because sunlight reflected from bright surfaces; it also noted that jet condensation trails could look fiery red or orange when reflecting sunlight. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[ESD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">ESDProject Blue Book</span><span class="citation-popover-snippet">ESDProject Blue Book</span></span></span>
+Some aircraft sightings happen before full darkness, when the confusing light is not a lamp but reflected sunlight. A polished fuselage, wing, canopy or high-altitude contrail can flare brightly while the rest of the aircraft remains invisible. Project Blue Book material explicitly noted that aircraft at high altitude and distance could appear in shapes ranging from discs to rockets because sunlight reflected from bright surfaces; it also noted that jet condensation trails could look fiery red or orange when reflecting sunlight.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[ESD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">ESDProject Blue Book</span><span class="citation-popover-snippet">ESDProject Blue Book</span></span></span>
 
 This produces a different kind of “UFO” from the night-time landing-light case. Instead of a steady white point, the witness may see a bright metallic flash, a reddish streak, a cigar shape, or a glowing object that appears and disappears. The disappearance can feel dramatic, but the cause may be simple: the aircraft has changed angle, moved out of the sun-reflection geometry, or passed into a section of sky where haze and background brightness hide it.
 
 Approach lights can be just as deceptive, but in a more patient way. A landing aircraft does not need to be close to seem bright. Powerful forward-facing lights can be visible from far away, and when the aircraft is travelling along a line close to the observer’s line of sight, the light may hold almost the same position against the background. The witness sees a “stationary” light; the pilot is actually covering miles.
 
-Night visual-approach research shows why judging distance from lights alone is treacherous. SKYbrary notes that on clear nights lights can be seen from a long distance and distance is hard to judge without landmarks or electronic aids; in poor visibility, objects may appear farther away than they are. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skybrary.aero/articles/night-visual-approaches" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-title">Night Visual Approaches &#124; SKYbrary Aviation Safety</span><span class="citation-popover-snippet">Night Visual Approaches &#124; SKYbrary Aviation Safety</span></span></span> For a UFO witness, that same uncertainty can invert the story: a distant aircraft can be imagined as a nearby hovering object, or a nearby aircraft can be imagined as a huge object far away.
+Night visual-approach research shows why judging distance from lights alone is treacherous. SKYbrary notes that on clear nights lights can be seen from a long distance and distance is hard to judge without landmarks or electronic aids; in poor visibility, objects may appear farther away than they are.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skybrary.aero/articles/night-visual-approaches" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-title">Night Visual Approaches &#124; SKYbrary Aviation Safety</span><span class="citation-popover-snippet">Night Visual Approaches &#124; SKYbrary Aviation Safety</span></span></span> For a UFO witness, that same uncertainty can invert the story: a distant aircraft can be imagined as a nearby hovering object, or a nearby aircraft can be imagined as a huge object far away.
 
 A useful test is whether the light eventually resolves into an aircraft pattern. Does it begin to show a red or green side light? Does a white strobe flash at intervals? Does it follow a plausible path towards or away from an airport? Does it align with known arrival routes? None of these checks is perfect, but together they often turn a strange light into an ordinary flight.
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253-Illustration-2-dark.svg" | relative_url }}" alt="Aircraft Lights illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Afterburners, contrails and angle changes
 
-Military jets add another layer because their exhaust, speed and manoeuvres can create reports that sound less like civil aviation. Project Blue Book’s explanatory material specifically identified [afterburners]({{ 'afterburners/' | relative_url }}) as a source of UFO reports, noting that they can be visible from great distances when the aircraft itself cannot be seen. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[ESD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">ESDProject Blue Book</span><span class="citation-popover-snippet">ESDProject Blue Book</span></span></span> A distant afterburner glow may look like a fiery object, a fast-moving light, or a sudden flare in the sky. If the aircraft then changes heading, throttles back or passes behind haze, the light can seem to vanish abruptly.
+Military jets add another layer because their exhaust, speed and manoeuvres can create reports that sound less like civil aviation. Project Blue Book’s explanatory material specifically identified [afterburners]({{ 'afterburners/' | relative_url }}) as a source of UFO reports, noting that they can be visible from great distances when the aircraft itself cannot be seen.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[ESD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">ESDProject Blue Book</span><span class="citation-popover-snippet">ESDProject Blue Book</span></span></span> A distant afterburner glow may look like a fiery object, a fast-moving light, or a sudden flare in the sky. If the aircraft then changes heading, throttles back or passes behind haze, the light can seem to vanish abruptly.
 
 Contrails can also mislead. At sunset, a high-altitude contrail may catch sunlight after the ground is already in shadow, turning orange, red or gold against a darker sky. Because the aircraft itself may be too small to see, the glowing trail can be read as an object. Wind shear and changing viewing angle can make the trail seem curved, broken or detached. This is not the same mechanism as a meteor or rocket plume, but to a casual viewer the visual vocabulary can overlap: streak, flame, glowing tail, sudden fade.
 
-Angle change is the quietest but most common trick. A plane flying towards the viewer shows little lateral motion. A plane turning across the viewer’s line of sight suddenly shows much more. The aircraft has not accelerated in the way the witness’s brain may infer; the apparent motion across the background has changed. AARO’s 2024 information paper on forced perspective and parallax makes the broader point that, when range is uncertain, observers and electronic sensors can misinterpret an object’s true size, distance and speed; it specifically notes that parallax can make stationary objects appear to move and slow-moving objects appear very fast. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Effect of Forced Perspective and Parallax View on UAP Observations</span><span class="citation-popover-snippet">Effect of Forced Perspective and Parallax View on UAP Observations</span></span></span>
+Angle change is the quietest but most common trick. A plane flying towards the viewer shows little lateral motion. A plane turning across the viewer’s line of sight suddenly shows much more. The aircraft has not accelerated in the way the witness’s brain may infer; the apparent motion across the background has changed. AARO’s 2024 information paper on forced perspective and parallax makes the broader point that, when range is uncertain, observers and electronic sensors can misinterpret an object’s true size, distance and speed; it specifically notes that parallax can make stationary objects appear to move and slow-moving objects appear very fast.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Effect of Forced Perspective and Parallax View on UAP Observations</span><span class="citation-popover-snippet">Effect of Forced Perspective and Parallax View on UAP Observations</span></span></span>
 
 For aircraft sightings, this matters in both directions. A real fast aircraft can look stationary when its motion is mostly along the line of sight. A normal-speed aircraft can look suddenly fast when it turns across the line of sight. A distant aircraft can look close if its lights are bright and the body is hidden. These are not exotic errors; they are ordinary consequences of trying to reconstruct three-dimensional motion from a small light on a two-dimensional sky.
 
@@ -573,7 +573,7 @@ Several ordinary factors weaken the sound cue. Distance reduces volume. Wind dir
 
 The perception problem is circular. If the witness assumes the light is nearby, silence seems impossible. If the light is actually far away, silence is expected. That is why distance estimation is the central issue. Without range, “silent” mostly means “no sound reached the witness clearly”, not “no aircraft was present”.
 
-This is also why the strongest identifications use independent context: flight-tracking records, airport direction, weather, visibility, time stamps, video metadata and multiple witnesses from separated locations. NASA’s UAP study page frames the scientific challenge in similar terms, emphasising available data, better data collection and methods that can move observations from ambiguous reports towards testable explanations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP</span><span class="citation-popover-snippet">Science UAP</span></span></span> For distant aircraft lights, the decisive data are often mundane: exact time, compass direction, elevation, nearby airports and whether the object followed an arrival or departure corridor.
+This is also why the strongest identifications use independent context: flight-tracking records, airport direction, weather, visibility, time stamps, video metadata and multiple witnesses from separated locations. NASA’s UAP study page frames the scientific challenge in similar terms, emphasising available data, better data collection and methods that can move observations from ambiguous reports towards testable explanations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP</span><span class="citation-popover-snippet">Science UAP</span></span></span> For distant aircraft lights, the decisive data are often mundane: exact time, compass direction, elevation, nearby airports and whether the object followed an arrival or departure corridor.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/diPXow8zgc8" title="How scientists use math to help explain UFO videos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=diPXow8zgc8" target="_blank" rel="noopener noreferrer">How scientists use math to help explain UFO videos</a></p><p class="youtube-embed-meta">Channel: PBS NewsHour &middot; Views: 11.7K &middot; Uploaded: April 2025 &middot; Length: 3 minutes 20 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=diPXow8zgc8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=diPXow8zgc8">Open on YouTube</a></p></div></div></div>
 
@@ -603,194 +603,194 @@ The best takeaway is not cynicism about witnesses. It is discipline about geomet
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nuBMnluJfs0" title="Replay! NASA&#x27;s Release of the Unidentified Anomalous Phenomena Report" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nuBMnluJfs0" target="_blank" rel="noopener noreferrer">Replay! NASA&#x27;s Release of the Unidentified Anomalous Phenomena Report</a></p><p class="youtube-embed-meta">Channel: VideoFromSpace &middot; Views: 71.9K &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nuBMnluJfs0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nuBMnluJfs0">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Ordinary Aircraft Look So Strange. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Ordinary Aircraft Look So Strange. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Directly relevant to aircraft-related misidentifications.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relevant to aircraft-related misidentifications.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Contains numerous aircraft explanation examples.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contains numerous aircraft explanation examples.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides modern aviation-related UFO context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides modern aviation-related UFO context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Watch the Skies! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zjI4X7ZOvOIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Watch the Skies!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Watch the Skies!">Watch the Skies!</a>
-        </h4>
-        <p class="fr-book-author">By Curtis Peebles</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Watch the Skies! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zjI4X7ZOvOIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Watch the Skies!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Watch the Skies!">Watch the Skies!</a>
+</h4>
+<p class="fr-book-author">By Curtis Peebles</p>
         
-        <p class="fr-book-desc">Documents recurring aircraft-related reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Documents recurring aircraft-related reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=telescope+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-lights-why-ordinary-aircraft-look-so-strange-ifos-causes-of-telescope-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="telescope accessory" data-ebay-reference="aircraft-lights-why-ordinary-aircraft-look-so-strange-ifos-causes-of-telescope-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Astronomical Telescope Case Heavy Duty Telescope Bag for Telescope Accessory"><img src="{{ '/assets/images/marketplace-covers/5dc3940b51aa5f8517f2.jpg' | relative_url }}" alt="Listing image for Astronomical Telescope Case Heavy Duty Telescope Bag for Telescope Accessory" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=telescope+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-lights-why-ordinary-aircraft-look-so-strange-ifos-causes-of-telescope-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="telescope accessory" data-ebay-reference="aircraft-lights-why-ordinary-aircraft-look-so-strange-ifos-causes-of-telescope-accessory" target="_blank" rel="sponsored noopener noreferrer">Astronomical Telescope Case Heavy Duty Telescope Bag for Telescope Accessory</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=telescope+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-lights-why-ordinary-aircraft-look-so-strange-ifos-causes-of-telescope-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="telescope accessory" data-ebay-reference="aircraft-lights-why-ordinary-aircraft-look-so-strange-ifos-causes-of-telescope-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for telescope accessory">Search <span data-ebay-domain-label>eBay.co.uk</span>: telescope accessory</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=telescope+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-lights-why-ordinary-aircraft-look-so-strange-ifos-causes-of-telescope-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="telescope accessory" data-ebay-reference="aircraft-lights-why-ordinary-aircraft-look-so-strange-ifos-causes-of-telescope-accessory" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=telescope+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-lights-why-ordinary-aircraft-look-so-strange-ifos-causes-of-telescope-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="telescope accessory" data-ebay-reference="aircraft-lights-why-ordinary-aircraft-look-so-strange-ifos-causes-of-telescope-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Astronomical Telescope Case Heavy Duty Telescope Bag for Telescope Accessory"><img src="{{ '/assets/images/marketplace-covers/5dc3940b51aa5f8517f2.jpg' | relative_url }}" alt="Listing image for Astronomical Telescope Case Heavy Duty Telescope Bag for Telescope Accessory" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=telescope+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-lights-why-ordinary-aircraft-look-so-strange-ifos-causes-of-telescope-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="telescope accessory" data-ebay-reference="aircraft-lights-why-ordinary-aircraft-look-so-strange-ifos-causes-of-telescope-accessory" target="_blank" rel="sponsored noopener noreferrer">Astronomical Telescope Case Heavy Duty Telescope Bag for Telescope Accessory</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=telescope+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-lights-why-ordinary-aircraft-look-so-strange-ifos-causes-of-telescope-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="telescope accessory" data-ebay-reference="aircraft-lights-why-ordinary-aircraft-look-so-strange-ifos-causes-of-telescope-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for telescope accessory">Search<span data-ebay-domain-label>eBay.co.uk</span>: telescope accessory</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=telescope+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-lights-why-ordinary-aircraft-look-so-strange-ifos-causes-of-telescope-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="telescope accessory" data-ebay-reference="aircraft-lights-why-ordinary-aircraft-look-so-strange-ifos-causes-of-telescope-accessory" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=telescope+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-lights-why-ordinary-aircraft-look-so-strange-ifos-causes-of-telescope-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="telescope accessory" data-ebay-reference="aircraft-lights-why-ordinary-aircraft-look-so-strange-ifos-causes-of-telescope-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Celestron StarSense Autoalign Telescope Alignment Accessory #94005"><img src="{{ '/assets/images/marketplace-covers/b69feaad9beeb975a2b5.jpg' | relative_url }}" alt="Listing image for Celestron StarSense Autoalign Telescope Alignment Accessory #94005" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=telescope+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-lights-why-ordinary-aircraft-look-so-strange-ifos-causes-of-telescope-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="telescope accessory" data-ebay-reference="aircraft-lights-why-ordinary-aircraft-look-so-strange-ifos-causes-of-telescope-accessory" target="_blank" rel="sponsored noopener noreferrer">Celestron StarSense Autoalign Telescope Alignment Accessory #94005</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=telescope+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-lights-why-ordinary-aircraft-look-so-strange-ifos-causes-of-telescope-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="telescope accessory" data-ebay-reference="aircraft-lights-why-ordinary-aircraft-look-so-strange-ifos-causes-of-telescope-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for telescope accessory">Search <span data-ebay-domain-label>eBay.co.uk</span>: telescope accessory</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=telescope+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-lights-why-ordinary-aircraft-look-so-strange-ifos-causes-of-telescope-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="telescope accessory" data-ebay-reference="aircraft-lights-why-ordinary-aircraft-look-so-strange-ifos-causes-of-telescope-accessory" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=telescope+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-lights-why-ordinary-aircraft-look-so-strange-ifos-causes-of-telescope-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="telescope accessory" data-ebay-reference="aircraft-lights-why-ordinary-aircraft-look-so-strange-ifos-causes-of-telescope-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Celestron StarSense Autoalign Telescope Alignment Accessory #94005"><img src="{{ '/assets/images/marketplace-covers/b69feaad9beeb975a2b5.jpg' | relative_url }}" alt="Listing image for Celestron StarSense Autoalign Telescope Alignment Accessory #94005" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=telescope+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-lights-why-ordinary-aircraft-look-so-strange-ifos-causes-of-telescope-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="telescope accessory" data-ebay-reference="aircraft-lights-why-ordinary-aircraft-look-so-strange-ifos-causes-of-telescope-accessory" target="_blank" rel="sponsored noopener noreferrer">Celestron StarSense Autoalign Telescope Alignment Accessory #94005</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=telescope+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-lights-why-ordinary-aircraft-look-so-strange-ifos-causes-of-telescope-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="telescope accessory" data-ebay-reference="aircraft-lights-why-ordinary-aircraft-look-so-strange-ifos-causes-of-telescope-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for telescope accessory">Search<span data-ebay-domain-label>eBay.co.uk</span>: telescope accessory</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=telescope+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-lights-why-ordinary-aircraft-look-so-strange-ifos-causes-of-telescope-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="telescope accessory" data-ebay-reference="aircraft-lights-why-ordinary-aircraft-look-so-strange-ifos-causes-of-telescope-accessory" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=telescope+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-lights-why-ordinary-aircraft-look-so-strange-ifos-causes-of-telescope-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="telescope accessory" data-ebay-reference="aircraft-lights-why-ordinary-aircraft-look-so-strange-ifos-causes-of-telescope-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Celestron 94303 Eyepiece and Filter Kit - 14 Piece Telescope Accessory Set"><img src="{{ '/assets/images/marketplace-covers/c2aa35670bc9e6f0c88d.jpg' | relative_url }}" alt="Listing image for Celestron 94303 Eyepiece and Filter Kit - 14 Piece Telescope Accessory Set" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=telescope+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-lights-why-ordinary-aircraft-look-so-strange-ifos-causes-of-telescope-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="telescope accessory" data-ebay-reference="aircraft-lights-why-ordinary-aircraft-look-so-strange-ifos-causes-of-telescope-accessory" target="_blank" rel="sponsored noopener noreferrer">Celestron 94303 Eyepiece and Filter Kit - 14 Piece Telescope Accessory Set</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=telescope+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-lights-why-ordinary-aircraft-look-so-strange-ifos-causes-of-telescope-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="telescope accessory" data-ebay-reference="aircraft-lights-why-ordinary-aircraft-look-so-strange-ifos-causes-of-telescope-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for telescope accessory">Search <span data-ebay-domain-label>eBay.co.uk</span>: telescope accessory</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=telescope+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-lights-why-ordinary-aircraft-look-so-strange-ifos-causes-of-telescope-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="telescope accessory" data-ebay-reference="aircraft-lights-why-ordinary-aircraft-look-so-strange-ifos-causes-of-telescope-accessory" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=telescope+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-lights-why-ordinary-aircraft-look-so-strange-ifos-causes-of-telescope-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="telescope accessory" data-ebay-reference="aircraft-lights-why-ordinary-aircraft-look-so-strange-ifos-causes-of-telescope-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Celestron 94303 Eyepiece and Filter Kit - 14 Piece Telescope Accessory Set"><img src="{{ '/assets/images/marketplace-covers/c2aa35670bc9e6f0c88d.jpg' | relative_url }}" alt="Listing image for Celestron 94303 Eyepiece and Filter Kit - 14 Piece Telescope Accessory Set" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=telescope+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-lights-why-ordinary-aircraft-look-so-strange-ifos-causes-of-telescope-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="telescope accessory" data-ebay-reference="aircraft-lights-why-ordinary-aircraft-look-so-strange-ifos-causes-of-telescope-accessory" target="_blank" rel="sponsored noopener noreferrer">Celestron 94303 Eyepiece and Filter Kit - 14 Piece Telescope Accessory Set</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=telescope+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-lights-why-ordinary-aircraft-look-so-strange-ifos-causes-of-telescope-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="telescope accessory" data-ebay-reference="aircraft-lights-why-ordinary-aircraft-look-so-strange-ifos-causes-of-telescope-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for telescope accessory">Search<span data-ebay-domain-label>eBay.co.uk</span>: telescope accessory</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=telescope+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-lights-why-ordinary-aircraft-look-so-strange-ifos-causes-of-telescope-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="telescope accessory" data-ebay-reference="aircraft-lights-why-ordinary-aircraft-look-so-strange-ifos-causes-of-telescope-accessory" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=telescope+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-lights-why-ordinary-aircraft-look-so-strange-ifos-causes-of-telescope-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="telescope accessory" data-ebay-reference="aircraft-lights-why-ordinary-aircraft-look-so-strange-ifos-causes-of-telescope-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Telescope accessory bracket for finderscopes, red dot finder etc. 2 hole"><img src="{{ '/assets/images/marketplace-covers/45ccd233aec2ae769a02.jpg' | relative_url }}" alt="Listing image for Telescope accessory bracket for finderscopes, red dot finder etc. 2 hole" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=telescope+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-lights-why-ordinary-aircraft-look-so-strange-ifos-causes-of-telescope-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="telescope accessory" data-ebay-reference="aircraft-lights-why-ordinary-aircraft-look-so-strange-ifos-causes-of-telescope-accessory" target="_blank" rel="sponsored noopener noreferrer">Telescope accessory bracket for finderscopes, red dot finder etc. 2 hole</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=telescope+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-lights-why-ordinary-aircraft-look-so-strange-ifos-causes-of-telescope-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="telescope accessory" data-ebay-reference="aircraft-lights-why-ordinary-aircraft-look-so-strange-ifos-causes-of-telescope-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for telescope accessory">Search <span data-ebay-domain-label>eBay.co.uk</span>: telescope accessory</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=telescope+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-lights-why-ordinary-aircraft-look-so-strange-ifos-causes-of-telescope-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="telescope accessory" data-ebay-reference="aircraft-lights-why-ordinary-aircraft-look-so-strange-ifos-causes-of-telescope-accessory" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=telescope+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-lights-why-ordinary-aircraft-look-so-strange-ifos-causes-of-telescope-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="telescope accessory" data-ebay-reference="aircraft-lights-why-ordinary-aircraft-look-so-strange-ifos-causes-of-telescope-accessory" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=telescope+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-lights-why-ordinary-aircraft-look-so-strange-ifos-causes-of-telescope-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="telescope accessory" data-ebay-reference="aircraft-lights-why-ordinary-aircraft-look-so-strange-ifos-causes-of-telescope-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Telescope accessory bracket for finderscopes, red dot finder etc. 2 hole"><img src="{{ '/assets/images/marketplace-covers/45ccd233aec2ae769a02.jpg' | relative_url }}" alt="Listing image for Telescope accessory bracket for finderscopes, red dot finder etc. 2 hole" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=telescope+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-lights-why-ordinary-aircraft-look-so-strange-ifos-causes-of-telescope-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="telescope accessory" data-ebay-reference="aircraft-lights-why-ordinary-aircraft-look-so-strange-ifos-causes-of-telescope-accessory" target="_blank" rel="sponsored noopener noreferrer">Telescope accessory bracket for finderscopes, red dot finder etc. 2 hole</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=telescope+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-lights-why-ordinary-aircraft-look-so-strange-ifos-causes-of-telescope-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="telescope accessory" data-ebay-reference="aircraft-lights-why-ordinary-aircraft-look-so-strange-ifos-causes-of-telescope-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for telescope accessory">Search<span data-ebay-domain-label>eBay.co.uk</span>: telescope accessory</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=telescope+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-lights-why-ordinary-aircraft-look-so-strange-ifos-causes-of-telescope-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="telescope accessory" data-ebay-reference="aircraft-lights-why-ordinary-aircraft-look-so-strange-ifos-causes-of-telescope-accessory" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=telescope+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-lights-why-ordinary-aircraft-look-so-strange-ifos-causes-of-telescope-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="telescope accessory" data-ebay-reference="aircraft-lights-why-ordinary-aircraft-look-so-strange-ifos-causes-of-telescope-accessory" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -806,7 +806,7 @@ The best takeaway is not cynicism about witnesses. It is discipline about geomet
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -826,7 +826,7 @@ The best takeaway is not cynicism about witnesses. It is discipline about geomet
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -858,7 +858,7 @@ The best takeaway is not cynicism about witnesses. It is discipline about geomet
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -910,7 +910,7 @@ The best takeaway is not cynicism about witnesses. It is discipline about geomet
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -955,7 +955,7 @@ The best takeaway is not cynicism about witnesses. It is discipline about geomet
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -996,177 +996,177 @@ The best takeaway is not cynicism about witnesses. It is discipline about geomet
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: af.mil  
    Title: Air Force  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: skybrary.aero  
    Title: Visual Illusions | SKYbrary Aviation Safety  
-   Link: <a href="https://skybrary.aero/articles/visual-illusions" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/visual-illusions</a>  
+   Link:<a href="https://skybrary.aero/articles/visual-illusions" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/visual-illusions</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: skybrary.aero  
    Title: Night Visual Approaches | SKYbrary Aviation Safety  
-   Link: <a href="https://skybrary.aero/articles/night-visual-approaches" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/night-visual-approaches</a>  
+   Link:<a href="https://skybrary.aero/articles/night-visual-approaches" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/night-visual-approaches</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ecfr.gov  
-   Link: <a href="https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-C/section-91.209" target="_blank" rel="noopener noreferrer nofollow">https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-C/section-91.209</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>14 CFR 91.209 -- Aircraft lights. (FAR 91.209)...</p></details>
+   Link:<a href="https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-C/section-91.209" target="_blank" rel="noopener noreferrer nofollow">https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-C/section-91.209</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>14 CFR 91.209 -- Aircraft lights. (FAR 91.209)...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/aip_html/part2_enr_section_1.1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/aip_html/part2_enr_section_1.1.html</a>  
+   Link:<a href="https://www.faa.gov/air_traffic/publications/atpubs/aip_html/part2_enr_section_1.1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/aip_html/part2_enr_section_1.1.html</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: esd.whs.mil  
    Title: ESDProject Blue Book  
-   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837</a>  
+   Link:<a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: aaro.mil  
    Title: Effect of Forced Perspective and Parallax View on UAP Observations  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: science.nasa.gov  
    Title: Science UAP  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/</a>  
+   Link:<a href="https://www.faa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf</a>  
+   Link:<a href="https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/sites/faa.gov/files/Night_Ops_Ch13.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/Night_Ops_Ch13.pdf</a>  
+   Link:<a href="https://www.faa.gov/sites/faa.gov/files/Night_Ops_Ch13.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/Night_Ops_Ch13.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: science.nasa.gov  
    Title: uap independent study team final report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: skybrary.aero  
-   Link: <a href="https://skybrary.aero/articles/federal-aviation-administration-faa" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/federal-aviation-administration-faa</a>  
+   Link:<a href="https://skybrary.aero/articles/federal-aviation-administration-faa" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/federal-aviation-administration-faa</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: skybrary.aero  
-   Link: <a href="https://skybrary.aero/sensory-illusions-skyclip" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/sensory-illusions-skyclip</a>  
+   Link:<a href="https://skybrary.aero/sensory-illusions-skyclip" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/sensory-illusions-skyclip</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: skybrary.aero  
-   Link: <a href="https://skybrary.aero/bookshelf/understanding-visual-illusions-and-disorientation" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/bookshelf/understanding-visual-illusions-and-disorientation</a>  
+   Link:<a href="https://skybrary.aero/bookshelf/understanding-visual-illusions-and-disorientation" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/bookshelf/understanding-visual-illusions-and-disorientation</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: skybrary.aero  
-   Link: <a href="https://skybrary.aero/sites/default/files/bookshelf/3424.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/sites/default/files/bookshelf/3424.pdf</a>  
+   Link:<a href="https://skybrary.aero/sites/default/files/bookshelf/3424.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/sites/default/files/bookshelf/3424.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: regulatorylibrary.caa.co.uk  
    Title: 00880 SERA3215 Lights to be displayed by aircraft  
-   Link: <a href="https://regulatorylibrary.caa.co.uk/923-2012/Content/Regs/00880_SERA3215_Lights_to_be_displayed_by_aircraft.htm" target="_blank" rel="noopener noreferrer nofollow">https://regulatorylibrary.caa.co.uk/923-2012/Content/Regs/00880_SERA3215_Lights_to_be_displayed_by_aircraft.htm</a>  
+   Link:<a href="https://regulatorylibrary.caa.co.uk/923-2012/Content/Regs/00880_SERA3215_Lights_to_be_displayed_by_aircraft.htm" target="_blank" rel="noopener noreferrer nofollow">https://regulatorylibrary.caa.co.uk/923-2012/Content/Regs/00880_SERA3215_Lights_to_be_displayed_by_aircraft.htm</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: Wikipedia  
    Title: Federal Aviation Administration  
-   Link: <a href="https://en.wikipedia.org/wiki/Federal_Aviation_Administration" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Federal_Aviation_Administration</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Federal_Aviation_Administration" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Federal_Aviation_Administration</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: Wikipedia  
    Title: Landing lights  
-   Link: <a href="https://en.wikipedia.org/wiki/Landing_lights" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Landing_lights</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Landing_lights" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Landing_lights</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/FAA/?locale=en_GB" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FAA/?locale=en_GB</a>  
+   Link:<a href="https://www.facebook.com/FAA/?locale=en_GB" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FAA/?locale=en_GB</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: epicflightacademy.com  
    Title: aircraft lights  
-   Link: <a href="https://epicflightacademy.com/aircraft-lights/" target="_blank" rel="noopener noreferrer nofollow">https://epicflightacademy.com/aircraft-lights/</a>  
+   Link:<a href="https://epicflightacademy.com/aircraft-lights/" target="_blank" rel="noopener noreferrer nofollow">https://epicflightacademy.com/aircraft-lights/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: ukfsc.co.uk  
    Title: skybrary highlights  
-   Link: <a href="https://www.ukfsc.co.uk/skybrary/skybrary-highlights/" target="_blank" rel="noopener noreferrer nofollow">https://www.ukfsc.co.uk/skybrary/skybrary-highlights/</a>  
+   Link:<a href="https://www.ukfsc.co.uk/skybrary/skybrary-highlights/" target="_blank" rel="noopener noreferrer nofollow">https://www.ukfsc.co.uk/skybrary/skybrary-highlights/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: bahaistudies.net  
    Title: project blue book  
-   Link: <a href="https://www.bahaistudies.net/asma/project_blue_book.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bahaistudies.net/asma/project_blue_book.pdf</a>  
+   Link:<a href="https://www.bahaistudies.net/asma/project_blue_book.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bahaistudies.net/asma/project_blue_book.pdf</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: play.google.com  
-   Link: <a href="https://play.google.com/store/apps/details?hl=en_GB&amp;id=com.gaiamobile.channel20" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en_GB&amp;id=com.gaiamobile.channel20</a>  
+   Link:<a href="https://play.google.com/store/apps/details?hl=en_GB&amp;id=com.gaiamobile.channel20" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en_GB&amp;id=com.gaiamobile.channel20</a>  
 
 ### Additional References
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: govinfo.gov  
-   Link: <a href="https://www.govinfo.gov/content/pkg/CHRG-89hhrg50066O/pdf/CHRG-89hhrg50066O.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/CHRG-89hhrg50066O/pdf/CHRG-89hhrg50066O.pdf</a>  
+   Link:<a href="https://www.govinfo.gov/content/pkg/CHRG-89hhrg50066O/pdf/CHRG-89hhrg50066O.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/CHRG-89hhrg50066O/pdf/CHRG-89hhrg50066O.pdf</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: vedantu.com  
-   Link: <a href="https://www.vedantu.com/maths/14-in-words" target="_blank" rel="noopener noreferrer nofollow">https://www.vedantu.com/maths/14-in-words</a>  
+   Link:<a href="https://www.vedantu.com/maths/14-in-words" target="_blank" rel="noopener noreferrer nofollow">https://www.vedantu.com/maths/14-in-words</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: aui.edu  
-   Link: <a href="https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/</a>  
+   Link:<a href="https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: flywat.com  
-   Link: <a href="https://flywat.com/pages/aircraft-lighting-regulations" target="_blank" rel="noopener noreferrer nofollow">https://flywat.com/pages/aircraft-lighting-regulations</a>  
+   Link:<a href="https://flywat.com/pages/aircraft-lighting-regulations" target="_blank" rel="noopener noreferrer nofollow">https://flywat.com/pages/aircraft-lighting-regulations</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/nsibofficial/posts/aircraft-lighting-ensures-safe-flight-operations-through-four-key-types-of-light/915547463938238/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nsibofficial/posts/aircraft-lighting-ensures-safe-flight-operations-through-four-key-types-of-light/915547463938238/</a>  
+   Link:<a href="https://www.facebook.com/nsibofficial/posts/aircraft-lighting-ensures-safe-flight-operations-through-four-key-types-of-light/915547463938238/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nsibofficial/posts/aircraft-lighting-ensures-safe-flight-operations-through-four-key-types-of-light/915547463938238/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/askastronomy/comments/1os4a0p/any_idea_what_this_is/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askastronomy/comments/1os4a0p/any_idea_what_this_is/</a>  
+   Link:<a href="https://www.reddit.com/r/askastronomy/comments/1os4a0p/any_idea_what_this_is/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askastronomy/comments/1os4a0p/any_idea_what_this_is/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/deafpilots/posts/1545660949225139/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/deafpilots/posts/1545660949225139/</a>  
+   Link:<a href="https://www.facebook.com/groups/deafpilots/posts/1545660949225139/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/deafpilots/posts/1545660949225139/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1g3xs9k/can_someone_explain_to_me_what_this_is/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1g3xs9k/can_someone_explain_to_me_what_this_is/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1g3xs9k/can_someone_explain_to_me_what_this_is/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1g3xs9k/can_someone_explain_to_me_what_this_is/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/AVIO.KNOWLEDGE/posts/captured-a-stunning-parallax-effect-from-one-aircraft-to-another-in-flight-this-/1526781522821665/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AVIO.KNOWLEDGE/posts/captured-a-stunning-parallax-effect-from-one-aircraft-to-another-in-flight-this-/1526781522821665/</a>
+   Link:<a href="https://www.facebook.com/AVIO.KNOWLEDGE/posts/captured-a-stunning-parallax-effect-from-one-aircraft-to-another-in-flight-this-/1526781522821665/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AVIO.KNOWLEDGE/posts/captured-a-stunning-parallax-effect-from-one-aircraft-to-another-in-flight-this-/1526781522821665/</a>

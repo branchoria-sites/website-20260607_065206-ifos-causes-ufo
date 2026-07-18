@@ -274,14 +274,14 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1_hid
 
 ## Introduction
 
-A surprising number of local UFO reports begin with a simple misunderstanding: the witness sees moving lights in the sky but never sees the venue producing them. Nightclubs, fairs, sports grounds, concerts, promotional events and seasonal celebrations often use powerful [searchlights]({{ 'searchlights/' | relative_url }}) designed to be visible for many kilometres. When those beams strike low cloud, haze or mist, they can create bright moving patches that appear to hover, accelerate or manoeuvre silently overhead. Because the source may be hidden behind buildings, hills or distance, observers can easily conclude that the lights originate in the sky itself rather than on the ground. Astronomical outreach organisations and UFO-identification guides routinely cite event searchlights as a common cause of unexplained night-sky sightings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bco.ie/how-to-identify-a-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bco.ie">[MTU Blackrock Castle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bco.ie</span><span class="citation-popover-snippet">MTU Blackrock CastleHow To Identify A UFO - MTU Blackrock CastleAugust 15, 2022 — Local festivals and event organisers sometimes use sear...</span><span class="citation-popover-meta">Published: August 15, 2022</span></span></span>
+A surprising number of local UFO reports begin with a simple misunderstanding: the witness sees moving lights in the sky but never sees the venue producing them. Nightclubs, fairs, sports grounds, concerts, promotional events and seasonal celebrations often use powerful [searchlights]({{ 'searchlights/' | relative_url }}) designed to be visible for many kilometres. When those beams strike low cloud, haze or mist, they can create bright moving patches that appear to hover, accelerate or manoeuvre silently overhead. Because the source may be hidden behind buildings, hills or distance, observers can easily conclude that the lights originate in the sky itself rather than on the ground. Astronomical outreach organisations and UFO-identification guides routinely cite event searchlights as a common cause of unexplained night-sky sightings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bco.ie/how-to-identify-a-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bco.ie">[MTU Blackrock Castle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bco.ie</span><span class="citation-popover-snippet">MTU Blackrock CastleHow To Identify A UFO - MTU Blackrock CastleAugust 15, 2022 — Local festivals and event organisers sometimes use sear...</span><span class="citation-popover-meta">Published: August 15, 2022</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1_hidden_event_searchl_b7f3cf-Illustration-1-dark.svg" | relative_url }}" alt="Event beams illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1_hidden_event_searchl_b7f3cf-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1_hidden_event_searchl_b7f3cf-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Was the UFO really an event searchlight?
 
 Within the broader category of searchlights and ground-based beams, hidden event lighting occupies a particularly important niche. Unlike obvious beams visible near a venue, these cases often involve witnesses who are several kilometres away and unaware that any event is taking place.
 
-The result is a classic perception problem. The observer sees the effect but not the cause. A bright spot projected onto cloud can appear detached from any ground source, especially when the cloud layer is low and the beam itself is difficult to see. Because the illuminated area can move rapidly across a large section of cloud, it may seem to display speeds and direction changes that would be impossible for a physical aircraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bco.ie/how-to-identify-a-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bco.ie">[MTU Blackrock Castle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bco.ie</span><span class="citation-popover-snippet">MTU Blackrock CastleHow To Identify A UFO - MTU Blackrock CastleAugust 15, 2022 — Local festivals and event organisers sometimes use sear...</span><span class="citation-popover-meta">Published: August 15, 2022</span></span></span>
+The result is a classic perception problem. The observer sees the effect but not the cause. A bright spot projected onto cloud can appear detached from any ground source, especially when the cloud layer is low and the beam itself is difficult to see. Because the illuminated area can move rapidly across a large section of cloud, it may seem to display speeds and direction changes that would be impossible for a physical aircraft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bco.ie/how-to-identify-a-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bco.ie">[MTU Blackrock Castle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bco.ie</span><span class="citation-popover-snippet">MTU Blackrock CastleHow To Identify A UFO - MTU Blackrock CastleAugust 15, 2022 — Local festivals and event organisers sometimes use sear...</span><span class="citation-popover-meta">Published: August 15, 2022</span></span></span>
 
 Reports frequently describe:
 
@@ -295,7 +295,7 @@ Reports frequently describe:
 
 </div>
 
-These behaviours are entirely consistent with rotating or computer-controlled event searchlights sweeping across cloud bases rather than with independent airborne objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bco.ie/how-to-identify-a-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bco.ie">[MTU Blackrock Castle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bco.ie</span><span class="citation-popover-snippet">MTU Blackrock CastleHow To Identify A UFO - MTU Blackrock CastleAugust 15, 2022 — Local festivals and event organisers sometimes use sear...</span><span class="citation-popover-meta">Published: August 15, 2022</span></span></span>
+These behaviours are entirely consistent with rotating or computer-controlled event searchlights sweeping across cloud bases rather than with independent airborne objects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bco.ie/how-to-identify-a-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bco.ie">[MTU Blackrock Castle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bco.ie</span><span class="citation-popover-snippet">MTU Blackrock CastleHow To Identify A UFO - MTU Blackrock CastleAugust 15, 2022 — Local festivals and event organisers sometimes use sear...</span><span class="citation-popover-meta">Published: August 15, 2022</span></span></span>
 
 ## Why distant venues can look overhead
 
@@ -305,7 +305,7 @@ A nightclub or fairground only a few kilometres away can project light onto clou
 
 Cloud geometry also contributes to the illusion. A light projected onto a low cloud layer can seem much closer than it really is. Because the observer lacks depth cues at night, estimating altitude becomes difficult. A patch of illuminated cloud may be interpreted as a solid luminous object rather than a projection surface.
 
-Astronomy educators at Blackrock Castle Observatory specifically note that rapidly moving diffuse lights illuminating clouds are often produced by searchlights used by festivals and event organisers. They also note that multiple lights may be visible simultaneously, a feature commonly reported in UFO sightings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bco.ie/how-to-identify-a-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bco.ie">[MTU Blackrock Castle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bco.ie</span><span class="citation-popover-snippet">MTU Blackrock CastleHow To Identify A UFO - MTU Blackrock CastleAugust 15, 2022 — Local festivals and event organisers sometimes use sear...</span><span class="citation-popover-meta">Published: August 15, 2022</span></span></span>
+Astronomy educators at Blackrock Castle Observatory specifically note that rapidly moving diffuse lights illuminating clouds are often produced by searchlights used by festivals and event organisers. They also note that multiple lights may be visible simultaneously, a feature commonly reported in UFO sightings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bco.ie/how-to-identify-a-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bco.ie">[MTU Blackrock Castle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bco.ie</span><span class="citation-popover-snippet">MTU Blackrock CastleHow To Identify A UFO - MTU Blackrock CastleAugust 15, 2022 — Local festivals and event organisers sometimes use sear...</span><span class="citation-popover-meta">Published: August 15, 2022</span></span></span>
 
 ### Why the source often remains unnoticed
 
@@ -342,7 +342,7 @@ Common sources include:
 
 The purpose of these lights is precisely to draw attention from long distances. Ironically, the same visibility that makes them effective advertising tools also makes them a recurring source of UFO reports.
 
-Online discussions provide numerous examples of residents reporting mysterious lights over clouds, only for other observers to identify them as commercial searchlights. In many cases, people initially interpret the lights as unusual aerial objects because the venue itself is not visible from their location. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/Unexplained/comments/1hv6p6k/anyone_know_what_these_are/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Anyone know what these are?: r/UnexplainedIt&#x27;s light from the ground shining on clouds. The only way to know exactly what lights...</span></span></span>
+Online discussions provide numerous examples of residents reporting mysterious lights over clouds, only for other observers to identify them as commercial searchlights. In many cases, people initially interpret the lights as unusual aerial objects because the venue itself is not visible from their location.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/Unexplained/comments/1hv6p6k/anyone_know_what_these_are/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Anyone know what these are?: r/UnexplainedIt&#x27;s light from the ground shining on clouds. The only way to know exactly what lights...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1_hidden_event_searchl_b7f3cf-Illustration-2-dark.svg" | relative_url }}" alt="Event beams illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1_hidden_event_searchl_b7f3cf-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1_hidden_event_searchl_b7f3cf-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Repetition is a clue
@@ -351,7 +351,7 @@ One useful diagnostic feature is repetition.
 
 Many UFO witnesses describe lights following identical paths again and again. A pair of lights may cross, separate and reunite at regular intervals. Others report circular sweeps occurring every few seconds.
 
-Such behaviour strongly suggests programmed lighting rather than autonomous flight. Searchlight systems frequently use rotating mounts or computer-controlled movement patterns designed to create eye-catching displays. When projected onto cloud, these patterns become large-scale moving shapes in the sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bco.ie/how-to-identify-a-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bco.ie">[MTU Blackrock Castle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bco.ie</span><span class="citation-popover-snippet">MTU Blackrock CastleHow To Identify A UFO - MTU Blackrock CastleAugust 15, 2022 — Local festivals and event organisers sometimes use sear...</span><span class="citation-popover-meta">Published: August 15, 2022</span></span></span>
+Such behaviour strongly suggests programmed lighting rather than autonomous flight. Searchlight systems frequently use rotating mounts or computer-controlled movement patterns designed to create eye-catching displays. When projected onto cloud, these patterns become large-scale moving shapes in the sky.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bco.ie/how-to-identify-a-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bco.ie">[MTU Blackrock Castle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bco.ie</span><span class="citation-popover-snippet">MTU Blackrock CastleHow To Identify A UFO - MTU Blackrock CastleAugust 15, 2022 — Local festivals and event organisers sometimes use sear...</span><span class="citation-popover-meta">Published: August 15, 2022</span></span></span>
 
 ## Checking adverts, permits and local reports
 
@@ -396,197 +396,197 @@ Hidden event searchlights occupy an awkward middle ground between ordinary and e
 
 Unlike aircraft, planets or [satellites]({{ 'satellites/' | relative_url }}), they do not have a widely recognised appearance. A witness may therefore dismiss familiar explanations while remaining unaware that a fairground, nightclub or promotional event can project dramatic moving shapes onto cloud several kilometres away.
 
-For this reason, event searchlights remain one of the most practical and frequently overlooked explanations for local night-time UFO reports. When the source is hidden and only the illuminated cloud is visible, a commercial lighting display can convincingly mimic silent, manoeuvring objects in the sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bco.ie/how-to-identify-a-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bco.ie">[MTU Blackrock Castle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bco.ie</span><span class="citation-popover-snippet">MTU Blackrock CastleHow To Identify A UFO - MTU Blackrock CastleAugust 15, 2022 — Local festivals and event organisers sometimes use sear...</span><span class="citation-popover-meta">Published: August 15, 2022</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-title">things mistaken for ufos</span><span class="citation-popover-snippet">Here we&#x27;ll look at some of the most likely suspects.Read more...</span></span></span>
+For this reason, event searchlights remain one of the most practical and frequently overlooked explanations for local night-time UFO reports. When the source is hidden and only the illuminated cloud is visible, a commercial lighting display can convincingly mimic silent, manoeuvring objects in the sky.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bco.ie/how-to-identify-a-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bco.ie">[MTU Blackrock Castle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bco.ie</span><span class="citation-popover-snippet">MTU Blackrock CastleHow To Identify A UFO - MTU Blackrock CastleAugust 15, 2022 — Local festivals and event organisers sometimes use sear...</span><span class="citation-popover-meta">Published: August 15, 2022</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-title">things mistaken for ufos</span><span class="citation-popover-snippet">Here we&#x27;ll look at some of the most likely suspects.Read more...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Was the UFO really an event searchlight?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Was the UFO really an event searchlight?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Shows how ordinary human activities can generate UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how ordinary human activities can generate UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Encourages systematic observation before concluding a sighting is unusual.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages systematic observation before concluding a sighting is unusual.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cloudspotter&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=gbDYPEiB0T0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Cloudspotter&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cloudspotter&#x27;s Guide">The Cloudspotter&#x27;s Guide</a>
-        </h4>
-        <p class="fr-book-author">By Gavin Pretor-Pinney</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cloudspotter&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=gbDYPEiB0T0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Cloudspotter&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cloudspotter&#x27;s Guide">The Cloudspotter&#x27;s Guide</a>
+</h4>
+<p class="fr-book-author">By Gavin Pretor-Pinney</p>
         
-        <p class="fr-book-desc">Helps readers understand why clouds become projection screens.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand why clouds become projection screens.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Demonstrates the importance of finding mundane explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Demonstrates the importance of finding mundane explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cloudspotter%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cloudspotter&#x27;s books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cloudspotter%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cloudspotter&#x27;s books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=event+searchlight&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ufo-really-an-event-searchlight-event-searchlight&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="event searchlight" data-ebay-reference="was-the-ufo-really-an-event-searchlight-event-searchlight" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Searchlight (Paperback or Softback)"><img src="https://i.ebayimg.com/images/g/SJQAAeSwFbNp~nUS/s-l225.jpg" alt="Listing image for Searchlight (Paperback or Softback)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=event+searchlight&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ufo-really-an-event-searchlight-event-searchlight&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="event searchlight" data-ebay-reference="was-the-ufo-really-an-event-searchlight-event-searchlight" target="_blank" rel="sponsored noopener noreferrer">Searchlight (Paperback or Softback)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=event+searchlight&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ufo-really-an-event-searchlight-event-searchlight&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="event searchlight" data-ebay-reference="was-the-ufo-really-an-event-searchlight-event-searchlight" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for event searchlight">Search <span data-ebay-domain-label>eBay.co.uk</span>: event searchlight</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=event+searchlight&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ufo-really-an-event-searchlight-event-searchlight&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="event searchlight" data-ebay-reference="was-the-ufo-really-an-event-searchlight-event-searchlight" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=event+searchlight&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ufo-really-an-event-searchlight-event-searchlight&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="event searchlight" data-ebay-reference="was-the-ufo-really-an-event-searchlight-event-searchlight" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Searchlight (Paperback or Softback)"><img src="https://i.ebayimg.com/images/g/SJQAAeSwFbNp~nUS/s-l225.jpg" alt="Listing image for Searchlight (Paperback or Softback)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=event+searchlight&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ufo-really-an-event-searchlight-event-searchlight&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="event searchlight" data-ebay-reference="was-the-ufo-really-an-event-searchlight-event-searchlight" target="_blank" rel="sponsored noopener noreferrer">Searchlight (Paperback or Softback)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=event+searchlight&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ufo-really-an-event-searchlight-event-searchlight&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="event searchlight" data-ebay-reference="was-the-ufo-really-an-event-searchlight-event-searchlight" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for event searchlight">Search<span data-ebay-domain-label>eBay.co.uk</span>: event searchlight</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=event+searchlight&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ufo-really-an-event-searchlight-event-searchlight&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="event searchlight" data-ebay-reference="was-the-ufo-really-an-event-searchlight-event-searchlight" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=event+searchlight&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ufo-really-an-event-searchlight-event-searchlight&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="event searchlight" data-ebay-reference="was-the-ufo-really-an-event-searchlight-event-searchlight" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Big Events Hollywood Movie Prop Theatre Search Light Lamp Floor Spo"><img src="https://i.ebayimg.com/images/g/gp4AAOSw1IVbzy8Q/s-l225.jpg" alt="Listing image for Vintage Big Events Hollywood Movie Prop Theatre Search Light Lamp Floor Spo" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=event+searchlight&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ufo-really-an-event-searchlight-event-searchlight&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="event searchlight" data-ebay-reference="was-the-ufo-really-an-event-searchlight-event-searchlight" target="_blank" rel="sponsored noopener noreferrer">Vintage Big Events Hollywood Movie Prop Theatre Search Light Lamp Floor Spo</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=event+searchlight&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ufo-really-an-event-searchlight-event-searchlight&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="event searchlight" data-ebay-reference="was-the-ufo-really-an-event-searchlight-event-searchlight" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for event searchlight">Search <span data-ebay-domain-label>eBay.co.uk</span>: event searchlight</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=event+searchlight&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ufo-really-an-event-searchlight-event-searchlight&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="event searchlight" data-ebay-reference="was-the-ufo-really-an-event-searchlight-event-searchlight" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=event+searchlight&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ufo-really-an-event-searchlight-event-searchlight&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="event searchlight" data-ebay-reference="was-the-ufo-really-an-event-searchlight-event-searchlight" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Big Events Hollywood Movie Prop Theatre Search Light Lamp Floor Spo"><img src="https://i.ebayimg.com/images/g/gp4AAOSw1IVbzy8Q/s-l225.jpg" alt="Listing image for Vintage Big Events Hollywood Movie Prop Theatre Search Light Lamp Floor Spo" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=event+searchlight&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ufo-really-an-event-searchlight-event-searchlight&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="event searchlight" data-ebay-reference="was-the-ufo-really-an-event-searchlight-event-searchlight" target="_blank" rel="sponsored noopener noreferrer">Vintage Big Events Hollywood Movie Prop Theatre Search Light Lamp Floor Spo</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=event+searchlight&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ufo-really-an-event-searchlight-event-searchlight&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="event searchlight" data-ebay-reference="was-the-ufo-really-an-event-searchlight-event-searchlight" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for event searchlight">Search<span data-ebay-domain-label>eBay.co.uk</span>: event searchlight</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=event+searchlight&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ufo-really-an-event-searchlight-event-searchlight&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="event searchlight" data-ebay-reference="was-the-ufo-really-an-event-searchlight-event-searchlight" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=event+searchlight&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ufo-really-an-event-searchlight-event-searchlight&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="event searchlight" data-ebay-reference="was-the-ufo-really-an-event-searchlight-event-searchlight" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Maisto Diecast Event Searchlight Spot Light Trailer"><img src="https://i.ebayimg.com/images/g/MpgAAOSwrb1lqA3p/s-l225.jpg" alt="Listing image for Maisto Diecast Event Searchlight Spot Light Trailer" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=event+searchlight&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ufo-really-an-event-searchlight-event-searchlight&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="event searchlight" data-ebay-reference="was-the-ufo-really-an-event-searchlight-event-searchlight" target="_blank" rel="sponsored noopener noreferrer">Maisto Diecast Event Searchlight Spot Light Trailer</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=event+searchlight&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ufo-really-an-event-searchlight-event-searchlight&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="event searchlight" data-ebay-reference="was-the-ufo-really-an-event-searchlight-event-searchlight" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for event searchlight">Search <span data-ebay-domain-label>eBay.co.uk</span>: event searchlight</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=event+searchlight&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ufo-really-an-event-searchlight-event-searchlight&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="event searchlight" data-ebay-reference="was-the-ufo-really-an-event-searchlight-event-searchlight" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=event+searchlight&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ufo-really-an-event-searchlight-event-searchlight&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="event searchlight" data-ebay-reference="was-the-ufo-really-an-event-searchlight-event-searchlight" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Maisto Diecast Event Searchlight Spot Light Trailer"><img src="https://i.ebayimg.com/images/g/MpgAAOSwrb1lqA3p/s-l225.jpg" alt="Listing image for Maisto Diecast Event Searchlight Spot Light Trailer" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=event+searchlight&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ufo-really-an-event-searchlight-event-searchlight&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="event searchlight" data-ebay-reference="was-the-ufo-really-an-event-searchlight-event-searchlight" target="_blank" rel="sponsored noopener noreferrer">Maisto Diecast Event Searchlight Spot Light Trailer</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=event+searchlight&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ufo-really-an-event-searchlight-event-searchlight&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="event searchlight" data-ebay-reference="was-the-ufo-really-an-event-searchlight-event-searchlight" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for event searchlight">Search<span data-ebay-domain-label>eBay.co.uk</span>: event searchlight</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=event+searchlight&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ufo-really-an-event-searchlight-event-searchlight&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="event searchlight" data-ebay-reference="was-the-ufo-really-an-event-searchlight-event-searchlight" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=event+searchlight&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ufo-really-an-event-searchlight-event-searchlight&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="event searchlight" data-ebay-reference="was-the-ufo-really-an-event-searchlight-event-searchlight" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Maisto Diecast Event Searchlight Spot Light Trailer HTF"><img src="https://i.ebayimg.com/images/g/YTMAAOSwHY5lwnKF/s-l225.jpg" alt="Listing image for Maisto Diecast Event Searchlight Spot Light Trailer HTF" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=event+searchlight&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ufo-really-an-event-searchlight-event-searchlight&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="event searchlight" data-ebay-reference="was-the-ufo-really-an-event-searchlight-event-searchlight" target="_blank" rel="sponsored noopener noreferrer">Maisto Diecast Event Searchlight Spot Light Trailer HTF</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=event+searchlight&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ufo-really-an-event-searchlight-event-searchlight&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="event searchlight" data-ebay-reference="was-the-ufo-really-an-event-searchlight-event-searchlight" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for event searchlight">Search <span data-ebay-domain-label>eBay.co.uk</span>: event searchlight</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=event+searchlight&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ufo-really-an-event-searchlight-event-searchlight&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="event searchlight" data-ebay-reference="was-the-ufo-really-an-event-searchlight-event-searchlight" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=event+searchlight&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ufo-really-an-event-searchlight-event-searchlight&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="event searchlight" data-ebay-reference="was-the-ufo-really-an-event-searchlight-event-searchlight" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=event+searchlight&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ufo-really-an-event-searchlight-event-searchlight&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="event searchlight" data-ebay-reference="was-the-ufo-really-an-event-searchlight-event-searchlight" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Maisto Diecast Event Searchlight Spot Light Trailer HTF"><img src="https://i.ebayimg.com/images/g/YTMAAOSwHY5lwnKF/s-l225.jpg" alt="Listing image for Maisto Diecast Event Searchlight Spot Light Trailer HTF" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=event+searchlight&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ufo-really-an-event-searchlight-event-searchlight&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="event searchlight" data-ebay-reference="was-the-ufo-really-an-event-searchlight-event-searchlight" target="_blank" rel="sponsored noopener noreferrer">Maisto Diecast Event Searchlight Spot Light Trailer HTF</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=event+searchlight&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ufo-really-an-event-searchlight-event-searchlight&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="event searchlight" data-ebay-reference="was-the-ufo-really-an-event-searchlight-event-searchlight" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for event searchlight">Search<span data-ebay-domain-label>eBay.co.uk</span>: event searchlight</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=event+searchlight&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ufo-really-an-event-searchlight-event-searchlight&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="event searchlight" data-ebay-reference="was-the-ufo-really-an-event-searchlight-event-searchlight" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=event+searchlight&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ufo-really-an-event-searchlight-event-searchlight&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="event searchlight" data-ebay-reference="was-the-ufo-really-an-event-searchlight-event-searchlight" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -602,7 +602,7 @@ For this reason, event searchlights remain one of the most practical and frequen
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -622,7 +622,7 @@ For this reason, event searchlights remain one of the most practical and frequen
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -654,7 +654,7 @@ For this reason, event searchlights remain one of the most practical and frequen
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -706,7 +706,7 @@ For this reason, event searchlights remain one of the most practical and frequen
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -751,7 +751,7 @@ For this reason, event searchlights remain one of the most practical and frequen
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -792,83 +792,83 @@ For this reason, event searchlights remain one of the most practical and frequen
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Unexplained/comments/1hv6p6k/anyone_know_what_these_are/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Unexplained/comments/1hv6p6k/anyone_know_what_these_are/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Anyone know what these are?: r/UnexplainedIt&#x27;s light from the ground shining on clouds. The only way to know exactly what lights...</p></details>
+   Link:<a href="https://www.reddit.com/r/Unexplained/comments/1hv6p6k/anyone_know_what_these_are/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Unexplained/comments/1hv6p6k/anyone_know_what_these_are/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Anyone know what these are?: r/UnexplainedIt&#x27;s light from the ground shining on clouds. The only way to know exactly what lights...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ireland/comments/l9mozf/huge_searchlights_in_the_sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ireland/comments/l9mozf/huge_searchlights_in_the_sky/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Huge searchlights in the sky: r/irelandCan someone explain these strange lights out in the sky? Have seen them in sky, moving with cloud...</p></details>
+   Link:<a href="https://www.reddit.com/r/ireland/comments/l9mozf/huge_searchlights_in_the_sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ireland/comments/l9mozf/huge_searchlights_in_the_sky/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Huge searchlights in the sky: r/irelandCan someone explain these strange lights out in the sky? Have seen them in sky, moving with cloud...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: bco.ie  
-   Link: <a href="https://www.bco.ie/how-to-identify-a-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.bco.ie/how-to-identify-a-ufo/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MTU Blackrock CastleHow To Identify A UFO - MTU Blackrock CastleAugust 15, 2022 — Local festivals and event organisers sometimes use sear...</p></details>
+   Link:<a href="https://www.bco.ie/how-to-identify-a-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.bco.ie/how-to-identify-a-ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MTU Blackrock CastleHow To Identify A UFO - MTU Blackrock CastleAugust 15, 2022 — Local festivals and event organisers sometimes use sear...</p></details>
    Published: August 15, 2022  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: skyatnightmagazine.com  
    Title: things mistaken for ufos  
-   Link: <a href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Here we&#x27;ll look at some of the most likely suspects.Read more...</p></details>
+   Link:<a href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Here we&#x27;ll look at some of the most likely suspects.Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: bco.ie  
    Title: International Day of Light  
-   Link: <a href="https://www.bco.ie/international-day-of-light/" target="_blank" rel="noopener noreferrer nofollow">https://www.bco.ie/international-day-of-light/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MTU Blackrock CastleIPIC, MTU Blackrock Observatory and CAPPA invite young minds from Cork to experience the wonders of the galaxy, creat...</p></details>
+   Link:<a href="https://www.bco.ie/international-day-of-light/" target="_blank" rel="noopener noreferrer nofollow">https://www.bco.ie/international-day-of-light/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MTU Blackrock CastleIPIC, MTU Blackrock Observatory and CAPPA invite young minds from Cork to experience the wonders of the galaxy, creat...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>THE NATIONAL INVESTIGATIONS COMMITTEE ON...Blue Book UFO investigation, prepared analyses of UFO data for AF, liaison officer between Da...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE NATIONAL INVESTIGATIONS COMMITTEE ON...Blue Book UFO investigation, prepared analyses of UFO data for AF, liaison officer between Da...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: alamy.com  
-   Link: <a href="https://www.alamy.com/stock-photo/flying-saucer-lights.html" target="_blank" rel="noopener noreferrer nofollow">https://www.alamy.com/stock-photo/flying-saucer-lights.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Flying saucer lights hi-res stock photography and imagesFind the perfect flying saucer lights stock photo, image, vector, illustration or...</p></details>
+   Link:<a href="https://www.alamy.com/stock-photo/flying-saucer-lights.html" target="_blank" rel="noopener noreferrer nofollow">https://www.alamy.com/stock-photo/flying-saucer-lights.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Flying saucer lights hi-res stock photography and imagesFind the perfect flying saucer lights stock photo, image, vector, illustration or...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: x.com  
-   Link: <a href="https://x.com/blackrockcastle/status/1062331561926889472" target="_blank" rel="noopener noreferrer nofollow">https://x.com/blackrockcastle/status/1062331561926889472</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>If super-intelligent aliens were to visit Ireland, common...MTU Blackrock Castle Observatory (@blackrockcastle). 10 likes 7... lights w...</p></details>
+   Link:<a href="https://x.com/blackrockcastle/status/1062331561926889472" target="_blank" rel="noopener noreferrer nofollow">https://x.com/blackrockcastle/status/1062331561926889472</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>If super-intelligent aliens were to visit Ireland, common...MTU Blackrock Castle Observatory (@blackrockcastle). 10 likes 7... lights w...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: greywoodarts.org  
-   Link: <a href="https://greywoodarts.org/space-fest-events/" target="_blank" rel="noopener noreferrer nofollow">https://greywoodarts.org/space-fest-events/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Space Fest EventsThe workshop will use electronics and other instruments to compose communications to imagined alien life forms using mus...</p></details>
+   Link:<a href="https://greywoodarts.org/space-fest-events/" target="_blank" rel="noopener noreferrer nofollow">https://greywoodarts.org/space-fest-events/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Space Fest EventsThe workshop will use electronics and other instruments to compose communications to imagined alien life forms using mus...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/100063703086121/posts/mysterious-light-appears-in-southwales-skies-sparking-ufo-speculation-residents-/1593990752734346/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100063703086121/posts/mysterious-light-appears-in-southwales-skies-sparking-ufo-speculation-residents-/1593990752734346/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Valley TimesThe strange clouds are believed to one of the most common explanations for UFO sightings across the world, the Met Office say...</p></details>
+   Link:<a href="https://www.facebook.com/100063703086121/posts/mysterious-light-appears-in-southwales-skies-sparking-ufo-speculation-residents-/1593990752734346/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100063703086121/posts/mysterious-light-appears-in-southwales-skies-sparking-ufo-speculation-residents-/1593990752734346/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Valley TimesThe strange clouds are believed to one of the most common explanations for UFO sightings across the world, the Met Office say...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=YMqkYzxkVF0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YMqkYzxkVF0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mapping Ireland&#x27;s Night SkyUse this tutorial to explore the night sky in real-time on Friday the 7th October at 9pm. We&#x27;ll find reference...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=YMqkYzxkVF0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YMqkYzxkVF0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mapping Ireland&#x27;s Night SkyUse this tutorial to explore the night sky in real-time on Friday the 7th October at 9pm. We&#x27;ll find reference...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/DougWarner.Journalist/posts/uapufo-or-one-heck-of-a-party-i-wasnt-invited-to-in-the-fayetteville-ar-last-nig/1156384962513979/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/DougWarner.Journalist/posts/uapufo-or-one-heck-of-a-party-i-wasnt-invited-to-in-the-fayetteville-ar-last-nig/1156384962513979/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>s and causing dummies to scream &quot;UFO sighting&quot;... 1y. Jim Owen.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/DougWarner.Journalist/posts/uapufo-or-one-heck-of-a-party-i-wasnt-invited-to-in-the-fayetteville-ar-last-nig/1156384962513979/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/DougWarner.Journalist/posts/uapufo-or-one-heck-of-a-party-i-wasnt-invited-to-in-the-fayetteville-ar-last-nig/1156384962513979/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>s and causing dummies to scream &quot;UFO sighting&quot;... 1y. Jim Owen.Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DQefErtjsku/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DQefErtjsku/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>allegedly showing a &#x27;UFO sending down a giant beam of light&#x27;.Read more...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DQefErtjsku/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DQefErtjsku/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>allegedly showing a &#x27;UFO sending down a giant beam of light&#x27;.Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/andyparkertv/posts/seen-friday-night-around-8pm-in-the-sky-over-getzville-ny-anyone-have-ideas-what/1409412027214386/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/andyparkertv/posts/seen-friday-night-around-8pm-in-the-sky-over-getzville-ny-anyone-have-ideas-what/1409412027214386/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Seen Friday night around 8pm in the sky over Getzville, NY...A list of UFO reports shows a pattern of strange things hovering above the...</p></details>
+   Link:<a href="https://www.facebook.com/andyparkertv/posts/seen-friday-night-around-8pm-in-the-sky-over-getzville-ny-anyone-have-ideas-what/1409412027214386/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/andyparkertv/posts/seen-friday-night-around-8pm-in-the-sky-over-getzville-ny-anyone-have-ideas-what/1409412027214386/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Seen Friday night around 8pm in the sky over Getzville, NY...A list of UFO reports shows a pattern of strange things hovering above the...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
    Title: Unidentified flying object  
-   Link: <a href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unidentified_flying_object</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified flying objectAn unidentified flying object (UFO) is an object or phenomenon seen in the sky but not yet identified or exp...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unidentified_flying_object</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified flying objectAn unidentified flying object (UFO) is an object or phenomenon seen in the sky but not yet identified or exp...</p></details>

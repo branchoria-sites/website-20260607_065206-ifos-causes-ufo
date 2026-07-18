@@ -274,14 +274,14 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_military_flares_abb62f_hoverin
 
 ## Introduction
 
-A parachute flare can look remarkably like a hovering UFO even though it is slowly descending. The reason lies in the way military illumination flares are designed: they burn with extreme brightness while suspended beneath a parachute, allowing them to remain visible for several minutes as they drift downward. At night, when distance is difficult to judge and landmarks are hidden, that gradual descent can become almost impossible for observers to perceive. What remains is a brilliant light that appears fixed in the sky, often silent and seemingly stationary. Technical specifications for common illumination flares such as the LUU-2 series show burn times of roughly four to five minutes and descent rates of only a few metres per second, conditions that naturally create the impression of a hovering object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://towndock.net/files/LUU_Parachute_Factsheet.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: towndock.net">[towndock.net&gt; &lt;meta name=]</a><span class="citation-popover" role="note"><span class="citation-popover-source">towndock.net</span><span class="citation-popover-snippet">LUU-19B/B Infrared Flare. Like the LUU-2D/B, the LUU-19B/B...Read more...</span></span></span> GlobalSecurity Within the broader category of UFO reports caused by flares and military training lights <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.globalsecurity.org/military/systems/munitions/luu2-specs.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalsecurity.org">[globalsecurity.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalsecurity.org</span><span class="citation-popover-title">Global Security LUU-2 Flare</span><span class="citation-popover-snippet">LUU-2 Flare - Dumb Bombs7 Jul 2011 — Light Output: 1,800,000 candlepower, 1,600,000 candlepower; Burn Time: 240 sec/300 se...</span></span></span>, this “hovering flare” effect is one of the most important mechanisms because it explains why sincere witnesses can report stationary aerial objects without any unusual technology being involved.
+A parachute flare can look remarkably like a hovering UFO even though it is slowly descending. The reason lies in the way military illumination flares are designed: they burn with extreme brightness while suspended beneath a parachute, allowing them to remain visible for several minutes as they drift downward. At night, when distance is difficult to judge and landmarks are hidden, that gradual descent can become almost impossible for observers to perceive. What remains is a brilliant light that appears fixed in the sky, often silent and seemingly stationary. Technical specifications for common illumination flares such as the LUU-2 series show burn times of roughly four to five minutes and descent rates of only a few metres per second, conditions that naturally create the impression of a hovering object.<span class="citation-chip-wrap"><a class="citation-chip" href="https://towndock.net/files/LUU_Parachute_Factsheet.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: towndock.net">[towndock.net&gt; &lt;meta name=]</a><span class="citation-popover" role="note"><span class="citation-popover-source">towndock.net</span><span class="citation-popover-snippet">LUU-19B/B Infrared Flare. Like the LUU-2D/B, the LUU-19B/B...Read more...</span></span></span> GlobalSecurity Within the broader category of UFO reports caused by flares and military training lights<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.globalsecurity.org/military/systems/munitions/luu2-specs.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalsecurity.org">[globalsecurity.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalsecurity.org</span><span class="citation-popover-title">Global Security LUU-2 Flare</span><span class="citation-popover-snippet">LUU-2 Flare - Dumb Bombs7 Jul 2011 — Light Output: 1,800,000 candlepower, 1,600,000 candlepower; Burn Time: 240 sec/300 se...</span></span></span>, this “hovering flare” effect is one of the most important mechanisms because it explains why sincere witnesses can report stationary aerial objects without any unusual technology being involved.
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_military_flares_abb62f_hovering_parachute_f_898b11-Illustration-1-dark.svg" | relative_url }}" alt="Hovering flares illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_military_flares_abb62f_hovering_parachute_f_898b11-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_military_flares_abb62f_hovering_parachute_f_898b11-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How parachute flares burn and descend
 
-Military illumination flares are not intended to fall quickly. Their purpose is to light large areas of ground during night operations, training exercises, search-and-rescue missions, or target marking. To achieve that, the flare deploys a parachute after release and burns an intense magnesium-based illumination candle while descending slowly. The LUU-2 family, for example, produces roughly 1.8 million candlepower of light and can remain illuminated for around four to five minutes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://towndock.net/files/LUU_Parachute_Factsheet.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: towndock.net">[towndock.net&gt; &lt;meta name=]</a><span class="citation-popover" role="note"><span class="citation-popover-source">towndock.net</span><span class="citation-popover-snippet">LUU-19B/B Infrared Flare. Like the LUU-2D/B, the LUU-19B/B...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://magellan.aero/press-release/magellan-aerospace-announces-contracts-to-produce-aircraft-illumination-flares-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magellan.aero">[Magellan Aerospace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magellan.aero</span><span class="citation-popover-title">aerospace announces contracts to produce aircraft illumination flares 2</span><span class="citation-popover-snippet">The LUU-2 flare is a vital resource for the men and...Read more...</span></span></span>
+Military illumination flares are not intended to fall quickly. Their purpose is to light large areas of ground during night operations, training exercises, search-and-rescue missions, or target marking. To achieve that, the flare deploys a parachute after release and burns an intense magnesium-based illumination candle while descending slowly. The LUU-2 family, for example, produces roughly 1.8 million candlepower of light and can remain illuminated for around four to five minutes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://towndock.net/files/LUU_Parachute_Factsheet.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: towndock.net">[towndock.net&gt; &lt;meta name=]</a><span class="citation-popover" role="note"><span class="citation-popover-source">towndock.net</span><span class="citation-popover-snippet">LUU-19B/B Infrared Flare. Like the LUU-2D/B, the LUU-19B/B...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://magellan.aero/press-release/magellan-aerospace-announces-contracts-to-produce-aircraft-illumination-flares-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magellan.aero">[Magellan Aerospace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magellan.aero</span><span class="citation-popover-title">aerospace announces contracts to produce aircraft illumination flares 2</span><span class="citation-popover-snippet">The LUU-2 flare is a vital resource for the men and...Read more...</span></span></span>
 
-The descent is much slower than many people imagine. Technical data place the average descent rate at roughly 2.5 metres per second. At long [range]({{ 'range/' | relative_url }}), this motion can be extremely difficult to detect visually, especially when the observer lacks a reference point. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.globalsecurity.org/military/systems/munitions/luu2-specs.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalsecurity.org">[GlobalSecurity]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalsecurity.org</span><span class="citation-popover-title">Global Security LUU-2 Flare</span><span class="citation-popover-snippet">LUU-2 Flare - Dumb Bombs7 Jul 2011 — Light Output: 1,800,000 candlepower, 1,600,000 candlepower; Burn Time: 240 sec/300 se...</span></span></span>
+The descent is much slower than many people imagine. Technical data place the average descent rate at roughly 2.5 metres per second. At long [range]({{ 'range/' | relative_url }}), this motion can be extremely difficult to detect visually, especially when the observer lacks a reference point.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.globalsecurity.org/military/systems/munitions/luu2-specs.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalsecurity.org">[GlobalSecurity]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalsecurity.org</span><span class="citation-popover-title">Global Security LUU-2 Flare</span><span class="citation-popover-snippet">LUU-2 Flare - Dumb Bombs7 Jul 2011 — Light Output: 1,800,000 candlepower, 1,600,000 candlepower; Burn Time: 240 sec/300 se...</span></span></span>
 
 Several characteristics reinforce the illusion:
 
@@ -319,7 +319,7 @@ This effect becomes stronger when the flare is seen over:
 
 Under these conditions, witnesses may report that a light “hovered for several minutes” when it was actually descending continuously.
 
-Brightness itself can also distort perception. Extremely luminous objects reduce the visibility of dim background stars near them, making the light seem attached to a larger dark structure or creating the impression that it occupies a fixed position in space. Investigations of flare-related sightings have repeatedly noted this effect. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Phoenix_Lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Phoenix Lights</span><span class="citation-popover-snippet">Phoenix Lights</span></span></span>
+Brightness itself can also distort perception. Extremely luminous objects reduce the visibility of dim background stars near them, making the light seem attached to a larger dark structure or creating the impression that it occupies a fixed position in space. Investigations of flare-related sightings have repeatedly noted this effect.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Phoenix_Lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Phoenix Lights</span><span class="citation-popover-snippet">Phoenix Lights</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_military_flares_abb62f_hovering_parachute_f_898b11-Illustration-2-dark.svg" | relative_url }}" alt="Hovering flares illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_military_flares_abb62f_hovering_parachute_f_898b11-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_military_flares_abb62f_hovering_parachute_f_898b11-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Why several flares can resemble a structured craft
@@ -332,7 +332,7 @@ This is especially persuasive when the aircraft that released the flares is too 
 
 One of the most frequently discussed examples of the hovering-flare illusion occurred during the 1997 [Phoenix Lights]({{ 'phoenix-lights/' | relative_url }}) event in Arizona. Although the broader incident involved multiple reports and interpretations, the later group of lights observed near Phoenix became a classic case study in how parachute flares can appear stationary.
 
-Investigations concluded that the lights were consistent with LUU-2 illumination flares dropped during military training exercises on the Barry Goldwater Range. Witnesses described a row of bright lights that appeared to hover for extended periods. From the viewing locations around Phoenix, the slow-falling flares were distant enough that their descent was difficult to perceive. As they dropped behind the Sierra Estrella mountains, the lights appeared to extinguish one by one, reinforcing the impression of a large structured object rather than separate descending flares. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.phoenixnewtimes.com/uncategorized/phoenix-lights-ufo-mystery-explanations-19105870/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phoenixnewtimes.com">[Phoenix New Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phoenixnewtimes.com</span><span class="citation-popover-title">phoenix lights ufo mystery explanations 19105870</span><span class="citation-popover-snippet">Phoenix Lights explained: Everything to know about the...3 June 2024 — The first was a V-shaped formation of six to ten glowing orbs the...</span><span class="citation-popover-meta">Published: June 2024</span></span></span>
+Investigations concluded that the lights were consistent with LUU-2 illumination flares dropped during military training exercises on the Barry Goldwater Range. Witnesses described a row of bright lights that appeared to hover for extended periods. From the viewing locations around Phoenix, the slow-falling flares were distant enough that their descent was difficult to perceive. As they dropped behind the Sierra Estrella mountains, the lights appeared to extinguish one by one, reinforcing the impression of a large structured object rather than separate descending flares.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.phoenixnewtimes.com/uncategorized/phoenix-lights-ufo-mystery-explanations-19105870/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phoenixnewtimes.com">[Phoenix New Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phoenixnewtimes.com</span><span class="citation-popover-title">phoenix lights ufo mystery explanations 19105870</span><span class="citation-popover-snippet">Phoenix Lights explained: Everything to know about the...3 June 2024 — The first was a V-shaped formation of six to ten glowing orbs the...</span><span class="citation-popover-meta">Published: June 2024</span></span></span>
 
 The case remains notable because it demonstrates how a real aerial light source can generate genuinely unusual observations without requiring unusual physics.
 
@@ -355,199 +355,199 @@ Investigators typically look for:
 
 </div>
 
-Conversely, reports deserve further examination if the timing, location, duration or behaviour are inconsistent with known flare operations. The key point is that “hovering” by itself is not strong evidence for an extraordinary object. A slow-burning parachute flare is specifically engineered to remain suspended in the night sky, making apparent hovering one of the most predictable visual effects it produces. GlobalSecurity <span class="citation-chip-wrap"><a class="citation-chip" href="https://towndock.net/files/LUU_Parachute_Factsheet.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: towndock.net">[2towndock.net&gt; &lt;meta name=]</a><span class="citation-popover" role="note"><span class="citation-popover-source">towndock.net</span><span class="citation-popover-snippet">LUU-19B/B Infrared Flare. Like the LUU-2D/B, the LUU-19B/B...Read more...</span></span></span>
+Conversely, reports deserve further examination if the timing, location, duration or behaviour are inconsistent with known flare operations. The key point is that “hovering” by itself is not strong evidence for an extraordinary object. A slow-burning parachute flare is specifically engineered to remain suspended in the night sky, making apparent hovering one of the most predictable visual effects it produces. GlobalSecurity<span class="citation-chip-wrap"><a class="citation-chip" href="https://towndock.net/files/LUU_Parachute_Factsheet.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: towndock.net">[2towndock.net&gt; &lt;meta name=]</a><span class="citation-popover" role="note"><span class="citation-popover-source">towndock.net</span><span class="citation-popover-snippet">LUU-19B/B Infrared Flare. Like the LUU-2D/B, the LUU-19B/B...Read more...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mw6_ZrL-rNk" title="IWA New 37/38mm parachuting illuminating flare" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mw6_ZrL-rNk" target="_blank" rel="noopener noreferrer">IWA New 37/38mm parachuting illuminating flare</a></p><p class="youtube-embed-meta">Channel: I.W.A International Inc &middot; Views: 14.2K &middot; Uploaded: March 2025 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mw6_ZrL-rNk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mw6_ZrL-rNk">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why falling flares seem to hover. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why falling flares seem to hover. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ATZGAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Handbook">The UFO Handbook</a>
-        </h4>
-        <p class="fr-book-author">By Allan Hendry</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ATZGAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Handbook">The UFO Handbook</a>
+</h4>
+<p class="fr-book-author">By Allan Hendry</p>
         
-        <p class="fr-book-desc">Directly relevant to distinguishing hovering lights from conventional aerial sources.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relevant to distinguishing hovering lights from conventional aerial sources.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Phoenix+Lights+by+Lynne+D+Kitei+M+D&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Phoenix Lights on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h4lkAQAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Phoenix Lights" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Phoenix+Lights+by+Lynne+D+Kitei+M+D&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Phoenix Lights">The Phoenix Lights</a>
-        </h4>
-        <p class="fr-book-author">By Lynne D Kitei M D</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Phoenix+Lights+by+Lynne+D+Kitei+M+D&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Phoenix Lights on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h4lkAQAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Phoenix Lights" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Phoenix+Lights+by+Lynne+D+Kitei+M+D&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Phoenix Lights">The Phoenix Lights</a>
+</h4>
+<p class="fr-book-author">By Lynne D Kitei M D</p>
         
-        <p class="fr-book-desc">Contains extensive discussion of lights interpreted as structured craft.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Phoenix+Lights+by+Lynne+D+Kitei+M+D&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contains extensive discussion of lights interpreted as structured craft.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Phoenix+Lights+by+Lynne+D+Kitei+M+D&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for assessing notable aerial reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for assessing notable aerial reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Helps readers understand how distance and darkness affect sky observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand how distance and darkness affect sky observations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Phoenix+Lights&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Phoenix Lights</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Phoenix+Lights&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Phoenix Lights</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=parachute+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-falling-flares-seem-to-hover-parachute-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="parachute model" data-ebay-reference="why-falling-flares-seem-to-hover-parachute-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Model Parachute 4-6 6-8 8-10kg Load Recycled Drop Parachute Nylon Canopy"><img src="https://i.ebayimg.com/images/g/70IAAeSw7pFqD~8y/s-l225.jpg" alt="Listing image for Model Parachute 4-6 6-8 8-10kg Load Recycled Drop Parachute Nylon Canopy" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=parachute+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-falling-flares-seem-to-hover-parachute-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="parachute model" data-ebay-reference="why-falling-flares-seem-to-hover-parachute-model" target="_blank" rel="sponsored noopener noreferrer">Model Parachute 4-6 6-8 8-10kg Load Recycled Drop Parachute Nylon Canopy</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=parachute+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-falling-flares-seem-to-hover-parachute-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="parachute model" data-ebay-reference="why-falling-flares-seem-to-hover-parachute-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for parachute model">Search <span data-ebay-domain-label>eBay.co.uk</span>: parachute model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=parachute+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-falling-flares-seem-to-hover-parachute-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="parachute model" data-ebay-reference="why-falling-flares-seem-to-hover-parachute-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=parachute+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-falling-flares-seem-to-hover-parachute-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="parachute model" data-ebay-reference="why-falling-flares-seem-to-hover-parachute-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Model Parachute 4-6 6-8 8-10kg Load Recycled Drop Parachute Nylon Canopy"><img src="https://i.ebayimg.com/images/g/70IAAeSw7pFqD~8y/s-l225.jpg" alt="Listing image for Model Parachute 4-6 6-8 8-10kg Load Recycled Drop Parachute Nylon Canopy" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=parachute+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-falling-flares-seem-to-hover-parachute-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="parachute model" data-ebay-reference="why-falling-flares-seem-to-hover-parachute-model" target="_blank" rel="sponsored noopener noreferrer">Model Parachute 4-6 6-8 8-10kg Load Recycled Drop Parachute Nylon Canopy</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=parachute+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-falling-flares-seem-to-hover-parachute-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="parachute model" data-ebay-reference="why-falling-flares-seem-to-hover-parachute-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for parachute model">Search<span data-ebay-domain-label>eBay.co.uk</span>: parachute model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=parachute+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-falling-flares-seem-to-hover-parachute-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="parachute model" data-ebay-reference="why-falling-flares-seem-to-hover-parachute-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=parachute+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-falling-flares-seem-to-hover-parachute-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="parachute model" data-ebay-reference="why-falling-flares-seem-to-hover-parachute-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Parachute Rocket Body - Custom Model Rocket - Science Project 3D Printed Gift"><img src="https://i.ebayimg.com/images/g/FNwAAeSwNIpp7ef0/s-l225.jpg" alt="Listing image for Parachute Rocket Body - Custom Model Rocket - Science Project 3D Printed Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=parachute+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-falling-flares-seem-to-hover-parachute-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="parachute model" data-ebay-reference="why-falling-flares-seem-to-hover-parachute-model" target="_blank" rel="sponsored noopener noreferrer">Parachute Rocket Body - Custom Model Rocket - Science Project 3D Printed Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=parachute+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-falling-flares-seem-to-hover-parachute-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="parachute model" data-ebay-reference="why-falling-flares-seem-to-hover-parachute-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for parachute model">Search <span data-ebay-domain-label>eBay.co.uk</span>: parachute model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=parachute+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-falling-flares-seem-to-hover-parachute-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="parachute model" data-ebay-reference="why-falling-flares-seem-to-hover-parachute-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=parachute+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-falling-flares-seem-to-hover-parachute-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="parachute model" data-ebay-reference="why-falling-flares-seem-to-hover-parachute-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Parachute Rocket Body - Custom Model Rocket - Science Project 3D Printed Gift"><img src="https://i.ebayimg.com/images/g/FNwAAeSwNIpp7ef0/s-l225.jpg" alt="Listing image for Parachute Rocket Body - Custom Model Rocket - Science Project 3D Printed Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=parachute+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-falling-flares-seem-to-hover-parachute-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="parachute model" data-ebay-reference="why-falling-flares-seem-to-hover-parachute-model" target="_blank" rel="sponsored noopener noreferrer">Parachute Rocket Body - Custom Model Rocket - Science Project 3D Printed Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=parachute+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-falling-flares-seem-to-hover-parachute-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="parachute model" data-ebay-reference="why-falling-flares-seem-to-hover-parachute-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for parachute model">Search<span data-ebay-domain-label>eBay.co.uk</span>: parachute model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=parachute+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-falling-flares-seem-to-hover-parachute-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="parachute model" data-ebay-reference="why-falling-flares-seem-to-hover-parachute-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=parachute+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-falling-flares-seem-to-hover-parachute-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="parachute model" data-ebay-reference="why-falling-flares-seem-to-hover-parachute-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ROKR 3D Wooden Puzzles DIY Jigsaw Model Kit Music Box Buidlding Toys Xmas Gifts"><img src="https://i.ebayimg.com/images/g/4VYAAOSw1cJisZil/s-l225.jpg" alt="Listing image for ROKR 3D Wooden Puzzles DIY Jigsaw Model Kit Music Box Buidlding Toys Xmas Gifts" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=parachute+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-falling-flares-seem-to-hover-parachute-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="parachute model" data-ebay-reference="why-falling-flares-seem-to-hover-parachute-model" target="_blank" rel="sponsored noopener noreferrer">ROKR 3D Wooden Puzzles DIY Jigsaw Model Kit Music Box Buidlding Toys Xmas Gifts</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=parachute+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-falling-flares-seem-to-hover-parachute-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="parachute model" data-ebay-reference="why-falling-flares-seem-to-hover-parachute-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for parachute model">Search <span data-ebay-domain-label>eBay.co.uk</span>: parachute model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=parachute+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-falling-flares-seem-to-hover-parachute-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="parachute model" data-ebay-reference="why-falling-flares-seem-to-hover-parachute-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=parachute+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-falling-flares-seem-to-hover-parachute-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="parachute model" data-ebay-reference="why-falling-flares-seem-to-hover-parachute-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ROKR 3D Wooden Puzzles DIY Jigsaw Model Kit Music Box Buidlding Toys Xmas Gifts"><img src="https://i.ebayimg.com/images/g/4VYAAOSw1cJisZil/s-l225.jpg" alt="Listing image for ROKR 3D Wooden Puzzles DIY Jigsaw Model Kit Music Box Buidlding Toys Xmas Gifts" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=parachute+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-falling-flares-seem-to-hover-parachute-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="parachute model" data-ebay-reference="why-falling-flares-seem-to-hover-parachute-model" target="_blank" rel="sponsored noopener noreferrer">ROKR 3D Wooden Puzzles DIY Jigsaw Model Kit Music Box Buidlding Toys Xmas Gifts</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=parachute+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-falling-flares-seem-to-hover-parachute-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="parachute model" data-ebay-reference="why-falling-flares-seem-to-hover-parachute-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for parachute model">Search<span data-ebay-domain-label>eBay.co.uk</span>: parachute model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=parachute+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-falling-flares-seem-to-hover-parachute-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="parachute model" data-ebay-reference="why-falling-flares-seem-to-hover-parachute-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=parachute+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-falling-flares-seem-to-hover-parachute-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="parachute model" data-ebay-reference="why-falling-flares-seem-to-hover-parachute-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1: 35 Die Casting Resin Model Assembly Kit US Special Forces Parachute Model 7 P"><img src="https://i.ebayimg.com/images/g/-R8AAeSwmCZqJn1q/s-l225.jpg" alt="Listing image for 1: 35 Die Casting Resin Model Assembly Kit US Special Forces Parachute Model 7 P" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=parachute+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-falling-flares-seem-to-hover-parachute-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="parachute model" data-ebay-reference="why-falling-flares-seem-to-hover-parachute-model" target="_blank" rel="sponsored noopener noreferrer">1: 35 Die Casting Resin Model Assembly Kit US Special Forces Parachute Model 7 P</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=parachute+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-falling-flares-seem-to-hover-parachute-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="parachute model" data-ebay-reference="why-falling-flares-seem-to-hover-parachute-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for parachute model">Search <span data-ebay-domain-label>eBay.co.uk</span>: parachute model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=parachute+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-falling-flares-seem-to-hover-parachute-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="parachute model" data-ebay-reference="why-falling-flares-seem-to-hover-parachute-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=parachute+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-falling-flares-seem-to-hover-parachute-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="parachute model" data-ebay-reference="why-falling-flares-seem-to-hover-parachute-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=parachute+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-falling-flares-seem-to-hover-parachute-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="parachute model" data-ebay-reference="why-falling-flares-seem-to-hover-parachute-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1: 35 Die Casting Resin Model Assembly Kit US Special Forces Parachute Model 7 P"><img src="https://i.ebayimg.com/images/g/-R8AAeSwmCZqJn1q/s-l225.jpg" alt="Listing image for 1: 35 Die Casting Resin Model Assembly Kit US Special Forces Parachute Model 7 P" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=parachute+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-falling-flares-seem-to-hover-parachute-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="parachute model" data-ebay-reference="why-falling-flares-seem-to-hover-parachute-model" target="_blank" rel="sponsored noopener noreferrer">1: 35 Die Casting Resin Model Assembly Kit US Special Forces Parachute Model 7 P</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=parachute+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-falling-flares-seem-to-hover-parachute-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="parachute model" data-ebay-reference="why-falling-flares-seem-to-hover-parachute-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for parachute model">Search<span data-ebay-domain-label>eBay.co.uk</span>: parachute model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=parachute+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-falling-flares-seem-to-hover-parachute-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="parachute model" data-ebay-reference="why-falling-flares-seem-to-hover-parachute-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=parachute+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-falling-flares-seem-to-hover-parachute-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="parachute model" data-ebay-reference="why-falling-flares-seem-to-hover-parachute-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -563,7 +563,7 @@ Conversely, reports deserve further examination if the timing, location, duratio
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -583,7 +583,7 @@ Conversely, reports deserve further examination if the timing, location, duratio
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -615,7 +615,7 @@ Conversely, reports deserve further examination if the timing, location, duratio
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -667,7 +667,7 @@ Conversely, reports deserve further examination if the timing, location, duratio
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -712,7 +712,7 @@ Conversely, reports deserve further examination if the timing, location, duratio
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -753,105 +753,105 @@ Conversely, reports deserve further examination if the timing, location, duratio
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: towndock.net  
-   Link: <a href="https://towndock.net/files/LUU_Parachute_Factsheet.pdf" target="_blank" rel="noopener noreferrer nofollow">https://towndock.net/files/LUU_Parachute_Factsheet.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LUU-19B/B [Infrared](&amp;#123;&amp;#123; &#x27;infrared/&#x27; | relative_url &amp;#125;&amp;#125;) Flare. Like the LUU-2D/B, the LUU-19B/B...Read more...</p></details>
+   Link:<a href="https://towndock.net/files/LUU_Parachute_Factsheet.pdf" target="_blank" rel="noopener noreferrer nofollow">https://towndock.net/files/LUU_Parachute_Factsheet.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LUU-19B/B [Infrared](&amp;#123;&amp;#123; &#x27;infrared/&#x27; | relative_url &amp;#125;&amp;#125;) Flare. Like the LUU-2D/B, the LUU-19B/B...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: globalsecurity.org  
    Title: Global Security LUU-2 Flare  
-   Link: <a href="https://www.globalsecurity.org/military/systems/munitions/luu2-specs.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.globalsecurity.org/military/systems/munitions/luu2-specs.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LUU-2 Flare - Dumb Bombs7 Jul 2011 — Light Output: 1,800,000 candlepower, 1,600,000 candlepower; Burn Time: 240 sec/300 se...</p></details>
+   Link:<a href="https://www.globalsecurity.org/military/systems/munitions/luu2-specs.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.globalsecurity.org/military/systems/munitions/luu2-specs.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LUU-2 Flare - Dumb Bombs7 Jul 2011 — Light Output: 1,800,000 candlepower, 1,600,000 candlepower; Burn Time: 240 sec/300 se...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: globalsecurity.org  
    Title: Global Security LUU-2 Flare  
-   Link: <a href="https://www.globalsecurity.org/military/systems/munitions/luu2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.globalsecurity.org/military/systems/munitions/luu2.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LUU-2 Flare - Dumb Bombs7 Jul 2011 — The LUU-2 has a burn time of approximately 5 minutes while suspended from a parachute...</p></details>
+   Link:<a href="https://www.globalsecurity.org/military/systems/munitions/luu2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.globalsecurity.org/military/systems/munitions/luu2.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LUU-2 Flare - Dumb Bombs7 Jul 2011 — The LUU-2 has a burn time of approximately 5 minutes while suspended from a parachute...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: magellan.aero  
    Title: aerospace announces contracts to produce aircraft illumination flares 2  
-   Link: <a href="https://magellan.aero/press-release/magellan-aerospace-announces-contracts-to-produce-aircraft-illumination-flares-2/" target="_blank" rel="noopener noreferrer nofollow">https://magellan.aero/press-release/magellan-aerospace-announces-contracts-to-produce-aircraft-illumination-flares-2/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The LUU-2 flare is a vital resource for the men and...Read more...</p></details>
+   Link:<a href="https://magellan.aero/press-release/magellan-aerospace-announces-contracts-to-produce-aircraft-illumination-flares-2/" target="_blank" rel="noopener noreferrer nofollow">https://magellan.aero/press-release/magellan-aerospace-announces-contracts-to-produce-aircraft-illumination-flares-2/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The LUU-2 flare is a vital resource for the men and...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Phoenix Lights  
-   Link: <a href="https://en.wikipedia.org/wiki/Phoenix_Lights" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Phoenix_Lights</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Phoenix_Lights" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Phoenix_Lights</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Battlefield illumination  
-   Link: <a href="https://en.wikipedia.org/wiki/Battlefield_illumination" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Battlefield_illumination</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Battlefield illuminationA modern LUU-2B flare at 1,000 feet altitude illuminates the ground at 5 lux in a radius of 1500 feet. Burn ti...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Battlefield_illumination" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Battlefield_illumination</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Battlefield illuminationA modern LUU-2B flare at 1,000 feet altitude illuminates the ground at 5 lux in a radius of 1500 feet. Burn ti...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: phoenixnewtimes.com  
    Title: phoenix lights ufo mystery explanations 19105870  
-   Link: <a href="https://www.phoenixnewtimes.com/uncategorized/phoenix-lights-ufo-mystery-explanations-19105870/" target="_blank" rel="noopener noreferrer nofollow">https://www.phoenixnewtimes.com/uncategorized/phoenix-lights-ufo-mystery-explanations-19105870/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Phoenix Lights explained: Everything to know about the...3 June 2024 — The first was a V-shaped formation of six to ten [glowing orbs](&amp;#123;&amp;#123; &#x27;glowing-orbs/&#x27; | relative_url &amp;#125;&amp;#125;) the...</p></details>
+   Link:<a href="https://www.phoenixnewtimes.com/uncategorized/phoenix-lights-ufo-mystery-explanations-19105870/" target="_blank" rel="noopener noreferrer nofollow">https://www.phoenixnewtimes.com/uncategorized/phoenix-lights-ufo-mystery-explanations-19105870/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Phoenix Lights explained: Everything to know about the...3 June 2024 — The first was a V-shaped formation of six to ten [glowing orbs](&amp;#123;&amp;#123; &#x27;glowing-orbs/&#x27; | relative_url &amp;#125;&amp;#125;) the...</p></details>
    Published: June 2024  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: planeandpilotmag.com  
    Title: the phoenix lights  
-   Link: <a href="https://planeandpilotmag.com/the-phoenix-lights/" target="_blank" rel="noopener noreferrer nofollow">https://planeandpilotmag.com/the-phoenix-lights/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>20 Sept 2022 — The most plausible earthly explanation suggests the lights were flares dropped by Maryland National Guard A-10 Warthog air...</p></details>
+   Link:<a href="https://planeandpilotmag.com/the-phoenix-lights/" target="_blank" rel="noopener noreferrer nofollow">https://planeandpilotmag.com/the-phoenix-lights/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>20 Sept 2022 — The most plausible earthly explanation suggests the lights were flares dropped by Maryland National Guard A-10 Warthog air...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1gtyrde/close_up_parachute_flare_theyre_not_ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1gtyrde/close_up_parachute_flare_theyre_not_ufos/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Up Parachute Flare (They&#x27;re not UFOs): r/UFOsThe LUU-2D/B produces about 1.8 million candlepower of visual illumination for four t...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1gtyrde/close_up_parachute_flare_theyre_not_ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1gtyrde/close_up_parachute_flare_theyre_not_ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close Up Parachute Flare (They&#x27;re not UFOs): r/UFOsThe LUU-2D/B produces about 1.8 million candlepower of visual illumination for four t...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: anft.net  
-   Link: <a href="https://www.anft.net/f-14/f14-detail-flare.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.anft.net/f-14/f14-detail-flare.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LUU-2 Aircraft Parachute FlareAfter separation, the flare&#x27;s times is activated and the flare will ignite after the flare has fallen for a...</p></details>
+   Link:<a href="https://www.anft.net/f-14/f14-detail-flare.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.anft.net/f-14/f14-detail-flare.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LUU-2 Aircraft Parachute FlareAfter separation, the flare&#x27;s times is activated and the flare will ignite after the flare has fallen for a...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/skeptic/comments/xuhht4/need_help_finding_video_that_explains_phoenix/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skeptic/comments/xuhht4/need_help_finding_video_that_explains_phoenix/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Need help finding video that explains Phoenix LightsThe flares were deployed on parachutes and they fell until they were behind a mountai...</p></details>
+   Link:<a href="https://www.reddit.com/r/skeptic/comments/xuhht4/need_help_finding_video_that_explains_phoenix/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skeptic/comments/xuhht4/need_help_finding_video_that_explains_phoenix/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Need help finding video that explains Phoenix LightsThe flares were deployed on parachutes and they fell until they were behind a mountai...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: wescomdefence.com  
-   Link: <a href="https://wescomdefence.com/product/battlefield-illumination/" target="_blank" rel="noopener noreferrer nofollow">https://wescomdefence.com/product/battlefield-illumination/</a>  
+   Link:<a href="https://wescomdefence.com/product/battlefield-illumination/" target="_blank" rel="noopener noreferrer nofollow">https://wescomdefence.com/product/battlefield-illumination/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=7e0jc97ifcA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7e0jc97ifcA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DCS World: F-5E SUU-2 Target Illumination FlaresWhen it&#x27;s dark out on a mission and you don&#x27;t have access to night vision goggles it&#x27;s ti...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=7e0jc97ifcA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7e0jc97ifcA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DCS World: F-5E SUU-2 Target Illumination FlaresWhen it&#x27;s dark out on a mission and you don&#x27;t have access to night vision goggles it&#x27;s ti...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=mw6_ZrL-rNk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mw6_ZrL-rNk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>IWA New 37/38mm parachuting illuminating flareNew 37/38mm parachuting illuminating flare 37mm Parachute Flare Kits, Reloads, and Live Rou...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=mw6_ZrL-rNk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mw6_ZrL-rNk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IWA New 37/38mm parachuting illuminating flareNew 37/38mm parachuting illuminating flare 37mm Parachute Flare Kits, Reloads, and Live Rou...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: discoveryuk.com  
    Title: the phoenix lights phenomenon an unsolved ufo mystery  
-   Link: <a href="https://www.discoveryuk.com/mysteries/the-phoenix-lights-phenomenon-an-unsolved-ufo-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/the-phoenix-lights-phenomenon-an-unsolved-ufo-mystery/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Phoenix Lights Phenomenon: An Unsolved UFO Mystery14 May 2024 — Some theories suggest that the V-shaped formation responsible for the...</p></details>
+   Link:<a href="https://www.discoveryuk.com/mysteries/the-phoenix-lights-phenomenon-an-unsolved-ufo-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/the-phoenix-lights-phenomenon-an-unsolved-ufo-mystery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Phoenix Lights Phenomenon: An Unsolved UFO Mystery14 May 2024 — Some theories suggest that the V-shaped formation responsible for the...</p></details>
    Published: May 2024  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: forum.dcs.world  
    Title: 284432 luu 2b and m 257 illumination and marking flares  
-   Link: <a href="https://forum.dcs.world/topic/284432-luu-2b-and-m-257-illumination-and-marking-flares/" target="_blank" rel="noopener noreferrer nofollow">https://forum.dcs.world/topic/284432-luu-2b-and-m-257-illumination-and-marking-flares/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It deploys parachute just after releasing no matter of the settings. Free-fall delay setting in DSMS...Read more...</p></details>
+   Link:<a href="https://forum.dcs.world/topic/284432-luu-2b-and-m-257-illumination-and-marking-flares/" target="_blank" rel="noopener noreferrer nofollow">https://forum.dcs.world/topic/284432-luu-2b-and-m-257-illumination-and-marking-flares/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It deploys parachute just after releasing no matter of the settings. Free-fall delay setting in DSMS...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: sofrep.com  
    Title: the phoenix lifts ufo or airforce  
-   Link: <a href="https://sofrep.com/news/the-phoenix-lifts-ufo-or-airforce/" target="_blank" rel="noopener noreferrer nofollow">https://sofrep.com/news/the-phoenix-lifts-ufo-or-airforce/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Phoenix Lights: UFO Cover-Up Or Air Force Training?26 Dec 2015 — An incident known as the &quot;Phoenix Lights&quot; occurred on 13 March 1997...</p></details>
+   Link:<a href="https://sofrep.com/news/the-phoenix-lifts-ufo-or-airforce/" target="_blank" rel="noopener noreferrer nofollow">https://sofrep.com/news/the-phoenix-lifts-ufo-or-airforce/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Phoenix Lights: UFO Cover-Up Or Air Force Training?26 Dec 2015 — An incident known as the &quot;Phoenix Lights&quot; occurred on 13 March 1997...</p></details>
    Published: March 1997  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/HISTORY/posts/what-is-your-explanation-for-the-phoenix-lights-phenomenon-the-mysterious-uniden/10158879836011184/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/what-is-your-explanation-for-the-phoenix-lights-phenomenon-the-mysterious-uniden/10158879836011184/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>d flying objects spotted in the skies in 1997?...</p></details>
+   Link:<a href="https://www.facebook.com/HISTORY/posts/what-is-your-explanation-for-the-phoenix-lights-phenomenon-the-mysterious-uniden/10158879836011184/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/what-is-your-explanation-for-the-phoenix-lights-phenomenon-the-mysterious-uniden/10158879836011184/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>d flying objects spotted in the skies in 1997?...</p></details>

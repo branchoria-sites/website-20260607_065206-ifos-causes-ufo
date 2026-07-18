@@ -504,7 +504,7 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74-over
 Insects, dust, drifting fibres and other nearby objects are a small but important cause of UFO reports because cameras can make them look much larger, faster and stranger than they are. A fly passing a few centimetres from a phone, security camera or drone lens can cross the frame so quickly that it appears to be a distant craft making an impossible manoeuvre. A speck of dust lit by flash or [infrared]({{ 'infrared/' | relative_url }}) light can become a glowing “orb”. The key error is not usually that the witness saw nothing; it is that a real close object was interpreted as a far-away aerial object.
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74-overview.webp" | relative_url }}" alt="Overview image for Insects" loading="eager" decoding="sync" fetchpriority="high">
-This mechanism is especially risky in short videos, zoomed sky footage, doorbell-camera clips and night-vision recordings. Without reliable distance, focus, exposure and sensor metadata, a tiny object near the lens can be assigned the speed, size and altitude of something in the sky. NASA’s UAP study made the same broader point about the need for [calibrated sensors]({{ 'sensor-artefacts/' | relative_url }}), multiple measurements, metadata and baseline data before unusual performance can be inferred from imagery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span>
+This mechanism is especially risky in short videos, zoomed sky footage, doorbell-camera clips and night-vision recordings. Without reliable distance, focus, exposure and sensor metadata, a tiny object near the lens can be assigned the speed, size and altitude of something in the sky. NASA’s UAP study made the same broader point about the need for [calibrated sensors]({{ 'sensor-artefacts/' | relative_url }}), multiple measurements, metadata and baseline data before unusual performance can be inferred from imagery.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rp15z1Ep29Y" title="Optical phenomenon &#x27;rods&#x27; caught on camera | News 8 special 2000" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rp15z1Ep29Y" target="_blank" rel="noopener noreferrer">Optical phenomenon &#x27;rods&#x27; caught on camera | News 8 special 2000</a></p><p class="youtube-embed-meta">Channel: CBS 8 San Diego &middot; Views: 10.7K &middot; Uploaded: March 2025 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rp15z1Ep29Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rp15z1Ep29Y">Open on YouTube</a></p></div></div></div>
 
@@ -512,22 +512,22 @@ This mechanism is especially risky in short videos, zoomed sky footage, doorbell
 
 The most important clue in many insect-on-camera cases is that the object has no measured [range]({{ 'range/' | relative_url }}). A camera records an angular position on the image, not a built-in distance. A small object close to the lens and a large object far away can occupy the same apparent size in the frame. If the viewer assumes the object is distant, the calculated speed and size can become wildly inflated.
 
-This is why single-camera UFO clips are fragile evidence when the object is just a dot, blob or streak. Phil Plait’s analysis of the widely circulated “UFOs over Denver” video made the point bluntly: the objects looked mysterious only if they were assumed to be distant; if they were insects close to the camera, their hovering, darting and flashing behaviour became ordinary. He also noted that one camera alone cannot provide the distance information needed to choose between “small and close” and “large and far away”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slate.com/blogs/bad_astronomy/2012/11/28/ufos_over_denver_are_insects.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slate.com">[Slate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slate.com</span><span class="citation-popover-title">UFOs over Denver are insects</span><span class="citation-popover-snippet">UFOs over Denver are insects...</span></span></span>
+This is why single-camera UFO clips are fragile evidence when the object is just a dot, blob or streak. Phil Plait’s analysis of the widely circulated “UFOs over Denver” video made the point bluntly: the objects looked mysterious only if they were assumed to be distant; if they were insects close to the camera, their hovering, darting and flashing behaviour became ordinary. He also noted that one camera alone cannot provide the distance information needed to choose between “small and close” and “large and far away”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slate.com/blogs/bad_astronomy/2012/11/28/ufos_over_denver_are_insects.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slate.com">[Slate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slate.com</span><span class="citation-popover-title">UFOs over Denver are insects</span><span class="citation-popover-snippet">UFOs over Denver are insects...</span></span></span>
 
-The same geometry appears in more technical UAP video debates. Bellingcat’s analysis of a Department of Defense UFO video emphasised parallax: nearby objects or foreground features can seem to move faster than distant ones, and camera motion can create apparent movement even when the object’s own motion is uncertain. Although that case was not about insects, the principle is directly relevant to near-lens objects: apparent speed in a video is not the same as true speed through the air. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bellingcat.com/news/2023/10/24/isnt-that-a-balloon-deflating-a-dod-ufo-video/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bellingcat.com">[bellingcat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bellingcat.com</span><span class="citation-popover-title">Isn’t That A Balloon? Deflating a Do D UFO Video</span><span class="citation-popover-snippet">Isn’t That A Balloon? Deflating a DoD UFO Video - bellingcat...</span></span></span>
+The same geometry appears in more technical UAP video debates. Bellingcat’s analysis of a Department of Defense UFO video emphasised parallax: nearby objects or foreground features can seem to move faster than distant ones, and camera motion can create apparent movement even when the object’s own motion is uncertain. Although that case was not about insects, the principle is directly relevant to near-lens objects: apparent speed in a video is not the same as true speed through the air.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bellingcat.com/news/2023/10/24/isnt-that-a-balloon-deflating-a-dod-ufo-video/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bellingcat.com">[bellingcat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bellingcat.com</span><span class="citation-popover-title">Isn’t That A Balloon? Deflating a Do D UFO Video</span><span class="citation-popover-snippet">Isn’t That A Balloon? Deflating a DoD UFO Video - bellingcat...</span></span></span>
 
 A useful test is to ask what distance has actually been measured, not what distance the scene seems to imply. If the clip has no stereo view, no [radar]({{ 'radar/' | relative_url }}) range, no second camera, no shadow or reflection tied to the object, and no clear interaction with known background features, then claims of extreme velocity or large size are usually premature.
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74-Illustration-1-dark.svg" | relative_url }}" alt="Insects illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Motion blur and focus
 
-Nearby insects become especially misleading when they move during the camera’s exposure. Motion blur is the streaking that occurs when an object changes position while a frame is being captured. A fast insect can therefore be recorded not as a crisp fly, moth or gnat, but as a rod, dash, cigar, translucent smear or segmented streak. The popular “[flying rods]({{ 'flying-rods/' | relative_url }})” or “skyfish” idea grew from exactly this kind of video artefact: optical analyses have generally explained the shapes as insects or birds recorded with motion blur, sometimes capturing wingbeat patterns across a single frame. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Rod_%28optical_phenomenon%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rod (optical phenomenon</span><span class="citation-popover-snippet">Rod (optical phenomenon</span></span></span>
+Nearby insects become especially misleading when they move during the camera’s exposure. Motion blur is the streaking that occurs when an object changes position while a frame is being captured. A fast insect can therefore be recorded not as a crisp fly, moth or gnat, but as a rod, dash, cigar, translucent smear or segmented streak. The popular “[flying rods]({{ 'flying-rods/' | relative_url }})” or “skyfish” idea grew from exactly this kind of video artefact: optical analyses have generally explained the shapes as insects or birds recorded with motion blur, sometimes capturing wingbeat patterns across a single frame.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Rod_%28optical_phenomenon%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rod (optical phenomenon</span><span class="citation-popover-snippet">Rod (optical phenomenon</span></span></span>
 
-Focus adds another layer. Many sky videos are focused on clouds, aircraft, the horizon or infinity. An insect passing close to the lens will then be badly out of focus, so its real body shape disappears. Instead of legs, wings and antennae, the camera may show a soft oval, a translucent blob, a short cylinder or a bright shapeless patch. In the Denver example, the objects looked like blobs partly because they were close to a camera focused for distant scenery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slate.com/blogs/bad_astronomy/2012/11/28/ufos_over_denver_are_insects.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slate.com">[Slate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slate.com</span><span class="citation-popover-title">UFOs over Denver are insects</span><span class="citation-popover-snippet">UFOs over Denver are insects...</span></span></span>
+Focus adds another layer. Many sky videos are focused on clouds, aircraft, the horizon or infinity. An insect passing close to the lens will then be badly out of focus, so its real body shape disappears. Instead of legs, wings and antennae, the camera may show a soft oval, a translucent blob, a short cylinder or a bright shapeless patch. In the Denver example, the objects looked like blobs partly because they were close to a camera focused for distant scenery.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slate.com/blogs/bad_astronomy/2012/11/28/ufos_over_denver_are_insects.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slate.com">[Slate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slate.com</span><span class="citation-popover-title">UFOs over Denver are insects</span><span class="citation-popover-snippet">UFOs over Denver are insects...</span></span></span>
 
 Night cameras can make the effect stronger. Doorbell cameras, trail cameras and CCTV systems often use infrared illumination, long exposures, [compression]({{ 'compression/' | relative_url }}) and aggressive noise reduction. An insect that is invisible to the person watching the scene can be brightly lit right beside the lens, then smeared by exposure and simplified by compression. The result may look self-luminous, even though the object is only reflecting light from the camera’s own illumination.
 
-Dust, pollen, snow, rain droplets and tiny fibres can produce a related but slightly different effect. Canon’s support guidance explains that flash can reflect from dust or particles floating in front of the subject, producing white circular spots in images; it recommends brighter ambient lighting, different zoom choices or separating the flash from the lens to reduce the problem. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://community.usa.canon.com/t5/EOS-DSLR-Mirrorless-Cameras/quot-spots-quot-on-image/td-p/368854" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: community.usa.canon.com">[Canon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">community.usa.canon.com</span><span class="citation-popover-snippet">Open source on canon.com.</span></span></span>
+Dust, pollen, snow, rain droplets and tiny fibres can produce a related but slightly different effect. Canon’s support guidance explains that flash can reflect from dust or particles floating in front of the subject, producing white circular spots in images; it recommends brighter ambient lighting, different zoom choices or separating the flash from the lens to reduce the problem.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://community.usa.canon.com/t5/EOS-DSLR-Mirrorless-Cameras/quot-spots-quot-on-image/td-p/368854" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: community.usa.canon.com">[Canon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">community.usa.canon.com</span><span class="citation-popover-snippet">Open source on canon.com.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NLL6Wt-VvwU" title="Shutterspeed and Frame Rates // Explained with a Fidget Spinner" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NLL6Wt-VvwU" target="_blank" rel="noopener noreferrer">Shutterspeed and Frame Rates // Explained with a Fidget Spinner</a></p><p class="youtube-embed-meta">Channel: Chris Brockhurst &middot; Views: 57.1K &middot; Uploaded: August 2019 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NLL6Wt-VvwU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NLL6Wt-VvwU">Open on YouTube</a></p></div></div></div>
 
@@ -552,7 +552,7 @@ A near-lens explanation is strongest when several clues appear together. None is
 
 Insect and dust cases are persuasive because the footage can be real. There may be no hoax, no editing and no dishonest witness. The misleading part comes later, when the viewer assigns the wrong scale to the object. A tiny gnat becomes a distant sphere; a moth becomes a luminous dart; a blurred wingbeat becomes a structured craft; a dust particle becomes a hovering orb.
 
-This is also why “it moved too fast to be a bug” can be a circular argument. It is only too fast if the object is assumed to be far away. If it is close to the camera, crossing the frame quickly is exactly what would be expected. Metabunk’s analysis of a 2025 daytime “UFO” clip from Hungary made this same point by treating the object as small and close rather than distant and exotic, with parallax in the foreground scene helping explain the apparent motion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/hungary-daytime-ufo-small-close-object-parallax.14065/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">Hungary daytime &quot;UFO&quot; [small/close object + parallax] &#124; Metabunk</span><span class="citation-popover-snippet">Hungary daytime &quot;UFO&quot; [small/close object + parallax] &#124; Metabunk</span></span></span>
+This is also why “it moved too fast to be a bug” can be a circular argument. It is only too fast if the object is assumed to be far away. If it is close to the camera, crossing the frame quickly is exactly what would be expected. Metabunk’s analysis of a 2025 daytime “UFO” clip from Hungary made this same point by treating the object as small and close rather than distant and exotic, with parallax in the foreground scene helping explain the apparent motion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/hungary-daytime-ufo-small-close-object-parallax.14065/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">Hungary daytime &quot;UFO&quot; [small/close object + parallax] &#124; Metabunk</span><span class="citation-popover-snippet">Hungary daytime &quot;UFO&quot; [small/close object + parallax] &#124; Metabunk</span></span></span>
 
 The critique does not mean every short, fast object on video is an insect. Birds, balloons, drones, aircraft, debris, reflections and [sensor artefacts]({{ 'sensor-artefacts/' | relative_url }}) can also produce confusing imagery. Nor does it mean that all UAP reports are resolved by camera bugs. The narrower point is that close-object explanations must be tested before drawing conclusions about extraordinary speed, altitude or technology.
 
@@ -562,201 +562,201 @@ The critique does not mean every short, fast object on video is an insect. Birds
 
 A strong camera-based UFO case should reduce the near-lens risk rather than merely look strange. The most useful improvements are practical: record longer clips, keep the original file, preserve timestamps and metadata, note the direction of view, and capture reference features such as buildings, trees, stars or the horizon. If possible, a second camera from a different position is far more valuable than a zoomed-in crop from the same angle.
 
-For investigators, the first question should be “what range evidence exists?” rather than “what does it resemble?” A clip that resembles a distant craft may still be a close insect if range is missing. A clip that looks unimpressive may become more interesting if it is independently tracked, seen from multiple positions, or tied to reliable sensor data. NASA’s UAP report stressed that future analysis depends on well-characterised data, multiple calibrated sensors and useful metadata, because weak data can make ordinary objects look anomalous and leave genuinely unusual cases unresolved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span>
+For investigators, the first question should be “what range evidence exists?” rather than “what does it resemble?” A clip that resembles a distant craft may still be a close insect if range is missing. A clip that looks unimpressive may become more interesting if it is independently tracked, seen from multiple positions, or tied to reliable sensor data. NASA’s UAP report stressed that future analysis depends on well-characterised data, multiple calibrated sensors and useful metadata, because weak data can make ordinary objects look anomalous and leave genuinely unusual cases unresolved.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span>
 
 The practical lesson for IFO analysis is simple: tiny things near cameras can become huge things in interpretation. Before a video is treated as evidence for unusual aircraft, exotic propulsion or impossible manoeuvres, the insect, dust and near-object pathway has to be ruled out with distance, focus, motion and lighting evidence rather than by appearance alone.
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74-Illustration-3-dark.svg" | relative_url }}" alt="Insects illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Tiny Things Cameras Make Huge. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Tiny Things Cameras Make Huge. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ATZGAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Handbook">The UFO Handbook</a>
-        </h4>
-        <p class="fr-book-author">By Allan Hendry</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ATZGAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Handbook">The UFO Handbook</a>
+</h4>
+<p class="fr-book-author">By Allan Hendry</p>
         
-        <p class="fr-book-desc">Strong fit for camera misidentifications and investigation methods.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong fit for camera misidentifications and investigation methods.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Addresses perception errors and extraordinary interpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses perception errors and extraordinary interpretations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+We+Know+What+Isn%27t+So+by+Thomas+Gilovich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How We Know What Isn&#x27;t So on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LURGkHCPAJEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How We Know What Isn&#x27;t So" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+We+Know+What+Isn%27t+So+by+Thomas+Gilovich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How We Know What Isn&#x27;t So">How We Know What Isn&#x27;t So</a>
-        </h4>
-        <p class="fr-book-author">By Thomas Gilovich</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 6 Google Books ratings</p>
-        <p class="fr-book-desc">Explains common reasoning mistakes behind mistaken identifications.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+We+Know+What+Isn%27t+So+by+Thomas+Gilovich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+We+Know+What+Isn%27t+So+by+Thomas+Gilovich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How We Know What Isn&#x27;t So on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LURGkHCPAJEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How We Know What Isn&#x27;t So" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+We+Know+What+Isn%27t+So+by+Thomas+Gilovich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How We Know What Isn&#x27;t So">How We Know What Isn&#x27;t So</a>
+</h4>
+<p class="fr-book-author">By Thomas Gilovich</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 6 Google Books ratings</p>
+<p class="fr-book-desc">Explains common reasoning mistakes behind mistaken identifications.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+We+Know+What+Isn%27t+So+by+Thomas+Gilovich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides broader UFO context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader UFO context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+We+Know+What+Isn%27t+So&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How We Know What Isn&#x27;t So</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+We+Know+What+Isn%27t+So&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How We Know What Isn&#x27;t So</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=insect+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-things-cameras-make-huge-insect-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="insect display" data-ebay-reference="the-tiny-things-cameras-make-huge-insect-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Seven great british insects mounted in a perspex display box."><img src="https://i.ebayimg.com/images/g/KDoAAeSwlphqJyGN/s-l225.jpg" alt="Listing image for Seven great british insects mounted in a perspex display box." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=insect+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-things-cameras-make-huge-insect-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="insect display" data-ebay-reference="the-tiny-things-cameras-make-huge-insect-display" target="_blank" rel="sponsored noopener noreferrer">Seven great british insects mounted in a perspex display box.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=insect+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-things-cameras-make-huge-insect-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="insect display" data-ebay-reference="the-tiny-things-cameras-make-huge-insect-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for insect display">Search <span data-ebay-domain-label>eBay.co.uk</span>: insect display</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=insect+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-things-cameras-make-huge-insect-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="insect display" data-ebay-reference="the-tiny-things-cameras-make-huge-insect-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=insect+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-things-cameras-make-huge-insect-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="insect display" data-ebay-reference="the-tiny-things-cameras-make-huge-insect-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Seven great british insects mounted in a perspex display box."><img src="https://i.ebayimg.com/images/g/KDoAAeSwlphqJyGN/s-l225.jpg" alt="Listing image for Seven great british insects mounted in a perspex display box." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=insect+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-things-cameras-make-huge-insect-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="insect display" data-ebay-reference="the-tiny-things-cameras-make-huge-insect-display" target="_blank" rel="sponsored noopener noreferrer">Seven great british insects mounted in a perspex display box.</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=insect+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-things-cameras-make-huge-insect-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="insect display" data-ebay-reference="the-tiny-things-cameras-make-huge-insect-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for insect display">Search<span data-ebay-domain-label>eBay.co.uk</span>: insect display</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=insect+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-things-cameras-make-huge-insect-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="insect display" data-ebay-reference="the-tiny-things-cameras-make-huge-insect-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=insect+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-things-cameras-make-huge-insect-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="insect display" data-ebay-reference="the-tiny-things-cameras-make-huge-insect-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Glass display case frame Butterfly Specimen Beetle Insect Entomology Taxidermy"><img src="https://i.ebayimg.com/images/g/3yIAAeSwRPNqHIeI/s-l225.jpg" alt="Listing image for Glass display case frame Butterfly Specimen Beetle Insect Entomology Taxidermy" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=insect+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-things-cameras-make-huge-insect-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="insect display" data-ebay-reference="the-tiny-things-cameras-make-huge-insect-display" target="_blank" rel="sponsored noopener noreferrer">Glass display case frame Butterfly Specimen Beetle Insect Entomology Taxidermy</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=insect+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-things-cameras-make-huge-insect-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="insect display" data-ebay-reference="the-tiny-things-cameras-make-huge-insect-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for insect display">Search <span data-ebay-domain-label>eBay.co.uk</span>: insect display</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=insect+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-things-cameras-make-huge-insect-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="insect display" data-ebay-reference="the-tiny-things-cameras-make-huge-insect-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=insect+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-things-cameras-make-huge-insect-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="insect display" data-ebay-reference="the-tiny-things-cameras-make-huge-insect-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Glass display case frame Butterfly Specimen Beetle Insect Entomology Taxidermy"><img src="https://i.ebayimg.com/images/g/3yIAAeSwRPNqHIeI/s-l225.jpg" alt="Listing image for Glass display case frame Butterfly Specimen Beetle Insect Entomology Taxidermy" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=insect+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-things-cameras-make-huge-insect-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="insect display" data-ebay-reference="the-tiny-things-cameras-make-huge-insect-display" target="_blank" rel="sponsored noopener noreferrer">Glass display case frame Butterfly Specimen Beetle Insect Entomology Taxidermy</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=insect+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-things-cameras-make-huge-insect-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="insect display" data-ebay-reference="the-tiny-things-cameras-make-huge-insect-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for insect display">Search<span data-ebay-domain-label>eBay.co.uk</span>: insect display</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=insect+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-things-cameras-make-huge-insect-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="insect display" data-ebay-reference="the-tiny-things-cameras-make-huge-insect-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=insect+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-things-cameras-make-huge-insect-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="insect display" data-ebay-reference="the-tiny-things-cameras-make-huge-insect-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Insect Collecting Box Boxes Butterfly Display Case Specimen"><img src="https://i.ebayimg.com/images/g/u34AAeSw1EVojYLr/s-l225.jpg" alt="Listing image for Insect Collecting Box Boxes Butterfly Display Case Specimen" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=insect+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-things-cameras-make-huge-insect-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="insect display" data-ebay-reference="the-tiny-things-cameras-make-huge-insect-display" target="_blank" rel="sponsored noopener noreferrer">Insect Collecting Box Boxes Butterfly Display Case Specimen</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=insect+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-things-cameras-make-huge-insect-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="insect display" data-ebay-reference="the-tiny-things-cameras-make-huge-insect-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for insect display">Search <span data-ebay-domain-label>eBay.co.uk</span>: insect display</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=insect+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-things-cameras-make-huge-insect-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="insect display" data-ebay-reference="the-tiny-things-cameras-make-huge-insect-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=insect+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-things-cameras-make-huge-insect-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="insect display" data-ebay-reference="the-tiny-things-cameras-make-huge-insect-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Insect Collecting Box Boxes Butterfly Display Case Specimen"><img src="https://i.ebayimg.com/images/g/u34AAeSw1EVojYLr/s-l225.jpg" alt="Listing image for Insect Collecting Box Boxes Butterfly Display Case Specimen" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=insect+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-things-cameras-make-huge-insect-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="insect display" data-ebay-reference="the-tiny-things-cameras-make-huge-insect-display" target="_blank" rel="sponsored noopener noreferrer">Insect Collecting Box Boxes Butterfly Display Case Specimen</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=insect+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-things-cameras-make-huge-insect-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="insect display" data-ebay-reference="the-tiny-things-cameras-make-huge-insect-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for insect display">Search<span data-ebay-domain-label>eBay.co.uk</span>: insect display</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=insect+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-things-cameras-make-huge-insect-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="insect display" data-ebay-reference="the-tiny-things-cameras-make-huge-insect-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=insect+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-things-cameras-make-huge-insect-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="insect display" data-ebay-reference="the-tiny-things-cameras-make-huge-insect-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3 x Damselfly Dragonfly Display Deep Shadow Box Frame Beetle Insect Butterfly"><img src="https://i.ebayimg.com/images/g/txsAAOSwNaFhjqgA/s-l225.jpg" alt="Listing image for 3 x Damselfly Dragonfly Display Deep Shadow Box Frame Beetle Insect Butterfly" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=insect+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-things-cameras-make-huge-insect-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="insect display" data-ebay-reference="the-tiny-things-cameras-make-huge-insect-display" target="_blank" rel="sponsored noopener noreferrer">3 x Damselfly Dragonfly Display Deep Shadow Box Frame Beetle Insect Butterfly</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=insect+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-things-cameras-make-huge-insect-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="insect display" data-ebay-reference="the-tiny-things-cameras-make-huge-insect-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for insect display">Search <span data-ebay-domain-label>eBay.co.uk</span>: insect display</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=insect+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-things-cameras-make-huge-insect-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="insect display" data-ebay-reference="the-tiny-things-cameras-make-huge-insect-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=insect+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-things-cameras-make-huge-insect-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="insect display" data-ebay-reference="the-tiny-things-cameras-make-huge-insect-display" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=insect+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-things-cameras-make-huge-insect-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="insect display" data-ebay-reference="the-tiny-things-cameras-make-huge-insect-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3 x Damselfly Dragonfly Display Deep Shadow Box Frame Beetle Insect Butterfly"><img src="https://i.ebayimg.com/images/g/txsAAOSwNaFhjqgA/s-l225.jpg" alt="Listing image for 3 x Damselfly Dragonfly Display Deep Shadow Box Frame Beetle Insect Butterfly" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=insect+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-things-cameras-make-huge-insect-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="insect display" data-ebay-reference="the-tiny-things-cameras-make-huge-insect-display" target="_blank" rel="sponsored noopener noreferrer">3 x Damselfly Dragonfly Display Deep Shadow Box Frame Beetle Insect Butterfly</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=insect+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-things-cameras-make-huge-insect-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="insect display" data-ebay-reference="the-tiny-things-cameras-make-huge-insect-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for insect display">Search<span data-ebay-domain-label>eBay.co.uk</span>: insect display</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=insect+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-things-cameras-make-huge-insect-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="insect display" data-ebay-reference="the-tiny-things-cameras-make-huge-insect-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=insect+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-things-cameras-make-huge-insect-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="insect display" data-ebay-reference="the-tiny-things-cameras-make-huge-insect-display" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -772,7 +772,7 @@ The practical lesson for IFO analysis is simple: tiny things near cameras can be
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -792,7 +792,7 @@ The practical lesson for IFO analysis is simple: tiny things near cameras can be
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -824,7 +824,7 @@ The practical lesson for IFO analysis is simple: tiny things near cameras can be
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -876,7 +876,7 @@ The practical lesson for IFO analysis is simple: tiny things near cameras can be
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -921,7 +921,7 @@ The practical lesson for IFO analysis is simple: tiny things near cameras can be
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -962,137 +962,137 @@ The practical lesson for IFO analysis is simple: tiny things near cameras can be
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Science...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Science...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: slate.com  
    Title: UFOs over Denver are insects  
-   Link: <a href="https://www.slate.com/blogs/bad_astronomy/2012/11/28/ufos_over_denver_are_insects.html" target="_blank" rel="noopener noreferrer nofollow">https://www.slate.com/blogs/bad_astronomy/2012/11/28/ufos_over_denver_are_insects.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs over Denver are insects...</p></details>
+   Link:<a href="https://www.slate.com/blogs/bad_astronomy/2012/11/28/ufos_over_denver_are_insects.html" target="_blank" rel="noopener noreferrer nofollow">https://www.slate.com/blogs/bad_astronomy/2012/11/28/ufos_over_denver_are_insects.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs over Denver are insects...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: bellingcat.com  
    Title: Isn’t That A Balloon? Deflating a Do D UFO Video  
-   Link: <a href="https://www.bellingcat.com/news/2023/10/24/isnt-that-a-balloon-deflating-a-dod-ufo-video/" target="_blank" rel="noopener noreferrer nofollow">https://www.bellingcat.com/news/2023/10/24/isnt-that-a-balloon-deflating-a-dod-ufo-video/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Isn’t That A Balloon? Deflating a DoD UFO Video - bellingcat...</p></details>
+   Link:<a href="https://www.bellingcat.com/news/2023/10/24/isnt-that-a-balloon-deflating-a-dod-ufo-video/" target="_blank" rel="noopener noreferrer nofollow">https://www.bellingcat.com/news/2023/10/24/isnt-that-a-balloon-deflating-a-dod-ufo-video/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Isn’t That A Balloon? Deflating a DoD UFO Video - bellingcat...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Rod (optical phenomenon)  
-   Link: <a href="https://en.wikipedia.org/wiki/Rod_%28optical_phenomenon%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rod_%28optical_phenomenon%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Rod_%28optical_phenomenon%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rod_%28optical_phenomenon%29</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Motion blur (media)  
-   Link: <a href="https://en.wikipedia.org/wiki/Motion_blur_%28media%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Motion_blur_%28media%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Motion_blur_%28media%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Motion_blur_%28media%29</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: metabunk.org  
    Title: Hungary daytime "UFO" [small/close object + parallax] | Metabunk  
-   Link: <a href="https://www.metabunk.org/threads/hungary-daytime-ufo-small-close-object-parallax.14065/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/hungary-daytime-ufo-small-close-object-parallax.14065/</a>  
+   Link:<a href="https://www.metabunk.org/threads/hungary-daytime-ufo-small-close-object-parallax.14065/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/hungary-daytime-ufo-small-close-object-parallax.14065/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nasa.gov  
    Title: nasa to release discuss unidentified anomalous phenomena report  
-   Link: <a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
+   Link:<a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: metabunk.org  
    Title: ufos in micks video sunlit out of focus insects.6045  
-   Link: <a href="https://www.metabunk.org/threads/ufos-in-micks-video-sunlit-out-of-focus-insects.6045/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/ufos-in-micks-video-sunlit-out-of-focus-insects.6045/</a>  
+   Link:<a href="https://www.metabunk.org/threads/ufos-in-micks-video-sunlit-out-of-focus-insects.6045/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/ufos-in-micks-video-sunlit-out-of-focus-insects.6045/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: metabunk.org  
    Title: strange object captured over malvern hills western england reddit.14371  
-   Link: <a href="https://www.metabunk.org/threads/strange-object-captured-over-malvern-hills-western-england-reddit.14371/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/strange-object-captured-over-malvern-hills-western-england-reddit.14371/</a>  
+   Link:<a href="https://www.metabunk.org/threads/strange-object-captured-over-malvern-hills-western-england-reddit.14371/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/strange-object-captured-over-malvern-hills-western-england-reddit.14371/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: metabunk.org  
-   Link: <a href="https://www.metabunk.org/home/authors/mick-west.1/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/home/authors/mick-west.1/</a>  
+   Link:<a href="https://www.metabunk.org/home/authors/mick-west.1/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/home/authors/mick-west.1/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: metabunk.org  
-   Link: <a href="https://www.metabunk.org/forums/ufos-and-aliens.10/page-22" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/forums/ufos-and-aliens.10/page-22</a>  
+   Link:<a href="https://www.metabunk.org/forums/ufos-and-aliens.10/page-22" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/forums/ufos-and-aliens.10/page-22</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
    Title: NASA Unidentified Anomalous Phenomena Independent Study Team  
-   Link: <a href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Backscatter (photography)  
-   Link: <a href="https://en.wikipedia.org/wiki/Backscatter_%28photography%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Backscatter_%28photography%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Backscatter_%28photography%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Backscatter_%28photography%29</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: community.usa.canon.com  
-   Link: <a href="https://community.usa.canon.com/t5/EOS-DSLR-Mirrorless-Cameras/quot-spots-quot-on-image/td-p/368854" target="_blank" rel="noopener noreferrer nofollow">https://community.usa.canon.com/t5/EOS-DSLR-Mirrorless-Cameras/quot-spots-quot-on-image/td-p/368854</a>  
+   Link:<a href="https://community.usa.canon.com/t5/EOS-DSLR-Mirrorless-Cameras/quot-spots-quot-on-image/td-p/368854" target="_blank" rel="noopener noreferrer nofollow">https://community.usa.canon.com/t5/EOS-DSLR-Mirrorless-Cameras/quot-spots-quot-on-image/td-p/368854</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: community.usa.canon.com  
-   Link: <a href="https://community.usa.canon.com/t5/EF-RF-Lenses/How-to-check-dust-in-lens/td-p/516709" target="_blank" rel="noopener noreferrer nofollow">https://community.usa.canon.com/t5/EF-RF-Lenses/How-to-check-dust-in-lens/td-p/516709</a>  
+   Link:<a href="https://community.usa.canon.com/t5/EF-RF-Lenses/How-to-check-dust-in-lens/td-p/516709" target="_blank" rel="noopener noreferrer nofollow">https://community.usa.canon.com/t5/EF-RF-Lenses/How-to-check-dust-in-lens/td-p/516709</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: my.canon  
    Title: Canon There are white circles in captured images  
-   Link: <a href="https://my.canon/en/support/8201031900" target="_blank" rel="noopener noreferrer nofollow">https://my.canon/en/support/8201031900</a>  
+   Link:<a href="https://my.canon/en/support/8201031900" target="_blank" rel="noopener noreferrer nofollow">https://my.canon/en/support/8201031900</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
    Title: bellingcat analysis of a ufo video  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/17g3svq/bellingcat_analysis_of_a_ufo_video/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/17g3svq/bellingcat_analysis_of_a_ufo_video/</a>  
+   Link:<a href="https://www.reddit.com/r/ufo/comments/17g3svq/bellingcat_analysis_of_a_ufo_video/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/17g3svq/bellingcat_analysis_of_a_ufo_video/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1lmhbxa/metabunk_users_identifying_a_ufo_that_the_people/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1lmhbxa/metabunk_users_identifying_a_ufo_that_the_people/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1lmhbxa/metabunk_users_identifying_a_ufo_that_the_people/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1lmhbxa/metabunk_users_identifying_a_ufo_that_the_people/</a>  
 
 ### Additional References
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: Identifying common artifacts in security camera footage  
-   Link: <a href="https://www.youtube.com/watch?v=O129s5D_6aQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=O129s5D_6aQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bokeh and light effects on camera sensors...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=O129s5D_6aQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=O129s5D_6aQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bokeh and light effects on camera sensors...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/fox9kmsp/posts/a-newly-declassified-video-shown-in-infrared-depicts-an-object-appearing-to-be-a/1465904865578965/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fox9kmsp/posts/a-newly-declassified-video-shown-in-infrared-depicts-an-object-appearing-to-be-a/1465904865578965/</a>  
+   Link:<a href="https://www.facebook.com/fox9kmsp/posts/a-newly-declassified-video-shown-in-infrared-depicts-an-object-appearing-to-be-a/1465904865578965/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fox9kmsp/posts/a-newly-declassified-video-shown-in-infrared-depicts-an-object-appearing-to-be-a/1465904865578965/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/fox5atlanta/posts/a-newly-declassified-video-shown-in-infrared-depicts-an-object-appearing-to-be-a/1545315896966081/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fox5atlanta/posts/a-newly-declassified-video-shown-in-infrared-depicts-an-object-appearing-to-be-a/1545315896966081/</a>  
+   Link:<a href="https://www.facebook.com/fox5atlanta/posts/a-newly-declassified-video-shown-in-infrared-depicts-an-object-appearing-to-be-a/1545315896966081/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fox5atlanta/posts/a-newly-declassified-video-shown-in-infrared-depicts-an-object-appearing-to-be-a/1545315896966081/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/invertid/posts/3151158921686362/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/invertid/posts/3151158921686362/</a>  
+   Link:<a href="https://www.facebook.com/groups/invertid/posts/3151158921686362/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/invertid/posts/3151158921686362/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Cryptozoology/comments/144ag44/air_rods_or_rods_are_described_as_flying_living/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Cryptozoology/comments/144ag44/air_rods_or_rods_are_described_as_flying_living/</a>  
+   Link:<a href="https://www.reddit.com/r/Cryptozoology/comments/144ag44/air_rods_or_rods_are_described_as_flying_living/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Cryptozoology/comments/144ag44/air_rods_or_rods_are_described_as_flying_living/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/invertid/posts/3664466357022280/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/invertid/posts/3664466357022280/</a>  
+   Link:<a href="https://www.facebook.com/groups/invertid/posts/3664466357022280/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/invertid/posts/3664466357022280/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/knoxnews/posts/close-examination-of-the-videos-by-conspiracy-theory-debunker-mick-west-and-othe/10159199817742649/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/knoxnews/posts/close-examination-of-the-videos-by-conspiracy-theory-debunker-mick-west-and-othe/10159199817742649/</a>  
+   Link:<a href="https://www.facebook.com/knoxnews/posts/close-examination-of-the-videos-by-conspiracy-theory-debunker-mick-west-and-othe/10159199817742649/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/knoxnews/posts/close-examination-of-the-videos-by-conspiracy-theory-debunker-mick-west-and-othe/10159199817742649/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Meetmattfraser/posts/have-you-ever-noticed-strange-orbs-that-appear-in-pictures-heres-why-they-mean/5824291117614319/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Meetmattfraser/posts/have-you-ever-noticed-strange-orbs-that-appear-in-pictures-heres-why-they-mean/5824291117614319/</a>  
+   Link:<a href="https://www.facebook.com/Meetmattfraser/posts/have-you-ever-noticed-strange-orbs-that-appear-in-pictures-heres-why-they-mean/5824291117614319/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Meetmattfraser/posts/have-you-ever-noticed-strange-orbs-that-appear-in-pictures-heres-why-they-mean/5824291117614319/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DW6afBCCPlz/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DW6afBCCPlz/</a>  
+   Link:<a href="https://www.instagram.com/reel/DW6afBCCPlz/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DW6afBCCPlz/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: justanswer.com  
-   Link: <a href="https://www.justanswer.com/video-camera-repair/43d1b-gotten-orbs-strange-phenomena-photos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.justanswer.com/video-camera-repair/43d1b-gotten-orbs-strange-phenomena-photos.html</a>
+   Link:<a href="https://www.justanswer.com/video-camera-repair/43d1b-gotten-orbs-strange-phenomena-photos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.justanswer.com/video-camera-repair/43d1b-gotten-orbs-strange-phenomena-photos.html</a>

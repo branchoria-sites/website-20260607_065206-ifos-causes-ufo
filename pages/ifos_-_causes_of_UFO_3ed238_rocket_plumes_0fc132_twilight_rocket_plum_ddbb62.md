@@ -271,21 +271,21 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132_twilight_
 Among all rocket-related causes of UFO reports, twilight launches are arguably the most effective at creating sightings that seem impossible. Witnesses often report enormous glowing cones, luminous “jellyfish” shapes, expanding clouds larger than cities, bright spirals, or apparent objects that seem to hover and transform in ways no conventional aircraft could. Yet these displays arise from a well-understood combination of rocket exhaust physics, high-altitude sunlight, and perspective.
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132_twilight_rocket_plum_ddbb62-Illustration-1-dark.svg" | relative_url }}" alt="Twilight Plumes illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132_twilight_rocket_plum_ddbb62-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132_twilight_rocket_plum_ddbb62-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The essential mechanism is simple but counterintuitive. During dawn or dusk, observers on the ground may already be in darkness while a rocket climbing through the upper [atmosphere]({{ 'atmosphere/' | relative_url }}) remains illuminated by direct sunlight. Exhaust released into the thin air of the stratosphere, mesosphere, and lower thermosphere expands dramatically, creating vast reflective clouds that can remain sunlit long after sunset or before sunrise. The resulting display can appear alien because the illuminated plume occupies a region of the sky where observers expect darkness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Twilight_phenomenon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Twilight phenomenon</span><span class="citation-popover-snippet">Twilight phenomenon</span></span></span>
+The essential mechanism is simple but counterintuitive. During dawn or dusk, observers on the ground may already be in darkness while a rocket climbing through the upper [atmosphere]({{ 'atmosphere/' | relative_url }}) remains illuminated by direct sunlight. Exhaust released into the thin air of the stratosphere, mesosphere, and lower thermosphere expands dramatically, creating vast reflective clouds that can remain sunlit long after sunset or before sunrise. The resulting display can appear alien because the illuminated plume occupies a region of the sky where observers expect darkness.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Twilight_phenomenon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Twilight phenomenon</span><span class="citation-popover-snippet">Twilight phenomenon</span></span></span>
 
-Twilight launches have repeatedly generated UFO reports across North America, Europe, Russia, and elsewhere. In many cases, the sightings were initially interpreted as extraterrestrial craft, secret weapons, or atmospheric anomalies before being linked to known rocket launches. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/climate-environment/2025/03/25/spiral-spacex-launch-mystery-blue/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">The Washington Post Did you see an alien-looking swirl in the sky?</span><span class="citation-popover-snippet">It&#x27;s probably SpaceX.On the night of March 24, 2025, skywatchers across Europe, from Britain to Croatia, observed a mysterious light blue...</span><span class="citation-popover-meta">Published: March 24, 2025</span></span></span>
+Twilight launches have repeatedly generated UFO reports across North America, Europe, Russia, and elsewhere. In many cases, the sightings were initially interpreted as extraterrestrial craft, secret weapons, or atmospheric anomalies before being linked to known rocket launches.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/climate-environment/2025/03/25/spiral-spacex-launch-mystery-blue/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">The Washington Post Did you see an alien-looking swirl in the sky?</span><span class="citation-popover-snippet">It&#x27;s probably SpaceX.On the night of March 24, 2025, skywatchers across Europe, from Britain to Croatia, observed a mysterious light blue...</span><span class="citation-popover-meta">Published: March 24, 2025</span></span></span>
 
 ## Sunlit Exhaust Above a Dark Ground
 
 The most important factor behind twilight launch sightings is a lighting mismatch between the ground and the upper atmosphere.
 
-When the Sun is below the horizon for an observer, sunlight no longer reaches the local landscape directly. However, objects tens or hundreds of kilometres above Earth can still be illuminated because they remain above the planet's shadow. A rocket ascending through these altitudes effectively climbs back into daylight even though people below are standing in darkness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Space_jellyfish" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Space jellyfish</span><span class="citation-popover-snippet">Space jellyfish</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Twilight_phenomenon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Twilight phenomenon</span><span class="citation-popover-snippet">Twilight phenomenon</span></span></span>
+When the Sun is below the horizon for an observer, sunlight no longer reaches the local landscape directly. However, objects tens or hundreds of kilometres above Earth can still be illuminated because they remain above the planet's shadow. A rocket ascending through these altitudes effectively climbs back into daylight even though people below are standing in darkness.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Space_jellyfish" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Space jellyfish</span><span class="citation-popover-snippet">Space jellyfish</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Twilight_phenomenon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Twilight phenomenon</span><span class="citation-popover-snippet">Twilight phenomenon</span></span></span>
 
-This geometry produces a visual effect that the human brain is not accustomed to interpreting. Bright clouds normally appear illuminated only when the surrounding sky is also bright. During a twilight launch, a brilliant cloud may suddenly materialise against a dark blue or black sky, making it appear self-luminous. The contrast is so strong that witnesses frequently describe the object as glowing from within. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.spacelaunchschedule.com/news/the-jellyfish-effect-during-rocket-launches-a-stunning-twilight-phenomenon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spacelaunchschedule.com">[Space Launch Schedule]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spacelaunchschedule.com</span><span class="citation-popover-snippet">Space Launch ScheduleRocket Launch Jellyfish Effect: A Guide to Twilight&#x27;s Best...A: The jellyfish effect is caused by the interaction o...</span></span></span>
+This geometry produces a visual effect that the human brain is not accustomed to interpreting. Bright clouds normally appear illuminated only when the surrounding sky is also bright. During a twilight launch, a brilliant cloud may suddenly materialise against a dark blue or black sky, making it appear self-luminous. The contrast is so strong that witnesses frequently describe the object as glowing from within.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.spacelaunchschedule.com/news/the-jellyfish-effect-during-rocket-launches-a-stunning-twilight-phenomenon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spacelaunchschedule.com">[Space Launch Schedule]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spacelaunchschedule.com</span><span class="citation-popover-snippet">Space Launch ScheduleRocket Launch Jellyfish Effect: A Guide to Twilight&#x27;s Best...A: The jellyfish effect is caused by the interaction o...</span></span></span>
 
-The effect is typically strongest for launches occurring roughly 30 to 60 minutes before sunrise or after sunset. During this period, the lower atmosphere is dark enough to provide contrast while higher altitudes remain exposed to sunlight. Rocket exhaust particles suspended in these regions scatter and diffract sunlight, producing vivid white, blue, pink, orange, and greenish colours. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Space_jellyfish" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Space jellyfish</span><span class="citation-popover-snippet">Space jellyfish</span></span></span>
+The effect is typically strongest for launches occurring roughly 30 to 60 minutes before sunrise or after sunset. During this period, the lower atmosphere is dark enough to provide contrast while higher altitudes remain exposed to sunlight. Rocket exhaust particles suspended in these regions scatter and diffract sunlight, producing vivid white, blue, pink, orange, and greenish colours.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Space_jellyfish" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Space jellyfish</span><span class="citation-popover-snippet">Space jellyfish</span></span></span>
 
-This explains why identical rockets launched during full daylight rarely generate major UFO waves. The rocket exhaust is still present, but it blends into the brighter background sky and loses the dramatic contrast that makes twilight launches so visually startling. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Space_jellyfish" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Space jellyfish</span><span class="citation-popover-snippet">Space jellyfish</span></span></span>
+This explains why identical rockets launched during full daylight rarely generate major UFO waves. The rocket exhaust is still present, but it blends into the brighter background sky and loses the dramatic contrast that makes twilight launches so visually startling.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Space_jellyfish" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Space jellyfish</span><span class="citation-popover-snippet">Space jellyfish</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Y1Hfiirwgys" title="Why do some rocket launches look like this?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Y1Hfiirwgys" target="_blank" rel="noopener noreferrer">Why do some rocket launches look like this?</a></p><p class="youtube-embed-meta">Channel: Primal Space &middot; Views: 811.3K &middot; Uploaded: November 2018 &middot; Length: 3 minutes 39 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Y1Hfiirwgys" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Y1Hfiirwgys">Open on YouTube</a></p></div></div></div>
 
@@ -293,13 +293,13 @@ This explains why identical rockets launched during full daylight rarely generat
 
 Many witnesses assume the huge apparent size of a twilight plume indicates an object of extraordinary scale. In reality, the apparent growth comes from the behaviour of exhaust gases in extremely thin air.
 
-Near the launch pad, atmospheric pressure constrains exhaust flow into a relatively compact plume. As the rocket climbs, surrounding air pressure falls rapidly. Exhaust gases and water vapour can expand outward in all directions, creating clouds vastly larger than the rocket itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Space_jellyfish" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Space jellyfish</span><span class="citation-popover-snippet">Space jellyfish</span></span></span>
+Near the launch pad, atmospheric pressure constrains exhaust flow into a relatively compact plume. As the rocket climbs, surrounding air pressure falls rapidly. Exhaust gases and water vapour can expand outward in all directions, creating clouds vastly larger than the rocket itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Space_jellyfish" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Space jellyfish</span><span class="citation-popover-snippet">Space jellyfish</span></span></span>
 
-The rocket may be only a few dozen metres long, but the illuminated exhaust cloud can grow to many kilometres across. From hundreds of kilometres away, observers see the bright cloud far more easily than the vehicle producing it. This often leads to reports of a giant glowing object with a small bright point at its centre. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Space_jellyfish" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Space jellyfish</span><span class="citation-popover-snippet">Space jellyfish</span></span></span>
+The rocket may be only a few dozen metres long, but the illuminated exhaust cloud can grow to many kilometres across. From hundreds of kilometres away, observers see the bright cloud far more easily than the vehicle producing it. This often leads to reports of a giant glowing object with a small bright point at its centre.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Space_jellyfish" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Space jellyfish</span><span class="citation-popover-snippet">Space jellyfish</span></span></span>
 
-The famous “space jellyfish” appearance emerges because different parts of the exhaust cloud are illuminated differently. The rocket itself forms a bright leading point, while expanding exhaust creates a bulbous head and trailing tendrils. The shape resembles a jellyfish drifting through the sky, even though it is simply sunlight striking an expanding plume. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Space_jellyfish" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Space jellyfish</span><span class="citation-popover-snippet">Space jellyfish</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/space-exploration/launches-spacecraft/spacex-rocket-launch-spawns-dazzling-space-jellyfish-in-evening-sky-photos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">x rocket launch spawns dazzling space jellyfish in evening sky photos</span><span class="citation-popover-snippet">X rocket launch spawns dazzling &#x27;space jellyfish&#x27; in...12 Feb 2025 — SpaceX rocket launch spawns dazzling &#x27;space jellyfish&#x27; in even...</span></span></span>
+The famous “space jellyfish” appearance emerges because different parts of the exhaust cloud are illuminated differently. The rocket itself forms a bright leading point, while expanding exhaust creates a bulbous head and trailing tendrils. The shape resembles a jellyfish drifting through the sky, even though it is simply sunlight striking an expanding plume.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Space_jellyfish" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Space jellyfish</span><span class="citation-popover-snippet">Space jellyfish</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/space-exploration/launches-spacecraft/spacex-rocket-launch-spawns-dazzling-space-jellyfish-in-evening-sky-photos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">x rocket launch spawns dazzling space jellyfish in evening sky photos</span><span class="citation-popover-snippet">X rocket launch spawns dazzling &#x27;space jellyfish&#x27; in...12 Feb 2025 — SpaceX rocket launch spawns dazzling &#x27;space jellyfish&#x27; in even...</span></span></span>
 
-Modern Falcon 9 launches have become particularly associated with this appearance because of their frequent dawn and dusk missions. Observers across California and Florida regularly photograph enormous luminous structures stretching across the sky after twilight launches. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wftv.com/news/local/spacex-rocket-launch-creates-stunning-jellyfish-cloud-sky/WRN6A45WJBFJVKL75OJGOLF4IE/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wftv.com">[WFTV]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wftv.com</span><span class="citation-popover-snippet">SpaceX rocket launch creates stunning &#x27;jellyfish cloud...21 May 2026 — The cloud was created during the twilight hours by the rocket...</span><span class="citation-popover-meta">Published: May 2026</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-10-40-b1080-ccsfs-asog" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">The effect resulted from the sunlight illuminating the Falcon 9 rocket&#x27;s high-altitude exhaust plume before sunrise, producing a bulbous...</span></span></span>
+Modern Falcon 9 launches have become particularly associated with this appearance because of their frequent dawn and dusk missions. Observers across California and Florida regularly photograph enormous luminous structures stretching across the sky after twilight launches.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wftv.com/news/local/spacex-rocket-launch-creates-stunning-jellyfish-cloud-sky/WRN6A45WJBFJVKL75OJGOLF4IE/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wftv.com">[WFTV]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wftv.com</span><span class="citation-popover-snippet">SpaceX rocket launch creates stunning &#x27;jellyfish cloud...21 May 2026 — The cloud was created during the twilight hours by the rocket...</span><span class="citation-popover-meta">Published: May 2026</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-10-40-b1080-ccsfs-asog" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">The effect resulted from the sunlight illuminating the Falcon 9 rocket&#x27;s high-altitude exhaust plume before sunrise, producing a bulbous...</span></span></span>
 
 ## Why the Shapes Often Look Too Large to Be Real
 
@@ -307,9 +307,9 @@ A key reason twilight plumes generate UFO reports is that human observers intuit
 
 [Aircraft lights]({{ 'aircraft-lights/' | relative_url }}) are nearby and compact. Clouds appear large but are generally stationary. Twilight [rocket plumes]({{ 'rocket-plumes/' | relative_url }}) combine characteristics of both. They appear enormous like clouds while simultaneously moving like a vehicle.
 
-This combination creates a perceptual conflict. Witnesses often conclude they must be seeing a gigantic structured craft because the object seems far too large to be an aircraft yet too organised to be a cloud. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Space_jellyfish" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Space jellyfish</span><span class="citation-popover-snippet">Space jellyfish</span></span></span>
+This combination creates a perceptual conflict. Witnesses often conclude they must be seeing a gigantic structured craft because the object seems far too large to be an aircraft yet too organised to be a cloud.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Space_jellyfish" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Space jellyfish</span><span class="citation-popover-snippet">Space jellyfish</span></span></span>
 
-Distance further complicates perception. A plume may be hundreds of kilometres away and tens of kilometres high. Without obvious reference points, observers frequently underestimate its distance and overestimate its physical size. A phenomenon occurring at orbital-launch altitudes can therefore appear to be a nearby object hovering over a city. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Space_jellyfish" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Space jellyfish</span><span class="citation-popover-snippet">Space jellyfish</span></span></span>
+Distance further complicates perception. A plume may be hundreds of kilometres away and tens of kilometres high. Without obvious reference points, observers frequently underestimate its distance and overestimate its physical size. A phenomenon occurring at orbital-launch altitudes can therefore appear to be a nearby object hovering over a city.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Space_jellyfish" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Space jellyfish</span><span class="citation-popover-snippet">Space jellyfish</span></span></span>
 
 The result is a recurring pattern in UFO reporting: witnesses accurately describe what they saw, but the scale and distance of the phenomenon are radically misjudged because the visual cues are unfamiliar.
 
@@ -318,11 +318,11 @@ The result is a recurring pattern in UFO reporting: witnesses accurately describ
 
 Some of the most spectacular UFO reports involve giant spirals appearing in the night sky.
 
-Unlike the classic jellyfish form, these spirals often arise when a rocket's upper stage vents residual fuel or performs manoeuvres while rotating. The released gases expand into a circular cloud. As the stage spins, the cloud develops into a luminous spiral pattern that can remain visible for several minutes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/climate-environment/2025/03/25/spiral-spacex-launch-mystery-blue/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">The Washington Post Did you see an alien-looking swirl in the sky?</span><span class="citation-popover-snippet">It&#x27;s probably SpaceX.On the night of March 24, 2025, skywatchers across Europe, from Britain to Croatia, observed a mysterious light blue...</span><span class="citation-popover-meta">Published: March 24, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2025/mar/25/alien-hopes-crash-to-earth-glowing-spiral-uk-spacex-rocket" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">However, it has been determined that the phenomenon was caused by a SpaceX rocket, specifically the Falcon 9, which launched from Cape Ca...</span></span></span>
+Unlike the classic jellyfish form, these spirals often arise when a rocket's upper stage vents residual fuel or performs manoeuvres while rotating. The released gases expand into a circular cloud. As the stage spins, the cloud develops into a luminous spiral pattern that can remain visible for several minutes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/climate-environment/2025/03/25/spiral-spacex-launch-mystery-blue/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">The Washington Post Did you see an alien-looking swirl in the sky?</span><span class="citation-popover-snippet">It&#x27;s probably SpaceX.On the night of March 24, 2025, skywatchers across Europe, from Britain to Croatia, observed a mysterious light blue...</span><span class="citation-popover-meta">Published: March 24, 2025</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2025/mar/25/alien-hopes-crash-to-earth-glowing-spiral-uk-spacex-rocket" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">However, it has been determined that the phenomenon was caused by a SpaceX rocket, specifically the Falcon 9, which launched from Cape Ca...</span></span></span>
 
-The visibility of these spirals again depends heavily on twilight lighting conditions. Fuel vapour and ice crystals reflect sunlight at high altitude even when the ground is dark. The resulting pattern can appear startlingly geometric, causing many observers to reject ordinary atmospheric explanations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/climate-environment/2025/03/25/spiral-spacex-launch-mystery-blue/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">The Washington Post Did you see an alien-looking swirl in the sky?</span><span class="citation-popover-snippet">It&#x27;s probably SpaceX.On the night of March 24, 2025, skywatchers across Europe, from Britain to Croatia, observed a mysterious light blue...</span><span class="citation-popover-meta">Published: March 24, 2025</span></span></span>
+The visibility of these spirals again depends heavily on twilight lighting conditions. Fuel vapour and ice crystals reflect sunlight at high altitude even when the ground is dark. The resulting pattern can appear startlingly geometric, causing many observers to reject ordinary atmospheric explanations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/climate-environment/2025/03/25/spiral-spacex-launch-mystery-blue/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">The Washington Post Did you see an alien-looking swirl in the sky?</span><span class="citation-popover-snippet">It&#x27;s probably SpaceX.On the night of March 24, 2025, skywatchers across Europe, from Britain to Croatia, observed a mysterious light blue...</span><span class="citation-popover-meta">Published: March 24, 2025</span></span></span>
 
-A notable example occurred in March 2025 when a bright blue spiral was observed across Britain and much of Europe. Social media quickly filled with speculation about UFOs and extraterrestrial activity. Astronomers and atmospheric experts later linked the display to a Falcon 9 mission whose upper-stage fuel venting produced a sunlit spiral visible across a huge geographic area. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/climate-environment/2025/03/25/spiral-spacex-launch-mystery-blue/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">The Washington Post Did you see an alien-looking swirl in the sky?</span><span class="citation-popover-snippet">It&#x27;s probably SpaceX.On the night of March 24, 2025, skywatchers across Europe, from Britain to Croatia, observed a mysterious light blue...</span><span class="citation-popover-meta">Published: March 24, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2025/mar/25/alien-hopes-crash-to-earth-glowing-spiral-uk-spacex-rocket" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">However, it has been determined that the phenomenon was caused by a SpaceX rocket, specifically the Falcon 9, which launched from Cape Ca...</span></span></span>
+A notable example occurred in March 2025 when a bright blue spiral was observed across Britain and much of Europe. Social media quickly filled with speculation about UFOs and extraterrestrial activity. Astronomers and atmospheric experts later linked the display to a Falcon 9 mission whose upper-stage fuel venting produced a sunlit spiral visible across a huge geographic area.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/climate-environment/2025/03/25/spiral-spacex-launch-mystery-blue/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">The Washington Post Did you see an alien-looking swirl in the sky?</span><span class="citation-popover-snippet">It&#x27;s probably SpaceX.On the night of March 24, 2025, skywatchers across Europe, from Britain to Croatia, observed a mysterious light blue...</span><span class="citation-popover-meta">Published: March 24, 2025</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2025/mar/25/alien-hopes-crash-to-earth-glowing-spiral-uk-spacex-rocket" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">However, it has been determined that the phenomenon was caused by a SpaceX rocket, specifically the Falcon 9, which launched from Cape Ca...</span></span></span>
 
 The widespread visibility itself often fuels mystery. Because these events occur at very high altitudes, a single plume can be seen across multiple countries, giving witnesses the impression of a massive unexplained phenomenon rather than a distant rocket operation.
 
@@ -330,11 +330,11 @@ The widespread visibility itself often fuels mystery. Because these events occur
 
 Several launches have become textbook examples of twilight-induced UFO reports.
 
-The December 2017 Falcon 9 launch from California generated thousands of reports across the American West. Witnesses described a glowing object expanding into a giant luminous structure, with some believing they were observing a UFO or missile event. Images of the “space jellyfish” spread internationally before the launch was widely identified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Space_jellyfish" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Space jellyfish</span><span class="citation-popover-snippet">Space jellyfish</span></span></span>
+The December 2017 Falcon 9 launch from California generated thousands of reports across the American West. Witnesses described a glowing object expanding into a giant luminous structure, with some believing they were observing a UFO or missile event. Images of the “space jellyfish” spread internationally before the launch was widely identified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Space_jellyfish" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Space jellyfish</span><span class="citation-popover-snippet">Space jellyfish</span></span></span>
 
-Russian launches have produced similar reactions. Twilight launches of Soyuz vehicles have repeatedly created brilliant expanding plumes visible across large regions. In some instances, media reports documented widespread speculation about unidentified aerial phenomena before launch information clarified the source. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Space_jellyfish" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Space jellyfish</span><span class="citation-popover-snippet">Space jellyfish</span></span></span>
+Russian launches have produced similar reactions. Twilight launches of Soyuz vehicles have repeatedly created brilliant expanding plumes visible across large regions. In some instances, media reports documented widespread speculation about unidentified aerial phenomena before launch information clarified the source.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Space_jellyfish" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Space jellyfish</span><span class="citation-popover-snippet">Space jellyfish</span></span></span>
 
-More recently, pre-dawn Falcon 9 launches from Florida have continued to generate reports. A March 2026 [Starlink]({{ 'starlink/' | relative_url }}) mission produced a dramatic jellyfish-shaped cloud visible across Florida and parts of neighbouring states. News coverage noted that the effect resulted from sunlight illuminating exhaust composed largely of water vapour and carbon dioxide high above the still-dark landscape. Space <span class="citation-chip-wrap"><a class="citation-chip" href="https://people.com/sight-space-jellyfish-sky-shocked-florida-residents-11920281" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: people.com">[People.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">people.com</span><span class="citation-popover-snippet">The rocket, carrying a batch of Starlink internet satellites, left behind a glowing trail in the early morning darkness that appeared jel...</span></span></span>
+More recently, pre-dawn Falcon 9 launches from Florida have continued to generate reports. A March 2026 [Starlink]({{ 'starlink/' | relative_url }}) mission produced a dramatic jellyfish-shaped cloud visible across Florida and parts of neighbouring states. News coverage noted that the effect resulted from sunlight illuminating exhaust composed largely of water vapour and carbon dioxide high above the still-dark landscape. Space<span class="citation-chip-wrap"><a class="citation-chip" href="https://people.com/sight-space-jellyfish-sky-shocked-florida-residents-11920281" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: people.com">[People.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">people.com</span><span class="citation-popover-snippet">The rocket, carrying a batch of Starlink internet satellites, left behind a glowing trail in the early morning darkness that appeared jel...</span></span></span>
 
 These cases demonstrate that even in an era of smartphones, launch schedules, and social media, twilight plumes remain highly effective at generating UFO interpretations.
 
@@ -343,7 +343,7 @@ These cases demonstrate that even in an era of smartphones, launch schedules, an
 
 Although twilight rocket plumes can appear extraordinary, they display several recurring characteristics that distinguish them from aircraft and many other aerial phenomena.
 
-A launch plume typically: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/space-exploration/launches-spacecraft/spacex-rocket-launch-spawns-dazzling-space-jellyfish-in-evening-sky-photos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[space.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">x rocket launch spawns dazzling space jellyfish in evening sky photos</span><span class="citation-popover-snippet">X rocket launch spawns dazzling &#x27;space jellyfish&#x27; in...12 Feb 2025 — SpaceX rocket launch spawns dazzling &#x27;space jellyfish&#x27; in even...</span></span></span>
+A launch plume typically:<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/space-exploration/launches-spacecraft/spacex-rocket-launch-spawns-dazzling-space-jellyfish-in-evening-sky-photos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[space.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">x rocket launch spawns dazzling space jellyfish in evening sky photos</span><span class="citation-popover-snippet">X rocket launch spawns dazzling &#x27;space jellyfish&#x27; in...12 Feb 2025 — SpaceX rocket launch spawns dazzling &#x27;space jellyfish&#x27; in even...</span></span></span>
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -353,205 +353,205 @@ A launch plume typically: <span class="citation-chip-wrap"><a class="citation-ch
 * Remains visible across a very large geographic area.
 * Changes shape as exhaust disperses in the upper atmosphere.
 * Often contains a bright point or moving core associated with the rocket stage itself.
-* Fades gradually as the plume disperses rather than abruptly departing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Space_jellyfish" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Space jellyfish</span><span class="citation-popover-snippet">Space jellyfish</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Space_jellyfish" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Space jellyfish</span><span class="citation-popover-snippet">Space jellyfish</span></span></span>
+* Fades gradually as the plume disperses rather than abruptly departing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Space_jellyfish" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Space jellyfish</span><span class="citation-popover-snippet">Space jellyfish</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Space_jellyfish" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Space jellyfish</span><span class="citation-popover-snippet">Space jellyfish</span></span></span>
 
 </div>
 
-Perhaps the strongest clue is timing. Many of the most convincing UFO reports involving giant luminous sky structures occur within minutes of a documented rocket launch, stage burn, or fuel venting event. Because launches are recorded and [trajectories]({{ 'trajectories/' | relative_url }}) are known, these sightings are often among the easiest UFO reports to identify after the fact. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/climate-environment/2025/03/25/spiral-spacex-launch-mystery-blue/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">The Washington Post Did you see an alien-looking swirl in the sky?</span><span class="citation-popover-snippet">It&#x27;s probably SpaceX.On the night of March 24, 2025, skywatchers across Europe, from Britain to Croatia, observed a mysterious light blue...</span><span class="citation-popover-meta">Published: March 24, 2025</span></span></span>
+Perhaps the strongest clue is timing. Many of the most convincing UFO reports involving giant luminous sky structures occur within minutes of a documented rocket launch, stage burn, or fuel venting event. Because launches are recorded and [trajectories]({{ 'trajectories/' | relative_url }}) are known, these sightings are often among the easiest UFO reports to identify after the fact.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/climate-environment/2025/03/25/spiral-spacex-launch-mystery-blue/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">The Washington Post Did you see an alien-looking swirl in the sky?</span><span class="citation-popover-snippet">It&#x27;s probably SpaceX.On the night of March 24, 2025, skywatchers across Europe, from Britain to Croatia, observed a mysterious light blue...</span><span class="citation-popover-meta">Published: March 24, 2025</span></span></span>
 
 Twilight launch plumes therefore illustrate an important lesson in UFO investigation: a genuinely strange appearance does not necessarily imply a mysterious cause. Under the unusual lighting conditions of dawn and dusk, ordinary rocket exhaust can create some of the most spectacular and seemingly impossible objects ever reported in the sky.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/--M1Q9u92cg" title="SpaceX&#x27;s Stunning Jellyfish Effect Lights Up the Night Sky Over Vandenberg!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=--M1Q9u92cg" target="_blank" rel="noopener noreferrer">SpaceX&#x27;s Stunning Jellyfish Effect Lights Up the Night Sky Over Vandenberg!</a></p><p class="youtube-embed-meta">Channel: SpaceXtudio &middot; Views: 1.0K &middot; Uploaded: July 2025 &middot; Length: 1 minute 20 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=--M1Q9u92cg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=--M1Q9u92cg">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Twilight Rocket Plumes Look So Strange. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Twilight Rocket Plumes Look So Strange. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Rocket+science+for+the+rest+of+us&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rocket science for the rest of us on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12183728-M.jpg" alt="Cover for Rocket science for the rest of us" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Rocket+science+for+the+rest+of+us&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rocket science for the rest of us">Rocket science for the rest of us</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Rocket+science+for+the+rest+of+us&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rocket science for the rest of us on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12183728-M.jpg" alt="Cover for Rocket science for the rest of us" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Rocket+science+for+the+rest+of+us&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rocket science for the rest of us">Rocket science for the rest of us</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Explains space and atmospheric science behind dramatic twilight plume displays.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Rocket+science+for+the+rest+of+us&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains space and atmospheric science behind dramatic twilight plume displays.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Rocket+science+for+the+rest+of+us&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Right+Stuff+by+Tom+Wolfe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Right Stuff on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CiSXWxWkx_oC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Right Stuff" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Right+Stuff+by+Tom+Wolfe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Right Stuff">The Right Stuff</a>
-        </h4>
-        <p class="fr-book-author">By Tom Wolfe</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 8 Google Books ratings</p>
-        <p class="fr-book-desc">Connects rocket culture and public spectacle to skywatching interest.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Right+Stuff+by+Tom+Wolfe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Right+Stuff+by+Tom+Wolfe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Right Stuff on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CiSXWxWkx_oC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Right Stuff" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Right+Stuff+by+Tom+Wolfe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Right Stuff">The Right Stuff</a>
+</h4>
+<p class="fr-book-author">By Tom Wolfe</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 8 Google Books ratings</p>
+<p class="fr-book-desc">Connects rocket culture and public spectacle to skywatching interest.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Right+Stuff+by+Tom+Wolfe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Frames spectacular but ordinary sky events as identified causes of UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Frames spectacular but ordinary sky events as identified causes of UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ignition%21+John+D.+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ignition! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4709713-M.jpg" alt="Cover for Ignition!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ignition%21+John+D.+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ignition!">Ignition!</a>
-        </h4>
-        <p class="fr-book-author">By John D. Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ignition%21+John+D.+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ignition! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4709713-M.jpg" alt="Cover for Ignition!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ignition%21+John+D.+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ignition!">Ignition!</a>
+</h4>
+<p class="fr-book-author">By John D. Clark</p>
         
-        <p class="fr-book-desc">First published 1972. Subjects: Liquid propellants, solid propellants, rocket fuel, Rocketry, chemistry.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ignition%21+John+D.+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1972. Subjects: Liquid propellants, solid propellants, rocket fuel, Rocketry, chemistry.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ignition%21+John+D.+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Rocket+science+for+the+rest+of+us&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Rocket science for the rest of us</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Right+Stuff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Right Stuff</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Rocket+science+for+the+rest+of+us&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Rocket science for the rest of us</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Right+Stuff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Right Stuff</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-twilight-rocket-plumes-look-so-strange-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="why-twilight-rocket-plumes-look-so-strange-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rocket Launch Art Print | Space Exploration Painting | Sci‑Fi Wall Art"><img src="https://i.ebayimg.com/images/g/mt0AAeSwoJJqKtqS/s-l225.jpg" alt="Listing image for Rocket Launch Art Print | Space Exploration Painting | Sci‑Fi Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-twilight-rocket-plumes-look-so-strange-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="why-twilight-rocket-plumes-look-so-strange-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer">Rocket Launch Art Print | Space Exploration Painting | Sci‑Fi Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-twilight-rocket-plumes-look-so-strange-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="why-twilight-rocket-plumes-look-so-strange-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rocket launch poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: rocket launch poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-twilight-rocket-plumes-look-so-strange-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="why-twilight-rocket-plumes-look-so-strange-rocket-launch-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-twilight-rocket-plumes-look-so-strange-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="why-twilight-rocket-plumes-look-so-strange-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rocket Launch Art Print | Space Exploration Painting | Sci‑Fi Wall Art"><img src="https://i.ebayimg.com/images/g/mt0AAeSwoJJqKtqS/s-l225.jpg" alt="Listing image for Rocket Launch Art Print | Space Exploration Painting | Sci‑Fi Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-twilight-rocket-plumes-look-so-strange-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="why-twilight-rocket-plumes-look-so-strange-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer">Rocket Launch Art Print | Space Exploration Painting | Sci‑Fi Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-twilight-rocket-plumes-look-so-strange-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="why-twilight-rocket-plumes-look-so-strange-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rocket launch poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: rocket launch poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-twilight-rocket-plumes-look-so-strange-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="why-twilight-rocket-plumes-look-so-strange-rocket-launch-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-twilight-rocket-plumes-look-so-strange-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="why-twilight-rocket-plumes-look-so-strange-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rocket Launch on Mars Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/6h0AAeSwEb5phimD/s-l225.jpg" alt="Listing image for Rocket Launch on Mars Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-twilight-rocket-plumes-look-so-strange-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="why-twilight-rocket-plumes-look-so-strange-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer">Rocket Launch on Mars Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-twilight-rocket-plumes-look-so-strange-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="why-twilight-rocket-plumes-look-so-strange-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rocket launch poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: rocket launch poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-twilight-rocket-plumes-look-so-strange-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="why-twilight-rocket-plumes-look-so-strange-rocket-launch-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-twilight-rocket-plumes-look-so-strange-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="why-twilight-rocket-plumes-look-so-strange-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rocket Launch on Mars Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/6h0AAeSwEb5phimD/s-l225.jpg" alt="Listing image for Rocket Launch on Mars Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-twilight-rocket-plumes-look-so-strange-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="why-twilight-rocket-plumes-look-so-strange-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer">Rocket Launch on Mars Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-twilight-rocket-plumes-look-so-strange-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="why-twilight-rocket-plumes-look-so-strange-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rocket launch poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: rocket launch poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-twilight-rocket-plumes-look-so-strange-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="why-twilight-rocket-plumes-look-so-strange-rocket-launch-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-twilight-rocket-plumes-look-so-strange-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="why-twilight-rocket-plumes-look-so-strange-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space NASA Shuttle Discovery Rocket Launch Photo Huge Wall Art Poster Print"><img src="https://i.ebayimg.com/images/g/rkEAAOSwWi9nR2fB/s-l225.jpg" alt="Listing image for Space NASA Shuttle Discovery Rocket Launch Photo Huge Wall Art Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-twilight-rocket-plumes-look-so-strange-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="why-twilight-rocket-plumes-look-so-strange-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer">Space NASA Shuttle Discovery Rocket Launch Photo Huge Wall Art Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-twilight-rocket-plumes-look-so-strange-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="why-twilight-rocket-plumes-look-so-strange-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rocket launch poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: rocket launch poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-twilight-rocket-plumes-look-so-strange-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="why-twilight-rocket-plumes-look-so-strange-rocket-launch-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-twilight-rocket-plumes-look-so-strange-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="why-twilight-rocket-plumes-look-so-strange-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space NASA Shuttle Discovery Rocket Launch Photo Huge Wall Art Poster Print"><img src="https://i.ebayimg.com/images/g/rkEAAOSwWi9nR2fB/s-l225.jpg" alt="Listing image for Space NASA Shuttle Discovery Rocket Launch Photo Huge Wall Art Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-twilight-rocket-plumes-look-so-strange-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="why-twilight-rocket-plumes-look-so-strange-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer">Space NASA Shuttle Discovery Rocket Launch Photo Huge Wall Art Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-twilight-rocket-plumes-look-so-strange-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="why-twilight-rocket-plumes-look-so-strange-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rocket launch poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: rocket launch poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-twilight-rocket-plumes-look-so-strange-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="why-twilight-rocket-plumes-look-so-strange-rocket-launch-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-twilight-rocket-plumes-look-so-strange-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="why-twilight-rocket-plumes-look-so-strange-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space NASA Shuttle Discovery Rocket Launch Photo XL Wall Art Canvas Print"><img src="https://i.ebayimg.com/images/g/VsUAAOSwoWpnR3QF/s-l225.jpg" alt="Listing image for Space NASA Shuttle Discovery Rocket Launch Photo XL Wall Art Canvas Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-twilight-rocket-plumes-look-so-strange-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="why-twilight-rocket-plumes-look-so-strange-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer">Space NASA Shuttle Discovery Rocket Launch Photo XL Wall Art Canvas Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-twilight-rocket-plumes-look-so-strange-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="why-twilight-rocket-plumes-look-so-strange-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rocket launch poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: rocket launch poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-twilight-rocket-plumes-look-so-strange-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="why-twilight-rocket-plumes-look-so-strange-rocket-launch-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-twilight-rocket-plumes-look-so-strange-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="why-twilight-rocket-plumes-look-so-strange-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-twilight-rocket-plumes-look-so-strange-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="why-twilight-rocket-plumes-look-so-strange-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space NASA Shuttle Discovery Rocket Launch Photo XL Wall Art Canvas Print"><img src="https://i.ebayimg.com/images/g/VsUAAOSwoWpnR3QF/s-l225.jpg" alt="Listing image for Space NASA Shuttle Discovery Rocket Launch Photo XL Wall Art Canvas Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-twilight-rocket-plumes-look-so-strange-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="why-twilight-rocket-plumes-look-so-strange-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer">Space NASA Shuttle Discovery Rocket Launch Photo XL Wall Art Canvas Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-twilight-rocket-plumes-look-so-strange-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="why-twilight-rocket-plumes-look-so-strange-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rocket launch poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: rocket launch poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-twilight-rocket-plumes-look-so-strange-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="why-twilight-rocket-plumes-look-so-strange-rocket-launch-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-twilight-rocket-plumes-look-so-strange-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="why-twilight-rocket-plumes-look-so-strange-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -567,7 +567,7 @@ Twilight launch plumes therefore illustrate an important lesson in UFO investiga
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -587,7 +587,7 @@ Twilight launch plumes therefore illustrate an important lesson in UFO investiga
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -619,7 +619,7 @@ Twilight launch plumes therefore illustrate an important lesson in UFO investiga
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -671,7 +671,7 @@ Twilight launch plumes therefore illustrate an important lesson in UFO investiga
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -716,7 +716,7 @@ Twilight launch plumes therefore illustrate an important lesson in UFO investiga
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -757,119 +757,119 @@ Twilight launch plumes therefore illustrate an important lesson in UFO investiga
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Twilight phenomenon  
-   Link: <a href="https://en.wikipedia.org/wiki/Twilight_phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Twilight_phenomenon</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Twilight_phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Twilight_phenomenon</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Space jellyfish  
-   Link: <a href="https://en.wikipedia.org/wiki/Space_jellyfish" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Space_jellyfish</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Space_jellyfish" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Space_jellyfish</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: space.com  
    Title: x rocket launch spawns dazzling space jellyfish in evening sky photos  
-   Link: <a href="https://www.space.com/space-exploration/launches-spacecraft/spacex-rocket-launch-spawns-dazzling-space-jellyfish-in-evening-sky-photos" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/launches-spacecraft/spacex-rocket-launch-spawns-dazzling-space-jellyfish-in-evening-sky-photos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>X rocket launch spawns dazzling &#x27;space jellyfish&#x27; in...12 Feb 2025 — SpaceX rocket launch spawns dazzling &#x27;space jellyfish&#x27; in even...</p></details>
+   Link:<a href="https://www.space.com/space-exploration/launches-spacecraft/spacex-rocket-launch-spawns-dazzling-space-jellyfish-in-evening-sky-photos" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/launches-spacecraft/spacex-rocket-launch-spawns-dazzling-space-jellyfish-in-evening-sky-photos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>X rocket launch spawns dazzling &#x27;space jellyfish&#x27; in...12 Feb 2025 — SpaceX rocket launch spawns dazzling &#x27;space jellyfish&#x27; in even...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: space.com  
-   Link: <a href="https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-10-40-b1080-ccsfs-asog" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-10-40-b1080-ccsfs-asog</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The effect resulted from the sunlight illuminating the Falcon 9 rocket&#x27;s high-altitude exhaust plume before sunrise, producing a bulbous...</p></details>
+   Link:<a href="https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-10-40-b1080-ccsfs-asog" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-10-40-b1080-ccsfs-asog</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The effect resulted from the sunlight illuminating the Falcon 9 rocket&#x27;s high-altitude exhaust plume before sunrise, producing a bulbous...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: wftv.com  
-   Link: <a href="https://www.wftv.com/news/local/spacex-rocket-launch-creates-stunning-jellyfish-cloud-sky/WRN6A45WJBFJVKL75OJGOLF4IE/" target="_blank" rel="noopener noreferrer nofollow">https://www.wftv.com/news/local/spacex-rocket-launch-creates-stunning-jellyfish-cloud-sky/WRN6A45WJBFJVKL75OJGOLF4IE/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX rocket launch creates stunning &#x27;jellyfish cloud...21 May 2026 — The cloud was created during the twilight hours by the rocket...</p></details>
+   Link:<a href="https://www.wftv.com/news/local/spacex-rocket-launch-creates-stunning-jellyfish-cloud-sky/WRN6A45WJBFJVKL75OJGOLF4IE/" target="_blank" rel="noopener noreferrer nofollow">https://www.wftv.com/news/local/spacex-rocket-launch-creates-stunning-jellyfish-cloud-sky/WRN6A45WJBFJVKL75OJGOLF4IE/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX rocket launch creates stunning &#x27;jellyfish cloud...21 May 2026 — The cloud was created during the twilight hours by the rocket...</p></details>
    Published: May 2026  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: people.com  
-   Link: <a href="https://people.com/sight-space-jellyfish-sky-shocked-florida-residents-11920281" target="_blank" rel="noopener noreferrer nofollow">https://people.com/sight-space-jellyfish-sky-shocked-florida-residents-11920281</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The rocket, carrying a batch of Starlink internet [satellites](&amp;#123;&amp;#123; &#x27;satellites/&#x27; | relative_url &amp;#125;&amp;#125;), left behind a glowing trail in the early morning darkness that appeared jel...</p></details>
+   Link:<a href="https://people.com/sight-space-jellyfish-sky-shocked-florida-residents-11920281" target="_blank" rel="noopener noreferrer nofollow">https://people.com/sight-space-jellyfish-sky-shocked-florida-residents-11920281</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The rocket, carrying a batch of Starlink internet [satellites](&amp;#123;&amp;#123; &#x27;satellites/&#x27; | relative_url &amp;#125;&amp;#125;), left behind a glowing trail in the early morning darkness that appeared jel...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: Space X Falcon 9 Rocket Launch "Space Jellyfish" Phenomenon Explained  
-   Link: <a href="http://www.youtube.com/watch?v=0hYV_Xk-j0o" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=0hYV_Xk-j0o</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why twilight rocket launches look like UFOs...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=0hYV_Xk-j0o" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=0hYV_Xk-j0o</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why twilight rocket launches look like UFOs...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: washingtonpost.com  
    Title: The Washington Post Did you see an alien-looking swirl in the sky?  
-   Link: <a href="https://www.washingtonpost.com/climate-environment/2025/03/25/spiral-spacex-launch-mystery-blue/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/climate-environment/2025/03/25/spiral-spacex-launch-mystery-blue/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s probably SpaceX.On the night of March 24, 2025, skywatchers across Europe, from Britain to Croatia, observed a mysterious light blue...</p></details>
+   Link:<a href="https://www.washingtonpost.com/climate-environment/2025/03/25/spiral-spacex-launch-mystery-blue/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/climate-environment/2025/03/25/spiral-spacex-launch-mystery-blue/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s probably SpaceX.On the night of March 24, 2025, skywatchers across Europe, from Britain to Croatia, observed a mysterious light blue...</p></details>
    Published: March 24, 2025  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2025/mar/25/alien-hopes-crash-to-earth-glowing-spiral-uk-spacex-rocket" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2025/mar/25/alien-hopes-crash-to-earth-glowing-spiral-uk-spacex-rocket</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>However, it has been determined that the phenomenon was caused by a SpaceX rocket, specifically the Falcon 9, which launched from Cape Ca...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2025/mar/25/alien-hopes-crash-to-earth-glowing-spiral-uk-spacex-rocket" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2025/mar/25/alien-hopes-crash-to-earth-glowing-spiral-uk-spacex-rocket</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>However, it has been determined that the phenomenon was caused by a SpaceX rocket, specifically the Falcon 9, which launched from Cape Ca...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: spacelaunchschedule.com  
-   Link: <a href="https://www.spacelaunchschedule.com/news/the-jellyfish-effect-during-rocket-launches-a-stunning-twilight-phenomenon/" target="_blank" rel="noopener noreferrer nofollow">https://www.spacelaunchschedule.com/news/the-jellyfish-effect-during-rocket-launches-a-stunning-twilight-phenomenon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Space Launch ScheduleRocket Launch Jellyfish Effect: A Guide to Twilight&#x27;s Best...A: The jellyfish effect is caused by the interaction o...</p></details>
+   Link:<a href="https://www.spacelaunchschedule.com/news/the-jellyfish-effect-during-rocket-launches-a-stunning-twilight-phenomenon/" target="_blank" rel="noopener noreferrer nofollow">https://www.spacelaunchschedule.com/news/the-jellyfish-effect-during-rocket-launches-a-stunning-twilight-phenomenon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Space Launch ScheduleRocket Launch Jellyfish Effect: A Guide to Twilight&#x27;s Best...A: The jellyfish effect is caused by the interaction o...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/nextfuckinglevel/comments/n7yx5b/spacex_falcon_9_leaving_earths_atmosphere_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/nextfuckinglevel/comments/n7yx5b/spacex_falcon_9_leaving_earths_atmosphere_and/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX falcon 9 leaving Earth&#x27;s atmosphere and created a...A twilight phenomenon is produced when exhaust particles from propellant left...</p></details>
+   Link:<a href="https://www.reddit.com/r/nextfuckinglevel/comments/n7yx5b/spacex_falcon_9_leaving_earths_atmosphere_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/nextfuckinglevel/comments/n7yx5b/spacex_falcon_9_leaving_earths_atmosphere_and/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX falcon 9 leaving Earth&#x27;s atmosphere and created a...A twilight phenomenon is produced when exhaust particles from propellant left...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=--M1Q9u92cg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=--M1Q9u92cg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX&#x27;s Stunning Jellyfish Effect Lights Up the Night Sky...Witness the breathtaking &quot;space jellyfish&quot; phenomenon as SpaceX&#x27;s Falcon 9...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=--M1Q9u92cg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=--M1Q9u92cg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX&#x27;s Stunning Jellyfish Effect Lights Up the Night Sky...Witness the breathtaking &quot;space jellyfish&quot; phenomenon as SpaceX&#x27;s Falcon 9...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/space/comments/i2eiui/heres_a_closeup_of_the_spacex_launch_twilight/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/i2eiui/heres_a_closeup_of_the_spacex_launch_twilight/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s a close-up of the SpaceX launch &quot;twilight effect&quot; that...A twilight phenomenon is produced when exhaust particles from propellant...</p></details>
+   Link:<a href="https://www.reddit.com/r/space/comments/i2eiui/heres_a_closeup_of_the_spacex_launch_twilight/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/i2eiui/heres_a_closeup_of_the_spacex_launch_twilight/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s a close-up of the SpaceX launch &quot;twilight effect&quot; that...A twilight phenomenon is produced when exhaust particles from propellant...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: wral.com  
-   Link: <a href="https://www.wral.com/news/local/spacex-launch-visibile-may-2026/" target="_blank" rel="noopener noreferrer nofollow">https://www.wral.com/news/local/spacex-launch-visibile-may-2026/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>WRAL NewsLook up for a &quot;space jellyfish&quot; Thursday morning4 days ago — You are actually seeing is sunlight reflecting off the rocket&#x27;s exp...</p></details>
+   Link:<a href="https://www.wral.com/news/local/spacex-launch-visibile-may-2026/" target="_blank" rel="noopener noreferrer nofollow">https://www.wral.com/news/local/spacex-launch-visibile-may-2026/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WRAL NewsLook up for a &quot;space jellyfish&quot; Thursday morning4 days ago — You are actually seeing is sunlight reflecting off the rocket&#x27;s exp...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: thetimes.co.uk  
-   Link: <a href="https://www.thetimes.co.uk/article/space-x-sky-spiral-yorkshire-t2cpgdxn2" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.co.uk/article/space-x-sky-spiral-yorkshire-t2cpgdxn2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Experts attribute the phenomenon to a fuel dump from a SpaceX Falcon 9 rocket launched earlier that day from Florida, carrying a national...</p></details>
+   Link:<a href="https://www.thetimes.co.uk/article/space-x-sky-spiral-yorkshire-t2cpgdxn2" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.co.uk/article/space-x-sky-spiral-yorkshire-t2cpgdxn2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Experts attribute the phenomenon to a fuel dump from a SpaceX Falcon 9 rocket launched earlier that day from Florida, carrying a national...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: timesofindia.indiatimes.com  
-   Link: <a href="https://timesofindia.indiatimes.com/science/spacex-rocket-launch-creates-space-jellyfish-effect-in-florida-sky-during-falcon-9-mission-carrying-29-starlink-satellites/articleshow/129075417.cms" target="_blank" rel="noopener noreferrer nofollow">https://timesofindia.indiatimes.com/science/spacex-rocket-launch-creates-space-jellyfish-effect-in-florida-sky-during-falcon-9-mission-carrying-29-starlink-satellites/articleshow/129075417.cms</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>As dawn broke, the rocket&#x27;s ascent created a radiant cloud formation in the sky, resembling a massive &quot;space jellyfish.&quot; This visually st...</p></details>
+   Link:<a href="https://timesofindia.indiatimes.com/science/spacex-rocket-launch-creates-space-jellyfish-effect-in-florida-sky-during-falcon-9-mission-carrying-29-starlink-satellites/articleshow/129075417.cms" target="_blank" rel="noopener noreferrer nofollow">https://timesofindia.indiatimes.com/science/spacex-rocket-launch-creates-space-jellyfish-effect-in-florida-sky-during-falcon-9-mission-carrying-29-starlink-satellites/articleshow/129075417.cms</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>As dawn broke, the rocket&#x27;s ascent created a radiant cloud formation in the sky, resembling a massive &quot;space jellyfish.&quot; This visually st...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/nasa/comments/11rrcim/what_causes_spacexs_jellyfish_plume/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/nasa/comments/11rrcim/what_causes_spacexs_jellyfish_plume/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What causes SpaceX&#x27;s &quot;jellyfish plume&quot;?: r/nasaI was curious about what causes the jellyfish plume effect you see on the second stage of...</p></details>
+   Link:<a href="https://www.reddit.com/r/nasa/comments/11rrcim/what_causes_spacexs_jellyfish_plume/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/nasa/comments/11rrcim/what_causes_spacexs_jellyfish_plume/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What causes SpaceX&#x27;s &quot;jellyfish plume&quot;?: r/nasaI was curious about what causes the jellyfish plume effect you see on the second stage of...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DWFopZrDIAV/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DWFopZrDIAV/</a>  
+   Link:<a href="https://www.instagram.com/p/DWFopZrDIAV/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DWFopZrDIAV/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/OrangeCountyPublicSchools/posts/spotted-over-timber-creek-high-this-mornings-spacex-rocket-launch-creating-a-gia/1396521102519764/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OrangeCountyPublicSchools/posts/spotted-over-timber-creek-high-this-mornings-spacex-rocket-launch-creating-a-gia/1396521102519764/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>this morning&#x27;s SpaceX rocket launch creating a giant...Rocket Launch: The jellyfish effect occurred during this morning&#x27;s SpaceX launch...</p></details>
+   Link:<a href="https://www.facebook.com/OrangeCountyPublicSchools/posts/spotted-over-timber-creek-high-this-mornings-spacex-rocket-launch-creating-a-gia/1396521102519764/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OrangeCountyPublicSchools/posts/spotted-over-timber-creek-high-this-mornings-spacex-rocket-launch-creating-a-gia/1396521102519764/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>this morning&#x27;s SpaceX rocket launch creating a giant...Rocket Launch: The jellyfish effect occurred during this morning&#x27;s SpaceX launch...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/shorts/mCc7weLw8Ys" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/mCc7weLw8Ys</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OMG! Giant Jellyfish in the Skyjellyfish. The phenomenon is actually caused by the launch of a Falcon 9 rocket. When a rocket launches ne...</p></details>
+   Link:<a href="https://www.youtube.com/shorts/mCc7weLw8Ys" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/mCc7weLw8Ys</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OMG! Giant Jellyfish in the Skyjellyfish. The phenomenon is actually caused by the launch of a Falcon 9 rocket. When a rocket launches ne...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
    Title: Astronomer Allan Trow believes the phenomenon was caused by Space X  
-   Link: <a href="https://www.facebook.com/brutamerica/posts/a-mysterious-glowing-spiral-was-spotted-across-several-european-countries-on-mar/1094123962760777/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/brutamerica/posts/a-mysterious-glowing-spiral-was-spotted-across-several-european-countries-on-mar/1094123962760777/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A mysterious glowing spiral was spotted across several...A mysterious glowing spiral was spotted across several European countries on Ma...</p></details>
+   Link:<a href="https://www.facebook.com/brutamerica/posts/a-mysterious-glowing-spiral-was-spotted-across-several-european-countries-on-mar/1094123962760777/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/brutamerica/posts/a-mysterious-glowing-spiral-was-spotted-across-several-european-countries-on-mar/1094123962760777/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A mysterious glowing spiral was spotted across several...A mysterious glowing spiral was spotted across several European countries on Ma...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/SpaceLaunchSchedule/posts/1102156207491502/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/SpaceLaunchSchedule/posts/1102156207491502/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>before sunrise? I am not very scientifically inclined. I know...</p></details>
+   Link:<a href="https://www.facebook.com/groups/SpaceLaunchSchedule/posts/1102156207491502/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/SpaceLaunchSchedule/posts/1102156207491502/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>before sunrise? I am not very scientifically inclined. I know...</p></details>

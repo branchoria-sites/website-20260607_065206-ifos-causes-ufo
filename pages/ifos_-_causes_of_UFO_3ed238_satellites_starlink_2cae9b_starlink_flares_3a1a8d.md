@@ -268,12 +268,12 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b_sta
 
 ## Introduction
 
-Some satellite sightings are stranger than a steady light crossing the sky. [Starlink]({{ 'starlink/' | relative_url }}) [satellites]({{ 'satellites/' | relative_url }}) can produce brief flashes, glints and flare sequences that make a light appear to accelerate, stop, turn, vanish or interact with other lights. In reports of unidentified flying objects (UFOs), these effects are often described as manoeuvres even though the satellites are following ordinary orbital paths. The key source of confusion is that the observer sees only changing brightness, not the geometry that causes it. A satellite hundreds of kilometres away can remain on a smooth trajectory while reflected sunlight makes it seem to perform dramatic movements. Recent studies by the U.S. All-domain Anomaly Resolution Office (AARO) and satellite-brightness researchers have shown that Starlink flares are capable of producing precisely the kinds of unusual visual effects that generate some UFO reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper_508_FINAL_04222025.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Correlations of Starlink Satellite Flaring with UAP</span><span class="citation-popover-snippet">Angles for observing Starlink flares is up to about 10° above the horizon assuming off-axis.Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Satellite Flaring Paper</span><span class="citation-popover-snippet">Correlations of Starlink Satellite Flaring with UAP...by A An · 2024 — These very bright, short lived flashes of light are called “satel...</span></span></span>
+Some satellite sightings are stranger than a steady light crossing the sky. [Starlink]({{ 'starlink/' | relative_url }}) [satellites]({{ 'satellites/' | relative_url }}) can produce brief flashes, glints and flare sequences that make a light appear to accelerate, stop, turn, vanish or interact with other lights. In reports of unidentified flying objects (UFOs), these effects are often described as manoeuvres even though the satellites are following ordinary orbital paths. The key source of confusion is that the observer sees only changing brightness, not the geometry that causes it. A satellite hundreds of kilometres away can remain on a smooth trajectory while reflected sunlight makes it seem to perform dramatic movements. Recent studies by the U.S. All-domain Anomaly Resolution Office (AARO) and satellite-brightness researchers have shown that Starlink flares are capable of producing precisely the kinds of unusual visual effects that generate some UFO reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper_508_FINAL_04222025.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Correlations of Starlink Satellite Flaring with UAP</span><span class="citation-popover-snippet">Angles for observing Starlink flares is up to about 10° above the horizon assuming off-axis.Read more...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Satellite Flaring Paper</span><span class="citation-popover-snippet">Correlations of Starlink Satellite Flaring with UAP...by A An · 2024 — These very bright, short lived flashes of light are called “satel...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b_starlink_flares_3a1a8d-Illustration-1-dark.svg" | relative_url }}" alt="Flares illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b_starlink_flares_3a1a8d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b_starlink_flares_3a1a8d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How flare geometry creates sudden brightness changes
 
-A Starlink flare is a reflection of sunlight from part of the spacecraft toward a specific observer. Unlike a lamp, the satellite is not generating visible light of its own. The brightness depends on a precise alignment between the Sun, the satellite and the observer. When that alignment briefly becomes favourable, the satellite can brighten dramatically and then fade just as quickly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/950338/satellite-flaring-phenomenon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">The Satellite Flaring PhenomenonSatellite flaring is an optical phenomenon which occurs when sunlight reflects off a satellite&#x27;s surfaces...</span></span></span> Wikipedia This geometry can create several illusions: <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Satellite_flare" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Satellite flare</span><span class="citation-popover-snippet">Satellite flare</span></span></span>
+A Starlink flare is a reflection of sunlight from part of the spacecraft toward a specific observer. Unlike a lamp, the satellite is not generating visible light of its own. The brightness depends on a precise alignment between the Sun, the satellite and the observer. When that alignment briefly becomes favourable, the satellite can brighten dramatically and then fade just as quickly.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/950338/satellite-flaring-phenomenon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">The Satellite Flaring PhenomenonSatellite flaring is an optical phenomenon which occurs when sunlight reflects off a satellite&#x27;s surfaces...</span></span></span> Wikipedia This geometry can create several illusions:<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Satellite_flare" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Satellite flare</span><span class="citation-popover-snippet">Satellite flare</span></span></span>
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -284,11 +284,11 @@ A Starlink flare is a reflection of sunlight from part of the spacecraft toward 
 
 </div>
 
-To an observer with no distance reference, these brightness changes can look like acceleration, braking or directional changes. In reality, the motion across the sky remains smooth and predictable. The apparent manoeuvre exists only in the changing reflection geometry. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/950338/satellite-flaring-phenomenon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">The Satellite Flaring PhenomenonSatellite flaring is an optical phenomenon which occurs when sunlight reflects off a satellite&#x27;s surfaces...</span></span></span> Starlink satellites are particularly capable of producing such effects because their flat-panel structure and operational orientation createstrong directional [reflections]({{ 'reflections/' | relative_url }}) under certain conditions. Studies of Starlink brightness have found that their visibility is highly sensitive to the relative positions of the Sun and observer, and that brief flares lasting only a few seconds can occur during otherwise ordinary passes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/pdf/2405.13091" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Extreme Flaring of Starlink Satellitesby A Mallama · 2024 · Cited by 1 — Abstract. Starlink satellites can become extremely bright w...</span></span></span>
+To an observer with no distance reference, these brightness changes can look like acceleration, braking or directional changes. In reality, the motion across the sky remains smooth and predictable. The apparent manoeuvre exists only in the changing reflection geometry.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/950338/satellite-flaring-phenomenon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">The Satellite Flaring PhenomenonSatellite flaring is an optical phenomenon which occurs when sunlight reflects off a satellite&#x27;s surfaces...</span></span></span> Starlink satellites are particularly capable of producing such effects because their flat-panel structure and operational orientation createstrong directional [reflections]({{ 'reflections/' | relative_url }}) under certain conditions. Studies of Starlink brightness have found that their visibility is highly sensitive to the relative positions of the Sun and observer, and that brief flares lasting only a few seconds can occur during otherwise ordinary passes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/pdf/2405.13091" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Extreme Flaring of Starlink Satellitesby A Mallama · 2024 · Cited by 1 — Abstract. Starlink satellites can become extremely bright w...</span></span></span>
 
 ### Why low-horizon flares look especially strange
 
-Many of the most confusing Starlink flares occur low above the horizon shortly after sunset or before sunrise. [AARO]({{ 'aaro/' | relative_url }})'s analysis found that favourable flare geometry often occurs within a relatively narrow band above the horizon, where observers are already looking through atmospheric haze and have poor [distance cues]({{ 'distance-cues/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper_508_FINAL_04222025.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Correlations of Starlink Satellite Flaring with UAP</span><span class="citation-popover-snippet">Angles for observing Starlink flares is up to about 10° above the horizon assuming off-axis.Read more...</span></span></span>
+Many of the most confusing Starlink flares occur low above the horizon shortly after sunset or before sunrise. [AARO]({{ 'aaro/' | relative_url }})'s analysis found that favourable flare geometry often occurs within a relatively narrow band above the horizon, where observers are already looking through atmospheric haze and have poor [distance cues]({{ 'distance-cues/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper_508_FINAL_04222025.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Correlations of Starlink Satellite Flaring with UAP</span><span class="citation-popover-snippet">Angles for observing Starlink flares is up to about 10° above the horizon assuming off-axis.Read more...</span></span></span>
 
 At these low angles, a flare can resemble:
 
@@ -301,13 +301,13 @@ At these low angles, a flare can resemble:
 
 </div>
 
-Because the observer cannot easily judge altitude or [range]({{ 'range/' | relative_url }}), the brain may interpret a distant orbital reflection as a nearby object changing course. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Satellite Flaring Paper</span><span class="citation-popover-snippet">Correlations of Starlink Satellite Flaring with UAP...by A An · 2024 — These very bright, short lived flashes of light are called “satel...</span></span></span>
+Because the observer cannot easily judge altitude or [range]({{ 'range/' | relative_url }}), the brain may interpret a distant orbital reflection as a nearby object changing course.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Satellite Flaring Paper</span><span class="citation-popover-snippet">Correlations of Starlink Satellite Flaring with UAP...by A An · 2024 — These very bright, short lived flashes of light are called “satel...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/aWpeN3cU17Q" title="SpaceX&#x27;s Starlink, satellite flares, and spectacular twilight rocket plumes: EXPLAINED!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=aWpeN3cU17Q" target="_blank" rel="noopener noreferrer">SpaceX&#x27;s Starlink, satellite flares, and spectacular twilight rocket plumes: EXPLAINED!</a></p><p class="youtube-embed-meta">Channel: AlphaPhoenix &middot; Views: 39.4K &middot; Uploaded: July 2020 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=aWpeN3cU17Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=aWpeN3cU17Q">Open on YouTube</a></p></div></div></div>
 
 ## Why several satellites can seem to interact
 
-One of the most puzzling Starlink-related UFO descriptions involves multiple lights apparently communicating, following one another or converging on a common point. The effect often results from many satellites occupying related orbital paths and encountering similar reflection conditions at nearly the same time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skyandtelescope.org/astronomy-news/starlink-flares-can-fool-anyone-even-airline-pilots/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyandtelescope.org">[Sky &amp; Telescope]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyandtelescope.org</span><span class="citation-popover-snippet">Sky &amp; TelescopeStarlink Flares Can Fool Anyone — Even Airline PilotsJun 10, 2024 — Sunlight reflects from the dielectric coating on the n...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.universetoday.com/articles/starlinks-can-produce-surprisingly-bright-flares-to-pilots" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universetoday.com">[Universe Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universetoday.com</span><span class="citation-popover-title">starlinks can produce surprisingly bright flares to pilots</span><span class="citation-popover-snippet">In one instance they were reported as Unidentified Aerial Phenomenon...Read more...</span></span></span>
+One of the most puzzling Starlink-related UFO descriptions involves multiple lights apparently communicating, following one another or converging on a common point. The effect often results from many satellites occupying related orbital paths and encountering similar reflection conditions at nearly the same time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skyandtelescope.org/astronomy-news/starlink-flares-can-fool-anyone-even-airline-pilots/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyandtelescope.org">[Sky &amp; Telescope]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyandtelescope.org</span><span class="citation-popover-snippet">Sky &amp; TelescopeStarlink Flares Can Fool Anyone — Even Airline PilotsJun 10, 2024 — Sunlight reflects from the dielectric coating on the n...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.universetoday.com/articles/starlinks-can-produce-surprisingly-bright-flares-to-pilots" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universetoday.com">[Universe Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universetoday.com</span><span class="citation-popover-title">starlinks can produce surprisingly bright flares to pilots</span><span class="citation-popover-snippet">In one instance they were reported as Unidentified Aerial Phenomenon...Read more...</span></span></span>
 
 Instead of seeing a single flare, an observer may witness a sequence:
 
@@ -320,20 +320,20 @@ Instead of seeing a single flare, an observer may witness a sequence:
 
 </div>
 
-To someone unaware of the constellation's structure, the sequence can look like a moving object handing off its position to another object or like several craft coordinating their actions. Yet the satellites may be separated by large distances and have no interaction whatsoever. They simply pass through similar reflection geometries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Satellite_flare" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Satellite flare</span><span class="citation-popover-snippet">Satellite flare</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/askastronomy/comments/1i7inn7/can_someone_explain_why_im_seeing_these/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">t, just far away, which is why they are so low and so numerous...</span></span></span>
+To someone unaware of the constellation's structure, the sequence can look like a moving object handing off its position to another object or like several craft coordinating their actions. Yet the satellites may be separated by large distances and have no interaction whatsoever. They simply pass through similar reflection geometries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Satellite_flare" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Satellite flare</span><span class="citation-popover-snippet">Satellite flare</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/askastronomy/comments/1i7inn7/can_someone_explain_why_im_seeing_these/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">t, just far away, which is why they are so low and so numerous...</span></span></span>
 
-Researchers examining extreme Starlink flares have highlighted cases in which bright reflections were unusual enough to be reported as unidentified aerial phenomena. In one documented example, [pilots]({{ 'pilots/' | relative_url }}) on separate commercial aircraft reported an event later linked to Starlink flare behaviour. The brightness was real, but the interpretation of what caused it was mistaken. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/pdf/2405.13091" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Extreme Flaring of Starlink Satellitesby A Mallama · 2024 · Cited by 1 — Abstract. Starlink satellites can become extremely bright w...</span></span></span> 2arXiv
+Researchers examining extreme Starlink flares have highlighted cases in which bright reflections were unusual enough to be reported as unidentified aerial phenomena. In one documented example, [pilots]({{ 'pilots/' | relative_url }}) on separate commercial aircraft reported an event later linked to Starlink flare behaviour. The brightness was real, but the interpretation of what caused it was mistaken.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/pdf/2405.13091" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Extreme Flaring of Starlink Satellitesby A Mallama · 2024 · Cited by 1 — Abstract. Starlink satellites can become extremely bright w...</span></span></span> 2arXiv
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b_starlink_flares_3a1a8d-Illustration-2-dark.svg" | relative_url }}" alt="Flares illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b_starlink_flares_3a1a8d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b_starlink_flares_3a1a8d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The "racetrack" effect
 
-A particularly misleading pattern occurs when many satellites in crossing orbital tracks generate reflections from roughly the same area of sky. Pilots and observers may see lights repeatedly brighten and fade in an apparently fixed location, producing the impression that objects are circling, loitering or operating within a defined zone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Starlink" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">StarlinkStarlink is a satellite internet constellation operated by Starlink Services, LLC, an international telecommunications provide...</span></span></span>
+A particularly misleading pattern occurs when many satellites in crossing orbital tracks generate reflections from roughly the same area of sky. Pilots and observers may see lights repeatedly brighten and fade in an apparently fixed location, producing the impression that objects are circling, loitering or operating within a defined zone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Starlink" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">StarlinkStarlink is a satellite internet constellation operated by Starlink Services, LLC, an international telecommunications provide...</span></span></span>
 
-Because each flare is produced by a different satellite, there is no actual hovering object. The eye links separate events into a single narrative, creating the perception of organised movement where none exists. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Satellite_flare" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Satellite flare</span><span class="citation-popover-snippet">Satellite flare</span></span></span>
+Because each flare is produced by a different satellite, there is no actual hovering object. The eye links separate events into a single narrative, creating the perception of organised movement where none exists.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Satellite_flare" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Satellite flare</span><span class="citation-popover-snippet">Satellite flare</span></span></span>
 
 ## Mistakes caused by missing distance and direction cues
 
-Human perception relies heavily on reference points. At night, especially over open countryside, deserts, oceans or from aircraft, those references may be absent. A bright point of light can therefore be assigned an incorrect distance and speed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/950338/satellite-flaring-phenomenon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">The Satellite Flaring PhenomenonSatellite flaring is an optical phenomenon which occurs when sunlight reflects off a satellite&#x27;s surfaces...</span></span></span>
+Human perception relies heavily on reference points. At night, especially over open countryside, deserts, oceans or from aircraft, those references may be absent. A bright point of light can therefore be assigned an incorrect distance and speed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/950338/satellite-flaring-phenomenon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">The Satellite Flaring PhenomenonSatellite flaring is an optical phenomenon which occurs when sunlight reflects off a satellite&#x27;s surfaces...</span></span></span>
 
 When a Starlink flare occurs, several common interpretation errors become more likely:
 
@@ -345,210 +345,210 @@ When a Starlink flare occurs, several common interpretation errors become more l
 
 **Angular motion becomes physical motion.** A distant orbital object crossing the sky can be misjudged as a nearby craft moving at extraordinary speed.
 
-These errors are not signs of carelessness. They arise from normal visual processing under conditions where the observer lacks reliable information about scale, distance and direction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Starlink" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">StarlinkStarlink is a satellite internet constellation operated by Starlink Services, LLC, an international telecommunications provide...</span></span></span>
+These errors are not signs of carelessness. They arise from normal visual processing under conditions where the observer lacks reliable information about scale, distance and direction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Starlink" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">StarlinkStarlink is a satellite internet constellation operated by Starlink Services, LLC, an international telecommunications provide...</span></span></span>
 
 The result is that a genuine astronomical event can produce a report describing sharp turns, hovering, sudden acceleration or coordinated behaviour. In some cases the witness is accurately describing what was seen, while misidentifying the mechanism responsible for the appearance.
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b_starlink_flares_3a1a8d-Illustration-3-dark.svg" | relative_url }}" alt="Flares illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b_starlink_flares_3a1a8d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b_starlink_flares_3a1a8d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Starlink flares matter in UFO investigations
 
-For investigators evaluating unusual night-sky reports, Starlink flares occupy an important middle ground. They are neither ordinary star-like satellite passes nor evidence of extraordinary flight behaviour. Instead, they are a reflection-driven optical phenomenon capable of generating surprisingly dramatic visual impressions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Satellite Flaring Paper</span><span class="citation-popover-snippet">Correlations of Starlink Satellite Flaring with UAP...by A An · 2024 — These very bright, short lived flashes of light are called “satel...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Satellite Flaring Paper</span><span class="citation-popover-snippet">Correlations of Starlink Satellite Flaring with UAP...by A An · 2024 — These very bright, short lived flashes of light are called “satel...</span></span></span>
+For investigators evaluating unusual night-sky reports, Starlink flares occupy an important middle ground. They are neither ordinary star-like satellite passes nor evidence of extraordinary flight behaviour. Instead, they are a reflection-driven optical phenomenon capable of generating surprisingly dramatic visual impressions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Satellite Flaring Paper</span><span class="citation-popover-snippet">Correlations of Starlink Satellite Flaring with UAP...by A An · 2024 — These very bright, short lived flashes of light are called “satel...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Satellite Flaring Paper</span><span class="citation-popover-snippet">Correlations of Starlink Satellite Flaring with UAP...by A An · 2024 — These very bright, short lived flashes of light are called “satel...</span></span></span>
 
-The growing size of the Starlink constellation increases the chances that observers, pilots and skywatchers will encounter these effects. AARO's analysis specifically examined correlations between Starlink flaring and reports of unidentified aerial phenomena, concluding that the geometry of satellite reflections can account for some observations that initially appeared anomalous. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Satellite Flaring Paper</span><span class="citation-popover-snippet">Correlations of Starlink Satellite Flaring with UAP...by A An · 2024 — These very bright, short lived flashes of light are called “satel...</span></span></span>
+The growing size of the Starlink constellation increases the chances that observers, pilots and skywatchers will encounter these effects. AARO's analysis specifically examined correlations between Starlink flaring and reports of unidentified aerial phenomena, concluding that the geometry of satellite reflections can account for some observations that initially appeared anomalous.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Satellite Flaring Paper</span><span class="citation-popover-snippet">Correlations of Starlink Satellite Flaring with UAP...by A An · 2024 — These very bright, short lived flashes of light are called “satel...</span></span></span>
 
 Understanding flare behaviour therefore helps explain a recurring class of UFO reports: lights that seem to manoeuvre dramatically despite following entirely ordinary orbital paths.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GhLXCJ1Gyyc" title="Starlink satellites, the string of lights in the night sky." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GhLXCJ1Gyyc" target="_blank" rel="noopener noreferrer">Starlink satellites, the string of lights in the night sky.</a></p><p class="youtube-embed-meta">Channel: Brad Panovich (wxbrad) &middot; Views: 251.7K &middot; Uploaded: September 2023 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GhLXCJ1Gyyc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GhLXCJ1Gyyc">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When satellite glints look like manoeuvres. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When satellite glints look like manoeuvres. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Backyard Astronomer&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hdvYKwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Backyard Astronomer&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Backyard Astronomer&#x27;s Guide">The Backyard Astronomer&#x27;s Guide</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson, Alan Dyer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Backyard Astronomer&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hdvYKwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Backyard Astronomer&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Backyard Astronomer&#x27;s Guide">The Backyard Astronomer&#x27;s Guide</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson, Alan Dyer</p>
         
-        <p class="fr-book-desc">Explains satellite glints, night-sky observing, and visibility conditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains satellite glints, night-sky observing, and visibility conditions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Builds observational skills for distinguishing glints from manoeuvres.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Builds observational skills for distinguishing glints from manoeuvres.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Satellite+Basics+for+Everyone+by+C.+Robert+Welti&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Satellite Basics for Everyone on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8boMthqMAUMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Satellite Basics for Everyone" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Satellite+Basics+for+Everyone+by+C.+Robert+Welti&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Satellite Basics for Everyone">Satellite Basics for Everyone</a>
-        </h4>
-        <p class="fr-book-author">By C. Robert Welti</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Satellite+Basics+for+Everyone+by+C.+Robert+Welti&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Satellite Basics for Everyone on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8boMthqMAUMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Satellite Basics for Everyone" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Satellite+Basics+for+Everyone+by+C.+Robert+Welti&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Satellite Basics for Everyone">Satellite Basics for Everyone</a>
+</h4>
+<p class="fr-book-author">By C. Robert Welti</p>
         
-        <p class="fr-book-desc">Helps readers understand satellite reflection geometry.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Satellite+Basics+for+Everyone+by+C.+Robert+Welti&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand satellite reflection geometry.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Satellite+Basics+for+Everyone+by+C.+Robert+Welti&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
-        </h4>
-        <p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
+</h4>
+<p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
         
-        <p class="fr-book-desc">Supports general night-sky identification for UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports general night-sky identification for UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Backyard Astronomer&#x27;s books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Satellite+Basics+for+Everyone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Satellite Basics for Everyone</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Backyard Astronomer&#x27;s books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Satellite+Basics+for+Everyone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Satellite Basics for Everyone</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-satellite-glints-look-like-manoeuvres-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="when-satellite-glints-look-like-manoeuvres-starlink-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Starlink V1.0 L19 Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/LEMAAeSwKh9p1~Sk/s-l225.jpg" alt="Listing image for Starlink V1.0 L19 Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-satellite-glints-look-like-manoeuvres-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="when-satellite-glints-look-like-manoeuvres-starlink-poster" target="_blank" rel="sponsored noopener noreferrer">Starlink V1.0 L19 Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-satellite-glints-look-like-manoeuvres-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="when-satellite-glints-look-like-manoeuvres-starlink-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Starlink poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Starlink poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-satellite-glints-look-like-manoeuvres-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="when-satellite-glints-look-like-manoeuvres-starlink-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-satellite-glints-look-like-manoeuvres-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="when-satellite-glints-look-like-manoeuvres-starlink-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Starlink V1.0 L19 Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/LEMAAeSwKh9p1~Sk/s-l225.jpg" alt="Listing image for Starlink V1.0 L19 Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-satellite-glints-look-like-manoeuvres-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="when-satellite-glints-look-like-manoeuvres-starlink-poster" target="_blank" rel="sponsored noopener noreferrer">Starlink V1.0 L19 Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-satellite-glints-look-like-manoeuvres-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="when-satellite-glints-look-like-manoeuvres-starlink-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Starlink poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Starlink poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-satellite-glints-look-like-manoeuvres-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="when-satellite-glints-look-like-manoeuvres-starlink-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-satellite-glints-look-like-manoeuvres-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="when-satellite-glints-look-like-manoeuvres-starlink-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Starlink Logo Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/2OQAAeSw6Hlp1TP5/s-l225.jpg" alt="Listing image for Starlink Logo Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-satellite-glints-look-like-manoeuvres-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="when-satellite-glints-look-like-manoeuvres-starlink-poster" target="_blank" rel="sponsored noopener noreferrer">Starlink Logo Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-satellite-glints-look-like-manoeuvres-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="when-satellite-glints-look-like-manoeuvres-starlink-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Starlink poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Starlink poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-satellite-glints-look-like-manoeuvres-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="when-satellite-glints-look-like-manoeuvres-starlink-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-satellite-glints-look-like-manoeuvres-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="when-satellite-glints-look-like-manoeuvres-starlink-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Starlink Logo Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/2OQAAeSw6Hlp1TP5/s-l225.jpg" alt="Listing image for Starlink Logo Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-satellite-glints-look-like-manoeuvres-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="when-satellite-glints-look-like-manoeuvres-starlink-poster" target="_blank" rel="sponsored noopener noreferrer">Starlink Logo Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-satellite-glints-look-like-manoeuvres-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="when-satellite-glints-look-like-manoeuvres-starlink-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Starlink poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Starlink poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-satellite-glints-look-like-manoeuvres-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="when-satellite-glints-look-like-manoeuvres-starlink-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-satellite-glints-look-like-manoeuvres-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="when-satellite-glints-look-like-manoeuvres-starlink-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Starlink Battle For Atlas Starter Pack PS4 Figures + Game + Poster"><img src="https://i.ebayimg.com/images/g/tnwAAOSw5j9eY4nB/s-l225.jpg" alt="Listing image for Starlink Battle For Atlas Starter Pack PS4 Figures + Game + Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-satellite-glints-look-like-manoeuvres-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="when-satellite-glints-look-like-manoeuvres-starlink-poster" target="_blank" rel="sponsored noopener noreferrer">Starlink Battle For Atlas Starter Pack PS4 Figures + Game + Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-satellite-glints-look-like-manoeuvres-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="when-satellite-glints-look-like-manoeuvres-starlink-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Starlink poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Starlink poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-satellite-glints-look-like-manoeuvres-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="when-satellite-glints-look-like-manoeuvres-starlink-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-satellite-glints-look-like-manoeuvres-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="when-satellite-glints-look-like-manoeuvres-starlink-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Starlink Battle For Atlas Starter Pack PS4 Figures + Game + Poster"><img src="https://i.ebayimg.com/images/g/tnwAAOSw5j9eY4nB/s-l225.jpg" alt="Listing image for Starlink Battle For Atlas Starter Pack PS4 Figures + Game + Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-satellite-glints-look-like-manoeuvres-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="when-satellite-glints-look-like-manoeuvres-starlink-poster" target="_blank" rel="sponsored noopener noreferrer">Starlink Battle For Atlas Starter Pack PS4 Figures + Game + Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-satellite-glints-look-like-manoeuvres-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="when-satellite-glints-look-like-manoeuvres-starlink-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Starlink poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Starlink poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-satellite-glints-look-like-manoeuvres-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="when-satellite-glints-look-like-manoeuvres-starlink-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-satellite-glints-look-like-manoeuvres-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="when-satellite-glints-look-like-manoeuvres-starlink-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Starlink Battle for Atlas Poster Print Gaming Picture PS4 A1 A2 A3 Xbox PC Art"><img src="https://i.ebayimg.com/images/g/PJUAAeSwPQ1o880G/s-l225.jpg" alt="Listing image for Starlink Battle for Atlas Poster Print Gaming Picture PS4 A1 A2 A3 Xbox PC Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-satellite-glints-look-like-manoeuvres-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="when-satellite-glints-look-like-manoeuvres-starlink-poster" target="_blank" rel="sponsored noopener noreferrer">Starlink Battle for Atlas Poster Print Gaming Picture PS4 A1 A2 A3 Xbox PC Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-satellite-glints-look-like-manoeuvres-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="when-satellite-glints-look-like-manoeuvres-starlink-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Starlink poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Starlink poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-satellite-glints-look-like-manoeuvres-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="when-satellite-glints-look-like-manoeuvres-starlink-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-satellite-glints-look-like-manoeuvres-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="when-satellite-glints-look-like-manoeuvres-starlink-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-satellite-glints-look-like-manoeuvres-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="when-satellite-glints-look-like-manoeuvres-starlink-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Starlink Battle for Atlas Poster Print Gaming Picture PS4 A1 A2 A3 Xbox PC Art"><img src="https://i.ebayimg.com/images/g/PJUAAeSwPQ1o880G/s-l225.jpg" alt="Listing image for Starlink Battle for Atlas Poster Print Gaming Picture PS4 A1 A2 A3 Xbox PC Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-satellite-glints-look-like-manoeuvres-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="when-satellite-glints-look-like-manoeuvres-starlink-poster" target="_blank" rel="sponsored noopener noreferrer">Starlink Battle for Atlas Poster Print Gaming Picture PS4 A1 A2 A3 Xbox PC Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-satellite-glints-look-like-manoeuvres-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="when-satellite-glints-look-like-manoeuvres-starlink-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Starlink poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Starlink poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-satellite-glints-look-like-manoeuvres-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="when-satellite-glints-look-like-manoeuvres-starlink-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-satellite-glints-look-like-manoeuvres-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="when-satellite-glints-look-like-manoeuvres-starlink-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -564,7 +564,7 @@ Understanding flare behaviour therefore helps explain a recurring class of UFO r
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -584,7 +584,7 @@ Understanding flare behaviour therefore helps explain a recurring class of UFO r
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -616,7 +616,7 @@ Understanding flare behaviour therefore helps explain a recurring class of UFO r
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -668,7 +668,7 @@ Understanding flare behaviour therefore helps explain a recurring class of UFO r
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -713,7 +713,7 @@ Understanding flare behaviour therefore helps explain a recurring class of UFO r
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -754,127 +754,127 @@ Understanding flare behaviour therefore helps explain a recurring class of UFO r
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: aaro.mil  
    Title: Correlations of Starlink Satellite Flaring with UAP  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper_508_FINAL_04222025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper_508_FINAL_04222025.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Angles for observing Starlink flares is up to about 10° above the horizon assuming off-axis.Read more...</p></details>
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper_508_FINAL_04222025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper_508_FINAL_04222025.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Angles for observing Starlink flares is up to about 10° above the horizon assuming off-axis.Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: aaro.mil  
    Title: Satellite Flaring Paper  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Correlations of Starlink Satellite Flaring with UAP...by A An · 2024 — These very bright, short lived flashes of light are called “satel...</p></details>
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Correlations of Starlink Satellite Flaring with UAP...by A An · 2024 — These very bright, short lived flashes of light are called “satel...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/pdf/2405.13091" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2405.13091</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Extreme Flaring of Starlink Satellitesby A Mallama · 2024 · Cited by 1 — Abstract. Starlink satellites can become extremely bright w...</p></details>
+   Link:<a href="https://arxiv.org/pdf/2405.13091" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2405.13091</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Extreme Flaring of Starlink Satellitesby A Mallama · 2024 · Cited by 1 — Abstract. Starlink satellites can become extremely bright w...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: dvidshub.net  
-   Link: <a href="https://www.dvidshub.net/video/950338/satellite-flaring-phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/950338/satellite-flaring-phenomenon</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Satellite Flaring PhenomenonSatellite flaring is an optical phenomenon which occurs when sunlight reflects off a satellite&#x27;s surfaces...</p></details>
+   Link:<a href="https://www.dvidshub.net/video/950338/satellite-flaring-phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/950338/satellite-flaring-phenomenon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Satellite Flaring PhenomenonSatellite flaring is an optical phenomenon which occurs when sunlight reflects off a satellite&#x27;s surfaces...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Satellite flare  
-   Link: <a href="https://en.wikipedia.org/wiki/Satellite_flare" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Satellite_flare</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Satellite_flare" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Satellite_flare</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2003.07805" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2003.07805</a>  
+   Link:<a href="https://arxiv.org/abs/2003.07805" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2003.07805</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2111.09735" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2111.09735</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink Satellite Brightness -- Characterized From 100,000 Visible Light MagnitudesNovember 18, 2021...</p></details>
+   Link:<a href="https://arxiv.org/abs/2111.09735" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2111.09735</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink Satellite Brightness -- Characterized From 100,000 Visible Light MagnitudesNovember 18, 2021...</p></details>
    Published: November 18, 2021  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/askastronomy/comments/1i7inn7/can_someone_explain_why_im_seeing_these/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askastronomy/comments/1i7inn7/can_someone_explain_why_im_seeing_these/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>t, just far away, which is why they are so low and so numerous...</p></details>
+   Link:<a href="https://www.reddit.com/r/askastronomy/comments/1i7inn7/can_someone_explain_why_im_seeing_these/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askastronomy/comments/1i7inn7/can_someone_explain_why_im_seeing_these/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>t, just far away, which is why they are so low and so numerous...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arxiv.org  
    Title: arXiv Extreme Flaring of Starlink Satellites  
-   Link: <a href="https://arxiv.org/abs/2405.13091" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2405.13091</a>  
+   Link:<a href="https://arxiv.org/abs/2405.13091" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2405.13091</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Astronomy/comments/15zmoyu/for_those_of_you_wondering_about_those_flashing/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Astronomy/comments/15zmoyu/for_those_of_you_wondering_about_those_flashing/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>They come in many forms, the type you are seeing are more accurately termed &#x27;glints&#x27;, a brief/bright specular reflection...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/Astronomy/comments/15zmoyu/for_those_of_you_wondering_about_those_flashing/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Astronomy/comments/15zmoyu/for_those_of_you_wondering_about_those_flashing/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>They come in many forms, the type you are seeing are more accurately termed &#x27;glints&#x27;, a brief/bright specular reflection...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Starlink" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Starlink</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>StarlinkStarlink is a satellite internet constellation operated by Starlink Services, LLC, an international telecommunications provide...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Starlink" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Starlink</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>StarlinkStarlink is a satellite internet constellation operated by Starlink Services, LLC, an international telecommunications provide...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: skyandtelescope.org  
-   Link: <a href="https://skyandtelescope.org/astronomy-news/starlink-flares-can-fool-anyone-even-airline-pilots/" target="_blank" rel="noopener noreferrer nofollow">https://skyandtelescope.org/astronomy-news/starlink-flares-can-fool-anyone-even-airline-pilots/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky &amp; TelescopeStarlink Flares Can Fool Anyone — Even Airline PilotsJun 10, 2024 — Sunlight reflects from the dielectric coating on the n...</p></details>
+   Link:<a href="https://skyandtelescope.org/astronomy-news/starlink-flares-can-fool-anyone-even-airline-pilots/" target="_blank" rel="noopener noreferrer nofollow">https://skyandtelescope.org/astronomy-news/starlink-flares-can-fool-anyone-even-airline-pilots/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sky &amp; TelescopeStarlink Flares Can Fool Anyone — Even Airline PilotsJun 10, 2024 — Sunlight reflects from the dielectric coating on the n...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: universetoday.com  
    Title: starlinks can produce surprisingly bright flares to pilots  
-   Link: <a href="https://www.universetoday.com/articles/starlinks-can-produce-surprisingly-bright-flares-to-pilots" target="_blank" rel="noopener noreferrer nofollow">https://www.universetoday.com/articles/starlinks-can-produce-surprisingly-bright-flares-to-pilots</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In one instance they were reported as Unidentified Aerial Phenomenon...Read more...</p></details>
+   Link:<a href="https://www.universetoday.com/articles/starlinks-can-produce-surprisingly-bright-flares-to-pilots" target="_blank" rel="noopener noreferrer nofollow">https://www.universetoday.com/articles/starlinks-can-produce-surprisingly-bright-flares-to-pilots</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In one instance they were reported as Unidentified Aerial Phenomenon...Read more...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/2365809903441367/posts/7695491230473181/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/7695491230473181/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Predicting Starlink Satellite Flares VisibilityPossible Starlink flares. I noticed this last night. I think each frame is a separate flar...</p></details>
+   Link:<a href="https://www.facebook.com/groups/2365809903441367/posts/7695491230473181/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/7695491230473181/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Predicting Starlink Satellite Flares VisibilityPossible Starlink flares. I noticed this last night. I think each frame is a separate flar...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/2365809903441367/posts/27344302525165426/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/27344302525165426/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink satellites cause UFO sightings due to photodiode lagStephen B Hyle ▻ Lancaster OHIO High School Alumni Assoc. 6y · Public · Seen...</p></details>
+   Link:<a href="https://www.facebook.com/groups/2365809903441367/posts/27344302525165426/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/27344302525165426/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink satellites cause UFO sightings due to photodiode lagStephen B Hyle ▻ Lancaster OHIO High School Alumni Assoc. 6y · Public · Seen...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/2365809903441367/posts/26486718670923820/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/26486718670923820/</a>  
+   Link:<a href="https://www.facebook.com/groups/2365809903441367/posts/26486718670923820/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/26486718670923820/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: space.stackexchange.com  
    Title: I was wondering about what makes them visible. Do they have large mirrors that  
-   Link: <a href="https://space.stackexchange.com/questions/40527/how-do-the-starlink-satellites-shine" target="_blank" rel="noopener noreferrer nofollow">https://space.stackexchange.com/questions/40527/how-do-the-starlink-satellites-shine</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>do the Starlink satellites shine?Dec 20, 2019 — As we can see the Starlink satellites with the naked eye as they pass by...</p></details>
+   Link:<a href="https://space.stackexchange.com/questions/40527/how-do-the-starlink-satellites-shine" target="_blank" rel="noopener noreferrer nofollow">https://space.stackexchange.com/questions/40527/how-do-the-starlink-satellites-shine</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>do the Starlink satellites shine?Dec 20, 2019 — As we can see the Starlink satellites with the naked eye as they pass by...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
    Title: Starlink satellites, the string of lights in the night sky  
-   Link: <a href="https://www.facebook.com/wxbradCLT/videos/starlink-satellites-the-string-of-lights-in-the-night-sky/860943281694558/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wxbradCLT/videos/starlink-satellites-the-string-of-lights-in-the-night-sky/860943281694558/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>I&#x27;ve...Thanksomuch for the explanation because the latest launch was very visible (before sun reflection made them disappear) last night...</p></details>
+   Link:<a href="https://www.facebook.com/wxbradCLT/videos/starlink-satellites-the-string-of-lights-in-the-night-sky/860943281694558/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wxbradCLT/videos/starlink-satellites-the-string-of-lights-in-the-night-sky/860943281694558/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I&#x27;ve...Thanksomuch for the explanation because the latest launch was very visible (before sun reflection made them disappear) last night...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: cloudynights.com  
    Title: 662774 anyone else seen starlink satellite flares  
-   Link: <a href="https://www.cloudynights.com/topic/662774-anyone-else-seen-starlink-satellite-flares/" target="_blank" rel="noopener noreferrer nofollow">https://www.cloudynights.com/topic/662774-anyone-else-seen-starlink-satellite-flares/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Anyone else seen Starlink satellite flares?28 May 2019 — The line of satellites brightened from mag 4ish over the course of 10-15 degrees...</p></details>
+   Link:<a href="https://www.cloudynights.com/topic/662774-anyone-else-seen-starlink-satellite-flares/" target="_blank" rel="noopener noreferrer nofollow">https://www.cloudynights.com/topic/662774-anyone-else-seen-starlink-satellite-flares/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Anyone else seen Starlink satellite flares?28 May 2019 — The line of satellites brightened from mag 4ish over the course of 10-15 degrees...</p></details>
    Published: May 2019  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/2365809903441367/posts/7393785173977123/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/7393785173977123/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink satellites and iridium flares observations...It is a satellite pass visible to the naked eye as a brief, bright &quot;flare&quot;...</p></details>
+   Link:<a href="https://www.facebook.com/groups/2365809903441367/posts/7393785173977123/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/7393785173977123/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink satellites and iridium flares observations...It is a satellite pass visible to the naked eye as a brief, bright &quot;flare&quot;...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: astronomy.stackexchange.com  
    Title: two luminous points disappearing in the sky  
-   Link: <a href="https://astronomy.stackexchange.com/questions/37090/two-luminous-points-disappearing-in-the-sky" target="_blank" rel="noopener noreferrer nofollow">https://astronomy.stackexchange.com/questions/37090/two-luminous-points-disappearing-in-the-sky</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>luminous points disappearing in the sky22 Jul 2020 — I saw a few days ago two luminous points in the sky, which were quite close (about 1...</p></details>
+   Link:<a href="https://astronomy.stackexchange.com/questions/37090/two-luminous-points-disappearing-in-the-sky" target="_blank" rel="noopener noreferrer nofollow">https://astronomy.stackexchange.com/questions/37090/two-luminous-points-disappearing-in-the-sky</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>luminous points disappearing in the sky22 Jul 2020 — I saw a few days ago two luminous points in the sky, which were quite close (about 1...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: newspaceeconomy.ca  
    Title: Are We Chasing Aliens or Just Starlink?  
-   Link: <a href="https://newspaceeconomy.ca/2025/02/06/are-we-chasing-aliens-or-just-starlink-the-role-of-satellite-flares-in-uap-reports/" target="_blank" rel="noopener noreferrer nofollow">https://newspaceeconomy.ca/2025/02/06/are-we-chasing-aliens-or-just-starlink-the-role-of-satellite-flares-in-uap-reports/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Role of Satellite...6 Feb 2025 — 10 Best-Selling UFO and UAP Books. UFOs: Generals, Pilots, and Government Officials Go on the Recor...</p></details>
+   Link:<a href="https://newspaceeconomy.ca/2025/02/06/are-we-chasing-aliens-or-just-starlink-the-role-of-satellite-flares-in-uap-reports/" target="_blank" rel="noopener noreferrer nofollow">https://newspaceeconomy.ca/2025/02/06/are-we-chasing-aliens-or-just-starlink-the-role-of-satellite-flares-in-uap-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Role of Satellite...6 Feb 2025 — 10 Best-Selling UFO and UAP Books. UFOs: Generals, Pilots, and Government Officials Go on the Recor...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/2365809903441367/posts/25942210465374646/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/25942210465374646/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>seen tightly grouped clusters just a few hours...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/2365809903441367/posts/25942210465374646/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/25942210465374646/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>seen tightly grouped clusters just a few hours...Read more...</p></details>

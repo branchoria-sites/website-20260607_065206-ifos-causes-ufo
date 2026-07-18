@@ -268,16 +268,16 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32_low_hor
 
 ## Introduction
 
-Many UFO reports begin with a single bright light low above a treeline, rooftop, hill or distant horizon. Witnesses often describe it as hovering, drifting sideways, jumping slightly, pulsing, or making short jerky movements while remaining in roughly the same part of the sky. In many cases, the underlying object is not moving in any unusual way at all. A bright star seen through a long, turbulent atmospheric path can produce a combination of intense scintillation, apparent positional shifts and visual perception effects that create a convincing illusion of motion. The result is a stationary celestial object that seems alive, purposeful or even controlled. Atmospheric optics researchers have long recognised that scintillation affects not only brightness and colour but also the apparent position of a star image, especially near the horizon where atmospheric turbulence is strongest. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Twinkling" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Atmospheric_refraction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Atmospheric refraction</span><span class="citation-popover-snippet">Atmospheric refraction</span></span></span>
+Many UFO reports begin with a single bright light low above a treeline, rooftop, hill or distant horizon. Witnesses often describe it as hovering, drifting sideways, jumping slightly, pulsing, or making short jerky movements while remaining in roughly the same part of the sky. In many cases, the underlying object is not moving in any unusual way at all. A bright star seen through a long, turbulent atmospheric path can produce a combination of intense scintillation, apparent positional shifts and visual perception effects that create a convincing illusion of motion. The result is a stationary celestial object that seems alive, purposeful or even controlled. Atmospheric optics researchers have long recognised that scintillation affects not only brightness and colour but also the apparent position of a star image, especially near the horizon where atmospheric turbulence is strongest.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Twinkling" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Atmospheric_refraction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Atmospheric refraction</span><span class="citation-popover-snippet">Atmospheric refraction</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32_low_horizon_scintill_342cd6-Illustration-1-dark.svg" | relative_url }}" alt="Low Horizon illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32_low_horizon_scintill_342cd6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32_low_horizon_scintill_342cd6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why the Horizon Strengthens Scintillation
 
-The key reason low [stars]({{ 'stars/' | relative_url }}) behave differently is geometry. A star directly overhead is viewed through a relatively short column of [atmosphere]({{ 'atmosphere/' | relative_url }}). A star close to the horizon is viewed through a much longer path of air, often passing through layers of different temperature, humidity and density before reaching the observer. This extended path increases the effects of atmospheric turbulence and refraction. Astronomical sources consistently note that scintillation becomes much stronger near the horizon because the light crosses far more atmosphere than it does at higher elevations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/science/Why-Do-Stars-Twinkle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Why Do Stars Twinkle?</span><span class="citation-popover-snippet">Stars, Astronomy, &amp; FactsMarch 4, 2025 — The light from a star directly overhead passes through less atmosphere than a star on the hori...</span><span class="citation-popover-meta">Published: March 4, 2025</span></span></span> Wikipedia This low-altitude air is often especially unstable. Heat rising from buildings <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Twinkling" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>, roads, fields, water surfaces and urban areas creates constantly changing pockets of air that bend incoming starlight in slightly different directions from moment to moment. Instead of reaching the eye along a steady path, the light is repeatedly redirected. The observer sees rapid changes in brightness, colour and apparent position. <span class="citation-chip-wrap"><a class="citation-chip" href="https://record.umich.edu/articles/mystery-of-twinkling-stars-explained/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: record.umich.edu">[Record]</a><span class="citation-popover" role="note"><span class="citation-popover-source">record.umich.edu</span><span class="citation-popover-title">Record Mystery of twinkling stars explained</span><span class="citation-popover-snippet">The beam of light from a star...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Twinkling" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia For UFO misidentifications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>, the important point is that the strongest distortions occur exactly where many sightings occur: close to the horizon, where bright stars are easiest to mistake for distant lights above the landscape.
+The key reason low [stars]({{ 'stars/' | relative_url }}) behave differently is geometry. A star directly overhead is viewed through a relatively short column of [atmosphere]({{ 'atmosphere/' | relative_url }}). A star close to the horizon is viewed through a much longer path of air, often passing through layers of different temperature, humidity and density before reaching the observer. This extended path increases the effects of atmospheric turbulence and refraction. Astronomical sources consistently note that scintillation becomes much stronger near the horizon because the light crosses far more atmosphere than it does at higher elevations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/science/Why-Do-Stars-Twinkle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Why Do Stars Twinkle?</span><span class="citation-popover-snippet">Stars, Astronomy, &amp; FactsMarch 4, 2025 — The light from a star directly overhead passes through less atmosphere than a star on the hori...</span><span class="citation-popover-meta">Published: March 4, 2025</span></span></span> Wikipedia This low-altitude air is often especially unstable. Heat rising from buildings<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Twinkling" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>, roads, fields, water surfaces and urban areas creates constantly changing pockets of air that bend incoming starlight in slightly different directions from moment to moment. Instead of reaching the eye along a steady path, the light is repeatedly redirected. The observer sees rapid changes in brightness, colour and apparent position.<span class="citation-chip-wrap"><a class="citation-chip" href="https://record.umich.edu/articles/mystery-of-twinkling-stars-explained/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: record.umich.edu">[Record]</a><span class="citation-popover" role="note"><span class="citation-popover-source">record.umich.edu</span><span class="citation-popover-title">Record Mystery of twinkling stars explained</span><span class="citation-popover-snippet">The beam of light from a star...Read more...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Twinkling" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia For UFO misidentifications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>, the important point is that the strongest distortions occur exactly where many sightings occur: close to the horizon, where bright stars are easiest to mistake for distant lights above the landscape.
 
 ## How Point-Source Light Creates Apparent Movement
 
-A star is effectively a point source. Its apparent size is so tiny that even small atmospheric distortions can shift its image noticeably. Large objects such as the Moon or planets present broader discs whose distortions tend to average out, but a star's concentrated light is much more vulnerable to atmospheric scrambling. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/science/Why-Do-Stars-Twinkle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Why Do Stars Twinkle?</span><span class="citation-popover-snippet">Stars, Astronomy, &amp; FactsMarch 4, 2025 — The light from a star directly overhead passes through less atmosphere than a star on the hori...</span><span class="citation-popover-meta">Published: March 4, 2025</span></span></span>
+A star is effectively a point source. Its apparent size is so tiny that even small atmospheric distortions can shift its image noticeably. Large objects such as the Moon or planets present broader discs whose distortions tend to average out, but a star's concentrated light is much more vulnerable to atmospheric scrambling.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/science/Why-Do-Stars-Twinkle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Why Do Stars Twinkle?</span><span class="citation-popover-snippet">Stars, Astronomy, &amp; FactsMarch 4, 2025 — The light from a star directly overhead passes through less atmosphere than a star on the hori...</span><span class="citation-popover-meta">Published: March 4, 2025</span></span></span>
 
 This produces several effects that can be interpreted as motion:
 
@@ -286,7 +286,7 @@ This produces several effects that can be interpreted as motion:
 * **Colour flashes:** Alternating red, green, blue and white flashes can suggest rotating beacons or changing orientation.
 * **Shape distortions:** Under poor conditions a bright point may appear elongated, split, stretched or irregular.
 
-Astronomical studies of scintillation describe these fluctuations as including both intensity changes and position changes caused by atmospheric refraction. Professional observatories invest heavily in adaptive optics systems specifically because turbulence causes stars to dance and wander in telescope images. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Guide_star" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Guide star</span><span class="citation-popover-snippet">Guide star</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Twinkling" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+Astronomical studies of scintillation describe these fluctuations as including both intensity changes and position changes caused by atmospheric refraction. Professional observatories invest heavily in adaptive optics systems specifically because turbulence causes stars to dance and wander in telescope images.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Guide_star" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Guide star</span><span class="citation-popover-snippet">Guide star</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Twinkling" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 To a casual observer without reference points, these tiny positional shifts can be interpreted as genuine movement. A star may seem to slide left, jump upward, stop, then return to its original position even though no actual motion has occurred.
 
@@ -302,7 +302,7 @@ The effect becomes especially persuasive when the observer checks repeatedly ove
 
 ## The Role of the Autokinetic Effect
 
-Atmospheric distortion is often reinforced by a separate visual phenomenon known as the autokinetic effect. When a person stares at a small isolated light against a dark background, tiny involuntary eye movements can make the light appear to drift or move even though it is stationary. The illusion has been documented for well over a century and is frequently mentioned in discussions of apparent star motion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/Astronomy/comments/1xhws0/why_do_the_stars_look_like_they_are_moving/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Why do the stars look like they are moving?: r/Astronomy</span><span class="citation-popover-snippet">Why do the stars look like they are moving?: r/AstronomyFebruary 10, 2014 — The autokinetic effect (also referred to as autokinesi...</span><span class="citation-popover-meta">Published: February 10, 2014</span></span></span>
+Atmospheric distortion is often reinforced by a separate visual phenomenon known as the autokinetic effect. When a person stares at a small isolated light against a dark background, tiny involuntary eye movements can make the light appear to drift or move even though it is stationary. The illusion has been documented for well over a century and is frequently mentioned in discussions of apparent star motion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/Astronomy/comments/1xhws0/why_do_the_stars_look_like_they_are_moving/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Why do the stars look like they are moving?: r/Astronomy</span><span class="citation-popover-snippet">Why do the stars look like they are moving?: r/AstronomyFebruary 10, 2014 — The autokinetic effect (also referred to as autokinesi...</span><span class="citation-popover-meta">Published: February 10, 2014</span></span></span>
 
 Low-horizon UFO reports frequently contain conditions that favour autokinesis:
 
@@ -349,201 +349,201 @@ The crucial question is not whether the light appeared active, but whether it sh
 
 The classic pattern involves a bright star low above the horizon shortly after dusk or before dawn. The witness notices a stationary but highly active light. It flashes colours, changes brightness, seems to move slightly, and remains visible for an extended period. Attempts to judge its distance are difficult because darkness removes normal depth cues. The observer may conclude that the object is hovering over a distant field, hill or neighbourhood.
 
-From an atmospheric optics perspective, this is exactly the situation in which scintillation is expected to be strongest. Stars near the horizon experience greater image distortion, greater colour variation and larger apparent positional fluctuations than stars higher in the sky. Historical and modern astronomical literature consistently describes this increase in amplitude and visibility of scintillation near the horizon. Optica Publishing Group <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/science/Why-Do-Stars-Twinkle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Why Do Stars Twinkle?</span><span class="citation-popover-snippet">Stars, Astronomy, &amp; FactsMarch 4, 2025 — The light from a star directly overhead passes through less atmosphere than a star on the hori...</span><span class="citation-popover-meta">Published: March 4, 2025</span></span></span>
+From an atmospheric optics perspective, this is exactly the situation in which scintillation is expected to be strongest. Stars near the horizon experience greater image distortion, greater colour variation and larger apparent positional fluctuations than stars higher in the sky. Historical and modern astronomical literature consistently describes this increase in amplitude and visibility of scintillation near the horizon. Optica Publishing Group<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/science/Why-Do-Stars-Twinkle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Why Do Stars Twinkle?</span><span class="citation-popover-snippet">Stars, Astronomy, &amp; FactsMarch 4, 2025 — The light from a star directly overhead passes through less atmosphere than a star on the hori...</span><span class="citation-popover-meta">Published: March 4, 2025</span></span></span>
 
 For investigators of UFO reports, low-horizon scintillation is therefore one of the most important mechanisms behind reports of [hovering lights]({{ 'hovering-lights/' | relative_url }}). The witness is observing a real object, but atmospheric turbulence and human visual perception combine to create the impression of motion where little or none actually exists.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OvA_kCOVsxI" title="Why Do Stars Twinkle but Planets Don’t? | Atmospheric Refraction Explained | Class 10 Physics" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OvA_kCOVsxI" target="_blank" rel="noopener noreferrer">Why Do Stars Twinkle but Planets Don’t? | Atmospheric Refraction Explained | Class 10 Physics</a></p><p class="youtube-embed-meta">Channel: Quizlet &middot; Views: 388 &middot; Uploaded: March 2026 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OvA_kCOVsxI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OvA_kCOVsxI">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Low Stars Seem to Hover and Jerk. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Low Stars Seem to Hover and Jerk. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Directly relevant to low-horizon stars and visual effects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relevant to low-horizon stars and visual effects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
-        </h4>
-        <p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
+</h4>
+<p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
         
-        <p class="fr-book-desc">Helps readers identify stars and understand apparent motion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers identify stars and understand apparent motion.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cosmos on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VKjWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Cosmos" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cosmos">Cosmos</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cosmos on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VKjWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Cosmos" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cosmos">Cosmos</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Provides context for understanding celestial objects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for understanding celestial objects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Addresses astronomical misidentifications.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses astronomical misidentifications.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Cosmos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cosmos</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Cosmos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cosmos</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-stars-seem-to-hover-and-jerk-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="why-low-stars-seem-to-hover-and-jerk-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cartoon Star Stickers, Children Reward Chart Sticker School, Parents, Kids Small"><img src="https://i.ebayimg.com/images/g/kxoAAOSwYA9nSc4e/s-l225.jpg" alt="Listing image for Cartoon Star Stickers, Children Reward Chart Sticker School, Parents, Kids Small" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-stars-seem-to-hover-and-jerk-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="why-low-stars-seem-to-hover-and-jerk-star-chart" target="_blank" rel="sponsored noopener noreferrer">Cartoon Star Stickers, Children Reward Chart Sticker School, Parents, Kids Small</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-stars-seem-to-hover-and-jerk-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="why-low-stars-seem-to-hover-and-jerk-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart">Search <span data-ebay-domain-label>eBay.co.uk</span>: star chart</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-stars-seem-to-hover-and-jerk-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="why-low-stars-seem-to-hover-and-jerk-star-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-stars-seem-to-hover-and-jerk-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="why-low-stars-seem-to-hover-and-jerk-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cartoon Star Stickers, Children Reward Chart Sticker School, Parents, Kids Small"><img src="https://i.ebayimg.com/images/g/kxoAAOSwYA9nSc4e/s-l225.jpg" alt="Listing image for Cartoon Star Stickers, Children Reward Chart Sticker School, Parents, Kids Small" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-stars-seem-to-hover-and-jerk-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="why-low-stars-seem-to-hover-and-jerk-star-chart" target="_blank" rel="sponsored noopener noreferrer">Cartoon Star Stickers, Children Reward Chart Sticker School, Parents, Kids Small</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-stars-seem-to-hover-and-jerk-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="why-low-stars-seem-to-hover-and-jerk-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart">Search<span data-ebay-domain-label>eBay.co.uk</span>: star chart</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-stars-seem-to-hover-and-jerk-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="why-low-stars-seem-to-hover-and-jerk-star-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-stars-seem-to-hover-and-jerk-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="why-low-stars-seem-to-hover-and-jerk-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalised Good Behaviour Reward Chart Childrens Kids Reusable Routine FRZ"><img src="https://i.ebayimg.com/images/g/8pQAAOSwwyVfw6Zm/s-l225.jpg" alt="Listing image for Personalised Good Behaviour Reward Chart Childrens Kids Reusable Routine FRZ" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-stars-seem-to-hover-and-jerk-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="why-low-stars-seem-to-hover-and-jerk-star-chart" target="_blank" rel="sponsored noopener noreferrer">Personalised Good Behaviour Reward Chart Childrens Kids Reusable Routine FRZ</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-stars-seem-to-hover-and-jerk-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="why-low-stars-seem-to-hover-and-jerk-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart">Search <span data-ebay-domain-label>eBay.co.uk</span>: star chart</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-stars-seem-to-hover-and-jerk-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="why-low-stars-seem-to-hover-and-jerk-star-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-stars-seem-to-hover-and-jerk-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="why-low-stars-seem-to-hover-and-jerk-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalised Good Behaviour Reward Chart Childrens Kids Reusable Routine FRZ"><img src="https://i.ebayimg.com/images/g/8pQAAOSwwyVfw6Zm/s-l225.jpg" alt="Listing image for Personalised Good Behaviour Reward Chart Childrens Kids Reusable Routine FRZ" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-stars-seem-to-hover-and-jerk-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="why-low-stars-seem-to-hover-and-jerk-star-chart" target="_blank" rel="sponsored noopener noreferrer">Personalised Good Behaviour Reward Chart Childrens Kids Reusable Routine FRZ</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-stars-seem-to-hover-and-jerk-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="why-low-stars-seem-to-hover-and-jerk-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart">Search<span data-ebay-domain-label>eBay.co.uk</span>: star chart</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-stars-seem-to-hover-and-jerk-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="why-low-stars-seem-to-hover-and-jerk-star-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-stars-seem-to-hover-and-jerk-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="why-low-stars-seem-to-hover-and-jerk-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 6 x Childrens Jungle Behaviour Reward Chart Star Stickers Kids Preschool Nursery"><img src="https://i.ebayimg.com/images/g/24wAAOSwNVxdRD7W/s-l225.jpg" alt="Listing image for 6 x Childrens Jungle Behaviour Reward Chart Star Stickers Kids Preschool Nursery" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-stars-seem-to-hover-and-jerk-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="why-low-stars-seem-to-hover-and-jerk-star-chart" target="_blank" rel="sponsored noopener noreferrer">6 x Childrens Jungle Behaviour Reward Chart Star Stickers Kids Preschool Nursery</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-stars-seem-to-hover-and-jerk-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="why-low-stars-seem-to-hover-and-jerk-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart">Search <span data-ebay-domain-label>eBay.co.uk</span>: star chart</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-stars-seem-to-hover-and-jerk-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="why-low-stars-seem-to-hover-and-jerk-star-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-stars-seem-to-hover-and-jerk-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="why-low-stars-seem-to-hover-and-jerk-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 6 x Childrens Jungle Behaviour Reward Chart Star Stickers Kids Preschool Nursery"><img src="https://i.ebayimg.com/images/g/24wAAOSwNVxdRD7W/s-l225.jpg" alt="Listing image for 6 x Childrens Jungle Behaviour Reward Chart Star Stickers Kids Preschool Nursery" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-stars-seem-to-hover-and-jerk-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="why-low-stars-seem-to-hover-and-jerk-star-chart" target="_blank" rel="sponsored noopener noreferrer">6 x Childrens Jungle Behaviour Reward Chart Star Stickers Kids Preschool Nursery</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-stars-seem-to-hover-and-jerk-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="why-low-stars-seem-to-hover-and-jerk-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart">Search<span data-ebay-domain-label>eBay.co.uk</span>: star chart</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-stars-seem-to-hover-and-jerk-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="why-low-stars-seem-to-hover-and-jerk-star-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-stars-seem-to-hover-and-jerk-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="why-low-stars-seem-to-hover-and-jerk-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 700 Coloured Star Stickers Reward Merit Chart small sticky Kids Self Adhesive"><img src="https://i.ebayimg.com/images/g/TaoAAOSwi7hlM7q5/s-l225.jpg" alt="Listing image for 700 Coloured Star Stickers Reward Merit Chart small sticky Kids Self Adhesive" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-stars-seem-to-hover-and-jerk-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="why-low-stars-seem-to-hover-and-jerk-star-chart" target="_blank" rel="sponsored noopener noreferrer">700 Coloured Star Stickers Reward Merit Chart small sticky Kids Self Adhesive</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-stars-seem-to-hover-and-jerk-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="why-low-stars-seem-to-hover-and-jerk-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart">Search <span data-ebay-domain-label>eBay.co.uk</span>: star chart</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-stars-seem-to-hover-and-jerk-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="why-low-stars-seem-to-hover-and-jerk-star-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-stars-seem-to-hover-and-jerk-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="why-low-stars-seem-to-hover-and-jerk-star-chart" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-stars-seem-to-hover-and-jerk-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="why-low-stars-seem-to-hover-and-jerk-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 700 Coloured Star Stickers Reward Merit Chart small sticky Kids Self Adhesive"><img src="https://i.ebayimg.com/images/g/TaoAAOSwi7hlM7q5/s-l225.jpg" alt="Listing image for 700 Coloured Star Stickers Reward Merit Chart small sticky Kids Self Adhesive" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-stars-seem-to-hover-and-jerk-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="why-low-stars-seem-to-hover-and-jerk-star-chart" target="_blank" rel="sponsored noopener noreferrer">700 Coloured Star Stickers Reward Merit Chart small sticky Kids Self Adhesive</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-stars-seem-to-hover-and-jerk-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="why-low-stars-seem-to-hover-and-jerk-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart">Search<span data-ebay-domain-label>eBay.co.uk</span>: star chart</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-stars-seem-to-hover-and-jerk-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="why-low-stars-seem-to-hover-and-jerk-star-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-stars-seem-to-hover-and-jerk-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="why-low-stars-seem-to-hover-and-jerk-star-chart" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -559,7 +559,7 @@ For investigators of UFO reports, low-horizon scintillation is therefore one of 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -579,7 +579,7 @@ For investigators of UFO reports, low-horizon scintillation is therefore one of 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -611,7 +611,7 @@ For investigators of UFO reports, low-horizon scintillation is therefore one of 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -663,7 +663,7 @@ For investigators of UFO reports, low-horizon scintillation is therefore one of 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -708,7 +708,7 @@ For investigators of UFO reports, low-horizon scintillation is therefore one of 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -749,100 +749,100 @@ For investigators of UFO reports, low-horizon scintillation is therefore one of 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Twinkling" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Twinkling</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Twinkling" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Twinkling</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Atmospheric refraction  
-   Link: <a href="https://en.wikipedia.org/wiki/Atmospheric_refraction" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Atmospheric_refraction</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Atmospheric_refraction" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Atmospheric_refraction</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: opg.optica.org  
-   Link: <a href="https://opg.optica.org/fulltext.cfm?uri=josa-41-10-689" target="_blank" rel="noopener noreferrer nofollow">https://opg.optica.org/fulltext.cfm?uri=josa-41-10-689</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Optica Publishing GroupThe Scintillation of Starlight*by AH Mikesell · 1951 · Cited by 82 — stars near the horizon scintillate more slowl...</p></details>
+   Link:<a href="https://opg.optica.org/fulltext.cfm?uri=josa" target="_blank" rel="noopener noreferrer nofollow">https://opg.optica.org/fulltext.cfm?uri=josa</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Optica Publishing GroupThe Scintillation of Starlight*by AH Mikesell · 1951 · Cited by 82 — stars near the horizon scintillate more slowl...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: britannica.com  
    Title: Encyclopedia Britannica Why Do Stars Twinkle?  
-   Link: <a href="https://www.britannica.com/science/Why-Do-Stars-Twinkle" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/science/Why-Do-Stars-Twinkle</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stars, Astronomy, &amp; FactsMarch 4, 2025 — The light from a star directly overhead passes through less atmosphere than a star on the hori...</p></details>
+   Link:<a href="https://www.britannica.com/science/Why-Do-Stars-Twinkle" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/science/Why-Do-Stars-Twinkle</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stars, Astronomy, &amp; FactsMarch 4, 2025 — The light from a star directly overhead passes through less atmosphere than a star on the hori...</p></details>
    Published: March 4, 2025  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Guide star  
-   Link: <a href="https://en.wikipedia.org/wiki/Guide_star" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Guide_star</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Guide_star" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Guide_star</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
    Title: Why do the stars look like they are moving?: r/Astronomy  
-   Link: <a href="https://www.reddit.com/r/Astronomy/comments/1xhws0/why_do_the_stars_look_like_they_are_moving/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Astronomy/comments/1xhws0/why_do_the_stars_look_like_they_are_moving/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why do the stars look like they are moving?: r/AstronomyFebruary 10, 2014 — The autokinetic effect (also referred to as autokinesi...</p></details>
+   Link:<a href="https://www.reddit.com/r/Astronomy/comments/1xhws0/why_do_the_stars_look_like_they_are_moving/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Astronomy/comments/1xhws0/why_do_the_stars_look_like_they_are_moving/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why do the stars look like they are moving?: r/AstronomyFebruary 10, 2014 — The autokinetic effect (also referred to as autokinesi...</p></details>
    Published: February 10, 2014  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/askastronomy/comments/1fhig5z/a_flickering_object_in_the_northern_hemisphere/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askastronomy/comments/1fhig5z/a_flickering_object_in_the_northern_hemisphere/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A “flickering” object in the northern hemisphere: r/askastronomyCapella is one of the top ten brightest stars visible in the northern he...</p></details>
+   Link:<a href="https://www.reddit.com/r/askastronomy/comments/1fhig5z/a_flickering_object_in_the_northern_hemisphere/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askastronomy/comments/1fhig5z/a_flickering_object_in_the_northern_hemisphere/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A “flickering” object in the northern hemisphere: r/askastronomyCapella is one of the top ten brightest stars visible in the northern he...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: record.umich.edu  
    Title: Record Mystery of [twinkling stars](&#123;&#123; 'twinkling-stars/' | relative_url &#125;&#125;) explained  
-   Link: <a href="https://record.umich.edu/articles/mystery-of-twinkling-stars-explained/" target="_blank" rel="noopener noreferrer nofollow">https://record.umich.edu/articles/mystery-of-twinkling-stars-explained/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The beam of light from a star...Read more...</p></details>
+   Link:<a href="https://record.umich.edu/articles/mystery-of-twinkling-stars-explained/" target="_blank" rel="noopener noreferrer nofollow">https://record.umich.edu/articles/mystery-of-twinkling-stars-explained/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The beam of light from a star...Read more...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: caha.es  
-   Link: <a href="https://www.caha.es/newsletter/news06a/Scholz/scholz_etal.html" target="_blank" rel="noopener noreferrer nofollow">https://www.caha.es/newsletter/news06a/Scholz/scholz_etal.html</a>  
+   Link:<a href="https://www.caha.es/newsletter/news06a/Scholz/scholz_etal.html" target="_blank" rel="noopener noreferrer nofollow">https://www.caha.es/newsletter/news06a/Scholz/scholz_etal.html</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cseligman.com  
-   Link: <a href="https://cseligman.com/text/sky/skymotion.htm" target="_blank" rel="noopener noreferrer nofollow">https://cseligman.com/text/sky/skymotion.htm</a>  
+   Link:<a href="https://cseligman.com/text/sky/skymotion.htm" target="_blank" rel="noopener noreferrer nofollow">https://cseligman.com/text/sky/skymotion.htm</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: adsabs.harvard.edu  
    Title: Astrophysics Data System Atmospheric Intensity Scintillation of Stars, I  
-   Link: <a href="https://adsabs.harvard.edu/full/1997PASP..109..173D" target="_blank" rel="noopener noreferrer nofollow">https://adsabs.harvard.edu/full/1997PASP..109..173D</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>D Dravins · 1997 · Cited by 148 — Patterns displaying large shadows can be attributed to turbulence near the tropopause...</p></details>
+   Link:<a href="https://adsabs.harvard.edu/full/1997PASP..109..173D" target="_blank" rel="noopener noreferrer nofollow">https://adsabs.harvard.edu/full/1997PASP..109..173D</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>D Dravins · 1997 · Cited by 148 — Patterns displaying large shadows can be attributed to turbulence near the tropopause...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: lirias.kuleuven.be  
    Title: be Students' knowledge of the apparent motion of the Sun  
-   Link: <a href="https://lirias.kuleuven.be/retrieve/f99fc5f0-91f2-40d2-b73d-3e34cd084730" target="_blank" rel="noopener noreferrer nofollow">https://lirias.kuleuven.be/retrieve/f99fc5f0-91f2-40d2-b73d-3e34cd084730</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by H Bekaert · 2022 · Cited by 4 — When it comes to stars it seems to the stars&#x27; apparent motion does not differ from the Sun, star...</p></details>
+   Link:<a href="https://lirias.kuleuven.be/retrieve/f99fc5f0-91f2-40d2-b73d-3e34cd084730" target="_blank" rel="noopener noreferrer nofollow">https://lirias.kuleuven.be/retrieve/f99fc5f0-91f2-40d2-b73d-3e34cd084730</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by H Bekaert · 2022 · Cited by 4 — When it comes to stars it seems to the stars&#x27; apparent motion does not differ from the Sun, star...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/AstronomyMagazine/posts/stars-twinkle-and-sometimes-appear-to-move-around-due-to-our-atmosphere-scrambli/1407931001373614/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AstronomyMagazine/posts/stars-twinkle-and-sometimes-appear-to-move-around-due-to-our-atmosphere-scrambli/1407931001373614/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nt motion, distort the light paths from distant astronomical...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/AstronomyMagazine/posts/stars-twinkle-and-sometimes-appear-to-move-around-due-to-our-atmosphere-scrambli/1407931001373614/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AstronomyMagazine/posts/stars-twinkle-and-sometimes-appear-to-move-around-due-to-our-atmosphere-scrambli/1407931001373614/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nt motion, distort the light paths from distant astronomical...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: instagram.com  
    Title: Why do stars twinkle, but planets don't?  
-   Link: <a href="https://www.instagram.com/reel/DMwBl8IhvGx/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DMwBl8IhvGx/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s what&#x27;s going...This twinkling happens because the light from stars travels across space as a narrow beam. As it enters Earth&#x27;s at...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DMwBl8IhvGx/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DMwBl8IhvGx/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s what&#x27;s going...This twinkling happens because the light from stars travels across space as a narrow beam. As it enters Earth&#x27;s at...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DTGPYnhjQ3c/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DTGPYnhjQ3c/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ffect is more noticeable for stars low on the horizon. Why...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DTGPYnhjQ3c/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DTGPYnhjQ3c/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ffect is more noticeable for stars low on the horizon. Why...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: study.com  
-   Link: <a href="https://study.com/academy/lesson/the-apparent-motion-of-stars-planets.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/academy/lesson/the-apparent-motion-of-stars-planets.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This can be caused by beta motion, phi motion, or a moving reference frame.Read more...</p></details>
+   Link:<a href="https://study.com/academy/lesson/the-apparent-motion-of-stars-planets.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/academy/lesson/the-apparent-motion-of-stars-planets.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This can be caused by beta motion, phi motion, or a moving reference frame.Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/wtol11/posts/why-do-stars-twinkle-more-on-some-nights/1403413825161804/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wtol11/posts/why-do-stars-twinkle-more-on-some-nights/1403413825161804/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>here compared to stars directly overhead...</p></details>
+   Link:<a href="https://www.facebook.com/wtol11/posts/why-do-stars-twinkle-more-on-some-nights/1403413825161804/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wtol11/posts/why-do-stars-twinkle-more-on-some-nights/1403413825161804/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>here compared to stars directly overhead...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: study.com  
    Title: Apparent Motion of Stars & Planets | Overview & Types  
-   Link: <a href="https://study.com/academy/lesson/video/the-apparent-motion-of-stars-planets.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/academy/lesson/video/the-apparent-motion-of-stars-planets.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>VideoThe stars apparently move left and right. This effect is known as parallax, and it is used to calculate the distance to some of the...</p></details>
+   Link:<a href="https://study.com/academy/lesson/video/the-apparent-motion-of-stars-planets.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/academy/lesson/video/the-apparent-motion-of-stars-planets.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>VideoThe stars apparently move left and right. This effect is known as parallax, and it is used to calculate the distance to some of the...</p></details>

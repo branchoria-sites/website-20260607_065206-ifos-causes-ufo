@@ -274,7 +274,7 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e_lens_flare_m
 
 ## Introduction
 
-When a witness records a strange light in the sky, one of the fastest ways to test whether it is a real object or a [lens flare]({{ 'lens-flare/' | relative_url }}) is to move the camera deliberately. Lens flare is created inside the optical system rather than existing at a fixed position in the outside world. Because of this, flare often shifts, rotates, brightens, fades, or slides across the frame in response to camera movement. A genuine aircraft, planet, drone, or other sky object remains tied to the scene itself, even if its position changes slowly. Optical engineers and photography references note that flare patterns typically track the relationship between the camera and a bright light source, changing position as the camera moves. <span class="citation-chip-wrap"><a class="citation-chip" href="https://photographylife.com/what-is-ghosting-and-flare" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: photographylife.com">[Photography Life]</a><span class="citation-popover" role="note"><span class="citation-popover-source">photographylife.com</span><span class="citation-popover-title">what is ghosting and flare</span><span class="citation-popover-snippet">Photography LifeUnderstanding Lens Flare13 Nov 2025 — Lens flare occurs when a point of light source such as the sun is much brighter tha...</span></span></span> Wikipedia For investigations of UFO or UAP reports <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Lens_flare" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lens flare</span><span class="citation-popover-snippet">Lens flare</span></span></span>, these movement tests are valuable because they can be performed immediately while the light is still visible. A few seconds of deliberate camera motion often provides more diagnostic information than a longer clip of aimless tracking.
+When a witness records a strange light in the sky, one of the fastest ways to test whether it is a real object or a [lens flare]({{ 'lens-flare/' | relative_url }}) is to move the camera deliberately. Lens flare is created inside the optical system rather than existing at a fixed position in the outside world. Because of this, flare often shifts, rotates, brightens, fades, or slides across the frame in response to camera movement. A genuine aircraft, planet, drone, or other sky object remains tied to the scene itself, even if its position changes slowly. Optical engineers and photography references note that flare patterns typically track the relationship between the camera and a bright light source, changing position as the camera moves.<span class="citation-chip-wrap"><a class="citation-chip" href="https://photographylife.com/what-is-ghosting-and-flare" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: photographylife.com">[Photography Life]</a><span class="citation-popover" role="note"><span class="citation-popover-source">photographylife.com</span><span class="citation-popover-title">what is ghosting and flare</span><span class="citation-popover-snippet">Photography LifeUnderstanding Lens Flare13 Nov 2025 — Lens flare occurs when a point of light source such as the sun is much brighter tha...</span></span></span> Wikipedia For investigations of UFO or UAP reports<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Lens_flare" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lens flare</span><span class="citation-popover-snippet">Lens flare</span></span></span>, these movement tests are valuable because they can be performed immediately while the light is still visible. A few seconds of deliberate camera motion often provides more diagnostic information than a longer clip of aimless tracking.
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e_lens_flare_motion_te_e7c6c5-Illustration-1-dark.svg" | relative_url }}" alt="Motion tests illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e_lens_flare_motion_te_e7c6c5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e_lens_flare_motion_te_e7c6c5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The camera moves that expose lens flare
@@ -283,20 +283,20 @@ When a witness records a strange light in the sky, one of the fastest ways to te
 
 The simplest test is a controlled pan or tilt.
 
-If the suspected object is actually a flare caused by the Sun, Moon, a streetlight, an aircraft landing light, or another bright source, the apparent object often moves in a way that is linked to the camera rather than to the landscape or sky. Lens-flare artefacts commonly change location as the camera changes angle, sometimes remaining in a geometric relationship with the bright source that generated them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cg.tuwien.ac.at/research/publications/2017/Walch-2017-DA/Walch-2017-DA-thesis.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cg.tuwien.ac.at">[TU Wien Computer Graphics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cg.tuwien.ac.at</span><span class="citation-popover-snippet">TU Wien Computer GraphicsLens Flare Prediction based on Measurements with Real-...by W Andreas · Cited by 10 — While rotating the camera...</span></span></span>
+If the suspected object is actually a flare caused by the Sun, Moon, a streetlight, an aircraft landing light, or another bright source, the apparent object often moves in a way that is linked to the camera rather than to the landscape or sky. Lens-flare artefacts commonly change location as the camera changes angle, sometimes remaining in a geometric relationship with the bright source that generated them.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cg.tuwien.ac.at/research/publications/2017/Walch-2017-DA/Walch-2017-DA-thesis.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cg.tuwien.ac.at">[TU Wien Computer Graphics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cg.tuwien.ac.at</span><span class="citation-popover-snippet">TU Wien Computer GraphicsLens Flare Prediction based on Measurements with Real-...by W Andreas · Cited by 10 — While rotating the camera...</span></span></span>
 
 Three practical checks are especially useful:
 
 1. **Slow pan test**
 Pan left and right while keeping both the bright source and the mystery light in frame if possible.
 A real object normally remains anchored to the sky relative to [stars]({{ 'stars/' | relative_url }}), clouds, buildings, or the horizon.
-A flare may drift disproportionately, mirror the source's movement, or slide across the frame in a way that does not match the scene. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Lens_flare" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lens flare</span><span class="citation-popover-snippet">Lens flare</span></span></span>
+A flare may drift disproportionately, mirror the source's movement, or slide across the frame in a way that does not match the scene.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Lens_flare" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lens flare</span><span class="citation-popover-snippet">Lens flare</span></span></span>
 2. **Tilt test**
 Tilt the camera upward and downward.
-Internal [reflections]({{ 'reflections/' | relative_url }}) often move along predictable optical paths through the frame, sometimes travelling toward or away from the image centre as the camera angle changes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cg.tuwien.ac.at/research/publications/2017/Walch-2017-DA/Walch-2017-DA-thesis.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cg.tuwien.ac.at">[TU Wien Computer Graphics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cg.tuwien.ac.at</span><span class="citation-popover-snippet">TU Wien Computer GraphicsLens Flare Prediction based on Measurements with Real-...by W Andreas · Cited by 10 — While rotating the camera...</span></span></span>
+Internal [reflections]({{ 'reflections/' | relative_url }}) often move along predictable optical paths through the frame, sometimes travelling toward or away from the image centre as the camera angle changes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cg.tuwien.ac.at/research/publications/2017/Walch-2017-DA/Walch-2017-DA-thesis.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cg.tuwien.ac.at">[TU Wien Computer Graphics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cg.tuwien.ac.at</span><span class="citation-popover-snippet">TU Wien Computer GraphicsLens Flare Prediction based on Measurements with Real-...by W Andreas · Cited by 10 — While rotating the camera...</span></span></span>
 3. **Block-the-source test**
 Place a building edge, tree, hand, roofline, or other object between the lens and the suspected source of glare.
-If the strange light disappears when the bright source is blocked, the light was likely produced by the optics rather than by an independent object in the sky. Photography guides routinely describe flare and ghosting as consequences of bright light entering the lens, making source-blocking one of the most effective field checks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://richardbarron.net/cameras/2017/01/22/flare-and-ghosting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: richardbarron.net">[richardbarron.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">richardbarron.net</span><span class="citation-popover-title">flare and ghosting</span><span class="citation-popover-snippet">Moving Pictures22 Jan 2017 — Flare and ghosting are almost always a consequence of having bright light source in the frame; a window, a s...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://photographylife.com/what-is-ghosting-and-flare" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: photographylife.com">[Photography Life]</a><span class="citation-popover" role="note"><span class="citation-popover-source">photographylife.com</span><span class="citation-popover-title">what is ghosting and flare</span><span class="citation-popover-snippet">Photography LifeUnderstanding Lens Flare13 Nov 2025 — Lens flare occurs when a point of light source such as the sun is much brighter tha...</span></span></span>
+If the strange light disappears when the bright source is blocked, the light was likely produced by the optics rather than by an independent object in the sky. Photography guides routinely describe flare and ghosting as consequences of bright light entering the lens, making source-blocking one of the most effective field checks.<span class="citation-chip-wrap"><a class="citation-chip" href="https://richardbarron.net/cameras/2017/01/22/flare-and-ghosting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: richardbarron.net">[richardbarron.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">richardbarron.net</span><span class="citation-popover-title">flare and ghosting</span><span class="citation-popover-snippet">Moving Pictures22 Jan 2017 — Flare and ghosting are almost always a consequence of having bright light source in the frame; a window, a s...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://photographylife.com/what-is-ghosting-and-flare" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: photographylife.com">[Photography Life]</a><span class="citation-popover" role="note"><span class="citation-popover-source">photographylife.com</span><span class="citation-popover-title">what is ghosting and flare</span><span class="citation-popover-snippet">Photography LifeUnderstanding Lens Flare13 Nov 2025 — Lens flare occurs when a point of light source such as the sun is much brighter tha...</span></span></span>
 
 A useful rule is that an external object responds to its own motion, while a flare responds to camera geometry.
 
@@ -306,7 +306,7 @@ A useful rule is that an external object responds to its own motion, while a fla
 
 Many phone users instinctively keep the device level. However, slight rotation can be revealing.
 
-Ghost reflections frequently maintain a relationship with the camera's optical axis and may rotate or shift with the imaging system. Research into lens-flare behaviour shows that ghost artefacts follow optical geometry tied to the lens rather than to the external scene. TU Wien Computer Graphics <span class="citation-chip-wrap"><a class="citation-chip" href="https://resources.mpi-inf.mpg.de/lensflareRendering/pdf/flare.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: resources.mpi-inf.mpg.de">[MPI Informatics Resources]</a><span class="citation-popover" role="note"><span class="citation-popover-source">resources.mpi-inf.mpg.de</span><span class="citation-popover-snippet">MPI Informatics ResourcesPhysically-Based Real-Time Lens Flare RenderingLens flare is caused by light passing through a photographic lens...</span></span></span>
+Ghost reflections frequently maintain a relationship with the camera's optical axis and may rotate or shift with the imaging system. Research into lens-flare behaviour shows that ghost artefacts follow optical geometry tied to the lens rather than to the external scene. TU Wien Computer Graphics<span class="citation-chip-wrap"><a class="citation-chip" href="https://resources.mpi-inf.mpg.de/lensflareRendering/pdf/flare.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: resources.mpi-inf.mpg.de">[MPI Informatics Resources]</a><span class="citation-popover" role="note"><span class="citation-popover-source">resources.mpi-inf.mpg.de</span><span class="citation-popover-snippet">MPI Informatics ResourcesPhysically-Based Real-Time Lens Flare RenderingLens flare is caused by light passing through a photographic lens...</span></span></span>
 
 If the camera is rotated and the suspicious light appears to rotate around the frame in concert with the optics, that strongly favours a flare explanation.
 
@@ -328,7 +328,7 @@ When scenery is visible:
 
 Without those references, small hand movements can create the illusion that a stationary light is darting, accelerating, or making sudden turns.
 
-This distinction is particularly important in UFO footage because many reported manoeuvres occur when the camera operator is struggling to keep a bright point centred. A flare can appear to race across the frame simply because the camera is moving. Conversely, a real object will maintain a consistent relationship to external landmarks even when the camera wobbles. NASA's UAP study emphasised that reliable analysis depends on calibrated observations, multiple measurements, metadata, and adequate reference information rather than isolated visual impressions. NASA Science <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Responses to Statement of Task</span><span class="citation-popover-snippet">Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — Indeed, several apparent UAP have been demonstrated to be sensor artifacts...</span></span></span>
+This distinction is particularly important in UFO footage because many reported manoeuvres occur when the camera operator is struggling to keep a bright point centred. A flare can appear to race across the frame simply because the camera is moving. Conversely, a real object will maintain a consistent relationship to external landmarks even when the camera wobbles. NASA's UAP study emphasised that reliable analysis depends on calibrated observations, multiple measurements, metadata, and adequate reference information rather than isolated visual impressions. NASA Science<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Responses to Statement of Task</span><span class="citation-popover-snippet">Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — Indeed, several apparent UAP have been demonstrated to be sensor artifacts...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e_lens_flare_motion_te_e7c6c5-Illustration-2-dark.svg" | relative_url }}" alt="Motion tests illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e_lens_flare_motion_te_e7c6c5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e_lens_flare_motion_te_e7c6c5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The horizon test
@@ -353,7 +353,7 @@ Several common problems arise:
 * Horizon and landmark references may be absent.
 * Digital stabilisation may conceal camera movement.
 * Social-media edits may remove the moments when the artefact behaved most obviously like a flare.
-* [Compression]({{ 'compression/' | relative_url }}) and zooming may exaggerate apparent motion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">NASA Unidentified Anomalous Phenomena Independent Study Team</span><span class="citation-popover-snippet">Scientific American. Archived from the original on June 19, 2023. Retrieved June 23, 2023...Read more...</span><span class="citation-popover-meta">Published: June 19, 2023</span></span></span>
+* [Compression]({{ 'compression/' | relative_url }}) and zooming may exaggerate apparent motion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">NASA Unidentified Anomalous Phenomena Independent Study Team</span><span class="citation-popover-snippet">Scientific American. Archived from the original on June 19, 2023. Retrieved June 23, 2023...Read more...</span><span class="citation-popover-meta">Published: June 19, 2023</span></span></span>
 
 A longer recording that includes the beginning and end of the sighting is usually far more informative than a tightly cropped highlight clip. In many cases, the decisive evidence is not the appearance of the light itself but how it behaves when the camera operator changes angle, blocks the source, or brings fixed scenery into the frame.
 
@@ -373,199 +373,199 @@ For UFO identification purposes, the ideal sequence is simple:
 
 </div>
 
-If the mystery light tracks the camera, mirrors a bright source, vanishes when that source is blocked, or shifts according to optical geometry, lens flare becomes the leading explanation. If it remains consistently attached to the outside world despite those tests, investigators can move on to other possibilities. The movement test does not identify every object, but it is one of the quickest and most effective ways to separate optical artefacts from genuine targets in the sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Responses to Statement of Task</span><span class="citation-popover-snippet">Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — Indeed, several apparent UAP have been demonstrated to be sensor artifacts...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://photographylife.com/what-is-ghosting-and-flare" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: photographylife.com">[Photography Life]</a><span class="citation-popover" role="note"><span class="citation-popover-source">photographylife.com</span><span class="citation-popover-title">what is ghosting and flare</span><span class="citation-popover-snippet">Photography LifeUnderstanding Lens Flare13 Nov 2025 — Lens flare occurs when a point of light source such as the sun is much brighter tha...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Pentagon UFO videos</span><span class="citation-popover-snippet">Pentagon UFO videosThe Pentagon UFO videos are selected visual recordings of Forward-looking infrared (FLIR) targeting cameras from Un...</span></span></span>
+If the mystery light tracks the camera, mirrors a bright source, vanishes when that source is blocked, or shifts according to optical geometry, lens flare becomes the leading explanation. If it remains consistently attached to the outside world despite those tests, investigators can move on to other possibilities. The movement test does not identify every object, but it is one of the quickest and most effective ways to separate optical artefacts from genuine targets in the sky.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Responses to Statement of Task</span><span class="citation-popover-snippet">Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — Indeed, several apparent UAP have been demonstrated to be sensor artifacts...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://photographylife.com/what-is-ghosting-and-flare" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: photographylife.com">[Photography Life]</a><span class="citation-popover" role="note"><span class="citation-popover-source">photographylife.com</span><span class="citation-popover-title">what is ghosting and flare</span><span class="citation-popover-snippet">Photography LifeUnderstanding Lens Flare13 Nov 2025 — Lens flare occurs when a point of light source such as the sun is much brighter tha...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Pentagon UFO videos</span><span class="citation-popover-snippet">Pentagon UFO videosThe Pentagon UFO videos are selected visual recordings of Forward-looking infrared (FLIR) targeting cameras from Un...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e_lens_flare_motion_te_e7c6c5-Illustration-3-dark.svg" | relative_url }}" alt="Motion tests illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e_lens_flare_motion_te_e7c6c5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e_lens_flare_motion_te_e7c6c5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The camera moves that expose lens flare. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The camera moves that expose lens flare. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Understanding+Exposure+by+Bryan+F.+Peterson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Understanding Exposure on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=v4lw2lZKmioC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Understanding Exposure" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Understanding+Exposure+by+Bryan+F.+Peterson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Understanding Exposure">Understanding Exposure</a>
-        </h4>
-        <p class="fr-book-author">By Bryan F. Peterson</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 19 Google Books ratings</p>
-        <p class="fr-book-desc">Teaches camera behavior and optical effects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Understanding+Exposure+by+Bryan+F.+Peterson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Understanding+Exposure+by+Bryan+F.+Peterson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Understanding Exposure on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=v4lw2lZKmioC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Understanding Exposure" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Understanding+Exposure+by+Bryan+F.+Peterson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Understanding Exposure">Understanding Exposure</a>
+</h4>
+<p class="fr-book-author">By Bryan F. Peterson</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 19 Google Books ratings</p>
+<p class="fr-book-desc">Teaches camera behavior and optical effects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Understanding+Exposure+by+Bryan+F.+Peterson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Read+This+if+You+Want+to+Take+Great+Photographs+by+Henry+Carroll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Read This if You Want to Take Great Photographs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=p_UgEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Read This if You Want to Take Great Photographs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Read+This+if+You+Want+to+Take+Great+Photographs+by+Henry+Carroll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Read This if You Want to Take Great Photographs">Read This if You Want to Take Great Photographs</a>
-        </h4>
-        <p class="fr-book-author">By Henry Carroll</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Read+This+if+You+Want+to+Take+Great+Photographs+by+Henry+Carroll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Read This if You Want to Take Great Photographs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=p_UgEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Read This if You Want to Take Great Photographs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Read+This+if+You+Want+to+Take+Great+Photographs+by+Henry+Carroll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Read This if You Want to Take Great Photographs">Read This if You Want to Take Great Photographs</a>
+</h4>
+<p class="fr-book-author">By Henry Carroll</p>
         
-        <p class="fr-book-desc">Explains practical camera-testing techniques.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Read+This+if+You+Want+to+Take+Great+Photographs+by+Henry+Carroll&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains practical camera-testing techniques.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Read+This+if+You+Want+to+Take+Great+Photographs+by+Henry+Carroll&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Light+Science+and+Magic+by+Fil+Hunter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Light Science and Magic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZMZbaU_LbY4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Light Science and Magic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Light+Science+and+Magic+by+Fil+Hunter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Light Science and Magic">Light Science and Magic</a>
-        </h4>
-        <p class="fr-book-author">By Fil Hunter, Steven Biver et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Light+Science+and+Magic+by+Fil+Hunter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Light Science and Magic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZMZbaU_LbY4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Light Science and Magic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Light+Science+and+Magic+by+Fil+Hunter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Light Science and Magic">Light Science and Magic</a>
+</h4>
+<p class="fr-book-author">By Fil Hunter, Steven Biver et al.</p>
         
-        <p class="fr-book-desc">Covers reflections and optical behavior.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Light+Science+and+Magic+by+Fil+Hunter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers reflections and optical behavior.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Light+Science+and+Magic+by+Fil+Hunter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Encourages testing ordinary explanations first.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages testing ordinary explanations first.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Understanding+Exposure&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Understanding Exposure</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Read+This+if+You+Want+to+Take+Great+Photographs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Read This if You Want to Take Great Photographs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Light+Science+and+Magic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Light Science and Magic</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Understanding+Exposure&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Understanding Exposure</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Read+This+if+You+Want+to+Take+Great+Photographs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Read This if You Want to Take Great Photographs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Light+Science+and+Magic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Light Science and Magic</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-camera-moves-that-expose-lens-flare-camera-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens" data-ebay-reference="the-camera-moves-that-expose-lens-flare-camera-lens" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Super Wide Angle Fisheye Lens 0.35X for Canon EOS 400D 450D 500D 550D 600D 650D"><img src="https://i.ebayimg.com/images/g/GboAAeSw7LZp57x4/s-l225.jpg" alt="Listing image for Super Wide Angle Fisheye Lens 0.35X for Canon EOS 400D 450D 500D 550D 600D 650D" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-camera-moves-that-expose-lens-flare-camera-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens" data-ebay-reference="the-camera-moves-that-expose-lens-flare-camera-lens" target="_blank" rel="sponsored noopener noreferrer">Super Wide Angle Fisheye Lens 0.35X for Canon EOS 400D 450D 500D 550D 600D 650D</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-camera-moves-that-expose-lens-flare-camera-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens" data-ebay-reference="the-camera-moves-that-expose-lens-flare-camera-lens" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera lens">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera lens</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-camera-moves-that-expose-lens-flare-camera-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens" data-ebay-reference="the-camera-moves-that-expose-lens-flare-camera-lens" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-camera-moves-that-expose-lens-flare-camera-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens" data-ebay-reference="the-camera-moves-that-expose-lens-flare-camera-lens" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Super Wide Angle Fisheye Lens 0.35X for Canon EOS 400D 450D 500D 550D 600D 650D"><img src="https://i.ebayimg.com/images/g/GboAAeSw7LZp57x4/s-l225.jpg" alt="Listing image for Super Wide Angle Fisheye Lens 0.35X for Canon EOS 400D 450D 500D 550D 600D 650D" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-camera-moves-that-expose-lens-flare-camera-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens" data-ebay-reference="the-camera-moves-that-expose-lens-flare-camera-lens" target="_blank" rel="sponsored noopener noreferrer">Super Wide Angle Fisheye Lens 0.35X for Canon EOS 400D 450D 500D 550D 600D 650D</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-camera-moves-that-expose-lens-flare-camera-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens" data-ebay-reference="the-camera-moves-that-expose-lens-flare-camera-lens" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera lens">Search<span data-ebay-domain-label>eBay.co.uk</span>: camera lens</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-camera-moves-that-expose-lens-flare-camera-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens" data-ebay-reference="the-camera-moves-that-expose-lens-flare-camera-lens" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-camera-moves-that-expose-lens-flare-camera-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens" data-ebay-reference="the-camera-moves-that-expose-lens-flare-camera-lens" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Camera MF Super Telephoto Zoom LENS F/8.3-16 420-800mm T Mount For CANON EF LENS"><img src="https://i.ebayimg.com/images/g/F9gAAeSwwpVpe2le/s-l225.jpg" alt="Listing image for Camera MF Super Telephoto Zoom LENS F/8.3-16 420-800mm T Mount For CANON EF LENS" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-camera-moves-that-expose-lens-flare-camera-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens" data-ebay-reference="the-camera-moves-that-expose-lens-flare-camera-lens" target="_blank" rel="sponsored noopener noreferrer">Camera MF Super Telephoto Zoom LENS F/8.3-16 420-800mm T Mount For CANON EF LENS</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-camera-moves-that-expose-lens-flare-camera-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens" data-ebay-reference="the-camera-moves-that-expose-lens-flare-camera-lens" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera lens">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera lens</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-camera-moves-that-expose-lens-flare-camera-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens" data-ebay-reference="the-camera-moves-that-expose-lens-flare-camera-lens" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-camera-moves-that-expose-lens-flare-camera-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens" data-ebay-reference="the-camera-moves-that-expose-lens-flare-camera-lens" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Camera MF Super Telephoto Zoom LENS F/8.3-16 420-800mm T Mount For CANON EF LENS"><img src="https://i.ebayimg.com/images/g/F9gAAeSwwpVpe2le/s-l225.jpg" alt="Listing image for Camera MF Super Telephoto Zoom LENS F/8.3-16 420-800mm T Mount For CANON EF LENS" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-camera-moves-that-expose-lens-flare-camera-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens" data-ebay-reference="the-camera-moves-that-expose-lens-flare-camera-lens" target="_blank" rel="sponsored noopener noreferrer">Camera MF Super Telephoto Zoom LENS F/8.3-16 420-800mm T Mount For CANON EF LENS</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-camera-moves-that-expose-lens-flare-camera-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens" data-ebay-reference="the-camera-moves-that-expose-lens-flare-camera-lens" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera lens">Search<span data-ebay-domain-label>eBay.co.uk</span>: camera lens</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-camera-moves-that-expose-lens-flare-camera-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens" data-ebay-reference="the-camera-moves-that-expose-lens-flare-camera-lens" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-camera-moves-that-expose-lens-flare-camera-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens" data-ebay-reference="the-camera-moves-that-expose-lens-flare-camera-lens" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage SLR Camera Lens - Carl Zeiss Planar 1:2 f=50mm Bayonet Mount"><img src="https://i.ebayimg.com/images/g/Fv4AAeSw2UdqKujL/s-l225.jpg" alt="Listing image for Vintage SLR Camera Lens - Carl Zeiss Planar 1:2 f=50mm Bayonet Mount" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-camera-moves-that-expose-lens-flare-camera-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens" data-ebay-reference="the-camera-moves-that-expose-lens-flare-camera-lens" target="_blank" rel="sponsored noopener noreferrer">Vintage SLR Camera Lens - Carl Zeiss Planar 1:2 f=50mm Bayonet Mount</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-camera-moves-that-expose-lens-flare-camera-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens" data-ebay-reference="the-camera-moves-that-expose-lens-flare-camera-lens" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera lens">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera lens</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-camera-moves-that-expose-lens-flare-camera-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens" data-ebay-reference="the-camera-moves-that-expose-lens-flare-camera-lens" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-camera-moves-that-expose-lens-flare-camera-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens" data-ebay-reference="the-camera-moves-that-expose-lens-flare-camera-lens" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage SLR Camera Lens - Carl Zeiss Planar 1:2 f=50mm Bayonet Mount"><img src="https://i.ebayimg.com/images/g/Fv4AAeSw2UdqKujL/s-l225.jpg" alt="Listing image for Vintage SLR Camera Lens - Carl Zeiss Planar 1:2 f=50mm Bayonet Mount" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-camera-moves-that-expose-lens-flare-camera-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens" data-ebay-reference="the-camera-moves-that-expose-lens-flare-camera-lens" target="_blank" rel="sponsored noopener noreferrer">Vintage SLR Camera Lens - Carl Zeiss Planar 1:2 f=50mm Bayonet Mount</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-camera-moves-that-expose-lens-flare-camera-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens" data-ebay-reference="the-camera-moves-that-expose-lens-flare-camera-lens" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera lens">Search<span data-ebay-domain-label>eBay.co.uk</span>: camera lens</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-camera-moves-that-expose-lens-flare-camera-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens" data-ebay-reference="the-camera-moves-that-expose-lens-flare-camera-lens" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-camera-moves-that-expose-lens-flare-camera-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens" data-ebay-reference="the-camera-moves-that-expose-lens-flare-camera-lens" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sigma XQ Multi Coated Mini Zoom Camera Lens With Case Not Tested"><img src="https://i.ebayimg.com/images/g/q74AAeSweShqJayW/s-l225.jpg" alt="Listing image for Sigma XQ Multi Coated Mini Zoom Camera Lens With Case Not Tested" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-camera-moves-that-expose-lens-flare-camera-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens" data-ebay-reference="the-camera-moves-that-expose-lens-flare-camera-lens" target="_blank" rel="sponsored noopener noreferrer">Sigma XQ Multi Coated Mini Zoom Camera Lens With Case Not Tested</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-camera-moves-that-expose-lens-flare-camera-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens" data-ebay-reference="the-camera-moves-that-expose-lens-flare-camera-lens" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera lens">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera lens</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-camera-moves-that-expose-lens-flare-camera-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens" data-ebay-reference="the-camera-moves-that-expose-lens-flare-camera-lens" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-camera-moves-that-expose-lens-flare-camera-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens" data-ebay-reference="the-camera-moves-that-expose-lens-flare-camera-lens" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-camera-moves-that-expose-lens-flare-camera-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens" data-ebay-reference="the-camera-moves-that-expose-lens-flare-camera-lens" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sigma XQ Multi Coated Mini Zoom Camera Lens With Case Not Tested"><img src="https://i.ebayimg.com/images/g/q74AAeSweShqJayW/s-l225.jpg" alt="Listing image for Sigma XQ Multi Coated Mini Zoom Camera Lens With Case Not Tested" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-camera-moves-that-expose-lens-flare-camera-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens" data-ebay-reference="the-camera-moves-that-expose-lens-flare-camera-lens" target="_blank" rel="sponsored noopener noreferrer">Sigma XQ Multi Coated Mini Zoom Camera Lens With Case Not Tested</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-camera-moves-that-expose-lens-flare-camera-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens" data-ebay-reference="the-camera-moves-that-expose-lens-flare-camera-lens" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera lens">Search<span data-ebay-domain-label>eBay.co.uk</span>: camera lens</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-camera-moves-that-expose-lens-flare-camera-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens" data-ebay-reference="the-camera-moves-that-expose-lens-flare-camera-lens" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-camera-moves-that-expose-lens-flare-camera-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens" data-ebay-reference="the-camera-moves-that-expose-lens-flare-camera-lens" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -581,7 +581,7 @@ If the mystery light tracks the camera, mirrors a bright source, vanishes when t
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -601,7 +601,7 @@ If the mystery light tracks the camera, mirrors a bright source, vanishes when t
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -633,7 +633,7 @@ If the mystery light tracks the camera, mirrors a bright source, vanishes when t
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -685,7 +685,7 @@ If the mystery light tracks the camera, mirrors a bright source, vanishes when t
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -730,7 +730,7 @@ If the mystery light tracks the camera, mirrors a bright source, vanishes when t
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -771,126 +771,126 @@ If the mystery light tracks the camera, mirrors a bright source, vanishes when t
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Lens flare  
-   Link: <a href="https://en.wikipedia.org/wiki/Lens_flare" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lens_flare</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Lens_flare" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lens_flare</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: richardbarron.net  
    Title: flare and ghosting  
-   Link: <a href="https://richardbarron.net/cameras/2017/01/22/flare-and-ghosting/" target="_blank" rel="noopener noreferrer nofollow">https://richardbarron.net/cameras/2017/01/22/flare-and-ghosting/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Moving Pictures22 Jan 2017 — Flare and ghosting are almost always a consequence of having bright light source in the frame; a window, a s...</p></details>
+   Link:<a href="https://richardbarron.net/cameras/2017/01/22/flare-and-ghosting/" target="_blank" rel="noopener noreferrer nofollow">https://richardbarron.net/cameras/2017/01/22/flare-and-ghosting/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Moving Pictures22 Jan 2017 — Flare and ghosting are almost always a consequence of having bright light source in the frame; a window, a s...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — The study of Unidentified Anomalous Phenomena (UAP) presents a unique scien...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — The study of Unidentified Anomalous Phenomena (UAP) presents a unique scien...</p></details>
    Published: September 13, 2023  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: en.wikisource.org  
    Title: Responses to Statement of Task  
-   Link: <a href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — Indeed, several apparent UAP have been demonstrated to be sensor artifacts...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — Indeed, several apparent UAP have been demonstrated to be sensor artifacts...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — A study team to examine unidentified anomalous phenomena (UAPs) – that is, observations of events in the sky that...</p></details>
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — A study team to examine unidentified anomalous phenomena (UAPs) – that is, observations of events in the sky that...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nasa.gov  
-   Link: <a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA to Release, Discuss Unidentified Anomalous...NASA defines UAP as observations of events in the sky that cannot be identified as air...</p></details>
+   Link:<a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA to Release, Discuss Unidentified Anomalous...NASA defines UAP as observations of events in the sky that cannot be identified as air...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: NASA Unidentified Anomalous Phenomena Independent Study Team  
-   Link: <a href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific American. Archived from the original on June 19, 2023. Retrieved June 23, 2023...Read more...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific American. Archived from the original on June 19, 2023. Retrieved June 23, 2023...Read more...</p></details>
    Published: June 19, 2023  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Pentagon UFO videos  
-   Link: <a href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pentagon_UFO_videos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO videosThe Pentagon UFO videos are selected visual recordings of Forward-looking [infrared](&amp;#123;&amp;#123; &#x27;infrared/&#x27; | relative_url &amp;#125;&amp;#125;) (FLIR) targeting cameras from Un...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pentagon_UFO_videos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO videosThe Pentagon UFO videos are selected visual recordings of Forward-looking [infrared](&amp;#123;&amp;#123; &#x27;infrared/&#x27; | relative_url &amp;#125;&amp;#125;) (FLIR) targeting cameras from Un...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: photographylife.com  
    Title: what is ghosting and flare  
-   Link: <a href="https://photographylife.com/what-is-ghosting-and-flare" target="_blank" rel="noopener noreferrer nofollow">https://photographylife.com/what-is-ghosting-and-flare</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Photography LifeUnderstanding Lens Flare13 Nov 2025 — Lens flare occurs when a point of light source such as the sun is much brighter tha...</p></details>
+   Link:<a href="https://photographylife.com/what-is-ghosting-and-flare" target="_blank" rel="noopener noreferrer nofollow">https://photographylife.com/what-is-ghosting-and-flare</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Photography LifeUnderstanding Lens Flare13 Nov 2025 — Lens flare occurs when a point of light source such as the sun is much brighter tha...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cg.tuwien.ac.at  
-   Link: <a href="https://www.cg.tuwien.ac.at/research/publications/2017/Walch-2017-DA/Walch-2017-DA-thesis.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cg.tuwien.ac.at/research/publications/2017/Walch-2017-DA/Walch-2017-DA-thesis.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>TU Wien Computer GraphicsLens Flare Prediction based on Measurements with Real-...by W Andreas · Cited by 10 — While rotating the camera...</p></details>
+   Link:<a href="https://www.cg.tuwien.ac.at/research/publications/2017/Walch-2017-DA/Walch-2017-DA-thesis.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cg.tuwien.ac.at/research/publications/2017/Walch-2017-DA/Walch-2017-DA-thesis.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TU Wien Computer GraphicsLens Flare Prediction based on Measurements with Real-...by W Andreas · Cited by 10 — While rotating the camera...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: image-engineering.de  
    Title: 1077 flare  
-   Link: <a href="https://www.image-engineering.de/library/image-quality/factors/1077-flare" target="_blank" rel="noopener noreferrer nofollow">https://www.image-engineering.de/library/image-quality/factors/1077-flare</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lens Flare | ISO 18844 | Image Quality FactorsFlare (also known as glare or veiling flare/glare) by definition is unwanted light in an im...</p></details>
+   Link:<a href="https://www.image-engineering.de/library/image-quality/factors/1077-flare" target="_blank" rel="noopener noreferrer nofollow">https://www.image-engineering.de/library/image-quality/factors/1077-flare</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lens Flare | ISO 18844 | Image Quality FactorsFlare (also known as glare or veiling flare/glare) by definition is unwanted light in an im...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: resources.mpi-inf.mpg.de  
-   Link: <a href="https://resources.mpi-inf.mpg.de/lensflareRendering/pdf/flare.pdf" target="_blank" rel="noopener noreferrer nofollow">https://resources.mpi-inf.mpg.de/lensflareRendering/pdf/flare.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MPI Informatics ResourcesPhysically-Based Real-Time Lens Flare RenderingLens flare is caused by light passing through a photographic lens...</p></details>
+   Link:<a href="https://resources.mpi-inf.mpg.de/lensflareRendering/pdf/flare.pdf" target="_blank" rel="noopener noreferrer nofollow">https://resources.mpi-inf.mpg.de/lensflareRendering/pdf/flare.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MPI Informatics ResourcesPhysically-Based Real-Time Lens Flare RenderingLens flare is caused by light passing through a photographic lens...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/1t780yn/from_the_newly_released_videos_wtf_are_we_even/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1t780yn/from_the_newly_released_videos_wtf_are_we_even/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>From the newly released videos, Wtf are we even looking atA lens flare is basically caused by the light hitting the glass/plastic and cha...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/1t780yn/from_the_newly_released_videos_wtf_are_we_even/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1t780yn/from_the_newly_released_videos_wtf_are_we_even/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>From the newly released videos, Wtf are we even looking atA lens flare is basically caused by the light hitting the glass/plastic and cha...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40omarvferro/nasa-ufo-releases-the-2-most-convising-images-if-youre-a-skeptic-who-still-has-eyes-67cefa567525" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40omarvferro/nasa-ufo-releases-the-2-most-convising-images-if-youre-a-skeptic-who-still-has-eyes-67cefa567525</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA “UFO” Releases: The 2 Most Convincing Images (If...Glare, lens artifacts, or internal reflections from the Sun&#x27;s angle and the came...</p></details>
+   Link:<a href="https://medium.com/%40omarvferro/nasa-ufo-releases-the-2-most-convising-images-if-youre-a-skeptic-who-still-has-eyes-67cefa567525" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40omarvferro/nasa-ufo-releases-the-2-most-convising-images-if-youre-a-skeptic-who-still-has-eyes-67cefa567525</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA “UFO” Releases: The 2 Most Convincing Images (If...Glare, lens artifacts, or internal reflections from the Sun&#x27;s angle and the came...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40omarvferro/seriously-are-all-those-blurry-dots-in-infrared-cameras-and-distant-lights-in-the-sky-the-best-8d59e3e75f74" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40omarvferro/seriously-are-all-those-blurry-dots-in-infrared-cameras-and-distant-lights-in-the-sky-the-best-8d59e3e75f74</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Seriously, Are All Those Blurry Dots in Infrared Cameras...NASA UAP Report Analysis: Evaluating Extraterrestrial Evidence, Infrared Sens...</p></details>
+   Link:<a href="https://medium.com/%40omarvferro/seriously-are-all-those-blurry-dots-in-infrared-cameras-and-distant-lights-in-the-sky-the-best-8d59e3e75f74" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40omarvferro/seriously-are-all-those-blurry-dots-in-infrared-cameras-and-distant-lights-in-the-sky-the-best-8d59e3e75f74</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Seriously, Are All Those Blurry Dots in Infrared Cameras...NASA UAP Report Analysis: Evaluating Extraterrestrial Evidence, Infrared Sens...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1t7zvfm/the_chandelier_uap_what_it_isnt/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1t7zvfm/the_chandelier_uap_what_it_isnt/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Chandelier UAP: What it isn&#x27;t: r/UFOsThe way it moves relative to the camera really makes it seem like an artifact due to the bright...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1t7zvfm/the_chandelier_uap_what_it_isnt/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1t7zvfm/the_chandelier_uap_what_it_isnt/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Chandelier UAP: What it isn&#x27;t: r/UFOsThe way it moves relative to the camera really makes it seem like an artifact due to the bright...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: [aaro](&#123;&#123; 'aaro/' | relative_url &#125;&#125;). mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryAARO coordinated an interagency and international analytical effort that determined that optical effects from the intense atmo...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryAARO coordinated an interagency and international analytical effort that determined that optical effects from the intense atmo...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: defensescoop.com  
-   Link: <a href="https://defensescoop.com/2023/10/18/dods-all-domain-anomaly-resolution-office-is-now-investigating-more-than-800-uap-cases/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2023/10/18/dods-all-domain-anomaly-resolution-office-is-now-investigating-more-than-800-uap-cases/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DOD&#x27;s All-domain Anomaly Resolution Office confirms...18 Oct 2023 — A new Pentagon report confirms that AARO has received a total of 801...</p></details>
+   Link:<a href="https://defensescoop.com/2023/10/18/dods-all-domain-anomaly-resolution-office-is-now-investigating-more-than-800-uap-cases/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2023/10/18/dods-all-domain-anomaly-resolution-office-is-now-investigating-more-than-800-uap-cases/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DOD&#x27;s All-domain Anomaly Resolution Office confirms...18 Oct 2023 — A new Pentagon report confirms that AARO has received a total of 801...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/325126549_Lens_flare_prediction_based_on_measurements_with_real-time_visualization" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/325126549_Lens_flare_prediction_based_on_measurements_with_real-time_visualization</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lens flare prediction based on measurements with real-...14 May 2018 — In this paper we present a novel workflow for generating physical...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/325126549_Lens_flare_prediction_based_on_measurements_with_real-time_visualization" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/325126549_Lens_flare_prediction_based_on_measurements_with_real-time_visualization</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lens flare prediction based on measurements with real-...14 May 2018 — In this paper we present a novel workflow for generating physical...</p></details>
    Published: May 2018  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=nuBMnluJfs0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nuBMnluJfs0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Replay! NASA&#x27;s Release of the Unidentified Anomalous...NASA commissioned an independent study team to examine unidentified anomalous phe...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=nuBMnluJfs0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nuBMnluJfs0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Replay! NASA&#x27;s Release of the Unidentified Anomalous...NASA commissioned an independent study team to examine unidentified anomalous phe...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: avi-loeb.medium.com  
    Title: a new calculation on the fly to the nasa uap study 2dacaf860cac  
-   Link: <a href="https://avi-loeb.medium.com/a-new-calculation-on-the-fly-to-the-nasa-uap-study-2dacaf860cac" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/a-new-calculation-on-the-fly-to-the-nasa-uap-study-2dacaf860cac</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New Calculation on the Fly to the NASA UAP Study - Avi LoebThe [NASA Study](&amp;#123;&amp;#123; &#x27;nasa-study/&#x27; | relative_url &amp;#125;&amp;#125;) will examine unclassified data on UAP in an attempt to separate...</p></details>
+   Link:<a href="https://avi-loeb.medium.com/a-new-calculation-on-the-fly-to-the-nasa-uap-study-2dacaf860cac" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/a-new-calculation-on-the-fly-to-the-nasa-uap-study-2dacaf860cac</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New Calculation on the Fly to the NASA UAP Study - Avi LoebThe [NASA Study](&amp;#123;&amp;#123; &#x27;nasa-study/&#x27; | relative_url &amp;#125;&amp;#125;) will examine unclassified data on UAP in an attempt to separate...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: leonarddavid.com  
    Title: nasa report released unidentified anomalous phenomena uap  
-   Link: <a href="https://www.leonarddavid.com/nasa-report-released-unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.leonarddavid.com/nasa-report-released-unidentified-anomalous-phenomena-uap/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena (UAP) – UPDATED14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through sys...</p></details>
+   Link:<a href="https://www.leonarddavid.com/nasa-report-released-unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.leonarddavid.com/nasa-report-released-unidentified-anomalous-phenomena-uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena (UAP) – UPDATED14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through sys...</p></details>

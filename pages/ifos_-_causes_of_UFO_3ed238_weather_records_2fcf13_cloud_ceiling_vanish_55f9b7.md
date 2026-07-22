@@ -404,89 +404,89 @@ A recorded ceiling does not automatically explain every case. Witnesses can misj
 For this reason, intermittent disappearance is among the most weather-sensitive features in UFO reporting. A low cloud layer can create the impression of a light passing behind an invisible wall in the sky, when the wall was there all along and simply could not be seen.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Did the UFO vanish into cloud?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Did the UFO vanish into cloud?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-</h4>
-<p class="fr-book-author">By Joseph Allen Hynek</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+        </h4>
+        <p class="fr-book-author">By Joseph Allen Hynek</p>
 
-<p class="fr-book-desc">Places cloud-related disappearances within the broader problem of UFO report evaluation.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Places cloud-related disappearances within the broader problem of UFO report evaluation.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cloudspotter&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=gbDYPEiB0T0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Cloudspotter&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cloudspotter&#x27;s Guide">The Cloudspotter&#x27;s Guide</a>
-</h4>
-<p class="fr-book-author">By Gavin Pretor-Pinney</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cloudspotter&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=gbDYPEiB0T0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Cloudspotter&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cloudspotter&#x27;s Guide">The Cloudspotter&#x27;s Guide</a>
+        </h4>
+        <p class="fr-book-author">By Gavin Pretor-Pinney</p>
 
-<p class="fr-book-desc">Directly supports understanding cloud layers, cloud bases and how lights disappear behind cloud.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Directly supports understanding cloud layers, cloud bases and how lights disappear behind cloud.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-</h4>
-<p class="fr-book-author">By Terence Dickinson</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5HXAzwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=NightWatch+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+        </h4>
+        <p class="fr-book-author">By Terence Dickinson, Ken Hewitt-White</p>
 
-<p class="fr-book-desc">Helps readers distinguish sky objects from atmospheric interruptions and viewing conditions.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">As NightWatch, Terence Dickinson&#x27;s classic stargazing guide, neared its 40th anniversary, Dickinson worked with a small group of trusted...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=NightWatch+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience, A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience, A Scientific Inquiry">The UFO Experience, A Scientific Inquiry</a>
-</h4>
-<p class="fr-book-author">By J. Allen Hynek</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience, A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience, A Scientific Inquiry">The UFO Experience, A Scientific Inquiry</a>
+        </h4>
+        <p class="fr-book-author">By J. Allen Hynek</p>
 
-<p class="fr-book-desc">First published 1972.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">First published 1972.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cloudspotter%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cloudspotter&#x27;s books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cloudspotter%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cloudspotter&#x27;s books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

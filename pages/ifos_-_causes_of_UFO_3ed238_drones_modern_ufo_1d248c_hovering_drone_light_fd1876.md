@@ -351,7 +351,7 @@ As drones become more common and more capable of stable hovering, reports of lig
 <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
 </h4>
 <p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
-        
+
 <p class="fr-book-desc">Explains why a stationary light can be misinterpreted when context is missing.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -368,7 +368,7 @@ As drones become more common and more capable of stable hovering, reports of lig
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
 </h4>
 <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
+
 <p class="fr-book-desc">Links modern hovering-light reports to older nocturnal-light investigations.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -402,7 +402,7 @@ As drones become more common and more capable of stable hovering, reports of lig
 <a href="https://www.amazon.com/s?k=Drones+for+Dummies+Mark+Lafay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drones for Dummies">Drones for Dummies</a>
 </h4>
 <p class="fr-book-author">By Mark Lafay</p>
-        
+
 <p class="fr-book-desc">First published 2015. Subjects: Remotely piloted Vehicles, Drone aircraft, Aeronautics, Vehicles, remotely piloted, Ug1242.d7 l34 2015.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Drones+for+Dummies+Mark+Lafay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

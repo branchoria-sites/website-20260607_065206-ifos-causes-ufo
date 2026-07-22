@@ -390,7 +390,7 @@ Radar clutter from birds, insects and weather does not mean every radar-associat
 <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
 </h4>
 <p class="fr-book-author">By Peter A. Sturrock</p>
-        
+
 <p class="fr-book-desc">Provides context for evaluating unusual radar-associated reports.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -407,7 +407,7 @@ Radar clutter from birds, insects and weather does not mean every radar-associat
 <a href="https://www.amazon.com/s?k=Introduction+to+Radar+Systems+by+Merrill+Ivan+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Radar Systems">Introduction to Radar Systems</a>
 </h4>
 <p class="fr-book-author">By Merrill Ivan Skolnik</p>
-        
+
 <p class="fr-book-desc">Provides the foundation for understanding biological and weather clutter.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Introduction+to+Radar+Systems+by+Merrill+Ivan+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -424,7 +424,7 @@ Radar clutter from birds, insects and weather does not mean every radar-associat
 <a href="https://www.amazon.com/s?k=Weather+radar+technology+beyond+NEXRAD+National+Research+Council+%28U.S.%29.+Committee+on+Weather+Radar+Technology+Beyond+NEXRAD.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weather radar technology beyond NEXRAD">Weather radar technology beyond NEXRAD</a>
 </h4>
 <p class="fr-book-author">By National Research Council (U.S.). Committee on Weather Radar Technology Beyond NEXRAD.</p>
-        
+
 <p class="fr-book-desc">First published 2002. Subjects: Evaluation, Meteorological services, Radar meteorology, Technological innovations, Weather forcasting.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Weather+radar+technology+beyond+NEXRAD+National+Research+Council+%28U.S.%29.+Committee+on+Weather+Radar+Technology+Beyond+NEXRAD.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -441,7 +441,7 @@ Radar clutter from birds, insects and weather does not mean every radar-associat
 <a href="https://www.amazon.com/s?k=Living+on+the+Wind+Scott+Weidensaul&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Living on the Wind">Living on the Wind</a>
 </h4>
 <p class="fr-book-author">By Scott Weidensaul</p>
-        
+
 <p class="fr-book-desc">First published 1999. Subjects: Birds, Migration, Birds, migration, Migratory birds.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Living+on+the+Wind+Scott+Weidensaul&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

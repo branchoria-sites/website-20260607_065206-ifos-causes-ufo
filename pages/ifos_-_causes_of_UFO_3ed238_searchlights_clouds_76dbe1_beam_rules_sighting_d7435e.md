@@ -357,7 +357,7 @@ When those answers align, the case for a searchlight or laser explanation become
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
 </h4>
 <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
+
 <p class="fr-book-desc">Explains how ordinary phenomena become UFO reports and why documentation matters.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -374,7 +374,7 @@ When those answers align, the case for a searchlight or laser explanation become
 <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
 </h4>
 <p class="fr-book-author">By Edward J. Ruppelt</p>
-        
+
 <p class="fr-book-desc">Shows how official investigations use records and evidence trails.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -391,7 +391,7 @@ When those answers align, the case for a searchlight or laser explanation become
 <a href="https://www.amazon.com/s?k=Meteorology+Today+by+C.+Donald+Ahrens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteorology Today">Meteorology Today</a>
 </h4>
 <p class="fr-book-author">By C. Donald Ahrens</p>
-        
+
 <p class="fr-book-desc">Provides atmospheric context for beam visibility and cloud interactions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Meteorology+Today+by+C.+Donald+Ahrens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -408,7 +408,7 @@ When those answers align, the case for a searchlight or laser explanation become
 <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
 </h4>
 <p class="fr-book-author">By Terence Dickinson</p>
-        
+
 <p class="fr-book-desc">Encourages careful observation and recording of unusual sky events.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

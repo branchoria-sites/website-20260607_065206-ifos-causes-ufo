@@ -386,7 +386,7 @@ When a video consists primarily of a bright point of light against a dark sky, t
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
 </h4>
 <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
+
 <p class="fr-book-desc">Provides broader investigative context.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -420,7 +420,7 @@ When a video consists primarily of a bright point of light against a dark sky, t
 <a href="https://www.amazon.com/s?k=Read+This+if+You+Want+to+Take+Great+Photographs+by+Henry+Carroll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Read This if You Want to Take Great Photographs">Read This if You Want to Take Great Photographs</a>
 </h4>
 <p class="fr-book-author">By Henry Carroll</p>
-        
+
 <p class="fr-book-desc">Improves understanding of photographic interpretation.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Read+This+if+You+Want+to+Take+Great+Photographs+by+Henry+Carroll&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -437,7 +437,7 @@ When a video consists primarily of a bright point of light against a dark sky, t
 <a href="https://www.amazon.com/s?k=How+to+photograph+absolutely+everything+Tom+Ang&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to photograph absolutely everything">How to photograph absolutely everything</a>
 </h4>
 <p class="fr-book-author">By Tom Ang</p>
-        
+
 <p class="fr-book-desc">First published 2007. Subjects: Digital techniques, Photography, Nonfiction, Digital cameras, Image processing.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=How+to+photograph+absolutely+everything+Tom+Ang&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

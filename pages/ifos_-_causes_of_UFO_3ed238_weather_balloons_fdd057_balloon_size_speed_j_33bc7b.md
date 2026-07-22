@@ -398,7 +398,7 @@ None of these impressions require deliberate exaggeration or poor observation. T
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
 </h4>
 <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
+
 <p class="fr-book-desc">Gives historical context for evaluating balloon-like sightings and witness estimates.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -415,7 +415,7 @@ None of these impressions require deliberate exaggeration or poor observation. T
 <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
 </h4>
 <p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
-        
+
 <p class="fr-book-desc">Explains why sincere observers can misjudge what they see in ambiguous visual scenes.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -432,7 +432,7 @@ None of these impressions require deliberate exaggeration or poor observation. T
 <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
 </h4>
 <p class="fr-book-author">By Carl Sagan</p>
-        
+
 <p class="fr-book-desc">Encourages evidence-based caution when interpreting striking but ambiguous sky observations.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -449,7 +449,7 @@ None of these impressions require deliberate exaggeration or poor observation. T
 <a href="https://www.amazon.com/s?k=Visual+Intelligence+by+Amy+E.+Herman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Visual Intelligence">Visual Intelligence</a>
 </h4>
 <p class="fr-book-author">By Amy E. Herman</p>
-        
+
 <p class="fr-book-desc">Connects to the problem of seeing carefully without over-interpreting size or motion.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Visual+Intelligence+by+Amy+E.+Herman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -373,7 +373,7 @@ The broader lesson is straightforward. Radar evidence can appear objective and c
 <a href="https://www.amazon.com/s?k=Introduction+to+Radar+Systems+by+Merrill+Ivan+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Radar Systems">Introduction to Radar Systems</a>
 </h4>
 <p class="fr-book-author">By Merrill Ivan Skolnik</p>
-        
+
 <p class="fr-book-desc">Provides the background needed to understand turbine interference.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Introduction+to+Radar+Systems+by+Merrill+Ivan+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -390,7 +390,7 @@ The broader lesson is straightforward. Radar evidence can appear objective and c
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
 </h4>
 <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
+
 <p class="fr-book-desc">Provides broader context on evaluating evidence.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -407,7 +407,7 @@ The broader lesson is straightforward. Radar evidence can appear objective and c
 <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
 </h4>
 <p class="fr-book-author">By Peter A. Sturrock</p>
-        
+
 <p class="fr-book-desc">Useful context for assessing unusual radar reports.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -424,7 +424,7 @@ The broader lesson is straightforward. Radar evidence can appear objective and c
 <a href="https://www.amazon.com/s?k=Wind+Energy+Explained+J.+F.%2F+McGowan%2C+Jon%2F+Rogers%2C+An+Manwell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wind Energy Explained">Wind Energy Explained</a>
 </h4>
 <p class="fr-book-author">By J. F./ McGowan, Jon/ Rogers, An Manwell</p>
-        
+
 <p class="fr-book-desc">First published 2002. Subjects: Electric engineering, Engineering and science, electrical engineering, Wind power, Énergie éolienne, TECH...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Wind+Energy+Explained+J.+F.%2F+McGowan%2C+Jon%2F+Rogers%2C+An+Manwell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

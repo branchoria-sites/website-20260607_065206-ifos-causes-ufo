@@ -419,7 +419,7 @@ For that reason, reports involving luminous objects seen during rain, drizzle, m
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
 </h4>
 <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
+
 <p class="fr-book-desc">Connects atmospheric misidentification with the wider UFO investigation process.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -436,7 +436,7 @@ For that reason, reports involving luminous objects seen during rain, drizzle, m
 <a href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cloudspotter&#x27;s Guide">The Cloudspotter&#x27;s Guide</a>
 </h4>
 <p class="fr-book-author">By Gavin Pretor-Pinney</p>
-        
+
 <p class="fr-book-desc">Explains the cloud and moisture conditions that make ordinary lights look strange.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -453,7 +453,7 @@ For that reason, reports involving luminous objects seen during rain, drizzle, m
 <a href="https://www.amazon.com/s?k=Light+and+Color+in+the+Outdoors+by+Marcel+Minnaert&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Light and Color in the Outdoors">Light and Color in the Outdoors</a>
 </h4>
 <p class="fr-book-author">By Marcel Minnaert</p>
-        
+
 <p class="fr-book-desc">Directly addresses optical effects such as halos, scattering and unusual light appearances.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Light+and+Color+in+the+Outdoors+by+Marcel+Minnaert&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -470,7 +470,7 @@ For that reason, reports involving luminous objects seen during rain, drizzle, m
 <a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience, A Scientific Inquiry">The UFO Experience, A Scientific Inquiry</a>
 </h4>
 <p class="fr-book-author">By J. Allen Hynek</p>
-        
+
 <p class="fr-book-desc">First published 1972.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

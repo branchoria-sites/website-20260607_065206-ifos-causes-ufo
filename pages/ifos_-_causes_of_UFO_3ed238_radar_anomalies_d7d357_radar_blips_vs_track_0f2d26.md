@@ -467,7 +467,7 @@ In short, a radar blip is merely a detection. A confirmed track is an interpreta
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
 </h4>
 <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
+
 <p class="fr-book-desc">Explores how reports should be assessed critically.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -484,7 +484,7 @@ In short, a radar blip is merely a detection. A confirmed track is an interpreta
 <a href="https://www.amazon.com/s?k=Introduction+to+Radar+Systems+by+Merrill+Ivan+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Radar Systems">Introduction to Radar Systems</a>
 </h4>
 <p class="fr-book-author">By Merrill Ivan Skolnik</p>
-        
+
 <p class="fr-book-desc">Explains the difference between isolated returns and sustained tracks.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Introduction+to+Radar+Systems+by+Merrill+Ivan+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -501,7 +501,7 @@ In short, a radar blip is merely a detection. A confirmed track is an interpreta
 <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
 </h4>
 <p class="fr-book-author">By Edward J. Ruppelt</p>
-        
+
 <p class="fr-book-desc">Discusses radar cases and evidential standards.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -518,7 +518,7 @@ In short, a radar blip is merely a detection. A confirmed track is an interpreta
 <a href="https://www.amazon.com/s?k=Radar+for+technicians+Frederick+L.+Gould&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Radar for technicians">Radar for technicians</a>
 </h4>
 <p class="fr-book-author">By Frederick L. Gould</p>
-        
+
 <p class="fr-book-desc">First published 1995. Subjects: Radar, Maintenance and repair.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Radar+for+technicians+Frederick+L.+Gould&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

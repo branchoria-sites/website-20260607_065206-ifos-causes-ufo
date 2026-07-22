@@ -381,7 +381,7 @@ For reports involving suspected balloons, lanterns or other drifting lights, a s
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
 </h4>
 <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
+
 <p class="fr-book-desc">Shows why careful data interpretation matters before accepting or rejecting IFO explanations.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -398,7 +398,7 @@ For reports involving suspected balloons, lanterns or other drifting lights, a s
 <a href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cloudspotter&#x27;s Guide">The Cloudspotter&#x27;s Guide</a>
 </h4>
 <p class="fr-book-author">By Gavin Pretor-Pinney</p>
-        
+
 <p class="fr-book-desc">Supports a broader understanding of sky conditions and atmospheric layers.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -415,7 +415,7 @@ For reports involving suspected balloons, lanterns or other drifting lights, a s
 <a href="https://www.amazon.com/s?k=Visual+Intelligence+by+Amy+E.+Herman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Visual Intelligence">Visual Intelligence</a>
 </h4>
 <p class="fr-book-author">By Amy E. Herman</p>
-        
+
 <p class="fr-book-desc">Helps readers think about how quick conclusions can distort sighting interpretation.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Visual+Intelligence+by+Amy+E.+Herman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -432,7 +432,7 @@ For reports involving suspected balloons, lanterns or other drifting lights, a s
 <a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience, A Scientific Inquiry">The UFO Experience, A Scientific Inquiry</a>
 </h4>
 <p class="fr-book-author">By J. Allen Hynek</p>
-        
+
 <p class="fr-book-desc">First published 1972.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

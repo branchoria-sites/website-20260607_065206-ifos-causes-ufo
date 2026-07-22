@@ -383,7 +383,7 @@ For UFO reports, this distinction is crucial. An apparent aura or wake may look 
 <a href="https://www.amazon.com/s?k=The+Filmmaker%27s+Handbook+by+Steven+Ascher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Filmmaker&#x27;s Handbook">The Filmmaker&#x27;s Handbook</a>
 </h4>
 <p class="fr-book-author">By Steven Ascher, Edward Pincus</p>
-        
+
 <p class="fr-book-desc">Covers digital video technology and image artefacts.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Filmmaker%27s+Handbook+by+Steven+Ascher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -400,7 +400,7 @@ For UFO reports, this distinction is crucial. An apparent aura or wake may look 
 <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
 </h4>
 <p class="fr-book-author">By Carl Sagan</p>
-        
+
 <p class="fr-book-desc">Encourages scrutiny of apparent visual anomalies.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -417,7 +417,7 @@ For UFO reports, this distinction is crucial. An apparent aura or wake may look 
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
 </h4>
 <p class="fr-book-author">By Leslie Kean</p>
-        
+
 <p class="fr-book-desc">Adds UFO investigation context.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -434,7 +434,7 @@ For UFO reports, this distinction is crucial. An apparent aura or wake may look 
 <a href="https://www.amazon.com/s?k=How+Video+Works+Diana+Weynand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Video Works">How Video Works</a>
 </h4>
 <p class="fr-book-author">By Diana Weynand, Vance Piccin</p>
-        
+
 <p class="fr-book-desc">First published 2015. Subjects: Home video systems, Digital video, Vidéo d&#x27;amateurs, Vidéo numérique.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=How+Video+Works+Diana+Weynand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

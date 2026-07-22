@@ -401,7 +401,7 @@ Within the study of UFO misidentifications, haze halos are therefore significant
 <a href="https://www.amazon.com/s?k=The+AMS+Weather+Book+by+Jack+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The AMS Weather Book">The AMS Weather Book</a>
 </h4>
 <p class="fr-book-author">By Jack Williams</p>
-        
+
 <p class="fr-book-desc">Covers haze, moisture and optical scattering.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+AMS+Weather+Book+by+Jack+Williams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -418,7 +418,7 @@ Within the study of UFO misidentifications, haze halos are therefore significant
 <a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weather For Dummies">Weather For Dummies</a>
 </h4>
 <p class="fr-book-author">By John D. Cox</p>
-        
+
 <p class="fr-book-desc">Explains visibility reduction and light halos.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -435,7 +435,7 @@ Within the study of UFO misidentifications, haze halos are therefore significant
 <a href="https://www.amazon.com/s?k=Light+and+Color+in+the+Outdoors+by+Marcel+Minnaert&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Light and Color in the Outdoors">Light and Color in the Outdoors</a>
 </h4>
 <p class="fr-book-author">By Marcel Minnaert</p>
-        
+
 <p class="fr-book-desc">Directly addresses halos, glows and visual effects.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Light+and+Color+in+the+Outdoors+by+Marcel+Minnaert&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -452,7 +452,7 @@ Within the study of UFO misidentifications, haze halos are therefore significant
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
 </h4>
 <p class="fr-book-author">By Leslie Kean</p>
-        
+
 <p class="fr-book-desc">Offers context for evaluating unusual light reports.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

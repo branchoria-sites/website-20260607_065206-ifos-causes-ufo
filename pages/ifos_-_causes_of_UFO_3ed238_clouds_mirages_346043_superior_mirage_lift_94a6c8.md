@@ -367,7 +367,7 @@ That combination makes superior mirages particularly important in the study of U
 <a href="https://www.amazon.com/s?k=The+AMS+Weather+Book+by+Jack+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The AMS Weather Book">The AMS Weather Book</a>
 </h4>
 <p class="fr-book-author">By Jack Williams</p>
-        
+
 <p class="fr-book-desc">Explains temperature inversions and atmospheric structure.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+AMS+Weather+Book+by+Jack+Williams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -384,7 +384,7 @@ That combination makes superior mirages particularly important in the study of U
 <a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weather For Dummies">Weather For Dummies</a>
 </h4>
 <p class="fr-book-author">By John D. Cox</p>
-        
+
 <p class="fr-book-desc">Introduces weather mechanisms behind mirages.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -401,7 +401,7 @@ That combination makes superior mirages particularly important in the study of U
 <a href="https://www.amazon.com/s?k=Light+and+Color+in+the+Outdoors+by+Marcel+Minnaert&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Light and Color in the Outdoors">Light and Color in the Outdoors</a>
 </h4>
 <p class="fr-book-author">By Marcel Minnaert</p>
-        
+
 <p class="fr-book-desc">Directly relevant to mirages and refraction.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Light+and+Color+in+the+Outdoors+by+Marcel+Minnaert&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -418,7 +418,7 @@ That combination makes superior mirages particularly important in the study of U
 <a href="https://www.amazon.com/s?k=Meteorology+Today+by+C.+Donald+Ahrens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteorology Today">Meteorology Today</a>
 </h4>
 <p class="fr-book-author">By C. Donald Ahrens</p>
-        
+
 <p class="fr-book-desc">Detailed coverage of inversions and refraction.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Meteorology+Today+by+C.+Donald+Ahrens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

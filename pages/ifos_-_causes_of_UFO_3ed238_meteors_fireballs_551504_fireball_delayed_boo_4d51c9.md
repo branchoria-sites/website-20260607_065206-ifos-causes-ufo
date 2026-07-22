@@ -378,7 +378,7 @@ A delayed boom after a brilliant fireball is not an anomaly requiring a second o
 <a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Handbook">The UFO Handbook</a>
 </h4>
 <p class="fr-book-author">By Allan Hendry</p>
-        
+
 <p class="fr-book-desc">Useful for understanding why fireballs can be reported as UFOs.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -395,7 +395,7 @@ A delayed boom after a brilliant fireball is not an anomaly requiring a second o
 <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
 </h4>
 <p class="fr-book-author">By Terence Dickinson</p>
-        
+
 <p class="fr-book-desc">Gives readers a practical foundation for meteor and fireball sightings.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -412,7 +412,7 @@ A delayed boom after a brilliant fireball is not an anomaly requiring a second o
 <a href="https://www.amazon.com/s?k=Meteorites+by+Sara+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteorites">Meteorites</a>
 </h4>
 <p class="fr-book-author">By Sara Russell, Monica M. Grady</p>
-        
+
 <p class="fr-book-desc">Connects fireballs, meteorites, and atmospheric entry.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Meteorites+by+Sara+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -429,7 +429,7 @@ A delayed boom after a brilliant fireball is not an anomaly requiring a second o
 <a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Backyard Astronomer&#x27;s Guide">The Backyard Astronomer&#x27;s Guide</a>
 </h4>
 <p class="fr-book-author">By Terence Dickinson, Alan Dyer</p>
-        
+
 <p class="fr-book-desc">Helps readers interpret unusual sky observations.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

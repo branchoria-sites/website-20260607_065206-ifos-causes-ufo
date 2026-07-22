@@ -363,7 +363,7 @@ For investigators studying identified flying objects, Southern California functi
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
 </h4>
 <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
+
 <p class="fr-book-desc">Frames rocket plumes as part of the wider IFO problem.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -380,7 +380,7 @@ For investigators studying identified flying objects, Southern California functi
 <a href="https://www.amazon.com/s?k=Rocket+science+for+the+rest+of+us&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rocket science for the rest of us">Rocket science for the rest of us</a>
 </h4>
 <p class="fr-book-author">By Unknown author</p>
-        
+
 <p class="fr-book-desc">Helps explain launch visibility and high-altitude plume effects.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Rocket+science+for+the+rest+of+us&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -397,7 +397,7 @@ For investigators studying identified flying objects, Southern California functi
 <a href="https://www.amazon.com/s?k=Rocket+men+Robert+Kurson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rocket men">Rocket men</a>
 </h4>
 <p class="fr-book-author">By Robert Kurson</p>
-        
+
 <p class="fr-book-desc">First published 2018. Subjects: Project Apollo (U.S.), Apollo 8 (Spacecraft), Space flight to the moon, nyt:science=2018-05-13, New York...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Rocket+men+Robert+Kurson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -414,7 +414,7 @@ For investigators studying identified flying objects, Southern California functi
 <a href="https://www.amazon.com/s?k=Ignition%21+John+D.+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ignition!">Ignition!</a>
 </h4>
 <p class="fr-book-author">By John D. Clark</p>
-        
+
 <p class="fr-book-desc">First published 1972. Subjects: Liquid propellants, solid propellants, rocket fuel, Rocketry, chemistry.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Ignition%21+John+D.+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -17,7 +17,7 @@
   <ul class="sidebar-list" data-sidebar-level="{{ tree_level }}">
     {% if single_root_home_mode %}
     <li class="sidebar-item sidebar-home-item" data-sidebar-level="{{ tree_level }}">
-      <a class="sidebar-link sidebar-link-home{% if page.home or page.url == '/' %} is-current{% endif %}" href="{{ '/' | relative_url }}" title="{{ ui.home | default: 'Home' | escape }}" aria-label="{{ ui.home | default: 'Home' | escape }}" data-sidebar-search="home landing page"{% if page.home or page.url == '/' %} aria-current="page"{% endif %}>{{ ui.home | default: 'Home' }}</a>
+      <a class="sidebar-link sidebar-link-home{% if page.home or page.url == '/' %} is-current{% endif %}" href="{{ '/' | relative_url }}" title="{{ ui.home | default: 'Home' | escape }}" aria-label="{{ ui.home | default: 'Home' | escape }}"{% if page.home or page.url == '/' %} aria-current="page"{% endif %}>{{ ui.home | default: 'Home' }}</a>
     </li>
     {% endif %}
     {% for item in sidebar_items %}
@@ -40,7 +40,7 @@
       {% if has_children and is_fixed_home_root == false %}
       <button class="sidebar-toggle" type="button" data-sidebar-toggle aria-expanded="{% if is_expanded %}true{% else %}false{% endif %}" aria-label="{% if is_expanded %}{{ ui.collapse_section | default: 'Collapse section' | escape }}{% else %}{{ ui.expand_section | default: 'Expand section' | escape }}{% endif %}: {{ sidebar_full | escape }}" title="{% if is_expanded %}{{ ui.collapse_section | default: 'Collapse section' | escape }}{% else %}{{ ui.expand_section | default: 'Expand section' | escape }}{% endif %}">{% if is_expanded %}-{% else %}+{% endif %}</button>
       {% endif %}
-      <a class="sidebar-link{% if page.url == item.url %} is-current{% endif %}{% if is_fixed_home_root %} sidebar-link-root-topic{% endif %}" href="{{ item.url | relative_url }}" title="{{ sidebar_full | escape }}" aria-label="{{ ui.open_report | default: 'Open report' | escape }}: {{ sidebar_full | escape }}" data-sidebar-search="{{ item.title | downcase }} {{ sidebar_full | downcase }}"{% if page.url == item.url %} aria-current="page"{% endif %}>{{ item.title | default: item.title_full }}</a>
+      <a class="sidebar-link{% if page.url == item.url %} is-current{% endif %}{% if is_fixed_home_root %} sidebar-link-root-topic{% endif %}" href="{{ item.url | relative_url }}" title="{{ sidebar_full | escape }}" aria-label="{{ ui.open_report | default: 'Open report' | escape }}: {{ sidebar_full | escape }}"{% if page.url == item.url %} aria-current="page"{% endif %}>{{ item.title | default: item.title_full }}</a>
       {% if has_children %}
         {% assign next_level = tree_level | plus: 1 %}
         <div class="sidebar-children" data-sidebar-children>

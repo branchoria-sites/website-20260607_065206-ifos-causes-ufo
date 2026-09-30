@@ -79,7 +79,7 @@
       if (cleaned && cleaned !== original && node.childElementCount === 0) {
         node.textContent = cleaned;
       }
-      ["title", "aria-label", "data-sidebar-search"].forEach(function (attr) {
+      ["title", "aria-label"].forEach(function (attr) {
         if (!node.hasAttribute || !node.hasAttribute(attr)) {
           return;
         }

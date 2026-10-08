@@ -220,7 +220,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: The Stationary Light That Is Moving | ifos causes of UFO" aria-expanded="false" aria-controls="home-vertical-children-node-ifos-causes-of-ufo-3ed238-head-on-aircraft-28c46d"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'a-head-on-aircraft-can-look-like-a/' | relative_url }}" title="The Stationary Light That Is Moving | ifos causes of UFO" aria-label="Read more about The Stationary Light That Is Moving | ifos causes of UFO">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'a-head-on-aircraft-can-look-like-a/' | relative_url }}" title="The Stationary Light That Is Moving | ifos causes of UFO 3 ed 238" aria-label="Read more about The Stationary Light That Is Moving | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -240,7 +240,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'constant-bearing/' | relative_url }}" title="The geometry behind the hovering light illusion | ifos causes of UFO 3 ed 238 head on aircraft" aria-label="Read more about The geometry behind the hovering light illusion | ifos causes of UFO 3 ed 238 head on aircraft">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'constant-bearing/' | relative_url }}" title="The geometry behind the hovering light illusion | The Stationary Light That Is Moving | ifos causes of UFO 3 ed 238" aria-label="Read more about The geometry behind the hovering light illusion | The Stationary Light That Is Moving | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -260,7 +260,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'light-reveal/' | relative_url }}" title="When a white orb turns into an aircraft | ifos causes of UFO 3 ed 238 head on aircraft" aria-label="Read more about When a white orb turns into an aircraft | ifos causes of UFO 3 ed 238 head on aircraft">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'light-reveal/' | relative_url }}" title="When a white orb turns into an aircraft | The Stationary Light That Is Moving | ifos causes of UFO 3 ed 238" aria-label="Read more about When a white orb turns into an aircraft | The Stationary Light That Is Moving | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -280,7 +280,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'approach-paths/' | relative_url }}" title="When the same hovering light keeps coming back | ifos causes of UFO 3 ed 238 head on aircraft" aria-label="Read more about When the same hovering light keeps coming back | ifos causes of UFO 3 ed 238 head on aircraft">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'approach-paths/' | relative_url }}" title="When the same hovering light keeps coming back | The Stationary Light That Is Moving | ifos causes of UFO 3 ed 238" aria-label="Read more about When the same hovering light keeps coming back | The Stationary Light That Is Moving | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -300,7 +300,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'landing-lights/' | relative_url }}" title="Why landing lights can look like hovering UFOs | ifos causes of UFO 3 ed 238 head on aircraft" aria-label="Read more about Why landing lights can look like hovering UFOs | ifos causes of UFO 3 ed 238 head on aircraft">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'landing-lights/' | relative_url }}" title="Why landing lights can look like hovering UFOs | The Stationary Light That Is Moving | ifos causes of UFO 3 ed 238" aria-label="Read more about Why landing lights can look like hovering UFOs | The Stationary Light That Is Moving | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -320,7 +320,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'delayed-sound/' | relative_url }}" title="Why the silent UFO later sounds like a plane | ifos causes of UFO 3 ed 238 head on aircraft" aria-label="Read more about Why the silent UFO later sounds like a plane | ifos causes of UFO 3 ed 238 head on aircraft">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'delayed-sound/' | relative_url }}" title="Why the silent UFO later sounds like a plane | The Stationary Light That Is Moving | ifos causes of UFO 3 ed 238" aria-label="Read more about Why the silent UFO later sounds like a plane | The Stationary Light That Is Moving | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -344,7 +344,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: What Modern UAP Reviews Resolve | ifos causes of UFO" aria-expanded="false" aria-controls="home-vertical-children-node-ifos-causes-of-ufo-3ed238-aaro-resolved-cases-068261"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'aaro/' | relative_url }}" title="What Modern UAP Reviews Resolve | ifos causes of UFO" aria-label="Read more about What Modern UAP Reviews Resolve | ifos causes of UFO">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'aaro/' | relative_url }}" title="What Modern UAP Reviews Resolve | ifos causes of UFO 3 ed 238" aria-label="Read more about What Modern UAP Reviews Resolve | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -364,7 +364,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'case-closure/' | relative_url }}" title="How UAP Cases Become Identified Objects | ifos causes of UFO 3 ed 238 AARO resolved cases" aria-label="Read more about How UAP Cases Become Identified Objects | ifos causes of UFO 3 ed 238 AARO resolved cases">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'case-closure/' | relative_url }}" title="How UAP Cases Become Identified Objects | What Modern UAP Reviews Resolve | ifos causes of UFO 3 ed 238" aria-label="Read more about How UAP Cases Become Identified Objects | What Modern UAP Reviews Resolve | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -384,7 +384,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'birds-326689/' | relative_url }}" title="When Birds Turn Into Infrared Orbs | ifos causes of UFO 3 ed 238 AARO resolved cases" aria-label="Read more about When Birds Turn Into Infrared Orbs | ifos causes of UFO 3 ed 238 AARO resolved cases">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'birds-326689/' | relative_url }}" title="When Birds Turn Into Infrared Orbs | What Modern UAP Reviews Resolve | ifos causes of UFO 3 ed 238" aria-label="Read more about When Birds Turn Into Infrared Orbs | What Modern UAP Reviews Resolve | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -404,7 +404,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'reporting-bias/' | relative_url }}" title="Why AARO Reports Cluster Near Sensors | ifos causes of UFO 3 ed 238 AARO resolved cases" aria-label="Read more about Why AARO Reports Cluster Near Sensors | ifos causes of UFO 3 ed 238 AARO resolved cases">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'reporting-bias/' | relative_url }}" title="Why AARO Reports Cluster Near Sensors | What Modern UAP Reviews Resolve | ifos causes of UFO 3 ed 238" aria-label="Read more about Why AARO Reports Cluster Near Sensors | What Modern UAP Reviews Resolve | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -424,7 +424,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'balloons-357446/' | relative_url }}" title="Why Balloons Still Fool Modern Sensors | ifos causes of UFO 3 ed 238 AARO resolved cases" aria-label="Read more about Why Balloons Still Fool Modern Sensors | ifos causes of UFO 3 ed 238 AARO resolved cases">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'balloons-357446/' | relative_url }}" title="Why Balloons Still Fool Modern Sensors | What Modern UAP Reviews Resolve | ifos causes of UFO 3 ed 238" aria-label="Read more about Why Balloons Still Fool Modern Sensors | What Modern UAP Reviews Resolve | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -444,7 +444,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'starlink/' | relative_url }}" title="Why Starlink Can Look Like UAP | ifos causes of UFO 3 ed 238 AARO resolved cases" aria-label="Read more about Why Starlink Can Look Like UAP | ifos causes of UFO 3 ed 238 AARO resolved cases">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'starlink/' | relative_url }}" title="Why Starlink Can Look Like UAP | What Modern UAP Reviews Resolve | ifos causes of UFO 3 ed 238" aria-label="Read more about Why Starlink Can Look Like UAP | What Modern UAP Reviews Resolve | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -468,7 +468,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why Ordinary Aircraft Look So Strange | ifos causes of UFO" aria-expanded="false" aria-controls="home-vertical-children-node-ifos-causes-of-ufo-3ed238-aircraft-lights-8d8253"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'aircraft-lights/' | relative_url }}" title="Why Ordinary Aircraft Look So Strange | ifos causes of UFO" aria-label="Read more about Why Ordinary Aircraft Look So Strange | ifos causes of UFO">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'aircraft-lights/' | relative_url }}" title="Why Ordinary Aircraft Look So Strange | ifos causes of UFO 3 ed 238" aria-label="Read more about Why Ordinary Aircraft Look So Strange | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -488,7 +488,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'sun-glints/' | relative_url }}" title="How Sun Glints Turn Planes Into UFOs | ifos causes of UFO 3 ed 238 aircraft lights" aria-label="Read more about How Sun Glints Turn Planes Into UFOs | ifos causes of UFO 3 ed 238 aircraft lights">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'sun-glints/' | relative_url }}" title="How Sun Glints Turn Planes Into UFOs | Why Ordinary Aircraft Look So Strange | ifos causes of UFO 3 ed 238" aria-label="Read more about How Sun Glints Turn Planes Into UFOs | Why Ordinary Aircraft Look So Strange | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -508,7 +508,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'blue-book-70ab5a/' | relative_url }}" title="What Blue Book Really Said About Aircraft | ifos causes of UFO 3 ed 238 aircraft lights" aria-label="Read more about What Blue Book Really Said About Aircraft | ifos causes of UFO 3 ed 238 aircraft lights">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'blue-book-70ab5a/' | relative_url }}" title="What Blue Book Really Said About Aircraft | Why Ordinary Aircraft Look So Strange | ifos causes of UFO 3 ed 238" aria-label="Read more about What Blue Book Really Said About Aircraft | Why Ordinary Aircraft Look So Strange | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -528,7 +528,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'nav-lights/' | relative_url }}" title="When Aircraft Lights Do Not Look Like Aircraft | ifos causes of UFO 3 ed 238 aircraft lights" aria-label="Read more about When Aircraft Lights Do Not Look Like Aircraft | ifos causes of UFO 3 ed 238 aircraft lights">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'nav-lights/' | relative_url }}" title="When Aircraft Lights Do Not Look Like Aircraft | Why Ordinary Aircraft Look So Strange | ifos causes of UFO 3 ed 238" aria-label="Read more about When Aircraft Lights Do Not Look Like Aircraft | Why Ordinary Aircraft Look So Strange | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -548,7 +548,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'head-on-lights/' | relative_url }}" title="Why a Plane Can Look Like It Is Hovering | ifos causes of UFO 3 ed 238 aircraft lights" aria-label="Read more about Why a Plane Can Look Like It Is Hovering | ifos causes of UFO 3 ed 238 aircraft lights">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'head-on-lights/' | relative_url }}" title="Why a Plane Can Look Like It Is Hovering | Why Ordinary Aircraft Look So Strange | ifos causes of UFO 3 ed 238" aria-label="Read more about Why a Plane Can Look Like It Is Hovering | Why Ordinary Aircraft Look So Strange | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -568,7 +568,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'airport-approach-corridors/' | relative_url }}" title="Why Airport Approaches Produce Strange Lights | ifos causes of UFO 3 ed 238 aircraft lights" aria-label="Read more about Why Airport Approaches Produce Strange Lights | ifos causes of UFO 3 ed 238 aircraft lights">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'airport-approach-corridors/' | relative_url }}" title="Why Airport Approaches Produce Strange Lights | Why Ordinary Aircraft Look So Strange | ifos causes of UFO 3 ed 238" aria-label="Read more about Why Airport Approaches Produce Strange Lights | Why Ordinary Aircraft Look So Strange | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -592,7 +592,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: When Weather Makes Shapes in the Sky | ifos causes of UFO" aria-expanded="false" aria-controls="home-vertical-children-node-ifos-causes-of-ufo-3ed238-clouds-mirages-346043"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'atmosphere/' | relative_url }}" title="When Weather Makes Shapes in the Sky | ifos causes of UFO" aria-label="Read more about When Weather Makes Shapes in the Sky | ifos causes of UFO">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'atmosphere/' | relative_url }}" title="When Weather Makes Shapes in the Sky | ifos causes of UFO 3 ed 238" aria-label="Read more about When Weather Makes Shapes in the Sky | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -612,7 +612,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'cloud-shapes/' | relative_url }}" title="Can clouds draw a fake spacecraft? | ifos causes of UFO 3 ed 238 clouds mirages" aria-label="Read more about Can clouds draw a fake spacecraft? | ifos causes of UFO 3 ed 238 clouds mirages">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'cloud-shapes/' | relative_url }}" title="Can clouds draw a fake spacecraft? | When Weather Makes Shapes in the Sky | ifos causes of UFO 3 ed 238" aria-label="Read more about Can clouds draw a fake spacecraft? | When Weather Makes Shapes in the Sky | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -632,7 +632,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'lenticulars/' | relative_url }}" title="The cloud that really looks like a saucer | ifos causes of UFO 3 ed 238 clouds mirages" aria-label="Read more about The cloud that really looks like a saucer | ifos causes of UFO 3 ed 238 clouds mirages">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'lenticulars/' | relative_url }}" title="The cloud that really looks like a saucer | When Weather Makes Shapes in the Sky | ifos causes of UFO 3 ed 238" aria-label="Read more about The cloud that really looks like a saucer | When Weather Makes Shapes in the Sky | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -652,7 +652,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'haze-halos/' | relative_url }}" title="When haze makes lights look enormous | ifos causes of UFO 3 ed 238 clouds mirages" aria-label="Read more about When haze makes lights look enormous | ifos causes of UFO 3 ed 238 clouds mirages">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'haze-halos/' | relative_url }}" title="When haze makes lights look enormous | When Weather Makes Shapes in the Sky | ifos causes of UFO 3 ed 238" aria-label="Read more about When haze makes lights look enormous | When Weather Makes Shapes in the Sky | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -672,7 +672,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'mirage-lift/' | relative_url }}" title="When the horizon puts objects in the sky | ifos causes of UFO 3 ed 238 clouds mirages" aria-label="Read more about When the horizon puts objects in the sky | ifos causes of UFO 3 ed 238 clouds mirages">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'mirage-lift/' | relative_url }}" title="When the horizon puts objects in the sky | When Weather Makes Shapes in the Sky | ifos causes of UFO 3 ed 238" aria-label="Read more about When the horizon puts objects in the sky | When Weather Makes Shapes in the Sky | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -692,7 +692,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'twinkling-stars/' | relative_url }}" title="Why a star can look alive | ifos causes of UFO 3 ed 238 clouds mirages" aria-label="Read more about Why a star can look alive | ifos causes of UFO 3 ed 238 clouds mirages">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'twinkling-stars/' | relative_url }}" title="Why a star can look alive | When Weather Makes Shapes in the Sky | ifos causes of UFO 3 ed 238" aria-label="Read more about Why a star can look alive | When Weather Makes Shapes in the Sky | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -716,7 +716,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why Balloons Become Flying Saucers | ifos causes of UFO" aria-expanded="false" aria-controls="home-vertical-children-node-ifos-causes-of-ufo-3ed238-weather-balloons-fdd057"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'balloons/' | relative_url }}" title="Why Balloons Become Flying Saucers | ifos causes of UFO" aria-label="Read more about Why Balloons Become Flying Saucers | ifos causes of UFO">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'balloons/' | relative_url }}" title="Why Balloons Become Flying Saucers | ifos causes of UFO 3 ed 238" aria-label="Read more about Why Balloons Become Flying Saucers | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -736,7 +736,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'launch-checks-b1c793/' | relative_url }}" title="How Investigators Check Balloon Sightings | ifos causes of UFO 3 ed 238 weather balloons" aria-label="Read more about How Investigators Check Balloon Sightings | ifos causes of UFO 3 ed 238 weather balloons">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'launch-checks-b1c793/' | relative_url }}" title="How Investigators Check Balloon Sightings | Why Balloons Become Flying Saucers | ifos causes of UFO 3 ed 238" aria-label="Read more about How Investigators Check Balloon Sightings | Why Balloons Become Flying Saucers | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -756,7 +756,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'science-balloons/' | relative_url }}" title="The Giant Balloons That Do Look Weird | ifos causes of UFO 3 ed 238 weather balloons" aria-label="Read more about The Giant Balloons That Do Look Weird | ifos causes of UFO 3 ed 238 weather balloons">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'science-balloons/' | relative_url }}" title="The Giant Balloons That Do Look Weird | Why Balloons Become Flying Saucers | ifos causes of UFO 3 ed 238" aria-label="Read more about The Giant Balloons That Do Look Weird | Why Balloons Become Flying Saucers | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -776,7 +776,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'wind-drift-8cd157/' | relative_url }}" title="When Wind Drift Looks Like Control | ifos causes of UFO 3 ed 238 weather balloons" aria-label="Read more about When Wind Drift Looks Like Control | ifos causes of UFO 3 ed 238 weather balloons">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'wind-drift-8cd157/' | relative_url }}" title="When Wind Drift Looks Like Control | Why Balloons Become Flying Saucers | ifos causes of UFO 3 ed 238" aria-label="Read more about When Wind Drift Looks Like Control | Why Balloons Become Flying Saucers | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -796,7 +796,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'sky-scale/' | relative_url }}" title="Why Balloons Look Bigger Than They Are | ifos causes of UFO 3 ed 238 weather balloons" aria-label="Read more about Why Balloons Look Bigger Than They Are | ifos causes of UFO 3 ed 238 weather balloons">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'sky-scale/' | relative_url }}" title="Why Balloons Look Bigger Than They Are | Why Balloons Become Flying Saucers | ifos causes of UFO 3 ed 238" aria-label="Read more about Why Balloons Look Bigger Than They Are | Why Balloons Become Flying Saucers | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -816,7 +816,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'roswell/' | relative_url }}" title="Why Roswell Made Balloons Controversial | ifos causes of UFO 3 ed 238 weather balloons" aria-label="Read more about Why Roswell Made Balloons Controversial | ifos causes of UFO 3 ed 238 weather balloons">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'roswell/' | relative_url }}" title="Why Roswell Made Balloons Controversial | Why Balloons Become Flying Saucers | ifos causes of UFO 3 ed 238" aria-label="Read more about Why Roswell Made Balloons Controversial | Why Balloons Become Flying Saucers | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -840,7 +840,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: How Birds Become Fast UFOs | ifos causes of UFO" aria-expanded="false" aria-controls="home-vertical-children-node-ifos-causes-of-ufo-3ed238-birds-ufo-reports-1b9c40"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'birds/' | relative_url }}" title="How Birds Become Fast UFOs | ifos causes of UFO" aria-label="Read more about How Birds Become Fast UFOs | ifos causes of UFO">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'birds/' | relative_url }}" title="How Birds Become Fast UFOs | ifos causes of UFO 3 ed 238" aria-label="Read more about How Birds Become Fast UFOs | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -860,7 +860,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'pelican-glints/' | relative_url }}" title="Can Pelicans Look Like Silver Discs? | ifos causes of UFO 3 ed 238 birds UFO reports" aria-label="Read more about Can Pelicans Look Like Silver Discs? | ifos causes of UFO 3 ed 238 birds UFO reports">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'pelican-glints/' | relative_url }}" title="Can Pelicans Look Like Silver Discs? | How Birds Become Fast UFOs | ifos causes of UFO 3 ed 238" aria-label="Read more about Can Pelicans Look Like Silver Discs? | How Birds Become Fast UFOs | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -880,7 +880,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'field-checks/' | relative_url }}" title="How Investigators Test a Bird Explanation | ifos causes of UFO 3 ed 238 birds UFO reports" aria-label="Read more about How Investigators Test a Bird Explanation | ifos causes of UFO 3 ed 238 birds UFO reports">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'field-checks/' | relative_url }}" title="How Investigators Test a Bird Explanation | How Birds Become Fast UFOs | ifos causes of UFO 3 ed 238" aria-label="Read more about How Investigators Test a Bird Explanation | How Birds Become Fast UFOs | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -900,7 +900,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'flocks/' | relative_url }}" title="When Bird Flocks Become Flying Formations | ifos causes of UFO 3 ed 238 birds UFO reports" aria-label="Read more about When Bird Flocks Become Flying Formations | ifos causes of UFO 3 ed 238 birds UFO reports">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'flocks/' | relative_url }}" title="When Bird Flocks Become Flying Formations | How Birds Become Fast UFOs | ifos causes of UFO 3 ed 238" aria-label="Read more about When Bird Flocks Become Flying Formations | How Birds Become Fast UFOs | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -920,7 +920,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'aaro-ir-birds/' | relative_url }}" title="When Military Infrared Footage Shows Birds | ifos causes of UFO 3 ed 238 birds UFO reports" aria-label="Read more about When Military Infrared Footage Shows Birds | ifos causes of UFO 3 ed 238 birds UFO reports">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'aaro-ir-birds/' | relative_url }}" title="When Military Infrared Footage Shows Birds | How Birds Become Fast UFOs | ifos causes of UFO 3 ed 238" aria-label="Read more about When Military Infrared Footage Shows Birds | How Birds Become Fast UFOs | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -940,7 +940,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'parallax-a7662a/' | relative_url }}" title="Why Nearby Birds Can Look Impossibly Fast | ifos causes of UFO 3 ed 238 birds UFO reports" aria-label="Read more about Why Nearby Birds Can Look Impossibly Fast | ifos causes of UFO 3 ed 238 birds UFO reports">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'parallax-a7662a/' | relative_url }}" title="Why Nearby Birds Can Look Impossibly Fast | How Birds Become Fast UFOs | ifos causes of UFO 3 ed 238" aria-label="Read more about Why Nearby Birds Can Look Impossibly Fast | How Birds Become Fast UFOs | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -964,7 +964,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: What Blue Book Teaches About IFOs | ifos causes of UFO" aria-expanded="false" aria-controls="home-vertical-children-node-ifos-causes-of-ufo-3ed238-project-blue-book-if-e38e81"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'blue-book/' | relative_url }}" title="What Blue Book Teaches About IFOs | ifos causes of UFO" aria-label="Read more about What Blue Book Teaches About IFOs | ifos causes of UFO">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'blue-book/' | relative_url }}" title="What Blue Book Teaches About IFOs | ifos causes of UFO 3 ed 238" aria-label="Read more about What Blue Book Teaches About IFOs | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -984,7 +984,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'ifo-pattern/' | relative_url }}" title="How UFO Reports Became IFOs | ifos causes of UFO 3 ed 238 project blue book" aria-label="Read more about How UFO Reports Became IFOs | ifos causes of UFO 3 ed 238 project blue book">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'ifo-pattern/' | relative_url }}" title="How UFO Reports Became IFOs | What Blue Book Teaches About IFOs | ifos causes of UFO 3 ed 238" aria-label="Read more about How UFO Reports Became IFOs | What Blue Book Teaches About IFOs | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -1004,7 +1004,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'traffic-checks/' | relative_url }}" title="The Hidden Traffic Behind UFO Sightings | ifos causes of UFO 3 ed 238 project blue book" aria-label="Read more about The Hidden Traffic Behind UFO Sightings | ifos causes of UFO 3 ed 238 project blue book">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'traffic-checks/' | relative_url }}" title="The Hidden Traffic Behind UFO Sightings | What Blue Book Teaches About IFOs | ifos causes of UFO 3 ed 238" aria-label="Read more about The Hidden Traffic Behind UFO Sightings | What Blue Book Teaches About IFOs | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -1024,7 +1024,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'three-labels/' | relative_url }}" title="What Did Unidentified Really Mean? | ifos causes of UFO 3 ed 238 project blue book" aria-label="Read more about What Did Unidentified Really Mean? | ifos causes of UFO 3 ed 238 project blue book">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'three-labels/' | relative_url }}" title="What Did Unidentified Really Mean? | What Blue Book Teaches About IFOs | ifos causes of UFO 3 ed 238" aria-label="Read more about What Did Unidentified Really Mean? | What Blue Book Teaches About IFOs | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -1044,7 +1044,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'report-14/' | relative_url }}" title="What the Big Blue Book Study Really Measured | ifos causes of UFO 3 ed 238 project blue book" aria-label="Read more about What the Big Blue Book Study Really Measured | ifos causes of UFO 3 ed 238 project blue book">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'report-14/' | relative_url }}" title="What the Big Blue Book Study Really Measured | What Blue Book Teaches About IFOs | ifos causes of UFO 3 ed 238" aria-label="Read more about What the Big Blue Book Study Really Measured | What Blue Book Teaches About IFOs | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -1064,7 +1064,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'sky-objects/' | relative_url }}" title="When Planets Looked Like UFOs | ifos causes of UFO 3 ed 238 project blue book" aria-label="Read more about When Planets Looked Like UFOs | ifos causes of UFO 3 ed 238 project blue book">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'sky-objects/' | relative_url }}" title="When Planets Looked Like UFOs | What Blue Book Teaches About IFOs | ifos causes of UFO 3 ed 238" aria-label="Read more about When Planets Looked Like UFOs | What Blue Book Teaches About IFOs | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -1088,7 +1088,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why Jet Trails Glow Like UFOs | ifos causes of UFO" aria-expanded="false" aria-controls="home-vertical-children-node-ifos-causes-of-ufo-3ed238-sunlit-contrails-bbc69e"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'contrails/' | relative_url }}" title="Why Jet Trails Glow Like UFOs | ifos causes of UFO" aria-label="Read more about Why Jet Trails Glow Like UFOs | ifos causes of UFO">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'contrails/' | relative_url }}" title="Why Jet Trails Glow Like UFOs | ifos causes of UFO 3 ed 238" aria-label="Read more about Why Jet Trails Glow Like UFOs | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -1108,7 +1108,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'missile-illusion/' | relative_url }}" title="When a Jet Trail Looks Like a Missile | ifos causes of UFO 3 ed 238 sunlit contrails" aria-label="Read more about When a Jet Trail Looks Like a Missile | ifos causes of UFO 3 ed 238 sunlit contrails">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'missile-illusion/' | relative_url }}" title="When a Jet Trail Looks Like a Missile | Why Jet Trails Glow Like UFOs | ifos causes of UFO 3 ed 238" aria-label="Read more about When a Jet Trail Looks Like a Missile | Why Jet Trails Glow Like UFOs | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -1128,7 +1128,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'broken-trails/' | relative_url }}" title="When Contrails Look Like Structured UFOs | ifos causes of UFO 3 ed 238 sunlit contrails" aria-label="Read more about When Contrails Look Like Structured UFOs | ifos causes of UFO 3 ed 238 sunlit contrails">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'broken-trails/' | relative_url }}" title="When Contrails Look Like Structured UFOs | Why Jet Trails Glow Like UFOs | ifos causes of UFO 3 ed 238" aria-label="Read more about When Contrails Look Like Structured UFOs | Why Jet Trails Glow Like UFOs | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -1148,7 +1148,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'afterburners/' | relative_url }}" title="When Jet Exhaust Becomes the Bright Object | ifos causes of UFO 3 ed 238 sunlit contrails" aria-label="Read more about When Jet Exhaust Becomes the Bright Object | ifos causes of UFO 3 ed 238 sunlit contrails">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'afterburners/' | relative_url }}" title="When Jet Exhaust Becomes the Bright Object | Why Jet Trails Glow Like UFOs | ifos causes of UFO 3 ed 238" aria-label="Read more about When Jet Exhaust Becomes the Bright Object | Why Jet Trails Glow Like UFOs | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -1168,7 +1168,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'fireball-trails/' | relative_url }}" title="Why Some Fireballs Are Really Jet Trails | ifos causes of UFO 3 ed 238 sunlit contrails" aria-label="Read more about Why Some Fireballs Are Really Jet Trails | ifos causes of UFO 3 ed 238 sunlit contrails">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'fireball-trails/' | relative_url }}" title="Why Some Fireballs Are Really Jet Trails | Why Jet Trails Glow Like UFOs | ifos causes of UFO 3 ed 238" aria-label="Read more about Why Some Fireballs Are Really Jet Trails | Why Jet Trails Glow Like UFOs | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -1188,7 +1188,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'hidden-aircraft/' | relative_url }}" title="Why the Plane Vanishes but the Trail Glows | ifos causes of UFO 3 ed 238 sunlit contrails" aria-label="Read more about Why the Plane Vanishes but the Trail Glows | ifos causes of UFO 3 ed 238 sunlit contrails">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'hidden-aircraft/' | relative_url }}" title="Why the Plane Vanishes but the Trail Glows | Why Jet Trails Glow Like UFOs | ifos causes of UFO 3 ed 238" aria-label="Read more about Why the Plane Vanishes but the Trail Glows | Why Jet Trails Glow Like UFOs | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -1212,7 +1212,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: When a Drone Becomes a UFO | ifos causes of UFO" aria-expanded="false" aria-controls="home-vertical-children-node-ifos-causes-of-ufo-3ed238-drones-modern-ufo-1d248c"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'drones/' | relative_url }}" title="When a Drone Becomes a UFO | ifos causes of UFO" aria-label="Read more about When a Drone Becomes a UFO | ifos causes of UFO">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'drones/' | relative_url }}" title="When a Drone Becomes a UFO | ifos causes of UFO 3 ed 238" aria-label="Read more about When a Drone Becomes a UFO | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -1232,7 +1232,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'drone-rules/' | relative_url }}" title="Can drone rules help explain UFO sightings? | ifos causes of UFO 3 ed 238 drones modern UFO" aria-label="Read more about Can drone rules help explain UFO sightings? | ifos causes of UFO 3 ed 238 drones modern UFO">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'drone-rules/' | relative_url }}" title="Can drone rules help explain UFO sightings? | When a Drone Becomes a UFO | ifos causes of UFO 3 ed 238" aria-label="Read more about Can drone rules help explain UFO sightings? | When a Drone Becomes a UFO | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -1252,7 +1252,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'new-jersey/' | relative_url }}" title="How the New Jersey drone scare snowballed | ifos causes of UFO 3 ed 238 drones modern UFO" aria-label="Read more about How the New Jersey drone scare snowballed | ifos causes of UFO 3 ed 238 drones modern UFO">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'new-jersey/' | relative_url }}" title="How the New Jersey drone scare snowballed | When a Drone Becomes a UFO | ifos causes of UFO 3 ed 238" aria-label="Read more about How the New Jersey drone scare snowballed | When a Drone Becomes a UFO | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -1272,7 +1272,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'not-a-drone/' | relative_url }}" title="When a UFO probably is not a drone | ifos causes of UFO 3 ed 238 drones modern UFO" aria-label="Read more about When a UFO probably is not a drone | ifos causes of UFO 3 ed 238 drones modern UFO">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'not-a-drone/' | relative_url }}" title="When a UFO probably is not a drone | When a Drone Becomes a UFO | ifos causes of UFO 3 ed 238" aria-label="Read more about When a UFO probably is not a drone | When a Drone Becomes a UFO | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -1292,7 +1292,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'light-patterns/' | relative_url }}" title="When drone lights look stranger than aircraft | ifos causes of UFO 3 ed 238 drones modern UFO" aria-label="Read more about When drone lights look stranger than aircraft | ifos causes of UFO 3 ed 238 drones modern UFO">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'light-patterns/' | relative_url }}" title="When drone lights look stranger than aircraft | When a Drone Becomes a UFO | ifos causes of UFO 3 ed 238" aria-label="Read more about When drone lights look stranger than aircraft | When a Drone Becomes a UFO | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -1312,7 +1312,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'hovering-lights/' | relative_url }}" title="Why drone lights can look frozen in place | ifos causes of UFO 3 ed 238 drones modern UFO" aria-label="Read more about Why drone lights can look frozen in place | ifos causes of UFO 3 ed 238 drones modern UFO">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'hovering-lights/' | relative_url }}" title="Why drone lights can look frozen in place | When a Drone Becomes a UFO | ifos causes of UFO 3 ed 238" aria-label="Read more about Why drone lights can look frozen in place | When a Drone Becomes a UFO | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -1336,7 +1336,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: What to Check Before Calling It a UFO | ifos causes of UFO" aria-expanded="false" aria-controls="home-vertical-children-node-ifos-causes-of-ufo-3ed238-ufo-first-checks-d02b3e"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'first-checks/' | relative_url }}" title="What to Check Before Calling It a UFO | ifos causes of UFO" aria-label="Read more about What to Check Before Calling It a UFO | ifos causes of UFO">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'first-checks/' | relative_url }}" title="What to Check Before Calling It a UFO | ifos causes of UFO 3 ed 238" aria-label="Read more about What to Check Before Calling It a UFO | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -1356,7 +1356,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'flight-tracks/' | relative_url }}" title="Can a flight tracker explain the sighting? | ifos causes of UFO 3 ed 238 UFO first checks" aria-label="Read more about Can a flight tracker explain the sighting? | ifos causes of UFO 3 ed 238 UFO first checks">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'flight-tracks/' | relative_url }}" title="Can a flight tracker explain the sighting? | What to Check Before Calling It a UFO | ifos causes of UFO 3 ed 238" aria-label="Read more about Can a flight tracker explain the sighting? | What to Check Before Calling It a UFO | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -1376,7 +1376,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'weather-checks/' | relative_url }}" title="Did the weather make it look strange? | ifos causes of UFO 3 ed 238 UFO first checks" aria-label="Read more about Did the weather make it look strange? | ifos causes of UFO 3 ed 238 UFO first checks">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'weather-checks/' | relative_url }}" title="Did the weather make it look strange? | What to Check Before Calling It a UFO | ifos causes of UFO 3 ed 238" aria-label="Read more about Did the weather make it look strange? | What to Check Before Calling It a UFO | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -1396,7 +1396,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'sky-maps/' | relative_url }}" title="Was it already in the sky? | ifos causes of UFO 3 ed 238 UFO first checks" aria-label="Read more about Was it already in the sky? | ifos causes of UFO 3 ed 238 UFO first checks">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'sky-maps/' | relative_url }}" title="Was it already in the sky? | What to Check Before Calling It a UFO | ifos causes of UFO 3 ed 238" aria-label="Read more about Was it already in the sky? | What to Check Before Calling It a UFO | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -1416,7 +1416,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'direction-notes/' | relative_url }}" title="Where exactly were they looking? | ifos causes of UFO 3 ed 238 UFO first checks" aria-label="Read more about Where exactly were they looking? | ifos causes of UFO 3 ed 238 UFO first checks">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'direction-notes/' | relative_url }}" title="Where exactly were they looking? | What to Check Before Calling It a UFO | ifos causes of UFO 3 ed 238" aria-label="Read more about Where exactly were they looking? | What to Check Before Calling It a UFO | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -1436,7 +1436,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'original-files/' | relative_url }}" title="Why the original UFO file matters | ifos causes of UFO 3 ed 238 UFO first checks" aria-label="Read more about Why the original UFO file matters | ifos causes of UFO 3 ed 238 UFO first checks">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'original-files/' | relative_url }}" title="Why the original UFO file matters | What to Check Before Calling It a UFO | ifos causes of UFO 3 ed 238" aria-label="Read more about Why the original UFO file matters | What to Check Before Calling It a UFO | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -1460,7 +1460,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why Flares Look Like Hovering Craft | ifos causes of UFO" aria-expanded="false" aria-controls="home-vertical-children-node-ifos-causes-of-ufo-3ed238-military-flares-abb62f"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'flares/' | relative_url }}" title="Why Flares Look Like Hovering Craft | ifos causes of UFO" aria-label="Read more about Why Flares Look Like Hovering Craft | ifos causes of UFO">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'flares/' | relative_url }}" title="Why Flares Look Like Hovering Craft | ifos causes of UFO 3 ed 238" aria-label="Read more about Why Flares Look Like Hovering Craft | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -1480,7 +1480,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'ranges/' | relative_url }}" title="How ranges reveal flare sightings | ifos causes of UFO 3 ed 238 military flares" aria-label="Read more about How ranges reveal flare sightings | ifos causes of UFO 3 ed 238 military flares">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'ranges/' | relative_url }}" title="How ranges reveal flare sightings | Why Flares Look Like Hovering Craft | ifos causes of UFO 3 ed 238" aria-label="Read more about How ranges reveal flare sightings | Why Flares Look Like Hovering Craft | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -1500,7 +1500,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'phoenix-lights/' | relative_url }}" title="What flares explain in Phoenix | ifos causes of UFO 3 ed 238 military flares" aria-label="Read more about What flares explain in Phoenix | ifos causes of UFO 3 ed 238 military flares">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'phoenix-lights/' | relative_url }}" title="What flares explain in Phoenix | Why Flares Look Like Hovering Craft | ifos causes of UFO 3 ed 238" aria-label="Read more about What flares explain in Phoenix | Why Flares Look Like Hovering Craft | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -1520,7 +1520,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'san-diego/' | relative_url }}" title="When training flares go viral | ifos causes of UFO 3 ed 238 military flares" aria-label="Read more about When training flares go viral | ifos causes of UFO 3 ed 238 military flares">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'san-diego/' | relative_url }}" title="When training flares go viral | Why Flares Look Like Hovering Craft | ifos causes of UFO 3 ed 238" aria-label="Read more about When training flares go viral | Why Flares Look Like Hovering Craft | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -1540,7 +1540,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'hovering-flares/' | relative_url }}" title="Why falling flares seem to hover | ifos causes of UFO 3 ed 238 military flares" aria-label="Read more about Why falling flares seem to hover | ifos causes of UFO 3 ed 238 military flares">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'hovering-flares/' | relative_url }}" title="Why falling flares seem to hover | Why Flares Look Like Hovering Craft | ifos causes of UFO 3 ed 238" aria-label="Read more about Why falling flares seem to hover | Why Flares Look Like Hovering Craft | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -1560,7 +1560,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'fade-outs/' | relative_url }}" title="Why flare lights wink out | ifos causes of UFO 3 ed 238 military flares" aria-label="Read more about Why flare lights wink out | ifos causes of UFO 3 ed 238 military flares">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'fade-outs/' | relative_url }}" title="Why flare lights wink out | Why Flares Look Like Hovering Craft | ifos causes of UFO 3 ed 238" aria-label="Read more about Why flare lights wink out | Why Flares Look Like Hovering Craft | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -1584,7 +1584,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: How Flight Data Solves UFO Sightings | ifos causes of UFO" aria-expanded="false" aria-controls="home-vertical-children-node-ifos-causes-of-ufo-3ed238-flight-tracking-a49590"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'flight-tracking/' | relative_url }}" title="How Flight Data Solves UFO Sightings | ifos causes of UFO" aria-label="Read more about How Flight Data Solves UFO Sightings | ifos causes of UFO">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'flight-tracking/' | relative_url }}" title="How Flight Data Solves UFO Sightings | ifos causes of UFO 3 ed 238" aria-label="Read more about How Flight Data Solves UFO Sightings | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -1604,7 +1604,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'appearance-clues/' | relative_url }}" title="Do the lights match the flight track? | ifos causes of UFO 3 ed 238 flight tracking" aria-label="Read more about Do the lights match the flight track? | ifos causes of UFO 3 ed 238 flight tracking">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'appearance-clues/' | relative_url }}" title="Do the lights match the flight track? | How Flight Data Solves UFO Sightings | ifos causes of UFO 3 ed 238" aria-label="Read more about Do the lights match the flight track? | How Flight Data Solves UFO Sightings | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -1624,7 +1624,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'chile-ir-case/' | relative_url }}" title="The infrared UFO that matched an airliner | ifos causes of UFO 3 ed 238 flight tracking" aria-label="Read more about The infrared UFO that matched an airliner | ifos causes of UFO 3 ed 238 flight tracking">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'chile-ir-case/' | relative_url }}" title="The infrared UFO that matched an airliner | How Flight Data Solves UFO Sightings | ifos causes of UFO 3 ed 238" aria-label="Read more about The infrared UFO that matched an airliner | How Flight Data Solves UFO Sightings | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -1644,7 +1644,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'sight-lines/' | relative_url }}" title="Was the plane really where they looked? | ifos causes of UFO 3 ed 238 flight tracking" aria-label="Read more about Was the plane really where they looked? | ifos causes of UFO 3 ed 238 flight tracking">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'sight-lines/' | relative_url }}" title="Was the plane really where they looked? | How Flight Data Solves UFO Sightings | ifos causes of UFO 3 ed 238" aria-label="Read more about Was the plane really where they looked? | How Flight Data Solves UFO Sightings | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -1664,7 +1664,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'ads-b-data/' | relative_url }}" title="What flight trackers really know | ifos causes of UFO 3 ed 238 flight tracking" aria-label="Read more about What flight trackers really know | ifos causes of UFO 3 ed 238 flight tracking">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'ads-b-data/' | relative_url }}" title="What flight trackers really know | How Flight Data Solves UFO Sightings | ifos causes of UFO 3 ed 238" aria-label="Read more about What flight trackers really know | How Flight Data Solves UFO Sightings | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -1684,7 +1684,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'missing-tracks/' | relative_url }}" title="When no flight track appears on the map | ifos causes of UFO 3 ed 238 flight tracking" aria-label="Read more about When no flight track appears on the map | ifos causes of UFO 3 ed 238 flight tracking">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'missing-tracks/' | relative_url }}" title="When no flight track appears on the map | How Flight Data Solves UFO Sightings | ifos causes of UFO 3 ed 238" aria-label="Read more about When no flight track appears on the map | How Flight Data Solves UFO Sightings | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -1708,7 +1708,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: When UFO Reports Are Manufactured | ifos causes of UFO" aria-expanded="false" aria-controls="home-vertical-children-node-ifos-causes-of-ufo-3ed238-ufo-hoaxes-c16965"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'hoaxes/' | relative_url }}" title="When UFO Reports Are Manufactured | ifos causes of UFO" aria-label="Read more about When UFO Reports Are Manufactured | ifos causes of UFO">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'hoaxes/' | relative_url }}" title="When UFO Reports Are Manufactured | ifos causes of UFO 3 ed 238" aria-label="Read more about When UFO Reports Are Manufactured | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -1728,7 +1728,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'mj-12-papers/' | relative_url }}" title="Can Leaked UFO Documents Be Trusted? | ifos causes of UFO 3 ed 238 UFO hoaxes" aria-label="Read more about Can Leaked UFO Documents Be Trusted? | ifos causes of UFO 3 ed 238 UFO hoaxes">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'mj-12-papers/' | relative_url }}" title="Can Leaked UFO Documents Be Trusted? | When UFO Reports Are Manufactured | ifos causes of UFO 3 ed 238" aria-label="Read more about Can Leaked UFO Documents Be Trusted? | When UFO Reports Are Manufactured | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -1748,7 +1748,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'roswell-slides/' | relative_url }}" title="How Promotion Inflated the Roswell Slides | ifos causes of UFO 3 ed 238 UFO hoaxes" aria-label="Read more about How Promotion Inflated the Roswell Slides | ifos causes of UFO 3 ed 238 UFO hoaxes">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'roswell-slides/' | relative_url }}" title="How Promotion Inflated the Roswell Slides | When UFO Reports Are Manufactured | ifos causes of UFO 3 ed 238" aria-label="Read more about How Promotion Inflated the Roswell Slides | When UFO Reports Are Manufactured | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -1768,7 +1768,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'morris-county/' | relative_url }}" title="When a UFO Hoax Creates Real Witnesses | ifos causes of UFO 3 ed 238 UFO hoaxes" aria-label="Read more about When a UFO Hoax Creates Real Witnesses | ifos causes of UFO 3 ed 238 UFO hoaxes">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'morris-county/' | relative_url }}" title="When a UFO Hoax Creates Real Witnesses | When UFO Reports Are Manufactured | ifos causes of UFO 3 ed 238" aria-label="Read more about When a UFO Hoax Creates Real Witnesses | When UFO Reports Are Manufactured | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -1788,7 +1788,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'hoax-tactics/' | relative_url }}" title="Why Convincing UFO Hoaxes Look Imperfect | ifos causes of UFO 3 ed 238 UFO hoaxes" aria-label="Read more about Why Convincing UFO Hoaxes Look Imperfect | ifos causes of UFO 3 ed 238 UFO hoaxes">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'hoax-tactics/' | relative_url }}" title="Why Convincing UFO Hoaxes Look Imperfect | When UFO Reports Are Manufactured | ifos causes of UFO 3 ed 238" aria-label="Read more about Why Convincing UFO Hoaxes Look Imperfect | When UFO Reports Are Manufactured | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -1808,7 +1808,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'missing-files/' | relative_url }}" title="Why UFO Images Need Original Files | ifos causes of UFO 3 ed 238 UFO hoaxes" aria-label="Read more about Why UFO Images Need Original Files | ifos causes of UFO 3 ed 238 UFO hoaxes">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'missing-files/' | relative_url }}" title="Why UFO Images Need Original Files | When UFO Reports Are Manufactured | ifos causes of UFO 3 ed 238" aria-label="Read more about Why UFO Images Need Original Files | When UFO Reports Are Manufactured | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -1832,7 +1832,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why Infrared UFO Videos Mislead | ifos causes of UFO" aria-expanded="false" aria-controls="home-vertical-children-node-ifos-causes-of-ufo-3ed238-infrared-false-speed-c7412f"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'infrared/' | relative_url }}" title="Why Infrared UFO Videos Mislead | ifos causes of UFO" aria-label="Read more about Why Infrared UFO Videos Mislead | ifos causes of UFO">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'infrared/' | relative_url }}" title="Why Infrared UFO Videos Mislead | ifos causes of UFO 3 ed 238" aria-label="Read more about Why Infrared UFO Videos Mislead | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -1852,7 +1852,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'go-fast-54a921/' | relative_url }}" title="Did Go Fast really show a fast object? | ifos causes of UFO 3 ed 238 infrared false speed" aria-label="Read more about Did Go Fast really show a fast object? | ifos causes of UFO 3 ed 238 infrared false speed">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'go-fast-54a921/' | relative_url }}" title="Did Go Fast really show a fast object? | Why Infrared UFO Videos Mislead | ifos causes of UFO 3 ed 238" aria-label="Read more about Did Go Fast really show a fast object? | Why Infrared UFO Videos Mislead | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -1872,7 +1872,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'puerto-rico/' | relative_url }}" title="Did the Puerto Rico object enter the water? | ifos causes of UFO 3 ed 238 infrared false speed" aria-label="Read more about Did the Puerto Rico object enter the water? | ifos causes of UFO 3 ed 238 infrared false speed">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'puerto-rico/' | relative_url }}" title="Did the Puerto Rico object enter the water? | Why Infrared UFO Videos Mislead | ifos causes of UFO 3 ed 238" aria-label="Read more about Did the Puerto Rico object enter the water? | Why Infrared UFO Videos Mislead | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -1892,7 +1892,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'evidence-package/' | relative_url }}" title="What would make infrared UFO footage stronger? | ifos causes of UFO 3 ed 238 infrared false speed" aria-label="Read more about What would make infrared UFO footage stronger? | ifos causes of UFO 3 ed 238 infrared false speed">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'evidence-package/' | relative_url }}" title="What would make infrared UFO footage stronger? | Why Infrared UFO Videos Mislead | ifos causes of UFO 3 ed 238" aria-label="Read more about What would make infrared UFO footage stronger? | Why Infrared UFO Videos Mislead | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -1912,7 +1912,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'thermal-contrast/' | relative_url }}" title="When infrared brightness fools UFO viewers | ifos causes of UFO 3 ed 238 infrared false speed" aria-label="Read more about When infrared brightness fools UFO viewers | ifos causes of UFO 3 ed 238 infrared false speed">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'thermal-contrast/' | relative_url }}" title="When infrared brightness fools UFO viewers | Why Infrared UFO Videos Mislead | ifos causes of UFO 3 ed 238" aria-label="Read more about When infrared brightness fools UFO viewers | Why Infrared UFO Videos Mislead | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -1932,7 +1932,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'range/' | relative_url }}" title="Why range makes or breaks UFO speed claims | ifos causes of UFO 3 ed 238 infrared false speed" aria-label="Read more about Why range makes or breaks UFO speed claims | ifos causes of UFO 3 ed 238 infrared false speed">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'range/' | relative_url }}" title="Why range makes or breaks UFO speed claims | Why Infrared UFO Videos Mislead | ifos causes of UFO 3 ed 238" aria-label="Read more about Why range makes or breaks UFO speed claims | Why Infrared UFO Videos Mislead | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -1956,7 +1956,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: The Tiny Things Cameras Make Huge | ifos causes of UFO" aria-expanded="false" aria-controls="home-vertical-children-node-ifos-causes-of-ufo-3ed238-insects-camera-ufo-787e74"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'insects/' | relative_url }}" title="The Tiny Things Cameras Make Huge | ifos causes of UFO" aria-label="Read more about The Tiny Things Cameras Make Huge | ifos causes of UFO">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'insects/' | relative_url }}" title="The Tiny Things Cameras Make Huge | ifos causes of UFO 3 ed 238" aria-label="Read more about The Tiny Things Cameras Make Huge | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -1976,7 +1976,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'flying-rods/' | relative_url }}" title="Are Flying Rods Really Camera Bugs? | ifos causes of UFO 3 ed 238 insects camera UFO" aria-label="Read more about Are Flying Rods Really Camera Bugs? | ifos causes of UFO 3 ed 238 insects camera UFO">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'flying-rods/' | relative_url }}" title="Are Flying Rods Really Camera Bugs? | The Tiny Things Cameras Make Huge | ifos causes of UFO 3 ed 238" aria-label="Read more about Are Flying Rods Really Camera Bugs? | The Tiny Things Cameras Make Huge | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -1996,7 +1996,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'denver-case/' | relative_url }}" title="The Denver UFOs That Looked Like Bugs | ifos causes of UFO 3 ed 238 insects camera UFO" aria-label="Read more about The Denver UFOs That Looked Like Bugs | ifos causes of UFO 3 ed 238 insects camera UFO">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'denver-case/' | relative_url }}" title="The Denver UFOs That Looked Like Bugs | The Tiny Things Cameras Make Huge | ifos causes of UFO 3 ed 238" aria-label="Read more about The Denver UFOs That Looked Like Bugs | The Tiny Things Cameras Make Huge | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -2016,7 +2016,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'range-checks/' | relative_url }}" title="What Evidence Rules Out Camera Bugs? | ifos causes of UFO 3 ed 238 insects camera UFO" aria-label="Read more about What Evidence Rules Out Camera Bugs? | ifos causes of UFO 3 ed 238 insects camera UFO">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'range-checks/' | relative_url }}" title="What Evidence Rules Out Camera Bugs? | The Tiny Things Cameras Make Huge | ifos causes of UFO 3 ed 238" aria-label="Read more about What Evidence Rules Out Camera Bugs? | The Tiny Things Cameras Make Huge | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -2036,7 +2036,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'false-speed/' | relative_url }}" title="Why Bugs Can Look Impossibly Fast | ifos causes of UFO 3 ed 238 insects camera UFO" aria-label="Read more about Why Bugs Can Look Impossibly Fast | ifos causes of UFO 3 ed 238 insects camera UFO">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'false-speed/' | relative_url }}" title="Why Bugs Can Look Impossibly Fast | The Tiny Things Cameras Make Huge | ifos causes of UFO 3 ed 238" aria-label="Read more about Why Bugs Can Look Impossibly Fast | The Tiny Things Cameras Make Huge | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -2056,7 +2056,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'glowing-orbs/' | relative_url }}" title="Why Night Cameras Create UFO Orbs | ifos causes of UFO 3 ed 238 insects camera UFO" aria-label="Read more about Why Night Cameras Create UFO Orbs | ifos causes of UFO 3 ed 238 insects camera UFO">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'glowing-orbs/' | relative_url }}" title="Why Night Cameras Create UFO Orbs | The Tiny Things Cameras Make Huge | ifos causes of UFO 3 ed 238" aria-label="Read more about Why Night Cameras Create UFO Orbs | The Tiny Things Cameras Make Huge | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -2080,7 +2080,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: The Orange Lights That Start UFO Reports | ifos causes of UFO" aria-expanded="false" aria-controls="home-vertical-children-node-ifos-causes-of-ufo-3ed238-sky-lanterns-eacec5"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'lanterns/' | relative_url }}" title="The Orange Lights That Start UFO Reports | ifos causes of UFO" aria-label="Read more about The Orange Lights That Start UFO Reports | ifos causes of UFO">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'lanterns/' | relative_url }}" title="The Orange Lights That Start UFO Reports | ifos causes of UFO 3 ed 238" aria-label="Read more about The Orange Lights That Start UFO Reports | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -2100,7 +2100,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'mo-d-surge/' | relative_url }}" title="The lantern craze that flooded UFO reports | ifos causes of UFO 3 ed 238 sky lanterns" aria-label="Read more about The lantern craze that flooded UFO reports | ifos causes of UFO 3 ed 238 sky lanterns">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'mo-d-surge/' | relative_url }}" title="The lantern craze that flooded UFO reports | The Orange Lights That Start UFO Reports | ifos causes of UFO 3 ed 238" aria-label="Read more about The lantern craze that flooded UFO reports | The Orange Lights That Start UFO Reports | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -2120,7 +2120,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'formations/' | relative_url }}" title="When drifting lanterns look like a formation | ifos causes of UFO 3 ed 238 sky lanterns" aria-label="Read more about When drifting lanterns look like a formation | ifos causes of UFO 3 ed 238 sky lanterns">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'formations/' | relative_url }}" title="When drifting lanterns look like a formation | The Orange Lights That Start UFO Reports | ifos causes of UFO 3 ed 238" aria-label="Read more about When drifting lanterns look like a formation | The Orange Lights That Start UFO Reports | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -2140,7 +2140,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'flare-confusion/' | relative_url }}" title="Why lanterns can look like distress flares | ifos causes of UFO 3 ed 238 sky lanterns" aria-label="Read more about Why lanterns can look like distress flares | ifos causes of UFO 3 ed 238 sky lanterns">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'flare-confusion/' | relative_url }}" title="Why lanterns can look like distress flares | The Orange Lights That Start UFO Reports | ifos causes of UFO 3 ed 238" aria-label="Read more about Why lanterns can look like distress flares | The Orange Lights That Start UFO Reports | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -2160,7 +2160,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'wind-drift/' | relative_url }}" title="Why lanterns seem to move under control | ifos causes of UFO 3 ed 238 sky lanterns" aria-label="Read more about Why lanterns seem to move under control | ifos causes of UFO 3 ed 238 sky lanterns">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'wind-drift/' | relative_url }}" title="Why lanterns seem to move under control | The Orange Lights That Start UFO Reports | ifos causes of UFO 3 ed 238" aria-label="Read more about Why lanterns seem to move under control | The Orange Lights That Start UFO Reports | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -2180,7 +2180,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'colour-clues/' | relative_url }}" title="Why orange UFO lights often flicker and fade | ifos causes of UFO 3 ed 238 sky lanterns" aria-label="Read more about Why orange UFO lights often flicker and fade | ifos causes of UFO 3 ed 238 sky lanterns">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'colour-clues/' | relative_url }}" title="Why orange UFO lights often flicker and fade | The Orange Lights That Start UFO Reports | ifos causes of UFO 3 ed 238" aria-label="Read more about Why orange UFO lights often flicker and fade | The Orange Lights That Start UFO Reports | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -2204,7 +2204,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: When Cameras Invent Extra Lights | ifos causes of UFO" aria-expanded="false" aria-controls="home-vertical-children-node-ifos-causes-of-ufo-3ed238-lens-flare-ce226e"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'lens-flare/' | relative_url }}" title="When Cameras Invent Extra Lights | ifos causes of UFO" aria-label="Read more about When Cameras Invent Extra Lights | ifos causes of UFO">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'lens-flare/' | relative_url }}" title="When Cameras Invent Extra Lights | ifos causes of UFO 3 ed 238" aria-label="Read more about When Cameras Invent Extra Lights | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -2224,7 +2224,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'motion-tests/' | relative_url }}" title="The camera moves that expose lens flare | ifos causes of UFO 3 ed 238 lens flare" aria-label="Read more about The camera moves that expose lens flare | ifos causes of UFO 3 ed 238 lens flare">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'motion-tests/' | relative_url }}" title="The camera moves that expose lens flare | When Cameras Invent Extra Lights | ifos causes of UFO 3 ed 238" aria-label="Read more about The camera moves that expose lens flare | When Cameras Invent Extra Lights | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -2244,7 +2244,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'gimbal-glare/' | relative_url }}" title="Was Gimbal rotation a camera effect? | ifos causes of UFO 3 ed 238 lens flare" aria-label="Read more about Was Gimbal rotation a camera effect? | ifos causes of UFO 3 ed 238 lens flare">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'gimbal-glare/' | relative_url }}" title="Was Gimbal rotation a camera effect? | When Cameras Invent Extra Lights | ifos causes of UFO 3 ed 238" aria-label="Read more about Was Gimbal rotation a camera effect? | When Cameras Invent Extra Lights | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -2264,7 +2264,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'data-gaps/' | relative_url }}" title="Why better UAP data matters for flare claims | ifos causes of UFO 3 ed 238 lens flare" aria-label="Read more about Why better UAP data matters for flare claims | ifos causes of UFO 3 ed 238 lens flare">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'data-gaps/' | relative_url }}" title="Why better UAP data matters for flare claims | When Cameras Invent Extra Lights | ifos causes of UFO 3 ed 238" aria-label="Read more about Why better UAP data matters for flare claims | When Cameras Invent Extra Lights | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -2284,7 +2284,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'night-videos/' | relative_url }}" title="Why night UFO videos fool the eye | ifos causes of UFO 3 ed 238 lens flare" aria-label="Read more about Why night UFO videos fool the eye | ifos causes of UFO 3 ed 238 lens flare">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'night-videos/' | relative_url }}" title="Why night UFO videos fool the eye | When Cameras Invent Extra Lights | ifos causes of UFO 3 ed 238" aria-label="Read more about Why night UFO videos fool the eye | When Cameras Invent Extra Lights | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -2304,7 +2304,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'green-orbs/' | relative_url }}" title="Why phone photos make green UFO orbs | ifos causes of UFO 3 ed 238 lens flare" aria-label="Read more about Why phone photos make green UFO orbs | ifos causes of UFO 3 ed 238 lens flare">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'green-orbs/' | relative_url }}" title="Why phone photos make green UFO orbs | When Cameras Invent Extra Lights | ifos causes of UFO 3 ed 238" aria-label="Read more about Why phone photos make green UFO orbs | When Cameras Invent Extra Lights | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -2328,7 +2328,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why Groups Can Share One Mistake | ifos causes of UFO" aria-expanded="false" aria-controls="home-vertical-children-node-ifos-causes-of-ufo-3ed238-mass-sightings-82cf28"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'mass-sightings/' | relative_url }}" title="Why Groups Can Share One Mistake | ifos causes of UFO" aria-label="Read more about Why Groups Can Share One Mistake | ifos causes of UFO">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'mass-sightings/' | relative_url }}" title="Why Groups Can Share One Mistake | ifos causes of UFO 3 ed 238" aria-label="Read more about Why Groups Can Share One Mistake | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -2348,7 +2348,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'independent-records/' | relative_url }}" title="What makes many UFO witnesses useful? | ifos causes of UFO 3 ed 238 mass sightings" aria-label="Read more about What makes many UFO witnesses useful? | ifos causes of UFO 3 ed 238 mass sightings">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'independent-records/' | relative_url }}" title="What makes many UFO witnesses useful? | Why Groups Can Share One Mistake | ifos causes of UFO 3 ed 238" aria-label="Read more about What makes many UFO witnesses useful? | Why Groups Can Share One Mistake | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -2368,7 +2368,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'belgian-wave/' | relative_url }}" title="What the Belgian UFO wave really shows | ifos causes of UFO 3 ed 238 mass sightings" aria-label="Read more about What the Belgian UFO wave really shows | ifos causes of UFO 3 ed 238 mass sightings">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'belgian-wave/' | relative_url }}" title="What the Belgian UFO wave really shows | Why Groups Can Share One Mistake | ifos causes of UFO 3 ed 238" aria-label="Read more about What the Belgian UFO wave really shows | Why Groups Can Share One Mistake | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -2388,7 +2388,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'rocket-spirals/' | relative_url }}" title="When rocket spirals become UFO scares | ifos causes of UFO 3 ed 238 mass sightings" aria-label="Read more about When rocket spirals become UFO scares | ifos causes of UFO 3 ed 238 mass sightings">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'rocket-spirals/' | relative_url }}" title="When rocket spirals become UFO scares | Why Groups Can Share One Mistake | ifos causes of UFO 3 ed 238" aria-label="Read more about When rocket spirals become UFO scares | Why Groups Can Share One Mistake | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -2408,7 +2408,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'crowd-memory/' | relative_url }}" title="Why crowds remember UFO sightings together | ifos causes of UFO 3 ed 238 mass sightings" aria-label="Read more about Why crowds remember UFO sightings together | ifos causes of UFO 3 ed 238 mass sightings">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'crowd-memory/' | relative_url }}" title="Why crowds remember UFO sightings together | Why Groups Can Share One Mistake | ifos causes of UFO 3 ed 238" aria-label="Read more about Why crowds remember UFO sightings together | Why Groups Can Share One Mistake | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -2428,7 +2428,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'starlink-trains/' | relative_url }}" title="Why Starlink trains look like UFO formations | ifos causes of UFO 3 ed 238 mass sightings" aria-label="Read more about Why Starlink trains look like UFO formations | ifos causes of UFO 3 ed 238 mass sightings">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'starlink-trains/' | relative_url }}" title="Why Starlink trains look like UFO formations | Why Groups Can Share One Mistake | ifos causes of UFO 3 ed 238" aria-label="Read more about Why Starlink trains look like UFO formations | Why Groups Can Share One Mistake | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -2452,7 +2452,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: When Fireballs Become UFOs | ifos causes of UFO" aria-expanded="false" aria-controls="home-vertical-children-node-ifos-causes-of-ufo-3ed238-meteors-fireballs-551504"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'meteors/' | relative_url }}" title="When Fireballs Become UFOs | ifos causes of UFO" aria-label="Read more about When Fireballs Become UFOs | ifos causes of UFO">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'meteors/' | relative_url }}" title="When Fireballs Become UFOs | ifos causes of UFO 3 ed 238" aria-label="Read more about When Fireballs Become UFOs | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -2472,7 +2472,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'report-checks/' | relative_url }}" title="How witness reports become a sky map | ifos causes of UFO 3 ed 238 meteors fireballs" aria-label="Read more about How witness reports become a sky map | ifos causes of UFO 3 ed 238 meteors fireballs">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'report-checks/' | relative_url }}" title="How witness reports become a sky map | When Fireballs Become UFOs | ifos causes of UFO 3 ed 238" aria-label="Read more about How witness reports become a sky map | When Fireballs Become UFOs | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -2492,7 +2492,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'duration-clues/' | relative_url }}" title="Was that flash too fast to be a craft? | ifos causes of UFO 3 ed 238 meteors fireballs" aria-label="Read more about Was that flash too fast to be a craft? | ifos causes of UFO 3 ed 238 meteors fireballs">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'duration-clues/' | relative_url }}" title="Was that flash too fast to be a craft? | When Fireballs Become UFOs | ifos causes of UFO 3 ed 238" aria-label="Read more about Was that flash too fast to be a craft? | When Fireballs Become UFOs | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -2512,7 +2512,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'debris-fleets/' | relative_url }}" title="When one falling object looks like a fleet | ifos causes of UFO 3 ed 238 meteors fireballs" aria-label="Read more about When one falling object looks like a fleet | ifos causes of UFO 3 ed 238 meteors fireballs">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'debris-fleets/' | relative_url }}" title="When one falling object looks like a fleet | When Fireballs Become UFOs | ifos causes of UFO 3 ed 238" aria-label="Read more about When one falling object looks like a fleet | When Fireballs Become UFOs | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -2532,7 +2532,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'delayed-booms/' | relative_url }}" title="Why the boom came after the flash | ifos causes of UFO 3 ed 238 meteors fireballs" aria-label="Read more about Why the boom came after the flash | ifos causes of UFO 3 ed 238 meteors fireballs">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'delayed-booms/' | relative_url }}" title="Why the boom came after the flash | When Fireballs Become UFOs | ifos causes of UFO 3 ed 238" aria-label="Read more about Why the boom came after the flash | When Fireballs Become UFOs | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -2551,7 +2551,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'winchcombe-fireball-9259-cf/' | relative_url }}" title="Winchcombe Fireball | ifos causes of UFO 3 ed 238 meteors fireballs" aria-label="Read more about Winchcombe Fireball | ifos causes of UFO 3 ed 238 meteors fireballs">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'winchcombe-fireball-9259-cf/' | relative_url }}" title="Winchcombe Fireball 9259 Cf | When Fireballs Become UFOs | ifos causes of UFO 3 ed 238" aria-label="Read more about Winchcombe Fireball 9259 Cf | When Fireballs Become UFOs | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -2575,7 +2575,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Unsolved Does Not Always Mean Strange | ifos causes of UFO" aria-expanded="false" aria-controls="home-vertical-children-node-ifos-causes-of-ufo-3ed238-insufficient-data-46f2ca"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'missing-data/' | relative_url }}" title="Unsolved Does Not Always Mean Strange | ifos causes of UFO" aria-label="Read more about Unsolved Does Not Always Mean Strange | ifos causes of UFO">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'missing-data/' | relative_url }}" title="Unsolved Does Not Always Mean Strange | ifos causes of UFO 3 ed 238" aria-label="Read more about Unsolved Does Not Always Mean Strange | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -2595,7 +2595,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'blue-book-data/' | relative_url }}" title="Blue Book&#x27;s overlooked UFO data category | ifos causes of UFO 3 ed 238 insufficient data" aria-label="Read more about Blue Book&#x27;s overlooked UFO data category | ifos causes of UFO 3 ed 238 insufficient data">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'blue-book-data/' | relative_url }}" title="Blue Book's overlooked UFO data category | Unsolved Does Not Always Mean Strange | ifos causes of UFO 3 ed 238" aria-label="Read more about Blue Book's overlooked UFO data category | Unsolved Does Not Always Mean Strange | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -2615,7 +2615,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'true-unknowns/' | relative_url }}" title="What makes a UFO truly unidentified | ifos causes of UFO 3 ed 238 insufficient data" aria-label="Read more about What makes a UFO truly unidentified | ifos causes of UFO 3 ed 238 insufficient data">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'true-unknowns/' | relative_url }}" title="What makes a UFO truly unidentified | Unsolved Does Not Always Mean Strange | ifos causes of UFO 3 ed 238" aria-label="Read more about What makes a UFO truly unidentified | Unsolved Does Not Always Mean Strange | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -2635,7 +2635,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'range-errors/' | relative_url }}" title="When distance makes UFOs look impossible | ifos causes of UFO 3 ed 238 insufficient data" aria-label="Read more about When distance makes UFOs look impossible | ifos causes of UFO 3 ed 238 insufficient data">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'range-errors/' | relative_url }}" title="When distance makes UFOs look impossible | Unsolved Does Not Always Mean Strange | ifos causes of UFO 3 ed 238" aria-label="Read more about When distance makes UFOs look impossible | Unsolved Does Not Always Mean Strange | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -2655,7 +2655,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'phone-clips/' | relative_url }}" title="Why clear UFO videos can still fail | ifos causes of UFO 3 ed 238 insufficient data" aria-label="Read more about Why clear UFO videos can still fail | ifos causes of UFO 3 ed 238 insufficient data">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'phone-clips/' | relative_url }}" title="Why clear UFO videos can still fail | Unsolved Does Not Always Mean Strange | ifos causes of UFO 3 ed 238" aria-label="Read more about Why clear UFO videos can still fail | Unsolved Does Not Always Mean Strange | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -2675,7 +2675,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'timestamps/' | relative_url }}" title="Why UFO reports need an exact time | ifos causes of UFO 3 ed 238 insufficient data" aria-label="Read more about Why UFO reports need an exact time | ifos causes of UFO 3 ed 238 insufficient data">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'timestamps/' | relative_url }}" title="Why UFO reports need an exact time | Unsolved Does Not Always Mean Strange | ifos causes of UFO 3 ed 238" aria-label="Read more about Why UFO reports need an exact time | Unsolved Does Not Always Mean Strange | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -2699,7 +2699,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why Better UFO Data Matters | ifos causes of UFO" aria-expanded="false" aria-controls="home-vertical-children-node-ifos-causes-of-ufo-3ed238-nasa-uap-data-8cb183"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'nasa-study/' | relative_url }}" title="Why Better UFO Data Matters | ifos causes of UFO" aria-label="Read more about Why Better UFO Data Matters | ifos causes of UFO">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'nasa-study/' | relative_url }}" title="Why Better UFO Data Matters | ifos causes of UFO 3 ed 238" aria-label="Read more about Why Better UFO Data Matters | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -2719,7 +2719,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'phone-networks/' | relative_url }}" title="Could phones make UFO reports scientific? | ifos causes of UFO 3 ed 238 NASA UAP data" aria-label="Read more about Could phones make UFO reports scientific? | ifos causes of UFO 3 ed 238 NASA UAP data">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'phone-networks/' | relative_url }}" title="Could phones make UFO reports scientific? | Why Better UFO Data Matters | ifos causes of UFO 3 ed 238" aria-label="Read more about Could phones make UFO reports scientific? | Why Better UFO Data Matters | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -2739,7 +2739,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'civilian-reports/' | relative_url }}" title="What makes a UFO report useful? | ifos causes of UFO 3 ed 238 NASA UAP data" aria-label="Read more about What makes a UFO report useful? | ifos causes of UFO 3 ed 238 NASA UAP data">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'civilian-reports/' | relative_url }}" title="What makes a UFO report useful? | Why Better UFO Data Matters | ifos causes of UFO 3 ed 238" aria-label="Read more about What makes a UFO report useful? | Why Better UFO Data Matters | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -2759,7 +2759,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'baseline-library/' | relative_url }}" title="What normal skies look like to UAP sensors | ifos causes of UFO 3 ed 238 NASA UAP data" aria-label="Read more about What normal skies look like to UAP sensors | ifos causes of UFO 3 ed 238 NASA UAP data">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'baseline-library/' | relative_url }}" title="What normal skies look like to UAP sensors | Why Better UFO Data Matters | ifos causes of UFO 3 ed 238" aria-label="Read more about What normal skies look like to UAP sensors | Why Better UFO Data Matters | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -2779,7 +2779,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'sensor-artefacts/' | relative_url }}" title="When the UFO is inside the camera | ifos causes of UFO 3 ed 238 NASA UAP data" aria-label="Read more about When the UFO is inside the camera | ifos causes of UFO 3 ed 238 NASA UAP data">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'sensor-artefacts/' | relative_url }}" title="When the UFO is inside the camera | Why Better UFO Data Matters | ifos causes of UFO 3 ed 238" aria-label="Read more about When the UFO is inside the camera | Why Better UFO Data Matters | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -2799,7 +2799,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'missing-metadata/' | relative_url }}" title="Why missing metadata creates false UFO mysteries | ifos causes of UFO 3 ed 238 NASA UAP data" aria-label="Read more about Why missing metadata creates false UFO mysteries | ifos causes of UFO 3 ed 238 NASA UAP data">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'missing-metadata/' | relative_url }}" title="Why missing metadata creates false UFO mysteries | Why Better UFO Data Matters | ifos causes of UFO 3 ed 238" aria-label="Read more about Why missing metadata creates false UFO mysteries | Why Better UFO Data Matters | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -2823,7 +2823,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: The Speed Illusion in UFO Footage | ifos causes of UFO" aria-expanded="false" aria-controls="home-vertical-children-node-ifos-causes-of-ufo-3ed238-parallax-motion-b3453b"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'parallax/' | relative_url }}" title="The Speed Illusion in UFO Footage | ifos causes of UFO" aria-label="Read more about The Speed Illusion in UFO Footage | ifos causes of UFO">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'parallax/' | relative_url }}" title="The Speed Illusion in UFO Footage | ifos causes of UFO 3 ed 238" aria-label="Read more about The Speed Illusion in UFO Footage | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -2843,7 +2843,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'gofast/' | relative_url }}" title="Did GOFAST Really Show Extreme Speed? | ifos causes of UFO 3 ed 238 parallax motion" aria-label="Read more about Did GOFAST Really Show Extreme Speed? | ifos causes of UFO 3 ed 238 parallax motion">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'gofast/' | relative_url }}" title="Did GOFAST Really Show Extreme Speed? | The Speed Illusion in UFO Footage | ifos causes of UFO 3 ed 238" aria-label="Read more about Did GOFAST Really Show Extreme Speed? | The Speed Illusion in UFO Footage | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -2863,7 +2863,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'video-checks/' | relative_url }}" title="How to Check a UFO Speed Claim | ifos causes of UFO 3 ed 238 parallax motion" aria-label="Read more about How to Check a UFO Speed Claim | ifos causes of UFO 3 ed 238 parallax motion">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'video-checks/' | relative_url }}" title="How to Check a UFO Speed Claim | The Speed Illusion in UFO Footage | ifos causes of UFO 3 ed 238" aria-label="Read more about How to Check a UFO Speed Claim | The Speed Illusion in UFO Footage | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -2883,7 +2883,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'moving-camera/' | relative_url }}" title="When the Camera Creates the UFO Motion | ifos causes of UFO 3 ed 238 parallax motion" aria-label="Read more about When the Camera Creates the UFO Motion | ifos causes of UFO 3 ed 238 parallax motion">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'moving-camera/' | relative_url }}" title="When the Camera Creates the UFO Motion | The Speed Illusion in UFO Footage | ifos causes of UFO 3 ed 238" aria-label="Read more about When the Camera Creates the UFO Motion | The Speed Illusion in UFO Footage | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -2903,7 +2903,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'distance-cues/' | relative_url }}" title="Why Empty Backgrounds Fool UFO Viewers | ifos causes of UFO 3 ed 238 parallax motion" aria-label="Read more about Why Empty Backgrounds Fool UFO Viewers | ifos causes of UFO 3 ed 238 parallax motion">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'distance-cues/' | relative_url }}" title="Why Empty Backgrounds Fool UFO Viewers | The Speed Illusion in UFO Footage | ifos causes of UFO 3 ed 238" aria-label="Read more about Why Empty Backgrounds Fool UFO Viewers | The Speed Illusion in UFO Footage | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -2923,7 +2923,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'zoom-errors/' | relative_url }}" title="Why Zoom Makes UFOs Look Faster | ifos causes of UFO 3 ed 238 parallax motion" aria-label="Read more about Why Zoom Makes UFOs Look Faster | ifos causes of UFO 3 ed 238 parallax motion">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'zoom-errors/' | relative_url }}" title="Why Zoom Makes UFOs Look Faster | The Speed Illusion in UFO Footage | ifos causes of UFO 3 ed 238" aria-label="Read more about Why Zoom Makes UFOs Look Faster | The Speed Illusion in UFO Footage | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -2947,7 +2947,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why Pilots Can Misidentify UFOs | ifos causes of UFO" aria-expanded="false" aria-controls="home-vertical-children-node-ifos-causes-of-ufo-3ed238-pilot-reports-86d46a"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'pilots/' | relative_url }}" title="Why Pilots Can Misidentify UFOs | ifos causes of UFO" aria-label="Read more about Why Pilots Can Misidentify UFOs | ifos causes of UFO">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'pilots/' | relative_url }}" title="Why Pilots Can Misidentify UFOs | ifos causes of UFO 3 ed 238" aria-label="Read more about Why Pilots Can Misidentify UFOs | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -2967,7 +2967,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'safety-reports/' | relative_url }}" title="What Pilot UFO Reports Actually Prove | ifos causes of UFO 3 ed 238 pilot reports" aria-label="Read more about What Pilot UFO Reports Actually Prove | ifos causes of UFO 3 ed 238 pilot reports">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'safety-reports/' | relative_url }}" title="What Pilot UFO Reports Actually Prove | Why Pilots Can Misidentify UFOs | ifos causes of UFO 3 ed 238" aria-label="Read more about What Pilot UFO Reports Actually Prove | Why Pilots Can Misidentify UFOs | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -2987,7 +2987,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'eglin-case/' | relative_url }}" title="What the Eglin UAP Case Tested | ifos causes of UFO 3 ed 238 pilot reports" aria-label="Read more about What the Eglin UAP Case Tested | ifos causes of UFO 3 ed 238 pilot reports">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'eglin-case/' | relative_url }}" title="What the Eglin UAP Case Tested | Why Pilots Can Misidentify UFOs | ifos causes of UFO 3 ed 238" aria-label="Read more about What the Eglin UAP Case Tested | Why Pilots Can Misidentify UFOs | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -3007,7 +3007,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'sensor-limits/' | relative_url }}" title="When Better Sensors Still Leave Doubt | ifos causes of UFO 3 ed 238 pilot reports" aria-label="Read more about When Better Sensors Still Leave Doubt | ifos causes of UFO 3 ed 238 pilot reports">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'sensor-limits/' | relative_url }}" title="When Better Sensors Still Leave Doubt | Why Pilots Can Misidentify UFOs | ifos causes of UFO 3 ed 238" aria-label="Read more about When Better Sensors Still Leave Doubt | Why Pilots Can Misidentify UFOs | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -3027,7 +3027,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'night-lights/' | relative_url }}" title="Why Night Lights Fool Trained Pilots | ifos causes of UFO 3 ed 238 pilot reports" aria-label="Read more about Why Night Lights Fool Trained Pilots | ifos causes of UFO 3 ed 238 pilot reports">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'night-lights/' | relative_url }}" title="Why Night Lights Fool Trained Pilots | Why Pilots Can Misidentify UFOs | ifos causes of UFO 3 ed 238" aria-label="Read more about Why Night Lights Fool Trained Pilots | Why Pilots Can Misidentify UFOs | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -3047,7 +3047,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'speed-errors/' | relative_url }}" title="Why UFOs Look Faster Than They Are | ifos causes of UFO 3 ed 238 pilot reports" aria-label="Read more about Why UFOs Look Faster Than They Are | ifos causes of UFO 3 ed 238 pilot reports">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'speed-errors/' | relative_url }}" title="Why UFOs Look Faster Than They Are | Why Pilots Can Misidentify UFOs | ifos causes of UFO 3 ed 238" aria-label="Read more about Why UFOs Look Faster Than They Are | Why Pilots Can Misidentify UFOs | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -3071,7 +3071,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: When Radar Sees a UFO That Isnt There | ifos causes of UFO" aria-expanded="false" aria-controls="home-vertical-children-node-ifos-causes-of-ufo-3ed238-radar-anomalies-d7d357"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'radar/' | relative_url }}" title="When Radar Sees a UFO That Isnt There | ifos causes of UFO" aria-label="Read more about When Radar Sees a UFO That Isnt There | ifos causes of UFO">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'radar/' | relative_url }}" title="When Radar Sees a UFO That Isnt There | ifos causes of UFO 3 ed 238" aria-label="Read more about When Radar Sees a UFO That Isnt There | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -3091,7 +3091,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'bio-clutter/' | relative_url }}" title="Can Birds and Bugs Look Like UFOs on Radar? | ifos causes of UFO 3 ed 238 radar anomalies" aria-label="Read more about Can Birds and Bugs Look Like UFOs on Radar? | ifos causes of UFO 3 ed 238 radar anomalies">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'bio-clutter/' | relative_url }}" title="Can Birds and Bugs Look Like UFOs on Radar? | When Radar Sees a UFO That Isnt There | ifos causes of UFO 3 ed 238" aria-label="Read more about Can Birds and Bugs Look Like UFOs on Radar? | When Radar Sees a UFO That Isnt There | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -3111,7 +3111,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'blips-vs-tracks/' | relative_url }}" title="Is One Radar Blip Really a UFO? | ifos causes of UFO 3 ed 238 radar anomalies" aria-label="Read more about Is One Radar Blip Really a UFO? | ifos causes of UFO 3 ed 238 radar anomalies">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'blips-vs-tracks/' | relative_url }}" title="Is One Radar Blip Really a UFO? | When Radar Sees a UFO That Isnt There | ifos causes of UFO 3 ed 238" aria-label="Read more about Is One Radar Blip Really a UFO? | When Radar Sees a UFO That Isnt There | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -3131,7 +3131,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'radar-ducting/' | relative_url }}" title="When the Atmosphere Makes Radar See Objects | ifos causes of UFO 3 ed 238 radar anomalies" aria-label="Read more about When the Atmosphere Makes Radar See Objects | ifos causes of UFO 3 ed 238 radar anomalies">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'radar-ducting/' | relative_url }}" title="When the Atmosphere Makes Radar See Objects | When Radar Sees a UFO That Isnt There | ifos causes of UFO 3 ed 238" aria-label="Read more about When the Atmosphere Makes Radar See Objects | When Radar Sees a UFO That Isnt There | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -3151,7 +3151,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'missing-data-0adffe/' | relative_url }}" title="Why Radar UFO Evidence Often Needs Metadata | ifos causes of UFO 3 ed 238 radar anomalies" aria-label="Read more about Why Radar UFO Evidence Often Needs Metadata | ifos causes of UFO 3 ed 238 radar anomalies">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'missing-data-0adffe/' | relative_url }}" title="Why Radar UFO Evidence Often Needs Metadata | When Radar Sees a UFO That Isnt There | ifos causes of UFO 3 ed 238" aria-label="Read more about Why Radar UFO Evidence Often Needs Metadata | When Radar Sees a UFO That Isnt There | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -3171,7 +3171,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'wind-turbines/' | relative_url }}" title="Why Wind Farms Can Confuse Airport Radar | ifos causes of UFO 3 ed 238 radar anomalies" aria-label="Read more about Why Wind Farms Can Confuse Airport Radar | ifos causes of UFO 3 ed 238 radar anomalies">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'wind-turbines/' | relative_url }}" title="Why Wind Farms Can Confuse Airport Radar | When Radar Sees a UFO That Isnt There | ifos causes of UFO 3 ed 238" aria-label="Read more about Why Wind Farms Can Confuse Airport Radar | When Radar Sees a UFO That Isnt There | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -3195,7 +3195,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: The UFO Inside the Glass | ifos causes of UFO" aria-expanded="false" aria-controls="home-vertical-children-node-ifos-causes-of-ufo-3ed238-window-reflections-bcc04c"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'reflections/' | relative_url }}" title="The UFO Inside the Glass | ifos causes of UFO" aria-label="Read more about The UFO Inside the Glass | ifos causes of UFO">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'reflections/' | relative_url }}" title="The UFO Inside the Glass | ifos causes of UFO 3 ed 238" aria-label="Read more about The UFO Inside the Glass | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -3215,7 +3215,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'cockpits/' | relative_url }}" title="Can Pilots Be Fooled by Cockpit Glass? | ifos causes of UFO 3 ed 238 window reflections" aria-label="Read more about Can Pilots Be Fooled by Cockpit Glass? | ifos causes of UFO 3 ed 238 window reflections">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'cockpits/' | relative_url }}" title="Can Pilots Be Fooled by Cockpit Glass? | The UFO Inside the Glass | ifos causes of UFO 3 ed 238" aria-label="Read more about Can Pilots Be Fooled by Cockpit Glass? | The UFO Inside the Glass | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -3235,7 +3235,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'photo-checks/' | relative_url }}" title="How to Test a UFO Reflection | ifos causes of UFO 3 ed 238 window reflections" aria-label="Read more about How to Test a UFO Reflection | ifos causes of UFO 3 ed 238 window reflections">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'photo-checks/' | relative_url }}" title="How to Test a UFO Reflection | The UFO Inside the Glass | ifos causes of UFO 3 ed 238" aria-label="Read more about How to Test a UFO Reflection | The UFO Inside the Glass | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -3255,7 +3255,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'cabin-videos/' | relative_url }}" title="The UFO Hidden in the Plane Window | ifos causes of UFO 3 ed 238 window reflections" aria-label="Read more about The UFO Hidden in the Plane Window | ifos causes of UFO 3 ed 238 window reflections">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'cabin-videos/' | relative_url }}" title="The UFO Hidden in the Plane Window | The UFO Inside the Glass | ifos causes of UFO 3 ed 238" aria-label="Read more about The UFO Hidden in the Plane Window | The UFO Inside the Glass | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -3275,7 +3275,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'night-lamps/' | relative_url }}" title="When a Room Light Becomes a UFO | ifos causes of UFO 3 ed 238 window reflections" aria-label="Read more about When a Room Light Becomes a UFO | ifos causes of UFO 3 ed 238 window reflections">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'night-lamps/' | relative_url }}" title="When a Room Light Becomes a UFO | The UFO Inside the Glass | ifos causes of UFO 3 ed 238" aria-label="Read more about When a Room Light Becomes a UFO | The UFO Inside the Glass | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -3295,7 +3295,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'windscreens/' | relative_url }}" title="Why Dashboard Lights Can Look Alive | ifos causes of UFO 3 ed 238 window reflections" aria-label="Read more about Why Dashboard Lights Can Look Alive | ifos causes of UFO 3 ed 238 window reflections">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'windscreens/' | relative_url }}" title="Why Dashboard Lights Can Look Alive | The UFO Inside the Glass | ifos causes of UFO 3 ed 238" aria-label="Read more about Why Dashboard Lights Can Look Alive | The UFO Inside the Glass | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -3319,7 +3319,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: The Strange Clouds Rockets Leave Behind | ifos causes of UFO" aria-expanded="false" aria-controls="home-vertical-children-node-ifos-causes-of-ufo-3ed238-rocket-plumes-0fc132"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'rocket-plumes/' | relative_url }}" title="The Strange Clouds Rockets Leave Behind | ifos causes of UFO" aria-label="Read more about The Strange Clouds Rockets Leave Behind | ifos causes of UFO">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'rocket-plumes/' | relative_url }}" title="The Strange Clouds Rockets Leave Behind | ifos causes of UFO 3 ed 238" aria-label="Read more about The Strange Clouds Rockets Leave Behind | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -3339,7 +3339,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'norway-spiral/' | relative_url }}" title="How a Failed Rocket Made a Sky Spiral | ifos causes of UFO 3 ed 238 rocket plumes" aria-label="Read more about How a Failed Rocket Made a Sky Spiral | ifos causes of UFO 3 ed 238 rocket plumes">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'norway-spiral/' | relative_url }}" title="How a Failed Rocket Made a Sky Spiral | The Strange Clouds Rockets Leave Behind | ifos causes of UFO 3 ed 238" aria-label="Read more about How a Failed Rocket Made a Sky Spiral | The Strange Clouds Rockets Leave Behind | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -3359,7 +3359,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'launch-checks/' | relative_url }}" title="How to Check a UFO Against a Launch | ifos causes of UFO 3 ed 238 rocket plumes" aria-label="Read more about How to Check a UFO Against a Launch | ifos causes of UFO 3 ed 238 rocket plumes">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'launch-checks/' | relative_url }}" title="How to Check a UFO Against a Launch | The Strange Clouds Rockets Leave Behind | ifos causes of UFO 3 ed 238" aria-label="Read more about How to Check a UFO Against a Launch | The Strange Clouds Rockets Leave Behind | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -3379,7 +3379,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'trident-test/' | relative_url }}" title="The Missile Test That Looked Like a UFO | ifos causes of UFO 3 ed 238 rocket plumes" aria-label="Read more about The Missile Test That Looked Like a UFO | ifos causes of UFO 3 ed 238 rocket plumes">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'trident-test/' | relative_url }}" title="The Missile Test That Looked Like a UFO | The Strange Clouds Rockets Leave Behind | ifos causes of UFO 3 ed 238" aria-label="Read more about The Missile Test That Looked Like a UFO | The Strange Clouds Rockets Leave Behind | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -3399,7 +3399,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'so-cal-launches/' | relative_url }}" title="Why Southern California Keeps Seeing Rocket UFOs | ifos causes of UFO 3 ed 238 rocket plumes" aria-label="Read more about Why Southern California Keeps Seeing Rocket UFOs | ifos causes of UFO 3 ed 238 rocket plumes">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'so-cal-launches/' | relative_url }}" title="Why Southern California Keeps Seeing Rocket UFOs | The Strange Clouds Rockets Leave Behind | ifos causes of UFO 3 ed 238" aria-label="Read more about Why Southern California Keeps Seeing Rocket UFOs | The Strange Clouds Rockets Leave Behind | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -3419,7 +3419,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'twilight-plumes/' | relative_url }}" title="Why Twilight Rocket Plumes Look So Strange | ifos causes of UFO 3 ed 238 rocket plumes" aria-label="Read more about Why Twilight Rocket Plumes Look So Strange | ifos causes of UFO 3 ed 238 rocket plumes">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'twilight-plumes/' | relative_url }}" title="Why Twilight Rocket Plumes Look So Strange | The Strange Clouds Rockets Leave Behind | ifos causes of UFO 3 ed 238" aria-label="Read more about Why Twilight Rocket Plumes Look So Strange | The Strange Clouds Rockets Leave Behind | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -3443,7 +3443,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why Satellites Surprise Night Watchers | ifos causes of UFO" aria-expanded="false" aria-controls="home-vertical-children-node-ifos-causes-of-ufo-3ed238-satellites-starlink-2cae9b"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'satellites/' | relative_url }}" title="Why Satellites Surprise Night Watchers | ifos causes of UFO" aria-label="Read more about Why Satellites Surprise Night Watchers | ifos causes of UFO">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'satellites/' | relative_url }}" title="Why Satellites Surprise Night Watchers | ifos causes of UFO 3 ed 238" aria-label="Read more about Why Satellites Surprise Night Watchers | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -3463,7 +3463,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'tracker-checks/' | relative_url }}" title="How to check a UFO against satellites | ifos causes of UFO 3 ed 238 satellites starlink" aria-label="Read more about How to check a UFO against satellites | ifos causes of UFO 3 ed 238 satellites starlink">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'tracker-checks/' | relative_url }}" title="How to check a UFO against satellites | Why Satellites Surprise Night Watchers | ifos causes of UFO 3 ed 238" aria-label="Read more about How to check a UFO against satellites | Why Satellites Surprise Night Watchers | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -3483,7 +3483,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'satellite-clues/' | relative_url }}" title="Was that silent light a satellite? | ifos causes of UFO 3 ed 238 satellites starlink" aria-label="Read more about Was that silent light a satellite? | ifos causes of UFO 3 ed 238 satellites starlink">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'satellite-clues/' | relative_url }}" title="Was that silent light a satellite? | Why Satellites Surprise Night Watchers | ifos causes of UFO 3 ed 238" aria-label="Read more about Was that silent light a satellite? | Why Satellites Surprise Night Watchers | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -3503,7 +3503,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'flares-6fea4c/' | relative_url }}" title="When satellite glints look like manoeuvres | ifos causes of UFO 3 ed 238 satellites starlink" aria-label="Read more about When satellite glints look like manoeuvres | ifos causes of UFO 3 ed 238 satellites starlink">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'flares-6fea4c/' | relative_url }}" title="When satellite glints look like manoeuvres | Why Satellites Surprise Night Watchers | ifos causes of UFO 3 ed 238" aria-label="Read more about When satellite glints look like manoeuvres | Why Satellites Surprise Night Watchers | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -3523,7 +3523,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'starlink-trains-abbfbb/' | relative_url }}" title="Why do Starlink trains look planned? | ifos causes of UFO 3 ed 238 satellites starlink" aria-label="Read more about Why do Starlink trains look planned? | ifos causes of UFO 3 ed 238 satellites starlink">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'starlink-trains-abbfbb/' | relative_url }}" title="Why do Starlink trains look planned? | Why Satellites Surprise Night Watchers | ifos causes of UFO 3 ed 238" aria-label="Read more about Why do Starlink trains look planned? | Why Satellites Surprise Night Watchers | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -3543,7 +3543,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'gallup-case/' | relative_url }}" title="Why pilots can misread satellite flares | ifos causes of UFO 3 ed 238 satellites starlink" aria-label="Read more about Why pilots can misread satellite flares | ifos causes of UFO 3 ed 238 satellites starlink">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'gallup-case/' | relative_url }}" title="Why pilots can misread satellite flares | Why Satellites Surprise Night Watchers | ifos causes of UFO 3 ed 238" aria-label="Read more about Why pilots can misread satellite flares | Why Satellites Surprise Night Watchers | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -3567,7 +3567,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: How Searchlights Paint UFOs in Clouds | ifos causes of UFO" aria-expanded="false" aria-controls="home-vertical-children-node-ifos-causes-of-ufo-3ed238-searchlights-clouds-76dbe1"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'searchlights/' | relative_url }}" title="How Searchlights Paint UFOs in Clouds | ifos causes of UFO" aria-label="Read more about How Searchlights Paint UFOs in Clouds | ifos causes of UFO">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'searchlights/' | relative_url }}" title="How Searchlights Paint UFOs in Clouds | ifos causes of UFO 3 ed 238" aria-label="Read more about How Searchlights Paint UFOs in Clouds | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -3587,7 +3587,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'beam-rules/' | relative_url }}" title="Can airspace records solve beam sightings? | ifos causes of UFO 3 ed 238 searchlights clouds" aria-label="Read more about Can airspace records solve beam sightings? | ifos causes of UFO 3 ed 238 searchlights clouds">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'beam-rules/' | relative_url }}" title="Can airspace records solve beam sightings? | How Searchlights Paint UFOs in Clouds | ifos causes of UFO 3 ed 238" aria-label="Read more about Can airspace records solve beam sightings? | How Searchlights Paint UFOs in Clouds | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -3607,7 +3607,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'blue-book-1a295d/' | relative_url }}" title="How official UFO records handled searchlights | ifos causes of UFO 3 ed 238 searchlights clouds" aria-label="Read more about How official UFO records handled searchlights | ifos causes of UFO 3 ed 238 searchlights clouds">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'blue-book-1a295d/' | relative_url }}" title="How official UFO records handled searchlights | How Searchlights Paint UFOs in Clouds | ifos causes of UFO 3 ed 238" aria-label="Read more about How official UFO records handled searchlights | How Searchlights Paint UFOs in Clouds | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -3627,7 +3627,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'event-beams/' | relative_url }}" title="Was the UFO really an event searchlight? | ifos causes of UFO 3 ed 238 searchlights clouds" aria-label="Read more about Was the UFO really an event searchlight? | ifos causes of UFO 3 ed 238 searchlights clouds">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'event-beams/' | relative_url }}" title="Was the UFO really an event searchlight? | How Searchlights Paint UFOs in Clouds | ifos causes of UFO 3 ed 238" aria-label="Read more about Was the UFO really an event searchlight? | How Searchlights Paint UFOs in Clouds | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -3647,7 +3647,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'looping-lights/' | relative_url }}" title="When repeated loops look like intelligent control | ifos causes of UFO 3 ed 238 searchlights clouds" aria-label="Read more about When repeated loops look like intelligent control | ifos causes of UFO 3 ed 238 searchlights clouds">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'looping-lights/' | relative_url }}" title="When repeated loops look like intelligent control | How Searchlights Paint UFOs in Clouds | ifos causes of UFO 3 ed 238" aria-label="Read more about When repeated loops look like intelligent control | How Searchlights Paint UFOs in Clouds | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -3667,7 +3667,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'cloud-screens/' | relative_url }}" title="Why clouds make searchlights look solid | ifos causes of UFO 3 ed 238 searchlights clouds" aria-label="Read more about Why clouds make searchlights look solid | ifos causes of UFO 3 ed 238 searchlights clouds">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'cloud-screens/' | relative_url }}" title="Why clouds make searchlights look solid | How Searchlights Paint UFOs in Clouds | ifos causes of UFO 3 ed 238" aria-label="Read more about Why clouds make searchlights look solid | How Searchlights Paint UFOs in Clouds | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -3691,7 +3691,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: When Sensors Need Human Context | ifos causes of UFO" aria-expanded="false" aria-controls="home-vertical-children-node-ifos-causes-of-ufo-3ed238-sensor-operators-e2e57b"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'sensor-operators/' | relative_url }}" title="When Sensors Need Human Context | ifos causes of UFO" aria-label="Read more about When Sensors Need Human Context | ifos causes of UFO">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'sensor-operators/' | relative_url }}" title="When Sensors Need Human Context | ifos causes of UFO 3 ed 238" aria-label="Read more about When Sensors Need Human Context | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -3711,7 +3711,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'real-but-unknown/' | relative_url }}" title="Real object does not mean solved object | ifos causes of UFO 3 ed 238 sensor operators" aria-label="Read more about Real object does not mean solved object | ifos causes of UFO 3 ed 238 sensor operators">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'real-but-unknown/' | relative_url }}" title="Real object does not mean solved object | When Sensors Need Human Context | ifos causes of UFO 3 ed 238" aria-label="Read more about Real object does not mean solved object | When Sensors Need Human Context | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -3731,7 +3731,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'radar-ducting-d84f17/' | relative_url }}" title="When weather bends radar into UFOs | ifos causes of UFO 3 ed 238 sensor operators" aria-label="Read more about When weather bends radar into UFOs | ifos causes of UFO 3 ed 238 sensor operators">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'radar-ducting-d84f17/' | relative_url }}" title="When weather bends radar into UFOs | When Sensors Need Human Context | ifos causes of UFO 3 ed 238" aria-label="Read more about When weather bends radar into UFOs | When Sensors Need Human Context | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -3751,7 +3751,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'display-cues/' | relative_url }}" title="Why expert screens can still mislead | ifos causes of UFO 3 ed 238 sensor operators" aria-label="Read more about Why expert screens can still mislead | ifos causes of UFO 3 ed 238 sensor operators">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'display-cues/' | relative_url }}" title="Why expert screens can still mislead | When Sensors Need Human Context | ifos causes of UFO 3 ed 238" aria-label="Read more about Why expert screens can still mislead | When Sensors Need Human Context | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -3771,7 +3771,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'go-fast/' | relative_url }}" title="Why Go Fast looked faster than it was | ifos causes of UFO 3 ed 238 sensor operators" aria-label="Read more about Why Go Fast looked faster than it was | ifos causes of UFO 3 ed 238 sensor operators">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'go-fast/' | relative_url }}" title="Why Go Fast looked faster than it was | When Sensors Need Human Context | ifos causes of UFO 3 ed 238" aria-label="Read more about Why Go Fast looked faster than it was | When Sensors Need Human Context | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -3791,7 +3791,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'old-records/' | relative_url }}" title="Why old radar cases stay mysterious | ifos causes of UFO 3 ed 238 sensor operators" aria-label="Read more about Why old radar cases stay mysterious | ifos causes of UFO 3 ed 238 sensor operators">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'old-records/' | relative_url }}" title="Why old radar cases stay mysterious | When Sensors Need Human Context | ifos causes of UFO 3 ed 238" aria-label="Read more about Why old radar cases stay mysterious | When Sensors Need Human Context | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -3815,7 +3815,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why Short UFO Videos Are Hard to Trust | ifos causes of UFO" aria-expanded="false" aria-controls="home-vertical-children-node-ifos-causes-of-ufo-3ed238-short-ufo-clips-8e6391"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'short-clips/' | relative_url }}" title="Why Short UFO Videos Are Hard to Trust | ifos causes of UFO" aria-label="Read more about Why Short UFO Videos Are Hard to Trust | ifos causes of UFO">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'short-clips/' | relative_url }}" title="Why Short UFO Videos Are Hard to Trust | ifos causes of UFO 3 ed 238" aria-label="Read more about Why Short UFO Videos Are Hard to Trust | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -3835,7 +3835,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'useful-clips/' | relative_url }}" title="What Makes a UFO Clip Useful | ifos causes of UFO 3 ed 238 short UFO clips" aria-label="Read more about What Makes a UFO Clip Useful | ifos causes of UFO 3 ed 238 short UFO clips">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'useful-clips/' | relative_url }}" title="What Makes a UFO Clip Useful | Why Short UFO Videos Are Hard to Trust | ifos causes of UFO 3 ed 238" aria-label="Read more about What Makes a UFO Clip Useful | Why Short UFO Videos Are Hard to Trust | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -3855,7 +3855,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'missing-context/' | relative_url }}" title="What the Missing Minutes Can Reveal | ifos causes of UFO 3 ed 238 short UFO clips" aria-label="Read more about What the Missing Minutes Can Reveal | ifos causes of UFO 3 ed 238 short UFO clips">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'missing-context/' | relative_url }}" title="What the Missing Minutes Can Reveal | Why Short UFO Videos Are Hard to Trust | ifos causes of UFO 3 ed 238" aria-label="Read more about What the Missing Minutes Can Reveal | Why Short UFO Videos Are Hard to Trust | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -3875,7 +3875,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'compression/' | relative_url }}" title="When the Trail Is in the Video | ifos causes of UFO 3 ed 238 short UFO clips" aria-label="Read more about When the Trail Is in the Video | ifos causes of UFO 3 ed 238 short UFO clips">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'compression/' | relative_url }}" title="When the Trail Is in the Video | Why Short UFO Videos Are Hard to Trust | ifos causes of UFO 3 ed 238" aria-label="Read more about When the Trail Is in the Video | Why Short UFO Videos Are Hard to Trust | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -3895,7 +3895,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'parallax-811b0d/' | relative_url }}" title="Why Fast UFOs May Not Be Fast | ifos causes of UFO 3 ed 238 short UFO clips" aria-label="Read more about Why Fast UFOs May Not Be Fast | ifos causes of UFO 3 ed 238 short UFO clips">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'parallax-811b0d/' | relative_url }}" title="Why Fast UFOs May Not Be Fast | Why Short UFO Videos Are Hard to Trust | ifos causes of UFO 3 ed 238" aria-label="Read more about Why Fast UFOs May Not Be Fast | Why Short UFO Videos Are Hard to Trust | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -3915,7 +3915,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'ufo-orbs/' | relative_url }}" title="Why Night Lights Become Orbs | ifos causes of UFO 3 ed 238 short UFO clips" aria-label="Read more about Why Night Lights Become Orbs | ifos causes of UFO 3 ed 238 short UFO clips">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'ufo-orbs/' | relative_url }}" title="Why Night Lights Become Orbs | Why Short UFO Videos Are Hard to Trust | ifos causes of UFO 3 ed 238" aria-label="Read more about Why Night Lights Become Orbs | Why Short UFO Videos Are Hard to Trust | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -3939,7 +3939,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why Honest Witnesses Misjudge UFOs | ifos causes of UFO" aria-expanded="false" aria-controls="home-vertical-children-node-ifos-causes-of-ufo-3ed238-distance-size-errors-849a5f"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'size-errors/' | relative_url }}" title="Why Honest Witnesses Misjudge UFOs | ifos causes of UFO" aria-label="Read more about Why Honest Witnesses Misjudge UFOs | ifos causes of UFO">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'size-errors/' | relative_url }}" title="Why Honest Witnesses Misjudge UFOs | ifos causes of UFO 3 ed 238" aria-label="Read more about Why Honest Witnesses Misjudge UFOs | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -3959,7 +3959,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'silent-objects/' | relative_url }}" title="Does Silence Mean A UFO Was Huge? | ifos causes of UFO 3 ed 238 distance size errors" aria-label="Read more about Does Silence Mean A UFO Was Huge? | ifos causes of UFO 3 ed 238 distance size errors">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'silent-objects/' | relative_url }}" title="Does Silence Mean A UFO Was Huge? | Why Honest Witnesses Misjudge UFOs | ifos causes of UFO 3 ed 238" aria-label="Read more about Does Silence Mean A UFO Was Huge? | Why Honest Witnesses Misjudge UFOs | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -3979,7 +3979,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'angular-clues/' | relative_url }}" title="The Better Way To Describe A UFO | ifos causes of UFO 3 ed 238 distance size errors" aria-label="Read more about The Better Way To Describe A UFO | ifos causes of UFO 3 ed 238 distance size errors">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'angular-clues/' | relative_url }}" title="The Better Way To Describe A UFO | Why Honest Witnesses Misjudge UFOs | ifos causes of UFO 3 ed 238" aria-label="Read more about The Better Way To Describe A UFO | Why Honest Witnesses Misjudge UFOs | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -3999,7 +3999,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'balloons-7d72d9/' | relative_url }}" title="When A Balloon Becomes A Giant Craft | ifos causes of UFO 3 ed 238 distance size errors" aria-label="Read more about When A Balloon Becomes A Giant Craft | ifos causes of UFO 3 ed 238 distance size errors">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'balloons-7d72d9/' | relative_url }}" title="When A Balloon Becomes A Giant Craft | Why Honest Witnesses Misjudge UFOs | ifos causes of UFO 3 ed 238" aria-label="Read more about When A Balloon Becomes A Giant Craft | Why Honest Witnesses Misjudge UFOs | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -4019,7 +4019,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'fireballs/' | relative_url }}" title="Why Fireballs Look Closer Than They Are | ifos causes of UFO 3 ed 238 distance size errors" aria-label="Read more about Why Fireballs Look Closer Than They Are | ifos causes of UFO 3 ed 238 distance size errors">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'fireballs/' | relative_url }}" title="Why Fireballs Look Closer Than They Are | Why Honest Witnesses Misjudge UFOs | ifos causes of UFO 3 ed 238" aria-label="Read more about Why Fireballs Look Closer Than They Are | Why Honest Witnesses Misjudge UFOs | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -4039,7 +4039,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'point-lights/' | relative_url }}" title="Why One Light Can Look Like a Craft | ifos causes of UFO 3 ed 238 distance size errors" aria-label="Read more about Why One Light Can Look Like a Craft | ifos causes of UFO 3 ed 238 distance size errors">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'point-lights/' | relative_url }}" title="Why One Light Can Look Like a Craft | Why Honest Witnesses Misjudge UFOs | ifos causes of UFO 3 ed 238" aria-label="Read more about Why One Light Can Look Like a Craft | Why Honest Witnesses Misjudge UFOs | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -4063,7 +4063,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: How to Check a UFO Against the Sky | ifos causes of UFO" aria-expanded="false" aria-controls="home-vertical-children-node-ifos-causes-of-ufo-3ed238-astronomical-charts-89e725"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'sky-charts/' | relative_url }}" title="How to Check a UFO Against the Sky | ifos causes of UFO" aria-label="Read more about How to Check a UFO Against the Sky | ifos causes of UFO">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'sky-charts/' | relative_url }}" title="How to Check a UFO Against the Sky | ifos causes of UFO 3 ed 238" aria-label="Read more about How to Check a UFO Against the Sky | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -4083,7 +4083,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'stellarium-use/' | relative_url }}" title="How to Rebuild a UFO Sky | ifos causes of UFO 3 ed 238 astronomical charts" aria-label="Read more about How to Rebuild a UFO Sky | ifos causes of UFO 3 ed 238 astronomical charts">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'stellarium-use/' | relative_url }}" title="How to Rebuild a UFO Sky | How to Check a UFO Against the Sky | ifos causes of UFO 3 ed 238" aria-label="Read more about How to Rebuild a UFO Sky | How to Check a UFO Against the Sky | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -4103,7 +4103,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'when-investigators-compare-a-ufo/' | relative_url }}" title="Was the UFO Really Venus? | ifos causes of UFO 3 ed 238 astronomical charts" aria-label="Read more about Was the UFO Really Venus? | ifos causes of UFO 3 ed 238 astronomical charts">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'when-investigators-compare-a-ufo/' | relative_url }}" title="Was the UFO Really Venus? | How to Check a UFO Against the Sky | ifos causes of UFO 3 ed 238" aria-label="Read more about Was the UFO Really Venus? | How to Check a UFO Against the Sky | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -4123,7 +4123,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'bright-objects/' | relative_url }}" title="When Jupiter or Sirius Looks Unidentified | ifos causes of UFO 3 ed 238 astronomical charts" aria-label="Read more about When Jupiter or Sirius Looks Unidentified | ifos causes of UFO 3 ed 238 astronomical charts">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'bright-objects/' | relative_url }}" title="When Jupiter or Sirius Looks Unidentified | How to Check a UFO Against the Sky | ifos causes of UFO 3 ed 238" aria-label="Read more about When Jupiter or Sirius Looks Unidentified | How to Check a UFO Against the Sky | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -4143,7 +4143,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'horizon-haze/' | relative_url }}" title="Why Low Planets Seem to Move | ifos causes of UFO 3 ed 238 astronomical charts" aria-label="Read more about Why Low Planets Seem to Move | ifos causes of UFO 3 ed 238 astronomical charts">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'horizon-haze/' | relative_url }}" title="Why Low Planets Seem to Move | How to Check a UFO Against the Sky | ifos causes of UFO 3 ed 238" aria-label="Read more about Why Low Planets Seem to Move | How to Check a UFO Against the Sky | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -4163,7 +4163,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'missing-details/' | relative_url }}" title="Why Some UFO Charts Cannot Decide | ifos causes of UFO 3 ed 238 astronomical charts" aria-label="Read more about Why Some UFO Charts Cannot Decide | ifos causes of UFO 3 ed 238 astronomical charts">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'missing-details/' | relative_url }}" title="Why Some UFO Charts Cannot Decide | How to Check a UFO Against the Sky | ifos causes of UFO 3 ed 238" aria-label="Read more about Why Some UFO Charts Cannot Decide | How to Check a UFO Against the Sky | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -4187,7 +4187,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why Stars Flash Like Machines | ifos causes of UFO" aria-expanded="false" aria-controls="home-vertical-children-node-ifos-causes-of-ufo-3ed238-twinkling-stars-ad8e32"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'stars/' | relative_url }}" title="Why Stars Flash Like Machines | ifos causes of UFO" aria-label="Read more about Why Stars Flash Like Machines | ifos causes of UFO">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'stars/' | relative_url }}" title="Why Stars Flash Like Machines | ifos causes of UFO 3 ed 238" aria-label="Read more about Why Stars Flash Like Machines | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -4207,7 +4207,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'sky-checks/' | relative_url }}" title="How to Check a Flashing Light Against the Sky | ifos causes of UFO 3 ed 238 twinkling stars" aria-label="Read more about How to Check a Flashing Light Against the Sky | ifos causes of UFO 3 ed 238 twinkling stars">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'sky-checks/' | relative_url }}" title="How to Check a Flashing Light Against the Sky | Why Stars Flash Like Machines | ifos causes of UFO 3 ed 238" aria-label="Read more about How to Check a Flashing Light Against the Sky | Why Stars Flash Like Machines | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -4227,7 +4227,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'vanishing/' | relative_url }}" title="When a Star Suddenly Switches Off | ifos causes of UFO 3 ed 238 twinkling stars" aria-label="Read more about When a Star Suddenly Switches Off | ifos causes of UFO 3 ed 238 twinkling stars">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'vanishing/' | relative_url }}" title="When a Star Suddenly Switches Off | Why Stars Flash Like Machines | ifos causes of UFO 3 ed 238" aria-label="Read more about When a Star Suddenly Switches Off | Why Stars Flash Like Machines | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -4247,7 +4247,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'low-horizon/' | relative_url }}" title="Why Low Stars Seem to Hover and Jerk | ifos causes of UFO 3 ed 238 twinkling stars" aria-label="Read more about Why Low Stars Seem to Hover and Jerk | ifos causes of UFO 3 ed 238 twinkling stars">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'low-horizon/' | relative_url }}" title="Why Low Stars Seem to Hover and Jerk | Why Stars Flash Like Machines | ifos causes of UFO 3 ed 238" aria-label="Read more about Why Low Stars Seem to Hover and Jerk | Why Stars Flash Like Machines | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -4267,7 +4267,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'stars-vs-planets/' | relative_url }}" title="Why Planets Usually Twinkle Less Than Stars | ifos causes of UFO 3 ed 238 twinkling stars" aria-label="Read more about Why Planets Usually Twinkle Less Than Stars | ifos causes of UFO 3 ed 238 twinkling stars">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'stars-vs-planets/' | relative_url }}" title="Why Planets Usually Twinkle Less Than Stars | Why Stars Flash Like Machines | ifos causes of UFO 3 ed 238" aria-label="Read more about Why Planets Usually Twinkle Less Than Stars | Why Stars Flash Like Machines | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -4287,7 +4287,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'sirius/' | relative_url }}" title="Why Sirius So Often Looks Like a UFO | ifos causes of UFO 3 ed 238 twinkling stars" aria-label="Read more about Why Sirius So Often Looks Like a UFO | ifos causes of UFO 3 ed 238 twinkling stars">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'sirius/' | relative_url }}" title="Why Sirius So Often Looks Like a UFO | Why Stars Flash Like Machines | ifos causes of UFO 3 ed 238" aria-label="Read more about Why Sirius So Often Looks Like a UFO | Why Stars Flash Like Machines | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -4311,7 +4311,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: UFO Does Not Mean Alien | ifos causes of UFO" aria-expanded="false" aria-controls="home-vertical-children-node-ifos-causes-of-ufo-3ed238-ufo-status-labels-409edb"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'status-labels/' | relative_url }}" title="UFO Does Not Mean Alien | ifos causes of UFO" aria-label="Read more about UFO Does Not Mean Alien | ifos causes of UFO">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'status-labels/' | relative_url }}" title="UFO Does Not Mean Alien | ifos causes of UFO 3 ed 238" aria-label="Read more about UFO Does Not Mean Alien | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -4331,7 +4331,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'aaro-claims/' | relative_url }}" title="What AARO Says Evidence Still Has Not Shown | ifos causes of UFO 3 ed 238 UFO status labels" aria-label="Read more about What AARO Says Evidence Still Has Not Shown | ifos causes of UFO 3 ed 238 UFO status labels">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'aaro-claims/' | relative_url }}" title="What AARO Says Evidence Still Has Not Shown | UFO Does Not Mean Alien | ifos causes of UFO 3 ed 238" aria-label="Read more about What AARO Says Evidence Still Has Not Shown | UFO Does Not Mean Alien | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -4351,7 +4351,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'label-changes/' | relative_url }}" title="When Does a UFO Stop Being a UFO? | ifos causes of UFO 3 ed 238 UFO status labels" aria-label="Read more about When Does a UFO Stop Being a UFO? | ifos causes of UFO 3 ed 238 UFO status labels">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'label-changes/' | relative_url }}" title="When Does a UFO Stop Being a UFO? | UFO Does Not Mean Alien | ifos causes of UFO 3 ed 238" aria-label="Read more about When Does a UFO Stop Being a UFO? | UFO Does Not Mean Alien | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -4371,7 +4371,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'nasa-data/' | relative_url }}" title="Why NASA Focused on Better UAP Data | ifos causes of UFO 3 ed 238 UFO status labels" aria-label="Read more about Why NASA Focused on Better UAP Data | ifos causes of UFO 3 ed 238 UFO status labels">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'nasa-data/' | relative_url }}" title="Why NASA Focused on Better UAP Data | UFO Does Not Mean Alien | ifos causes of UFO 3 ed 238" aria-label="Read more about Why NASA Focused on Better UAP Data | UFO Does Not Mean Alien | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -4391,7 +4391,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'stigma/' | relative_url }}" title="Why UFO Wording Changes What People Report | ifos causes of UFO 3 ed 238 UFO status labels" aria-label="Read more about Why UFO Wording Changes What People Report | ifos causes of UFO 3 ed 238 UFO status labels">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'stigma/' | relative_url }}" title="Why UFO Wording Changes What People Report | UFO Does Not Mean Alien | ifos causes of UFO 3 ed 238" aria-label="Read more about Why UFO Wording Changes What People Report | UFO Does Not Mean Alien | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -4411,7 +4411,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'unresolved-cases-3e7e8b/' | relative_url }}" title="Why Unresolved Does Not Mean Alien | ifos causes of UFO 3 ed 238 UFO status labels" aria-label="Read more about Why Unresolved Does Not Mean Alien | ifos causes of UFO 3 ed 238 UFO status labels">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'unresolved-cases-3e7e8b/' | relative_url }}" title="Why Unresolved Does Not Mean Alien | UFO Does Not Mean Alien | ifos causes of UFO 3 ed 238" aria-label="Read more about Why Unresolved Does Not Mean Alien | UFO Does Not Mean Alien | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -4435,7 +4435,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: What Makes a UFO Report Harder to Explain | ifos causes of UFO" aria-expanded="false" aria-controls="home-vertical-children-node-ifos-causes-of-ufo-3ed238-stronger-ufo-reports-671b2d"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'strong-cases/' | relative_url }}" title="What Makes a UFO Report Harder to Explain | ifos causes of UFO" aria-label="Read more about What Makes a UFO Report Harder to Explain | ifos causes of UFO">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'strong-cases/' | relative_url }}" title="What Makes a UFO Report Harder to Explain | ifos causes of UFO 3 ed 238" aria-label="Read more about What Makes a UFO Report Harder to Explain | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -4455,7 +4455,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'geipan/' | relative_url }}" title="Not All Unidentified UFO Cases Are Equal | ifos causes of UFO 3 ed 238 stronger UFO reports" aria-label="Read more about Not All Unidentified UFO Cases Are Equal | ifos causes of UFO 3 ed 238 stronger UFO reports">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'geipan/' | relative_url }}" title="Not All Unidentified UFO Cases Are Equal | What Makes a UFO Report Harder to Explain | ifos causes of UFO 3 ed 238" aria-label="Read more about Not All Unidentified UFO Cases Are Equal | What Makes a UFO Report Harder to Explain | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -4475,7 +4475,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'time-checks/' | relative_url }}" title="The Details That Make UFO Reports Testable | ifos causes of UFO 3 ed 238 stronger UFO reports" aria-label="Read more about The Details That Make UFO Reports Testable | ifos causes of UFO 3 ed 238 stronger UFO reports">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'time-checks/' | relative_url }}" title="The Details That Make UFO Reports Testable | What Makes a UFO Report Harder to Explain | ifos causes of UFO 3 ed 238" aria-label="Read more about The Details That Make UFO Reports Testable | What Makes a UFO Report Harder to Explain | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -4495,7 +4495,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'lakenheath/' | relative_url }}" title="The Radar Visual Case That Would Not Settle | ifos causes of UFO 3 ed 238 stronger UFO reports" aria-label="Read more about The Radar Visual Case That Would Not Settle | ifos causes of UFO 3 ed 238 stronger UFO reports">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'lakenheath/' | relative_url }}" title="The Radar Visual Case That Would Not Settle | What Makes a UFO Report Harder to Explain | ifos causes of UFO 3 ed 238" aria-label="Read more about The Radar Visual Case That Would Not Settle | What Makes a UFO Report Harder to Explain | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -4515,7 +4515,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'multi-sensor/' | relative_url }}" title="When Do Multiple UFO Records Really Agree? | ifos causes of UFO 3 ed 238 stronger UFO reports" aria-label="Read more about When Do Multiple UFO Records Really Agree? | ifos causes of UFO 3 ed 238 stronger UFO reports">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'multi-sensor/' | relative_url }}" title="When Do Multiple UFO Records Really Agree? | What Makes a UFO Report Harder to Explain | ifos causes of UFO 3 ed 238" aria-label="Read more about When Do Multiple UFO Records Really Agree? | What Makes a UFO Report Harder to Explain | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -4535,7 +4535,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'nimitz/' | relative_url }}" title="Why the Nimitz Tic Tac Still Matters | ifos causes of UFO 3 ed 238 stronger UFO reports" aria-label="Read more about Why the Nimitz Tic Tac Still Matters | ifos causes of UFO 3 ed 238 stronger UFO reports">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'nimitz/' | relative_url }}" title="Why the Nimitz Tic Tac Still Matters | What Makes a UFO Report Harder to Explain | ifos causes of UFO 3 ed 238" aria-label="Read more about Why the Nimitz Tic Tac Still Matters | What Makes a UFO Report Harder to Explain | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -4559,7 +4559,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: What the UK UFO Files Reveal | ifos causes of UFO" aria-expanded="false" aria-controls="home-vertical-children-node-ifos-causes-of-ufo-3ed238-uk-mod-files-ed9948"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'uk-files/' | relative_url }}" title="What the UK UFO Files Reveal | ifos causes of UFO" aria-label="Read more about What the UK UFO Files Reveal | ifos causes of UFO">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'uk-files/' | relative_url }}" title="What the UK UFO Files Reveal | ifos causes of UFO 3 ed 238" aria-label="Read more about What the UK UFO Files Reveal | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -4579,7 +4579,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'lantern-surge/' | relative_url }}" title="Did lanterns fuel the Mo D UFO surge? | ifos causes of UFO 3 ed 238 UK mod files" aria-label="Read more about Did lanterns fuel the Mo D UFO surge? | ifos causes of UFO 3 ed 238 UK mod files">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'lantern-surge/' | relative_url }}" title="Did lanterns fuel the Mo D UFO surge? | What the UK UFO Files Reveal | ifos causes of UFO 3 ed 238" aria-label="Read more about Did lanterns fuel the Mo D UFO surge? | What the UK UFO Files Reveal | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -4599,7 +4599,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'light-reports/' | relative_url }}" title="How ordinary lights became Mo D UFO reports | ifos causes of UFO 3 ed 238 UK mod files" aria-label="Read more about How ordinary lights became Mo D UFO reports | ifos causes of UFO 3 ed 238 UK mod files">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'light-reports/' | relative_url }}" title="How ordinary lights became Mo D UFO reports | What the UK UFO Files Reveal | ifos causes of UFO 3 ed 238" aria-label="Read more about How ordinary lights became Mo D UFO reports | What the UK UFO Files Reveal | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -4619,7 +4619,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'condign/' | relative_url }}" title="What Project Condign really asked | ifos causes of UFO 3 ed 238 UK mod files" aria-label="Read more about What Project Condign really asked | ifos causes of UFO 3 ed 238 UK mod files">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'condign/' | relative_url }}" title="What Project Condign really asked | What the UK UFO Files Reveal | ifos causes of UFO 3 ed 238" aria-label="Read more about What Project Condign really asked | What the UK UFO Files Reveal | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -4639,7 +4639,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'desk-closure/' | relative_url }}" title="Why Britain shut its UFO desk | ifos causes of UFO 3 ed 238 UK mod files" aria-label="Read more about Why Britain shut its UFO desk | ifos causes of UFO 3 ed 238 UK mod files">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'desk-closure/' | relative_url }}" title="Why Britain shut its UFO desk | What the UK UFO Files Reveal | ifos causes of UFO 3 ed 238" aria-label="Read more about Why Britain shut its UFO desk | What the UK UFO Files Reveal | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -4659,7 +4659,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'hotline-data/' | relative_url }}" title="Why easy UFO reporting made weak evidence | ifos causes of UFO 3 ed 238 UK mod files" aria-label="Read more about Why easy UFO reporting made weak evidence | ifos causes of UFO 3 ed 238 UK mod files">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'hotline-data/' | relative_url }}" title="Why easy UFO reporting made weak evidence | What the UK UFO Files Reveal | ifos causes of UFO 3 ed 238" aria-label="Read more about Why easy UFO reporting made weak evidence | What the UK UFO Files Reveal | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -4683,7 +4683,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why Some UFO Cases Stay Open | ifos causes of UFO" aria-expanded="false" aria-controls="home-vertical-children-node-ifos-causes-of-ufo-3ed238-unresolved-cases-0eab06"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'unresolved-cases/' | relative_url }}" title="Why Some UFO Cases Stay Open | ifos causes of UFO" aria-label="Read more about Why Some UFO Cases Stay Open | ifos causes of UFO">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'unresolved-cases/' | relative_url }}" title="Why Some UFO Cases Stay Open | ifos causes of UFO 3 ed 238" aria-label="Read more about Why Some UFO Cases Stay Open | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -4703,7 +4703,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'active-archives/' | relative_url }}" title="Can Old UFO Reports Become Useful Later? | ifos causes of UFO 3 ed 238 unresolved cases" aria-label="Read more about Can Old UFO Reports Become Useful Later? | ifos causes of UFO 3 ed 238 unresolved cases">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'active-archives/' | relative_url }}" title="Can Old UFO Reports Become Useful Later? | Why Some UFO Cases Stay Open | ifos causes of UFO 3 ed 238" aria-label="Read more about Can Old UFO Reports Become Useful Later? | Why Some UFO Cases Stay Open | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -4723,7 +4723,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'weak-files/' | relative_url }}" title="When Is Unresolved the Honest Answer? | ifos causes of UFO 3 ed 238 unresolved cases" aria-label="Read more about When Is Unresolved the Honest Answer? | ifos causes of UFO 3 ed 238 unresolved cases">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'weak-files/' | relative_url }}" title="When Is Unresolved the Honest Answer? | Why Some UFO Cases Stay Open | ifos causes of UFO 3 ed 238" aria-label="Read more about When Is Unresolved the Honest Answer? | Why Some UFO Cases Stay Open | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -4743,7 +4743,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'starlink-gaps/' | relative_url }}" title="Why Satellite Lights Still Leave Open Cases | ifos causes of UFO 3 ed 238 unresolved cases" aria-label="Read more about Why Satellite Lights Still Leave Open Cases | ifos causes of UFO 3 ed 238 unresolved cases">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'starlink-gaps/' | relative_url }}" title="Why Satellite Lights Still Leave Open Cases | Why Some UFO Cases Stay Open | ifos causes of UFO 3 ed 238" aria-label="Read more about Why Satellite Lights Still Leave Open Cases | Why Some UFO Cases Stay Open | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -4763,7 +4763,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'witness-limits/' | relative_url }}" title="Why Sky Witnesses Disagree So Often | ifos causes of UFO 3 ed 238 unresolved cases" aria-label="Read more about Why Sky Witnesses Disagree So Often | ifos causes of UFO 3 ed 238 unresolved cases">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'witness-limits/' | relative_url }}" title="Why Sky Witnesses Disagree So Often | Why Some UFO Cases Stay Open | ifos causes of UFO 3 ed 238" aria-label="Read more about Why Sky Witnesses Disagree So Often | Why Some UFO Cases Stay Open | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -4783,7 +4783,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'sensor-context/' | relative_url }}" title="Why UFO Videos Need More Than Footage | ifos causes of UFO 3 ed 238 unresolved cases" aria-label="Read more about Why UFO Videos Need More Than Footage | ifos causes of UFO 3 ed 238 unresolved cases">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'sensor-context/' | relative_url }}" title="Why UFO Videos Need More Than Footage | Why Some UFO Cases Stay Open | ifos causes of UFO 3 ed 238" aria-label="Read more about Why UFO Videos Need More Than Footage | Why Some UFO Cases Stay Open | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -4807,7 +4807,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Is That UFO Really Venus? | ifos causes of UFO" aria-expanded="false" aria-controls="home-vertical-children-node-ifos-causes-of-ufo-3ed238-venus-bright-planets-216080"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'venus/' | relative_url }}" title="Is That UFO Really Venus? | ifos causes of UFO" aria-label="Read more about Is That UFO Really Venus? | ifos causes of UFO">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'venus/' | relative_url }}" title="Is That UFO Really Venus? | ifos causes of UFO 3 ed 238" aria-label="Read more about Is That UFO Really Venus? | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -4827,7 +4827,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'sky-checks-573b86/' | relative_url }}" title="How to Test the Planet Explanation | ifos causes of UFO 3 ed 238 venus bright planets" aria-label="Read more about How to Test the Planet Explanation | ifos causes of UFO 3 ed 238 venus bright planets">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'sky-checks-573b86/' | relative_url }}" title="How to Test the Planet Explanation | Is That UFO Really Venus? | ifos causes of UFO 3 ed 238" aria-label="Read more about How to Test the Planet Explanation | Is That UFO Really Venus? | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -4847,7 +4847,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'formations-183e77/' | relative_url }}" title="When Planets Look Like a Formation | ifos causes of UFO 3 ed 238 venus bright planets" aria-label="Read more about When Planets Look Like a Formation | ifos causes of UFO 3 ed 238 venus bright planets">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'formations-183e77/' | relative_url }}" title="When Planets Look Like a Formation | Is That UFO Really Venus? | ifos causes of UFO 3 ed 238" aria-label="Read more about When Planets Look Like a Formation | Is That UFO Really Venus? | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -4867,7 +4867,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'following-lights/' | relative_url }}" title="Why a Planet Seems to Follow You | ifos causes of UFO 3 ed 238 venus bright planets" aria-label="Read more about Why a Planet Seems to Follow You | ifos causes of UFO 3 ed 238 venus bright planets">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'following-lights/' | relative_url }}" title="Why a Planet Seems to Follow You | Is That UFO Really Venus? | ifos causes of UFO 3 ed 238" aria-label="Read more about Why a Planet Seems to Follow You | Is That UFO Really Venus? | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -4887,7 +4887,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'color-shifts/' | relative_url }}" title="Why Low Planets Seem to Change Colour | ifos causes of UFO 3 ed 238 venus bright planets" aria-label="Read more about Why Low Planets Seem to Change Colour | ifos causes of UFO 3 ed 238 venus bright planets">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'color-shifts/' | relative_url }}" title="Why Low Planets Seem to Change Colour | Is That UFO Really Venus? | ifos causes of UFO 3 ed 238" aria-label="Read more about Why Low Planets Seem to Change Colour | Is That UFO Really Venus? | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -4907,7 +4907,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'bright-venus/' | relative_url }}" title="Why Venus Can Look Too Close | ifos causes of UFO 3 ed 238 venus bright planets" aria-label="Read more about Why Venus Can Look Too Close | ifos causes of UFO 3 ed 238 venus bright planets">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'bright-venus/' | relative_url }}" title="Why Venus Can Look Too Close | Is That UFO Really Venus? | ifos causes of UFO 3 ed 238" aria-label="Read more about Why Venus Can Look Too Close | Is That UFO Really Venus? | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -4931,7 +4931,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Weather Clues That Explain Strange Lights | ifos causes of UFO" aria-expanded="false" aria-controls="home-vertical-children-node-ifos-causes-of-ufo-3ed238-weather-records-2fcf13"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'weather-records/' | relative_url }}" title="Weather Clues That Explain Strange Lights | ifos causes of UFO" aria-label="Read more about Weather Clues That Explain Strange Lights | ifos causes of UFO">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'weather-records/' | relative_url }}" title="Weather Clues That Explain Strange Lights | ifos causes of UFO 3 ed 238" aria-label="Read more about Weather Clues That Explain Strange Lights | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -4951,7 +4951,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'cloud-vanish/' | relative_url }}" title="Did the UFO vanish into cloud? | ifos causes of UFO 3 ed 238 weather records" aria-label="Read more about Did the UFO vanish into cloud? | ifos causes of UFO 3 ed 238 weather records">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'cloud-vanish/' | relative_url }}" title="Did the UFO vanish into cloud? | Weather Clues That Explain Strange Lights | ifos causes of UFO 3 ed 238" aria-label="Read more about Did the UFO vanish into cloud? | Weather Clues That Explain Strange Lights | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -4971,7 +4971,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'blue-book-8d9011/' | relative_url }}" title="The weather questions Blue Book needed answered | ifos causes of UFO 3 ed 238 weather records" aria-label="Read more about The weather questions Blue Book needed answered | ifos causes of UFO 3 ed 238 weather records">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'blue-book-8d9011/' | relative_url }}" title="The weather questions Blue Book needed answered | Weather Clues That Explain Strange Lights | ifos causes of UFO 3 ed 238" aria-label="Read more about The weather questions Blue Book needed answered | Weather Clues That Explain Strange Lights | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -4991,7 +4991,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'fog-limits/' | relative_url }}" title="When fog makes UFO distances fall apart | ifos causes of UFO 3 ed 238 weather records" aria-label="Read more about When fog makes UFO distances fall apart | ifos causes of UFO 3 ed 238 weather records">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'fog-limits/' | relative_url }}" title="When fog makes UFO distances fall apart | Weather Clues That Explain Strange Lights | ifos causes of UFO 3 ed 238" aria-label="Read more about When fog makes UFO distances fall apart | Weather Clues That Explain Strange Lights | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -5011,7 +5011,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'rain-halos/' | relative_url }}" title="When rain turns lights into UFOs | ifos causes of UFO 3 ed 238 weather records" aria-label="Read more about When rain turns lights into UFOs | ifos causes of UFO 3 ed 238 weather records">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'rain-halos/' | relative_url }}" title="When rain turns lights into UFOs | Weather Clues That Explain Strange Lights | ifos causes of UFO 3 ed 238" aria-label="Read more about When rain turns lights into UFOs | Weather Clues That Explain Strange Lights | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -5031,7 +5031,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'haze-planets/' | relative_url }}" title="Why a low planet can look alive | ifos causes of UFO 3 ed 238 weather records" aria-label="Read more about Why a low planet can look alive | ifos causes of UFO 3 ed 238 weather records">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'haze-planets/' | relative_url }}" title="Why a low planet can look alive | Weather Clues That Explain Strange Lights | ifos causes of UFO 3 ed 238" aria-label="Read more about Why a low planet can look alive | Weather Clues That Explain Strange Lights | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -5055,7 +5055,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Following a UFO With the Wind | ifos causes of UFO" aria-expanded="false" aria-controls="home-vertical-children-node-ifos-causes-of-ufo-3ed238-wind-data-33671a"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'wind-data/' | relative_url }}" title="Following a UFO With the Wind | ifos causes of UFO" aria-label="Read more about Following a UFO With the Wind | ifos causes of UFO">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'wind-data/' | relative_url }}" title="Following a UFO With the Wind | ifos causes of UFO 3 ed 238" aria-label="Read more about Following a UFO With the Wind | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -5075,7 +5075,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'wind-direction/' | relative_url }}" title="Are you reading the wind backwards? | ifos causes of UFO 3 ed 238 wind data" aria-label="Read more about Are you reading the wind backwards? | ifos causes of UFO 3 ed 238 wind data">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'wind-direction/' | relative_url }}" title="Are you reading the wind backwards? | Following a UFO With the Wind | ifos causes of UFO 3 ed 238" aria-label="Read more about Are you reading the wind backwards? | Following a UFO With the Wind | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -5095,7 +5095,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'trajectories/' | relative_url }}" title="Can a model trace the UFO&#x27;s drift? | ifos causes of UFO 3 ed 238 wind data" aria-label="Read more about Can a model trace the UFO&#x27;s drift? | ifos causes of UFO 3 ed 238 wind data">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'trajectories/' | relative_url }}" title="Can a model trace the UFO's drift? | Following a UFO With the Wind | ifos causes of UFO 3 ed 238" aria-label="Read more about Can a model trace the UFO's drift? | Following a UFO With the Wind | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -5115,7 +5115,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'lanterns-7293f5/' | relative_url }}" title="Do orange lights move like lanterns? | ifos causes of UFO 3 ed 238 wind data" aria-label="Read more about Do orange lights move like lanterns? | ifos causes of UFO 3 ed 238 wind data">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'lanterns-7293f5/' | relative_url }}" title="Do orange lights move like lanterns? | Following a UFO With the Wind | ifos causes of UFO 3 ed 238" aria-label="Read more about Do orange lights move like lanterns? | Following a UFO With the Wind | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -5135,7 +5135,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'surface-wind/' | relative_url }}" title="When ground wind tells the wrong story | ifos causes of UFO 3 ed 238 wind data" aria-label="Read more about When ground wind tells the wrong story | ifos causes of UFO 3 ed 238 wind data">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'surface-wind/' | relative_url }}" title="When ground wind tells the wrong story | Following a UFO With the Wind | ifos causes of UFO 3 ed 238" aria-label="Read more about When ground wind tells the wrong story | Following a UFO With the Wind | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>
@@ -5155,7 +5155,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'soundings/' | relative_url }}" title="Why balloons can change course overhead | ifos causes of UFO 3 ed 238 wind data" aria-label="Read more about Why balloons can change course overhead | ifos causes of UFO 3 ed 238 wind data">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'soundings/' | relative_url }}" title="Why balloons can change course overhead | Following a UFO With the Wind | ifos causes of UFO 3 ed 238" aria-label="Read more about Why balloons can change course overhead | Following a UFO With the Wind | ifos causes of UFO 3 ed 238">Read more</a>
 </div>
 </div>
 </div>

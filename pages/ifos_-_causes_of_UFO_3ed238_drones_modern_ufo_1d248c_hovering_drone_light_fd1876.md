@@ -266,6 +266,7 @@ next_link:
   short_title: Light Patterns
   heading_title: When drone lights look stranger than aircraft
 date: '2026-06-12 00:42:55 '
+last_modified_at: '2026-06-12 00:42:55 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c_hovering_drone_light_fd1876-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c_hovering_drone_light_fd1876-Illustration-1.webp

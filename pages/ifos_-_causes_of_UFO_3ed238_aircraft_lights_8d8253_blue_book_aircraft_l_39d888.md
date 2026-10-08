@@ -266,6 +266,7 @@ next_link:
   short_title: Head on Lights
   heading_title: Why a Plane Can Look Like It Is Hovering
 date: '2026-06-12 00:28:13 '
+last_modified_at: '2026-06-12 00:28:13 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253_blue_book_aircraft_l_39d888-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253_blue_book_aircraft_l_39d888-Illustration-1.webp

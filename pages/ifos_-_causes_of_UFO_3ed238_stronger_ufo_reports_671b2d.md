@@ -493,6 +493,7 @@ next_link:
   short_title: UK Files
   heading_title: What the UK UFO Files Reveal
 date: '2026-06-12 00:14:44 '
+last_modified_at: '2026-06-12 00:14:44 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d-overview-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d-overview.webp

@@ -266,6 +266,7 @@ next_link:
   short_title: Green orbs
   heading_title: Why phone photos make green UFO orbs
 date: '2026-06-12 00:17:44 '
+last_modified_at: '2026-06-12 00:17:44 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e_gimbal_infrared_glar_a1f3aa-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e_gimbal_infrared_glar_a1f3aa-Illustration-1.webp

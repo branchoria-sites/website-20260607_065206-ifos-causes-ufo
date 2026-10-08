@@ -266,6 +266,7 @@ next_link:
   short_title: Event beams
   heading_title: Was the UFO really an event searchlight?
 date: '2026-06-12 00:44:32 '
+last_modified_at: '2026-06-12 00:44:32 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1_cloud_screen_discs_d2af73-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1_cloud_screen_discs_d2af73-Illustration-1.webp

@@ -260,6 +260,7 @@ next_link:
   short_title: Cloud vanish
   heading_title: Did the UFO vanish into cloud?
 date: '2026-06-12 00:36:02 '
+last_modified_at: '2026-06-12 00:36:02 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13_blue_book_weather_qu_16385d-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13_blue_book_weather_qu_16385d-Illustration-1.webp

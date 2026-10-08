@@ -493,6 +493,7 @@ next_link:
   short_title: Short Clips
   heading_title: Why Short UFO Videos Are Hard to Trust
 date: '2026-06-12 00:10:13 '
+last_modified_at: '2026-06-12 00:10:13 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b-overview-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b-overview.webp

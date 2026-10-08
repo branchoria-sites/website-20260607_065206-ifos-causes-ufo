@@ -266,6 +266,7 @@ next_link:
   short_title: Hidden aircraft
   heading_title: Why the Plane Vanishes but the Trail Glows
 date: '2026-06-12 00:39:31 '
+last_modified_at: '2026-06-12 00:39:31 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e_twilight_fireball_co_d82707-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e_twilight_fireball_co_d82707-Illustration-1.webp

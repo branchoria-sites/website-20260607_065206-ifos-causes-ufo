@@ -266,6 +266,7 @@ next_link:
   short_title: Stars vs Planets
   heading_title: Why Planets Usually Twinkle Less Than Stars
 date: '2026-06-12 00:34:40 '
+last_modified_at: '2026-06-12 00:34:40 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32_sky_map_colour_light_8bcfea-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32_sky_map_colour_light_8bcfea-Illustration-1.webp

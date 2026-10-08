@@ -266,6 +266,7 @@ next_link:
   short_title: Following Lights
   heading_title: Why a Planet Seems to Follow You
 date: '2026-06-12 00:53:49 '
+last_modified_at: '2026-06-12 00:53:49 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_horizon_planet_color_10ad06-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_horizon_planet_color_10ad06-Illustration-1.webp

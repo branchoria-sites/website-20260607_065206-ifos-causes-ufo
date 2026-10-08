@@ -260,6 +260,7 @@ next_link:
   short_title: Constant bearing
   heading_title: The geometry behind the hovering light illusion
 date: '2026-06-12 00:36:57 '
+last_modified_at: '2026-06-12 00:36:57 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d_airport_approach_cor_97aa4c-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d_airport_approach_cor_97aa4c-Illustration-1.webp

@@ -266,6 +266,7 @@ next_link:
   short_title: Night videos
   heading_title: Why night UFO videos fool the eye
 date: '2026-06-12 00:17:55 '
+last_modified_at: '2026-06-12 00:17:55 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e_lens_flare_motion_te_e7c6c5-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e_lens_flare_motion_te_e7c6c5-Illustration-1.webp

@@ -260,6 +260,7 @@ next_link:
   short_title: Sirius
   heading_title: Why Sirius So Often Looks Like a UFO
 date: '2026-06-12 00:34:15 '
+last_modified_at: '2026-06-12 00:34:15 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32_low_horizon_scintill_342cd6-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32_low_horizon_scintill_342cd6-Illustration-1.webp

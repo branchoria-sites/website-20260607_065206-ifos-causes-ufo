@@ -266,6 +266,7 @@ next_link:
   short_title: Lenticulars
   heading_title: The cloud that really looks like a saucer
 date: '2026-06-12 00:17:31 '
+last_modified_at: '2026-06-12 00:17:31 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043_haze_light_halos_791cdc-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043_haze_light_halos_791cdc-Illustration-1.webp

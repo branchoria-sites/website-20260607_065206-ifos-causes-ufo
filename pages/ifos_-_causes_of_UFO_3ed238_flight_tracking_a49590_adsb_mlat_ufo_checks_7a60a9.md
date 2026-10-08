@@ -260,6 +260,7 @@ next_link:
   short_title: Appearance Clues
   heading_title: Do the lights match the flight track?
 date: '2026-06-12 00:29:16 '
+last_modified_at: '2026-06-12 00:29:16 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590_adsb_mlat_ufo_checks_7a60a9-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590_adsb_mlat_ufo_checks_7a60a9-Illustration-1.webp

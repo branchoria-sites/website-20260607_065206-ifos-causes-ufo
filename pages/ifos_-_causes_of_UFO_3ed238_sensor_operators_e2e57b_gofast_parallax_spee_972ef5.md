@@ -266,6 +266,7 @@ next_link:
   short_title: Old records
   heading_title: Why old radar cases stay mysterious
 date: '2026-06-12 00:37:58 '
+last_modified_at: '2026-06-12 00:37:58 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b_gofast_parallax_spee_972ef5-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b_gofast_parallax_spee_972ef5-Illustration-1.webp

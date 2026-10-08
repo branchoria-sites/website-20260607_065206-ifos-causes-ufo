@@ -266,6 +266,7 @@ next_link:
   short_title: Reporting Bias
   heading_title: Why AARO Reports Cluster Near Sensors
 date: '2026-06-12 00:36:28 '
+last_modified_at: '2026-06-12 00:36:28 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261_aaro_case_closure_a43d73-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261_aaro_case_closure_a43d73-Illustration-1.webp

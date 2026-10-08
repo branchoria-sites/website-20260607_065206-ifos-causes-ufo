@@ -260,6 +260,7 @@ prev_link:
   short_title: Stigma
   heading_title: Why UFO Wording Changes What People Report
 date: '2026-06-12 00:45:09 '
+last_modified_at: '2026-06-12 00:45:09 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb_unresolved_not_alien_f8453e-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb_unresolved_not_alien_f8453e-Illustration-1.webp

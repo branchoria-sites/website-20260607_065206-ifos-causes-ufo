@@ -260,6 +260,7 @@ prev_link:
   short_title: Photo Checks
   heading_title: How to Test a UFO Reflection
 date: '2026-06-12 00:46:49 '
+last_modified_at: '2026-06-12 00:46:49 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c_car_windscreen_refle_a4049c-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c_car_windscreen_refle_a4049c-Illustration-1.webp

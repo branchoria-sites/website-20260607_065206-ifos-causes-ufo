@@ -266,6 +266,7 @@ next_link:
   short_title: Real but unknown
   heading_title: Real object does not mean solved object
 date: '2026-06-12 00:33:06 '
+last_modified_at: '2026-06-12 00:33:06 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b_radar_ducting_false_010dff-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b_radar_ducting_false_010dff-Illustration-1.webp

@@ -260,6 +260,7 @@ prev_link:
   short_title: Glowing Orbs
   heading_title: Why Night Cameras Create UFO Orbs
 date: '2026-06-12 00:46:20 '
+last_modified_at: '2026-06-12 00:46:20 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74_range_evidence_camer_8b4dfe-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74_range_evidence_camer_8b4dfe-Illustration-1.webp

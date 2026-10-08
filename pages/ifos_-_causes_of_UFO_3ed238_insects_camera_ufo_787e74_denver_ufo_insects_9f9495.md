@@ -260,6 +260,7 @@ next_link:
   short_title: False Speed
   heading_title: Why Bugs Can Look Impossibly Fast
 date: '2026-06-12 00:37:37 '
+last_modified_at: '2026-06-12 00:37:37 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74_denver_ufo_insects_9f9495-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74_denver_ufo_insects_9f9495-Illustration-1.webp

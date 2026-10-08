@@ -260,6 +260,7 @@ next_link:
   short_title: Field checks
   heading_title: How Investigators Test a Bird Explanation
 date: '2026-06-12 00:36:38 '
+last_modified_at: '2026-06-12 00:36:38 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40_aaro_infrared_birds_482946-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40_aaro_infrared_birds_482946-Illustration-1.webp

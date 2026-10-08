@@ -266,6 +266,7 @@ next_link:
   short_title: Parallax
   heading_title: Why Fast UFOs May Not Be Fast
 date: '2026-06-12 00:33:29 '
+last_modified_at: '2026-06-12 00:33:29 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391_missing_context_clip_4cd188-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391_missing_context_clip_4cd188-Illustration-1.webp

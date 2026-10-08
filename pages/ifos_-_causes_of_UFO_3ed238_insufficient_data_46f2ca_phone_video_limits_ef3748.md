@@ -266,6 +266,7 @@ next_link:
   short_title: Range errors
   heading_title: When distance makes UFOs look impossible
 date: '2026-06-12 00:30:27 '
+last_modified_at: '2026-06-12 00:30:27 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_insufficient_data_46f2ca_phone_video_limits_ef3748-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_insufficient_data_46f2ca_phone_video_limits_ef3748-Illustration-1.webp

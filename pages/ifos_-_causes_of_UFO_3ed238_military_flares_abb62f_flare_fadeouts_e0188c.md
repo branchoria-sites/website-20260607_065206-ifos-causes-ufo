@@ -260,6 +260,7 @@ next_link:
   short_title: Hovering flares
   heading_title: Why falling flares seem to hover
 date: '2026-06-12 00:16:35 '
+last_modified_at: '2026-06-12 00:16:35 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_military_flares_abb62f_flare_fadeouts_e0188c-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_military_flares_abb62f_flare_fadeouts_e0188c-Illustration-1.webp

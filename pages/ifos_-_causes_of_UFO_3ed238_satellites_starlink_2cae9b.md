@@ -493,6 +493,7 @@ next_link:
   short_title: Searchlights
   heading_title: How Searchlights Paint UFOs in Clouds
 date: '2026-06-12 00:13:39 '
+last_modified_at: '2026-06-12 00:13:39 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b-overview-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b-overview.webp

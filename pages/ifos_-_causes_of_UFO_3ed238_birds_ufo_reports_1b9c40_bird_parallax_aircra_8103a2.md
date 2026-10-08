@@ -266,6 +266,7 @@ next_link:
   short_title: Pelican glints
   heading_title: Can Pelicans Look Like Silver Discs?
 date: '2026-06-12 00:42:09 '
+last_modified_at: '2026-06-12 00:42:09 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40_bird_parallax_aircra_8103a2-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40_bird_parallax_aircra_8103a2-Illustration-1.webp

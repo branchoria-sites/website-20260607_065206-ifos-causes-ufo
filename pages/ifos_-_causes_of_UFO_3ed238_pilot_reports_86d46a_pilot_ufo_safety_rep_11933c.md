@@ -266,6 +266,7 @@ next_link:
   short_title: Sensor Limits
   heading_title: When Better Sensors Still Leave Doubt
 date: '2026-06-12 00:23:11 '
+last_modified_at: '2026-06-12 00:23:11 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a_pilot_ufo_safety_rep_11933c-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a_pilot_ufo_safety_rep_11933c-Illustration-1.webp

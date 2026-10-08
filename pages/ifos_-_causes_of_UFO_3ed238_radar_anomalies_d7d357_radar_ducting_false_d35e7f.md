@@ -266,6 +266,7 @@ next_link:
   short_title: Wind Turbines
   heading_title: Why Wind Farms Can Confuse Airport Radar
 date: '2026-06-12 00:26:47 '
+last_modified_at: '2026-06-12 00:26:47 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357_radar_ducting_false_d35e7f-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357_radar_ducting_false_d35e7f-Illustration-1.webp

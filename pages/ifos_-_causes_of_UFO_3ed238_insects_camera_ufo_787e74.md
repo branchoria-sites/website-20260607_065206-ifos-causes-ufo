@@ -493,6 +493,7 @@ next_link:
   short_title: Lanterns
   heading_title: The Orange Lights That Start UFO Reports
 date: '2026-06-12 00:12:44 '
+last_modified_at: '2026-06-12 00:12:44 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74-overview-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74-overview.webp

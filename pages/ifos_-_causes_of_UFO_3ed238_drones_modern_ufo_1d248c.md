@@ -493,6 +493,7 @@ next_link:
   short_title: First Checks
   heading_title: What to Check Before Calling It a UFO
 date: '2026-06-12 00:11:50 '
+last_modified_at: '2026-06-12 00:11:50 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c-overview-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c-overview.webp

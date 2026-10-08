@@ -493,6 +493,7 @@ next_link:
   short_title: Meteors
   heading_title: When Fireballs Become UFOs
 date: '2026-06-12 00:07:36 '
+last_modified_at: '2026-06-12 00:07:36 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28-overview-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28-overview.webp

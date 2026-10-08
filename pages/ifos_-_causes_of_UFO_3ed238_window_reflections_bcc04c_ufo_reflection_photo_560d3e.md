@@ -266,6 +266,7 @@ next_link:
   short_title: Windscreens
   heading_title: Why Dashboard Lights Can Look Alive
 date: '2026-06-12 00:47:24 '
+last_modified_at: '2026-06-12 00:47:24 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c_ufo_reflection_photo_560d3e-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c_ufo_reflection_photo_560d3e-Illustration-1.webp

@@ -266,6 +266,7 @@ next_link:
   short_title: Haze planets
   heading_title: Why a low planet can look alive
 date: '2026-06-12 00:27:35 '
+last_modified_at: '2026-06-12 00:27:35 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13_fog_distance_limits_e658d9-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13_fog_distance_limits_e658d9-Illustration-1.webp

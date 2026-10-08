@@ -266,6 +266,7 @@ next_link:
   short_title: Trident Test
   heading_title: The Missile Test That Looked Like a UFO
 date: '2026-06-12 00:19:46 '
+last_modified_at: '2026-06-12 00:19:46 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132_southern_california_cf941d-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132_southern_california_cf941d-Illustration-1.webp

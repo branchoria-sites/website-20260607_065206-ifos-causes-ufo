@@ -260,6 +260,7 @@ prev_link:
   short_title: Formations
   heading_title: When Planets Look Like a Formation
 date: '2026-06-12 00:50:26 '
+last_modified_at: '2026-06-12 00:50:26 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_checking_ufo_planet_d2af8c-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_checking_ufo_planet_d2af8c-Illustration-1.webp

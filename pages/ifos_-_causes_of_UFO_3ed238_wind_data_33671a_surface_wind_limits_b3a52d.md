@@ -266,6 +266,7 @@ next_link:
   short_title: Trajectories
   heading_title: Can a model trace the UFO's drift?
 date: '2026-06-12 00:15:59 '
+last_modified_at: '2026-06-12 00:15:59 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_wind_data_33671a_surface_wind_limits_b3a52d-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_wind_data_33671a_surface_wind_limits_b3a52d-Illustration-1.webp

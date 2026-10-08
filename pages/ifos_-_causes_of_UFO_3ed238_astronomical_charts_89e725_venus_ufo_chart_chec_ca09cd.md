@@ -260,6 +260,7 @@ prev_link:
   short_title: Stellarium Use
   heading_title: How to Rebuild a UFO Sky
 date: '2026-06-12 00:48:41 '
+last_modified_at: '2026-06-12 00:48:41 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725_venus_ufo_chart_chec_ca09cd-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725_venus_ufo_chart_chec_ca09cd-Illustration-1.webp

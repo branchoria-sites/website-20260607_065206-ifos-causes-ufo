@@ -266,6 +266,7 @@ next_link:
   short_title: Sky Checks
   heading_title: How to Test the Planet Explanation
 date: '2026-06-12 00:54:03 '
+last_modified_at: '2026-06-12 00:54:03 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_planet_alignment_ufo_8c38eb-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_planet_alignment_ufo_8c38eb-Illustration-1.webp

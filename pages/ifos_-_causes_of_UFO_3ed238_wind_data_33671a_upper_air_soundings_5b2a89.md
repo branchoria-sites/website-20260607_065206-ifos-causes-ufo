@@ -266,6 +266,7 @@ next_link:
   short_title: Surface Wind
   heading_title: When ground wind tells the wrong story
 date: '2026-06-12 00:16:14 '
+last_modified_at: '2026-06-12 00:16:14 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_wind_data_33671a_upper_air_soundings_5b2a89-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_wind_data_33671a_upper_air_soundings_5b2a89-Illustration-1.webp

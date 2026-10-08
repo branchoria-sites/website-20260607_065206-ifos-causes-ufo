@@ -493,6 +493,7 @@ next_link:
   short_title: Sky Charts
   heading_title: How to Check a UFO Against the Sky
 date: '2026-06-12 00:14:06 '
+last_modified_at: '2026-06-12 00:14:06 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f-overview-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f-overview.webp

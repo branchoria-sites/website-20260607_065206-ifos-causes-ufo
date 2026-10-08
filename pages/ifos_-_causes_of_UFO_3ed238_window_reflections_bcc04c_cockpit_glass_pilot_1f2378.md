@@ -266,6 +266,7 @@ next_link:
   short_title: Night Lamps
   heading_title: When a Room Light Becomes a UFO
 date: '2026-06-12 00:45:20 '
+last_modified_at: '2026-06-12 00:45:20 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c_cockpit_glass_pilot_1f2378-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c_cockpit_glass_pilot_1f2378-Illustration-1.webp

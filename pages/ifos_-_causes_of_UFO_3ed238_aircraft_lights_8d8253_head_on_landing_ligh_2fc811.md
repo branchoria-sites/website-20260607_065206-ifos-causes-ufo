@@ -266,6 +266,7 @@ next_link:
   short_title: Nav Lights
   heading_title: When Aircraft Lights Do Not Look Like Aircraft
 date: '2026-06-12 00:28:26 '
+last_modified_at: '2026-06-12 00:28:26 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253_head_on_landing_ligh_2fc811-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253_head_on_landing_ligh_2fc811-Illustration-1.webp

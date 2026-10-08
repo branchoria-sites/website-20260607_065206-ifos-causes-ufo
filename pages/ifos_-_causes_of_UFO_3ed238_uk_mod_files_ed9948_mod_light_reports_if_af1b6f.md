@@ -260,6 +260,7 @@ prev_link:
   short_title: Lantern surge
   heading_title: Did lanterns fuel the Mo D UFO surge?
 date: '2026-06-12 00:20:38 '
+last_modified_at: '2026-06-12 00:20:38 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948_mod_light_reports_if_af1b6f-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948_mod_light_reports_if_af1b6f-Illustration-1.webp

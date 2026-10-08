@@ -266,6 +266,7 @@ next_link:
   short_title: So Cal Launches
   heading_title: Why Southern California Keeps Seeing Rocket UFOs
 date: '2026-06-12 00:23:53 '
+last_modified_at: '2026-06-12 00:23:53 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132_norway_spiral_rocket_5c1b1e-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132_norway_spiral_rocket_5c1b1e-Illustration-1.webp

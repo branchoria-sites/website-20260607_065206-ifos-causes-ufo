@@ -260,6 +260,7 @@ next_link:
   short_title: Report 14
   heading_title: What the Big Blue Book Study Really Measured
 date: '2026-06-12 00:52:05 '
+last_modified_at: '2026-06-12 00:52:05 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_project_blue_book_if_e38e81_blue_book_ifo_patter_095683-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_project_blue_book_if_e38e81_blue_book_ifo_patter_095683-Illustration-1.webp

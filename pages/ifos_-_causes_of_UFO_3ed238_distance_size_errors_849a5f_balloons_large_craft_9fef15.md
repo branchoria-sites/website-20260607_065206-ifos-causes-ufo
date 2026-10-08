@@ -266,6 +266,7 @@ next_link:
   short_title: Fireballs
   heading_title: Why Fireballs Look Closer Than They Are
 date: '2026-06-12 00:50:50 '
+last_modified_at: '2026-06-12 00:50:50 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f_balloons_large_craft_9fef15-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f_balloons_large_craft_9fef15-Illustration-1.webp

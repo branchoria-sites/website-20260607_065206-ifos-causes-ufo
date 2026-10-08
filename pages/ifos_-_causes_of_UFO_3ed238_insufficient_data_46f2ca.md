@@ -493,6 +493,7 @@ next_link:
   short_title: NASA Study
   heading_title: Why Better UFO Data Matters
 date: '2026-06-12 00:12:05 '
+last_modified_at: '2026-06-12 00:12:05 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_insufficient_data_46f2ca-overview-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_insufficient_data_46f2ca-overview.webp

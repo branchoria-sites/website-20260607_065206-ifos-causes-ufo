@@ -487,6 +487,7 @@ next_link:
   short_title: AARO
   heading_title: What Modern UAP Reviews Resolve
 date: '2026-06-12 00:09:58 '
+last_modified_at: '2026-06-12 00:09:58 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d-overview-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d-overview.webp

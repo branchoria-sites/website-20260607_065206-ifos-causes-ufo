@@ -266,6 +266,7 @@ next_link:
   short_title: Weak Files
   heading_title: When Is Unresolved the Honest Answer?
 date: '2026-06-12 00:40:18 '
+last_modified_at: '2026-06-12 00:40:18 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06_starlink_like_lights_681edf-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06_starlink_like_lights_681edf-Illustration-1.webp

@@ -266,6 +266,7 @@ next_link:
   short_title: Sky Checks
   heading_title: How to Check a Flashing Light Against the Sky
 date: '2026-06-12 00:34:28 '
+last_modified_at: '2026-06-12 00:34:28 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32_sirius_colour_flashe_e42e83-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32_sirius_colour_flashe_e42e83-Illustration-1.webp

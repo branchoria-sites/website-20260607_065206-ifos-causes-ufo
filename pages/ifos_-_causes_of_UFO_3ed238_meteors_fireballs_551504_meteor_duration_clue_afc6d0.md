@@ -265,6 +265,7 @@ next_link:
   short_title: Report checks
   heading_title: How witness reports become a sky map
 date: '2026-06-12 00:44:12 '
+last_modified_at: '2026-06-12 00:44:12 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_meteors_fireballs_551504_meteor_duration_clue_afc6d0-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_meteors_fireballs_551504_meteor_duration_clue_afc6d0-Illustration-1.webp

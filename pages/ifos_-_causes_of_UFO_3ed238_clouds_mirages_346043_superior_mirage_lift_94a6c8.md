@@ -266,6 +266,7 @@ next_link:
   short_title: Twinkling stars
   heading_title: Why a star can look alive
 date: '2026-06-12 00:25:00 '
+last_modified_at: '2026-06-12 00:25:00 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043_superior_mirage_lift_94a6c8-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043_superior_mirage_lift_94a6c8-Illustration-1.webp

@@ -260,6 +260,7 @@ prev_link:
   short_title: Starlink trains
   heading_title: Why do Starlink trains look planned?
 date: '2026-06-12 00:49:43 '
+last_modified_at: '2026-06-12 00:49:43 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b_satellite_tracker_ch_077d31-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b_satellite_tracker_ch_077d31-Illustration-1.webp

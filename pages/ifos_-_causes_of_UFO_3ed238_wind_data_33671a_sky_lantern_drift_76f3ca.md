@@ -260,6 +260,7 @@ next_link:
   short_title: Soundings
   heading_title: Why balloons can change course overhead
 date: '2026-06-12 00:15:32 '
+last_modified_at: '2026-06-12 00:15:32 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_wind_data_33671a_sky_lantern_drift_76f3ca-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_wind_data_33671a_sky_lantern_drift_76f3ca-Illustration-1.webp

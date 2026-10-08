@@ -266,6 +266,7 @@ next_link:
   short_title: Silent Objects
   heading_title: Does Silence Mean A UFO Was Huge?
 date: '2026-06-12 00:51:02 '
+last_modified_at: '2026-06-12 00:51:02 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f_bright_point_false_s_ae0dde-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f_bright_point_false_s_ae0dde-Illustration-1.webp

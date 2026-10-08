@@ -266,6 +266,7 @@ next_link:
   short_title: Sky Objects
   heading_title: When Planets Looked Like UFOs
 date: '2026-06-12 00:52:41 '
+last_modified_at: '2026-06-12 00:52:41 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_project_blue_book_if_e38e81_special_report_14_ba_88096d-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_project_blue_book_if_e38e81_special_report_14_ba_88096d-Illustration-1.webp

@@ -266,6 +266,7 @@ next_link:
   short_title: Sun Glints
   heading_title: How Sun Glints Turn Planes Into UFOs
 date: '2026-06-12 00:28:41 '
+last_modified_at: '2026-06-12 00:28:41 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253_navigation_strobe_co_85d16e-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253_navigation_strobe_co_85d16e-Illustration-1.webp

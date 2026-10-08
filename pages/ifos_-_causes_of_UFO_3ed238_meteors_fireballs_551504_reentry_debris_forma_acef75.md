@@ -259,6 +259,7 @@ next_link:
   short_title: Delayed booms
   heading_title: Why the boom came after the flash
 date: '2026-06-12 00:44:24 '
+last_modified_at: '2026-06-12 00:44:24 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_meteors_fireballs_551504_reentry_debris_forma_acef75-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_meteors_fireballs_551504_reentry_debris_forma_acef75-Illustration-1.webp

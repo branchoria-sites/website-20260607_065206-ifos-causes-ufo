@@ -260,6 +260,7 @@ next_link:
   short_title: Broken trails
   heading_title: When Contrails Look Like Structured UFOs
 date: '2026-06-12 00:38:44 '
+last_modified_at: '2026-06-12 00:38:44 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e_afterburner_plumes_u_2e9045-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e_afterburner_plumes_u_2e9045-Illustration-1.webp

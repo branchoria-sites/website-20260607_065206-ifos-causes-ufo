@@ -266,6 +266,7 @@ next_link:
   short_title: Phone networks
   heading_title: Could phones make UFO reports scientific?
 date: '2026-06-12 00:21:52 '
+last_modified_at: '2026-06-12 00:21:52 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183_missing_uap_metadata_69ee84-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183_missing_uap_metadata_69ee84-Illustration-1.webp

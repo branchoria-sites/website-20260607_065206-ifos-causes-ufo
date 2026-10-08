@@ -260,6 +260,7 @@ next_link:
   short_title: Gallup case
   heading_title: Why pilots can misread satellite flares
 date: '2026-06-12 00:26:58 '
+last_modified_at: '2026-06-12 00:26:58 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b_starlink_flares_3a1a8d-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b_starlink_flares_3a1a8d-Illustration-1.webp

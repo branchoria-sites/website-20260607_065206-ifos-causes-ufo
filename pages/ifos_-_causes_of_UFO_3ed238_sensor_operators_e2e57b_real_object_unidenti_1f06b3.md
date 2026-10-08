@@ -260,6 +260,7 @@ prev_link:
   short_title: Radar ducting
   heading_title: When weather bends radar into UFOs
 date: '2026-06-12 00:38:34 '
+last_modified_at: '2026-06-12 00:38:34 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b_real_object_unidenti_1f06b3-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b_real_object_unidenti_1f06b3-Illustration-1.webp

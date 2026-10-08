@@ -264,6 +264,7 @@ next_link:
   permalink: /winchcombe-fireball-9259-cf/
   short_title: Winchcombe Fireball 9259 Cf
 date: '2026-06-12 00:44:01 '
+last_modified_at: '2026-06-12 00:44:01 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_meteors_fireballs_551504_fireball_report_chec_372ddf-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_meteors_fireballs_551504_fireball_report_chec_372ddf-Illustration-1.webp

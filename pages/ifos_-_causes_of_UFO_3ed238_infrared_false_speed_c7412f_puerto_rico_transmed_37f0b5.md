@@ -266,6 +266,7 @@ next_link:
   short_title: Range
   heading_title: Why range makes or breaks UFO speed claims
 date: '2026-06-12 00:51:42 '
+last_modified_at: '2026-06-12 00:51:42 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f_puerto_rico_transmed_37f0b5-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f_puerto_rico_transmed_37f0b5-Illustration-1.webp

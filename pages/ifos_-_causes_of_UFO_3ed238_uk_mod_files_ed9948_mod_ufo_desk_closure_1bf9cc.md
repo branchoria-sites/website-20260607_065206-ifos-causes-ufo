@@ -266,6 +266,7 @@ next_link:
   short_title: Hotline data
   heading_title: Why easy UFO reporting made weak evidence
 date: '2026-06-12 00:20:49 '
+last_modified_at: '2026-06-12 00:20:49 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948_mod_ufo_desk_closure_1bf9cc-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948_mod_ufo_desk_closure_1bf9cc-Illustration-1.webp

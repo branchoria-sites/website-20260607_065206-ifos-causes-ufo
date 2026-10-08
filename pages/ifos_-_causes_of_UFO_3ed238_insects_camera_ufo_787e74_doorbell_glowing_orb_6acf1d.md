@@ -266,6 +266,7 @@ next_link:
   short_title: Range Checks
   heading_title: What Evidence Rules Out Camera Bugs?
 date: '2026-06-12 00:46:08 '
+last_modified_at: '2026-06-12 00:46:08 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74_doorbell_glowing_orb_6acf1d-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74_doorbell_glowing_orb_6acf1d-Illustration-1.webp

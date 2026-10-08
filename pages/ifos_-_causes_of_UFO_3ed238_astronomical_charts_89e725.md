@@ -493,6 +493,7 @@ next_link:
   short_title: Stars
   heading_title: Why Stars Flash Like Machines
 date: '2026-06-12 00:13:21 '
+last_modified_at: '2026-06-12 00:13:21 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725-overview-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725-overview.webp

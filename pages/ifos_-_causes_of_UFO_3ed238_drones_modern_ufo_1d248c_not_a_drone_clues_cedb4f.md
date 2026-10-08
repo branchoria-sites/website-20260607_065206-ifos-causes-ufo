@@ -260,6 +260,7 @@ prev_link:
   short_title: New Jersey
   heading_title: How the New Jersey drone scare snowballed
 date: '2026-06-12 00:25:22 '
+last_modified_at: '2026-06-12 00:25:22 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c_not_a_drone_clues_cedb4f-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c_not_a_drone_clues_cedb4f-Illustration-1.webp

@@ -493,6 +493,7 @@ next_link:
   short_title: Rocket Plumes
   heading_title: The Strange Clouds Rockets Leave Behind
 date: '2026-06-12 00:12:55 '
+last_modified_at: '2026-06-12 00:12:55 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c-overview-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c-overview.webp

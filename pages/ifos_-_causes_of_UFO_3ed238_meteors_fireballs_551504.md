@@ -492,6 +492,7 @@ next_link:
   short_title: Missing Data
   heading_title: Unsolved Does Not Always Mean Strange
 date: '2026-06-12 00:12:20 '
+last_modified_at: '2026-06-12 00:12:20 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_meteors_fireballs_551504-overview-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_meteors_fireballs_551504-overview.webp

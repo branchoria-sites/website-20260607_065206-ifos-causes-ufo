@@ -260,6 +260,7 @@ prev_link:
   short_title: Morris County
   heading_title: When a UFO Hoax Creates Real Witnesses
 date: '2026-06-12 00:18:49 '
+last_modified_at: '2026-06-12 00:18:49 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965_roswell_slides_promo_a3fb30-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965_roswell_slides_promo_a3fb30-Illustration-1.webp

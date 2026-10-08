@@ -266,6 +266,7 @@ next_link:
   short_title: Ranges
   heading_title: How ranges reveal flare sightings
 date: '2026-06-12 00:30:47 '
+last_modified_at: '2026-06-12 00:30:47 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_military_flares_abb62f_phoenix_lights_flare_64bee0-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_military_flares_abb62f_phoenix_lights_flare_64bee0-Illustration-1.webp

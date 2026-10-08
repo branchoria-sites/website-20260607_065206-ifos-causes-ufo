@@ -266,6 +266,7 @@ next_link:
   short_title: Not a Drone
   heading_title: When a UFO probably is not a drone
 date: '2026-06-12 00:43:08 '
+last_modified_at: '2026-06-12 00:43:08 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c_new_jersey_drone_sca_71cc59-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c_new_jersey_drone_sca_71cc59-Illustration-1.webp

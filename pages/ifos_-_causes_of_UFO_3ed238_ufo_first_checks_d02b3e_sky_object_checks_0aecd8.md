@@ -266,6 +266,7 @@ next_link:
   short_title: Weather checks
   heading_title: Did the weather make it look strange?
 date: '2026-06-12 00:24:22 '
+last_modified_at: '2026-06-12 00:24:22 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e_sky_object_checks_0aecd8-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e_sky_object_checks_0aecd8-Illustration-1.webp

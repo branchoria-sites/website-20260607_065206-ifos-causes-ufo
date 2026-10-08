@@ -266,6 +266,7 @@ next_link:
   short_title: Zoom Errors
   heading_title: Why Zoom Makes UFOs Look Faster
 date: '2026-06-12 00:26:32 '
+last_modified_at: '2026-06-12 00:26:32 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b_ufo_parallax_checks_983877-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b_ufo_parallax_checks_983877-Illustration-1.webp

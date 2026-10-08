@@ -266,6 +266,7 @@ next_link:
   short_title: Sky maps
   heading_title: Was it already in the sky?
 date: '2026-06-12 00:39:42 '
+last_modified_at: '2026-06-12 00:39:42 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e_original_photo_files_5c5c93-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e_original_photo_files_5c5c93-Illustration-1.webp

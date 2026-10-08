@@ -266,6 +266,7 @@ next_link:
   short_title: Parallax
   heading_title: Why Nearby Birds Can Look Impossibly Fast
 date: '2026-06-12 00:42:22 '
+last_modified_at: '2026-06-12 00:42:22 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40_migrating_flocks_str_882181-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40_migrating_flocks_str_882181-Illustration-1.webp

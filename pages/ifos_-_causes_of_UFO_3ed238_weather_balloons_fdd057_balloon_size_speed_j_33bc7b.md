@@ -266,6 +266,7 @@ next_link:
   short_title: Wind Drift
   heading_title: When Wind Drift Looks Like Control
 date: '2026-06-12 00:40:53 '
+last_modified_at: '2026-06-12 00:40:53 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057_balloon_size_speed_j_33bc7b-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057_balloon_size_speed_j_33bc7b-Illustration-1.webp

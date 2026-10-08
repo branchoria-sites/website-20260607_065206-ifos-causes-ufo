@@ -260,6 +260,7 @@ next_link:
   short_title: Haze halos
   heading_title: When haze makes lights look enormous
 date: '2026-06-12 00:24:47 '
+last_modified_at: '2026-06-12 00:24:47 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043_low_cloud_false_shap_143821-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043_low_cloud_false_shap_143821-Illustration-1.webp

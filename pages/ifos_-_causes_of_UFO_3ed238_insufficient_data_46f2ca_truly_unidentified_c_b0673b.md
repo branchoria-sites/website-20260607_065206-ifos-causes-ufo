@@ -260,6 +260,7 @@ prev_link:
   short_title: Timestamps
   heading_title: Why UFO reports need an exact time
 date: '2026-06-12 00:43:35 '
+last_modified_at: '2026-06-12 00:43:35 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_insufficient_data_46f2ca_truly_unidentified_c_b0673b-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_insufficient_data_46f2ca_truly_unidentified_c_b0673b-Illustration-1.webp

@@ -260,6 +260,7 @@ prev_link:
   short_title: Nimitz
   heading_title: Why the Nimitz Tic Tac Still Matters
 date: '2026-06-12 00:53:41 '
+last_modified_at: '2026-06-12 00:53:41 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d_time_direction_ufo_r_74a6dc-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d_time_direction_ufo_r_74a6dc-Illustration-1.webp

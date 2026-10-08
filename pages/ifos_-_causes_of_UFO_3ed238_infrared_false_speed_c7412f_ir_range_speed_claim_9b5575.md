@@ -266,6 +266,7 @@ next_link:
   short_title: Thermal contrast
   heading_title: When infrared brightness fools UFO viewers
 date: '2026-06-12 00:51:34 '
+last_modified_at: '2026-06-12 00:51:34 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f_ir_range_speed_claim_9b5575-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f_ir_range_speed_claim_9b5575-Illustration-1.webp

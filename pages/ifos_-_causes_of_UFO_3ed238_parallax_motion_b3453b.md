@@ -493,6 +493,7 @@ next_link:
   short_title: Pilots
   heading_title: Why Pilots Can Misidentify UFOs
 date: '2026-06-12 00:08:39 '
+last_modified_at: '2026-06-12 00:08:39 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b-overview-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b-overview.webp

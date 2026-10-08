@@ -260,6 +260,7 @@ next_link:
   short_title: Norway Spiral
   heading_title: How a Failed Rocket Made a Sky Spiral
 date: '2026-06-12 00:23:38 '
+last_modified_at: '2026-06-12 00:23:38 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132_checking_ufo_against_e894f4-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132_checking_ufo_against_e894f4-Illustration-1.webp

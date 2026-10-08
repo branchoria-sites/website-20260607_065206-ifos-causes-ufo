@@ -493,6 +493,7 @@ next_link:
   short_title: Sensor Operators
   heading_title: When Sensors Need Human Context
 date: '2026-06-12 00:13:54 '
+last_modified_at: '2026-06-12 00:13:54 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1-overview-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1-overview.webp

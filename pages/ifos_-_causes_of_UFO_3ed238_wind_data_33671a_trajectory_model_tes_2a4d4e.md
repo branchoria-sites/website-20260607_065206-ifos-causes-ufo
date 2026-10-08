@@ -266,6 +266,7 @@ next_link:
   short_title: Wind Direction
   heading_title: Are you reading the wind backwards?
 date: '2026-06-12 00:17:04 '
+last_modified_at: '2026-06-12 00:17:04 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_wind_data_33671a_trajectory_model_tes_2a4d4e-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_wind_data_33671a_trajectory_model_tes_2a4d4e-Illustration-1.webp

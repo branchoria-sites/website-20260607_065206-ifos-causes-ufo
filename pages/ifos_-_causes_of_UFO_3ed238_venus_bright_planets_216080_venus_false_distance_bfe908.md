@@ -260,6 +260,7 @@ next_link:
   short_title: Color Shifts
   heading_title: Why Low Planets Seem to Change Colour
 date: '2026-06-12 00:54:22 '
+last_modified_at: '2026-06-12 00:54:22 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_venus_false_distance_bfe908-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_venus_false_distance_bfe908-Illustration-1.webp

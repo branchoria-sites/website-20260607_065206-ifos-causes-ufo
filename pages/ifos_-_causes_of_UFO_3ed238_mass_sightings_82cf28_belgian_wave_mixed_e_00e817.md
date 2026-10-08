@@ -260,6 +260,7 @@ next_link:
   short_title: Crowd Memory
   heading_title: Why crowds remember UFO sightings together
 date: '2026-06-12 00:26:02 '
+last_modified_at: '2026-06-12 00:26:02 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28_belgian_wave_mixed_e_00e817-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28_belgian_wave_mixed_e_00e817-Illustration-1.webp

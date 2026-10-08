@@ -260,6 +260,7 @@ next_link:
   short_title: Blips vs Tracks
   heading_title: Is One Radar Blip Really a UFO?
 date: '2026-06-12 00:32:15 '
+last_modified_at: '2026-06-12 00:32:15 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357_biological_weather_r_7a55b7-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357_biological_weather_r_7a55b7-Illustration-1.webp

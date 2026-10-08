@@ -493,6 +493,7 @@ next_link:
   short_title: Flares
   heading_title: Why Flares Look Like Hovering Craft
 date: '2026-06-12 00:10:46 '
+last_modified_at: '2026-06-12 00:10:46 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e-overview-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e-overview.webp

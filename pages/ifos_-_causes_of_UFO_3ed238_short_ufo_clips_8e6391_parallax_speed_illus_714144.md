@@ -266,6 +266,7 @@ next_link:
   short_title: UFO Orbs
   heading_title: Why Night Lights Become Orbs
 date: '2026-06-12 00:33:50 '
+last_modified_at: '2026-06-12 00:33:50 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391_parallax_speed_illus_714144-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391_parallax_speed_illus_714144-Illustration-1.webp

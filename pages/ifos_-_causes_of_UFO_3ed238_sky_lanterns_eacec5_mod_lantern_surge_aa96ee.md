@@ -266,6 +266,7 @@ next_link:
   short_title: Wind drift
   heading_title: Why lanterns seem to move under control
 date: '2026-06-12 00:16:47 '
+last_modified_at: '2026-06-12 00:16:47 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5_mod_lantern_surge_aa96ee-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5_mod_lantern_surge_aa96ee-Illustration-1.webp

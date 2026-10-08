@@ -266,6 +266,7 @@ next_link:
   short_title: Flying Rods
   heading_title: Are Flying Rods Really Camera Bugs?
 date: '2026-06-12 00:25:43 '
+last_modified_at: '2026-06-12 00:25:43 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74_bugs_false_speed_a0c362-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74_bugs_false_speed_a0c362-Illustration-1.webp

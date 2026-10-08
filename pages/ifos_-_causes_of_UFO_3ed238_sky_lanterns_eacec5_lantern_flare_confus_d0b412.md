@@ -266,6 +266,7 @@ next_link:
   short_title: Formations
   heading_title: When drifting lanterns look like a formation
 date: '2026-06-12 00:20:14 '
+last_modified_at: '2026-06-12 00:20:14 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5_lantern_flare_confus_d0b412-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5_lantern_flare_confus_d0b412-Illustration-1.webp

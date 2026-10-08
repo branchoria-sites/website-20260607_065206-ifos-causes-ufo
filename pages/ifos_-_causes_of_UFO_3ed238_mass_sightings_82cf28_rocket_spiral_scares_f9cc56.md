@@ -266,6 +266,7 @@ next_link:
   short_title: Starlink Trains
   heading_title: Why Starlink trains look like UFO formations
 date: '2026-06-12 00:26:12 '
+last_modified_at: '2026-06-12 00:26:12 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28_rocket_spiral_scares_f9cc56-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28_rocket_spiral_scares_f9cc56-Illustration-1.webp

@@ -266,6 +266,7 @@ next_link:
   short_title: MJ 12 Papers
   heading_title: Can Leaked UFO Documents Be Trusted?
 date: '2026-06-12 00:18:38 '
+last_modified_at: '2026-06-12 00:18:38 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965_missing_original_fil_0f5b6f-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965_missing_original_fil_0f5b6f-Illustration-1.webp

@@ -266,6 +266,7 @@ next_link:
   short_title: Starlink Gaps
   heading_title: Why Satellite Lights Still Leave Open Cases
 date: '2026-06-12 00:40:08 '
+last_modified_at: '2026-06-12 00:40:08 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06_sensor_video_context_a04326-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06_sensor_video_context_a04326-Illustration-1.webp

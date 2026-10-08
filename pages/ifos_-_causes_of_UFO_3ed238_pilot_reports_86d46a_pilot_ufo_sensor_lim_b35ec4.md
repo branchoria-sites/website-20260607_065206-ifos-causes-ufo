@@ -266,6 +266,7 @@ next_link:
   short_title: Speed Errors
   heading_title: Why UFOs Look Faster Than They Are
 date: '2026-06-12 00:23:24 '
+last_modified_at: '2026-06-12 00:23:24 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a_pilot_ufo_sensor_lim_b35ec4-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a_pilot_ufo_sensor_lim_b35ec4-Illustration-1.webp

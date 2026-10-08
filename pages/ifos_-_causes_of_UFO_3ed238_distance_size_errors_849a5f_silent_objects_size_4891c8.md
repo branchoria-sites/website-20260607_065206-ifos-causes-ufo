@@ -260,6 +260,7 @@ prev_link:
   short_title: Point Lights
   heading_title: Why One Light Can Look Like a Craft
 date: '2026-06-12 00:48:51 '
+last_modified_at: '2026-06-12 00:48:51 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f_silent_objects_size_4891c8-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f_silent_objects_size_4891c8-Illustration-1.webp

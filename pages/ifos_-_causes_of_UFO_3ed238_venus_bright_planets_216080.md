@@ -493,6 +493,7 @@ next_link:
   short_title: Weather Records
   heading_title: Weather Clues That Explain Strange Lights
 date: '2026-06-12 00:14:58 '
+last_modified_at: '2026-06-12 00:14:58 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080-overview-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080-overview.webp

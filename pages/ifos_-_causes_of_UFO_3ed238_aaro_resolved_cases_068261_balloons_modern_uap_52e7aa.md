@@ -260,6 +260,7 @@ next_link:
   short_title: Birds
   heading_title: When Birds Turn Into Infrared Orbs
 date: '2026-06-12 00:45:46 '
+last_modified_at: '2026-06-12 00:45:46 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261_balloons_modern_uap_52e7aa-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261_balloons_modern_uap_52e7aa-Illustration-1.webp

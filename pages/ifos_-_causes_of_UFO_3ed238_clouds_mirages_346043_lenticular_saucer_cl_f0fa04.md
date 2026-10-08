@@ -266,6 +266,7 @@ next_link:
   short_title: Mirage lift
   heading_title: When the horizon puts objects in the sky
 date: '2026-06-12 00:24:37 '
+last_modified_at: '2026-06-12 00:24:37 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043_lenticular_saucer_cl_f0fa04-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043_lenticular_saucer_cl_f0fa04-Illustration-1.webp

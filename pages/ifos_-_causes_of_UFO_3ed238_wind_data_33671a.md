@@ -487,6 +487,7 @@ prev_link:
   short_title: Weather Records
   heading_title: Weather Clues That Explain Strange Lights
 date: '2026-06-12 00:05:08 '
+last_modified_at: '2026-06-12 00:05:08 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_wind_data_33671a-overview-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_wind_data_33671a-overview.webp

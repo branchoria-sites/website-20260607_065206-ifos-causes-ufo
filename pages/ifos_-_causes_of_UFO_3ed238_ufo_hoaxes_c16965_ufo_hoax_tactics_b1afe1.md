@@ -260,6 +260,7 @@ next_link:
   short_title: Missing Files
   heading_title: Why UFO Images Need Original Files
 date: '2026-06-12 00:15:19 '
+last_modified_at: '2026-06-12 00:15:19 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965_ufo_hoax_tactics_b1afe1-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965_ufo_hoax_tactics_b1afe1-Illustration-1.webp

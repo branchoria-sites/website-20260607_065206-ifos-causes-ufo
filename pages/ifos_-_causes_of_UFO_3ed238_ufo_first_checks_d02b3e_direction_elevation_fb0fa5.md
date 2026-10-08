@@ -260,6 +260,7 @@ next_link:
   short_title: Flight tracks
   heading_title: Can a flight tracker explain the sighting?
 date: '2026-06-12 00:35:10 '
+last_modified_at: '2026-06-12 00:35:10 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e_direction_elevation_fb0fa5-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e_direction_elevation_fb0fa5-Illustration-1.webp

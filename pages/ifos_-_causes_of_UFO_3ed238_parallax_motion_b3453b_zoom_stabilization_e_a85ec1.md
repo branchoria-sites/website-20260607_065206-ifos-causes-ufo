@@ -260,6 +260,7 @@ prev_link:
   short_title: Video Checks
   heading_title: How to Check a UFO Speed Claim
 date: '2026-06-12 00:31:59 '
+last_modified_at: '2026-06-12 00:31:59 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b_zoom_stabilization_e_a85ec1-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b_zoom_stabilization_e_a85ec1-Illustration-1.webp

@@ -260,6 +260,7 @@ next_link:
   short_title: Balloons
   heading_title: When A Balloon Becomes A Giant Craft
 date: '2026-06-12 00:50:40 '
+last_modified_at: '2026-06-12 00:50:40 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f_angular_ufo_reportin_cc6ec5-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f_angular_ufo_reportin_cc6ec5-Illustration-1.webp

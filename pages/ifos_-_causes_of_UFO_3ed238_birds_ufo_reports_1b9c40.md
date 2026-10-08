@@ -493,6 +493,7 @@ next_link:
   short_title: Blue Book
   heading_title: What Blue Book Teaches About IFOs
 date: '2026-06-12 00:11:36 '
+last_modified_at: '2026-06-12 00:11:36 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40-overview-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40-overview.webp

@@ -266,6 +266,7 @@ next_link:
   short_title: Motion tests
   heading_title: The camera moves that expose lens flare
 date: '2026-06-12 00:15:10 '
+last_modified_at: '2026-06-12 00:15:10 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e_phone_green_orbs_745199-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e_phone_green_orbs_745199-Illustration-1.webp

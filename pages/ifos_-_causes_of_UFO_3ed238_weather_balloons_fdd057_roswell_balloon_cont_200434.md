@@ -266,6 +266,7 @@ next_link:
   short_title: Science Balloons
   heading_title: The Giant Balloons That Do Look Weird
 date: '2026-06-12 00:41:33 '
+last_modified_at: '2026-06-12 00:41:33 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057_roswell_balloon_cont_200434-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057_roswell_balloon_cont_200434-Illustration-1.webp

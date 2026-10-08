@@ -260,6 +260,7 @@ next_link:
   short_title: Missing Context
   heading_title: What the Missing Minutes Can Reveal
 date: '2026-06-12 00:33:17 '
+last_modified_at: '2026-06-12 00:33:17 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391_compression_ufo_arti_efacc5-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391_compression_ufo_arti_efacc5-Illustration-1.webp

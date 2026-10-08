@@ -266,6 +266,7 @@ next_link:
   short_title: Sky Scale
   heading_title: Why Balloons Look Bigger Than They Are
 date: '2026-06-12 00:41:05 '
+last_modified_at: '2026-06-12 00:41:05 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057_nasa_scientific_ball_ddd9d0-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057_nasa_scientific_ball_ddd9d0-Illustration-1.webp

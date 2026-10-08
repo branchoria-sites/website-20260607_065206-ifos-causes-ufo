@@ -266,6 +266,7 @@ next_link:
   short_title: Moving Camera
   heading_title: When the Camera Creates the UFO Motion
 date: '2026-06-12 00:31:22 '
+last_modified_at: '2026-06-12 00:31:22 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b_gofast_speed_illusio_fc9eb2-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b_gofast_speed_illusio_fc9eb2-Illustration-1.webp

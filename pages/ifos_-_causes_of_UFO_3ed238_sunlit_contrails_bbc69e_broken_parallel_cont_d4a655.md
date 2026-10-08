@@ -266,6 +266,7 @@ next_link:
   short_title: Fireball trails
   heading_title: Why Some Fireballs Are Really Jet Trails
 date: '2026-06-12 00:38:57 '
+last_modified_at: '2026-06-12 00:38:57 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e_broken_parallel_cont_d4a655-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e_broken_parallel_cont_d4a655-Illustration-1.webp

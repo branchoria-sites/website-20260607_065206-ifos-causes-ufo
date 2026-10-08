@@ -266,6 +266,7 @@ next_link:
   short_title: Three Labels
   heading_title: What Did Unidentified Really Mean?
 date: '2026-06-12 00:49:17 '
+last_modified_at: '2026-06-12 00:49:17 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_project_blue_book_if_e38e81_blue_book_astronomy_ff9669-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_project_blue_book_if_e38e81_blue_book_astronomy_ff9669-Illustration-1.webp

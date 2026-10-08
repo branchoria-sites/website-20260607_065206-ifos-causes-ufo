@@ -266,6 +266,7 @@ next_link:
   short_title: Missing metadata
   heading_title: Why missing metadata creates false UFO mysteries
 date: '2026-06-12 00:22:17 '
+last_modified_at: '2026-06-12 00:22:17 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183_standard_civilian_ua_e295b0-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183_standard_civilian_ua_e295b0-Illustration-1.webp

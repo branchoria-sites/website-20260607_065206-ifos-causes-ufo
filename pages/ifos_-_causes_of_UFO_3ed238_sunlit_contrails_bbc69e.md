@@ -493,6 +493,7 @@ next_link:
   short_title: Drones
   heading_title: When a Drone Becomes a UFO
 date: '2026-06-12 00:10:28 '
+last_modified_at: '2026-06-12 00:10:28 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e-overview-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e-overview.webp

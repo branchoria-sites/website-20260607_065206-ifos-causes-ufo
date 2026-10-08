@@ -266,6 +266,7 @@ next_link:
   short_title: Satellite clues
   heading_title: Was that silent light a satellite?
 date: '2026-06-12 00:46:28 '
+last_modified_at: '2026-06-12 00:46:28 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b_gallup_pilot_flares_1bd646-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b_gallup_pilot_flares_1bd646-Illustration-1.webp

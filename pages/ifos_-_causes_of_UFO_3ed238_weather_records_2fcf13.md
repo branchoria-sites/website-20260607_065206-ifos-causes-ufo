@@ -493,6 +493,7 @@ next_link:
   short_title: Wind Data
   heading_title: Following a UFO With the Wind
 date: '2026-06-12 00:09:45 '
+last_modified_at: '2026-06-12 00:09:45 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13-overview-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13-overview.webp

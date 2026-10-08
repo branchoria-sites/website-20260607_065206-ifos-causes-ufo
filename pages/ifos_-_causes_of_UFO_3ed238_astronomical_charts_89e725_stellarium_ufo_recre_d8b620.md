@@ -266,6 +266,7 @@ next_link:
   short_title: When Investigators Compare A UFO Report With An Astronomical Chart,...
   heading_title: Was the UFO Really Venus?
 date: '2026-06-12 00:48:30 '
+last_modified_at: '2026-06-12 00:48:30 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725_stellarium_ufo_recre_d8b620-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725_stellarium_ufo_recre_d8b620-Illustration-1.webp

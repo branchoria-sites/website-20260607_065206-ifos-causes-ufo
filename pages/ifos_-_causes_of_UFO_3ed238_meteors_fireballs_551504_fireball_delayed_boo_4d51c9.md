@@ -265,6 +265,7 @@ next_link:
   short_title: Duration clues
   heading_title: Was that flash too fast to be a craft?
 date: '2026-06-12 00:43:46 '
+last_modified_at: '2026-06-12 00:43:46 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_meteors_fireballs_551504_fireball_delayed_boo_4d51c9-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_meteors_fireballs_551504_fireball_delayed_boo_4d51c9-Illustration-1.webp

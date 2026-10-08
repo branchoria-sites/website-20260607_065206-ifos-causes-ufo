@@ -266,6 +266,7 @@ next_link:
   short_title: Missing Data
   heading_title: Why Radar UFO Evidence Often Needs Metadata
 date: '2026-06-12 00:32:30 '
+last_modified_at: '2026-06-12 00:32:30 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357_radar_blips_vs_track_0f2d26-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357_radar_blips_vs_track_0f2d26-Illustration-1.webp

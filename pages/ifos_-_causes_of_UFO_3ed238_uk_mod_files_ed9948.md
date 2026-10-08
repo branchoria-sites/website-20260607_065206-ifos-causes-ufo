@@ -493,6 +493,7 @@ next_link:
   short_title: Unresolved Cases
   heading_title: Why Some UFO Cases Stay Open
 date: '2026-06-12 00:06:14 '
+last_modified_at: '2026-06-12 00:06:14 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948-overview-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948-overview.webp

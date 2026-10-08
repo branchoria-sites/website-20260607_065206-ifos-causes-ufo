@@ -266,6 +266,7 @@ next_link:
   short_title: Cloud screens
   heading_title: Why clouds make searchlights look solid
 date: '2026-06-12 00:49:55 '
+last_modified_at: '2026-06-12 00:49:55 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1_blue_book_searchligh_f9ba49-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1_blue_book_searchligh_f9ba49-Illustration-1.webp

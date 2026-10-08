@@ -260,6 +260,7 @@ next_link:
   short_title: Phone clips
   heading_title: Why clear UFO videos can still fail
 date: '2026-06-12 00:43:20 '
+last_modified_at: '2026-06-12 00:43:20 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_insufficient_data_46f2ca_blue_book_insufficie_2e23ae-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_insufficient_data_46f2ca_blue_book_insufficie_2e23ae-Illustration-1.webp

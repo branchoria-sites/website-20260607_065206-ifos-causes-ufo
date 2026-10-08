@@ -260,6 +260,7 @@ next_link:
   short_title: Lakenheath
   heading_title: The Radar Visual Case That Would Not Settle
 date: '2026-06-12 00:52:51 '
+last_modified_at: '2026-06-12 00:52:51 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d_geipan_unknown_categ_9e28d1-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d_geipan_unknown_categ_9e28d1-Illustration-1.webp

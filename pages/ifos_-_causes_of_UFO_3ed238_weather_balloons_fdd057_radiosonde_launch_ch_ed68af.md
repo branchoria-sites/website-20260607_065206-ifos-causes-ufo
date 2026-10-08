@@ -260,6 +260,7 @@ next_link:
   short_title: Roswell
   heading_title: Why Roswell Made Balloons Controversial
 date: '2026-06-12 00:41:20 '
+last_modified_at: '2026-06-12 00:41:20 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057_radiosonde_launch_ch_ed68af-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057_radiosonde_launch_ch_ed68af-Illustration-1.webp

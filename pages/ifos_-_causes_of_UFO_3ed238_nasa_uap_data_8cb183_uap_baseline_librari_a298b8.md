@@ -260,6 +260,7 @@ next_link:
   short_title: Civilian reports
   heading_title: What makes a UFO report useful?
 date: '2026-06-12 00:22:28 '
+last_modified_at: '2026-06-12 00:22:28 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183_uap_baseline_librari_a298b8-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183_uap_baseline_librari_a298b8-Illustration-1.webp

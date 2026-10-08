@@ -493,6 +493,7 @@ next_link:
   short_title: Size Errors
   heading_title: Why Honest Witnesses Misjudge UFOs
 date: '2026-06-12 00:09:09 '
+last_modified_at: '2026-06-12 00:09:09 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391-overview-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391-overview.webp

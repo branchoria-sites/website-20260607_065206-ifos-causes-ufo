@@ -493,6 +493,7 @@ next_link:
   short_title: Contrails
   heading_title: Why Jet Trails Glow Like UFOs
 date: '2026-06-12 00:14:29 '
+last_modified_at: '2026-06-12 00:14:29 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_project_blue_book_if_e38e81-overview-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_project_blue_book_if_e38e81-overview.webp

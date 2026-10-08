@@ -266,6 +266,7 @@ next_link:
   short_title: Light reports
   heading_title: How ordinary lights became Mo D UFO reports
 date: '2026-06-12 00:19:20 '
+last_modified_at: '2026-06-12 00:19:20 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948_lanterns_2009_surge_b31cbb-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948_lanterns_2009_surge_b31cbb-Illustration-1.webp

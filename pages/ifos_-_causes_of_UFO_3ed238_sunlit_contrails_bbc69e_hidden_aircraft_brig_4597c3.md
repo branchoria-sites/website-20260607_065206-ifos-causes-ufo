@@ -266,6 +266,7 @@ next_link:
   short_title: Missile illusion
   heading_title: When a Jet Trail Looks Like a Missile
 date: '2026-06-12 00:39:05 '
+last_modified_at: '2026-06-12 00:39:05 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e_hidden_aircraft_brig_4597c3-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e_hidden_aircraft_brig_4597c3-Illustration-1.webp

@@ -260,6 +260,7 @@ prev_link:
   short_title: Rocket Spirals
   heading_title: When rocket spirals become UFO scares
 date: '2026-06-12 00:26:24 '
+last_modified_at: '2026-06-12 00:26:24 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28_starlink_mass_report_88b555-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28_starlink_mass_report_88b555-Illustration-1.webp

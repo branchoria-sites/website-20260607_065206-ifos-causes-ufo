@@ -266,6 +266,7 @@ next_link:
   short_title: Time checks
   heading_title: The Details That Make UFO Reports Testable
 date: '2026-06-12 00:53:24 '
+last_modified_at: '2026-06-12 00:53:24 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d_nimitz_tic_tac_evide_a02edb-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d_nimitz_tic_tac_evide_a02edb-Illustration-1.webp

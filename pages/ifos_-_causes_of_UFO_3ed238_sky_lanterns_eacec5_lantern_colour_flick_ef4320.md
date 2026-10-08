@@ -260,6 +260,7 @@ next_link:
   short_title: Flare confusion
   heading_title: Why lanterns can look like distress flares
 date: '2026-06-12 00:20:04 '
+last_modified_at: '2026-06-12 00:20:04 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5_lantern_colour_flick_ef4320-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5_lantern_colour_flick_ef4320-Illustration-1.webp

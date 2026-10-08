@@ -260,6 +260,7 @@ next_link:
   short_title: Cockpits
   heading_title: Can Pilots Be Fooled by Cockpit Glass?
 date: '2026-06-12 00:47:13 '
+last_modified_at: '2026-06-12 00:47:13 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c_passenger_window_vid_fdc156-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c_passenger_window_vid_fdc156-Illustration-1.webp

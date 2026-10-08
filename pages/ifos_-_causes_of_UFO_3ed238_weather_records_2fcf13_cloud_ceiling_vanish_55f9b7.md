@@ -266,6 +266,7 @@ next_link:
   short_title: Fog limits
   heading_title: When fog makes UFO distances fall apart
 date: '2026-06-12 00:36:18 '
+last_modified_at: '2026-06-12 00:36:18 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13_cloud_ceiling_vanish_55f9b7-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13_cloud_ceiling_vanish_55f9b7-Illustration-1.webp

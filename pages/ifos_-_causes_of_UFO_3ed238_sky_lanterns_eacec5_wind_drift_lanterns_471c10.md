@@ -260,6 +260,7 @@ prev_link:
   short_title: Mo D surge
   heading_title: The lantern craze that flooded UFO reports
 date: '2026-06-12 00:19:09 '
+last_modified_at: '2026-06-12 00:19:09 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5_wind_drift_lanterns_471c10-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5_wind_drift_lanterns_471c10-Illustration-1.webp

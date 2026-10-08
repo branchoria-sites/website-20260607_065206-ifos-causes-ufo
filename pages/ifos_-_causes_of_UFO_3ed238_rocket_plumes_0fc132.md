@@ -493,6 +493,7 @@ next_link:
   short_title: Satellites
   heading_title: Why Satellites Surprise Night Watchers
 date: '2026-06-12 00:07:03 '
+last_modified_at: '2026-06-12 00:07:03 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132-overview-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132-overview.webp

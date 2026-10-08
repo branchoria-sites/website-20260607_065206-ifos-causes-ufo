@@ -266,6 +266,7 @@ next_link:
   short_title: Rain halos
   heading_title: When rain turns lights into UFOs
 date: '2026-06-12 00:27:47 '
+last_modified_at: '2026-06-12 00:27:47 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13_haze_planet_reports_a4be32-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13_haze_planet_reports_a4be32-Illustration-1.webp

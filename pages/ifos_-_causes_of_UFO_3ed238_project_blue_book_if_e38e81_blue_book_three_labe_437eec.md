@@ -266,6 +266,7 @@ next_link:
   short_title: Traffic Checks
   heading_title: The Hidden Traffic Behind UFO Sightings
 date: '2026-06-12 00:52:16 '
+last_modified_at: '2026-06-12 00:52:16 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_project_blue_book_if_e38e81_blue_book_three_labe_437eec-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_project_blue_book_if_e38e81_blue_book_three_labe_437eec-Illustration-1.webp

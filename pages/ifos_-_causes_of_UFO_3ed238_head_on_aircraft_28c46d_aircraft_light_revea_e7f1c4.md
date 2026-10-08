@@ -260,6 +260,7 @@ prev_link:
   short_title: Landing lights
   heading_title: Why landing lights can look like hovering UFOs
 date: '2026-06-12 00:36:47 '
+last_modified_at: '2026-06-12 00:36:47 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d_aircraft_light_revea_e7f1c4-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d_aircraft_light_revea_e7f1c4-Illustration-1.webp

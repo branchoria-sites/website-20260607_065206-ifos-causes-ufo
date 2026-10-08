@@ -266,6 +266,7 @@ next_link:
   short_title: Witness Limits
   heading_title: Why Sky Witnesses Disagree So Often
 date: '2026-06-12 00:40:29 '
+last_modified_at: '2026-06-12 00:40:29 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06_weak_files_unresolve_f6f422-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06_weak_files_unresolve_f6f422-Illustration-1.webp

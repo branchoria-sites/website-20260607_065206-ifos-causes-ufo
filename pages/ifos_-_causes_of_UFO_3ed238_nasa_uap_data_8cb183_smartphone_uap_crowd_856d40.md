@@ -266,6 +266,7 @@ next_link:
   short_title: Sensor artefacts
   heading_title: When the UFO is inside the camera
 date: '2026-06-12 00:22:05 '
+last_modified_at: '2026-06-12 00:22:05 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183_smartphone_uap_crowd_856d40-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183_smartphone_uap_crowd_856d40-Illustration-1.webp

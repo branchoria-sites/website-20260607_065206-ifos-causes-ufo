@@ -260,6 +260,7 @@ prev_link:
   short_title: Radar Ducting
   heading_title: When the Atmosphere Makes Radar See Objects
 date: '2026-06-12 00:32:55 '
+last_modified_at: '2026-06-12 00:32:55 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357_wind_turbine_radar_f_17eb42-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357_wind_turbine_radar_f_17eb42-Illustration-1.webp

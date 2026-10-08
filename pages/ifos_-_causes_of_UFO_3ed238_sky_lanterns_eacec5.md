@@ -493,6 +493,7 @@ next_link:
   short_title: Lens Flare
   heading_title: When Cameras Invent Extra Lights
 date: '2026-06-12 00:05:59 '
+last_modified_at: '2026-06-12 00:05:59 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5-overview-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5-overview.webp

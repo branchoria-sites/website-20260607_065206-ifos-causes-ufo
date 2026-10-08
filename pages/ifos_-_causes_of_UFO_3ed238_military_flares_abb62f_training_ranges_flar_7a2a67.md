@@ -266,6 +266,7 @@ next_link:
   short_title: San Diego
   heading_title: When training flares go viral
 date: '2026-06-12 00:31:11 '
+last_modified_at: '2026-06-12 00:31:11 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_military_flares_abb62f_training_ranges_flar_7a2a67-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_military_flares_abb62f_training_ranges_flar_7a2a67-Illustration-1.webp

@@ -493,6 +493,7 @@ next_link:
   short_title: Atmosphere
   heading_title: When Weather Makes Shapes in the Sky
 date: '2026-06-12 00:07:52 '
+last_modified_at: '2026-06-12 00:07:52 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253-overview-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253-overview.webp

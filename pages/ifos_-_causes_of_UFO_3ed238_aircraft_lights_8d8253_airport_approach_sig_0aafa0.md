@@ -260,6 +260,7 @@ next_link:
   short_title: Blue Book
   heading_title: What Blue Book Really Said About Aircraft
 date: '2026-06-12 00:28:01 '
+last_modified_at: '2026-06-12 00:28:01 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253_airport_approach_sig_0aafa0-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253_airport_approach_sig_0aafa0-Illustration-1.webp

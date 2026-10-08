@@ -493,6 +493,7 @@ next_link:
   short_title: Hoaxes
   heading_title: When UFO Reports Are Manufactured
 date: '2026-06-12 00:08:15 '
+last_modified_at: '2026-06-12 00:08:15 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590-overview-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590-overview.webp

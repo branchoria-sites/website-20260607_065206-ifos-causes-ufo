@@ -266,6 +266,7 @@ next_link:
   short_title: Light reveal
   heading_title: When a white orb turns into an aircraft
 date: '2026-06-12 00:37:28 '
+last_modified_at: '2026-06-12 00:37:28 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d_landing_lights_final_d358b9-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d_landing_lights_final_d358b9-Illustration-1.webp

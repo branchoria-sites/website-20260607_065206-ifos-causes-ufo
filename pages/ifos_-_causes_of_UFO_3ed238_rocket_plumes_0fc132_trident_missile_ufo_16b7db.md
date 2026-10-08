@@ -266,6 +266,7 @@ next_link:
   short_title: Twilight Plumes
   heading_title: Why Twilight Rocket Plumes Look So Strange
 date: '2026-06-12 00:19:55 '
+last_modified_at: '2026-06-12 00:19:55 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132_trident_missile_ufo_16b7db-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132_trident_missile_ufo_16b7db-Illustration-1.webp

@@ -260,6 +260,7 @@ next_link:
   short_title: Desk closure
   heading_title: Why Britain shut its UFO desk
 date: '2026-06-12 00:21:02 '
+last_modified_at: '2026-06-12 00:21:02 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948_project_condign_defe_276efb-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948_project_condign_defe_276efb-Illustration-1.webp

@@ -493,6 +493,7 @@ next_link:
   short_title: Aircraft Lights
   heading_title: Why Ordinary Aircraft Look So Strange
 date: '2026-06-12 00:13:07 '
+last_modified_at: '2026-06-12 00:13:07 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261-overview-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261-overview.webp

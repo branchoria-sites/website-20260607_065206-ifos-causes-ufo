@@ -493,6 +493,7 @@ next_link:
   short_title: Parallax
   heading_title: The Speed Illusion in UFO Footage
 date: '2026-06-12 00:06:26 '
+last_modified_at: '2026-06-12 00:06:26 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183-overview-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183-overview.webp

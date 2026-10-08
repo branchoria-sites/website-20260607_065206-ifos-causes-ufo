@@ -266,6 +266,7 @@ next_link:
   short_title: Delayed sound
   heading_title: Why the silent UFO later sounds like a plane
 date: '2026-06-12 00:37:06 '
+last_modified_at: '2026-06-12 00:37:06 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d_constant_bearing_ill_d4dad4-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d_constant_bearing_ill_d4dad4-Illustration-1.webp

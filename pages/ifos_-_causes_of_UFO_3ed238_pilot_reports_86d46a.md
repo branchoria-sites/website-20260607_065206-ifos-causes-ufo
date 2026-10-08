@@ -493,6 +493,7 @@ next_link:
   short_title: Radar
   heading_title: When Radar Sees a UFO That Isnt There
 date: '2026-06-12 00:06:40 '
+last_modified_at: '2026-06-12 00:06:40 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a-overview-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a-overview.webp

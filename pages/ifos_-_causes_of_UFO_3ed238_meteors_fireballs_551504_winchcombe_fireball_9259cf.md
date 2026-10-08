@@ -251,6 +251,7 @@ prev_link:
   short_title: Report checks
   heading_title: How witness reports become a sky map
 date: '2026-06-12 00:37:49 '
+last_modified_at: '2026-06-12 00:37:49 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_meteors_fireballs_551504_winchcombe_fireball_9259cf-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_meteors_fireballs_551504_winchcombe_fireball_9259cf-Illustration-1.webp

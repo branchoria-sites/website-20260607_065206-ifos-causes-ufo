@@ -266,6 +266,7 @@ next_link:
   short_title: Safety Reports
   heading_title: What Pilot UFO Reports Actually Prove
 date: '2026-06-12 00:22:45 '
+last_modified_at: '2026-06-12 00:22:45 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a_night_lights_pilot_u_c23a39-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a_night_lights_pilot_u_c23a39-Illustration-1.webp

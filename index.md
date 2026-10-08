@@ -207,7 +207,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-ifos---causes-of-ufo-3ed238-head-on-aircraft-28c46d" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'a-head-on-aircraft-can-look-like-a/' | relative_url }}" title="The Stationary Light That Is Moving | ifos causes of UFO" aria-label="Open page: The Stationary Light That Is Moving | ifos causes of UFO">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'a-head-on-aircraft-can-look-like-a/' | relative_url }}" title="The Stationary Light That Is Moving | ifos causes of UFO 3 ed 238" aria-label="Open page: The Stationary Light That Is Moving | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d-overview.webp' | relative_url }}" alt="Overview image for The Stationary Light That Is Moving | ifos causes of UFO" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -229,7 +229,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-head-on-aircraft-28c46d-constant-bearing-ill-d4dad4" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'constant-bearing/' | relative_url }}" title="The geometry behind the hovering light illusion | ifos causes of UFO 3 ed 238 head on aircraft" aria-label="Open page: The geometry behind the hovering light illusion | ifos causes of UFO 3 ed 238 head on aircraft">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'constant-bearing/' | relative_url }}" title="The geometry behind the hovering light illusion | The Stationary Light That Is Moving | ifos causes of UFO 3 ed 238" aria-label="Open page: The geometry behind the hovering light illusion | The Stationary Light That Is Moving | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d_constant_bearing_ill_d4dad4-Illustration-1.webp' | relative_url }}" alt="Overview image for The geometry behind the hovering light illusion | ifos causes of UFO 3 ed 238 head on aircraft" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -249,7 +249,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-head-on-aircraft-28c46d-aircraft-light-revea-e7f1c4" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'light-reveal/' | relative_url }}" title="When a white orb turns into an aircraft | ifos causes of UFO 3 ed 238 head on aircraft" aria-label="Open page: When a white orb turns into an aircraft | ifos causes of UFO 3 ed 238 head on aircraft">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'light-reveal/' | relative_url }}" title="When a white orb turns into an aircraft | The Stationary Light That Is Moving | ifos causes of UFO 3 ed 238" aria-label="Open page: When a white orb turns into an aircraft | The Stationary Light That Is Moving | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d_aircraft_light_revea_e7f1c4-Illustration-1.webp' | relative_url }}" alt="Overview image for When a white orb turns into an aircraft | ifos causes of UFO 3 ed 238 head on aircraft" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -269,7 +269,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-head-on-aircraft-28c46d-airport-approach-cor-97aa4c" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'approach-paths/' | relative_url }}" title="When the same hovering light keeps coming back | ifos causes of UFO 3 ed 238 head on aircraft" aria-label="Open page: When the same hovering light keeps coming back | ifos causes of UFO 3 ed 238 head on aircraft">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'approach-paths/' | relative_url }}" title="When the same hovering light keeps coming back | The Stationary Light That Is Moving | ifos causes of UFO 3 ed 238" aria-label="Open page: When the same hovering light keeps coming back | The Stationary Light That Is Moving | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d_airport_approach_cor_97aa4c-Illustration-1.webp' | relative_url }}" alt="Overview image for When the same hovering light keeps coming back | ifos causes of UFO 3 ed 238 head on aircraft" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -289,7 +289,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-head-on-aircraft-28c46d-landing-lights-final-d358b9" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'landing-lights/' | relative_url }}" title="Why landing lights can look like hovering UFOs | ifos causes of UFO 3 ed 238 head on aircraft" aria-label="Open page: Why landing lights can look like hovering UFOs | ifos causes of UFO 3 ed 238 head on aircraft">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'landing-lights/' | relative_url }}" title="Why landing lights can look like hovering UFOs | The Stationary Light That Is Moving | ifos causes of UFO 3 ed 238" aria-label="Open page: Why landing lights can look like hovering UFOs | The Stationary Light That Is Moving | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d_landing_lights_final_d358b9-Illustration-1.webp' | relative_url }}" alt="Overview image for Why landing lights can look like hovering UFOs | ifos causes of UFO 3 ed 238 head on aircraft" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -309,7 +309,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-head-on-aircraft-28c46d-delayed-aircraft-sou-3c6540" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'delayed-sound/' | relative_url }}" title="Why the silent UFO later sounds like a plane | ifos causes of UFO 3 ed 238 head on aircraft" aria-label="Open page: Why the silent UFO later sounds like a plane | ifos causes of UFO 3 ed 238 head on aircraft">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'delayed-sound/' | relative_url }}" title="Why the silent UFO later sounds like a plane | The Stationary Light That Is Moving | ifos causes of UFO 3 ed 238" aria-label="Open page: Why the silent UFO later sounds like a plane | The Stationary Light That Is Moving | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d_delayed_aircraft_sou_3c6540-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the silent UFO later sounds like a plane | ifos causes of UFO 3 ed 238 head on aircraft" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -331,7 +331,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-ifos---causes-of-ufo-3ed238-aaro-resolved-cases-068261" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'aaro/' | relative_url }}" title="What Modern UAP Reviews Resolve | ifos causes of UFO" aria-label="Open page: What Modern UAP Reviews Resolve | ifos causes of UFO">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'aaro/' | relative_url }}" title="What Modern UAP Reviews Resolve | ifos causes of UFO 3 ed 238" aria-label="Open page: What Modern UAP Reviews Resolve | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261-overview.webp' | relative_url }}" alt="Overview image for What Modern UAP Reviews Resolve | ifos causes of UFO" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -353,7 +353,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-aaro-resolved-cases-068261-aaro-case-closure-a43d73" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'case-closure/' | relative_url }}" title="How UAP Cases Become Identified Objects | ifos causes of UFO 3 ed 238 AARO resolved cases" aria-label="Open page: How UAP Cases Become Identified Objects | ifos causes of UFO 3 ed 238 AARO resolved cases">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'case-closure/' | relative_url }}" title="How UAP Cases Become Identified Objects | What Modern UAP Reviews Resolve | ifos causes of UFO 3 ed 238" aria-label="Open page: How UAP Cases Become Identified Objects | What Modern UAP Reviews Resolve | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261_aaro_case_closure_a43d73-Illustration-1.webp' | relative_url }}" alt="Overview image for How UAP Cases Become Identified Objects | ifos causes of UFO 3 ed 238 AARO resolved cases" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -373,7 +373,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-aaro-resolved-cases-068261-birds-infrared-orbs-ea0573" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'birds-326689/' | relative_url }}" title="When Birds Turn Into Infrared Orbs | ifos causes of UFO 3 ed 238 AARO resolved cases" aria-label="Open page: When Birds Turn Into Infrared Orbs | ifos causes of UFO 3 ed 238 AARO resolved cases">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'birds-326689/' | relative_url }}" title="When Birds Turn Into Infrared Orbs | What Modern UAP Reviews Resolve | ifos causes of UFO 3 ed 238" aria-label="Open page: When Birds Turn Into Infrared Orbs | What Modern UAP Reviews Resolve | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261_birds_infrared_orbs_ea0573-Illustration-1.webp' | relative_url }}" alt="Overview image for When Birds Turn Into Infrared Orbs | ifos causes of UFO 3 ed 238 AARO resolved cases" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -393,7 +393,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-aaro-resolved-cases-068261-aaro-reporting-bias-194fe5" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'reporting-bias/' | relative_url }}" title="Why AARO Reports Cluster Near Sensors | ifos causes of UFO 3 ed 238 AARO resolved cases" aria-label="Open page: Why AARO Reports Cluster Near Sensors | ifos causes of UFO 3 ed 238 AARO resolved cases">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'reporting-bias/' | relative_url }}" title="Why AARO Reports Cluster Near Sensors | What Modern UAP Reviews Resolve | ifos causes of UFO 3 ed 238" aria-label="Open page: Why AARO Reports Cluster Near Sensors | What Modern UAP Reviews Resolve | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261_aaro_reporting_bias_194fe5-Illustration-1.webp' | relative_url }}" alt="Overview image for Why AARO Reports Cluster Near Sensors | ifos causes of UFO 3 ed 238 AARO resolved cases" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -413,7 +413,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-aaro-resolved-cases-068261-balloons-modern-uap-52e7aa" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'balloons-357446/' | relative_url }}" title="Why Balloons Still Fool Modern Sensors | ifos causes of UFO 3 ed 238 AARO resolved cases" aria-label="Open page: Why Balloons Still Fool Modern Sensors | ifos causes of UFO 3 ed 238 AARO resolved cases">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'balloons-357446/' | relative_url }}" title="Why Balloons Still Fool Modern Sensors | What Modern UAP Reviews Resolve | ifos causes of UFO 3 ed 238" aria-label="Open page: Why Balloons Still Fool Modern Sensors | What Modern UAP Reviews Resolve | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261_balloons_modern_uap_52e7aa-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Balloons Still Fool Modern Sensors | ifos causes of UFO 3 ed 238 AARO resolved cases" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -433,7 +433,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-aaro-resolved-cases-068261-starlink-pilot-repor-45c29c" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'starlink/' | relative_url }}" title="Why Starlink Can Look Like UAP | ifos causes of UFO 3 ed 238 AARO resolved cases" aria-label="Open page: Why Starlink Can Look Like UAP | ifos causes of UFO 3 ed 238 AARO resolved cases">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'starlink/' | relative_url }}" title="Why Starlink Can Look Like UAP | What Modern UAP Reviews Resolve | ifos causes of UFO 3 ed 238" aria-label="Open page: Why Starlink Can Look Like UAP | What Modern UAP Reviews Resolve | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261_starlink_pilot_repor_45c29c-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Starlink Can Look Like UAP | ifos causes of UFO 3 ed 238 AARO resolved cases" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -455,7 +455,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-ifos---causes-of-ufo-3ed238-aircraft-lights-8d8253" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'aircraft-lights/' | relative_url }}" title="Why Ordinary Aircraft Look So Strange | ifos causes of UFO" aria-label="Open page: Why Ordinary Aircraft Look So Strange | ifos causes of UFO">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'aircraft-lights/' | relative_url }}" title="Why Ordinary Aircraft Look So Strange | ifos causes of UFO 3 ed 238" aria-label="Open page: Why Ordinary Aircraft Look So Strange | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253-overview.webp' | relative_url }}" alt="Overview image for Why Ordinary Aircraft Look So Strange | ifos causes of UFO" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -477,7 +477,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-aircraft-lights-8d8253-sunlight-glints-airc-ea6ead" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'sun-glints/' | relative_url }}" title="How Sun Glints Turn Planes Into UFOs | ifos causes of UFO 3 ed 238 aircraft lights" aria-label="Open page: How Sun Glints Turn Planes Into UFOs | ifos causes of UFO 3 ed 238 aircraft lights">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'sun-glints/' | relative_url }}" title="How Sun Glints Turn Planes Into UFOs | Why Ordinary Aircraft Look So Strange | ifos causes of UFO 3 ed 238" aria-label="Open page: How Sun Glints Turn Planes Into UFOs | Why Ordinary Aircraft Look So Strange | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253_sunlight_glints_airc_ea6ead-Illustration-1.webp' | relative_url }}" alt="Overview image for How Sun Glints Turn Planes Into UFOs | ifos causes of UFO 3 ed 238 aircraft lights" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -497,7 +497,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-aircraft-lights-8d8253-blue-book-aircraft-l-39d888" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'blue-book-70ab5a/' | relative_url }}" title="What Blue Book Really Said About Aircraft | ifos causes of UFO 3 ed 238 aircraft lights" aria-label="Open page: What Blue Book Really Said About Aircraft | ifos causes of UFO 3 ed 238 aircraft lights">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'blue-book-70ab5a/' | relative_url }}" title="What Blue Book Really Said About Aircraft | Why Ordinary Aircraft Look So Strange | ifos causes of UFO 3 ed 238" aria-label="Open page: What Blue Book Really Said About Aircraft | Why Ordinary Aircraft Look So Strange | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253_blue_book_aircraft_l_39d888-Illustration-1.webp' | relative_url }}" alt="Overview image for What Blue Book Really Said About Aircraft | ifos causes of UFO 3 ed 238 aircraft lights" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -517,7 +517,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-aircraft-lights-8d8253-navigation-strobe-co-85d16e" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'nav-lights/' | relative_url }}" title="When Aircraft Lights Do Not Look Like Aircraft | ifos causes of UFO 3 ed 238 aircraft lights" aria-label="Open page: When Aircraft Lights Do Not Look Like Aircraft | ifos causes of UFO 3 ed 238 aircraft lights">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'nav-lights/' | relative_url }}" title="When Aircraft Lights Do Not Look Like Aircraft | Why Ordinary Aircraft Look So Strange | ifos causes of UFO 3 ed 238" aria-label="Open page: When Aircraft Lights Do Not Look Like Aircraft | Why Ordinary Aircraft Look So Strange | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253_navigation_strobe_co_85d16e-Illustration-1.webp' | relative_url }}" alt="Overview image for When Aircraft Lights Do Not Look Like Aircraft | ifos causes of UFO 3 ed 238 aircraft lights" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -537,7 +537,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-aircraft-lights-8d8253-head-on-landing-ligh-2fc811" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'head-on-lights/' | relative_url }}" title="Why a Plane Can Look Like It Is Hovering | ifos causes of UFO 3 ed 238 aircraft lights" aria-label="Open page: Why a Plane Can Look Like It Is Hovering | ifos causes of UFO 3 ed 238 aircraft lights">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'head-on-lights/' | relative_url }}" title="Why a Plane Can Look Like It Is Hovering | Why Ordinary Aircraft Look So Strange | ifos causes of UFO 3 ed 238" aria-label="Open page: Why a Plane Can Look Like It Is Hovering | Why Ordinary Aircraft Look So Strange | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253_head_on_landing_ligh_2fc811-Illustration-1.webp' | relative_url }}" alt="Overview image for Why a Plane Can Look Like It Is Hovering | ifos causes of UFO 3 ed 238 aircraft lights" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -557,7 +557,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-aircraft-lights-8d8253-airport-approach-sig-0aafa0" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'airport-approach-corridors/' | relative_url }}" title="Why Airport Approaches Produce Strange Lights | ifos causes of UFO 3 ed 238 aircraft lights" aria-label="Open page: Why Airport Approaches Produce Strange Lights | ifos causes of UFO 3 ed 238 aircraft lights">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'airport-approach-corridors/' | relative_url }}" title="Why Airport Approaches Produce Strange Lights | Why Ordinary Aircraft Look So Strange | ifos causes of UFO 3 ed 238" aria-label="Open page: Why Airport Approaches Produce Strange Lights | Why Ordinary Aircraft Look So Strange | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253_airport_approach_sig_0aafa0-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Airport Approaches Produce Strange Lights | ifos causes of UFO 3 ed 238 aircraft lights" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -579,7 +579,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-ifos---causes-of-ufo-3ed238-clouds-mirages-346043" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'atmosphere/' | relative_url }}" title="When Weather Makes Shapes in the Sky | ifos causes of UFO" aria-label="Open page: When Weather Makes Shapes in the Sky | ifos causes of UFO">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'atmosphere/' | relative_url }}" title="When Weather Makes Shapes in the Sky | ifos causes of UFO 3 ed 238" aria-label="Open page: When Weather Makes Shapes in the Sky | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043-overview.webp' | relative_url }}" alt="Overview image for When Weather Makes Shapes in the Sky | ifos causes of UFO" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -601,7 +601,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-clouds-mirages-346043-low-cloud-false-shap-143821" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'cloud-shapes/' | relative_url }}" title="Can clouds draw a fake spacecraft? | ifos causes of UFO 3 ed 238 clouds mirages" aria-label="Open page: Can clouds draw a fake spacecraft? | ifos causes of UFO 3 ed 238 clouds mirages">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'cloud-shapes/' | relative_url }}" title="Can clouds draw a fake spacecraft? | When Weather Makes Shapes in the Sky | ifos causes of UFO 3 ed 238" aria-label="Open page: Can clouds draw a fake spacecraft? | When Weather Makes Shapes in the Sky | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043_low_cloud_false_shap_143821-Illustration-1.webp' | relative_url }}" alt="Overview image for Can clouds draw a fake spacecraft? | ifos causes of UFO 3 ed 238 clouds mirages" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -621,7 +621,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-clouds-mirages-346043-lenticular-saucer-cl-f0fa04" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'lenticulars/' | relative_url }}" title="The cloud that really looks like a saucer | ifos causes of UFO 3 ed 238 clouds mirages" aria-label="Open page: The cloud that really looks like a saucer | ifos causes of UFO 3 ed 238 clouds mirages">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'lenticulars/' | relative_url }}" title="The cloud that really looks like a saucer | When Weather Makes Shapes in the Sky | ifos causes of UFO 3 ed 238" aria-label="Open page: The cloud that really looks like a saucer | When Weather Makes Shapes in the Sky | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043_lenticular_saucer_cl_f0fa04-Illustration-1.webp' | relative_url }}" alt="Overview image for The cloud that really looks like a saucer | ifos causes of UFO 3 ed 238 clouds mirages" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -641,7 +641,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-clouds-mirages-346043-haze-light-halos-791cdc" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'haze-halos/' | relative_url }}" title="When haze makes lights look enormous | ifos causes of UFO 3 ed 238 clouds mirages" aria-label="Open page: When haze makes lights look enormous | ifos causes of UFO 3 ed 238 clouds mirages">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'haze-halos/' | relative_url }}" title="When haze makes lights look enormous | When Weather Makes Shapes in the Sky | ifos causes of UFO 3 ed 238" aria-label="Open page: When haze makes lights look enormous | When Weather Makes Shapes in the Sky | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043_haze_light_halos_791cdc-Illustration-1.webp' | relative_url }}" alt="Overview image for When haze makes lights look enormous | ifos causes of UFO 3 ed 238 clouds mirages" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -661,7 +661,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-clouds-mirages-346043-superior-mirage-lift-94a6c8" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'mirage-lift/' | relative_url }}" title="When the horizon puts objects in the sky | ifos causes of UFO 3 ed 238 clouds mirages" aria-label="Open page: When the horizon puts objects in the sky | ifos causes of UFO 3 ed 238 clouds mirages">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'mirage-lift/' | relative_url }}" title="When the horizon puts objects in the sky | When Weather Makes Shapes in the Sky | ifos causes of UFO 3 ed 238" aria-label="Open page: When the horizon puts objects in the sky | When Weather Makes Shapes in the Sky | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043_superior_mirage_lift_94a6c8-Illustration-1.webp' | relative_url }}" alt="Overview image for When the horizon puts objects in the sky | ifos causes of UFO 3 ed 238 clouds mirages" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -681,7 +681,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-clouds-mirages-346043-twinkling-moving-sta-10c309" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'twinkling-stars/' | relative_url }}" title="Why a star can look alive | ifos causes of UFO 3 ed 238 clouds mirages" aria-label="Open page: Why a star can look alive | ifos causes of UFO 3 ed 238 clouds mirages">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'twinkling-stars/' | relative_url }}" title="Why a star can look alive | When Weather Makes Shapes in the Sky | ifos causes of UFO 3 ed 238" aria-label="Open page: Why a star can look alive | When Weather Makes Shapes in the Sky | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043_twinkling_moving_sta_10c309-Illustration-1.webp' | relative_url }}" alt="Overview image for Why a star can look alive | ifos causes of UFO 3 ed 238 clouds mirages" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -703,7 +703,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-ifos---causes-of-ufo-3ed238-weather-balloons-fdd057" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'balloons/' | relative_url }}" title="Why Balloons Become Flying Saucers | ifos causes of UFO" aria-label="Open page: Why Balloons Become Flying Saucers | ifos causes of UFO">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'balloons/' | relative_url }}" title="Why Balloons Become Flying Saucers | ifos causes of UFO 3 ed 238" aria-label="Open page: Why Balloons Become Flying Saucers | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057-overview.webp' | relative_url }}" alt="Overview image for Why Balloons Become Flying Saucers | ifos causes of UFO" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -725,7 +725,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-weather-balloons-fdd057-radiosonde-launch-ch-ed68af" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'launch-checks-b1c793/' | relative_url }}" title="How Investigators Check Balloon Sightings | ifos causes of UFO 3 ed 238 weather balloons" aria-label="Open page: How Investigators Check Balloon Sightings | ifos causes of UFO 3 ed 238 weather balloons">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'launch-checks-b1c793/' | relative_url }}" title="How Investigators Check Balloon Sightings | Why Balloons Become Flying Saucers | ifos causes of UFO 3 ed 238" aria-label="Open page: How Investigators Check Balloon Sightings | Why Balloons Become Flying Saucers | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057_radiosonde_launch_ch_ed68af-Illustration-1.webp' | relative_url }}" alt="Overview image for How Investigators Check Balloon Sightings | ifos causes of UFO 3 ed 238 weather balloons" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -745,7 +745,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-weather-balloons-fdd057-nasa-scientific-ball-ddd9d0" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'science-balloons/' | relative_url }}" title="The Giant Balloons That Do Look Weird | ifos causes of UFO 3 ed 238 weather balloons" aria-label="Open page: The Giant Balloons That Do Look Weird | ifos causes of UFO 3 ed 238 weather balloons">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'science-balloons/' | relative_url }}" title="The Giant Balloons That Do Look Weird | Why Balloons Become Flying Saucers | ifos causes of UFO 3 ed 238" aria-label="Open page: The Giant Balloons That Do Look Weird | Why Balloons Become Flying Saucers | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057_nasa_scientific_ball_ddd9d0-Illustration-1.webp' | relative_url }}" alt="Overview image for The Giant Balloons That Do Look Weird | ifos causes of UFO 3 ed 238 weather balloons" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -765,7 +765,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-weather-balloons-fdd057-upper-wind-balloon-m-749503" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'wind-drift-8cd157/' | relative_url }}" title="When Wind Drift Looks Like Control | ifos causes of UFO 3 ed 238 weather balloons" aria-label="Open page: When Wind Drift Looks Like Control | ifos causes of UFO 3 ed 238 weather balloons">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'wind-drift-8cd157/' | relative_url }}" title="When Wind Drift Looks Like Control | Why Balloons Become Flying Saucers | ifos causes of UFO 3 ed 238" aria-label="Open page: When Wind Drift Looks Like Control | Why Balloons Become Flying Saucers | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057_upper_wind_balloon_m_749503-Illustration-1.webp' | relative_url }}" alt="Overview image for When Wind Drift Looks Like Control | ifos causes of UFO 3 ed 238 weather balloons" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -785,7 +785,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-weather-balloons-fdd057-balloon-size-speed-j-33bc7b" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'sky-scale/' | relative_url }}" title="Why Balloons Look Bigger Than They Are | ifos causes of UFO 3 ed 238 weather balloons" aria-label="Open page: Why Balloons Look Bigger Than They Are | ifos causes of UFO 3 ed 238 weather balloons">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'sky-scale/' | relative_url }}" title="Why Balloons Look Bigger Than They Are | Why Balloons Become Flying Saucers | ifos causes of UFO 3 ed 238" aria-label="Open page: Why Balloons Look Bigger Than They Are | Why Balloons Become Flying Saucers | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057_balloon_size_speed_j_33bc7b-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Balloons Look Bigger Than They Are | ifos causes of UFO 3 ed 238 weather balloons" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -805,7 +805,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-weather-balloons-fdd057-roswell-balloon-cont-200434" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'roswell/' | relative_url }}" title="Why Roswell Made Balloons Controversial | ifos causes of UFO 3 ed 238 weather balloons" aria-label="Open page: Why Roswell Made Balloons Controversial | ifos causes of UFO 3 ed 238 weather balloons">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'roswell/' | relative_url }}" title="Why Roswell Made Balloons Controversial | Why Balloons Become Flying Saucers | ifos causes of UFO 3 ed 238" aria-label="Open page: Why Roswell Made Balloons Controversial | Why Balloons Become Flying Saucers | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057_roswell_balloon_cont_200434-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Roswell Made Balloons Controversial | ifos causes of UFO 3 ed 238 weather balloons" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -827,7 +827,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-ifos---causes-of-ufo-3ed238-birds-ufo-reports-1b9c40" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'birds/' | relative_url }}" title="How Birds Become Fast UFOs | ifos causes of UFO" aria-label="Open page: How Birds Become Fast UFOs | ifos causes of UFO">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'birds/' | relative_url }}" title="How Birds Become Fast UFOs | ifos causes of UFO 3 ed 238" aria-label="Open page: How Birds Become Fast UFOs | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40-overview.webp' | relative_url }}" alt="Overview image for How Birds Become Fast UFOs | ifos causes of UFO" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -849,7 +849,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-birds-ufo-reports-1b9c40-pelican-glints-ufo-8026ee" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'pelican-glints/' | relative_url }}" title="Can Pelicans Look Like Silver Discs? | ifos causes of UFO 3 ed 238 birds UFO reports" aria-label="Open page: Can Pelicans Look Like Silver Discs? | ifos causes of UFO 3 ed 238 birds UFO reports">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'pelican-glints/' | relative_url }}" title="Can Pelicans Look Like Silver Discs? | How Birds Become Fast UFOs | ifos causes of UFO 3 ed 238" aria-label="Open page: Can Pelicans Look Like Silver Discs? | How Birds Become Fast UFOs | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40_pelican_glints_ufo_8026ee-Illustration-1.webp' | relative_url }}" alt="Overview image for Can Pelicans Look Like Silver Discs? | ifos causes of UFO 3 ed 238 birds UFO reports" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -869,7 +869,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-birds-ufo-reports-1b9c40-bird-explanation-che-8ed0b4" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'field-checks/' | relative_url }}" title="How Investigators Test a Bird Explanation | ifos causes of UFO 3 ed 238 birds UFO reports" aria-label="Open page: How Investigators Test a Bird Explanation | ifos causes of UFO 3 ed 238 birds UFO reports">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'field-checks/' | relative_url }}" title="How Investigators Test a Bird Explanation | How Birds Become Fast UFOs | ifos causes of UFO 3 ed 238" aria-label="Open page: How Investigators Test a Bird Explanation | How Birds Become Fast UFOs | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40_bird_explanation_che_8ed0b4-Illustration-1.webp' | relative_url }}" alt="Overview image for How Investigators Test a Bird Explanation | ifos causes of UFO 3 ed 238 birds UFO reports" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -889,7 +889,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-birds-ufo-reports-1b9c40-migrating-flocks-str-882181" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'flocks/' | relative_url }}" title="When Bird Flocks Become Flying Formations | ifos causes of UFO 3 ed 238 birds UFO reports" aria-label="Open page: When Bird Flocks Become Flying Formations | ifos causes of UFO 3 ed 238 birds UFO reports">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'flocks/' | relative_url }}" title="When Bird Flocks Become Flying Formations | How Birds Become Fast UFOs | ifos causes of UFO 3 ed 238" aria-label="Open page: When Bird Flocks Become Flying Formations | How Birds Become Fast UFOs | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40_migrating_flocks_str_882181-Illustration-1.webp' | relative_url }}" alt="Overview image for When Bird Flocks Become Flying Formations | ifos causes of UFO 3 ed 238 birds UFO reports" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -909,7 +909,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-birds-ufo-reports-1b9c40-aaro-infrared-birds-482946" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'aaro-ir-birds/' | relative_url }}" title="When Military Infrared Footage Shows Birds | ifos causes of UFO 3 ed 238 birds UFO reports" aria-label="Open page: When Military Infrared Footage Shows Birds | ifos causes of UFO 3 ed 238 birds UFO reports">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'aaro-ir-birds/' | relative_url }}" title="When Military Infrared Footage Shows Birds | How Birds Become Fast UFOs | ifos causes of UFO 3 ed 238" aria-label="Open page: When Military Infrared Footage Shows Birds | How Birds Become Fast UFOs | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40_aaro_infrared_birds_482946-Illustration-1.webp' | relative_url }}" alt="Overview image for When Military Infrared Footage Shows Birds | ifos causes of UFO 3 ed 238 birds UFO reports" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -929,7 +929,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-birds-ufo-reports-1b9c40-bird-parallax-aircra-8103a2" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'parallax-a7662a/' | relative_url }}" title="Why Nearby Birds Can Look Impossibly Fast | ifos causes of UFO 3 ed 238 birds UFO reports" aria-label="Open page: Why Nearby Birds Can Look Impossibly Fast | ifos causes of UFO 3 ed 238 birds UFO reports">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'parallax-a7662a/' | relative_url }}" title="Why Nearby Birds Can Look Impossibly Fast | How Birds Become Fast UFOs | ifos causes of UFO 3 ed 238" aria-label="Open page: Why Nearby Birds Can Look Impossibly Fast | How Birds Become Fast UFOs | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40_bird_parallax_aircra_8103a2-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Nearby Birds Can Look Impossibly Fast | ifos causes of UFO 3 ed 238 birds UFO reports" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -951,7 +951,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-ifos---causes-of-ufo-3ed238-project-blue-book-if-e38e81" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'blue-book/' | relative_url }}" title="What Blue Book Teaches About IFOs | ifos causes of UFO" aria-label="Open page: What Blue Book Teaches About IFOs | ifos causes of UFO">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'blue-book/' | relative_url }}" title="What Blue Book Teaches About IFOs | ifos causes of UFO 3 ed 238" aria-label="Open page: What Blue Book Teaches About IFOs | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_project_blue_book_if_e38e81-overview.webp' | relative_url }}" alt="Overview image for What Blue Book Teaches About IFOs | ifos causes of UFO" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -973,7 +973,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-project-blue-book-if-e38e81-blue-book-ifo-patter-095683" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'ifo-pattern/' | relative_url }}" title="How UFO Reports Became IFOs | ifos causes of UFO 3 ed 238 project blue book" aria-label="Open page: How UFO Reports Became IFOs | ifos causes of UFO 3 ed 238 project blue book">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'ifo-pattern/' | relative_url }}" title="How UFO Reports Became IFOs | What Blue Book Teaches About IFOs | ifos causes of UFO 3 ed 238" aria-label="Open page: How UFO Reports Became IFOs | What Blue Book Teaches About IFOs | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_project_blue_book_if_e38e81_blue_book_ifo_patter_095683-Illustration-1.webp' | relative_url }}" alt="Overview image for How UFO Reports Became IFOs | ifos causes of UFO 3 ed 238 project blue book" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -993,7 +993,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-project-blue-book-if-e38e81-blue-book-traffic-ch-86f401" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'traffic-checks/' | relative_url }}" title="The Hidden Traffic Behind UFO Sightings | ifos causes of UFO 3 ed 238 project blue book" aria-label="Open page: The Hidden Traffic Behind UFO Sightings | ifos causes of UFO 3 ed 238 project blue book">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'traffic-checks/' | relative_url }}" title="The Hidden Traffic Behind UFO Sightings | What Blue Book Teaches About IFOs | ifos causes of UFO 3 ed 238" aria-label="Open page: The Hidden Traffic Behind UFO Sightings | What Blue Book Teaches About IFOs | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_project_blue_book_if_e38e81_blue_book_traffic_ch_86f401-Illustration-1.webp' | relative_url }}" alt="Overview image for The Hidden Traffic Behind UFO Sightings | ifos causes of UFO 3 ed 238 project blue book" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1013,7 +1013,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-project-blue-book-if-e38e81-blue-book-three-labe-437eec" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'three-labels/' | relative_url }}" title="What Did Unidentified Really Mean? | ifos causes of UFO 3 ed 238 project blue book" aria-label="Open page: What Did Unidentified Really Mean? | ifos causes of UFO 3 ed 238 project blue book">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'three-labels/' | relative_url }}" title="What Did Unidentified Really Mean? | What Blue Book Teaches About IFOs | ifos causes of UFO 3 ed 238" aria-label="Open page: What Did Unidentified Really Mean? | What Blue Book Teaches About IFOs | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_project_blue_book_if_e38e81_blue_book_three_labe_437eec-Illustration-1.webp' | relative_url }}" alt="Overview image for What Did Unidentified Really Mean? | ifos causes of UFO 3 ed 238 project blue book" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1033,7 +1033,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-project-blue-book-if-e38e81-special-report-14-ba-88096d" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'report-14/' | relative_url }}" title="What the Big Blue Book Study Really Measured | ifos causes of UFO 3 ed 238 project blue book" aria-label="Open page: What the Big Blue Book Study Really Measured | ifos causes of UFO 3 ed 238 project blue book">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'report-14/' | relative_url }}" title="What the Big Blue Book Study Really Measured | What Blue Book Teaches About IFOs | ifos causes of UFO 3 ed 238" aria-label="Open page: What the Big Blue Book Study Really Measured | What Blue Book Teaches About IFOs | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_project_blue_book_if_e38e81_special_report_14_ba_88096d-Illustration-1.webp' | relative_url }}" alt="Overview image for What the Big Blue Book Study Really Measured | ifos causes of UFO 3 ed 238 project blue book" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1053,7 +1053,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-project-blue-book-if-e38e81-blue-book-astronomy-ff9669" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'sky-objects/' | relative_url }}" title="When Planets Looked Like UFOs | ifos causes of UFO 3 ed 238 project blue book" aria-label="Open page: When Planets Looked Like UFOs | ifos causes of UFO 3 ed 238 project blue book">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'sky-objects/' | relative_url }}" title="When Planets Looked Like UFOs | What Blue Book Teaches About IFOs | ifos causes of UFO 3 ed 238" aria-label="Open page: When Planets Looked Like UFOs | What Blue Book Teaches About IFOs | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_project_blue_book_if_e38e81_blue_book_astronomy_ff9669-Illustration-1.webp' | relative_url }}" alt="Overview image for When Planets Looked Like UFOs | ifos causes of UFO 3 ed 238 project blue book" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1075,7 +1075,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-ifos---causes-of-ufo-3ed238-sunlit-contrails-bbc69e" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'contrails/' | relative_url }}" title="Why Jet Trails Glow Like UFOs | ifos causes of UFO" aria-label="Open page: Why Jet Trails Glow Like UFOs | ifos causes of UFO">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'contrails/' | relative_url }}" title="Why Jet Trails Glow Like UFOs | ifos causes of UFO 3 ed 238" aria-label="Open page: Why Jet Trails Glow Like UFOs | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e-overview.webp' | relative_url }}" alt="Overview image for Why Jet Trails Glow Like UFOs | ifos causes of UFO" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1097,7 +1097,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-sunlit-contrails-bbc69e-missile-launch-contr-3a26cf" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'missile-illusion/' | relative_url }}" title="When a Jet Trail Looks Like a Missile | ifos causes of UFO 3 ed 238 sunlit contrails" aria-label="Open page: When a Jet Trail Looks Like a Missile | ifos causes of UFO 3 ed 238 sunlit contrails">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'missile-illusion/' | relative_url }}" title="When a Jet Trail Looks Like a Missile | Why Jet Trails Glow Like UFOs | ifos causes of UFO 3 ed 238" aria-label="Open page: When a Jet Trail Looks Like a Missile | Why Jet Trails Glow Like UFOs | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e_missile_launch_contr_3a26cf-Illustration-1.webp' | relative_url }}" alt="Overview image for When a Jet Trail Looks Like a Missile | ifos causes of UFO 3 ed 238 sunlit contrails" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1117,7 +1117,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-sunlit-contrails-bbc69e-broken-parallel-cont-d4a655" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'broken-trails/' | relative_url }}" title="When Contrails Look Like Structured UFOs | ifos causes of UFO 3 ed 238 sunlit contrails" aria-label="Open page: When Contrails Look Like Structured UFOs | ifos causes of UFO 3 ed 238 sunlit contrails">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'broken-trails/' | relative_url }}" title="When Contrails Look Like Structured UFOs | Why Jet Trails Glow Like UFOs | ifos causes of UFO 3 ed 238" aria-label="Open page: When Contrails Look Like Structured UFOs | Why Jet Trails Glow Like UFOs | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e_broken_parallel_cont_d4a655-Illustration-1.webp' | relative_url }}" alt="Overview image for When Contrails Look Like Structured UFOs | ifos causes of UFO 3 ed 238 sunlit contrails" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1137,7 +1137,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-sunlit-contrails-bbc69e-afterburner-plumes-u-2e9045" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'afterburners/' | relative_url }}" title="When Jet Exhaust Becomes the Bright Object | ifos causes of UFO 3 ed 238 sunlit contrails" aria-label="Open page: When Jet Exhaust Becomes the Bright Object | ifos causes of UFO 3 ed 238 sunlit contrails">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'afterburners/' | relative_url }}" title="When Jet Exhaust Becomes the Bright Object | Why Jet Trails Glow Like UFOs | ifos causes of UFO 3 ed 238" aria-label="Open page: When Jet Exhaust Becomes the Bright Object | Why Jet Trails Glow Like UFOs | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e_afterburner_plumes_u_2e9045-Illustration-1.webp' | relative_url }}" alt="Overview image for When Jet Exhaust Becomes the Bright Object | ifos causes of UFO 3 ed 238 sunlit contrails" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1157,7 +1157,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-sunlit-contrails-bbc69e-twilight-fireball-co-d82707" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'fireball-trails/' | relative_url }}" title="Why Some Fireballs Are Really Jet Trails | ifos causes of UFO 3 ed 238 sunlit contrails" aria-label="Open page: Why Some Fireballs Are Really Jet Trails | ifos causes of UFO 3 ed 238 sunlit contrails">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'fireball-trails/' | relative_url }}" title="Why Some Fireballs Are Really Jet Trails | Why Jet Trails Glow Like UFOs | ifos causes of UFO 3 ed 238" aria-label="Open page: Why Some Fireballs Are Really Jet Trails | Why Jet Trails Glow Like UFOs | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e_twilight_fireball_co_d82707-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Some Fireballs Are Really Jet Trails | ifos causes of UFO 3 ed 238 sunlit contrails" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1177,7 +1177,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-sunlit-contrails-bbc69e-hidden-aircraft-brig-4597c3" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'hidden-aircraft/' | relative_url }}" title="Why the Plane Vanishes but the Trail Glows | ifos causes of UFO 3 ed 238 sunlit contrails" aria-label="Open page: Why the Plane Vanishes but the Trail Glows | ifos causes of UFO 3 ed 238 sunlit contrails">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'hidden-aircraft/' | relative_url }}" title="Why the Plane Vanishes but the Trail Glows | Why Jet Trails Glow Like UFOs | ifos causes of UFO 3 ed 238" aria-label="Open page: Why the Plane Vanishes but the Trail Glows | Why Jet Trails Glow Like UFOs | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e_hidden_aircraft_brig_4597c3-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the Plane Vanishes but the Trail Glows | ifos causes of UFO 3 ed 238 sunlit contrails" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1199,7 +1199,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-ifos---causes-of-ufo-3ed238-drones-modern-ufo-1d248c" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'drones/' | relative_url }}" title="When a Drone Becomes a UFO | ifos causes of UFO" aria-label="Open page: When a Drone Becomes a UFO | ifos causes of UFO">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'drones/' | relative_url }}" title="When a Drone Becomes a UFO | ifos causes of UFO 3 ed 238" aria-label="Open page: When a Drone Becomes a UFO | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c-overview.webp' | relative_url }}" alt="Overview image for When a Drone Becomes a UFO | ifos causes of UFO" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1221,7 +1221,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-drones-modern-ufo-1d248c-drone-rules-sighting-e7f6b9" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'drone-rules/' | relative_url }}" title="Can drone rules help explain UFO sightings? | ifos causes of UFO 3 ed 238 drones modern UFO" aria-label="Open page: Can drone rules help explain UFO sightings? | ifos causes of UFO 3 ed 238 drones modern UFO">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'drone-rules/' | relative_url }}" title="Can drone rules help explain UFO sightings? | When a Drone Becomes a UFO | ifos causes of UFO 3 ed 238" aria-label="Open page: Can drone rules help explain UFO sightings? | When a Drone Becomes a UFO | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c_drone_rules_sighting_e7f6b9-Illustration-1.webp' | relative_url }}" alt="Overview image for Can drone rules help explain UFO sightings? | ifos causes of UFO 3 ed 238 drones modern UFO" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1241,7 +1241,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-drones-modern-ufo-1d248c-new-jersey-drone-sca-71cc59" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'new-jersey/' | relative_url }}" title="How the New Jersey drone scare snowballed | ifos causes of UFO 3 ed 238 drones modern UFO" aria-label="Open page: How the New Jersey drone scare snowballed | ifos causes of UFO 3 ed 238 drones modern UFO">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'new-jersey/' | relative_url }}" title="How the New Jersey drone scare snowballed | When a Drone Becomes a UFO | ifos causes of UFO 3 ed 238" aria-label="Open page: How the New Jersey drone scare snowballed | When a Drone Becomes a UFO | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c_new_jersey_drone_sca_71cc59-Illustration-1.webp' | relative_url }}" alt="Overview image for How the New Jersey drone scare snowballed | ifos causes of UFO 3 ed 238 drones modern UFO" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1261,7 +1261,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-drones-modern-ufo-1d248c-not-a-drone-clues-cedb4f" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'not-a-drone/' | relative_url }}" title="When a UFO probably is not a drone | ifos causes of UFO 3 ed 238 drones modern UFO" aria-label="Open page: When a UFO probably is not a drone | ifos causes of UFO 3 ed 238 drones modern UFO">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'not-a-drone/' | relative_url }}" title="When a UFO probably is not a drone | When a Drone Becomes a UFO | ifos causes of UFO 3 ed 238" aria-label="Open page: When a UFO probably is not a drone | When a Drone Becomes a UFO | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c_not_a_drone_clues_cedb4f-Illustration-1.webp' | relative_url }}" alt="Overview image for When a UFO probably is not a drone | ifos causes of UFO 3 ed 238 drones modern UFO" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1281,7 +1281,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-drones-modern-ufo-1d248c-drone-light-patterns-f6c905" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'light-patterns/' | relative_url }}" title="When drone lights look stranger than aircraft | ifos causes of UFO 3 ed 238 drones modern UFO" aria-label="Open page: When drone lights look stranger than aircraft | ifos causes of UFO 3 ed 238 drones modern UFO">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'light-patterns/' | relative_url }}" title="When drone lights look stranger than aircraft | When a Drone Becomes a UFO | ifos causes of UFO 3 ed 238" aria-label="Open page: When drone lights look stranger than aircraft | When a Drone Becomes a UFO | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c_drone_light_patterns_f6c905-Illustration-1.webp' | relative_url }}" alt="Overview image for When drone lights look stranger than aircraft | ifos causes of UFO 3 ed 238 drones modern UFO" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1301,7 +1301,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-drones-modern-ufo-1d248c-hovering-drone-light-fd1876" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'hovering-lights/' | relative_url }}" title="Why drone lights can look frozen in place | ifos causes of UFO 3 ed 238 drones modern UFO" aria-label="Open page: Why drone lights can look frozen in place | ifos causes of UFO 3 ed 238 drones modern UFO">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'hovering-lights/' | relative_url }}" title="Why drone lights can look frozen in place | When a Drone Becomes a UFO | ifos causes of UFO 3 ed 238" aria-label="Open page: Why drone lights can look frozen in place | When a Drone Becomes a UFO | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c_hovering_drone_light_fd1876-Illustration-1.webp' | relative_url }}" alt="Overview image for Why drone lights can look frozen in place | ifos causes of UFO 3 ed 238 drones modern UFO" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1323,7 +1323,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-ifos---causes-of-ufo-3ed238-ufo-first-checks-d02b3e" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'first-checks/' | relative_url }}" title="What to Check Before Calling It a UFO | ifos causes of UFO" aria-label="Open page: What to Check Before Calling It a UFO | ifos causes of UFO">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'first-checks/' | relative_url }}" title="What to Check Before Calling It a UFO | ifos causes of UFO 3 ed 238" aria-label="Open page: What to Check Before Calling It a UFO | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e-overview.webp' | relative_url }}" alt="Overview image for What to Check Before Calling It a UFO | ifos causes of UFO" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1345,7 +1345,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-ufo-first-checks-d02b3e-flight-track-checks-28eeb4" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'flight-tracks/' | relative_url }}" title="Can a flight tracker explain the sighting? | ifos causes of UFO 3 ed 238 UFO first checks" aria-label="Open page: Can a flight tracker explain the sighting? | ifos causes of UFO 3 ed 238 UFO first checks">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'flight-tracks/' | relative_url }}" title="Can a flight tracker explain the sighting? | What to Check Before Calling It a UFO | ifos causes of UFO 3 ed 238" aria-label="Open page: Can a flight tracker explain the sighting? | What to Check Before Calling It a UFO | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e_flight_track_checks_28eeb4-Illustration-1.webp' | relative_url }}" alt="Overview image for Can a flight tracker explain the sighting? | ifos causes of UFO 3 ed 238 UFO first checks" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1365,7 +1365,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-ufo-first-checks-d02b3e-weather-record-check-4a5789" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'weather-checks/' | relative_url }}" title="Did the weather make it look strange? | ifos causes of UFO 3 ed 238 UFO first checks" aria-label="Open page: Did the weather make it look strange? | ifos causes of UFO 3 ed 238 UFO first checks">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'weather-checks/' | relative_url }}" title="Did the weather make it look strange? | What to Check Before Calling It a UFO | ifos causes of UFO 3 ed 238" aria-label="Open page: Did the weather make it look strange? | What to Check Before Calling It a UFO | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e_weather_record_check_4a5789-Illustration-1.webp' | relative_url }}" alt="Overview image for Did the weather make it look strange? | ifos causes of UFO 3 ed 238 UFO first checks" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1385,7 +1385,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-ufo-first-checks-d02b3e-sky-object-checks-0aecd8" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'sky-maps/' | relative_url }}" title="Was it already in the sky? | ifos causes of UFO 3 ed 238 UFO first checks" aria-label="Open page: Was it already in the sky? | ifos causes of UFO 3 ed 238 UFO first checks">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'sky-maps/' | relative_url }}" title="Was it already in the sky? | What to Check Before Calling It a UFO | ifos causes of UFO 3 ed 238" aria-label="Open page: Was it already in the sky? | What to Check Before Calling It a UFO | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e_sky_object_checks_0aecd8-Illustration-1.webp' | relative_url }}" alt="Overview image for Was it already in the sky? | ifos causes of UFO 3 ed 238 UFO first checks" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1405,7 +1405,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-ufo-first-checks-d02b3e-direction-elevation-fb0fa5" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'direction-notes/' | relative_url }}" title="Where exactly were they looking? | ifos causes of UFO 3 ed 238 UFO first checks" aria-label="Open page: Where exactly were they looking? | ifos causes of UFO 3 ed 238 UFO first checks">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'direction-notes/' | relative_url }}" title="Where exactly were they looking? | What to Check Before Calling It a UFO | ifos causes of UFO 3 ed 238" aria-label="Open page: Where exactly were they looking? | What to Check Before Calling It a UFO | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e_direction_elevation_fb0fa5-Illustration-1.webp' | relative_url }}" alt="Overview image for Where exactly were they looking? | ifos causes of UFO 3 ed 238 UFO first checks" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1425,7 +1425,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-ufo-first-checks-d02b3e-original-photo-files-5c5c93" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'original-files/' | relative_url }}" title="Why the original UFO file matters | ifos causes of UFO 3 ed 238 UFO first checks" aria-label="Open page: Why the original UFO file matters | ifos causes of UFO 3 ed 238 UFO first checks">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'original-files/' | relative_url }}" title="Why the original UFO file matters | What to Check Before Calling It a UFO | ifos causes of UFO 3 ed 238" aria-label="Open page: Why the original UFO file matters | What to Check Before Calling It a UFO | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e_original_photo_files_5c5c93-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the original UFO file matters | ifos causes of UFO 3 ed 238 UFO first checks" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1447,7 +1447,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-ifos---causes-of-ufo-3ed238-military-flares-abb62f" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'flares/' | relative_url }}" title="Why Flares Look Like Hovering Craft | ifos causes of UFO" aria-label="Open page: Why Flares Look Like Hovering Craft | ifos causes of UFO">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'flares/' | relative_url }}" title="Why Flares Look Like Hovering Craft | ifos causes of UFO 3 ed 238" aria-label="Open page: Why Flares Look Like Hovering Craft | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_military_flares_abb62f-overview.webp' | relative_url }}" alt="Overview image for Why Flares Look Like Hovering Craft | ifos causes of UFO" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1469,7 +1469,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-military-flares-abb62f-training-ranges-flar-7a2a67" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'ranges/' | relative_url }}" title="How ranges reveal flare sightings | ifos causes of UFO 3 ed 238 military flares" aria-label="Open page: How ranges reveal flare sightings | ifos causes of UFO 3 ed 238 military flares">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'ranges/' | relative_url }}" title="How ranges reveal flare sightings | Why Flares Look Like Hovering Craft | ifos causes of UFO 3 ed 238" aria-label="Open page: How ranges reveal flare sightings | Why Flares Look Like Hovering Craft | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_military_flares_abb62f_training_ranges_flar_7a2a67-Illustration-1.webp' | relative_url }}" alt="Overview image for How ranges reveal flare sightings | ifos causes of UFO 3 ed 238 military flares" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1489,7 +1489,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-military-flares-abb62f-phoenix-lights-flare-64bee0" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'phoenix-lights/' | relative_url }}" title="What flares explain in Phoenix | ifos causes of UFO 3 ed 238 military flares" aria-label="Open page: What flares explain in Phoenix | ifos causes of UFO 3 ed 238 military flares">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'phoenix-lights/' | relative_url }}" title="What flares explain in Phoenix | Why Flares Look Like Hovering Craft | ifos causes of UFO 3 ed 238" aria-label="Open page: What flares explain in Phoenix | Why Flares Look Like Hovering Craft | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_military_flares_abb62f_phoenix_lights_flare_64bee0-Illustration-1.webp' | relative_url }}" alt="Overview image for What flares explain in Phoenix | ifos causes of UFO 3 ed 238 military flares" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1509,7 +1509,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-military-flares-abb62f-san-diego-flare-sigh-439730" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'san-diego/' | relative_url }}" title="When training flares go viral | ifos causes of UFO 3 ed 238 military flares" aria-label="Open page: When training flares go viral | ifos causes of UFO 3 ed 238 military flares">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'san-diego/' | relative_url }}" title="When training flares go viral | Why Flares Look Like Hovering Craft | ifos causes of UFO 3 ed 238" aria-label="Open page: When training flares go viral | Why Flares Look Like Hovering Craft | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_military_flares_abb62f_san_diego_flare_sigh_439730-Illustration-1.webp' | relative_url }}" alt="Overview image for When training flares go viral | ifos causes of UFO 3 ed 238 military flares" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1529,7 +1529,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-military-flares-abb62f-hovering-parachute-f-898b11" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'hovering-flares/' | relative_url }}" title="Why falling flares seem to hover | ifos causes of UFO 3 ed 238 military flares" aria-label="Open page: Why falling flares seem to hover | ifos causes of UFO 3 ed 238 military flares">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'hovering-flares/' | relative_url }}" title="Why falling flares seem to hover | Why Flares Look Like Hovering Craft | ifos causes of UFO 3 ed 238" aria-label="Open page: Why falling flares seem to hover | Why Flares Look Like Hovering Craft | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_military_flares_abb62f_hovering_parachute_f_898b11-Illustration-1.webp' | relative_url }}" alt="Overview image for Why falling flares seem to hover | ifos causes of UFO 3 ed 238 military flares" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1549,7 +1549,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-military-flares-abb62f-flare-fadeouts-e0188c" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'fade-outs/' | relative_url }}" title="Why flare lights wink out | ifos causes of UFO 3 ed 238 military flares" aria-label="Open page: Why flare lights wink out | ifos causes of UFO 3 ed 238 military flares">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'fade-outs/' | relative_url }}" title="Why flare lights wink out | Why Flares Look Like Hovering Craft | ifos causes of UFO 3 ed 238" aria-label="Open page: Why flare lights wink out | Why Flares Look Like Hovering Craft | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_military_flares_abb62f_flare_fadeouts_e0188c-Illustration-1.webp' | relative_url }}" alt="Overview image for Why flare lights wink out | ifos causes of UFO 3 ed 238 military flares" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1571,7 +1571,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-ifos---causes-of-ufo-3ed238-flight-tracking-a49590" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'flight-tracking/' | relative_url }}" title="How Flight Data Solves UFO Sightings | ifos causes of UFO" aria-label="Open page: How Flight Data Solves UFO Sightings | ifos causes of UFO">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'flight-tracking/' | relative_url }}" title="How Flight Data Solves UFO Sightings | ifos causes of UFO 3 ed 238" aria-label="Open page: How Flight Data Solves UFO Sightings | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590-overview.webp' | relative_url }}" alt="Overview image for How Flight Data Solves UFO Sightings | ifos causes of UFO" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1593,7 +1593,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-flight-tracking-a49590-aircraft-appearance-6a5089" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'appearance-clues/' | relative_url }}" title="Do the lights match the flight track? | ifos causes of UFO 3 ed 238 flight tracking" aria-label="Open page: Do the lights match the flight track? | ifos causes of UFO 3 ed 238 flight tracking">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'appearance-clues/' | relative_url }}" title="Do the lights match the flight track? | How Flight Data Solves UFO Sightings | ifos causes of UFO 3 ed 238" aria-label="Open page: Do the lights match the flight track? | How Flight Data Solves UFO Sightings | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590_aircraft_appearance_6a5089-Illustration-1.webp' | relative_url }}" alt="Overview image for Do the lights match the flight track? | ifos causes of UFO 3 ed 238 flight tracking" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1613,7 +1613,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-flight-tracking-a49590-chilean-navy-airline-b34ccf" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'chile-ir-case/' | relative_url }}" title="The infrared UFO that matched an airliner | ifos causes of UFO 3 ed 238 flight tracking" aria-label="Open page: The infrared UFO that matched an airliner | ifos causes of UFO 3 ed 238 flight tracking">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'chile-ir-case/' | relative_url }}" title="The infrared UFO that matched an airliner | How Flight Data Solves UFO Sightings | ifos causes of UFO 3 ed 238" aria-label="Open page: The infrared UFO that matched an airliner | How Flight Data Solves UFO Sightings | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590_chilean_navy_airline_b34ccf-Illustration-1.webp' | relative_url }}" alt="Overview image for The infrared UFO that matched an airliner | ifos causes of UFO 3 ed 238 flight tracking" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1633,7 +1633,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-flight-tracking-a49590-line-of-sight-geomet-3e8dcd" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'sight-lines/' | relative_url }}" title="Was the plane really where they looked? | ifos causes of UFO 3 ed 238 flight tracking" aria-label="Open page: Was the plane really where they looked? | ifos causes of UFO 3 ed 238 flight tracking">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'sight-lines/' | relative_url }}" title="Was the plane really where they looked? | How Flight Data Solves UFO Sightings | ifos causes of UFO 3 ed 238" aria-label="Open page: Was the plane really where they looked? | How Flight Data Solves UFO Sightings | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590_line_of_sight_geomet_3e8dcd-Illustration-1.webp' | relative_url }}" alt="Overview image for Was the plane really where they looked? | ifos causes of UFO 3 ed 238 flight tracking" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1653,7 +1653,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-flight-tracking-a49590-adsb-mlat-ufo-checks-7a60a9" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'ads-b-data/' | relative_url }}" title="What flight trackers really know | ifos causes of UFO 3 ed 238 flight tracking" aria-label="Open page: What flight trackers really know | ifos causes of UFO 3 ed 238 flight tracking">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'ads-b-data/' | relative_url }}" title="What flight trackers really know | How Flight Data Solves UFO Sightings | ifos causes of UFO 3 ed 238" aria-label="Open page: What flight trackers really know | How Flight Data Solves UFO Sightings | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590_adsb_mlat_ufo_checks_7a60a9-Illustration-1.webp' | relative_url }}" alt="Overview image for What flight trackers really know | ifos causes of UFO 3 ed 238 flight tracking" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1673,7 +1673,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-flight-tracking-a49590-missing-flight-track-e2e1dc" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'missing-tracks/' | relative_url }}" title="When no flight track appears on the map | ifos causes of UFO 3 ed 238 flight tracking" aria-label="Open page: When no flight track appears on the map | ifos causes of UFO 3 ed 238 flight tracking">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'missing-tracks/' | relative_url }}" title="When no flight track appears on the map | How Flight Data Solves UFO Sightings | ifos causes of UFO 3 ed 238" aria-label="Open page: When no flight track appears on the map | How Flight Data Solves UFO Sightings | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590_missing_flight_track_e2e1dc-Illustration-1.webp' | relative_url }}" alt="Overview image for When no flight track appears on the map | ifos causes of UFO 3 ed 238 flight tracking" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1695,7 +1695,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-ifos---causes-of-ufo-3ed238-ufo-hoaxes-c16965" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'hoaxes/' | relative_url }}" title="When UFO Reports Are Manufactured | ifos causes of UFO" aria-label="Open page: When UFO Reports Are Manufactured | ifos causes of UFO">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'hoaxes/' | relative_url }}" title="When UFO Reports Are Manufactured | ifos causes of UFO 3 ed 238" aria-label="Open page: When UFO Reports Are Manufactured | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965-overview.webp' | relative_url }}" alt="Overview image for When UFO Reports Are Manufactured | ifos causes of UFO" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1717,7 +1717,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-ufo-hoaxes-c16965-majestic-12-document-d24852" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'mj-12-papers/' | relative_url }}" title="Can Leaked UFO Documents Be Trusted? | ifos causes of UFO 3 ed 238 UFO hoaxes" aria-label="Open page: Can Leaked UFO Documents Be Trusted? | ifos causes of UFO 3 ed 238 UFO hoaxes">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'mj-12-papers/' | relative_url }}" title="Can Leaked UFO Documents Be Trusted? | When UFO Reports Are Manufactured | ifos causes of UFO 3 ed 238" aria-label="Open page: Can Leaked UFO Documents Be Trusted? | When UFO Reports Are Manufactured | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965_majestic_12_document_d24852-Illustration-1.webp' | relative_url }}" alt="Overview image for Can Leaked UFO Documents Be Trusted? | ifos causes of UFO 3 ed 238 UFO hoaxes" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1737,7 +1737,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-ufo-hoaxes-c16965-roswell-slides-promo-a3fb30" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'roswell-slides/' | relative_url }}" title="How Promotion Inflated the Roswell Slides | ifos causes of UFO 3 ed 238 UFO hoaxes" aria-label="Open page: How Promotion Inflated the Roswell Slides | ifos causes of UFO 3 ed 238 UFO hoaxes">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'roswell-slides/' | relative_url }}" title="How Promotion Inflated the Roswell Slides | When UFO Reports Are Manufactured | ifos causes of UFO 3 ed 238" aria-label="Open page: How Promotion Inflated the Roswell Slides | When UFO Reports Are Manufactured | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965_roswell_slides_promo_a3fb30-Illustration-1.webp' | relative_url }}" alt="Overview image for How Promotion Inflated the Roswell Slides | ifos causes of UFO 3 ed 238 UFO hoaxes" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1757,7 +1757,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-ufo-hoaxes-c16965-morris-county-hoax-2413ae" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'morris-county/' | relative_url }}" title="When a UFO Hoax Creates Real Witnesses | ifos causes of UFO 3 ed 238 UFO hoaxes" aria-label="Open page: When a UFO Hoax Creates Real Witnesses | ifos causes of UFO 3 ed 238 UFO hoaxes">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'morris-county/' | relative_url }}" title="When a UFO Hoax Creates Real Witnesses | When UFO Reports Are Manufactured | ifos causes of UFO 3 ed 238" aria-label="Open page: When a UFO Hoax Creates Real Witnesses | When UFO Reports Are Manufactured | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965_morris_county_hoax_2413ae-Illustration-1.webp' | relative_url }}" alt="Overview image for When a UFO Hoax Creates Real Witnesses | ifos causes of UFO 3 ed 238 UFO hoaxes" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1777,7 +1777,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-ufo-hoaxes-c16965-ufo-hoax-tactics-b1afe1" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'hoax-tactics/' | relative_url }}" title="Why Convincing UFO Hoaxes Look Imperfect | ifos causes of UFO 3 ed 238 UFO hoaxes" aria-label="Open page: Why Convincing UFO Hoaxes Look Imperfect | ifos causes of UFO 3 ed 238 UFO hoaxes">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'hoax-tactics/' | relative_url }}" title="Why Convincing UFO Hoaxes Look Imperfect | When UFO Reports Are Manufactured | ifos causes of UFO 3 ed 238" aria-label="Open page: Why Convincing UFO Hoaxes Look Imperfect | When UFO Reports Are Manufactured | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965_ufo_hoax_tactics_b1afe1-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Convincing UFO Hoaxes Look Imperfect | ifos causes of UFO 3 ed 238 UFO hoaxes" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1797,7 +1797,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-ufo-hoaxes-c16965-missing-original-fil-0f5b6f" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'missing-files/' | relative_url }}" title="Why UFO Images Need Original Files | ifos causes of UFO 3 ed 238 UFO hoaxes" aria-label="Open page: Why UFO Images Need Original Files | ifos causes of UFO 3 ed 238 UFO hoaxes">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'missing-files/' | relative_url }}" title="Why UFO Images Need Original Files | When UFO Reports Are Manufactured | ifos causes of UFO 3 ed 238" aria-label="Open page: Why UFO Images Need Original Files | When UFO Reports Are Manufactured | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965_missing_original_fil_0f5b6f-Illustration-1.webp' | relative_url }}" alt="Overview image for Why UFO Images Need Original Files | ifos causes of UFO 3 ed 238 UFO hoaxes" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1819,7 +1819,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-ifos---causes-of-ufo-3ed238-infrared-false-speed-c7412f" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'infrared/' | relative_url }}" title="Why Infrared UFO Videos Mislead | ifos causes of UFO" aria-label="Open page: Why Infrared UFO Videos Mislead | ifos causes of UFO">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'infrared/' | relative_url }}" title="Why Infrared UFO Videos Mislead | ifos causes of UFO 3 ed 238" aria-label="Open page: Why Infrared UFO Videos Mislead | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f-overview.webp' | relative_url }}" alt="Overview image for Why Infrared UFO Videos Mislead | ifos causes of UFO" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1841,7 +1841,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-infrared-false-speed-c7412f-gofast-parallax-spee-972ef5" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'go-fast-54a921/' | relative_url }}" title="Did Go Fast really show a fast object? | ifos causes of UFO 3 ed 238 infrared false speed" aria-label="Open page: Did Go Fast really show a fast object? | ifos causes of UFO 3 ed 238 infrared false speed">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'go-fast-54a921/' | relative_url }}" title="Did Go Fast really show a fast object? | Why Infrared UFO Videos Mislead | ifos causes of UFO 3 ed 238" aria-label="Open page: Did Go Fast really show a fast object? | Why Infrared UFO Videos Mislead | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f_gofast_parallax_spee_972ef5-Illustration-1.webp' | relative_url }}" alt="Overview image for Did Go Fast really show a fast object? | ifos causes of UFO 3 ed 238 infrared false speed" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1861,7 +1861,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-infrared-false-speed-c7412f-puerto-rico-transmed-37f0b5" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'puerto-rico/' | relative_url }}" title="Did the Puerto Rico object enter the water? | ifos causes of UFO 3 ed 238 infrared false speed" aria-label="Open page: Did the Puerto Rico object enter the water? | ifos causes of UFO 3 ed 238 infrared false speed">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'puerto-rico/' | relative_url }}" title="Did the Puerto Rico object enter the water? | Why Infrared UFO Videos Mislead | ifos causes of UFO 3 ed 238" aria-label="Open page: Did the Puerto Rico object enter the water? | Why Infrared UFO Videos Mislead | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f_puerto_rico_transmed_37f0b5-Illustration-1.webp' | relative_url }}" alt="Overview image for Did the Puerto Rico object enter the water? | ifos causes of UFO 3 ed 238 infrared false speed" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1881,7 +1881,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-infrared-false-speed-c7412f-ir-evidence-package-10ec1d" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'evidence-package/' | relative_url }}" title="What would make infrared UFO footage stronger? | ifos causes of UFO 3 ed 238 infrared false speed" aria-label="Open page: What would make infrared UFO footage stronger? | ifos causes of UFO 3 ed 238 infrared false speed">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'evidence-package/' | relative_url }}" title="What would make infrared UFO footage stronger? | Why Infrared UFO Videos Mislead | ifos causes of UFO 3 ed 238" aria-label="Open page: What would make infrared UFO footage stronger? | Why Infrared UFO Videos Mislead | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f_ir_evidence_package_10ec1d-Illustration-1.webp' | relative_url }}" alt="Overview image for What would make infrared UFO footage stronger? | ifos causes of UFO 3 ed 238 infrared false speed" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1901,7 +1901,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-infrared-false-speed-c7412f-thermal-contrast-mis-f4b651" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'thermal-contrast/' | relative_url }}" title="When infrared brightness fools UFO viewers | ifos causes of UFO 3 ed 238 infrared false speed" aria-label="Open page: When infrared brightness fools UFO viewers | ifos causes of UFO 3 ed 238 infrared false speed">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'thermal-contrast/' | relative_url }}" title="When infrared brightness fools UFO viewers | Why Infrared UFO Videos Mislead | ifos causes of UFO 3 ed 238" aria-label="Open page: When infrared brightness fools UFO viewers | Why Infrared UFO Videos Mislead | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f_thermal_contrast_mis_f4b651-Illustration-1.webp' | relative_url }}" alt="Overview image for When infrared brightness fools UFO viewers | ifos causes of UFO 3 ed 238 infrared false speed" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1921,7 +1921,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-infrared-false-speed-c7412f-ir-range-speed-claim-9b5575" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'range/' | relative_url }}" title="Why range makes or breaks UFO speed claims | ifos causes of UFO 3 ed 238 infrared false speed" aria-label="Open page: Why range makes or breaks UFO speed claims | ifos causes of UFO 3 ed 238 infrared false speed">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'range/' | relative_url }}" title="Why range makes or breaks UFO speed claims | Why Infrared UFO Videos Mislead | ifos causes of UFO 3 ed 238" aria-label="Open page: Why range makes or breaks UFO speed claims | Why Infrared UFO Videos Mislead | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f_ir_range_speed_claim_9b5575-Illustration-1.webp' | relative_url }}" alt="Overview image for Why range makes or breaks UFO speed claims | ifos causes of UFO 3 ed 238 infrared false speed" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1943,7 +1943,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-ifos---causes-of-ufo-3ed238-insects-camera-ufo-787e74" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'insects/' | relative_url }}" title="The Tiny Things Cameras Make Huge | ifos causes of UFO" aria-label="Open page: The Tiny Things Cameras Make Huge | ifos causes of UFO">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'insects/' | relative_url }}" title="The Tiny Things Cameras Make Huge | ifos causes of UFO 3 ed 238" aria-label="Open page: The Tiny Things Cameras Make Huge | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74-overview.webp' | relative_url }}" alt="Overview image for The Tiny Things Cameras Make Huge | ifos causes of UFO" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1965,7 +1965,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-insects-camera-ufo-787e74-motion-blur-rods-96a808" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'flying-rods/' | relative_url }}" title="Are Flying Rods Really Camera Bugs? | ifos causes of UFO 3 ed 238 insects camera UFO" aria-label="Open page: Are Flying Rods Really Camera Bugs? | ifos causes of UFO 3 ed 238 insects camera UFO">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'flying-rods/' | relative_url }}" title="Are Flying Rods Really Camera Bugs? | The Tiny Things Cameras Make Huge | ifos causes of UFO 3 ed 238" aria-label="Open page: Are Flying Rods Really Camera Bugs? | The Tiny Things Cameras Make Huge | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74_motion_blur_rods_96a808-Illustration-1.webp' | relative_url }}" alt="Overview image for Are Flying Rods Really Camera Bugs? | ifos causes of UFO 3 ed 238 insects camera UFO" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1985,7 +1985,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-insects-camera-ufo-787e74-denver-ufo-insects-9f9495" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'denver-case/' | relative_url }}" title="The Denver UFOs That Looked Like Bugs | ifos causes of UFO 3 ed 238 insects camera UFO" aria-label="Open page: The Denver UFOs That Looked Like Bugs | ifos causes of UFO 3 ed 238 insects camera UFO">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'denver-case/' | relative_url }}" title="The Denver UFOs That Looked Like Bugs | The Tiny Things Cameras Make Huge | ifos causes of UFO 3 ed 238" aria-label="Open page: The Denver UFOs That Looked Like Bugs | The Tiny Things Cameras Make Huge | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74_denver_ufo_insects_9f9495-Illustration-1.webp' | relative_url }}" alt="Overview image for The Denver UFOs That Looked Like Bugs | ifos causes of UFO 3 ed 238 insects camera UFO" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2005,7 +2005,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-insects-camera-ufo-787e74-range-evidence-camer-8b4dfe" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'range-checks/' | relative_url }}" title="What Evidence Rules Out Camera Bugs? | ifos causes of UFO 3 ed 238 insects camera UFO" aria-label="Open page: What Evidence Rules Out Camera Bugs? | ifos causes of UFO 3 ed 238 insects camera UFO">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'range-checks/' | relative_url }}" title="What Evidence Rules Out Camera Bugs? | The Tiny Things Cameras Make Huge | ifos causes of UFO 3 ed 238" aria-label="Open page: What Evidence Rules Out Camera Bugs? | The Tiny Things Cameras Make Huge | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74_range_evidence_camer_8b4dfe-Illustration-1.webp' | relative_url }}" alt="Overview image for What Evidence Rules Out Camera Bugs? | ifos causes of UFO 3 ed 238 insects camera UFO" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2025,7 +2025,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-insects-camera-ufo-787e74-bugs-false-speed-a0c362" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'false-speed/' | relative_url }}" title="Why Bugs Can Look Impossibly Fast | ifos causes of UFO 3 ed 238 insects camera UFO" aria-label="Open page: Why Bugs Can Look Impossibly Fast | ifos causes of UFO 3 ed 238 insects camera UFO">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'false-speed/' | relative_url }}" title="Why Bugs Can Look Impossibly Fast | The Tiny Things Cameras Make Huge | ifos causes of UFO 3 ed 238" aria-label="Open page: Why Bugs Can Look Impossibly Fast | The Tiny Things Cameras Make Huge | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74_bugs_false_speed_a0c362-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Bugs Can Look Impossibly Fast | ifos causes of UFO 3 ed 238 insects camera UFO" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2045,7 +2045,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-insects-camera-ufo-787e74-doorbell-glowing-orb-6acf1d" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'glowing-orbs/' | relative_url }}" title="Why Night Cameras Create UFO Orbs | ifos causes of UFO 3 ed 238 insects camera UFO" aria-label="Open page: Why Night Cameras Create UFO Orbs | ifos causes of UFO 3 ed 238 insects camera UFO">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'glowing-orbs/' | relative_url }}" title="Why Night Cameras Create UFO Orbs | The Tiny Things Cameras Make Huge | ifos causes of UFO 3 ed 238" aria-label="Open page: Why Night Cameras Create UFO Orbs | The Tiny Things Cameras Make Huge | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74_doorbell_glowing_orb_6acf1d-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Night Cameras Create UFO Orbs | ifos causes of UFO 3 ed 238 insects camera UFO" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2067,7 +2067,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-ifos---causes-of-ufo-3ed238-sky-lanterns-eacec5" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'lanterns/' | relative_url }}" title="The Orange Lights That Start UFO Reports | ifos causes of UFO" aria-label="Open page: The Orange Lights That Start UFO Reports | ifos causes of UFO">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'lanterns/' | relative_url }}" title="The Orange Lights That Start UFO Reports | ifos causes of UFO 3 ed 238" aria-label="Open page: The Orange Lights That Start UFO Reports | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5-overview.webp' | relative_url }}" alt="Overview image for The Orange Lights That Start UFO Reports | ifos causes of UFO" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2089,7 +2089,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-sky-lanterns-eacec5-mod-lantern-surge-aa96ee" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'mo-d-surge/' | relative_url }}" title="The lantern craze that flooded UFO reports | ifos causes of UFO 3 ed 238 sky lanterns" aria-label="Open page: The lantern craze that flooded UFO reports | ifos causes of UFO 3 ed 238 sky lanterns">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'mo-d-surge/' | relative_url }}" title="The lantern craze that flooded UFO reports | The Orange Lights That Start UFO Reports | ifos causes of UFO 3 ed 238" aria-label="Open page: The lantern craze that flooded UFO reports | The Orange Lights That Start UFO Reports | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5_mod_lantern_surge_aa96ee-Illustration-1.webp' | relative_url }}" alt="Overview image for The lantern craze that flooded UFO reports | ifos causes of UFO 3 ed 238 sky lanterns" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2109,7 +2109,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-sky-lanterns-eacec5-lantern-formations-11a877" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'formations/' | relative_url }}" title="When drifting lanterns look like a formation | ifos causes of UFO 3 ed 238 sky lanterns" aria-label="Open page: When drifting lanterns look like a formation | ifos causes of UFO 3 ed 238 sky lanterns">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'formations/' | relative_url }}" title="When drifting lanterns look like a formation | The Orange Lights That Start UFO Reports | ifos causes of UFO 3 ed 238" aria-label="Open page: When drifting lanterns look like a formation | The Orange Lights That Start UFO Reports | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5_lantern_formations_11a877-Illustration-1.webp' | relative_url }}" alt="Overview image for When drifting lanterns look like a formation | ifos causes of UFO 3 ed 238 sky lanterns" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2129,7 +2129,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-sky-lanterns-eacec5-lantern-flare-confus-d0b412" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'flare-confusion/' | relative_url }}" title="Why lanterns can look like distress flares | ifos causes of UFO 3 ed 238 sky lanterns" aria-label="Open page: Why lanterns can look like distress flares | ifos causes of UFO 3 ed 238 sky lanterns">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'flare-confusion/' | relative_url }}" title="Why lanterns can look like distress flares | The Orange Lights That Start UFO Reports | ifos causes of UFO 3 ed 238" aria-label="Open page: Why lanterns can look like distress flares | The Orange Lights That Start UFO Reports | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5_lantern_flare_confus_d0b412-Illustration-1.webp' | relative_url }}" alt="Overview image for Why lanterns can look like distress flares | ifos causes of UFO 3 ed 238 sky lanterns" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2149,7 +2149,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-sky-lanterns-eacec5-wind-drift-lanterns-471c10" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'wind-drift/' | relative_url }}" title="Why lanterns seem to move under control | ifos causes of UFO 3 ed 238 sky lanterns" aria-label="Open page: Why lanterns seem to move under control | ifos causes of UFO 3 ed 238 sky lanterns">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'wind-drift/' | relative_url }}" title="Why lanterns seem to move under control | The Orange Lights That Start UFO Reports | ifos causes of UFO 3 ed 238" aria-label="Open page: Why lanterns seem to move under control | The Orange Lights That Start UFO Reports | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5_wind_drift_lanterns_471c10-Illustration-1.webp' | relative_url }}" alt="Overview image for Why lanterns seem to move under control | ifos causes of UFO 3 ed 238 sky lanterns" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2169,7 +2169,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-sky-lanterns-eacec5-lantern-colour-flick-ef4320" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'colour-clues/' | relative_url }}" title="Why orange UFO lights often flicker and fade | ifos causes of UFO 3 ed 238 sky lanterns" aria-label="Open page: Why orange UFO lights often flicker and fade | ifos causes of UFO 3 ed 238 sky lanterns">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'colour-clues/' | relative_url }}" title="Why orange UFO lights often flicker and fade | The Orange Lights That Start UFO Reports | ifos causes of UFO 3 ed 238" aria-label="Open page: Why orange UFO lights often flicker and fade | The Orange Lights That Start UFO Reports | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5_lantern_colour_flick_ef4320-Illustration-1.webp' | relative_url }}" alt="Overview image for Why orange UFO lights often flicker and fade | ifos causes of UFO 3 ed 238 sky lanterns" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2191,7 +2191,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-ifos---causes-of-ufo-3ed238-lens-flare-ce226e" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'lens-flare/' | relative_url }}" title="When Cameras Invent Extra Lights | ifos causes of UFO" aria-label="Open page: When Cameras Invent Extra Lights | ifos causes of UFO">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'lens-flare/' | relative_url }}" title="When Cameras Invent Extra Lights | ifos causes of UFO 3 ed 238" aria-label="Open page: When Cameras Invent Extra Lights | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e-overview.webp' | relative_url }}" alt="Overview image for When Cameras Invent Extra Lights | ifos causes of UFO" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2213,7 +2213,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-lens-flare-ce226e-lens-flare-motion-te-e7c6c5" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'motion-tests/' | relative_url }}" title="The camera moves that expose lens flare | ifos causes of UFO 3 ed 238 lens flare" aria-label="Open page: The camera moves that expose lens flare | ifos causes of UFO 3 ed 238 lens flare">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'motion-tests/' | relative_url }}" title="The camera moves that expose lens flare | When Cameras Invent Extra Lights | ifos causes of UFO 3 ed 238" aria-label="Open page: The camera moves that expose lens flare | When Cameras Invent Extra Lights | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e_lens_flare_motion_te_e7c6c5-Illustration-1.webp' | relative_url }}" alt="Overview image for The camera moves that expose lens flare | ifos causes of UFO 3 ed 238 lens flare" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2233,7 +2233,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-lens-flare-ce226e-gimbal-infrared-glar-a1f3aa" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'gimbal-glare/' | relative_url }}" title="Was Gimbal rotation a camera effect? | ifos causes of UFO 3 ed 238 lens flare" aria-label="Open page: Was Gimbal rotation a camera effect? | ifos causes of UFO 3 ed 238 lens flare">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'gimbal-glare/' | relative_url }}" title="Was Gimbal rotation a camera effect? | When Cameras Invent Extra Lights | ifos causes of UFO 3 ed 238" aria-label="Open page: Was Gimbal rotation a camera effect? | When Cameras Invent Extra Lights | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e_gimbal_infrared_glar_a1f3aa-Illustration-1.webp' | relative_url }}" alt="Overview image for Was Gimbal rotation a camera effect? | ifos causes of UFO 3 ed 238 lens flare" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2253,7 +2253,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-lens-flare-ce226e-uap-data-gaps-flare-10067f" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'data-gaps/' | relative_url }}" title="Why better UAP data matters for flare claims | ifos causes of UFO 3 ed 238 lens flare" aria-label="Open page: Why better UAP data matters for flare claims | ifos causes of UFO 3 ed 238 lens flare">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'data-gaps/' | relative_url }}" title="Why better UAP data matters for flare claims | When Cameras Invent Extra Lights | ifos causes of UFO 3 ed 238" aria-label="Open page: Why better UAP data matters for flare claims | When Cameras Invent Extra Lights | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e_uap_data_gaps_flare_10067f-Illustration-1.webp' | relative_url }}" alt="Overview image for Why better UAP data matters for flare claims | ifos causes of UFO 3 ed 238 lens flare" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2273,7 +2273,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-lens-flare-ce226e-night-phone-video-ar-b34cfa" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'night-videos/' | relative_url }}" title="Why night UFO videos fool the eye | ifos causes of UFO 3 ed 238 lens flare" aria-label="Open page: Why night UFO videos fool the eye | ifos causes of UFO 3 ed 238 lens flare">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'night-videos/' | relative_url }}" title="Why night UFO videos fool the eye | When Cameras Invent Extra Lights | ifos causes of UFO 3 ed 238" aria-label="Open page: Why night UFO videos fool the eye | When Cameras Invent Extra Lights | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e_night_phone_video_ar_b34cfa-Illustration-1.webp' | relative_url }}" alt="Overview image for Why night UFO videos fool the eye | ifos causes of UFO 3 ed 238 lens flare" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2293,7 +2293,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-lens-flare-ce226e-phone-green-orbs-745199" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'green-orbs/' | relative_url }}" title="Why phone photos make green UFO orbs | ifos causes of UFO 3 ed 238 lens flare" aria-label="Open page: Why phone photos make green UFO orbs | ifos causes of UFO 3 ed 238 lens flare">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'green-orbs/' | relative_url }}" title="Why phone photos make green UFO orbs | When Cameras Invent Extra Lights | ifos causes of UFO 3 ed 238" aria-label="Open page: Why phone photos make green UFO orbs | When Cameras Invent Extra Lights | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e_phone_green_orbs_745199-Illustration-1.webp' | relative_url }}" alt="Overview image for Why phone photos make green UFO orbs | ifos causes of UFO 3 ed 238 lens flare" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2315,7 +2315,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-ifos---causes-of-ufo-3ed238-mass-sightings-82cf28" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'mass-sightings/' | relative_url }}" title="Why Groups Can Share One Mistake | ifos causes of UFO" aria-label="Open page: Why Groups Can Share One Mistake | ifos causes of UFO">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'mass-sightings/' | relative_url }}" title="Why Groups Can Share One Mistake | ifos causes of UFO 3 ed 238" aria-label="Open page: Why Groups Can Share One Mistake | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28-overview.webp' | relative_url }}" alt="Overview image for Why Groups Can Share One Mistake | ifos causes of UFO" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2337,7 +2337,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-mass-sightings-82cf28-independent-records-9dc7db" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'independent-records/' | relative_url }}" title="What makes many UFO witnesses useful? | ifos causes of UFO 3 ed 238 mass sightings" aria-label="Open page: What makes many UFO witnesses useful? | ifos causes of UFO 3 ed 238 mass sightings">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'independent-records/' | relative_url }}" title="What makes many UFO witnesses useful? | Why Groups Can Share One Mistake | ifos causes of UFO 3 ed 238" aria-label="Open page: What makes many UFO witnesses useful? | Why Groups Can Share One Mistake | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28_independent_records_9dc7db-Illustration-1.webp' | relative_url }}" alt="Overview image for What makes many UFO witnesses useful? | ifos causes of UFO 3 ed 238 mass sightings" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2357,7 +2357,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-mass-sightings-82cf28-belgian-wave-mixed-e-00e817" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'belgian-wave/' | relative_url }}" title="What the Belgian UFO wave really shows | ifos causes of UFO 3 ed 238 mass sightings" aria-label="Open page: What the Belgian UFO wave really shows | ifos causes of UFO 3 ed 238 mass sightings">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'belgian-wave/' | relative_url }}" title="What the Belgian UFO wave really shows | Why Groups Can Share One Mistake | ifos causes of UFO 3 ed 238" aria-label="Open page: What the Belgian UFO wave really shows | Why Groups Can Share One Mistake | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28_belgian_wave_mixed_e_00e817-Illustration-1.webp' | relative_url }}" alt="Overview image for What the Belgian UFO wave really shows | ifos causes of UFO 3 ed 238 mass sightings" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2377,7 +2377,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-mass-sightings-82cf28-rocket-spiral-scares-f9cc56" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'rocket-spirals/' | relative_url }}" title="When rocket spirals become UFO scares | ifos causes of UFO 3 ed 238 mass sightings" aria-label="Open page: When rocket spirals become UFO scares | ifos causes of UFO 3 ed 238 mass sightings">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'rocket-spirals/' | relative_url }}" title="When rocket spirals become UFO scares | Why Groups Can Share One Mistake | ifos causes of UFO 3 ed 238" aria-label="Open page: When rocket spirals become UFO scares | Why Groups Can Share One Mistake | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28_rocket_spiral_scares_f9cc56-Illustration-1.webp' | relative_url }}" alt="Overview image for When rocket spirals become UFO scares | ifos causes of UFO 3 ed 238 mass sightings" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2397,7 +2397,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-mass-sightings-82cf28-crowd-shared-memory-9edf60" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'crowd-memory/' | relative_url }}" title="Why crowds remember UFO sightings together | ifos causes of UFO 3 ed 238 mass sightings" aria-label="Open page: Why crowds remember UFO sightings together | ifos causes of UFO 3 ed 238 mass sightings">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'crowd-memory/' | relative_url }}" title="Why crowds remember UFO sightings together | Why Groups Can Share One Mistake | ifos causes of UFO 3 ed 238" aria-label="Open page: Why crowds remember UFO sightings together | Why Groups Can Share One Mistake | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28_crowd_shared_memory_9edf60-Illustration-1.webp' | relative_url }}" alt="Overview image for Why crowds remember UFO sightings together | ifos causes of UFO 3 ed 238 mass sightings" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2417,7 +2417,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-mass-sightings-82cf28-starlink-mass-report-88b555" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'starlink-trains/' | relative_url }}" title="Why Starlink trains look like UFO formations | ifos causes of UFO 3 ed 238 mass sightings" aria-label="Open page: Why Starlink trains look like UFO formations | ifos causes of UFO 3 ed 238 mass sightings">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'starlink-trains/' | relative_url }}" title="Why Starlink trains look like UFO formations | Why Groups Can Share One Mistake | ifos causes of UFO 3 ed 238" aria-label="Open page: Why Starlink trains look like UFO formations | Why Groups Can Share One Mistake | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28_starlink_mass_report_88b555-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Starlink trains look like UFO formations | ifos causes of UFO 3 ed 238 mass sightings" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2439,7 +2439,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-ifos---causes-of-ufo-3ed238-meteors-fireballs-551504" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'meteors/' | relative_url }}" title="When Fireballs Become UFOs | ifos causes of UFO" aria-label="Open page: When Fireballs Become UFOs | ifos causes of UFO">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'meteors/' | relative_url }}" title="When Fireballs Become UFOs | ifos causes of UFO 3 ed 238" aria-label="Open page: When Fireballs Become UFOs | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_meteors_fireballs_551504-overview.webp' | relative_url }}" alt="Overview image for When Fireballs Become UFOs | ifos causes of UFO" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2461,7 +2461,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-meteors-fireballs-551504-fireball-report-chec-372ddf" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'report-checks/' | relative_url }}" title="How witness reports become a sky map | ifos causes of UFO 3 ed 238 meteors fireballs" aria-label="Open page: How witness reports become a sky map | ifos causes of UFO 3 ed 238 meteors fireballs">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'report-checks/' | relative_url }}" title="How witness reports become a sky map | When Fireballs Become UFOs | ifos causes of UFO 3 ed 238" aria-label="Open page: How witness reports become a sky map | When Fireballs Become UFOs | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_meteors_fireballs_551504_fireball_report_chec_372ddf-Illustration-1.webp' | relative_url }}" alt="Overview image for How witness reports become a sky map | ifos causes of UFO 3 ed 238 meteors fireballs" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2481,7 +2481,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-meteors-fireballs-551504-meteor-duration-clue-afc6d0" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'duration-clues/' | relative_url }}" title="Was that flash too fast to be a craft? | ifos causes of UFO 3 ed 238 meteors fireballs" aria-label="Open page: Was that flash too fast to be a craft? | ifos causes of UFO 3 ed 238 meteors fireballs">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'duration-clues/' | relative_url }}" title="Was that flash too fast to be a craft? | When Fireballs Become UFOs | ifos causes of UFO 3 ed 238" aria-label="Open page: Was that flash too fast to be a craft? | When Fireballs Become UFOs | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_meteors_fireballs_551504_meteor_duration_clue_afc6d0-Illustration-1.webp' | relative_url }}" alt="Overview image for Was that flash too fast to be a craft? | ifos causes of UFO 3 ed 238 meteors fireballs" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2501,7 +2501,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-meteors-fireballs-551504-reentry-debris-forma-acef75" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'debris-fleets/' | relative_url }}" title="When one falling object looks like a fleet | ifos causes of UFO 3 ed 238 meteors fireballs" aria-label="Open page: When one falling object looks like a fleet | ifos causes of UFO 3 ed 238 meteors fireballs">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'debris-fleets/' | relative_url }}" title="When one falling object looks like a fleet | When Fireballs Become UFOs | ifos causes of UFO 3 ed 238" aria-label="Open page: When one falling object looks like a fleet | When Fireballs Become UFOs | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_meteors_fireballs_551504_reentry_debris_forma_acef75-Illustration-1.webp' | relative_url }}" alt="Overview image for When one falling object looks like a fleet | ifos causes of UFO 3 ed 238 meteors fireballs" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2521,7 +2521,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-meteors-fireballs-551504-fireball-delayed-boo-4d51c9" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'delayed-booms/' | relative_url }}" title="Why the boom came after the flash | ifos causes of UFO 3 ed 238 meteors fireballs" aria-label="Open page: Why the boom came after the flash | ifos causes of UFO 3 ed 238 meteors fireballs">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'delayed-booms/' | relative_url }}" title="Why the boom came after the flash | When Fireballs Become UFOs | ifos causes of UFO 3 ed 238" aria-label="Open page: Why the boom came after the flash | When Fireballs Become UFOs | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_meteors_fireballs_551504_fireball_delayed_boo_4d51c9-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the boom came after the flash | ifos causes of UFO 3 ed 238 meteors fireballs" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2541,7 +2541,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-meteors-fireballs-551504-winchcombe-fireball-9259cf" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'winchcombe-fireball-9259-cf/' | relative_url }}" title="Winchcombe Fireball | ifos causes of UFO 3 ed 238 meteors fireballs" aria-label="Open page: Winchcombe Fireball | ifos causes of UFO 3 ed 238 meteors fireballs">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'winchcombe-fireball-9259-cf/' | relative_url }}" title="Winchcombe Fireball 9259 Cf | When Fireballs Become UFOs | ifos causes of UFO 3 ed 238" aria-label="Open page: Winchcombe Fireball 9259 Cf | When Fireballs Become UFOs | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_meteors_fireballs_551504_winchcombe_fireball_9259cf-Illustration-1.webp' | relative_url }}" alt="Overview image for Winchcombe Fireball | ifos causes of UFO 3 ed 238 meteors fireballs" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2562,7 +2562,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-ifos---causes-of-ufo-3ed238-insufficient-data-46f2ca" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'missing-data/' | relative_url }}" title="Unsolved Does Not Always Mean Strange | ifos causes of UFO" aria-label="Open page: Unsolved Does Not Always Mean Strange | ifos causes of UFO">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'missing-data/' | relative_url }}" title="Unsolved Does Not Always Mean Strange | ifos causes of UFO 3 ed 238" aria-label="Open page: Unsolved Does Not Always Mean Strange | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_insufficient_data_46f2ca-overview.webp' | relative_url }}" alt="Overview image for Unsolved Does Not Always Mean Strange | ifos causes of UFO" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2584,7 +2584,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-insufficient-data-46f2ca-blue-book-insufficie-2e23ae" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'blue-book-data/' | relative_url }}" title="Blue Book&#x27;s overlooked UFO data category | ifos causes of UFO 3 ed 238 insufficient data" aria-label="Open page: Blue Book&#x27;s overlooked UFO data category | ifos causes of UFO 3 ed 238 insufficient data">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'blue-book-data/' | relative_url }}" title="Blue Book's overlooked UFO data category | Unsolved Does Not Always Mean Strange | ifos causes of UFO 3 ed 238" aria-label="Open page: Blue Book's overlooked UFO data category | Unsolved Does Not Always Mean Strange | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_insufficient_data_46f2ca_blue_book_insufficie_2e23ae-Illustration-1.webp' | relative_url }}" alt="Overview image for Blue Book&#x27;s overlooked UFO data category | ifos causes of UFO 3 ed 238 insufficient data" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2604,7 +2604,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-insufficient-data-46f2ca-truly-unidentified-c-b0673b" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'true-unknowns/' | relative_url }}" title="What makes a UFO truly unidentified | ifos causes of UFO 3 ed 238 insufficient data" aria-label="Open page: What makes a UFO truly unidentified | ifos causes of UFO 3 ed 238 insufficient data">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'true-unknowns/' | relative_url }}" title="What makes a UFO truly unidentified | Unsolved Does Not Always Mean Strange | ifos causes of UFO 3 ed 238" aria-label="Open page: What makes a UFO truly unidentified | Unsolved Does Not Always Mean Strange | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_insufficient_data_46f2ca_truly_unidentified_c_b0673b-Illustration-1.webp' | relative_url }}" alt="Overview image for What makes a UFO truly unidentified | ifos causes of UFO 3 ed 238 insufficient data" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2624,7 +2624,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-insufficient-data-46f2ca-range-mistakes-125691" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'range-errors/' | relative_url }}" title="When distance makes UFOs look impossible | ifos causes of UFO 3 ed 238 insufficient data" aria-label="Open page: When distance makes UFOs look impossible | ifos causes of UFO 3 ed 238 insufficient data">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'range-errors/' | relative_url }}" title="When distance makes UFOs look impossible | Unsolved Does Not Always Mean Strange | ifos causes of UFO 3 ed 238" aria-label="Open page: When distance makes UFOs look impossible | Unsolved Does Not Always Mean Strange | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_insufficient_data_46f2ca_range_mistakes_125691-Illustration-1.webp' | relative_url }}" alt="Overview image for When distance makes UFOs look impossible | ifos causes of UFO 3 ed 238 insufficient data" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2644,7 +2644,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-insufficient-data-46f2ca-phone-video-limits-ef3748" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'phone-clips/' | relative_url }}" title="Why clear UFO videos can still fail | ifos causes of UFO 3 ed 238 insufficient data" aria-label="Open page: Why clear UFO videos can still fail | ifos causes of UFO 3 ed 238 insufficient data">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'phone-clips/' | relative_url }}" title="Why clear UFO videos can still fail | Unsolved Does Not Always Mean Strange | ifos causes of UFO 3 ed 238" aria-label="Open page: Why clear UFO videos can still fail | Unsolved Does Not Always Mean Strange | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_insufficient_data_46f2ca_phone_video_limits_ef3748-Illustration-1.webp' | relative_url }}" alt="Overview image for Why clear UFO videos can still fail | ifos causes of UFO 3 ed 238 insufficient data" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2664,7 +2664,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-insufficient-data-46f2ca-missing-timestamps-66d3b6" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'timestamps/' | relative_url }}" title="Why UFO reports need an exact time | ifos causes of UFO 3 ed 238 insufficient data" aria-label="Open page: Why UFO reports need an exact time | ifos causes of UFO 3 ed 238 insufficient data">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'timestamps/' | relative_url }}" title="Why UFO reports need an exact time | Unsolved Does Not Always Mean Strange | ifos causes of UFO 3 ed 238" aria-label="Open page: Why UFO reports need an exact time | Unsolved Does Not Always Mean Strange | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_insufficient_data_46f2ca_missing_timestamps_66d3b6-Illustration-1.webp' | relative_url }}" alt="Overview image for Why UFO reports need an exact time | ifos causes of UFO 3 ed 238 insufficient data" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2686,7 +2686,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-ifos---causes-of-ufo-3ed238-nasa-uap-data-8cb183" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'nasa-study/' | relative_url }}" title="Why Better UFO Data Matters | ifos causes of UFO" aria-label="Open page: Why Better UFO Data Matters | ifos causes of UFO">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'nasa-study/' | relative_url }}" title="Why Better UFO Data Matters | ifos causes of UFO 3 ed 238" aria-label="Open page: Why Better UFO Data Matters | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183-overview.webp' | relative_url }}" alt="Overview image for Why Better UFO Data Matters | ifos causes of UFO" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2708,7 +2708,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-nasa-uap-data-8cb183-smartphone-uap-crowd-856d40" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'phone-networks/' | relative_url }}" title="Could phones make UFO reports scientific? | ifos causes of UFO 3 ed 238 NASA UAP data" aria-label="Open page: Could phones make UFO reports scientific? | ifos causes of UFO 3 ed 238 NASA UAP data">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'phone-networks/' | relative_url }}" title="Could phones make UFO reports scientific? | Why Better UFO Data Matters | ifos causes of UFO 3 ed 238" aria-label="Open page: Could phones make UFO reports scientific? | Why Better UFO Data Matters | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183_smartphone_uap_crowd_856d40-Illustration-1.webp' | relative_url }}" alt="Overview image for Could phones make UFO reports scientific? | ifos causes of UFO 3 ed 238 NASA UAP data" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2728,7 +2728,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-nasa-uap-data-8cb183-standard-civilian-ua-e295b0" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'civilian-reports/' | relative_url }}" title="What makes a UFO report useful? | ifos causes of UFO 3 ed 238 NASA UAP data" aria-label="Open page: What makes a UFO report useful? | ifos causes of UFO 3 ed 238 NASA UAP data">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'civilian-reports/' | relative_url }}" title="What makes a UFO report useful? | Why Better UFO Data Matters | ifos causes of UFO 3 ed 238" aria-label="Open page: What makes a UFO report useful? | Why Better UFO Data Matters | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183_standard_civilian_ua_e295b0-Illustration-1.webp' | relative_url }}" alt="Overview image for What makes a UFO report useful? | ifos causes of UFO 3 ed 238 NASA UAP data" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2748,7 +2748,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-nasa-uap-data-8cb183-uap-baseline-librari-a298b8" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'baseline-library/' | relative_url }}" title="What normal skies look like to UAP sensors | ifos causes of UFO 3 ed 238 NASA UAP data" aria-label="Open page: What normal skies look like to UAP sensors | ifos causes of UFO 3 ed 238 NASA UAP data">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'baseline-library/' | relative_url }}" title="What normal skies look like to UAP sensors | Why Better UFO Data Matters | ifos causes of UFO 3 ed 238" aria-label="Open page: What normal skies look like to UAP sensors | Why Better UFO Data Matters | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183_uap_baseline_librari_a298b8-Illustration-1.webp' | relative_url }}" alt="Overview image for What normal skies look like to UAP sensors | ifos causes of UFO 3 ed 238 NASA UAP data" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2768,7 +2768,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-nasa-uap-data-8cb183-calibrated-sensor-ar-281973" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'sensor-artefacts/' | relative_url }}" title="When the UFO is inside the camera | ifos causes of UFO 3 ed 238 NASA UAP data" aria-label="Open page: When the UFO is inside the camera | ifos causes of UFO 3 ed 238 NASA UAP data">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'sensor-artefacts/' | relative_url }}" title="When the UFO is inside the camera | Why Better UFO Data Matters | ifos causes of UFO 3 ed 238" aria-label="Open page: When the UFO is inside the camera | Why Better UFO Data Matters | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183_calibrated_sensor_ar_281973-Illustration-1.webp' | relative_url }}" alt="Overview image for When the UFO is inside the camera | ifos causes of UFO 3 ed 238 NASA UAP data" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2788,7 +2788,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-nasa-uap-data-8cb183-missing-uap-metadata-69ee84" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'missing-metadata/' | relative_url }}" title="Why missing metadata creates false UFO mysteries | ifos causes of UFO 3 ed 238 NASA UAP data" aria-label="Open page: Why missing metadata creates false UFO mysteries | ifos causes of UFO 3 ed 238 NASA UAP data">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'missing-metadata/' | relative_url }}" title="Why missing metadata creates false UFO mysteries | Why Better UFO Data Matters | ifos causes of UFO 3 ed 238" aria-label="Open page: Why missing metadata creates false UFO mysteries | Why Better UFO Data Matters | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183_missing_uap_metadata_69ee84-Illustration-1.webp' | relative_url }}" alt="Overview image for Why missing metadata creates false UFO mysteries | ifos causes of UFO 3 ed 238 NASA UAP data" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2810,7 +2810,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-ifos---causes-of-ufo-3ed238-parallax-motion-b3453b" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'parallax/' | relative_url }}" title="The Speed Illusion in UFO Footage | ifos causes of UFO" aria-label="Open page: The Speed Illusion in UFO Footage | ifos causes of UFO">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'parallax/' | relative_url }}" title="The Speed Illusion in UFO Footage | ifos causes of UFO 3 ed 238" aria-label="Open page: The Speed Illusion in UFO Footage | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b-overview.webp' | relative_url }}" alt="Overview image for The Speed Illusion in UFO Footage | ifos causes of UFO" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2832,7 +2832,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-parallax-motion-b3453b-gofast-speed-illusio-fc9eb2" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'gofast/' | relative_url }}" title="Did GOFAST Really Show Extreme Speed? | ifos causes of UFO 3 ed 238 parallax motion" aria-label="Open page: Did GOFAST Really Show Extreme Speed? | ifos causes of UFO 3 ed 238 parallax motion">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'gofast/' | relative_url }}" title="Did GOFAST Really Show Extreme Speed? | The Speed Illusion in UFO Footage | ifos causes of UFO 3 ed 238" aria-label="Open page: Did GOFAST Really Show Extreme Speed? | The Speed Illusion in UFO Footage | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b_gofast_speed_illusio_fc9eb2-Illustration-1.webp' | relative_url }}" alt="Overview image for Did GOFAST Really Show Extreme Speed? | ifos causes of UFO 3 ed 238 parallax motion" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2852,7 +2852,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-parallax-motion-b3453b-ufo-parallax-checks-983877" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'video-checks/' | relative_url }}" title="How to Check a UFO Speed Claim | ifos causes of UFO 3 ed 238 parallax motion" aria-label="Open page: How to Check a UFO Speed Claim | ifos causes of UFO 3 ed 238 parallax motion">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'video-checks/' | relative_url }}" title="How to Check a UFO Speed Claim | The Speed Illusion in UFO Footage | ifos causes of UFO 3 ed 238" aria-label="Open page: How to Check a UFO Speed Claim | The Speed Illusion in UFO Footage | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b_ufo_parallax_checks_983877-Illustration-1.webp' | relative_url }}" alt="Overview image for How to Check a UFO Speed Claim | ifos causes of UFO 3 ed 238 parallax motion" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2872,7 +2872,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-parallax-motion-b3453b-moving-camera-parall-d14d2b" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'moving-camera/' | relative_url }}" title="When the Camera Creates the UFO Motion | ifos causes of UFO 3 ed 238 parallax motion" aria-label="Open page: When the Camera Creates the UFO Motion | ifos causes of UFO 3 ed 238 parallax motion">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'moving-camera/' | relative_url }}" title="When the Camera Creates the UFO Motion | The Speed Illusion in UFO Footage | ifos causes of UFO 3 ed 238" aria-label="Open page: When the Camera Creates the UFO Motion | The Speed Illusion in UFO Footage | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b_moving_camera_parall_d14d2b-Illustration-1.webp' | relative_url }}" alt="Overview image for When the Camera Creates the UFO Motion | ifos causes of UFO 3 ed 238 parallax motion" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2892,7 +2892,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-parallax-motion-b3453b-missing-distance-cue-e6e0e3" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'distance-cues/' | relative_url }}" title="Why Empty Backgrounds Fool UFO Viewers | ifos causes of UFO 3 ed 238 parallax motion" aria-label="Open page: Why Empty Backgrounds Fool UFO Viewers | ifos causes of UFO 3 ed 238 parallax motion">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'distance-cues/' | relative_url }}" title="Why Empty Backgrounds Fool UFO Viewers | The Speed Illusion in UFO Footage | ifos causes of UFO 3 ed 238" aria-label="Open page: Why Empty Backgrounds Fool UFO Viewers | The Speed Illusion in UFO Footage | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b_missing_distance_cue_e6e0e3-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Empty Backgrounds Fool UFO Viewers | ifos causes of UFO 3 ed 238 parallax motion" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2912,7 +2912,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-parallax-motion-b3453b-zoom-stabilization-e-a85ec1" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'zoom-errors/' | relative_url }}" title="Why Zoom Makes UFOs Look Faster | ifos causes of UFO 3 ed 238 parallax motion" aria-label="Open page: Why Zoom Makes UFOs Look Faster | ifos causes of UFO 3 ed 238 parallax motion">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'zoom-errors/' | relative_url }}" title="Why Zoom Makes UFOs Look Faster | The Speed Illusion in UFO Footage | ifos causes of UFO 3 ed 238" aria-label="Open page: Why Zoom Makes UFOs Look Faster | The Speed Illusion in UFO Footage | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b_zoom_stabilization_e_a85ec1-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Zoom Makes UFOs Look Faster | ifos causes of UFO 3 ed 238 parallax motion" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2934,7 +2934,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-ifos---causes-of-ufo-3ed238-pilot-reports-86d46a" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'pilots/' | relative_url }}" title="Why Pilots Can Misidentify UFOs | ifos causes of UFO" aria-label="Open page: Why Pilots Can Misidentify UFOs | ifos causes of UFO">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'pilots/' | relative_url }}" title="Why Pilots Can Misidentify UFOs | ifos causes of UFO 3 ed 238" aria-label="Open page: Why Pilots Can Misidentify UFOs | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a-overview.webp' | relative_url }}" alt="Overview image for Why Pilots Can Misidentify UFOs | ifos causes of UFO" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2956,7 +2956,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-pilot-reports-86d46a-pilot-ufo-safety-rep-11933c" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'safety-reports/' | relative_url }}" title="What Pilot UFO Reports Actually Prove | ifos causes of UFO 3 ed 238 pilot reports" aria-label="Open page: What Pilot UFO Reports Actually Prove | ifos causes of UFO 3 ed 238 pilot reports">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'safety-reports/' | relative_url }}" title="What Pilot UFO Reports Actually Prove | Why Pilots Can Misidentify UFOs | ifos causes of UFO 3 ed 238" aria-label="Open page: What Pilot UFO Reports Actually Prove | Why Pilots Can Misidentify UFOs | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a_pilot_ufo_safety_rep_11933c-Illustration-1.webp' | relative_url }}" alt="Overview image for What Pilot UFO Reports Actually Prove | ifos causes of UFO 3 ed 238 pilot reports" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2976,7 +2976,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-pilot-reports-86d46a-eglin-uap-pilot-test-82f778" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'eglin-case/' | relative_url }}" title="What the Eglin UAP Case Tested | ifos causes of UFO 3 ed 238 pilot reports" aria-label="Open page: What the Eglin UAP Case Tested | ifos causes of UFO 3 ed 238 pilot reports">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'eglin-case/' | relative_url }}" title="What the Eglin UAP Case Tested | Why Pilots Can Misidentify UFOs | ifos causes of UFO 3 ed 238" aria-label="Open page: What the Eglin UAP Case Tested | Why Pilots Can Misidentify UFOs | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a_eglin_uap_pilot_test_82f778-Illustration-1.webp' | relative_url }}" alt="Overview image for What the Eglin UAP Case Tested | ifos causes of UFO 3 ed 238 pilot reports" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2996,7 +2996,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-pilot-reports-86d46a-pilot-ufo-sensor-lim-b35ec4" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'sensor-limits/' | relative_url }}" title="When Better Sensors Still Leave Doubt | ifos causes of UFO 3 ed 238 pilot reports" aria-label="Open page: When Better Sensors Still Leave Doubt | ifos causes of UFO 3 ed 238 pilot reports">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'sensor-limits/' | relative_url }}" title="When Better Sensors Still Leave Doubt | Why Pilots Can Misidentify UFOs | ifos causes of UFO 3 ed 238" aria-label="Open page: When Better Sensors Still Leave Doubt | Why Pilots Can Misidentify UFOs | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a_pilot_ufo_sensor_lim_b35ec4-Illustration-1.webp' | relative_url }}" alt="Overview image for When Better Sensors Still Leave Doubt | ifos causes of UFO 3 ed 238 pilot reports" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3016,7 +3016,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-pilot-reports-86d46a-night-lights-pilot-u-c23a39" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'night-lights/' | relative_url }}" title="Why Night Lights Fool Trained Pilots | ifos causes of UFO 3 ed 238 pilot reports" aria-label="Open page: Why Night Lights Fool Trained Pilots | ifos causes of UFO 3 ed 238 pilot reports">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'night-lights/' | relative_url }}" title="Why Night Lights Fool Trained Pilots | Why Pilots Can Misidentify UFOs | ifos causes of UFO 3 ed 238" aria-label="Open page: Why Night Lights Fool Trained Pilots | Why Pilots Can Misidentify UFOs | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a_night_lights_pilot_u_c23a39-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Night Lights Fool Trained Pilots | ifos causes of UFO 3 ed 238 pilot reports" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3036,7 +3036,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-pilot-reports-86d46a-pilot-speed-range-er-b4abe8" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'speed-errors/' | relative_url }}" title="Why UFOs Look Faster Than They Are | ifos causes of UFO 3 ed 238 pilot reports" aria-label="Open page: Why UFOs Look Faster Than They Are | ifos causes of UFO 3 ed 238 pilot reports">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'speed-errors/' | relative_url }}" title="Why UFOs Look Faster Than They Are | Why Pilots Can Misidentify UFOs | ifos causes of UFO 3 ed 238" aria-label="Open page: Why UFOs Look Faster Than They Are | Why Pilots Can Misidentify UFOs | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a_pilot_speed_range_er_b4abe8-Illustration-1.webp' | relative_url }}" alt="Overview image for Why UFOs Look Faster Than They Are | ifos causes of UFO 3 ed 238 pilot reports" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3058,7 +3058,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-ifos---causes-of-ufo-3ed238-radar-anomalies-d7d357" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'radar/' | relative_url }}" title="When Radar Sees a UFO That Isnt There | ifos causes of UFO" aria-label="Open page: When Radar Sees a UFO That Isnt There | ifos causes of UFO">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'radar/' | relative_url }}" title="When Radar Sees a UFO That Isnt There | ifos causes of UFO 3 ed 238" aria-label="Open page: When Radar Sees a UFO That Isnt There | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357-overview.webp' | relative_url }}" alt="Overview image for When Radar Sees a UFO That Isnt There | ifos causes of UFO" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3080,7 +3080,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-radar-anomalies-d7d357-biological-weather-r-7a55b7" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'bio-clutter/' | relative_url }}" title="Can Birds and Bugs Look Like UFOs on Radar? | ifos causes of UFO 3 ed 238 radar anomalies" aria-label="Open page: Can Birds and Bugs Look Like UFOs on Radar? | ifos causes of UFO 3 ed 238 radar anomalies">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'bio-clutter/' | relative_url }}" title="Can Birds and Bugs Look Like UFOs on Radar? | When Radar Sees a UFO That Isnt There | ifos causes of UFO 3 ed 238" aria-label="Open page: Can Birds and Bugs Look Like UFOs on Radar? | When Radar Sees a UFO That Isnt There | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357_biological_weather_r_7a55b7-Illustration-1.webp' | relative_url }}" alt="Overview image for Can Birds and Bugs Look Like UFOs on Radar? | ifos causes of UFO 3 ed 238 radar anomalies" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3100,7 +3100,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-radar-anomalies-d7d357-radar-blips-vs-track-0f2d26" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'blips-vs-tracks/' | relative_url }}" title="Is One Radar Blip Really a UFO? | ifos causes of UFO 3 ed 238 radar anomalies" aria-label="Open page: Is One Radar Blip Really a UFO? | ifos causes of UFO 3 ed 238 radar anomalies">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'blips-vs-tracks/' | relative_url }}" title="Is One Radar Blip Really a UFO? | When Radar Sees a UFO That Isnt There | ifos causes of UFO 3 ed 238" aria-label="Open page: Is One Radar Blip Really a UFO? | When Radar Sees a UFO That Isnt There | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357_radar_blips_vs_track_0f2d26-Illustration-1.webp' | relative_url }}" alt="Overview image for Is One Radar Blip Really a UFO? | ifos causes of UFO 3 ed 238 radar anomalies" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3120,7 +3120,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-radar-anomalies-d7d357-radar-ducting-false-d35e7f" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'radar-ducting/' | relative_url }}" title="When the Atmosphere Makes Radar See Objects | ifos causes of UFO 3 ed 238 radar anomalies" aria-label="Open page: When the Atmosphere Makes Radar See Objects | ifos causes of UFO 3 ed 238 radar anomalies">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'radar-ducting/' | relative_url }}" title="When the Atmosphere Makes Radar See Objects | When Radar Sees a UFO That Isnt There | ifos causes of UFO 3 ed 238" aria-label="Open page: When the Atmosphere Makes Radar See Objects | When Radar Sees a UFO That Isnt There | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357_radar_ducting_false_d35e7f-Illustration-1.webp' | relative_url }}" alt="Overview image for When the Atmosphere Makes Radar See Objects | ifos causes of UFO 3 ed 238 radar anomalies" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3140,7 +3140,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-radar-anomalies-d7d357-radar-ufo-metadata-g-8a29d3" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'missing-data-0adffe/' | relative_url }}" title="Why Radar UFO Evidence Often Needs Metadata | ifos causes of UFO 3 ed 238 radar anomalies" aria-label="Open page: Why Radar UFO Evidence Often Needs Metadata | ifos causes of UFO 3 ed 238 radar anomalies">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'missing-data-0adffe/' | relative_url }}" title="Why Radar UFO Evidence Often Needs Metadata | When Radar Sees a UFO That Isnt There | ifos causes of UFO 3 ed 238" aria-label="Open page: Why Radar UFO Evidence Often Needs Metadata | When Radar Sees a UFO That Isnt There | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357_radar_ufo_metadata_g_8a29d3-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Radar UFO Evidence Often Needs Metadata | ifos causes of UFO 3 ed 238 radar anomalies" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3160,7 +3160,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-radar-anomalies-d7d357-wind-turbine-radar-f-17eb42" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'wind-turbines/' | relative_url }}" title="Why Wind Farms Can Confuse Airport Radar | ifos causes of UFO 3 ed 238 radar anomalies" aria-label="Open page: Why Wind Farms Can Confuse Airport Radar | ifos causes of UFO 3 ed 238 radar anomalies">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'wind-turbines/' | relative_url }}" title="Why Wind Farms Can Confuse Airport Radar | When Radar Sees a UFO That Isnt There | ifos causes of UFO 3 ed 238" aria-label="Open page: Why Wind Farms Can Confuse Airport Radar | When Radar Sees a UFO That Isnt There | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357_wind_turbine_radar_f_17eb42-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Wind Farms Can Confuse Airport Radar | ifos causes of UFO 3 ed 238 radar anomalies" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3182,7 +3182,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-ifos---causes-of-ufo-3ed238-window-reflections-bcc04c" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'reflections/' | relative_url }}" title="The UFO Inside the Glass | ifos causes of UFO" aria-label="Open page: The UFO Inside the Glass | ifos causes of UFO">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'reflections/' | relative_url }}" title="The UFO Inside the Glass | ifos causes of UFO 3 ed 238" aria-label="Open page: The UFO Inside the Glass | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c-overview.webp' | relative_url }}" alt="Overview image for The UFO Inside the Glass | ifos causes of UFO" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3204,7 +3204,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-window-reflections-bcc04c-cockpit-glass-pilot-1f2378" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'cockpits/' | relative_url }}" title="Can Pilots Be Fooled by Cockpit Glass? | ifos causes of UFO 3 ed 238 window reflections" aria-label="Open page: Can Pilots Be Fooled by Cockpit Glass? | ifos causes of UFO 3 ed 238 window reflections">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'cockpits/' | relative_url }}" title="Can Pilots Be Fooled by Cockpit Glass? | The UFO Inside the Glass | ifos causes of UFO 3 ed 238" aria-label="Open page: Can Pilots Be Fooled by Cockpit Glass? | The UFO Inside the Glass | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c_cockpit_glass_pilot_1f2378-Illustration-1.webp' | relative_url }}" alt="Overview image for Can Pilots Be Fooled by Cockpit Glass? | ifos causes of UFO 3 ed 238 window reflections" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3224,7 +3224,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-window-reflections-bcc04c-ufo-reflection-photo-560d3e" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'photo-checks/' | relative_url }}" title="How to Test a UFO Reflection | ifos causes of UFO 3 ed 238 window reflections" aria-label="Open page: How to Test a UFO Reflection | ifos causes of UFO 3 ed 238 window reflections">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'photo-checks/' | relative_url }}" title="How to Test a UFO Reflection | The UFO Inside the Glass | ifos causes of UFO 3 ed 238" aria-label="Open page: How to Test a UFO Reflection | The UFO Inside the Glass | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c_ufo_reflection_photo_560d3e-Illustration-1.webp' | relative_url }}" alt="Overview image for How to Test a UFO Reflection | ifos causes of UFO 3 ed 238 window reflections" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3244,7 +3244,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-window-reflections-bcc04c-passenger-window-vid-fdc156" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'cabin-videos/' | relative_url }}" title="The UFO Hidden in the Plane Window | ifos causes of UFO 3 ed 238 window reflections" aria-label="Open page: The UFO Hidden in the Plane Window | ifos causes of UFO 3 ed 238 window reflections">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'cabin-videos/' | relative_url }}" title="The UFO Hidden in the Plane Window | The UFO Inside the Glass | ifos causes of UFO 3 ed 238" aria-label="Open page: The UFO Hidden in the Plane Window | The UFO Inside the Glass | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c_passenger_window_vid_fdc156-Illustration-1.webp' | relative_url }}" alt="Overview image for The UFO Hidden in the Plane Window | ifos causes of UFO 3 ed 238 window reflections" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3264,7 +3264,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-window-reflections-bcc04c-night-window-lamp-re-2a4a79" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'night-lamps/' | relative_url }}" title="When a Room Light Becomes a UFO | ifos causes of UFO 3 ed 238 window reflections" aria-label="Open page: When a Room Light Becomes a UFO | ifos causes of UFO 3 ed 238 window reflections">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'night-lamps/' | relative_url }}" title="When a Room Light Becomes a UFO | The UFO Inside the Glass | ifos causes of UFO 3 ed 238" aria-label="Open page: When a Room Light Becomes a UFO | The UFO Inside the Glass | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c_night_window_lamp_re_2a4a79-Illustration-1.webp' | relative_url }}" alt="Overview image for When a Room Light Becomes a UFO | ifos causes of UFO 3 ed 238 window reflections" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3284,7 +3284,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-window-reflections-bcc04c-car-windscreen-refle-a4049c" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'windscreens/' | relative_url }}" title="Why Dashboard Lights Can Look Alive | ifos causes of UFO 3 ed 238 window reflections" aria-label="Open page: Why Dashboard Lights Can Look Alive | ifos causes of UFO 3 ed 238 window reflections">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'windscreens/' | relative_url }}" title="Why Dashboard Lights Can Look Alive | The UFO Inside the Glass | ifos causes of UFO 3 ed 238" aria-label="Open page: Why Dashboard Lights Can Look Alive | The UFO Inside the Glass | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c_car_windscreen_refle_a4049c-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Dashboard Lights Can Look Alive | ifos causes of UFO 3 ed 238 window reflections" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3306,7 +3306,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-ifos---causes-of-ufo-3ed238-rocket-plumes-0fc132" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'rocket-plumes/' | relative_url }}" title="The Strange Clouds Rockets Leave Behind | ifos causes of UFO" aria-label="Open page: The Strange Clouds Rockets Leave Behind | ifos causes of UFO">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'rocket-plumes/' | relative_url }}" title="The Strange Clouds Rockets Leave Behind | ifos causes of UFO 3 ed 238" aria-label="Open page: The Strange Clouds Rockets Leave Behind | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132-overview.webp' | relative_url }}" alt="Overview image for The Strange Clouds Rockets Leave Behind | ifos causes of UFO" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3328,7 +3328,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-rocket-plumes-0fc132-norway-spiral-rocket-5c1b1e" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'norway-spiral/' | relative_url }}" title="How a Failed Rocket Made a Sky Spiral | ifos causes of UFO 3 ed 238 rocket plumes" aria-label="Open page: How a Failed Rocket Made a Sky Spiral | ifos causes of UFO 3 ed 238 rocket plumes">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'norway-spiral/' | relative_url }}" title="How a Failed Rocket Made a Sky Spiral | The Strange Clouds Rockets Leave Behind | ifos causes of UFO 3 ed 238" aria-label="Open page: How a Failed Rocket Made a Sky Spiral | The Strange Clouds Rockets Leave Behind | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132_norway_spiral_rocket_5c1b1e-Illustration-1.webp' | relative_url }}" alt="Overview image for How a Failed Rocket Made a Sky Spiral | ifos causes of UFO 3 ed 238 rocket plumes" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3348,7 +3348,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-rocket-plumes-0fc132-checking-ufo-against-e894f4" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'launch-checks/' | relative_url }}" title="How to Check a UFO Against a Launch | ifos causes of UFO 3 ed 238 rocket plumes" aria-label="Open page: How to Check a UFO Against a Launch | ifos causes of UFO 3 ed 238 rocket plumes">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'launch-checks/' | relative_url }}" title="How to Check a UFO Against a Launch | The Strange Clouds Rockets Leave Behind | ifos causes of UFO 3 ed 238" aria-label="Open page: How to Check a UFO Against a Launch | The Strange Clouds Rockets Leave Behind | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132_checking_ufo_against_e894f4-Illustration-1.webp' | relative_url }}" alt="Overview image for How to Check a UFO Against a Launch | ifos causes of UFO 3 ed 238 rocket plumes" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3368,7 +3368,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-rocket-plumes-0fc132-trident-missile-ufo-16b7db" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'trident-test/' | relative_url }}" title="The Missile Test That Looked Like a UFO | ifos causes of UFO 3 ed 238 rocket plumes" aria-label="Open page: The Missile Test That Looked Like a UFO | ifos causes of UFO 3 ed 238 rocket plumes">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'trident-test/' | relative_url }}" title="The Missile Test That Looked Like a UFO | The Strange Clouds Rockets Leave Behind | ifos causes of UFO 3 ed 238" aria-label="Open page: The Missile Test That Looked Like a UFO | The Strange Clouds Rockets Leave Behind | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132_trident_missile_ufo_16b7db-Illustration-1.webp' | relative_url }}" alt="Overview image for The Missile Test That Looked Like a UFO | ifos causes of UFO 3 ed 238 rocket plumes" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3388,7 +3388,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-rocket-plumes-0fc132-southern-california-cf941d" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'so-cal-launches/' | relative_url }}" title="Why Southern California Keeps Seeing Rocket UFOs | ifos causes of UFO 3 ed 238 rocket plumes" aria-label="Open page: Why Southern California Keeps Seeing Rocket UFOs | ifos causes of UFO 3 ed 238 rocket plumes">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'so-cal-launches/' | relative_url }}" title="Why Southern California Keeps Seeing Rocket UFOs | The Strange Clouds Rockets Leave Behind | ifos causes of UFO 3 ed 238" aria-label="Open page: Why Southern California Keeps Seeing Rocket UFOs | The Strange Clouds Rockets Leave Behind | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132_southern_california_cf941d-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Southern California Keeps Seeing Rocket UFOs | ifos causes of UFO 3 ed 238 rocket plumes" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3408,7 +3408,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-rocket-plumes-0fc132-twilight-rocket-plum-ddbb62" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'twilight-plumes/' | relative_url }}" title="Why Twilight Rocket Plumes Look So Strange | ifos causes of UFO 3 ed 238 rocket plumes" aria-label="Open page: Why Twilight Rocket Plumes Look So Strange | ifos causes of UFO 3 ed 238 rocket plumes">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'twilight-plumes/' | relative_url }}" title="Why Twilight Rocket Plumes Look So Strange | The Strange Clouds Rockets Leave Behind | ifos causes of UFO 3 ed 238" aria-label="Open page: Why Twilight Rocket Plumes Look So Strange | The Strange Clouds Rockets Leave Behind | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132_twilight_rocket_plum_ddbb62-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Twilight Rocket Plumes Look So Strange | ifos causes of UFO 3 ed 238 rocket plumes" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3430,7 +3430,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-ifos---causes-of-ufo-3ed238-satellites-starlink-2cae9b" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'satellites/' | relative_url }}" title="Why Satellites Surprise Night Watchers | ifos causes of UFO" aria-label="Open page: Why Satellites Surprise Night Watchers | ifos causes of UFO">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'satellites/' | relative_url }}" title="Why Satellites Surprise Night Watchers | ifos causes of UFO 3 ed 238" aria-label="Open page: Why Satellites Surprise Night Watchers | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b-overview.webp' | relative_url }}" alt="Overview image for Why Satellites Surprise Night Watchers | ifos causes of UFO" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3452,7 +3452,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-satellites-starlink-2cae9b-satellite-tracker-ch-077d31" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'tracker-checks/' | relative_url }}" title="How to check a UFO against satellites | ifos causes of UFO 3 ed 238 satellites starlink" aria-label="Open page: How to check a UFO against satellites | ifos causes of UFO 3 ed 238 satellites starlink">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'tracker-checks/' | relative_url }}" title="How to check a UFO against satellites | Why Satellites Surprise Night Watchers | ifos causes of UFO 3 ed 238" aria-label="Open page: How to check a UFO against satellites | Why Satellites Surprise Night Watchers | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b_satellite_tracker_ch_077d31-Illustration-1.webp' | relative_url }}" alt="Overview image for How to check a UFO against satellites | ifos causes of UFO 3 ed 238 satellites starlink" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3472,7 +3472,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-satellites-starlink-2cae9b-satellite-pass-clues-8e7a5f" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'satellite-clues/' | relative_url }}" title="Was that silent light a satellite? | ifos causes of UFO 3 ed 238 satellites starlink" aria-label="Open page: Was that silent light a satellite? | ifos causes of UFO 3 ed 238 satellites starlink">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'satellite-clues/' | relative_url }}" title="Was that silent light a satellite? | Why Satellites Surprise Night Watchers | ifos causes of UFO 3 ed 238" aria-label="Open page: Was that silent light a satellite? | Why Satellites Surprise Night Watchers | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b_satellite_pass_clues_8e7a5f-Illustration-1.webp' | relative_url }}" alt="Overview image for Was that silent light a satellite? | ifos causes of UFO 3 ed 238 satellites starlink" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3492,7 +3492,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-satellites-starlink-2cae9b-starlink-flares-3a1a8d" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'flares-6fea4c/' | relative_url }}" title="When satellite glints look like manoeuvres | ifos causes of UFO 3 ed 238 satellites starlink" aria-label="Open page: When satellite glints look like manoeuvres | ifos causes of UFO 3 ed 238 satellites starlink">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'flares-6fea4c/' | relative_url }}" title="When satellite glints look like manoeuvres | Why Satellites Surprise Night Watchers | ifos causes of UFO 3 ed 238" aria-label="Open page: When satellite glints look like manoeuvres | Why Satellites Surprise Night Watchers | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b_starlink_flares_3a1a8d-Illustration-1.webp' | relative_url }}" alt="Overview image for When satellite glints look like manoeuvres | ifos causes of UFO 3 ed 238 satellites starlink" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3512,7 +3512,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-satellites-starlink-2cae9b-starlink-trains-724c24" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'starlink-trains-abbfbb/' | relative_url }}" title="Why do Starlink trains look planned? | ifos causes of UFO 3 ed 238 satellites starlink" aria-label="Open page: Why do Starlink trains look planned? | ifos causes of UFO 3 ed 238 satellites starlink">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'starlink-trains-abbfbb/' | relative_url }}" title="Why do Starlink trains look planned? | Why Satellites Surprise Night Watchers | ifos causes of UFO 3 ed 238" aria-label="Open page: Why do Starlink trains look planned? | Why Satellites Surprise Night Watchers | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b_starlink_trains_724c24-Illustration-1.webp' | relative_url }}" alt="Overview image for Why do Starlink trains look planned? | ifos causes of UFO 3 ed 238 satellites starlink" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3532,7 +3532,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-satellites-starlink-2cae9b-gallup-pilot-flares-1bd646" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'gallup-case/' | relative_url }}" title="Why pilots can misread satellite flares | ifos causes of UFO 3 ed 238 satellites starlink" aria-label="Open page: Why pilots can misread satellite flares | ifos causes of UFO 3 ed 238 satellites starlink">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'gallup-case/' | relative_url }}" title="Why pilots can misread satellite flares | Why Satellites Surprise Night Watchers | ifos causes of UFO 3 ed 238" aria-label="Open page: Why pilots can misread satellite flares | Why Satellites Surprise Night Watchers | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b_gallup_pilot_flares_1bd646-Illustration-1.webp' | relative_url }}" alt="Overview image for Why pilots can misread satellite flares | ifos causes of UFO 3 ed 238 satellites starlink" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3554,7 +3554,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-ifos---causes-of-ufo-3ed238-searchlights-clouds-76dbe1" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'searchlights/' | relative_url }}" title="How Searchlights Paint UFOs in Clouds | ifos causes of UFO" aria-label="Open page: How Searchlights Paint UFOs in Clouds | ifos causes of UFO">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'searchlights/' | relative_url }}" title="How Searchlights Paint UFOs in Clouds | ifos causes of UFO 3 ed 238" aria-label="Open page: How Searchlights Paint UFOs in Clouds | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1-overview.webp' | relative_url }}" alt="Overview image for How Searchlights Paint UFOs in Clouds | ifos causes of UFO" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3576,7 +3576,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-searchlights-clouds-76dbe1-beam-rules-sighting-d7435e" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'beam-rules/' | relative_url }}" title="Can airspace records solve beam sightings? | ifos causes of UFO 3 ed 238 searchlights clouds" aria-label="Open page: Can airspace records solve beam sightings? | ifos causes of UFO 3 ed 238 searchlights clouds">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'beam-rules/' | relative_url }}" title="Can airspace records solve beam sightings? | How Searchlights Paint UFOs in Clouds | ifos causes of UFO 3 ed 238" aria-label="Open page: Can airspace records solve beam sightings? | How Searchlights Paint UFOs in Clouds | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1_beam_rules_sighting_d7435e-Illustration-1.webp' | relative_url }}" alt="Overview image for Can airspace records solve beam sightings? | ifos causes of UFO 3 ed 238 searchlights clouds" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3596,7 +3596,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-searchlights-clouds-76dbe1-blue-book-searchligh-f9ba49" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'blue-book-1a295d/' | relative_url }}" title="How official UFO records handled searchlights | ifos causes of UFO 3 ed 238 searchlights clouds" aria-label="Open page: How official UFO records handled searchlights | ifos causes of UFO 3 ed 238 searchlights clouds">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'blue-book-1a295d/' | relative_url }}" title="How official UFO records handled searchlights | How Searchlights Paint UFOs in Clouds | ifos causes of UFO 3 ed 238" aria-label="Open page: How official UFO records handled searchlights | How Searchlights Paint UFOs in Clouds | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1_blue_book_searchligh_f9ba49-Illustration-1.webp' | relative_url }}" alt="Overview image for How official UFO records handled searchlights | ifos causes of UFO 3 ed 238 searchlights clouds" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3616,7 +3616,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-searchlights-clouds-76dbe1-hidden-event-searchl-b7f3cf" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'event-beams/' | relative_url }}" title="Was the UFO really an event searchlight? | ifos causes of UFO 3 ed 238 searchlights clouds" aria-label="Open page: Was the UFO really an event searchlight? | ifos causes of UFO 3 ed 238 searchlights clouds">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'event-beams/' | relative_url }}" title="Was the UFO really an event searchlight? | How Searchlights Paint UFOs in Clouds | ifos causes of UFO 3 ed 238" aria-label="Open page: Was the UFO really an event searchlight? | How Searchlights Paint UFOs in Clouds | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1_hidden_event_searchl_b7f3cf-Illustration-1.webp' | relative_url }}" alt="Overview image for Was the UFO really an event searchlight? | ifos causes of UFO 3 ed 238 searchlights clouds" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3636,7 +3636,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-searchlights-clouds-76dbe1-repeating-beam-patte-8be1f2" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'looping-lights/' | relative_url }}" title="When repeated loops look like intelligent control | ifos causes of UFO 3 ed 238 searchlights clouds" aria-label="Open page: When repeated loops look like intelligent control | ifos causes of UFO 3 ed 238 searchlights clouds">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'looping-lights/' | relative_url }}" title="When repeated loops look like intelligent control | How Searchlights Paint UFOs in Clouds | ifos causes of UFO 3 ed 238" aria-label="Open page: When repeated loops look like intelligent control | How Searchlights Paint UFOs in Clouds | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1_repeating_beam_patte_8be1f2-Illustration-1.webp' | relative_url }}" alt="Overview image for When repeated loops look like intelligent control | ifos causes of UFO 3 ed 238 searchlights clouds" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3656,7 +3656,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-searchlights-clouds-76dbe1-cloud-screen-discs-d2af73" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'cloud-screens/' | relative_url }}" title="Why clouds make searchlights look solid | ifos causes of UFO 3 ed 238 searchlights clouds" aria-label="Open page: Why clouds make searchlights look solid | ifos causes of UFO 3 ed 238 searchlights clouds">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'cloud-screens/' | relative_url }}" title="Why clouds make searchlights look solid | How Searchlights Paint UFOs in Clouds | ifos causes of UFO 3 ed 238" aria-label="Open page: Why clouds make searchlights look solid | How Searchlights Paint UFOs in Clouds | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1_cloud_screen_discs_d2af73-Illustration-1.webp' | relative_url }}" alt="Overview image for Why clouds make searchlights look solid | ifos causes of UFO 3 ed 238 searchlights clouds" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3678,7 +3678,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-ifos---causes-of-ufo-3ed238-sensor-operators-e2e57b" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'sensor-operators/' | relative_url }}" title="When Sensors Need Human Context | ifos causes of UFO" aria-label="Open page: When Sensors Need Human Context | ifos causes of UFO">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'sensor-operators/' | relative_url }}" title="When Sensors Need Human Context | ifos causes of UFO 3 ed 238" aria-label="Open page: When Sensors Need Human Context | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b-overview.webp' | relative_url }}" alt="Overview image for When Sensors Need Human Context | ifos causes of UFO" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3700,7 +3700,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-sensor-operators-e2e57b-real-object-unidenti-1f06b3" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'real-but-unknown/' | relative_url }}" title="Real object does not mean solved object | ifos causes of UFO 3 ed 238 sensor operators" aria-label="Open page: Real object does not mean solved object | ifos causes of UFO 3 ed 238 sensor operators">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'real-but-unknown/' | relative_url }}" title="Real object does not mean solved object | When Sensors Need Human Context | ifos causes of UFO 3 ed 238" aria-label="Open page: Real object does not mean solved object | When Sensors Need Human Context | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b_real_object_unidenti_1f06b3-Illustration-1.webp' | relative_url }}" alt="Overview image for Real object does not mean solved object | ifos causes of UFO 3 ed 238 sensor operators" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3720,7 +3720,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-sensor-operators-e2e57b-radar-ducting-false-010dff" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'radar-ducting-d84f17/' | relative_url }}" title="When weather bends radar into UFOs | ifos causes of UFO 3 ed 238 sensor operators" aria-label="Open page: When weather bends radar into UFOs | ifos causes of UFO 3 ed 238 sensor operators">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'radar-ducting-d84f17/' | relative_url }}" title="When weather bends radar into UFOs | When Sensors Need Human Context | ifos causes of UFO 3 ed 238" aria-label="Open page: When weather bends radar into UFOs | When Sensors Need Human Context | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b_radar_ducting_false_010dff-Illustration-1.webp' | relative_url }}" alt="Overview image for When weather bends radar into UFOs | ifos causes of UFO 3 ed 238 sensor operators" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3740,7 +3740,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-sensor-operators-e2e57b-operator-display-mot-2efffb" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'display-cues/' | relative_url }}" title="Why expert screens can still mislead | ifos causes of UFO 3 ed 238 sensor operators" aria-label="Open page: Why expert screens can still mislead | ifos causes of UFO 3 ed 238 sensor operators">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'display-cues/' | relative_url }}" title="Why expert screens can still mislead | When Sensors Need Human Context | ifos causes of UFO 3 ed 238" aria-label="Open page: Why expert screens can still mislead | When Sensors Need Human Context | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b_operator_display_mot_2efffb-Illustration-1.webp' | relative_url }}" alt="Overview image for Why expert screens can still mislead | ifos causes of UFO 3 ed 238 sensor operators" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3760,7 +3760,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-sensor-operators-e2e57b-gofast-parallax-spee-972ef5" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'go-fast/' | relative_url }}" title="Why Go Fast looked faster than it was | ifos causes of UFO 3 ed 238 sensor operators" aria-label="Open page: Why Go Fast looked faster than it was | ifos causes of UFO 3 ed 238 sensor operators">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'go-fast/' | relative_url }}" title="Why Go Fast looked faster than it was | When Sensors Need Human Context | ifos causes of UFO 3 ed 238" aria-label="Open page: Why Go Fast looked faster than it was | When Sensors Need Human Context | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b_gofast_parallax_spee_972ef5-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Go Fast looked faster than it was | ifos causes of UFO 3 ed 238 sensor operators" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3780,7 +3780,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-sensor-operators-e2e57b-historical-radar-vis-05677e" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'old-records/' | relative_url }}" title="Why old radar cases stay mysterious | ifos causes of UFO 3 ed 238 sensor operators" aria-label="Open page: Why old radar cases stay mysterious | ifos causes of UFO 3 ed 238 sensor operators">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'old-records/' | relative_url }}" title="Why old radar cases stay mysterious | When Sensors Need Human Context | ifos causes of UFO 3 ed 238" aria-label="Open page: Why old radar cases stay mysterious | When Sensors Need Human Context | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b_historical_radar_vis_05677e-Illustration-1.webp' | relative_url }}" alt="Overview image for Why old radar cases stay mysterious | ifos causes of UFO 3 ed 238 sensor operators" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3802,7 +3802,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-ifos---causes-of-ufo-3ed238-short-ufo-clips-8e6391" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'short-clips/' | relative_url }}" title="Why Short UFO Videos Are Hard to Trust | ifos causes of UFO" aria-label="Open page: Why Short UFO Videos Are Hard to Trust | ifos causes of UFO">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'short-clips/' | relative_url }}" title="Why Short UFO Videos Are Hard to Trust | ifos causes of UFO 3 ed 238" aria-label="Open page: Why Short UFO Videos Are Hard to Trust | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391-overview.webp' | relative_url }}" alt="Overview image for Why Short UFO Videos Are Hard to Trust | ifos causes of UFO" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3824,7 +3824,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-short-ufo-clips-8e6391-useful-ufo-video-che-819eea" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'useful-clips/' | relative_url }}" title="What Makes a UFO Clip Useful | ifos causes of UFO 3 ed 238 short UFO clips" aria-label="Open page: What Makes a UFO Clip Useful | ifos causes of UFO 3 ed 238 short UFO clips">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'useful-clips/' | relative_url }}" title="What Makes a UFO Clip Useful | Why Short UFO Videos Are Hard to Trust | ifos causes of UFO 3 ed 238" aria-label="Open page: What Makes a UFO Clip Useful | Why Short UFO Videos Are Hard to Trust | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391_useful_ufo_video_che_819eea-Illustration-1.webp' | relative_url }}" alt="Overview image for What Makes a UFO Clip Useful | ifos causes of UFO 3 ed 238 short UFO clips" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3844,7 +3844,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-short-ufo-clips-8e6391-missing-context-clip-4cd188" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'missing-context/' | relative_url }}" title="What the Missing Minutes Can Reveal | ifos causes of UFO 3 ed 238 short UFO clips" aria-label="Open page: What the Missing Minutes Can Reveal | ifos causes of UFO 3 ed 238 short UFO clips">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'missing-context/' | relative_url }}" title="What the Missing Minutes Can Reveal | Why Short UFO Videos Are Hard to Trust | ifos causes of UFO 3 ed 238" aria-label="Open page: What the Missing Minutes Can Reveal | Why Short UFO Videos Are Hard to Trust | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391_missing_context_clip_4cd188-Illustration-1.webp' | relative_url }}" alt="Overview image for What the Missing Minutes Can Reveal | ifos causes of UFO 3 ed 238 short UFO clips" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3864,7 +3864,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-short-ufo-clips-8e6391-compression-ufo-arti-efacc5" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'compression/' | relative_url }}" title="When the Trail Is in the Video | ifos causes of UFO 3 ed 238 short UFO clips" aria-label="Open page: When the Trail Is in the Video | ifos causes of UFO 3 ed 238 short UFO clips">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'compression/' | relative_url }}" title="When the Trail Is in the Video | Why Short UFO Videos Are Hard to Trust | ifos causes of UFO 3 ed 238" aria-label="Open page: When the Trail Is in the Video | Why Short UFO Videos Are Hard to Trust | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391_compression_ufo_arti_efacc5-Illustration-1.webp' | relative_url }}" alt="Overview image for When the Trail Is in the Video | ifos causes of UFO 3 ed 238 short UFO clips" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3884,7 +3884,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-short-ufo-clips-8e6391-parallax-speed-illus-714144" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'parallax-811b0d/' | relative_url }}" title="Why Fast UFOs May Not Be Fast | ifos causes of UFO 3 ed 238 short UFO clips" aria-label="Open page: Why Fast UFOs May Not Be Fast | ifos causes of UFO 3 ed 238 short UFO clips">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'parallax-811b0d/' | relative_url }}" title="Why Fast UFOs May Not Be Fast | Why Short UFO Videos Are Hard to Trust | ifos causes of UFO 3 ed 238" aria-label="Open page: Why Fast UFOs May Not Be Fast | Why Short UFO Videos Are Hard to Trust | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391_parallax_speed_illus_714144-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Fast UFOs May Not Be Fast | ifos causes of UFO 3 ed 238 short UFO clips" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3904,7 +3904,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-short-ufo-clips-8e6391-out-of-focus-ufo-orb-9fdbb4" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'ufo-orbs/' | relative_url }}" title="Why Night Lights Become Orbs | ifos causes of UFO 3 ed 238 short UFO clips" aria-label="Open page: Why Night Lights Become Orbs | ifos causes of UFO 3 ed 238 short UFO clips">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'ufo-orbs/' | relative_url }}" title="Why Night Lights Become Orbs | Why Short UFO Videos Are Hard to Trust | ifos causes of UFO 3 ed 238" aria-label="Open page: Why Night Lights Become Orbs | Why Short UFO Videos Are Hard to Trust | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391_out_of_focus_ufo_orb_9fdbb4-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Night Lights Become Orbs | ifos causes of UFO 3 ed 238 short UFO clips" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3926,7 +3926,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-ifos---causes-of-ufo-3ed238-distance-size-errors-849a5f" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'size-errors/' | relative_url }}" title="Why Honest Witnesses Misjudge UFOs | ifos causes of UFO" aria-label="Open page: Why Honest Witnesses Misjudge UFOs | ifos causes of UFO">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'size-errors/' | relative_url }}" title="Why Honest Witnesses Misjudge UFOs | ifos causes of UFO 3 ed 238" aria-label="Open page: Why Honest Witnesses Misjudge UFOs | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f-overview.webp' | relative_url }}" alt="Overview image for Why Honest Witnesses Misjudge UFOs | ifos causes of UFO" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3948,7 +3948,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-distance-size-errors-849a5f-silent-objects-size-4891c8" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'silent-objects/' | relative_url }}" title="Does Silence Mean A UFO Was Huge? | ifos causes of UFO 3 ed 238 distance size errors" aria-label="Open page: Does Silence Mean A UFO Was Huge? | ifos causes of UFO 3 ed 238 distance size errors">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'silent-objects/' | relative_url }}" title="Does Silence Mean A UFO Was Huge? | Why Honest Witnesses Misjudge UFOs | ifos causes of UFO 3 ed 238" aria-label="Open page: Does Silence Mean A UFO Was Huge? | Why Honest Witnesses Misjudge UFOs | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f_silent_objects_size_4891c8-Illustration-1.webp' | relative_url }}" alt="Overview image for Does Silence Mean A UFO Was Huge? | ifos causes of UFO 3 ed 238 distance size errors" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3968,7 +3968,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-distance-size-errors-849a5f-angular-ufo-reportin-cc6ec5" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'angular-clues/' | relative_url }}" title="The Better Way To Describe A UFO | ifos causes of UFO 3 ed 238 distance size errors" aria-label="Open page: The Better Way To Describe A UFO | ifos causes of UFO 3 ed 238 distance size errors">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'angular-clues/' | relative_url }}" title="The Better Way To Describe A UFO | Why Honest Witnesses Misjudge UFOs | ifos causes of UFO 3 ed 238" aria-label="Open page: The Better Way To Describe A UFO | Why Honest Witnesses Misjudge UFOs | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f_angular_ufo_reportin_cc6ec5-Illustration-1.webp' | relative_url }}" alt="Overview image for The Better Way To Describe A UFO | ifos causes of UFO 3 ed 238 distance size errors" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3988,7 +3988,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-distance-size-errors-849a5f-balloons-large-craft-9fef15" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'balloons-7d72d9/' | relative_url }}" title="When A Balloon Becomes A Giant Craft | ifos causes of UFO 3 ed 238 distance size errors" aria-label="Open page: When A Balloon Becomes A Giant Craft | ifos causes of UFO 3 ed 238 distance size errors">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'balloons-7d72d9/' | relative_url }}" title="When A Balloon Becomes A Giant Craft | Why Honest Witnesses Misjudge UFOs | ifos causes of UFO 3 ed 238" aria-label="Open page: When A Balloon Becomes A Giant Craft | Why Honest Witnesses Misjudge UFOs | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f_balloons_large_craft_9fef15-Illustration-1.webp' | relative_url }}" alt="Overview image for When A Balloon Becomes A Giant Craft | ifos causes of UFO 3 ed 238 distance size errors" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4008,7 +4008,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-distance-size-errors-849a5f-fireballs-nearby-ill-7099b5" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'fireballs/' | relative_url }}" title="Why Fireballs Look Closer Than They Are | ifos causes of UFO 3 ed 238 distance size errors" aria-label="Open page: Why Fireballs Look Closer Than They Are | ifos causes of UFO 3 ed 238 distance size errors">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'fireballs/' | relative_url }}" title="Why Fireballs Look Closer Than They Are | Why Honest Witnesses Misjudge UFOs | ifos causes of UFO 3 ed 238" aria-label="Open page: Why Fireballs Look Closer Than They Are | Why Honest Witnesses Misjudge UFOs | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f_fireballs_nearby_ill_7099b5-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Fireballs Look Closer Than They Are | ifos causes of UFO 3 ed 238 distance size errors" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4028,7 +4028,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-distance-size-errors-849a5f-bright-point-false-s-ae0dde" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'point-lights/' | relative_url }}" title="Why One Light Can Look Like a Craft | ifos causes of UFO 3 ed 238 distance size errors" aria-label="Open page: Why One Light Can Look Like a Craft | ifos causes of UFO 3 ed 238 distance size errors">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'point-lights/' | relative_url }}" title="Why One Light Can Look Like a Craft | Why Honest Witnesses Misjudge UFOs | ifos causes of UFO 3 ed 238" aria-label="Open page: Why One Light Can Look Like a Craft | Why Honest Witnesses Misjudge UFOs | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f_bright_point_false_s_ae0dde-Illustration-1.webp' | relative_url }}" alt="Overview image for Why One Light Can Look Like a Craft | ifos causes of UFO 3 ed 238 distance size errors" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4050,7 +4050,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-ifos---causes-of-ufo-3ed238-astronomical-charts-89e725" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'sky-charts/' | relative_url }}" title="How to Check a UFO Against the Sky | ifos causes of UFO" aria-label="Open page: How to Check a UFO Against the Sky | ifos causes of UFO">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'sky-charts/' | relative_url }}" title="How to Check a UFO Against the Sky | ifos causes of UFO 3 ed 238" aria-label="Open page: How to Check a UFO Against the Sky | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725-overview.webp' | relative_url }}" alt="Overview image for How to Check a UFO Against the Sky | ifos causes of UFO" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4072,7 +4072,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-astronomical-charts-89e725-stellarium-ufo-recre-d8b620" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'stellarium-use/' | relative_url }}" title="How to Rebuild a UFO Sky | ifos causes of UFO 3 ed 238 astronomical charts" aria-label="Open page: How to Rebuild a UFO Sky | ifos causes of UFO 3 ed 238 astronomical charts">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'stellarium-use/' | relative_url }}" title="How to Rebuild a UFO Sky | How to Check a UFO Against the Sky | ifos causes of UFO 3 ed 238" aria-label="Open page: How to Rebuild a UFO Sky | How to Check a UFO Against the Sky | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725_stellarium_ufo_recre_d8b620-Illustration-1.webp' | relative_url }}" alt="Overview image for How to Rebuild a UFO Sky | ifos causes of UFO 3 ed 238 astronomical charts" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4092,7 +4092,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-astronomical-charts-89e725-venus-ufo-chart-chec-ca09cd" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'when-investigators-compare-a-ufo/' | relative_url }}" title="Was the UFO Really Venus? | ifos causes of UFO 3 ed 238 astronomical charts" aria-label="Open page: Was the UFO Really Venus? | ifos causes of UFO 3 ed 238 astronomical charts">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'when-investigators-compare-a-ufo/' | relative_url }}" title="Was the UFO Really Venus? | How to Check a UFO Against the Sky | ifos causes of UFO 3 ed 238" aria-label="Open page: Was the UFO Really Venus? | How to Check a UFO Against the Sky | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725_venus_ufo_chart_chec_ca09cd-Illustration-1.webp' | relative_url }}" alt="Overview image for Was the UFO Really Venus? | ifos causes of UFO 3 ed 238 astronomical charts" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4112,7 +4112,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-astronomical-charts-89e725-jupiter-star-false-m-2bf34d" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'bright-objects/' | relative_url }}" title="When Jupiter or Sirius Looks Unidentified | ifos causes of UFO 3 ed 238 astronomical charts" aria-label="Open page: When Jupiter or Sirius Looks Unidentified | ifos causes of UFO 3 ed 238 astronomical charts">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'bright-objects/' | relative_url }}" title="When Jupiter or Sirius Looks Unidentified | How to Check a UFO Against the Sky | ifos causes of UFO 3 ed 238" aria-label="Open page: When Jupiter or Sirius Looks Unidentified | How to Check a UFO Against the Sky | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725_jupiter_star_false_m_2bf34d-Illustration-1.webp' | relative_url }}" alt="Overview image for When Jupiter or Sirius Looks Unidentified | ifos causes of UFO 3 ed 238 astronomical charts" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4132,7 +4132,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-astronomical-charts-89e725-horizon-planet-motio-f1371f" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'horizon-haze/' | relative_url }}" title="Why Low Planets Seem to Move | ifos causes of UFO 3 ed 238 astronomical charts" aria-label="Open page: Why Low Planets Seem to Move | ifos causes of UFO 3 ed 238 astronomical charts">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'horizon-haze/' | relative_url }}" title="Why Low Planets Seem to Move | How to Check a UFO Against the Sky | ifos causes of UFO 3 ed 238" aria-label="Open page: Why Low Planets Seem to Move | How to Check a UFO Against the Sky | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725_horizon_planet_motio_f1371f-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Low Planets Seem to Move | ifos causes of UFO 3 ed 238 astronomical charts" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4152,7 +4152,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-astronomical-charts-89e725-missing-ufo-sighting-dd6a86" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'missing-details/' | relative_url }}" title="Why Some UFO Charts Cannot Decide | ifos causes of UFO 3 ed 238 astronomical charts" aria-label="Open page: Why Some UFO Charts Cannot Decide | ifos causes of UFO 3 ed 238 astronomical charts">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'missing-details/' | relative_url }}" title="Why Some UFO Charts Cannot Decide | How to Check a UFO Against the Sky | ifos causes of UFO 3 ed 238" aria-label="Open page: Why Some UFO Charts Cannot Decide | How to Check a UFO Against the Sky | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725_missing_ufo_sighting_dd6a86-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Some UFO Charts Cannot Decide | ifos causes of UFO 3 ed 238 astronomical charts" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4174,7 +4174,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-ifos---causes-of-ufo-3ed238-twinkling-stars-ad8e32" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'stars/' | relative_url }}" title="Why Stars Flash Like Machines | ifos causes of UFO" aria-label="Open page: Why Stars Flash Like Machines | ifos causes of UFO">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'stars/' | relative_url }}" title="Why Stars Flash Like Machines | ifos causes of UFO 3 ed 238" aria-label="Open page: Why Stars Flash Like Machines | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32-overview.webp' | relative_url }}" alt="Overview image for Why Stars Flash Like Machines | ifos causes of UFO" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4196,7 +4196,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-twinkling-stars-ad8e32-sky-map-colour-light-8bcfea" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'sky-checks/' | relative_url }}" title="How to Check a Flashing Light Against the Sky | ifos causes of UFO 3 ed 238 twinkling stars" aria-label="Open page: How to Check a Flashing Light Against the Sky | ifos causes of UFO 3 ed 238 twinkling stars">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'sky-checks/' | relative_url }}" title="How to Check a Flashing Light Against the Sky | Why Stars Flash Like Machines | ifos causes of UFO 3 ed 238" aria-label="Open page: How to Check a Flashing Light Against the Sky | Why Stars Flash Like Machines | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32_sky_map_colour_light_8bcfea-Illustration-1.webp' | relative_url }}" alt="Overview image for How to Check a Flashing Light Against the Sky | ifos causes of UFO 3 ed 238 twinkling stars" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4216,7 +4216,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-twinkling-stars-ad8e32-thin-cloud-vanishing-121732" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'vanishing/' | relative_url }}" title="When a Star Suddenly Switches Off | ifos causes of UFO 3 ed 238 twinkling stars" aria-label="Open page: When a Star Suddenly Switches Off | ifos causes of UFO 3 ed 238 twinkling stars">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'vanishing/' | relative_url }}" title="When a Star Suddenly Switches Off | Why Stars Flash Like Machines | ifos causes of UFO 3 ed 238" aria-label="Open page: When a Star Suddenly Switches Off | Why Stars Flash Like Machines | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32_thin_cloud_vanishing_121732-Illustration-1.webp' | relative_url }}" alt="Overview image for When a Star Suddenly Switches Off | ifos causes of UFO 3 ed 238 twinkling stars" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4236,7 +4236,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-twinkling-stars-ad8e32-low-horizon-scintill-342cd6" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'low-horizon/' | relative_url }}" title="Why Low Stars Seem to Hover and Jerk | ifos causes of UFO 3 ed 238 twinkling stars" aria-label="Open page: Why Low Stars Seem to Hover and Jerk | ifos causes of UFO 3 ed 238 twinkling stars">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'low-horizon/' | relative_url }}" title="Why Low Stars Seem to Hover and Jerk | Why Stars Flash Like Machines | ifos causes of UFO 3 ed 238" aria-label="Open page: Why Low Stars Seem to Hover and Jerk | Why Stars Flash Like Machines | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32_low_horizon_scintill_342cd6-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Low Stars Seem to Hover and Jerk | ifos causes of UFO 3 ed 238 twinkling stars" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4256,7 +4256,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-twinkling-stars-ad8e32-stars-vs-planets-twi-434330" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'stars-vs-planets/' | relative_url }}" title="Why Planets Usually Twinkle Less Than Stars | ifos causes of UFO 3 ed 238 twinkling stars" aria-label="Open page: Why Planets Usually Twinkle Less Than Stars | ifos causes of UFO 3 ed 238 twinkling stars">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'stars-vs-planets/' | relative_url }}" title="Why Planets Usually Twinkle Less Than Stars | Why Stars Flash Like Machines | ifos causes of UFO 3 ed 238" aria-label="Open page: Why Planets Usually Twinkle Less Than Stars | Why Stars Flash Like Machines | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32_stars_vs_planets_twi_434330-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Planets Usually Twinkle Less Than Stars | ifos causes of UFO 3 ed 238 twinkling stars" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4276,7 +4276,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-twinkling-stars-ad8e32-sirius-colour-flashe-e42e83" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'sirius/' | relative_url }}" title="Why Sirius So Often Looks Like a UFO | ifos causes of UFO 3 ed 238 twinkling stars" aria-label="Open page: Why Sirius So Often Looks Like a UFO | ifos causes of UFO 3 ed 238 twinkling stars">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'sirius/' | relative_url }}" title="Why Sirius So Often Looks Like a UFO | Why Stars Flash Like Machines | ifos causes of UFO 3 ed 238" aria-label="Open page: Why Sirius So Often Looks Like a UFO | Why Stars Flash Like Machines | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32_sirius_colour_flashe_e42e83-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Sirius So Often Looks Like a UFO | ifos causes of UFO 3 ed 238 twinkling stars" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4298,7 +4298,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-ifos---causes-of-ufo-3ed238-ufo-status-labels-409edb" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'status-labels/' | relative_url }}" title="UFO Does Not Mean Alien | ifos causes of UFO" aria-label="Open page: UFO Does Not Mean Alien | ifos causes of UFO">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'status-labels/' | relative_url }}" title="UFO Does Not Mean Alien | ifos causes of UFO 3 ed 238" aria-label="Open page: UFO Does Not Mean Alien | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb-overview.webp' | relative_url }}" alt="Overview image for UFO Does Not Mean Alien | ifos causes of UFO" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4320,7 +4320,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-ufo-status-labels-409edb-aaro-origin-claims-e6d57c" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'aaro-claims/' | relative_url }}" title="What AARO Says Evidence Still Has Not Shown | ifos causes of UFO 3 ed 238 UFO status labels" aria-label="Open page: What AARO Says Evidence Still Has Not Shown | ifos causes of UFO 3 ed 238 UFO status labels">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'aaro-claims/' | relative_url }}" title="What AARO Says Evidence Still Has Not Shown | UFO Does Not Mean Alien | ifos causes of UFO 3 ed 238" aria-label="Open page: What AARO Says Evidence Still Has Not Shown | UFO Does Not Mean Alien | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb_aaro_origin_claims_e6d57c-Illustration-1.webp' | relative_url }}" alt="Overview image for What AARO Says Evidence Still Has Not Shown | ifos causes of UFO 3 ed 238 UFO status labels" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4340,7 +4340,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-ufo-status-labels-409edb-ufo-label-changes-1645b2" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'label-changes/' | relative_url }}" title="When Does a UFO Stop Being a UFO? | ifos causes of UFO 3 ed 238 UFO status labels" aria-label="Open page: When Does a UFO Stop Being a UFO? | ifos causes of UFO 3 ed 238 UFO status labels">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'label-changes/' | relative_url }}" title="When Does a UFO Stop Being a UFO? | UFO Does Not Mean Alien | ifos causes of UFO 3 ed 238" aria-label="Open page: When Does a UFO Stop Being a UFO? | UFO Does Not Mean Alien | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb_ufo_label_changes_1645b2-Illustration-1.webp' | relative_url }}" alt="Overview image for When Does a UFO Stop Being a UFO? | ifos causes of UFO 3 ed 238 UFO status labels" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4360,7 +4360,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-ufo-status-labels-409edb-nasa-uap-data-qualit-c12aeb" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'nasa-data/' | relative_url }}" title="Why NASA Focused on Better UAP Data | ifos causes of UFO 3 ed 238 UFO status labels" aria-label="Open page: Why NASA Focused on Better UAP Data | ifos causes of UFO 3 ed 238 UFO status labels">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'nasa-data/' | relative_url }}" title="Why NASA Focused on Better UAP Data | UFO Does Not Mean Alien | ifos causes of UFO 3 ed 238" aria-label="Open page: Why NASA Focused on Better UAP Data | UFO Does Not Mean Alien | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb_nasa_uap_data_qualit_c12aeb-Illustration-1.webp' | relative_url }}" alt="Overview image for Why NASA Focused on Better UAP Data | ifos causes of UFO 3 ed 238 UFO status labels" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4380,7 +4380,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-ufo-status-labels-409edb-ufo-reporting-stigma-5d03a6" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'stigma/' | relative_url }}" title="Why UFO Wording Changes What People Report | ifos causes of UFO 3 ed 238 UFO status labels" aria-label="Open page: Why UFO Wording Changes What People Report | ifos causes of UFO 3 ed 238 UFO status labels">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'stigma/' | relative_url }}" title="Why UFO Wording Changes What People Report | UFO Does Not Mean Alien | ifos causes of UFO 3 ed 238" aria-label="Open page: Why UFO Wording Changes What People Report | UFO Does Not Mean Alien | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb_ufo_reporting_stigma_5d03a6-Illustration-1.webp' | relative_url }}" alt="Overview image for Why UFO Wording Changes What People Report | ifos causes of UFO 3 ed 238 UFO status labels" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4400,7 +4400,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-ufo-status-labels-409edb-unresolved-not-alien-f8453e" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'unresolved-cases-3e7e8b/' | relative_url }}" title="Why Unresolved Does Not Mean Alien | ifos causes of UFO 3 ed 238 UFO status labels" aria-label="Open page: Why Unresolved Does Not Mean Alien | ifos causes of UFO 3 ed 238 UFO status labels">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'unresolved-cases-3e7e8b/' | relative_url }}" title="Why Unresolved Does Not Mean Alien | UFO Does Not Mean Alien | ifos causes of UFO 3 ed 238" aria-label="Open page: Why Unresolved Does Not Mean Alien | UFO Does Not Mean Alien | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb_unresolved_not_alien_f8453e-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Unresolved Does Not Mean Alien | ifos causes of UFO 3 ed 238 UFO status labels" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4422,7 +4422,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-ifos---causes-of-ufo-3ed238-stronger-ufo-reports-671b2d" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'strong-cases/' | relative_url }}" title="What Makes a UFO Report Harder to Explain | ifos causes of UFO" aria-label="Open page: What Makes a UFO Report Harder to Explain | ifos causes of UFO">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'strong-cases/' | relative_url }}" title="What Makes a UFO Report Harder to Explain | ifos causes of UFO 3 ed 238" aria-label="Open page: What Makes a UFO Report Harder to Explain | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d-overview.webp' | relative_url }}" alt="Overview image for What Makes a UFO Report Harder to Explain | ifos causes of UFO" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4444,7 +4444,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-stronger-ufo-reports-671b2d-geipan-unknown-categ-9e28d1" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'geipan/' | relative_url }}" title="Not All Unidentified UFO Cases Are Equal | ifos causes of UFO 3 ed 238 stronger UFO reports" aria-label="Open page: Not All Unidentified UFO Cases Are Equal | ifos causes of UFO 3 ed 238 stronger UFO reports">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'geipan/' | relative_url }}" title="Not All Unidentified UFO Cases Are Equal | What Makes a UFO Report Harder to Explain | ifos causes of UFO 3 ed 238" aria-label="Open page: Not All Unidentified UFO Cases Are Equal | What Makes a UFO Report Harder to Explain | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d_geipan_unknown_categ_9e28d1-Illustration-1.webp' | relative_url }}" alt="Overview image for Not All Unidentified UFO Cases Are Equal | ifos causes of UFO 3 ed 238 stronger UFO reports" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4464,7 +4464,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-stronger-ufo-reports-671b2d-time-direction-ufo-r-74a6dc" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'time-checks/' | relative_url }}" title="The Details That Make UFO Reports Testable | ifos causes of UFO 3 ed 238 stronger UFO reports" aria-label="Open page: The Details That Make UFO Reports Testable | ifos causes of UFO 3 ed 238 stronger UFO reports">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'time-checks/' | relative_url }}" title="The Details That Make UFO Reports Testable | What Makes a UFO Report Harder to Explain | ifos causes of UFO 3 ed 238" aria-label="Open page: The Details That Make UFO Reports Testable | What Makes a UFO Report Harder to Explain | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d_time_direction_ufo_r_74a6dc-Illustration-1.webp' | relative_url }}" alt="Overview image for The Details That Make UFO Reports Testable | ifos causes of UFO 3 ed 238 stronger UFO reports" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4484,7 +4484,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-stronger-ufo-reports-671b2d-lakenheath-radar-vis-3b9296" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'lakenheath/' | relative_url }}" title="The Radar Visual Case That Would Not Settle | ifos causes of UFO 3 ed 238 stronger UFO reports" aria-label="Open page: The Radar Visual Case That Would Not Settle | ifos causes of UFO 3 ed 238 stronger UFO reports">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'lakenheath/' | relative_url }}" title="The Radar Visual Case That Would Not Settle | What Makes a UFO Report Harder to Explain | ifos causes of UFO 3 ed 238" aria-label="Open page: The Radar Visual Case That Would Not Settle | What Makes a UFO Report Harder to Explain | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d_lakenheath_radar_vis_3b9296-Illustration-1.webp' | relative_url }}" alt="Overview image for The Radar Visual Case That Would Not Settle | ifos causes of UFO 3 ed 238 stronger UFO reports" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4504,7 +4504,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-stronger-ufo-reports-671b2d-multi-sensor-ufo-che-1fd47c" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'multi-sensor/' | relative_url }}" title="When Do Multiple UFO Records Really Agree? | ifos causes of UFO 3 ed 238 stronger UFO reports" aria-label="Open page: When Do Multiple UFO Records Really Agree? | ifos causes of UFO 3 ed 238 stronger UFO reports">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'multi-sensor/' | relative_url }}" title="When Do Multiple UFO Records Really Agree? | What Makes a UFO Report Harder to Explain | ifos causes of UFO 3 ed 238" aria-label="Open page: When Do Multiple UFO Records Really Agree? | What Makes a UFO Report Harder to Explain | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d_multi_sensor_ufo_che_1fd47c-Illustration-1.webp' | relative_url }}" alt="Overview image for When Do Multiple UFO Records Really Agree? | ifos causes of UFO 3 ed 238 stronger UFO reports" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4524,7 +4524,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-stronger-ufo-reports-671b2d-nimitz-tic-tac-evide-a02edb" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'nimitz/' | relative_url }}" title="Why the Nimitz Tic Tac Still Matters | ifos causes of UFO 3 ed 238 stronger UFO reports" aria-label="Open page: Why the Nimitz Tic Tac Still Matters | ifos causes of UFO 3 ed 238 stronger UFO reports">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'nimitz/' | relative_url }}" title="Why the Nimitz Tic Tac Still Matters | What Makes a UFO Report Harder to Explain | ifos causes of UFO 3 ed 238" aria-label="Open page: Why the Nimitz Tic Tac Still Matters | What Makes a UFO Report Harder to Explain | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d_nimitz_tic_tac_evide_a02edb-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the Nimitz Tic Tac Still Matters | ifos causes of UFO 3 ed 238 stronger UFO reports" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4546,7 +4546,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-ifos---causes-of-ufo-3ed238-uk-mod-files-ed9948" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'uk-files/' | relative_url }}" title="What the UK UFO Files Reveal | ifos causes of UFO" aria-label="Open page: What the UK UFO Files Reveal | ifos causes of UFO">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'uk-files/' | relative_url }}" title="What the UK UFO Files Reveal | ifos causes of UFO 3 ed 238" aria-label="Open page: What the UK UFO Files Reveal | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948-overview.webp' | relative_url }}" alt="Overview image for What the UK UFO Files Reveal | ifos causes of UFO" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4568,7 +4568,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-uk-mod-files-ed9948-lanterns-2009-surge-b31cbb" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'lantern-surge/' | relative_url }}" title="Did lanterns fuel the Mo D UFO surge? | ifos causes of UFO 3 ed 238 UK mod files" aria-label="Open page: Did lanterns fuel the Mo D UFO surge? | ifos causes of UFO 3 ed 238 UK mod files">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'lantern-surge/' | relative_url }}" title="Did lanterns fuel the Mo D UFO surge? | What the UK UFO Files Reveal | ifos causes of UFO 3 ed 238" aria-label="Open page: Did lanterns fuel the Mo D UFO surge? | What the UK UFO Files Reveal | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948_lanterns_2009_surge_b31cbb-Illustration-1.webp' | relative_url }}" alt="Overview image for Did lanterns fuel the Mo D UFO surge? | ifos causes of UFO 3 ed 238 UK mod files" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4588,7 +4588,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-uk-mod-files-ed9948-mod-light-reports-if-af1b6f" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'light-reports/' | relative_url }}" title="How ordinary lights became Mo D UFO reports | ifos causes of UFO 3 ed 238 UK mod files" aria-label="Open page: How ordinary lights became Mo D UFO reports | ifos causes of UFO 3 ed 238 UK mod files">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'light-reports/' | relative_url }}" title="How ordinary lights became Mo D UFO reports | What the UK UFO Files Reveal | ifos causes of UFO 3 ed 238" aria-label="Open page: How ordinary lights became Mo D UFO reports | What the UK UFO Files Reveal | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948_mod_light_reports_if_af1b6f-Illustration-1.webp' | relative_url }}" alt="Overview image for How ordinary lights became Mo D UFO reports | ifos causes of UFO 3 ed 238 UK mod files" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4608,7 +4608,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-uk-mod-files-ed9948-project-condign-defe-276efb" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'condign/' | relative_url }}" title="What Project Condign really asked | ifos causes of UFO 3 ed 238 UK mod files" aria-label="Open page: What Project Condign really asked | ifos causes of UFO 3 ed 238 UK mod files">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'condign/' | relative_url }}" title="What Project Condign really asked | What the UK UFO Files Reveal | ifos causes of UFO 3 ed 238" aria-label="Open page: What Project Condign really asked | What the UK UFO Files Reveal | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948_project_condign_defe_276efb-Illustration-1.webp' | relative_url }}" alt="Overview image for What Project Condign really asked | ifos causes of UFO 3 ed 238 UK mod files" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4628,7 +4628,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-uk-mod-files-ed9948-mod-ufo-desk-closure-1bf9cc" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'desk-closure/' | relative_url }}" title="Why Britain shut its UFO desk | ifos causes of UFO 3 ed 238 UK mod files" aria-label="Open page: Why Britain shut its UFO desk | ifos causes of UFO 3 ed 238 UK mod files">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'desk-closure/' | relative_url }}" title="Why Britain shut its UFO desk | What the UK UFO Files Reveal | ifos causes of UFO 3 ed 238" aria-label="Open page: Why Britain shut its UFO desk | What the UK UFO Files Reveal | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948_mod_ufo_desk_closure_1bf9cc-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Britain shut its UFO desk | ifos causes of UFO 3 ed 238 UK mod files" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4648,7 +4648,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-uk-mod-files-ed9948-mod-hotline-weak-evi-b46c22" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'hotline-data/' | relative_url }}" title="Why easy UFO reporting made weak evidence | ifos causes of UFO 3 ed 238 UK mod files" aria-label="Open page: Why easy UFO reporting made weak evidence | ifos causes of UFO 3 ed 238 UK mod files">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'hotline-data/' | relative_url }}" title="Why easy UFO reporting made weak evidence | What the UK UFO Files Reveal | ifos causes of UFO 3 ed 238" aria-label="Open page: Why easy UFO reporting made weak evidence | What the UK UFO Files Reveal | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948_mod_hotline_weak_evi_b46c22-Illustration-1.webp' | relative_url }}" alt="Overview image for Why easy UFO reporting made weak evidence | ifos causes of UFO 3 ed 238 UK mod files" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4670,7 +4670,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-ifos---causes-of-ufo-3ed238-unresolved-cases-0eab06" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'unresolved-cases/' | relative_url }}" title="Why Some UFO Cases Stay Open | ifos causes of UFO" aria-label="Open page: Why Some UFO Cases Stay Open | ifos causes of UFO">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'unresolved-cases/' | relative_url }}" title="Why Some UFO Cases Stay Open | ifos causes of UFO 3 ed 238" aria-label="Open page: Why Some UFO Cases Stay Open | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06-overview.webp' | relative_url }}" alt="Overview image for Why Some UFO Cases Stay Open | ifos causes of UFO" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4692,7 +4692,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-unresolved-cases-0eab06-active-archives-uap-0b0a4a" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'active-archives/' | relative_url }}" title="Can Old UFO Reports Become Useful Later? | ifos causes of UFO 3 ed 238 unresolved cases" aria-label="Open page: Can Old UFO Reports Become Useful Later? | ifos causes of UFO 3 ed 238 unresolved cases">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'active-archives/' | relative_url }}" title="Can Old UFO Reports Become Useful Later? | Why Some UFO Cases Stay Open | ifos causes of UFO 3 ed 238" aria-label="Open page: Can Old UFO Reports Become Useful Later? | Why Some UFO Cases Stay Open | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06_active_archives_uap_0b0a4a-Illustration-1.webp' | relative_url }}" alt="Overview image for Can Old UFO Reports Become Useful Later? | ifos causes of UFO 3 ed 238 unresolved cases" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4712,7 +4712,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-unresolved-cases-0eab06-weak-files-unresolve-f6f422" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'weak-files/' | relative_url }}" title="When Is Unresolved the Honest Answer? | ifos causes of UFO 3 ed 238 unresolved cases" aria-label="Open page: When Is Unresolved the Honest Answer? | ifos causes of UFO 3 ed 238 unresolved cases">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'weak-files/' | relative_url }}" title="When Is Unresolved the Honest Answer? | Why Some UFO Cases Stay Open | ifos causes of UFO 3 ed 238" aria-label="Open page: When Is Unresolved the Honest Answer? | Why Some UFO Cases Stay Open | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06_weak_files_unresolve_f6f422-Illustration-1.webp' | relative_url }}" alt="Overview image for When Is Unresolved the Honest Answer? | ifos causes of UFO 3 ed 238 unresolved cases" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4732,7 +4732,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-unresolved-cases-0eab06-starlink-like-lights-681edf" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'starlink-gaps/' | relative_url }}" title="Why Satellite Lights Still Leave Open Cases | ifos causes of UFO 3 ed 238 unresolved cases" aria-label="Open page: Why Satellite Lights Still Leave Open Cases | ifos causes of UFO 3 ed 238 unresolved cases">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'starlink-gaps/' | relative_url }}" title="Why Satellite Lights Still Leave Open Cases | Why Some UFO Cases Stay Open | ifos causes of UFO 3 ed 238" aria-label="Open page: Why Satellite Lights Still Leave Open Cases | Why Some UFO Cases Stay Open | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06_starlink_like_lights_681edf-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Satellite Lights Still Leave Open Cases | ifos causes of UFO 3 ed 238 unresolved cases" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4752,7 +4752,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-unresolved-cases-0eab06-witness-estimates-uf-4a62d6" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'witness-limits/' | relative_url }}" title="Why Sky Witnesses Disagree So Often | ifos causes of UFO 3 ed 238 unresolved cases" aria-label="Open page: Why Sky Witnesses Disagree So Often | ifos causes of UFO 3 ed 238 unresolved cases">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'witness-limits/' | relative_url }}" title="Why Sky Witnesses Disagree So Often | Why Some UFO Cases Stay Open | ifos causes of UFO 3 ed 238" aria-label="Open page: Why Sky Witnesses Disagree So Often | Why Some UFO Cases Stay Open | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06_witness_estimates_uf_4a62d6-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Sky Witnesses Disagree So Often | ifos causes of UFO 3 ed 238 unresolved cases" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4772,7 +4772,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-unresolved-cases-0eab06-sensor-video-context-a04326" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'sensor-context/' | relative_url }}" title="Why UFO Videos Need More Than Footage | ifos causes of UFO 3 ed 238 unresolved cases" aria-label="Open page: Why UFO Videos Need More Than Footage | ifos causes of UFO 3 ed 238 unresolved cases">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'sensor-context/' | relative_url }}" title="Why UFO Videos Need More Than Footage | Why Some UFO Cases Stay Open | ifos causes of UFO 3 ed 238" aria-label="Open page: Why UFO Videos Need More Than Footage | Why Some UFO Cases Stay Open | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06_sensor_video_context_a04326-Illustration-1.webp' | relative_url }}" alt="Overview image for Why UFO Videos Need More Than Footage | ifos causes of UFO 3 ed 238 unresolved cases" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4794,7 +4794,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-ifos---causes-of-ufo-3ed238-venus-bright-planets-216080" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'venus/' | relative_url }}" title="Is That UFO Really Venus? | ifos causes of UFO" aria-label="Open page: Is That UFO Really Venus? | ifos causes of UFO">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'venus/' | relative_url }}" title="Is That UFO Really Venus? | ifos causes of UFO 3 ed 238" aria-label="Open page: Is That UFO Really Venus? | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080-overview.webp' | relative_url }}" alt="Overview image for Is That UFO Really Venus? | ifos causes of UFO" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4816,7 +4816,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-venus-bright-planets-216080-checking-ufo-planet-d2af8c" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'sky-checks-573b86/' | relative_url }}" title="How to Test the Planet Explanation | ifos causes of UFO 3 ed 238 venus bright planets" aria-label="Open page: How to Test the Planet Explanation | ifos causes of UFO 3 ed 238 venus bright planets">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'sky-checks-573b86/' | relative_url }}" title="How to Test the Planet Explanation | Is That UFO Really Venus? | ifos causes of UFO 3 ed 238" aria-label="Open page: How to Test the Planet Explanation | Is That UFO Really Venus? | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_checking_ufo_planet_d2af8c-Illustration-1.webp' | relative_url }}" alt="Overview image for How to Test the Planet Explanation | ifos causes of UFO 3 ed 238 venus bright planets" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4836,7 +4836,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-venus-bright-planets-216080-planet-alignment-ufo-8c38eb" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'formations-183e77/' | relative_url }}" title="When Planets Look Like a Formation | ifos causes of UFO 3 ed 238 venus bright planets" aria-label="Open page: When Planets Look Like a Formation | ifos causes of UFO 3 ed 238 venus bright planets">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'formations-183e77/' | relative_url }}" title="When Planets Look Like a Formation | Is That UFO Really Venus? | ifos causes of UFO 3 ed 238" aria-label="Open page: When Planets Look Like a Formation | Is That UFO Really Venus? | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_planet_alignment_ufo_8c38eb-Illustration-1.webp' | relative_url }}" alt="Overview image for When Planets Look Like a Formation | ifos causes of UFO 3 ed 238 venus bright planets" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4856,7 +4856,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-venus-bright-planets-216080-planet-following-obs-e4b967" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'following-lights/' | relative_url }}" title="Why a Planet Seems to Follow You | ifos causes of UFO 3 ed 238 venus bright planets" aria-label="Open page: Why a Planet Seems to Follow You | ifos causes of UFO 3 ed 238 venus bright planets">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'following-lights/' | relative_url }}" title="Why a Planet Seems to Follow You | Is That UFO Really Venus? | ifos causes of UFO 3 ed 238" aria-label="Open page: Why a Planet Seems to Follow You | Is That UFO Really Venus? | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_planet_following_obs_e4b967-Illustration-1.webp' | relative_url }}" alt="Overview image for Why a Planet Seems to Follow You | ifos causes of UFO 3 ed 238 venus bright planets" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4876,7 +4876,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-venus-bright-planets-216080-horizon-planet-color-10ad06" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'color-shifts/' | relative_url }}" title="Why Low Planets Seem to Change Colour | ifos causes of UFO 3 ed 238 venus bright planets" aria-label="Open page: Why Low Planets Seem to Change Colour | ifos causes of UFO 3 ed 238 venus bright planets">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'color-shifts/' | relative_url }}" title="Why Low Planets Seem to Change Colour | Is That UFO Really Venus? | ifos causes of UFO 3 ed 238" aria-label="Open page: Why Low Planets Seem to Change Colour | Is That UFO Really Venus? | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_horizon_planet_color_10ad06-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Low Planets Seem to Change Colour | ifos causes of UFO 3 ed 238 venus bright planets" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4896,7 +4896,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-venus-bright-planets-216080-venus-false-distance-bfe908" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'bright-venus/' | relative_url }}" title="Why Venus Can Look Too Close | ifos causes of UFO 3 ed 238 venus bright planets" aria-label="Open page: Why Venus Can Look Too Close | ifos causes of UFO 3 ed 238 venus bright planets">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'bright-venus/' | relative_url }}" title="Why Venus Can Look Too Close | Is That UFO Really Venus? | ifos causes of UFO 3 ed 238" aria-label="Open page: Why Venus Can Look Too Close | Is That UFO Really Venus? | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_venus_false_distance_bfe908-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Venus Can Look Too Close | ifos causes of UFO 3 ed 238 venus bright planets" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4918,7 +4918,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-ifos---causes-of-ufo-3ed238-weather-records-2fcf13" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'weather-records/' | relative_url }}" title="Weather Clues That Explain Strange Lights | ifos causes of UFO" aria-label="Open page: Weather Clues That Explain Strange Lights | ifos causes of UFO">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'weather-records/' | relative_url }}" title="Weather Clues That Explain Strange Lights | ifos causes of UFO 3 ed 238" aria-label="Open page: Weather Clues That Explain Strange Lights | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13-overview.webp' | relative_url }}" alt="Overview image for Weather Clues That Explain Strange Lights | ifos causes of UFO" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4940,7 +4940,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-weather-records-2fcf13-cloud-ceiling-vanish-55f9b7" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'cloud-vanish/' | relative_url }}" title="Did the UFO vanish into cloud? | ifos causes of UFO 3 ed 238 weather records" aria-label="Open page: Did the UFO vanish into cloud? | ifos causes of UFO 3 ed 238 weather records">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'cloud-vanish/' | relative_url }}" title="Did the UFO vanish into cloud? | Weather Clues That Explain Strange Lights | ifos causes of UFO 3 ed 238" aria-label="Open page: Did the UFO vanish into cloud? | Weather Clues That Explain Strange Lights | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13_cloud_ceiling_vanish_55f9b7-Illustration-1.webp' | relative_url }}" alt="Overview image for Did the UFO vanish into cloud? | ifos causes of UFO 3 ed 238 weather records" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4960,7 +4960,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-weather-records-2fcf13-blue-book-weather-qu-16385d" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'blue-book-8d9011/' | relative_url }}" title="The weather questions Blue Book needed answered | ifos causes of UFO 3 ed 238 weather records" aria-label="Open page: The weather questions Blue Book needed answered | ifos causes of UFO 3 ed 238 weather records">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'blue-book-8d9011/' | relative_url }}" title="The weather questions Blue Book needed answered | Weather Clues That Explain Strange Lights | ifos causes of UFO 3 ed 238" aria-label="Open page: The weather questions Blue Book needed answered | Weather Clues That Explain Strange Lights | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13_blue_book_weather_qu_16385d-Illustration-1.webp' | relative_url }}" alt="Overview image for The weather questions Blue Book needed answered | ifos causes of UFO 3 ed 238 weather records" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4980,7 +4980,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-weather-records-2fcf13-fog-distance-limits-e658d9" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'fog-limits/' | relative_url }}" title="When fog makes UFO distances fall apart | ifos causes of UFO 3 ed 238 weather records" aria-label="Open page: When fog makes UFO distances fall apart | ifos causes of UFO 3 ed 238 weather records">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'fog-limits/' | relative_url }}" title="When fog makes UFO distances fall apart | Weather Clues That Explain Strange Lights | ifos causes of UFO 3 ed 238" aria-label="Open page: When fog makes UFO distances fall apart | Weather Clues That Explain Strange Lights | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13_fog_distance_limits_e658d9-Illustration-1.webp' | relative_url }}" alt="Overview image for When fog makes UFO distances fall apart | ifos causes of UFO 3 ed 238 weather records" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -5000,7 +5000,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-weather-records-2fcf13-rain-light-halos-953601" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'rain-halos/' | relative_url }}" title="When rain turns lights into UFOs | ifos causes of UFO 3 ed 238 weather records" aria-label="Open page: When rain turns lights into UFOs | ifos causes of UFO 3 ed 238 weather records">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'rain-halos/' | relative_url }}" title="When rain turns lights into UFOs | Weather Clues That Explain Strange Lights | ifos causes of UFO 3 ed 238" aria-label="Open page: When rain turns lights into UFOs | Weather Clues That Explain Strange Lights | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13_rain_light_halos_953601-Illustration-1.webp' | relative_url }}" alt="Overview image for When rain turns lights into UFOs | ifos causes of UFO 3 ed 238 weather records" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -5020,7 +5020,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-weather-records-2fcf13-haze-planet-reports-a4be32" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'haze-planets/' | relative_url }}" title="Why a low planet can look alive | ifos causes of UFO 3 ed 238 weather records" aria-label="Open page: Why a low planet can look alive | ifos causes of UFO 3 ed 238 weather records">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'haze-planets/' | relative_url }}" title="Why a low planet can look alive | Weather Clues That Explain Strange Lights | ifos causes of UFO 3 ed 238" aria-label="Open page: Why a low planet can look alive | Weather Clues That Explain Strange Lights | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13_haze_planet_reports_a4be32-Illustration-1.webp' | relative_url }}" alt="Overview image for Why a low planet can look alive | ifos causes of UFO 3 ed 238 weather records" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -5042,7 +5042,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-ifos---causes-of-ufo-3ed238-wind-data-33671a" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'wind-data/' | relative_url }}" title="Following a UFO With the Wind | ifos causes of UFO" aria-label="Open page: Following a UFO With the Wind | ifos causes of UFO">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'wind-data/' | relative_url }}" title="Following a UFO With the Wind | ifos causes of UFO 3 ed 238" aria-label="Open page: Following a UFO With the Wind | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_wind_data_33671a-overview.webp' | relative_url }}" alt="Overview image for Following a UFO With the Wind | ifos causes of UFO" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -5064,7 +5064,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-wind-data-33671a-wind-direction-mista-668791" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'wind-direction/' | relative_url }}" title="Are you reading the wind backwards? | ifos causes of UFO 3 ed 238 wind data" aria-label="Open page: Are you reading the wind backwards? | ifos causes of UFO 3 ed 238 wind data">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'wind-direction/' | relative_url }}" title="Are you reading the wind backwards? | Following a UFO With the Wind | ifos causes of UFO 3 ed 238" aria-label="Open page: Are you reading the wind backwards? | Following a UFO With the Wind | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_wind_data_33671a_wind_direction_mista_668791-Illustration-1.webp' | relative_url }}" alt="Overview image for Are you reading the wind backwards? | ifos causes of UFO 3 ed 238 wind data" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -5084,7 +5084,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-wind-data-33671a-trajectory-model-tes-2a4d4e" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'trajectories/' | relative_url }}" title="Can a model trace the UFO&#x27;s drift? | ifos causes of UFO 3 ed 238 wind data" aria-label="Open page: Can a model trace the UFO&#x27;s drift? | ifos causes of UFO 3 ed 238 wind data">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'trajectories/' | relative_url }}" title="Can a model trace the UFO's drift? | Following a UFO With the Wind | ifos causes of UFO 3 ed 238" aria-label="Open page: Can a model trace the UFO's drift? | Following a UFO With the Wind | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_wind_data_33671a_trajectory_model_tes_2a4d4e-Illustration-1.webp' | relative_url }}" alt="Overview image for Can a model trace the UFO&#x27;s drift? | ifos causes of UFO 3 ed 238 wind data" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -5104,7 +5104,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-wind-data-33671a-sky-lantern-drift-76f3ca" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'lanterns-7293f5/' | relative_url }}" title="Do orange lights move like lanterns? | ifos causes of UFO 3 ed 238 wind data" aria-label="Open page: Do orange lights move like lanterns? | ifos causes of UFO 3 ed 238 wind data">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'lanterns-7293f5/' | relative_url }}" title="Do orange lights move like lanterns? | Following a UFO With the Wind | ifos causes of UFO 3 ed 238" aria-label="Open page: Do orange lights move like lanterns? | Following a UFO With the Wind | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_wind_data_33671a_sky_lantern_drift_76f3ca-Illustration-1.webp' | relative_url }}" alt="Overview image for Do orange lights move like lanterns? | ifos causes of UFO 3 ed 238 wind data" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -5124,7 +5124,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-wind-data-33671a-surface-wind-limits-b3a52d" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'surface-wind/' | relative_url }}" title="When ground wind tells the wrong story | ifos causes of UFO 3 ed 238 wind data" aria-label="Open page: When ground wind tells the wrong story | ifos causes of UFO 3 ed 238 wind data">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'surface-wind/' | relative_url }}" title="When ground wind tells the wrong story | Following a UFO With the Wind | ifos causes of UFO 3 ed 238" aria-label="Open page: When ground wind tells the wrong story | Following a UFO With the Wind | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_wind_data_33671a_surface_wind_limits_b3a52d-Illustration-1.webp' | relative_url }}" alt="Overview image for When ground wind tells the wrong story | ifos causes of UFO 3 ed 238 wind data" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -5144,7 +5144,7 @@ site_image_description: A rooftop night-sky scene with observers comparing a bri
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-ifos---causes-of-ufo-3ed238-wind-data-33671a-upper-air-soundings-5b2a89" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'soundings/' | relative_url }}" title="Why balloons can change course overhead | ifos causes of UFO 3 ed 238 wind data" aria-label="Open page: Why balloons can change course overhead | ifos causes of UFO 3 ed 238 wind data">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'soundings/' | relative_url }}" title="Why balloons can change course overhead | Following a UFO With the Wind | ifos causes of UFO 3 ed 238" aria-label="Open page: Why balloons can change course overhead | Following a UFO With the Wind | ifos causes of UFO 3 ed 238">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/ifos_-_causes_of_UFO_3ed238_wind_data_33671a_upper_air_soundings_5b2a89-Illustration-1.webp' | relative_url }}" alt="Overview image for Why balloons can change course overhead | ifos causes of UFO 3 ed 238 wind data" loading="lazy" decoding="async" fetchpriority="low">
 </div>

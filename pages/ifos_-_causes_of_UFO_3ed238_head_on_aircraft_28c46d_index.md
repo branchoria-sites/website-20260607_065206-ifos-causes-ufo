@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-18 18:20:16'
 title: A Head On Aircraft Can Look Like A Stationary Light Because It Sub-Topic Index
 title_full: A Head On Aircraft Can Look Like A Stationary Light Because It Sub-Topic
   Index

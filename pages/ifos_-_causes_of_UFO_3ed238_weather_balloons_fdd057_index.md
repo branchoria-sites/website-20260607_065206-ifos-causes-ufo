@@ -4,7 +4,7 @@ title_full: Balloons Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /ifos-causes-of-ufo-3ed238-weather/
+permalink: /ifos-causes-of-ufo-3ed238-weather-balloons/
 description: Focused pages that expand on Balloons.
 date: '2026'
 layout: default
